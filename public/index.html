@@ -9,53 +9,118 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css?v=3">
-  <style>
-    /* ===== 強制覆寫版本：電影感色盤 ===== */
+    /* ===== UI UX Pro Max: 電影感 × 歐式古典 × 膠卷底片 ===== */
     :root {
-      --primary: hsl(0, 65%, 42%) !important;
-      --primary-light: hsl(0, 65%, 55%) !important;
-      --primary-dark: hsl(0, 65%, 28%) !important;
-      --accent: hsl(42, 75%, 54%) !important;
-      --accent-light: hsl(42, 90%, 68%) !important;
-      --bg-0: hsl(210, 20%, 4%) !important;
-      --bg-1: hsl(215, 18%, 7%) !important;
-      --bg-2: hsl(215, 16%, 11%) !important;
-      --bg-3: hsl(215, 14%, 16%) !important;
-      --bg-card: hsla(215, 18%, 9%, 0.85) !important;
-      --border: hsla(42, 30%, 70%, 0.07) !important;
-      --text-0: hsl(42, 15%, 92%) !important;
-      --text-1: hsl(42, 10%, 72%) !important;
-      --text-2: hsl(220, 10%, 48%) !important;
+      /* 色彩系統：古典電影院 */
+      --primary: hsl(356, 60%, 35%) !important; /* 復古絲絨紅 */
+      --primary-light: hsl(356, 60%, 45%) !important;
+      --primary-dark: hsl(356, 60%, 20%) !important;
+      --accent: hsl(42, 60%, 45%) !important; /* 骨董黃銅金 */
+      --accent-light: #C9A66B !important; 
+      --bg-0: #050505 !important; /* 電影黑 */
+      --bg-1: #0A0A0A !important;
+      --bg-2: #121010 !important;
+      --bg-3: #1B1818 !important;
+      --bg-card: hsla(0, 0%, 5%, 0.85) !important;
+      --border: hsla(42, 50%, 50%, 0.15) !important;
+      --text-0: #E8E2D2 !important; /* 泛黃羊皮紙白 */
+      --text-1: #C2BAA6 !important;
+      --text-2: #8C8470 !important;
     }
-    body { background: hsl(210, 20%, 4%) !important; color: hsl(42,15%,92%) !important; }
-    .navbar { background: hsla(210, 22%, 4%, 0.92) !important; border-bottom-color: hsla(0,65%,42%,0.3) !important; }
-    .navbar::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px; background: linear-gradient(90deg, transparent, hsl(0,65%,42%), hsl(42,70%,38%), transparent) !important; }
-    .nav-title { background: linear-gradient(135deg, hsl(42,15%,92%), hsl(42,90%,68%), hsl(42,15%,92%)) !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; font-family: 'Playfair Display', Georgia, serif !important; }
-    .gradient-text { background: linear-gradient(135deg, hsl(42,90%,68%), hsl(0,65%,55%), hsl(42,75%,54%)) !important; background-size: 200% !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; }
-    .hero-title { font-family: 'Playfair Display', Georgia, serif !important; }
-    .btn-glow { background: linear-gradient(135deg, hsl(0,65%,28%), hsl(0,65%,42%)) !important; border: 1px solid hsla(0,65%,42%,0.4) !important; }
-    .stat-card { background: hsla(215,18%,9%,0.85) !important; border-color: hsla(42,30%,70%,0.07) !important; }
-    .stat-card:hover { border-color: hsla(42,75%,54%,0.25) !important; box-shadow: 0 8px 32px hsla(42,75%,54%,0.15) !important; }
-    .stat-total::before { background: linear-gradient(90deg, hsl(0,65%,42%), hsl(42,75%,54%)) !important; }
-    .chart-card, .articles-section { background: hsla(215,18%,9%,0.85) !important; border-color: hsla(42,30%,70%,0.07) !important; }
-    .filter-btn.active { background: hsl(0,65%,42%) !important; border-color: hsl(0,65%,42%) !important; }
-    .article-title a:hover { color: hsl(42,90%,68%) !important; }
-    .summary-text { border-left: 2px solid hsl(0,65%,42%) !important; background: hsla(215,20%,8%,0.8) !important; }
-    .event-tag { background: hsla(42,75%,54%,0.08) !important; border-color: hsla(42,75%,54%,0.18) !important; color: hsl(42,90%,68%) !important; }
-    .pipeline-steps, .stat-card { backdrop-filter: blur(12px); }
-    .card-header { background: hsla(215,20%,7%,0.5) !important; }
-    .step.active { background: hsla(0,65%,42%,0.1) !important; border: 1px solid hsla(0,65%,42%,0.3) !important; }
-    .bg-particles::before { background: radial-gradient(ellipse 700px 500px at 10% 15%, hsla(0,65%,25%,0.12),transparent), radial-gradient(ellipse 600px 600px at 85% 75%, hsla(215,40%,12%,0.5),transparent) !important; }
-    .donut-score { color: hsl(42,90%,68%) !important; }
-    .spinner { border-top-color: hsl(0,65%,42%) !important; }
-    .overlay-content { border-color: hsla(0,65%,42%,0.3) !important; }
-    .hero-section { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--border); position: relative; }
+
+    body { 
+      background: var(--bg-0) !important; 
+      color: var(--text-0) !important; 
+      font-family: 'Playfair Display', Georgia, serif !important; 
+    }
+
+    /* 膠卷底片顆粒雜訊 (Film Grain) */
+    body::before {
+      content: '';
+      position: fixed; inset: 0; z-index: 9999;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+      opacity: 0.05; pointer-events: none; mix-blend-mode: overlay;
+    }
+
+    /* 電影暗角 (Cinematic Vignette) */
+    body::after {
+      content: '';
+      position: fixed; inset: 0; z-index: 9998;
+      background: radial-gradient(circle, transparent 40%, rgba(0,0,0,0.85) 100%);
+      pointer-events: none;
+    }
+
+    .navbar { 
+      background: rgba(5,5,5,0.95) !important; 
+      border-bottom: 1px solid var(--border) !important; 
+    }
+    .navbar::after { 
+      content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px; 
+      background: linear-gradient(90deg, transparent, var(--accent), var(--primary), transparent) !important; 
+    }
+    
+    .nav-icon { filter: sepia(1); }
+    .nav-title { 
+      background: linear-gradient(135deg, var(--text-0), var(--accent-light), var(--text-0)) !important; 
+      -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; 
+      font-weight: 700 !important; letter-spacing: 2px !important;
+    }
+    .nav-subtitle { font-family: 'Outfit', sans-serif !important; letter-spacing: 4px !important; opacity: 0.6; }
+    
+    .gradient-text { 
+      background: linear-gradient(135deg, var(--accent-light), var(--primary-light), var(--accent-light)) !important; 
+      background-size: 200% !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; 
+    }
+    .hero-title { font-size: 38px !important; letter-spacing: 1px; text-shadow: 0 4px 20px rgba(200,160,100,0.2); }
+    
+    .btn-glow { 
+      background: linear-gradient(135deg, var(--primary-dark), var(--primary)) !important; 
+      border: 1px solid var(--accent) !important; 
+      box-shadow: 0 4px 15px rgba(201,166,107,0.15) !important;
+      font-family: 'Outfit', sans-serif !important; letter-spacing: 1px; 
+    }
+    
+    /* 古典卡片邊框 */
+    .stat-card, .chart-card, .articles-section, .pipeline-steps { 
+      background: var(--bg-card) !important; 
+      border: 1px solid var(--border) !important; 
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.03), 0 10px 30px rgba(0,0,0,0.8) !important; 
+      border-radius: 4px !important; /* 古典相框銳角 */
+      backdrop-filter: blur(8px);
+    }
+    .stat-card:hover { border-color: var(--accent) !important; box-shadow: inset 0 0 0 1px rgba(201,166,107,0.2), 0 10px 40px rgba(0,0,0,0.9) !important; }
+    .stat-total::before { background: linear-gradient(90deg, var(--primary), var(--accent)) !important; }
+    
+    /* 歐式排版細節 */
+    .stat-value { font-family: 'Playfair Display', serif !important; color: var(--accent-light) !important; }
+    .card-header { 
+      background: transparent !important; 
+      border-bottom: 1px dashed var(--border) !important; 
+    }
+    .card-header h3 { font-style: italic !important; color: var(--accent-light) !important; font-size: 17px !important; }
+    
+    .filter-btn { font-family: 'Outfit', sans-serif !important; border-radius: 2px !important; }
+    .filter-btn.active { background: var(--primary) !important; border-color: var(--primary) !important; color: var(--text-0) !important; }
+    .article-title { font-family: 'Noto Sans TC', sans-serif !important; font-weight: 500 !important; }
+    .article-title a:hover { color: var(--accent-light) !important; }
+    
+    .summary-text { border-left: 3px double var(--accent) !important; background: var(--bg-2) !important; font-family: 'Noto Sans TC', serif !important; }
+    .event-tag { background: transparent !important; border: 1px solid var(--accent) !important; color: var(--accent-light) !important; border-radius: 2px !important; }
+    .step.active { background: hsla(42, 60%, 45%, 0.1) !important; border: 1px solid var(--accent) !important; border-radius: 2px !important; }
+    
+    /* 電影背光 */
+    .bg-particles::before { background: radial-gradient(ellipse 800px 600px at 10% 15%, hsla(356, 60%, 25%, 0.1),transparent), radial-gradient(ellipse 600px 600px at 85% 75%, hsla(42, 60%, 15%, 0.15),transparent) !important; }
+    .donut-score { color: var(--accent-light) !important; }
+    .spinner { border-top-color: var(--accent) !important; }
+    
+    /* 3D 專輯排列區 (保留完美效果) */
+    .hero-section { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px double var(--border); position: relative; }
     .hero-albums { display: flex; gap: -20px; perspective: 1000px; margin-right: 20px; }
-    .album-cover { width: 110px; height: 110px; border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.8), inset 0 0 0 1px hsla(42,75%,54%,0.3); object-fit: cover; transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1); filter: brightness(0.8) contrast(1.1); margin-left: -50px; transform: rotateY(25deg) translateZ(-50px); }
+    .album-cover { width: 110px; height: 110px; border-radius: 2px; box-shadow: 0 10px 40px rgba(0,0,0,0.9), inset 0 0 0 1px hsla(42,60%,45%,0.4); object-fit: cover; transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); filter: brightness(0.7) contrast(1.2) sepia(0.2); margin-left: -50px; transform: rotateY(25deg) translateZ(-50px); }
     .album-cover:first-child { margin-left: 0; transform: rotateY(25deg) translateZ(-100px); z-index: 1; }
     .album-cover:nth-child(2) { z-index: 2; transform: rotateY(15deg) translateZ(-50px); }
-    .album-cover:last-child { z-index: 3; transform: rotateY(5deg) translateZ(0); filter: brightness(1) contrast(1.1); box-shadow: 0 10px 40px rgba(0,0,0,0.9), 0 0 20px hsla(0,65%,42%,0.4); }
-    .hero-albums:hover .album-cover { transform: rotateY(0) translateZ(0) scale(1.05); margin-left: 15px; filter: brightness(1); }
+    .album-cover:last-child { z-index: 3; transform: rotateY(5deg) translateZ(0); filter: brightness(0.9) contrast(1.2) sepia(0.2); }
+    .hero-albums:hover .album-cover { transform: rotateY(0) translateZ(0) scale(1.08); margin-left: 20px; filter: brightness(1) contrast(1) sepia(0); z-index: 10; box-shadow: 0 20px 50px rgba(0,0,0,1), 0 0 30px hsla(42,60%,45%,0.3); }
     .hero-right { display: flex; flex-direction: column; align-items: flex-end; gap: 12px; }
   </style>
 </head>
