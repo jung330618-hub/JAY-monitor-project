@@ -1,56 +1,42 @@
 // ===================================================
 // ④ 通知模組 - Line Notify
 // ===================================================
-const https = require('https');
-const querystring = require('querystring');
+const axios = require('axios');
 
 /**
- * 透過 Line Notify 發送訊息
+ * 透過 Line Messaging API 發送訊息 (官方帳號模式)
  */
 async function sendLineNotify(message) {
-  const token = process.env.LINE_NOTIFY_TOKEN;
+  const token = (process.env.LINE_CHANNEL_ACCESS_TOKEN || '').trim();
+  const userId = (process.env.LINE_USER_ID || '').trim();
 
-  if (!token || token === 'your_line_notify_token_here') {
-    console.log('[通知] Line Notify Token 未設定，跳過 Line 通知');
-    return { success: false, reason: 'Token 未設定' };
+  if (!token || token === 'your_line_channel_access_token' || !userId || userId === 'your_line_user_id') {
+    console.log('[通知] Line Token 或 User ID 未設定，跳過 Line 通知');
+    return { success: false, reason: 'Token 或 User ID 未設定' };
   }
 
-  return new Promise((resolve, reject) => {
-    const postData = querystring.stringify({ message });
-
-    const options = {
-      hostname: 'notify-api.line.me',
-      path: '/api/notify',
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Authorization': `Bearer ${token}`,
-        'Content-Length': Buffer.byteLength(postData)
-      }
-    };
-
-    const req = https.request(options, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        if (res.statusCode === 200) {
-          console.log('[通知] Line Notify 發送成功');
-          resolve({ success: true });
-        } else {
-          console.error(`[通知] Line Notify 發送失敗 (${res.statusCode}):`, data);
-          resolve({ success: false, reason: `HTTP ${res.statusCode}` });
+  try {
+    const response = await axios.post(
+      'https://api.line.me/v2/bot/message/push',
+      {
+        to: userId,
+        messages: [{ type: 'text', text: message }]
+      },
+      {
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
         }
-      });
-    });
+      }
+    );
 
-    req.on('error', (error) => {
-      console.error('[通知] Line Notify 發送錯誤:', error.message);
-      resolve({ success: false, reason: error.message });
-    });
-
-    req.write(postData);
-    req.end();
-  });
+    console.log('[通知] Line 官方帳號推播發送成功！');
+    return { success: true };
+  } catch (error) {
+    const errMsg = error.response ? JSON.stringify(error.response.data) : error.message;
+    console.error('[通知] Line 原生 API 發送失敗:', errMsg);
+    return { success: false, reason: errMsg };
+  }
 }
 
 /**

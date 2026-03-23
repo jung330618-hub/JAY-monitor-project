@@ -1,59 +1,36 @@
-// ===================================================
-// ④ 通知模組 - Telegram Bot
-// ===================================================
-const https = require('https');
+const axios = require('axios');
 
 /**
- * 透過 Telegram Bot 發送訊息
+ * 透過 Telegram Bot 發送訊息 (Axios 穩定版)
  */
 async function sendTelegramMessage(message) {
-  const botToken = process.env.TELEGRAM_BOT_TOKEN;
-  const chatId = process.env.TELEGRAM_CHAT_ID;
+  const botToken = (process.env.TELEGRAM_BOT_TOKEN || '').trim();
+  const chatId = (process.env.TELEGRAM_CHAT_ID || '').trim();
 
   if (!botToken || botToken === 'your_telegram_bot_token_here' || !chatId || chatId === 'your_telegram_chat_id_here') {
-    console.log('[通知] Telegram Bot 未設定，跳過 Telegram 通知');
     return { success: false, reason: 'Token 或 Chat ID 未設定' };
   }
 
-  return new Promise((resolve, reject) => {
-    const postData = JSON.stringify({
+  try {
+    const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
+    const response = await axios.post(url, {
       chat_id: chatId,
       text: message,
       parse_mode: 'HTML'
     });
 
-    const options = {
-      hostname: 'api.telegram.org',
-      path: `/bot${botToken}/sendMessage`,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Content-Length': Buffer.byteLength(postData)
-      }
-    };
-
-    const req = https.request(options, (res) => {
-      let data = '';
-      res.on('data', chunk => data += chunk);
-      res.on('end', () => {
-        if (res.statusCode === 200) {
-          console.log('[通知] Telegram 訊息發送成功');
-          resolve({ success: true });
-        } else {
-          console.error(`[通知] Telegram 發送失敗 (${res.statusCode}):`, data);
-          resolve({ success: false, reason: `HTTP ${res.statusCode}` });
-        }
-      });
-    });
-
-    req.on('error', (error) => {
-      console.error('[通知] Telegram 發送錯誤:', error.message);
-      resolve({ success: false, reason: error.message });
-    });
-
-    req.write(postData);
-    req.end();
-  });
+    if (response.data && response.data.ok) {
+      console.log('[通知] Telegram 發送大容量報告成功！');
+      return { success: true };
+    } else {
+      console.error('[通知] Telegram 遭拒絕:', response.data);
+      return { success: false, reason: 'Telegram 回傳未成功' };
+    }
+  } catch (error) {
+    const errMsg = error.response ? error.response.data.description : error.message;
+    console.error('[通知] Telegram 網路連線錯誤:', errMsg);
+    return { success: false, reason: errMsg };
+  }
 }
 
 /**
@@ -75,7 +52,8 @@ ${report.daily_summary}
 🔑 <b>重要事件</b>
 ${report.key_events}
 ━━━━━━━━━━━━━━
-🔗 <a href="http://localhost:${process.env.PORT || 3000}">查看完整報告</a>`;
+🔗 查看完整 Dashboard 報告：
+http://localhost:${process.env.PORT || 3000}`;
 
   return sendTelegramMessage(message);
 }

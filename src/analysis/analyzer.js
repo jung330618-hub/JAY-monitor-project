@@ -139,14 +139,15 @@ async function generateDailySummary(articles) {
     .map((a, i) => `${i + 1}. [${a.sentiment || '未分析'}] ${a.title}`)
     .join('\n');
 
-  const prompt = `以下是今日搜集到的周杰倫相關新聞，請生成一份精簡的每日摘要報告。
+  const prompt = `以下是今日搜集到的周杰倫相關新聞。
+請你為我整理一份「精簡且不囉嗦的文字摘要」。
 
 ${articleList}
 
 請以純 JSON 格式回覆（無額外格式化符號）:
 {
-  "summary": "200字以內的今日整體摘要，重點描述今天關於周杰倫的重要動態",
-  "events": "重要事件列表，以逗號分隔"
+  "summary": "請寫出 100~150 字內的精簡文字摘要，快速涵蓋今天周杰倫所有相關焦點，內容必須通順完整且不被截斷。",
+  "events": "請列出今天最重要的 3 個事件，每行不超過 15 個字。"
 }`;
 
   try {
