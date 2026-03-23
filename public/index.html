@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎤 周杰倫輿情監控系統 | Jay Chou Monitor</title>
+  <meta name="description" content="周杰倫（Jay Chou）即時輿情監控與分析系統 - 自動搜集、AI 分析、視覺化報告">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700;900&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- 背景粒子效果 -->
+  <div class="bg-particles" id="particles"></div>
+
+  <!-- 導航列 -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-brand">
+      <span class="nav-icon">🎤</span>
+      <div>
+        <h1 class="nav-title">周杰倫輿情監控</h1>
+        <span class="nav-subtitle">Jay Chou Reputation Monitor</span>
+      </div>
+    </div>
+    <div class="nav-actions">
+      <span class="status-badge" id="statusBadge">
+        <span class="status-dot"></span>
+        <span>系統運行中</span>
+      </span>
+      <button class="btn btn-glow" id="btnRunNow" onclick="runFullPipeline()">
+        <span class="btn-icon">⚡</span>
+        立即執行
+      </button>
+    </div>
+  </nav>
+
+  <!-- 主內容 -->
+  <main class="main-content">
+    <!-- 英雄區塊 -->
+    <section class="hero-section">
+      <div class="hero-text">
+        <h2 class="hero-title">
+          <span class="gradient-text">周杰倫</span> 輿情追蹤
+        </h2>
+        <p class="hero-desc">AI 驅動的即時輿情分析，自動搜集、智能分析、視覺化呈現</p>
+      </div>
+      <div class="hero-time" id="currentTime"></div>
+    </section>
+
+    <!-- 流程步驟指示器 -->
+    <section class="pipeline-steps">
+      <div class="step" id="step1">
+        <div class="step-number">①</div>
+        <div class="step-icon">🔍</div>
+        <div class="step-label">搜集</div>
+        <div class="step-sub">Search</div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step" id="step2">
+        <div class="step-number">②</div>
+        <div class="step-icon">🧠</div>
+        <div class="step-label">分析</div>
+        <div class="step-sub">LLM</div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step active" id="step3">
+        <div class="step-number">③</div>
+        <div class="step-icon">📊</div>
+        <div class="step-label">報告</div>
+        <div class="step-sub">Report</div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step" id="step4">
+        <div class="step-number">④</div>
+        <div class="step-icon">📨</div>
+        <div class="step-label">通知</div>
+        <div class="step-sub">Notify</div>
+      </div>
+      <div class="step-arrow">→</div>
+      <div class="step" id="step5">
+        <div class="step-number">⑤</div>
+        <div class="step-icon">⏰</div>
+        <div class="step-label">排程</div>
+        <div class="step-sub">Schedule</div>
+      </div>
+    </section>
+
+    <!-- 統計卡片 -->
+    <section class="stats-grid">
+      <div class="stat-card stat-total">
+        <div class="stat-icon">📰</div>
+        <div class="stat-info">
+          <div class="stat-value" id="statTotal">0</div>
+          <div class="stat-label">總文章數</div>
+        </div>
+        <div class="stat-trend" id="trendTotal"></div>
+      </div>
+      <div class="stat-card stat-positive">
+        <div class="stat-icon">😊</div>
+        <div class="stat-info">
+          <div class="stat-value" id="statPositive">0</div>
+          <div class="stat-label">正面報導</div>
+        </div>
+        <div class="stat-ring positive" id="ringPositive"></div>
+      </div>
+      <div class="stat-card stat-negative">
+        <div class="stat-icon">😟</div>
+        <div class="stat-info">
+          <div class="stat-value" id="statNegative">0</div>
+          <div class="stat-label">負面報導</div>
+        </div>
+        <div class="stat-ring negative" id="ringNegative"></div>
+      </div>
+      <div class="stat-card stat-neutral">
+        <div class="stat-icon">😐</div>
+        <div class="stat-info">
+          <div class="stat-value" id="statNeutral">0</div>
+          <div class="stat-label">中性報導</div>
+        </div>
+        <div class="stat-ring neutral" id="ringNeutral"></div>
+      </div>
+    </section>
+
+    <!-- 圖表與報告區 -->
+    <section class="charts-section">
+      <!-- 情緒趨勢圖 -->
+      <div class="chart-card wide">
+        <div class="card-header">
+          <h3><span class="card-icon">📈</span> 情緒趨勢</h3>
+          <div class="chart-legend">
+            <span class="legend-item positive"><span class="legend-dot"></span>正面</span>
+            <span class="legend-item negative"><span class="legend-dot"></span>負面</span>
+            <span class="legend-item neutral"><span class="legend-dot"></span>中性</span>
+          </div>
+        </div>
+        <div class="chart-body">
+          <canvas id="trendChart"></canvas>
+          <div class="chart-empty" id="trendEmpty">
+            <span class="empty-icon">📊</span>
+            <p>尚無趨勢資料</p>
+            <p class="empty-hint">點擊「立即執行」開始收集資料</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 情緒分布圓餅圖 -->
+      <div class="chart-card">
+        <div class="card-header">
+          <h3><span class="card-icon">🎯</span> 情緒分布</h3>
+        </div>
+        <div class="chart-body donut-container">
+          <canvas id="donutChart"></canvas>
+          <div class="donut-center" id="donutCenter">
+            <div class="donut-score" id="avgScore">--</div>
+            <div class="donut-label">平均分數</div>
+          </div>
+          <div class="chart-empty" id="donutEmpty">
+            <span class="empty-icon">🎯</span>
+            <p>尚無分析資料</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- 每日摘要 -->
+      <div class="chart-card">
+        <div class="card-header">
+          <h3><span class="card-icon">📝</span> 最新摘要</h3>
+        </div>
+        <div class="card-body">
+          <div class="summary-content" id="dailySummary">
+            <div class="summary-empty">
+              <span class="empty-icon">📝</span>
+              <p>尚無每日摘要</p>
+              <p class="empty-hint">執行完整流程後將自動生成</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 文章列表 -->
+    <section class="articles-section">
+      <div class="section-header">
+        <h3><span class="card-icon">📋</span> 最新文章</h3>
+        <div class="filter-group">
+          <button class="filter-btn active" data-filter="all" onclick="filterArticles('all')">全部</button>
+          <button class="filter-btn" data-filter="正面" onclick="filterArticles('正面')">😊 正面</button>
+          <button class="filter-btn" data-filter="負面" onclick="filterArticles('負面')">😟 負面</button>
+          <button class="filter-btn" data-filter="中性" onclick="filterArticles('中性')">😐 中性</button>
+        </div>
+      </div>
+      <div class="articles-list" id="articlesList">
+        <div class="articles-empty">
+          <span class="empty-icon">📋</span>
+          <p>尚無文章資料</p>
+          <p class="empty-hint">點擊「立即執行」開始搜集周杰倫相關新聞</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 底部 -->
+  <footer class="footer">
+    <p>🎤 周杰倫輿情監控系統 v1.0 | Powered by AI</p>
+    <p class="footer-sub">搜集 → 分析 → 報告 → 通知 → 定期排程</p>
+  </footer>
+
+  <!-- 執行中 Overlay -->
+  <div class="overlay" id="runningOverlay">
+    <div class="overlay-content">
+      <div class="spinner"></div>
+      <h3>正在執行完整流程...</h3>
+      <div class="pipeline-progress" id="pipelineProgress">
+        <div class="progress-step active" id="progStep1">🔍 搜集中...</div>
+        <div class="progress-step" id="progStep2">🧠 等待分析</div>
+        <div class="progress-step" id="progStep3">📊 等待生成報告</div>
+        <div class="progress-step" id="progStep4">📨 等待發送通知</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast 通知 -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

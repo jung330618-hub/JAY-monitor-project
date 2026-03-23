@@ -1,0 +1,12 @@
+node_modules/
+data/
+.env
+*.db
+*.db-wal
+*.db-shm
+
+# IDE & AI Agent folders
+.vscode/
+.cursor/
+.gemini/
+.agents/
