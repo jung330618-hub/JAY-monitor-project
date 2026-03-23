@@ -10,23 +10,23 @@
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css?v=3">
   <style>
-    /* ===== UI UX Pro Max: 電影感 × 歐式古典 × 膠卷底片 (調亮版) ===== */
+    /* ===== UI UX Pro Max: 電影感 × 歐式古典 × 膠卷底片 (明亮清晰版) ===== */
     :root {
-      /* 色彩系統：古典電影院 */
-      --primary: hsl(356, 60%, 42%) !important; /* 復古絲絨紅 調亮 */
-      --primary-light: hsl(356, 60%, 55%) !important;
-      --primary-dark: hsl(356, 60%, 25%) !important;
-      --accent: hsl(42, 60%, 55%) !important; /* 骨董黃銅金 調亮 */
-      --accent-light: #DBC08C !important; 
-      --bg-0: #1C1918 !important; /* 電影黑 調亮成深暖灰 */
-      --bg-1: #24201E !important;
-      --bg-2: #2E2927 !important;
-      --bg-3: #3B3432 !important;
-      --bg-card: hsla(15, 10%, 15%, 0.8) !important; /* 卡片調亮 */
-      --border: hsla(42, 60%, 65%, 0.25) !important;
-      --text-0: #FEFBF6 !important; /* 泛黃羊皮紙白 調更亮 */
-      --text-1: #EAE3D1 !important;
-      --text-2: #B3AAA0 !important;
+      /* 提升鮮豔度與明度 */
+      --primary: hsl(356, 85%, 52%) !important; /* 鮮豔的叶惠美紅 */
+      --primary-light: hsl(356, 85%, 65%) !important;
+      --primary-dark: hsl(356, 85%, 35%) !important;
+      --accent: hsl(42, 85%, 60%) !important; /* 明亮的黃銅金 */
+      --accent-light: #FBEAC8 !important; 
+      --bg-0: #181514 !important; /* 暖灰黑底 */
+      --bg-1: #201C1A !important;
+      --bg-2: #282421 !important;
+      --bg-3: #322D29 !important;
+      --bg-card: hsla(15, 10%, 15%, 0.85) !important;
+      --border: hsla(42, 60%, 75%, 0.3) !important;
+      --text-0: #FFFFFF !important; /* 純淨白，最大對比 */
+      --text-1: hsla(0, 0%, 100%, 0.9) !important;
+      --text-2: hsla(0, 0%, 100%, 0.7) !important;
     }
 
     body { 
@@ -35,93 +35,85 @@
       font-family: 'Playfair Display', Georgia, serif !important; 
     }
 
-    /* 膠卷底片顆粒雜訊 (Film Grain) */
+    /* 膠卷微雜訊 */
     body::before {
       content: '';
       position: fixed; inset: 0; z-index: 9999;
       background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
-      opacity: 0.04; pointer-events: none; mix-blend-mode: overlay;
+      opacity: 0.03; pointer-events: none; mix-blend-mode: overlay;
     }
 
-    /* 電影暗角 (Cinematic Vignette) - 大幅調亮減弱 */
-    body::after {
-      content: '';
-      position: fixed; inset: 0; z-index: 9998;
-      background: radial-gradient(circle, transparent 50%, rgba(0,0,0,0.4) 110%);
-      pointer-events: none;
-    }
+    /* 移除干擾的暗角效果 */
+    body::after { display: none !important; }
 
     .navbar { 
-      background: rgba(28,25,24,0.92) !important; 
-      border-bottom: 1px solid var(--border) !important; 
-    }
-    .navbar::after { 
-      content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px; 
-      background: linear-gradient(90deg, transparent, var(--accent), var(--primary), transparent) !important; 
+      background: rgba(24,21,20,0.95) !important; 
+      border-bottom: 2px solid var(--border) !important; 
     }
     
-    .nav-icon { filter: sepia(0.8) brightness(1.2); }
+    .nav-icon { filter: sepia(0.5) brightness(1.5); }
     .nav-title { 
-      background: linear-gradient(135deg, var(--text-0), #FBEAC8, var(--text-0)) !important; 
-      -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; 
+      color: var(--accent-light) !important; 
       font-weight: 700 !important; letter-spacing: 2px !important;
     }
-    .nav-subtitle { font-family: 'Outfit', sans-serif !important; letter-spacing: 4px !important; opacity: 0.7; }
+    .nav-subtitle { font-family: 'Outfit', sans-serif !important; letter-spacing: 4px !important; color: var(--text-2) !important; }
     
     .gradient-text { 
-      background: linear-gradient(135deg, var(--accent-light), var(--primary-light), var(--accent-light)) !important; 
+      background: linear-gradient(135deg, #FFF, var(--primary-light), var(--accent-light)) !important; 
       background-size: 200% !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; 
     }
-    .hero-title { font-size: 38px !important; letter-spacing: 1px; text-shadow: 0 4px 20px rgba(219,192,140,0.3); }
+    .hero-title { font-size: 38px !important; letter-spacing: 1px; text-shadow: 0 4px 15px rgba(255,255,255,0.2); }
+    .hero-desc { color: var(--text-1) !important; font-size: 15px !important; }
     
     .btn-glow { 
-      background: linear-gradient(135deg, var(--primary-dark), var(--primary)) !important; 
-      border: 1px solid var(--accent) !important; 
-      box-shadow: 0 4px 15px rgba(219,192,140,0.2) !important;
-      font-family: 'Outfit', sans-serif !important; letter-spacing: 1px; 
+      background: linear-gradient(135deg, var(--primary), var(--primary-dark)) !important; 
+      border: 1px solid var(--accent-light) !important; 
+      box-shadow: 0 4px 15px rgba(251,234,200,0.3) !important;
+      color: #FFF !important;
+      font-family: 'Outfit', sans-serif !important; letter-spacing: 1px; font-weight: 700 !important;
     }
     
     /* 古典卡片邊框 */
     .stat-card, .chart-card, .articles-section, .pipeline-steps { 
       background: var(--bg-card) !important; 
       border: 1px solid var(--border) !important; 
-      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.06), 0 8px 25px rgba(0,0,0,0.6) !important; 
-      border-radius: 4px !important; /* 古典相框銳角 */
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.1), 0 8px 25px rgba(0,0,0,0.5) !important; 
+      border-radius: 6px !important; 
       backdrop-filter: blur(12px);
     }
-    .stat-card:hover { border-color: var(--accent) !important; box-shadow: inset 0 0 0 1px rgba(219,192,140,0.3), 0 10px 30px rgba(0,0,0,0.7) !important; }
+    .stat-card:hover { border-color: var(--accent) !important; box-shadow: inset 0 0 0 1px rgba(251,234,200,0.4), 0 10px 30px rgba(0,0,0,0.6) !important; }
     .stat-total::before { background: linear-gradient(90deg, var(--primary-light), var(--accent-light)) !important; }
     
-    /* 歐式排版細節 */
-    .stat-value { font-family: 'Playfair Display', serif !important; color: var(--accent-light) !important; text-shadow: 0 2px 10px rgba(219,192,140,0.2); }
-    .card-header { 
-      background: transparent !important; 
-      border-bottom: 1px dashed var(--border) !important; 
-    }
-    .card-header h3 { font-style: italic !important; color: var(--accent-light) !important; font-size: 17px !important; }
+    .stat-value { font-family: 'Playfair Display', serif !important; color: #FFF !important; text-shadow: 0 2px 10px rgba(255,255,255,0.3); }
+    .stat-label { color: var(--text-1) !important; }
     
-    .filter-btn { font-family: 'Outfit', sans-serif !important; border-radius: 2px !important; }
-    .filter-btn.active { background: var(--primary) !important; border-color: var(--primary) !important; color: var(--text-0) !important; }
-    .article-title { font-family: 'Noto Sans TC', sans-serif !important; font-weight: 500 !important; }
+    .card-header { background: transparent !important; border-bottom: 1px dashed var(--border) !important; }
+    .card-header h3 { font-style: normal !important; color: var(--accent-light) !important; font-size: 18px !important; font-weight: 700 !important; }
+    
+    .filter-btn { font-family: 'Outfit', sans-serif !important; border-radius: 4px !important; color: var(--text-1) !important; }
+    .filter-btn.active { background: var(--primary) !important; border-color: var(--primary) !important; color: #FFF !important; box-shadow: 0 2px 8px rgba(220,53,69,0.5) !important; }
+    
+    .article-title { font-family: 'Noto Sans TC', sans-serif !important; font-weight: 500 !important; color: #FFF !important; }
     .article-title a:hover { color: var(--accent-light) !important; }
+    .article-summary { color: var(--text-2) !important; }
     
-    .summary-text { border-left: 3px double var(--accent) !important; background: var(--bg-2) !important; font-family: 'Noto Sans TC', serif !important; }
-    .event-tag { background: transparent !important; border: 1px solid var(--accent) !important; color: var(--accent-light) !important; border-radius: 2px !important; }
-    .step.active { background: hsla(42, 60%, 55%, 0.15) !important; border: 1px solid var(--accent) !important; border-radius: 2px !important; }
+    .summary-text { border-left: 3px solid var(--accent) !important; background: var(--bg-2) !important; font-family: 'Noto Sans TC', serif !important; color: var(--text-1) !important; }
+    .event-tag { background: hsla(42,85%,60%,0.15) !important; border: 1px solid var(--accent) !important; color: var(--accent-light) !important; border-radius: 4px !important; font-weight: 600 !important; }
+    .step.active { background: hsla(356, 85%, 52%, 0.15) !important; border: 1px solid var(--primary) !important; color: #FFF !important; }
+    .step-sub { color: var(--text-2) !important; }
     
-    /* 電影背光 */
-    .bg-particles::before { background: radial-gradient(ellipse 800px 600px at 10% 15%, hsla(356, 60%, 45%, 0.15),transparent), radial-gradient(ellipse 600px 600px at 85% 75%, hsla(42, 60%, 55%, 0.15),transparent) !important; }
-    .donut-score { color: var(--accent-light) !important; }
-    .spinner { border-top-color: var(--accent) !important; }
+    .bg-particles::before { background: radial-gradient(ellipse 800px 600px at 10% 15%, hsla(356, 85%, 52%, 0.15),transparent), radial-gradient(ellipse 600px 600px at 85% 75%, hsla(42, 85%, 60%, 0.15),transparent) !important; }
+    .donut-score { color: #FFF !important; }
+    .spinner { border-top-color: var(--primary-light) !important; }
     
-    /* 3D 專輯排列區 (保留完美效果) */
-    .hero-section { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px double var(--border); position: relative; }
+    .hero-section { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--border); position: relative; }
     .hero-albums { display: flex; gap: -20px; perspective: 1000px; margin-right: 20px; }
-    .album-cover { width: 110px; height: 110px; border-radius: 2px; box-shadow: 0 10px 40px rgba(0,0,0,0.9), inset 0 0 0 1px hsla(42,60%,45%,0.4); object-fit: cover; transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); filter: brightness(0.7) contrast(1.2) sepia(0.2); margin-left: -50px; transform: rotateY(25deg) translateZ(-50px); }
+    /* 重點：還原圖片本來的顏色跟亮度 */
+    .album-cover { width: 110px; height: 110px; border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.6), inset 0 0 0 1px hsla(42,85%,60%,0.5); object-fit: cover; transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1); filter: brightness(1) drop-shadow(0 4px 8px rgba(0,0,0,0.5)); margin-left: -50px; transform: rotateY(25deg) translateZ(-50px); }
     .album-cover:first-child { margin-left: 0; transform: rotateY(25deg) translateZ(-100px); z-index: 1; }
     .album-cover:nth-child(2) { z-index: 2; transform: rotateY(15deg) translateZ(-50px); }
-    .album-cover:last-child { z-index: 3; transform: rotateY(5deg) translateZ(0); filter: brightness(0.9) contrast(1.2) sepia(0.2); }
-    .hero-albums:hover .album-cover { transform: rotateY(0) translateZ(0) scale(1.08); margin-left: 20px; filter: brightness(1) contrast(1) sepia(0); z-index: 10; box-shadow: 0 20px 50px rgba(0,0,0,1), 0 0 30px hsla(42,60%,45%,0.3); }
+    .album-cover:last-child { z-index: 3; transform: rotateY(5deg) translateZ(0); filter: brightness(1) drop-shadow(0 4px 10px rgba(0,0,0,0.6)); }
+    .hero-albums:hover .album-cover { transform: rotateY(0) translateZ(0) scale(1.08); margin-left: 20px; z-index: 10; box-shadow: 0 15px 40px rgba(0,0,0,0.8), 0 0 20px hsla(42,85%,60%,0.4); }
     .hero-right { display: flex; flex-direction: column; align-items: flex-end; gap: 12px; }
   </style>
 </head>
