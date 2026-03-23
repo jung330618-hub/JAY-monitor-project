@@ -8,7 +8,56 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=Noto+Sans+TC:wght@300;400;500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=3">
+  <style>
+    /* ===== 強制覆寫版本：電影感色盤 ===== */
+    :root {
+      --primary: hsl(0, 65%, 42%) !important;
+      --primary-light: hsl(0, 65%, 55%) !important;
+      --primary-dark: hsl(0, 65%, 28%) !important;
+      --accent: hsl(42, 75%, 54%) !important;
+      --accent-light: hsl(42, 90%, 68%) !important;
+      --bg-0: hsl(210, 20%, 4%) !important;
+      --bg-1: hsl(215, 18%, 7%) !important;
+      --bg-2: hsl(215, 16%, 11%) !important;
+      --bg-3: hsl(215, 14%, 16%) !important;
+      --bg-card: hsla(215, 18%, 9%, 0.85) !important;
+      --border: hsla(42, 30%, 70%, 0.07) !important;
+      --text-0: hsl(42, 15%, 92%) !important;
+      --text-1: hsl(42, 10%, 72%) !important;
+      --text-2: hsl(220, 10%, 48%) !important;
+    }
+    body { background: hsl(210, 20%, 4%) !important; color: hsl(42,15%,92%) !important; }
+    .navbar { background: hsla(210, 22%, 4%, 0.92) !important; border-bottom-color: hsla(0,65%,42%,0.3) !important; }
+    .navbar::after { content: ''; position: absolute; bottom: 0; left: 0; right: 0; height: 1px; background: linear-gradient(90deg, transparent, hsl(0,65%,42%), hsl(42,70%,38%), transparent) !important; }
+    .nav-title { background: linear-gradient(135deg, hsl(42,15%,92%), hsl(42,90%,68%), hsl(42,15%,92%)) !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; font-family: 'Playfair Display', Georgia, serif !important; }
+    .gradient-text { background: linear-gradient(135deg, hsl(42,90%,68%), hsl(0,65%,55%), hsl(42,75%,54%)) !important; background-size: 200% !important; -webkit-background-clip: text !important; -webkit-text-fill-color: transparent !important; }
+    .hero-title { font-family: 'Playfair Display', Georgia, serif !important; }
+    .btn-glow { background: linear-gradient(135deg, hsl(0,65%,28%), hsl(0,65%,42%)) !important; border: 1px solid hsla(0,65%,42%,0.4) !important; }
+    .stat-card { background: hsla(215,18%,9%,0.85) !important; border-color: hsla(42,30%,70%,0.07) !important; }
+    .stat-card:hover { border-color: hsla(42,75%,54%,0.25) !important; box-shadow: 0 8px 32px hsla(42,75%,54%,0.15) !important; }
+    .stat-total::before { background: linear-gradient(90deg, hsl(0,65%,42%), hsl(42,75%,54%)) !important; }
+    .chart-card, .articles-section { background: hsla(215,18%,9%,0.85) !important; border-color: hsla(42,30%,70%,0.07) !important; }
+    .filter-btn.active { background: hsl(0,65%,42%) !important; border-color: hsl(0,65%,42%) !important; }
+    .article-title a:hover { color: hsl(42,90%,68%) !important; }
+    .summary-text { border-left: 2px solid hsl(0,65%,42%) !important; background: hsla(215,20%,8%,0.8) !important; }
+    .event-tag { background: hsla(42,75%,54%,0.08) !important; border-color: hsla(42,75%,54%,0.18) !important; color: hsl(42,90%,68%) !important; }
+    .pipeline-steps, .stat-card { backdrop-filter: blur(12px); }
+    .card-header { background: hsla(215,20%,7%,0.5) !important; }
+    .step.active { background: hsla(0,65%,42%,0.1) !important; border: 1px solid hsla(0,65%,42%,0.3) !important; }
+    .bg-particles::before { background: radial-gradient(ellipse 700px 500px at 10% 15%, hsla(0,65%,25%,0.12),transparent), radial-gradient(ellipse 600px 600px at 85% 75%, hsla(215,40%,12%,0.5),transparent) !important; }
+    .donut-score { color: hsl(42,90%,68%) !important; }
+    .spinner { border-top-color: hsl(0,65%,42%) !important; }
+    .overlay-content { border-color: hsla(0,65%,42%,0.3) !important; }
+    .hero-section { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid var(--border); position: relative; }
+    .hero-albums { display: flex; gap: -20px; perspective: 1000px; margin-right: 20px; }
+    .album-cover { width: 110px; height: 110px; border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.8), inset 0 0 0 1px hsla(42,75%,54%,0.3); object-fit: cover; transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1); filter: brightness(0.8) contrast(1.1); margin-left: -50px; transform: rotateY(25deg) translateZ(-50px); }
+    .album-cover:first-child { margin-left: 0; transform: rotateY(25deg) translateZ(-100px); z-index: 1; }
+    .album-cover:nth-child(2) { z-index: 2; transform: rotateY(15deg) translateZ(-50px); }
+    .album-cover:last-child { z-index: 3; transform: rotateY(5deg) translateZ(0); filter: brightness(1) contrast(1.1); box-shadow: 0 10px 40px rgba(0,0,0,0.9), 0 0 20px hsla(0,65%,42%,0.4); }
+    .hero-albums:hover .album-cover { transform: rotateY(0) translateZ(0) scale(1.05); margin-left: 15px; filter: brightness(1); }
+    .hero-right { display: flex; flex-direction: column; align-items: flex-end; gap: 12px; }
+  </style>
 </head>
 <body>
   <!-- 背景粒子效果 -->
@@ -45,7 +94,14 @@
         </h2>
         <p class="hero-desc">AI 驅動的即時輿情分析，自動搜集、智能分析、視覺化呈現</p>
       </div>
-      <div class="hero-time" id="currentTime"></div>
+      <div class="hero-right">
+        <div class="hero-albums">
+          <img src="images/album_jay.png" class="album-cover" alt="Jay">
+          <img src="images/album_yehui.png" class="album-cover" alt="叶惠美">
+          <img src="images/album_november.png" class="album-cover" alt="November's Chopin">
+        </div>
+        <div class="hero-time" id="currentTime"></div>
+      </div>
     </section>
 
     <!-- 流程步驟指示器 -->

@@ -65,13 +65,25 @@ async function fetchAPI(endpoint) {
 
 async function loadDashboard() {
   let data = null;
+
+  // 優先模式：呼叫後端 API（本機伺服器運行時）
   try {
-    const res = await fetch('../data/dashboard.json');
-    data = await res.json();
-  } catch (error) {
-    console.error('無法讀取靜態 JSON 資料庫:', error);
-    return;
+    const res = await fetch('/api/dashboard');
+    const json = await res.json();
+    if (json.success) {
+      data = json.data;
+    }
+  } catch (err) {
+    // 本機 API 失敗：改讀靜態 JSON（GitHub Pages 模式）
+    try {
+      const res2 = await fetch('./data/dashboard.json');
+      data = await res2.json();
+    } catch (err2) {
+      console.error('無法讀取任何資料來源');
+      return;
+    }
   }
+
   if (!data) return;
 
   updateStats(data);
