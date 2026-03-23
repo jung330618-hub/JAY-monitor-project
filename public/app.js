@@ -64,7 +64,14 @@ async function fetchAPI(endpoint) {
 // ===== 載入儀表板 =====
 
 async function loadDashboard() {
-  const data = await fetchAPI('/api/dashboard');
+  let data = null;
+  try {
+    const res = await fetch('../data/dashboard.json');
+    data = await res.json();
+  } catch (error) {
+    console.error('無法讀取靜態 JSON 資料庫:', error);
+    return;
+  }
   if (!data) return;
 
   updateStats(data);

@@ -1,5 +1,8 @@
 node_modules/
-data/
+# 資料庫（排除全部，但強迫追蹤我們的核心報告資料庫）
+data/*
+!data/jay_monitor.json
+!data/dashboard.json
 .env
 *.db
 *.db-wal

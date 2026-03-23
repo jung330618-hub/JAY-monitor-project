@@ -59,7 +59,7 @@ ${report.daily_summary}
 🔑 重要事件
 ${report.key_events}
 ━━━━━━━━━━━━━━
-🔗 完整報告: http://localhost:${process.env.PORT || 3000}`;
+🔗 完整報告: https://jung330618-hub.github.io/JAY-monitor-project/public/index.html`;
 
   return sendLineNotify(message);
 }

@@ -53,7 +53,7 @@ ${report.daily_summary}
 ${report.key_events}
 ━━━━━━━━━━━━━━
 🔗 查看完整 Dashboard 報告：
-http://localhost:${process.env.PORT || 3000}`;
+https://jung330618-hub.github.io/JAY-monitor-project/public/index.html`;
 
   return sendTelegramMessage(message);
 }
