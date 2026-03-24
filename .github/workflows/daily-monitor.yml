@@ -1,0 +1,44 @@
+name: Jay Monitor Daily Run
+
+on:
+  schedule:
+    # 每天早上 9 點 (台灣時間) = UTC 時間 凌晨 1 點
+    - cron: '0 1 * * *'
+  workflow_dispatch: # 允許在 GitHub 網頁上手動點擊執行
+
+jobs:
+  run-monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+
+    - name: Install Dependencies
+      run: npm install
+
+    - name: Run Pipeline (Data Collection, Analysis, Notification)
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+        LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+        LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: node run-pipeline.js
+
+    - name: Commit and Push Data Updates
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/
+        git commit -m "chore: Auto update dashboard data [skip ci]" || echo "No changes to commit"
+        git push
