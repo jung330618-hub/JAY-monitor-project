@@ -6560,11 +6560,11 @@
       "snippet": "周杰倫睽違近4年回歸 〈太陽之子〉MV破百萬觀看  Yahoo新聞",
       "published_at": "2026-03-24T15:18:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違近四年回歸樂壇，其新歌〈太陽之子〉MV觀看次數已突破百萬。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 470,
@@ -6574,11 +6574,11 @@
       "snippet": "直擊／周杰倫狠嗆主持人「你有病啊」 曾兩度恐慌發作不願多提  Yahoo新聞",
       "published_at": "2026-03-24T08:36:32.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "新聞報導周杰倫曾對主持人說出不當言論，並提及他過去兩度恐慌發作的經歷。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 471,
@@ -6588,11 +6588,11 @@
       "snippet": "周杰倫明現身新輯記者會！巡演倒數10天無縫接軌 火速再唱暖心內幕曝光  Yahoo新聞",
       "published_at": "2026-03-23T07:22:14.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將出席新專輯記者會，並在演唱會倒數10天之際無縫接軌，同時曝光暖心內幕。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 472,
@@ -6602,11 +6602,11 @@
       "snippet": "周杰倫新專輯登場！曬出最新自拍「回春范特西」 歌迷激推這3首新歌| 娛樂星聞  三立新聞網SETN.com",
       "published_at": "2026-03-25T04:04:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯登場並曬出「回春」自拍，歌迷對其中三首新歌反應熱烈。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 473,
@@ -6616,11 +6616,11 @@
       "snippet": "全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！  playmusic.tw",
       "published_at": "2026-03-23T16:29:36.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌《太陽之子》的MV因其媲美好萊塢大片的製作水準，在全球粉絲中引起熱烈關注與高度讚賞。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 474,
@@ -6630,11 +6630,11 @@
       "snippet": "周杰倫替你上了一堂藝術課：《太陽之子》MV六幅名畫的故事全解析  verse.com.tw",
       "published_at": "2026-03-22T15:08:36.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "該報導深入解析周杰倫《太陽之子》MV中融入的六幅名畫故事，展現其作品的藝術深度與文化內涵。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 475,
@@ -6644,11 +6644,11 @@
       "snippet": "「周杰倫」新專輯《太陽之子》MV 有彩蛋，這 4 幅名畫致敬你發現了嗎？  GQ Taiwan",
       "published_at": "2026-03-21T12:06:45.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯《太陽之子》的MV中隱藏了致敬名畫的彩蛋，引發粉絲討論與關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 476,
@@ -6658,11 +6658,11 @@
       "snippet": "周杰倫睽違四年 再發新作「太陽之子」｜中央社影音新聞  中央社 CNA",
       "published_at": "2026-03-24T13:30:15.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在睽違四年後，再次發行了新作品「太陽之子」。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 477,
@@ -6672,11 +6672,11 @@
       "snippet": "周杰倫新專輯《太陽之子》聽了嗎！預告將公開11年前求婚昆凌私藏片，為小女兒寫新歌甘做女兒奴  TVBS 女人我最大",
       "published_at": "2026-03-25T02:19:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫預告將發行新專輯《太陽之子》，並透露會公開11年前求婚昆凌的私藏影片，同時也為小女兒創作新歌展現父愛。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 478,
@@ -6686,11 +6686,11 @@
       "snippet": "【車勢星聞】影音／周杰倫推出全新專輯收錄13首歌，「太陽之子」MV致敬30幅名畫  CARTURE 車勢文化",
       "published_at": "2026-03-24T15:01:23.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出收錄13首歌的全新專輯，其中「太陽之子」MV以致敬30幅名畫為特色。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 479,
@@ -6700,11 +6700,11 @@
       "snippet": "直擊／周杰倫回來了！47歲帥出新高度「開超深V現身」電影院暴動  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-03-24T05:37:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫以帥氣深V造型現身電影院，引發粉絲熱烈迴響，被讚47歲仍帥出新高度。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 480,
@@ -6714,11 +6714,11 @@
       "snippet": "直擊／周杰倫現身信義區電影院！被主持人問一句話 當場脫口「你是有病？」  Yahoo新聞",
       "published_at": "2026-03-24T10:12:40.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫在信義區電影院被主持人提問時，幽默地反問「你是有病？」，展現其真性情。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 481,
@@ -9449,6 +9449,258 @@
       "summary": null,
       "category": null,
       "analyzed": 0
+    },
+    {
+      "id": 676,
+      "title": "Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May - CBS News",
+      "link": "https://www.cbsnews.com/boston/video/grammy-nominated-rapper-jeezy-announces-10-day-las-vegas-residency-this-may/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May. Jeezy spoke with WBZ-TV's Breana Pitts about what fans can expect.",
+      "published_at": "Fri, 20 Mar 2026 14:02:00 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Jeezy將在拉斯維加斯舉辦為期十天的駐場演出，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 677,
+      "title": "Jeff Klein Isn’t Selling San Vicente Bungalows — Unless It’s “F*** You” Money - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/news/local-news/jeff-klein-san-vicente-bungalows-growth-1236541819/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "Is Jeff Klein looking to open a San Vicente Bungalow in Palm Springs? That was the question left open by *The Wall Street Journal*’s March 19 bombshell scoop — that Klein, 54, was working with Goldman Sachs and real-estate firm JLL to find a new investment partner for his high-end hospitality empire, long a magnet for A-list celebs and industry climbers, ostensibly as part of an expansion plan. Notably, though, the *Journal* also reported that Klein would “consider selling a majority or even all of the businesses,” including his West Hollywood and New York properties. Rambling Reporter gave Klein a call to clear up the confusion and learned that it’s definitely the former — unless, of course, the money ends up being stupid enough for it to be the latter. We are open to the right partner to help us grow, but not to compromise what makes it special,” says Klein, who these days is something of a Hollywood royal himself — as is his husband of nearly 15 years, John Goldwyn, grandson of Samuel.",
+      "published_at": "Fri, 20 Mar 2026 01:41:36 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導Jeff Klein的San Vicente Bungalows酒店業務尋求投資夥伴或考慮出售，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 678,
+      "title": "Jim Marshall, “Godfather Of Rock ‘N’ Roll Photography”, Subject Of Movie Biopic - deadline.com",
+      "link": "https://deadline.com/2026/03/jim-marshall-rock-n-roll-photographer-movie-biopic-1236761325/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## Follow Us:. ## site categories. ### Quiver Acquires US   New Round Of Layoffs Hits 6% Of CBS News Workforce. ## Read More About:. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
+      "published_at": "Fri, 20 Mar 2026 15:06:23 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了搖滾攝影師Jim Marshall的傳記電影計畫，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 679,
+      "title": "Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/mar/24/jay-z-sexual-assault-lawsuit-interview",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’. Jay-Z has spoken out about his recent sexual assault lawsuit in a new interview. The suit alleged that Jay-Z and Sean “Diddy” Combs raped a a 13-year-old girl at a party in 2000. Combs and Jay-Z denied all allegations after the lawsuit was filed in late 2024, and the case was voluntarily dismissed in February 2025. “It was hard,” Jay-Z told GQ. Not even a: ‘I got to go to the board with this.’ It was like a testament because people know me.”. The lawsuit claimed that an unnamed girl was drugged and raped by both Jay-Z and Combs at a party after the MTV music awards in 2000. Jay-Z blasted the assault allegations when they first emerged in late 2024, calling them a “blackmail attempt”. “I don’t know if it’s helpful to our growth where the fallout lands, especially on social media,” the musician added.",
+      "published_at": "Tue, 24 Mar 2026 15:01:35 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要關於Jay-Z的性侵訴訟。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 680,
+      "title": "Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’ - Page Six",
+      "link": "https://pagesix.com/2026/03/24/celebrity-news/jay-z-finally-addresses-sexual-misconduct-allegations-lawsuit/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’. Jay-Z was left “heartbroken” over the sexual misconduct lawsuit filed against him by an anonymous accuser at the end of 2024. I was heartbroken,” Jay-Z, 56, began. After emphasizing that he took the allegations against him “really hard,” Jay-Z once again denied the accusations and insisted they were “not true.”. Jay-Z (pictured here on the April cover of GQ) was left \"heartbroken\" over the sexual misconduct lawsuit filed against him at the end of 2024. Jay-Z finally opened up about the sexual assault allegations and since-dismissed civil lawsuit during a cover interview with GQ published Tuesday. Jay-Z (seen here in Los Angeles in January 2024) called the lawsuit \"blackmail\" and described the accusations against him as \"heinous in nature.\" Getty Images. Jay-Z's anonymous accuser voluntarily withdrew her lawsuit against the rapper (pictured here at the Super Bowl in February 2026) in February 2025.",
+      "published_at": "Tue, 24 Mar 2026 14:35:09 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於饒舌歌手Jay-Z回應性騷擾指控與訴訟，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 681,
+      "title": "Jay-Z gets candid on Diddy lawsuit, Kendrick and Drake feud - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/03/24/jay-z-gq-lawsuit-diddy-kendrick-lamar-drake-blue-ivy/89300089007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Jay-Z gets candid on Diddy lawsuit, Kendrick and Drake feud. The rare profile comes a little over a year after Jay-Z was accused of drugging and raping an underage girl in a lawsuit filed against fellow rapper Sean \"Diddy\" Combs. Jay-Z told GQ that while it would have been \"cheaper\" and \"quicker\" to settle the lawsuit, he said he was determined to see the legal battle through. Jay-Z, whose company Roc Nation oversees the Super Bowl halftime show, reflected on Kendrick Lamar's 2025 performance and the rapper's highly publicized feud with Drake. Jay-Z, who shares 14-year-old daughter Blue Ivy with wife Beyoncé, got candid on the burgeoning performer's journey to joining Beyoncé's 2025 Cowboy Carter Tour. \"On the first tour [Beyoncé's Renaissance World Tour], there was a lot of conversation around her first performance, and she worked really hard to get to that point, but she still wasn't going for it,\" Jay-Z told GQ.",
+      "published_at": "Tue, 24 Mar 2026 18:19:09 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於美國藝人Jay-Z對Diddy訴訟、Kendrick與Drake恩怨以及女兒Blue Ivy的討論，與周杰倫無直接相關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 682,
+      "title": "Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’ - The Cut",
+      "link": "https://www.thecut.com/article/jay-z-says-the-allegations-against-him-were-heartbreaking.html",
+      "source": "Tavily (www.thecut.com)",
+      "snippet": "# Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’. Jay-Z filed a defamation lawsuit against the woman a few weeks later, accusing her and her lawyers of orchestrating an “evil conspiracy” that was “soullessly motivated by greed.” That case remains ongoing. Speaking to *GQ*, Jay-Z said he considered skipping the event but ultimately went to support his family, who he said is a “tight unit.” “Blue has this jersey with ‘Jay-Z’ on the back. Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’. 4. The Woman Having Amazing Sex With a Boring Guy. Hot Divorcées Run Bravo Now. By submitting your email, you agree to our  Terms and Privacy Notice and to receive email correspondence from us. This email will be used to sign into all *New York* sites. This email will be used to sign into all *New York* sites.",
+      "published_at": "Tue, 24 Mar 2026 20:43:19 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國饒舌歌手Jay-Z的法律訴訟與個人感受，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 683,
+      "title": "Jay-Z heads to Yankee Stadium: Best tickets, seats and dates for two-night concert series - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/tickets/news/jay-z-yankee-stadium-tickets-seats-dates-concert-series/0032e2b40f086e40992b6902",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# Jay-Z heads to Yankee Stadium: Best tickets, seats and dates for two-night concert series. Add The Sporting News on Google. Back-to-back in the Bronx. Jay-Z heads to New York for a two-night concert series at the iconic Yankee Stadium. **BUY NOW**: Get tickets to see Jay-Z on SeatGeek. Here's how you can get tickets to see Jay-Z at Yankee Stadium. ## Jay-Z at Yankee Stadium tickets. Tickets to Jay-Z at Yankee Stadium are available now on SeatGeek! **BUY NOW**: Best seats, prices for Jay-Z Yankee Stadium concerts. ## Jay-Z at Yankee Stadium dates. Jay-Z will take the stage at Yankee Stadium on Friday, July 10 and Saturday, July 11. Add Sporting News as a preferred source on Google to see more of our reporting. Emily Dozier is a live events and lifestyle writer at The Sporting News, covering everything from sporting events and music festivals to broadway shows and stand-up comedy.",
+      "published_at": "Tue, 24 Mar 2026 06:20:01 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Jay-Z將在洋基體育場舉辦兩晚演唱會，並提供購票資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 684,
+      "title": "Kevin Hart Live Roast Set at Netflix With Host Shane Gillis - Variety",
+      "link": "https://variety.com/2026/tv/news/kevin-hart-roast-netflix-shane-gillis-1236695049/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Switch edition between U.S. Edition Asia Edition Global Edition. Variety   Plus Icon  Read Next: ABC Scrambles to Delete ‘Bachelorette’ Season 22 Promo Content Amid Taylor Frankie Paul Fallout. # Kevin Hart Live Roast Set at Netflix With Host Shane Gillis. Kevin Hart will be in the hot seat for a live roast on Netflix, the streamer’s follow-up to the hugely popular Tom Brady broadcast in 2024. Hosted by Shane Gillis, the ceremony will take place on Sunday, May 10, the final night of the Netflix Is a Joke Fest. Like the Brady roast, it will be filmed inside the Kia Forum in Los Angeles. ## More from Variety. * ### How ‘The Simpsons’ Made It to 800 Episodes — And Even Helped Save Star Yeardley Smith’s Life. * ### LISTEN: ‘The Simpsons’ Celebrates Episode 800 and Takes Aim at 1,000: ‘It’s a Gift’. ### BTS’ New Album, ‘Arirang,’ Is Finally Here. ### Humbert & Poyet Infuse Monaco-style Joie de Vivre Into First U.S. Model Residence.",
+      "published_at": "Fri, 20 Mar 2026 15:13:01 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於凱文·哈特（Kevin Hart）在Netflix的現場脫口秀，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 685,
+      "title": "BTS Ties Together History & K-Pop Excellence With First Album in 6 Years: Stream ‘ARIRANG’ Now - Billboard Canada",
+      "link": "https://ca.billboard.com/music/music-news/bts-new-album-arirang-first-lp-6-years-listen-1236203070/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "## Katie Tupper Plays a Sold-Out Show in Vancouver: Canadian Concerts of the Week. ## Katie Tupper Plays a Sold-Out Show in Vancouver: Canadian Concerts of the Week. Hot on the heels of her debut album, **Greyhound**, the Saskatoon-based neo-soul singer is flexing her captivating on-stage presence to listeners as she embarks on a full run-through of her latest release. Additionally, Jamaican-Canadian singer Rochelle Jordan brings her shape-shifting, R&B, alt-dance-pop soundscapes to Toronto, while rock band Goo Goo Dolls plays two nights in Western Canada. While it’s been a decade since their last charting album in Canada — 2016’s **Boxes** — the group have cemented their place in the popular music songbook, and are facing a resurgence on TikTok for the '90s era their biggest hit represents. After supporting R&B songstress Yaya Bey on tour at the top of the year, Montreal-based alternative neo-soul singer Magi Merlin is embarking on a headlining tour of her own, where she'll play a show at the intimate venue Casa del Popolo, in what she called “her first hometown show in forever,” on social media.",
+      "published_at": "Fri, 20 Mar 2026 04:00:44 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要介紹了加拿大音樂界多位藝人（如Katie Tupper、Rochelle Jordan、Goo Goo Dolls、Magi Merlin）的近期演唱會和音樂活動，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 686,
+      "title": "Jay-Z and Roots to Be Joined By Erykah Badu, Kehlani, Brandy, T.I. & More at 2026 Roots Picnic - Billboard",
+      "link": "https://www.billboard.com/music/concerts/erykah-badu-kehlani-brandy-ti-2026-roots-picnic-lineup-1236203338/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jay-Z and Roots to Be Joined By Erykah Badu, Kehlani, Brandy, T.I. After announcing earlier this week that Jay-Z andThe Rootswill headline this year’s Roots Picnic on May 30 and May 31 in Philadelphia in its new home in Belmont Plateau, the R&B/hip-hop festival revealed the full lineup on Friday morning (March 20). In addition, the lineup features Kehlani, Brandy and T.I., Mariah the Scientist, a J.Period live mixtape set with Wale and Roots rapper Black Thought, DJ Jazzy Jeff’s Magnificent Block Party, Destin Conrad, KWN and a Jermaine Dupri and friends set. The opening night will be the first time Jay-Z has performed with the Roots in more than a decade. Speaking of the move to scenic Belmont Plateau, Roots manager and Live Nation Urban president Shawn Gee said in a statement, “Moving the Roots Picnic to Belmont Plateau and bringing Jay-Z and The Roots together to perform are both bucket-list moments for us. Visit Billboard Pro for music business news.",
+      "published_at": "Fri, 20 Mar 2026 13:14:29 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了2026年Roots Picnic音樂節的完整陣容，由Jay-Z和The Roots領銜，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 687,
+      "title": "JAŸ-Z adds Yankee Stadium ‘Extra Innings’ concert. Here’s where to get tickets - New York Post",
+      "link": "https://nypost.com/2026/03/25/ticket-sales/jay-z-adds-yankee-stadium-extra-innings-concert-get-tickets/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# JAŸ-Z adds Yankee Stadium ‘Extra Innings’ concert. After announcing two huge concerts at Yankee Stadium *and* weighing in on the Kendrick/Drake spat — *he’s “concerned technology and ‘negative stuff’ are ruining the fun of rap battles*— the 25-time Grammy winner has added a third ‘Extra Innings’ show to his summer stint at “the House that Derek Jeter built.”. The two delivered hits “Crazy In Love,” “N—-s in Paris” and “Drunk in Love” in their first time in concert together in six years. ## JAŸ-Z tickets. Inventory to see JAŸ-Z live is available on all verified ticketing sites. ## JAŸ-Z Yankee Stadium dates. | JAŸ-Z Yankee Stadium dates |. All single and multi-day Roots Picnic options, dates and links to buy tickets are listed here:. | **May 30-31** *Two-day passes* **with JAŸ-Z on May 30** |. | **Saturday, May 30** *Single-day passes* **with JAŸ-Z** |. About the accusation, JAŸ-Z told GQ “That whole [lawsuit thing], that s— took a lot out of me.",
+      "published_at": "Wed, 25 Mar 2026 15:26:37 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導美國饒舌歌手JAŸ-Z（Jay-Z）在洋基體育場加開演唱會的訊息。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 688,
+      "title": "10 Things We Learned From Jay-Z’s ‘GQ’ Interview - Billboard",
+      "link": "https://www.billboard.com/lists/jay-z-gq-interview-2026-takeaways/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "“I love the sparring and the music you get, but in this day and age, it’s so much negative stuff that comes with it, you almost wish it didn’t happen,” Jay said. “Now people that like Kendrick hate Drake no matter what he makes … It’s like an attack on his character and I don’t know if I love that, I don’t know if it’s helpful to our growth, where the fallout lands … It’s too far.”. “The only thing I heard coming up was the American dream,” Jay said. Then it was like: ‘You’re selling out because you’re making money.’ People had this allure for the ‘struggling artist’ — that’s a mind game, what we would call, back in the day, ‘tricknology.’ I’m not going for that.”. “It’s the album that I was always afraid to make,” Jay said. Really hard,” Jay-Z said.",
+      "published_at": "Tue, 24 Mar 2026 20:43:53 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國饒舌歌手Jay-Z的訪談，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 689,
+      "title": "Jay-Z on Kendrick-Drake Beef, Refusing to Settle Sexual Assault Lawsuit - Variety",
+      "link": "https://variety.com/2026/music/news/jay-z-kendrick-drake-beef-settle-sexual-assault-lawsuit-1236697679/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Jay-Z Says Kendrick-Drake Beef Went Too Far by ‘Bringing People’s Kids In,’ Explains Why He Refused to Settle Sexual Assault Lawsuit: ‘I Would Die’. Because even if 10 million people know some of these songs, there’s 120 million people that’re like, ‘What is he doing?’ As an artist, to stand up there and do it and complete your vision — I had to tip my hat. Well, I don’t know if you’re going to like it. Just everything around it was like, ‘Man, this is taking us a couple steps back.’ We’ve just grown so much that — I guess I’m going to say it — I don’t know if battling needs to be part of the culture anymore. Jay later added, “I realize it’s a bit hypocritical because of how many battles I’ve been in, and given the nature of ‘Super Ugly.’ It takes growth to arrive at this place, because I’ve done the bullshit too!”.",
+      "published_at": "Tue, 24 Mar 2026 13:38:45 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導 Jay-Z 對 Kendrick-Drake 紛爭及性侵訴訟的看法，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 690,
+      "title": "Charlotte Cardin’s ‘The Way We Touch’ Debuts in the Top 50 on Billboard Canadian Hot 100 - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/charlotte-cardin-billboard-canada-charts",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "As a well-known bilingual artist with hits in both of Canada's official languages, the song marks Cardin’s return to singing in English — her first since 2024’s **A Week in Nashville** EP. The song dropped the same week as his new global collaboration \"Ranjha\" with Sia and David Guetta, which debuted for the first time at Toronto Metropolitan University for students in the historic first course dedicated to a Punjabi artist in partnership with *Billboard Canada*. Scoring over five million monthly listeners, the Nanaimo, B.C.-native has expanded his streaming success onto the charts, notching multiple hits on the Billboard Canadian Hot 100, most recently with “You And Me,” his first-ever love song. The rise of streaming has allowed artists to go beyond their home country, exporting globally — Canada slots in as one of the top 10 countries exporting artists, known for francophone artists reaching audiences beyond Québec and diaspora-driven genres like Punjabi-Canadian music hitting a stride, led by artists like Karan Aujla.",
+      "published_at": "Tue, 24 Mar 2026 19:28:55 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要報導加拿大歌手Charlotte Cardin的音樂成就，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 691,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Alex Isley, 6LACK, Afroman, Jorja Smith & More - Billboard",
+      "link": "https://www.billboard.com/lists/alex-isley-6lack-afroman-jorja-smith-rb-hip-hop-fresh-picks/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Alex Isley, 6LACK, Afroman, Jorja Smith & More. Listen to new must-hear songs from R&B/hip-hop artists like Jastin Martin and Mudbaby Ru. Kyle Denis, Christopher Claxton, Michael Saponara, Angel Diaz. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from a new 6LACK joint to a high-octane link-up between Mudbaby Ru and Key Glock. Five-time Grammy nominee 6LACK is back with “Bird Flu,” the first single from his highly anticipated new *Love Is the New Gangsta* album, and it’s a real smooth listen. And while the undeniable banger, “Will You Help Me Repair My Door,” is getting all the attention, I would like to highlight “Why You Disconnecting My Video Camera” because the disses in this song got brought up during the trial as the cops tried to sue for defamation over a diss track that not many knew existed until recently.",
+      "published_at": "Mon, 23 Mar 2026 18:11:26 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫，主要報導Billboard的R&B/Hip-Hop新歌推薦，包含Alex Isley、6LACK、Afroman等藝人。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 692,
+      "title": "Jay-Z Won't Apologize for Being a Billionaire - Business Insider",
+      "link": "https://www.businessinsider.com/jay-z-billionaire-capitalist-business-strategy-response-2026-3",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "Billionaire rapper Jay-Z says his success isn't about \"selling out.\" It's about getting paid. Then it was like: You're selling out because you're making money,\" Jay-Z said. Jay-Z was alluding to the leftist refrain that there's no such thing as a \"good\" billionaire, an idea that suggests amassing so much wealth requires exploiting other people's labor, and that hoarding it fuels inequality. Later in the interview, Jay-Z explicitly pushed back on this dichotomy, saying \"people behave the way they want to behave\" regardless of how much money they have. \"With that success, I've done things with my reach that I wanted to do that was helpful for a lot of people,\" he continued, adding, \"A person with more money can do more good. Jay-Z has since been joined on music's list of billionaires by his Roc Nation signee, Rihanna; his wife, Beyoncé; and his industry friend, Taylor Swift.",
+      "published_at": "Tue, 24 Mar 2026 20:14:37 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導饒舌歌手Jay-Z為其億萬富翁身份辯護，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 693,
+      "title": "Jay-Z Opens Up About Kendrick-Drake Beef in Rare Interview - Pitchfork",
+      "link": "https://pitchfork.com/news/jay-z-opens-up-about-kendrick-drake-beef-in-first-interview-in-years/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "After praising Kendrick Lamar’s performance at the 2025 Super Bowl halftime show, Jay went long on the beef between Drake and Lamar, positioning it in the context of the “four pillars of hip-hop”: breakdancing, graffiti, DJing, and battling. He lamented that stan culture forces fans to align with one side of a beef: “Now, people that like Kendrick hate Drake, no matter what he makes. It’s like an attack on his character.” The culture, he said, “could stand [the sparring] before because there was no social media. “And the culture is happily playing along in the name of this insane thirst of Stan culture to have something on the other side.” He also accepted his own place in rap-beef legend: “I actually regret that because I *really* like Nas,” he told Tharpe of the two rappers’ turn-of-the-millennium duel. “I didn’t pick the indie artist that I really like from Portland,” Jay said.",
+      "published_at": "Tue, 24 Mar 2026 14:35:15 GMT",
+      "collected_at": "2026-03-26 06:02:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Jay-Z對嘻哈界恩怨的看法，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -9484,6 +9736,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫寫這首歌罵方文山！意外變曠世巨作　一紅就是20年 - 三立娛樂星聞、斥資一億打造MV！周杰倫深夜急做民調 春風不忍了：整張都蠻扯 - Yahoo新聞、周杰倫深V裝配Dior幸運項鍊帥翻 上億畢卡索名畫也搶鏡 - ETtoday新聞雲",
       "created_at": "2026-03-25 05:42:10"
+    },
+    {
+      "id": 4,
+      "report_date": "2026-03-26",
+      "total_articles": 18,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 18,
+      "daily_summary": "周杰倫睽違四年推出新專輯《太陽之子》，首波主打MV斥資上億元，由《阿凡達》團隊打造，並藏有30幅名畫彩蛋。專輯中為小女兒創作〈女兒殿下〉，更預告將公開與昆凌的求婚影片。他還分享曾兩度恐慌症發作，並透露巡演最終站可能回台灣。",
+      "key_events": [
+        "發行新專輯《太陽之子》",
+        "億元MV藏名畫彩蛋",
+        "將公開昆凌求婚片"
+      ],
+      "created_at": "2026-03-26 06:04:33"
     }
   ],
   "notification_logs": [
@@ -9598,11 +9865,25 @@
       "message": "每日報告",
       "status": "失敗: Token 或 Chat ID 未設定",
       "sent_at": "2026-03-25 05:42:10"
+    },
+    {
+      "id": 17,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "失敗: {\"message\":\"Authentication failed. Confirm that the access token in the authorization header is valid.\"}",
+      "sent_at": "2026-03-26 06:04:33"
+    },
+    {
+      "id": 18,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-26 06:04:34"
     }
   ],
   "_meta": {
-    "nextArticleId": 676,
-    "nextReportId": 4,
-    "nextLogId": 17
+    "nextArticleId": 694,
+    "nextReportId": 5,
+    "nextLogId": 19
   }
 }
