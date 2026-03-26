@@ -15,11 +15,12 @@ const parser = new RSSParser({
 
 // 搜尋關鍵字
 const SEARCH_KEYWORDS = [
+  '周杰倫 太陽之子',
+  '周杰倫 新專輯',
   '周杰倫',
   'Jay Chou',
   '周杰倫 演唱會',
-  '周杰倫 新歌',
-  '周杰倫 新聞'
+  '周杰倫 新歌'
 ];
 
 /**

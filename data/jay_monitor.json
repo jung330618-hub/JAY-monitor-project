@@ -2556,11 +2556,11 @@
       "snippet": "周杰倫澳網退役! 親口預告轉換跑道 回歸音樂開工照曝光  MSN",
       "published_at": "2026-02-03T01:28:10.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫宣布將重心轉回音樂，並曝光了回歸音樂工作的照片。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 184,
@@ -2570,11 +2570,11 @@
       "snippet": "獨家／王子免費住昆凌豪宅恐生變？「勾搭人妻」牴觸周杰倫道德標準  Yahoo新聞",
       "published_at": "2025-10-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "新聞指出王子因「勾搭人妻」恐與周杰倫的道德標準牴觸，可能影響其免費入住昆凌豪宅的安排。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 185,
@@ -2584,11 +2584,11 @@
       "snippet": "PHANTACI × TaylorMade 跨界合作， 9 月登場高爾夫主題系列「GOLFERS NEVER GIVE UP」  JUKSY 街星",
       "published_at": "2025-09-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫共同創立的品牌PHANTACI與TaylorMade跨界合作，將於九月推出高爾夫主題系列商品。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 186,
@@ -2598,11 +2598,11 @@
       "snippet": "體壇焦點／澳網今開戰！周杰倫16:30搶千萬獎金　謝淑薇力拚第8冠  NOWnews今日新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞標題提及周杰倫將參與澳網爭奪獎金，但此應非指知名歌手周杰倫本人。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 187,
@@ -2612,11 +2612,11 @@
       "snippet": "周杰倫新專輯終於來了 名稱竟與張學友有關 | CTWANT  LINE TODAY",
       "published_at": "2026-03-18T05:08:47.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫即將推出新專輯，其名稱意外地與張學友有關，引發關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 188,
@@ -2626,11 +2626,11 @@
       "snippet": "周杰倫新巡演「場次時間出爐了」！年後在這連唱3天 粉絲樂壞準備搶票  噓！星聞",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新巡演的場次時間已公布，他將在年後連唱三天，讓粉絲們非常興奮並準備搶票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 189,
@@ -2640,11 +2640,11 @@
       "snippet": "等了半年...周杰倫演唱會真的來了！　4月正式起跑「首站地點曝光」  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫的演唱會經過半年等待後終於確定於四月正式啟動，並公布了首站地點。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 190,
@@ -2654,11 +2654,11 @@
       "snippet": "周杰倫演唱會門票「溢價近7倍」！黃牛遭重罰264萬反控警「釣魚執法」  Newtalk新聞",
       "published_at": "2026-02-26T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫演唱會門票遭黃牛溢價近7倍販售，黃牛因此被重罰264萬並反控警方釣魚執法。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 191,
@@ -2668,11 +2668,11 @@
       "snippet": "周杰倫上海開唱單場逾6萬人大批粉絲守場外聆聽| 兩岸  中央社 CNA",
       "published_at": "2025-10-09T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在上海舉辦的演唱會吸引了超過六萬名觀眾，場外也有大批粉絲駐足聆聽，顯示其超高人氣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 192,
@@ -2682,11 +2682,11 @@
       "snippet": "周杰倫承諾新專輯「明年3、4月推出」！ 曝2026年演唱會計畫  台視新聞網",
       "published_at": "2025-12-04T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫宣布新專輯預計於明年3、4月推出，並透露了2026年的演唱會計畫。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 193,
@@ -2696,11 +2696,11 @@
       "snippet": "周杰倫演唱會來了！4月新巡演《煙花》首站到杭州　新專輯快好了  NOWnews今日新聞",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫宣布四月將展開新巡演《煙花》，首站杭州，且新專輯也即將完成。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 194,
@@ -2710,11 +2710,11 @@
       "snippet": "看完周杰倫演唱會1年！他曝收文化局公文「遭檢舉黃牛」 釣一排苦主  華視新聞網",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "一名歌迷在觀看周杰倫演唱會一年後，收到文化局公文指控其為黃牛，引發許多有類似遭遇的苦主共鳴。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 195,
@@ -2724,11 +2724,11 @@
       "snippet": "周杰倫上海演唱會創紀錄　宣告明年展開全新一套的演唱會  鏡週刊Mirror Media",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫上海演唱會創下紀錄，並預告明年將啟動一套全新的演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 196,
@@ -2738,11 +2738,11 @@
       "snippet": "周杰倫演唱會紀念收藏卡 1/21限量上市！超稀有親簽卡、兌換卡以及獨家花絮卡，趕緊帶回家  樂聯網",
       "published_at": "2026-01-21T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將於1月21日限量發行演唱會紀念收藏卡，包含超稀有親簽卡、兌換卡及獨家花絮卡，吸引粉絲收藏。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 197,
@@ -2752,11 +2752,11 @@
       "snippet": "才唱完110場！周杰倫爆25周年大喜訊 台北站進度曝光  噓！星聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在完成110場演唱會後，傳出25周年慶祝活動的「大喜訊」，並曝光了台北站的最新進度。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 198,
@@ -2766,11 +2766,11 @@
       "snippet": "2026演唱會全攻略！演唱會時間表、搶票資訊、票價總整理（持續更新）  商周",
       "published_at": "2025-11-04T06:47:15.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "這是一篇關於2026年演唱會的全面攻略，提供時間表、搶票資訊和票價整理，並持續更新，可能涵蓋周杰倫的潛在演出資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 199,
@@ -2780,11 +2780,11 @@
       "snippet": "周杰倫開唱吸18萬人破紀錄！　突無預警宣布「全新巡演」來了  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會吸引18萬人次打破紀錄，並無預警宣布將舉辦全新巡演。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 200,
@@ -2794,11 +2794,11 @@
       "snippet": "看周杰倫演唱會被當「黃牛」查辦！ 文化局：可提證據自清  Yahoo新聞",
       "published_at": "2026-01-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "有民眾在觀看周杰倫演唱會時被誤認為黃牛查辦，文化局回應可提供證據自清。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 201,
@@ -2808,11 +2808,11 @@
       "snippet": "獨家／哭了！周杰倫演唱會「最終場時間地點曝光」　公司證實  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "ETtoday星光雲獨家報導，周杰倫演唱會的最終場時間地點已曝光並獲公司證實，引發粉絲熱烈期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 202,
@@ -2822,11 +2822,11 @@
       "snippet": "周杰倫震撼宣布全新巡演！官方證實這時間登場 25週年後全新概念規模  Yahoo新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫震撼宣布將舉辦全新概念的大規模巡迴演唱會，慶祝出道25週年。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 203,
@@ -2836,11 +2836,11 @@
       "snippet": "周杰倫演唱會「山下智久突登台」！ 男神合唱嗨翻歌迷兩人相識內幕曝光  MSN",
       "published_at": "2026-02-25T21:18:51.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會上，日本男星山下智久驚喜登台並與其合唱，讓歌迷嗨翻，同時也揭露了兩人相識的內幕。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 204,
@@ -2850,11 +2850,11 @@
       "snippet": "周杰倫廈門演唱會增「視線不良票區」 票價仍要近四千元網熱議  MSN",
       "published_at": "2025-07-08T22:34:19.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫廈門演唱會新增高價「視線不良票區」引發網友熱議，顯示消費者對此安排的不滿。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 205,
@@ -2864,11 +2864,11 @@
       "snippet": "周杰倫演唱會曾恐慌發作！醫揭真相：不是想太多，是大腦失衡  TVBS 健康2.0",
       "published_at": "2025-10-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "報導指出周杰倫曾於演唱會上恐慌發作，醫生解釋此為大腦失衡所致。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 206,
@@ -2878,11 +2878,11 @@
       "snippet": "看周杰倫演唱會卻被誤當黃牛！文化局發公文要求自證　歌迷炸鍋  NOWnews今日新聞",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "一名歌迷在觀看周杰倫演唱會後被文化局誤認為黃牛並要求自證清白，引發廣大歌迷不滿。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 207,
@@ -2892,11 +2892,11 @@
       "snippet": "新竹男謊稱讓售周杰倫演唱會門票詐4人 遭判刑1年  聯合新聞網",
       "published_at": "2025-12-10T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "新竹一名男子因謊稱讓售周杰倫演唱會門票詐騙4人，被判處1年有期徒刑。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 208,
@@ -2906,11 +2906,11 @@
       "snippet": "周杰倫曾恐慌症發作「動念取消演唱會」 歌迷敲碗唱回台北杰威爾回應了  自由娛樂",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "新聞提及周杰倫曾因恐慌症考慮取消演唱會，但歌迷仍熱切期盼他能回台北開唱，其公司杰威爾也對此做出回應。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 209,
@@ -2920,11 +2920,11 @@
       "snippet": "周杰倫認曾「恐慌發作無法上台」　親揭6年巡演辛酸：我無法控制  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-10-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.38,
+      "summary": "周杰倫坦承過去六年巡演期間曾因恐慌發作而無法上台，揭露了其背後的辛酸。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 210,
@@ -2934,11 +2934,11 @@
       "snippet": "周杰倫「嘉年華」世界巡迴演唱會一連三天在香港開唱 與亞洲男神山下智久世紀同台 HIGH翻香江  playmusic.tw",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫「嘉年華」世界巡迴演唱會在香港盛大舉行，並邀請到山下智久同台演出，氣氛熱烈。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 211,
@@ -2948,11 +2948,11 @@
       "snippet": "大哥拒買票！潛伏16小時「混進周杰倫演唱會」只為賣水　身份曝光網全跪了 | 國際 | CTWANT  CTWANT",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.65,
+      "summary": "一位大哥潛伏16小時混入周杰倫演唱會賣水，其身份曝光後引發網友熱議與驚嘆，間接凸顯周杰倫演唱會的吸引力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 212,
@@ -2962,11 +2962,11 @@
       "snippet": "網瘋傳「演唱會搶票難度榜」！周杰倫、檀健次最難搶　楊丞琳被歸：有手就行  噓！星聞",
       "published_at": "2025-07-09T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "網路瘋傳的演唱會搶票難度榜顯示，周杰倫的演唱會門票被公認為最難搶購，凸顯其極高人氣與市場號召力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 213,
@@ -2976,11 +2976,11 @@
       "snippet": "周杰倫全新巡演時間曝光 「演唱會名稱」藏驚喜  Yahoo新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫全新巡演時間曝光，且演唱會名稱預告將有驚喜，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 214,
@@ -2990,11 +2990,11 @@
       "snippet": "周杰倫全新巡迴演唱會來了！老搭檔擔任總監　新專輯最後倒數3首未完成  三立娛樂星聞",
       "published_at": "2026-02-11T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫宣布將舉辦全新巡迴演唱會，同時新專輯也已進入最後倒數階段，僅剩三首歌尚未完成。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 215,
@@ -3004,11 +3004,11 @@
       "snippet": "周杰倫演唱會黃牛爆多！粉絲沒賣票也遭檢舉 北市府發聲了  PChome Online 新聞",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫演唱會因黃牛猖獗導致粉絲受害，甚至有未賣票粉絲遭檢舉，台北市政府已對此發聲。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 216,
@@ -3018,11 +3018,11 @@
       "snippet": "周杰倫演唱會「山下智久開金口」！夢幻場面太驚喜　2人都愛這1物  NOWnews今日新聞",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會上山下智久驚喜開唱，創造了夢幻場面，兩人還因共同喜好產生連結。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 217,
@@ -3032,11 +3032,11 @@
       "snippet": "周杰倫演唱會火爆登場！「面子好大」全靠這款油切水扛住  自由時報",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫演唱會成功舉辦，報導幽默提及他以油切水維持狀態。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 218,
@@ -3046,11 +3046,11 @@
       "snippet": "周杰倫演唱會賣水哥爆紅！不聽歌、不看人　潛伏場館16小時只賣水  NOWnews今日新聞",
       "published_at": "2025-09-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫演唱會上，一位專注賣水16小時、不聽歌不看人的水哥意外爆紅，展現演唱會的周邊影響力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 219,
@@ -3060,11 +3060,11 @@
       "snippet": "辣模看周杰倫演唱會外套脫一半 只剩內衣「爆彈奶奶」炸出  鏡週刊Mirror Media",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一篇報導指出有辣模在周杰倫演唱會上因穿著清涼內衣而引起媒體關注。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 220,
@@ -3074,11 +3074,11 @@
       "snippet": "周杰倫啟德演唱會驚傳今晚有山下智久 首場爆滿氣氛高漲  香港01",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫啟德演唱會首場爆滿且氣氛高漲，並驚傳有山下智久擔任嘉賓，為演唱會增添驚喜與熱度。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 221,
@@ -3088,11 +3088,11 @@
       "snippet": "太難搶！周杰倫演唱會爆大批詐騙 為求一張門票換來170萬港幣損失  Yahoo新聞",
       "published_at": "2025-06-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.05,
+      "summary": "周杰倫演唱會門票因供不應求，導致大批詐騙案發生，造成粉絲高達170萬港幣的經濟損失。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 222,
@@ -3102,11 +3102,11 @@
       "snippet": "周杰倫演唱會2025丨港鐵加班次、巴士加開特別路線即睇啟德體育園入場安排、交通、紀念品Pop Up店位置  Yahoo",
       "published_at": "2025-06-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "此新聞詳細說明了周杰倫2025年演唱會的交通安排（港鐵加班次、巴士加開特別路線）及紀念品Pop Up店位置，為歌迷提供便利資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 223,
@@ -3116,11 +3116,11 @@
       "snippet": "他潛伏10餘小時才混入周杰倫演唱會 卻根本不看周杰倫  壹蘋新聞網",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一名粉絲潛伏多時混入周杰倫演唱會，但其目的並非觀看周杰倫的演出。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 224,
@@ -3130,11 +3130,11 @@
       "snippet": "周杰倫演唱會台下驚見「內衣正妹」！外套一脫辣秀G級美胸　身分曝光  三立娛樂星聞",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫演唱會台下有女粉絲因穿著性感而引起關注，其身份隨後曝光。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 225,
@@ -3144,11 +3144,11 @@
       "snippet": "周杰倫宣布將展開全新巡迴演唱會！官方證實：「明年登場！」  JUKSY 街星",
       "published_at": "2025-10-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫宣布將於明年舉辦全新巡迴演唱會，官方已證實此消息。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 226,
@@ -3158,11 +3158,11 @@
       "snippet": "周杰倫巡迴演唱會最終場來了！粉絲快把握最後機會 杰威爾證實了  Yahoo新聞",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "杰威爾證實周杰倫巡迴演唱會最終場即將到來，呼籲粉絲把握最後機會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 227,
@@ -3172,11 +3172,11 @@
       "snippet": "周杰倫爆重大決定！忍痛宣布「演唱會縮減」 親吐內情粉絲全心碎  自由娛樂",
       "published_at": "2025-04-25T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫忍痛宣布將縮減演唱會場次，讓粉絲感到心碎。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 228,
@@ -3186,11 +3186,11 @@
       "snippet": "獨家／副市長之子變狼！用周杰倫演唱會誘正妹 W飯店內2度伸魔爪  Yahoo新聞",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "新聞報導指出，一名副市長之子涉嫌利用周杰倫演唱會為誘餌，在飯店內對一名女性進行性騷擾或性侵。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 229,
@@ -3200,11 +3200,11 @@
       "snippet": "怪叔叔埋伏10小時混入周杰倫演唱會 做完1事就走人  自由娛樂",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一位粉絲埋伏10小時混入周杰倫演唱會，完成一件事後便離開。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 230,
@@ -3214,11 +3214,11 @@
       "snippet": "周杰倫演唱會｜「黑輪」出現起騷動 楊證樺一招穩定場面獲激讚  香港01",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫演唱會期間，因「黑輪」引發騷動，楊證樺成功穩定場面並獲激讚。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 231,
@@ -3228,11 +3228,11 @@
       "snippet": "周杰倫演唱會｜包廂門票再現索價$7000 黃牛寸爆：香港冇實名制  香港01",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫演唱會包廂門票被黃牛以高價$7000轉售，並囂張表示香港缺乏實名制，引發票務亂象。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 232,
@@ -3242,11 +3242,11 @@
       "snippet": "周杰倫自爆曾恐慌發作無法上台 轉頭宣布下年開新巡唱  on.cc東網",
       "published_at": "2025-10-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫自爆曾有恐慌發作無法上台的經歷，但同時也宣布將於明年舉辦新的巡迴演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 233,
@@ -3256,11 +3256,11 @@
       "snippet": "周杰倫演唱會驚見「比基尼正妹」場邊最辣風景 身分曝光竟是她！  Yahoo新聞",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫演唱會因場邊出現一位穿比基尼的女性而引起話題，其身分也隨之曝光。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 234,
@@ -3270,11 +3270,11 @@
       "snippet": "周杰倫演唱會明晚開鑼 周董罕晒3歲愛女萌照助慶  東周刊",
       "published_at": "2025-06-26T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會即將開鑼，他罕見地分享了三歲愛女的可愛照片，為演唱會增添話題與溫馨氣氛。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 235,
@@ -3284,11 +3284,11 @@
       "snippet": "吳宗憲開唱宣布加場「邀周杰倫站台？」本人親自回應了  中時新聞網",
       "published_at": "2026-02-04T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導吳宗憲開唱加場，外界關注是否邀請周杰倫站台，而周杰倫本人已對此做出回應。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 236,
@@ -3298,11 +3298,11 @@
       "snippet": "6月演唱會消息一文睇清｜周杰倫、MIRROR、太妍、濱崎步、麥浚龍、XIUMIN、BE:FIRST  Yahoo",
       "published_at": "2025-05-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於六月份演唱會資訊的整理，其中提及周杰倫將有演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 237,
@@ -3312,11 +3312,11 @@
       "snippet": "周杰倫演唱會開騷｜內地粉絲嘆難搶飛 豪花$8700買貴逾3倍黃牛票  香港01",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫演唱會門票供不應求，顯示其極高人氣，導致粉絲不惜高價購買黃牛票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 238,
@@ -3326,11 +3326,11 @@
       "snippet": "周杰倫演唱會邀郭富城當嘉賓！睽違 18 年合體引粉絲嗨翻：「回憶殺！」  JUKSY 街星",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會邀請郭富城擔任嘉賓，兩人睽違18年再度合體，引發粉絲熱烈迴響並直呼是「回憶殺」。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 239,
@@ -3340,11 +3340,11 @@
       "snippet": "周杰倫演唱會｜天文台料強雷雨區來襲 入場可帶傘？禁帶物品一覽  香港01",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞提醒周杰倫演唱會可能遭遇強雷雨，並提供入場是否可帶傘及禁帶物品的資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 240,
@@ -3354,11 +3354,11 @@
       "snippet": "周杰倫演唱會2100元門票「絕對看不到周杰倫」 體驗氣氛照樣秒殺  壹蘋新聞網",
       "published_at": "2025-04-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會即使是視野不佳的低價門票，仍因粉絲渴望體驗現場氣氛而迅速售罄，顯示其超高人氣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 241,
@@ -3368,11 +3368,11 @@
       "snippet": "周杰倫「嘉年華」演唱會CARNIVAL系列收藏卡面市  香港商报",
       "published_at": "2025-10-09T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫「嘉年華」演唱會的CARNIVAL系列收藏卡已正式面市。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 242,
@@ -3382,11 +3382,11 @@
       "snippet": "Cityline 周杰倫演唱會2025 加場購票攻略｜HSBC優先預訂啟德場館門票  Sundaykiss",
       "published_at": "2025-06-26T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "此新聞提供周杰倫2025年演唱會加場的購票攻略，包含HSBC優先預訂啟德場館門票的資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 243,
@@ -3396,11 +3396,11 @@
       "snippet": "周杰倫演唱會2025香港站｜門票票價/購票日期/座位表/搶飛攻略一文睇清  Sundaykiss",
       "published_at": "2025-06-03T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這則新聞提供周杰倫2025年香港演唱會的門票、購票日期、座位表及搶票攻略等詳細資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 244,
@@ -3410,11 +3410,11 @@
       "snippet": "周杰倫演唱會12/8最終場！演出精華、幕後花絮、歌單複習、點歌注意事項、懶人包一次看  Yahoo新聞",
       "published_at": "2025-04-01T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這則新聞為周杰倫演唱會最終場提供演出精華、幕後花絮、歌單複習及點歌注意事項等實用懶人包資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 245,
@@ -3424,11 +3424,11 @@
       "snippet": "周杰倫臺北大巨蛋演唱會再加開「視線遮蔽區」！票價、座位圖、售票時間資訊一覽  Vogue Taiwan",
       "published_at": "2024-10-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫臺北大巨蛋演唱會因應高需求，宣布加開「視線遮蔽區」門票，並公布相關票價、座位圖及售票時間資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 246,
@@ -3438,11 +3438,11 @@
       "snippet": "周杰倫演唱會後台與媽媽葉惠美合影！母子倆同穿Dior成最強宣傳  自由時報",
       "published_at": "2025-04-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在演唱會後台與媽媽葉惠美穿著Dior合影，展現溫馨母子情並達到品牌宣傳效果。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 247,
@@ -3452,11 +3452,11 @@
       "snippet": "周杰倫大巨蛋演唱會4天亮點：陳冠希、山下智久、許光漢全來朝聖！五月天、張惠妹同唱是全場7、8 年級青春集大成  Vogue Taiwan",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫大巨蛋演唱會眾星雲集，陳冠希、山下智久、許光漢等名人到場朝聖，五月天與張惠妹的同台演出更是凝聚了7、8年級生的青春回憶，整體氛圍熱烈且充滿正面能量。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 248,
@@ -3466,11 +3466,11 @@
       "snippet": "黃牛集團鎖定周杰倫演唱會海內外狂撈358萬 卻不服財產被扣這麼多  聯合新聞網",
       "published_at": "2025-04-04T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.2,
+      "summary": "一個黃牛集團因鎖定周杰倫演唱會進行非法牟利，海內外狂撈358萬元，但對財產被扣押表示不服。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 249,
@@ -3480,11 +3480,11 @@
       "snippet": "周杰倫演唱會門票遭偽造販售刑事局逮工程師送辦| 社會  中央社 CNA",
       "published_at": "2025-03-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫演唱會門票遭偽造販售，刑事局已逮捕涉案工程師並送辦。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 250,
@@ -3494,11 +3494,11 @@
       "snippet": "周杰倫演唱會入場攻略：入場時間、啟德安檢違禁品、周邊限定店、取票地點、歌單及交通  timeout.com.hk",
       "published_at": "2025-06-26T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則新聞提供周杰倫演唱會的詳細入場攻略，包含入場時間、安檢、周邊商品、取票、歌單及交通資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 251,
@@ -3508,11 +3508,11 @@
       "snippet": "周杰倫演唱會2025歌單｜20首周氏情歌點歌環節必點推薦！一首禁忌之歌不能點！  U Lifestyle",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "該新聞為周杰倫2025演唱會提供歌單推薦，並提及點歌環節的必點情歌及一首禁忌之歌，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 252,
@@ -3522,11 +3522,11 @@
       "snippet": "啟德體育園︱周杰倫演唱會6.27起一連三晚舉行 設特別交通安排  香港01",
       "published_at": "2025-06-25T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫將於6月27日起在啟德體育園舉行一連三晚的演唱會，並將實施特別交通安排。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 253,
@@ -3536,11 +3536,11 @@
       "snippet": "周杰倫演唱會2025香港站（門票加推）｜門票票價/購票日期/座位表/搶飛攻略一文睇清  Sundaykiss",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "該新聞報導了周杰倫2025香港演唱會門票加推的詳細資訊，包括票價、購票日期、座位表及搶票攻略。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 254,
@@ -3550,11 +3550,11 @@
       "snippet": "周杰倫演唱會｜情侶「小紅書」賣假飛斷正 警檢逾千張印同一編號  香港01",
       "published_at": "2025-07-22T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "一對情侶因在「小紅書」販售周杰倫演唱會假票被捕，警方查獲逾千張印有相同編號的假票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 255,
@@ -3564,11 +3564,11 @@
       "snippet": "周杰倫演唱會正式落幕啦！一起回顧4場演唱會的嘉賓&金句：「我會繼續乘著我音樂的翅膀，飛往下一個20年」  Women's Health",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這篇報導回顧了周杰倫演唱會的成功落幕，並強調他對未來音樂事業的承諾。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 256,
@@ -3578,11 +3578,11 @@
       "snippet": "假演唱會門票│ 偽造啟德體育園和紅館演唱會門票警搗詐騙集團檢高仿周杰倫個唱門票拘8男女 - 香港 - 香港文匯網  香港文匯網",
       "published_at": "2025-06-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "警方搗破一個詐騙集團，檢獲高仿周杰倫演唱會門票，並拘捕8名涉案人士。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 257,
@@ -3592,11 +3592,11 @@
       "snippet": "周杰倫演唱會2025｜郭富城任尾場嘉賓爆意外 多名舞蹈員包圍協助 天王級淡定執生功力驚人  星島頭條",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫演唱會上，嘉賓郭富城雖遇意外，但憑藉其天王級的淡定與應變能力，在舞蹈員協助下順利化解，展現驚人執生功力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 258,
@@ -3606,11 +3606,11 @@
       "snippet": "上台送周杰倫演唱會 2025 香港站最貴 HK$1,880 門票兩張！  DCFever.com",
       "published_at": "2025-04-15T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "DCFever.com舉辦活動贈送周杰倫2025香港演唱會最貴的兩張門票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 259,
@@ -3620,11 +3620,11 @@
       "snippet": "周杰倫演唱會2100元門票「絕對看不到周杰倫」一樣秒殺  品觀點",
       "published_at": "2025-04-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫演唱會即使是視線受阻的低價門票也瞬間秒殺，凸顯其極高的人氣與市場號召力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 260,
@@ -3634,11 +3634,11 @@
       "snippet": "周杰倫演唱會香港站2025 一文睇清啟德交通/禁帶物品清單/的士上落客區/行李寄存等安排！  U Lifestyle",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "這篇報導提供了周杰倫2025年香港演唱會的交通、禁帶物品、的士上落客區及行李寄存等實用資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 261,
@@ -3648,11 +3648,11 @@
       "snippet": "周杰倫演唱會黃牛包廂票 體育園：不得轉售 有權中止租用安排  香港01",
       "published_at": "2025-06-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "體育園針對周杰倫演唱會黃牛包廂票問題發出聲明，強調不得轉售且有權中止租用安排。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 262,
@@ -3662,11 +3662,11 @@
       "snippet": "周杰倫香港演唱會「門票再加開」！時間、座位表、訂購攻略一次看  TVBS新聞網",
       "published_at": "2025-03-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫香港演唱會因需求熱烈再次加開門票，並提供詳細的購票資訊與攻略。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 263,
@@ -3676,11 +3676,11 @@
       "snippet": "「周杰倫演唱會是一場糟糕的體驗！」他揭現場「3崩潰體驗」…網笑： 安慰到買不到票的我  風傳媒",
       "published_at": "2024-10-31T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "一位粉絲幽默地分享了周杰倫演唱會上的「3崩潰體驗」，引發網友共鳴並笑稱這安慰了買不到票的人，顯示演唱會的高人氣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 264,
@@ -3690,11 +3690,11 @@
       "snippet": "快訊／周杰倫大巨蛋演唱會場次、票價、售票日全出爐！  噓！星聞",
       "published_at": "2024-09-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫大巨蛋演唱會的場次、票價及售票日期等詳細資訊已正式公布，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 265,
@@ -3704,11 +3704,11 @@
       "snippet": "還有一次機會！周杰倫12月大巨蛋演唱會「加開」，11/2座位圖、票價一次看  ELLE",
       "published_at": "2024-10-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫因需求旺盛，將於12月在大巨蛋加開演唱會場次，並公布座位圖與票價資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 266,
@@ -3718,11 +3718,11 @@
       "snippet": "周杰倫演唱會一連3天在啟德主場館舉行  Now 新聞",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫將在啟德主場館連續舉行三場演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 267,
@@ -3732,11 +3732,11 @@
       "snippet": "周杰倫演唱會4天亮點全紀錄＋完整歌單！江蕙開金口唱〈煙花易冷〉，動力火車、孫燕姿、昆凌爺爺都來了！  ELLE",
       "published_at": "2024-12-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞報導了周杰倫演唱會四天的精彩亮點與完整歌單，並提及江蕙、動力火車、孫燕姿及昆凌爺爺等嘉賓的驚喜現身。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 268,
@@ -6131,6 +6131,496 @@
       "summary": "此新聞報導主要關於Anson Lo對歌唱、演戲、心理健康及香港流行音樂發展的看法，內容未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 439,
+      "title": "Carly Rae Jepsen Announces Birth of Baby No. 1 With Husband Cole M.G.N.: ‘Welcome to the World Little One’ - Billboard Canada",
+      "link": "https://ca.billboard.com/music/music-news/carly-rae-jepsen-baby-husband-cole-mgn-1236201427/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "# Carly Rae Jepsen Announces Birth of Baby No. 1 With Husband Cole M.G.N.: ‘Welcome to the World Little One’. Before Carly Rae Jepsen‘s daughter came into her life, she missed her so bad — but now the little one is here, as announced by the singer on Tuesday (March 17). The Billboard Hot 100-topping artist and Cole M.G.N. got married in October, tying the knot at the iconic Chelsea Hotel in New York City just over a year after announcing their engagement. ## Carly Rae Jepsen Announces Birth of Baby No. 1 With Husband Cole M.G.N.: ‘Welcome to the World Little One’. The crowd packed Place Bell last weekend (Mar. 14) as the Vierzon, France-born rapper Josman — real name José Nzengo — returned to the Montreal area just days after a performance in New York. Josman stepped onto the stage as both a cult figure of the French rap underground and a fully established mainstream artist.",
+      "published_at": "Tue, 17 Mar 2026 20:22:32 GMT",
+      "collected_at": "2026-03-24 01:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導歌手Carly Rae Jepsen宣布產下第一胎，以及法國饒舌歌手Josman的演唱會資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 440,
+      "title": "Living with invisible power in Guangzhou - Nature",
+      "link": "https://www.nature.com/articles/s44284-026-00429-9",
+      "source": "Tavily (www.nature.com)",
+      "snippet": "You are using a browser version with limited support for CSS. * Jie Guo  (郭杰)  ORCID: orcid.org/0000-0001-8982-30001. *Nature Cities* (2026)Cite this article. ### Subjects. Receive 12 digital issues and online access to articles. * Instant access to the full article PDF. Prices may be subject to local taxes which are calculated during checkout. Criminol.* **40**, 321–339 (2000). *GeoJournal* **79**, 1–14 (2014). The author was supported by National Natural Science Foundation of China (no. ## Author information. ### Authors and Affiliations. Search author on:PubMed Google Scholar. ### Corresponding author. The author declares no competing interests. ## About this article. ### Cite this article. https://doi.org/10.1038/s44284-026-00429-9. * DOI: https://doi.org/10.1038/s44284-026-00429-9. ### Share this article. Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative. Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily. Sign up for Nature Briefing.",
+      "published_at": "Mon, 23 Mar 2026 10:30:24 GMT",
+      "collected_at": "2026-03-24 01:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要內容為一篇關於廣州的科學期刊文章。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 441,
+      "title": "BTS, Niall Horan, Lizzo & More: Which Is Your Favorite New Music Release This Week? Vote! - Billboard",
+      "link": "https://www.billboard.com/music/music-news/bts-niall-horan-new-music-vote-poll-1236203657/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# BTS, Niall Horan, Lizzo & More: Which Is Your Favorite New Music Release This Week? This week also brought new releases from British singer-songwriter Paris Paloma and Grammy-winning R&B star Coco Jones. BTS leads this week’s New Music Friday roundup with their long-awaited comeback album *Arirang*. On the singles side, Latto rocked the world with her new “Business & Pleasure” track, in which she revealed her pregnancy alongside the announcement of her forthcoming *Big Mama* album, set for a May 29 release. British singer-songwriter Paris Paloma shaded generative AI in her new “Miyazaki” track, while Irish singer-songwriter Dermot Kennedy struggled with love lost across “Honest.” Lizzo also dropped an anthemic, Tina Turner-nodding new single titled “Don’t Make Me Love U.”. Finally, Coco Jones leads this week’s new R&B releases with the Shae Jacobs-produced “Luvagirl.” British girl group FLO turned up the tempo with their steamy new “Leak It” single, while John Legend joined Ghanaian Afro-dancehall star Shatta Wale on the heart-eyed “Aint’ Nobody.”. Which new release this week is your favorite?",
+      "published_at": "Fri, 20 Mar 2026 19:42:08 GMT",
+      "collected_at": "2026-03-24 01:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "本週新音樂發行榜單涵蓋了BTS、Niall Horan、Lizzo等多位藝人的作品，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 442,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Alex Isley, 6LACK, Afroman, Jorja Smith & More - Billboard",
+      "link": "https://www.billboard.com/lists/alex-isley-6lack-afroman-jorja-smith-rb-hip-hop-fresh-picks/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Alex Isley, 6LACK, Afroman, Jorja Smith & More. Listen to new must-hear songs from R&B/hip-hop artists like Jastin Martin and Mudbaby Ru. Kyle Denis, Christopher Claxton, Michael Saponara, Angel Diaz. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from a new 6LACK joint to a high-octane link-up between Mudbaby Ru and Key Glock. Five-time Grammy nominee 6LACK is back with “Bird Flu,” the first single from his highly anticipated new *Love Is the New Gangsta* album, and it’s a real smooth listen. And while the undeniable banger, “Will You Help Me Repair My Door,” is getting all the attention, I would like to highlight “Why You Disconnecting My Video Camera” because the disses in this song got brought up during the trial as the cops tried to sue for defamation over a diss track that not many knew existed until recently.",
+      "published_at": "Mon, 23 Mar 2026 18:11:26 GMT",
+      "collected_at": "2026-03-24 01:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此篇Billboard新聞主要推薦本週R&B/Hip-Hop新歌，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 443,
+      "title": "Meaningful reason behind Jay-Z’s name change revealed - Page Six",
+      "link": "https://pagesix.com/2026/03/18/hollywood/meaningful-reason-behind-jay-zs-name-change-revealed/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Meaningful reason behind Jay-Z’s name change revealed. **Jay-Z** aficionados noticed this week that the hip hop icon has added an umlaut to his name. An announcement that the “99 Problems” rapper is joining The Roots for the band’s two-day Philly music fest was billed as, “JAŸ-Z and The Roots,” and his artist name on Spotify, YouTube and more is now spelled the same way. Pals of the star pointed out to us that Jay used the same German punctuation on the cover art of his 1996 release, “Reasonable Doubt.” And this year marks the album’s 30th anniversary. Jay-Z is partial to punctuation: In 2013, he dropped the hyphen from his name, then brought it back in 2017, changing it to all caps. He reformatted his moniker as JAY:Z for his “4:44” album, making him a copy editor’s nightmare. Either way, “JAŸ-Z and The Roots” will headline a May 30 gig for the Roots Picnic.",
+      "published_at": "Wed, 18 Mar 2026 13:45:00 GMT",
+      "collected_at": "2026-03-24 01:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊關於美國饒舌歌手Jay-Z的姓名符號變更及其參與的音樂節，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 444,
+      "title": "Jeff Klein Isn’t Selling San Vicente Bungalows — Unless It’s “F*** You” Money - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/news/local-news/jeff-klein-san-vicente-bungalows-growth-1236541819/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "Is Jeff Klein looking to open a San Vicente Bungalow in Palm Springs? That was the question left open by *The Wall Street Journal*’s March 19 bombshell scoop — that Klein, 54, was working with Goldman Sachs and real-estate firm JLL to find a new investment partner for his high-end hospitality empire, long a magnet for A-list celebs and industry climbers, ostensibly as part of an expansion plan. Notably, though, the *Journal* also reported that Klein would “consider selling a majority or even all of the businesses,” including his West Hollywood and New York properties. Rambling Reporter gave Klein a call to clear up the confusion and learned that it’s definitely the former — unless, of course, the money ends up being stupid enough for it to be the latter. We are open to the right partner to help us grow, but not to compromise what makes it special,” says Klein, who these days is something of a Hollywood royal himself — as is his husband of nearly 15 years, John Goldwyn, grandson of Samuel.",
+      "published_at": "Fri, 20 Mar 2026 01:41:36 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於Jeff Klein的San Vicente Bungalows酒店帝國尋求投資夥伴或潛在出售，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 445,
+      "title": "Jim Marshall, “Godfather Of Rock ‘N’ Roll Photography”, Subject Of Movie Biopic - deadline.com",
+      "link": "https://deadline.com/2026/03/jim-marshall-rock-n-roll-photographer-movie-biopic-1236761325/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## Follow Us:. ## site categories. ### Quiver Acquires US   New Round Of Layoffs Hits 6% Of CBS News Workforce. ## Read More About:. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
+      "published_at": "Fri, 20 Mar 2026 15:06:23 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於搖滾攝影師Jim Marshall的電影傳記，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 446,
+      "title": "Chinese Hit Satire ‘Johnny Keep Walking!’ to Get French Remake Through Master Movies (EXCLUSIVE) - Variety",
+      "link": "https://variety.com/2026/film/asia/chinese-johnny-keep-walking-french-remake-1236691941/",
+      "source": "Tavily (variety.com)",
+      "snippet": "French production company Master Movies has acquired the French remake rights for the 2023 Chinese comedy feature “Johnny Keep Walking!” The deal was struck with Chinese film company Tiger Pictures Entertainment and marks one of the rare instances of a mainland Chinese film getting a foreign language remake. “‘Johnny Keep Walking!’ represents a notable milestone for the Chinese film industry, as one of the few Chinese films to be remade for Western audiences, highlighting the growing international reach of Chinese storytelling,” said Owen Young, representative of Tiger Pictures Entertainment. “We’re thrilled to have acquired the French adaptation rights to ‘Johnny Keep Walking!,’ whose sharp and accurate take on corporate life struck us as both hilarious and insightful,” said Lola and Marco Pacchioni, directors of Master Movies, in a statement. Tiger Pictures described the deal as part of their corporate transition from its core business of international distribution of Chinese films, towards a broader strategy of international IP management and development. * ### Netflix Could Pay as Much as $600 Million for Ben Affleck’s AI Film Start-Up: Report.",
+      "published_at": "Thu, 19 Mar 2026 00:25:00 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "中國喜劇電影《年會不能停！》的法國翻拍權已售出，顯示中國電影在國際市場的影響力逐漸擴大。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 447,
+      "title": "Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’ - Page Six",
+      "link": "https://pagesix.com/2026/03/24/celebrity-news/jay-z-finally-addresses-sexual-misconduct-allegations-lawsuit/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’. Jay-Z was left “heartbroken” over the sexual misconduct lawsuit filed against him by an anonymous accuser at the end of 2024. I was heartbroken,” Jay-Z, 56, began. After emphasizing that he took the allegations against him “really hard,” Jay-Z once again denied the accusations and insisted they were “not true.”. Jay-Z (pictured here on the April cover of GQ) was left \"heartbroken\" over the sexual misconduct lawsuit filed against him at the end of 2024. Jay-Z finally opened up about the sexual assault allegations and since-dismissed civil lawsuit during a cover interview with GQ published Tuesday. Jay-Z (seen here in Los Angeles in January 2024) called the lawsuit \"blackmail\" and described the accusations against him as \"heinous in nature.\" Getty Images. Jay-Z's anonymous accuser voluntarily withdrew her lawsuit against the rapper (pictured here at the Super Bowl in February 2026) in February 2025.",
+      "published_at": "Tue, 24 Mar 2026 14:35:09 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容為美國饒舌歌手Jay-Z首次回應針對他的性行為不當指控及訴訟，表示自己因此心碎並否認指控。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 448,
+      "title": "BTS to Appear in Back-To-Back Episodes of ‘The Tonight Show Starring Jimmy Fallon’ - Variety",
+      "link": "https://variety.com/2026/music/news/bts-ack-to-back-episodes-tonight-show-fallon-1236692240/",
+      "source": "Tavily (variety.com)",
+      "snippet": "BTS —RM, Jin, Suga, J‑hope, Jimin, V and Jung Kook — will make their first late-night appearance since 2021 with back-to-back episodes on “The Tonight Show Starring Jimmy Fallon.”. Their visit will follow the release of their fifth studio album, “Arirang,” on Friday and the global live performance “BTS: The Comeback Live | Arirang,” streaming March 21 on Netflix. BTS last performed together on “The Tonight Show” during their BTS takeover in July 2021, although Jimin, Suga, Jung Kook, Jin and J‑hope have each appeared individually since then. The March 25 episode of “The Tonight Show” will also feature Ariana DeBose. “The Tonight Show” tapes before a live studio audience from Studio 6B in 30 Rockefeller Center and airs at 11:35 p.m. ET/PT on NBC and streams the next day on Peacock. * ### Ryan Coogler on ‘Sinners,’ Making Oscars History and the Weight of the Moment: ‘My Award Is the Opportunity to Have This Job’.",
+      "published_at": "Wed, 18 Mar 2026 13:59:00 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導韓國團體BTS即將在《吉米A咖秀》節目中連續兩集亮相，宣傳新專輯和Netflix直播表演。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 449,
+      "title": "10 Things We Learned From Jay-Z’s ‘GQ’ Interview - Billboard",
+      "link": "https://www.billboard.com/lists/jay-z-gq-interview-2026-takeaways/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "“I love the sparring and the music you get, but in this day and age, it’s so much negative stuff that comes with it, you almost wish it didn’t happen,” Jay said. “Now people that like Kendrick hate Drake no matter what he makes … It’s like an attack on his character and I don’t know if I love that, I don’t know if it’s helpful to our growth, where the fallout lands … It’s too far.”. “The only thing I heard coming up was the American dream,” Jay said. Then it was like: ‘You’re selling out because you’re making money.’ People had this allure for the ‘struggling artist’ — that’s a mind game, what we would call, back in the day, ‘tricknology.’ I’m not going for that.”. “It’s the album that I was always afraid to make,” Jay said. Really hard,” Jay-Z said.",
+      "published_at": "Tue, 24 Mar 2026 20:43:53 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國饒舌歌手Jay-Z的訪問，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 450,
+      "title": "Jay-Z on Kendrick-Drake Beef, Refusing to Settle Sexual Assault Lawsuit - Variety",
+      "link": "https://variety.com/2026/music/news/jay-z-kendrick-drake-beef-settle-sexual-assault-lawsuit-1236697679/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Jay-Z Says Kendrick-Drake Beef Went Too Far by ‘Bringing People’s Kids In,’ Explains Why He Refused to Settle Sexual Assault Lawsuit: ‘I Would Die’. Because even if 10 million people know some of these songs, there’s 120 million people that’re like, ‘What is he doing?’ As an artist, to stand up there and do it and complete your vision — I had to tip my hat. Well, I don’t know if you’re going to like it. Just everything around it was like, ‘Man, this is taking us a couple steps back.’ We’ve just grown so much that — I guess I’m going to say it — I don’t know if battling needs to be part of the culture anymore. Jay later added, “I realize it’s a bit hypocritical because of how many battles I’ve been in, and given the nature of ‘Super Ugly.’ It takes growth to arrive at this place, because I’ve done the bullshit too!”.",
+      "published_at": "Tue, 24 Mar 2026 13:38:45 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Jay-Z對Kendrick-Drake紛爭的看法及其個人法律訴訟，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 451,
+      "title": "Charlotte Cardin’s ‘The Way We Touch’ Debuts in the Top 50 on Billboard Canadian Hot 100 - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/charlotte-cardin-billboard-canada-charts",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "As a well-known bilingual artist with hits in both of Canada's official languages, the song marks Cardin’s return to singing in English — her first since 2024’s **A Week in Nashville** EP. The song dropped the same week as his new global collaboration \"Ranjha\" with Sia and David Guetta, which debuted for the first time at Toronto Metropolitan University for students in the historic first course dedicated to a Punjabi artist in partnership with *Billboard Canada*. Scoring over five million monthly listeners, the Nanaimo, B.C.-native has expanded his streaming success onto the charts, notching multiple hits on the Billboard Canadian Hot 100, most recently with “You And Me,” his first-ever love song. The rise of streaming has allowed artists to go beyond their home country, exporting globally — Canada slots in as one of the top 10 countries exporting artists, known for francophone artists reaching audiences beyond Québec and diaspora-driven genres like Punjabi-Canadian music hitting a stride, led by artists like Karan Aujla.",
+      "published_at": "Tue, 24 Mar 2026 19:28:55 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導加拿大歌手Charlotte Cardin的歌曲在排行榜上的表現，以及其他加拿大藝術家的全球合作與串流成功，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 452,
+      "title": "12 Albums Out This Week You Should Listen to Now - Pitchfork",
+      "link": "https://pitchfork.com/news/12-new-albums-you-should-listen-to-now-grace-ives-underscores-bts/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "# 12 New Albums You Should Listen to Now: Grace Ives, Underscores, BTS, and More. Also stream new releases from CA7RIEL & Paco Amoroso and Anna Calvi. We first got a taste of Grace Ives’ new album *Girlfriend* last November, when she shared three singles (in her terminology, a “thringle”) and a blog post detailing her state of mind: “Stop dwelling. Her new album *U* builds the momentum of three killer singles and a year of teasing glitched-out, atmospheric pop with the confident kick of big-room EDM. Anna Calvi’s new EP swaggers out of the shadows with the gothic cabaret barnstormer “God’s Lonely Man,” Calvi’s wraithlike falsetto writhing around a gruff lead from Iggy Pop. The EP’s three remaining tracks also feature guest vocalists, namely Perfume Genius—on a Nick Cave and PJ Harvey-worthy cover of Bonnie “Prince” Billy’s “I See a Darkness”—Matt Berninger, and Laurie Anderson, who threads her deadpan into a choral spin of Kraftwerk’s “Computer Love” that somehow ends up sounding like a Lost Girls track. New Music Releases and Upcoming Albums in 2026.",
+      "published_at": "Fri, 20 Mar 2026 13:53:10 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫相關資訊，主要介紹了本週發行的多張新專輯及藝人。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 453,
+      "title": "Jay-Z Defends Billionaires: ‘Morality Is Not Defined By A Dollar Amount’ - Forbes",
+      "link": "https://www.forbes.com/sites/conormurray/2026/03/24/jay-z-says-calling-all-billionaires-bad-is-like-a-cop-out/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "Jay-Z, the world’s wealthiest musician, pushed back on arguments that billionaires are inherently bad in a rare interview with GQ on Tuesday, saying it’s “like a cop-out” to link a person’s morality to the amount of money they have. Jay-Z, whom Forbes estimates is worth $2.8 billion, told GQ a person’s “morality is not defined by a dollar amount,” questioning: “If so, what is that dollar amount? When asked how he feels about the “public perception that all billionaires are bad,” Jay-Z said “people behave the way they want to behave—it’s not a dollar amount” and criticized the argument as a “cop-out.”. Jay-Z said critics of billionaires “demonize this group of folks without fixing the actual system that exists,” adding, “[Money] may enhance it or may cause you to act in a way. I don’t like that,” Jay-Z said, saying it was “like trying to tear down people’s lives.” He said his company chose Lamar to headline the Super Bowl because he was having a “monster year,” not to make a statement on the rap feud.",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於美國饒舌歌手Jay-Z為億萬富翁辯護，認為道德與財富金額無關，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 454,
+      "title": "Jay-Z Won't Apologize for Being a Billionaire - Business Insider",
+      "link": "https://www.businessinsider.com/jay-z-billionaire-capitalist-business-strategy-response-2026-3",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "Billionaire rapper Jay-Z says his success isn't about \"selling out.\" It's about getting paid. Then it was like: You're selling out because you're making money,\" Jay-Z said. Jay-Z was alluding to the leftist refrain that there's no such thing as a \"good\" billionaire, an idea that suggests amassing so much wealth requires exploiting other people's labor, and that hoarding it fuels inequality. Later in the interview, Jay-Z explicitly pushed back on this dichotomy, saying \"people behave the way they want to behave\" regardless of how much money they have. \"With that success, I've done things with my reach that I wanted to do that was helpful for a lot of people,\" he continued, adding, \"A person with more money can do more good. Jay-Z has since been joined on music's list of billionaires by his Roc Nation signee, Rihanna; his wife, Beyoncé; and his industry friend, Taylor Swift.",
+      "published_at": "Tue, 24 Mar 2026 20:14:37 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於饒舌歌手Jay-Z為其億萬富翁身份辯護，強調成功並非「變節」，並表示財富可用於行善，與周杰倫（Jay Chou）無直接關聯，因此無法進行周杰倫相關的情緒分析。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 455,
+      "title": "Jay-Z Announces Third Yankee Stadium Show After First Two Sell Out: ‘Extra Innings’ - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/jay-z-third-yankee-stadium-show-announced-1236205607/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jay-Z Announces Third Yankee Stadium Show After First Two Sell Out: ‘Extra Innings’. Due to the high demand, Jay-Z and Roc Nation announced on Tuesday (March 24) that there will be a third Yankee Stadium show set for July 12 after the first pair of shows quickly sold out. ### Jay-Z. “JAŸ-Z 30 SOLD OUT JAŸ-Z 25 SOLD OUT JUST ADDED JAŸ-Z Extra Innings on Sunday, July 12th Yankee Stadium On-Sale at 1pm ET Today Tuesday, March 24th,” Roc Nation wrote on X. The Brooklyn rap legend released the OG “Dead Presidents” on streaming services, launched a website, dropped vinyl of classic songs and changed his stage name to JAŸ-Z, which he had used around the *Reasonable Doubt* era, featuring an umlaut over the Y. Jay-Z previously took over Yankee Stadium in September 2010 with a pair of coheadlining shows with Eminem as part of their Home & Home Tourin NYC and Detroit. ### Want to know what everyone in the music business is talking about? Visit Billboard Pro for music business news.",
+      "published_at": "Tue, 24 Mar 2026 16:58:48 GMT",
+      "collected_at": "2026-03-25 00:58:46",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊是關於美國饒舌歌手Jay-Z宣布其演唱會加場並迅速售罄的消息，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 456,
+      "title": "Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May - CBS News",
+      "link": "https://www.cbsnews.com/boston/video/grammy-nominated-rapper-jeezy-announces-10-day-las-vegas-residency-this-may/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May. Jeezy spoke with WBZ-TV's Breana Pitts about what fans can expect.",
+      "published_at": "Fri, 20 Mar 2026 14:02:00 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Jeezy將在拉斯維加斯舉辦為期十天的駐場演出，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 457,
+      "title": "DeleteMe acquires social media security tool Block Party - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/",
+      "source": "Tavily (techcrunch.com)",
+      "snippet": "# DeleteMe acquires social media security tool Block Party. Block Party founder Tracy Chou announced on Wednesday that the company has been acquired by DeleteMe, an online personal data removal service. A software engineer and advocate for diversity in tech, Chou founded Block Party in 2018 as a tool to help people stay safe from targeted harassment on Twitter, inspired by her own experiences on the platform. Under his ownership, the company began charging for access to its API, but the costs were too steep for a startup like Block Party to operate, so Block Party was forced to quickly pivot and launch tools for other platforms. ### Save up to $300 or 30% to TechCrunch Founder Summit. #### 1,000+ **founders** and investors come together at **TechCrunch Founder Summit 2026** for a full day focused on growth, execution, and real-world scaling. For current Block Party users, nothing will change for now — as the tool becomes more integrated into DeleteMe at large, the company says it will share more with customers.",
+      "published_at": "Wed, 25 Mar 2026 16:51:56 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導DeleteMe收購社群媒體安全工具Block Party。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 458,
+      "title": "Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/mar/24/jay-z-sexual-assault-lawsuit-interview",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’. Jay-Z has spoken out about his recent sexual assault lawsuit in a new interview. The suit alleged that Jay-Z and Sean “Diddy” Combs raped a a 13-year-old girl at a party in 2000. Combs and Jay-Z denied all allegations after the lawsuit was filed in late 2024, and the case was voluntarily dismissed in February 2025. “It was hard,” Jay-Z told GQ. Not even a: ‘I got to go to the board with this.’ It was like a testament because people know me.”. The lawsuit claimed that an unnamed girl was drugged and raped by both Jay-Z and Combs at a party after the MTV music awards in 2000. Jay-Z blasted the assault allegations when they first emerged in late 2024, calling them a “blackmail attempt”. “I don’t know if it’s helpful to our growth where the fallout lands, especially on social media,” the musician added.",
+      "published_at": "Tue, 24 Mar 2026 15:01:35 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊內容關於美國藝人Jay-Z的性侵訴訟，與周杰倫（Jay Chou）無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 459,
+      "title": "Jay-Z and Roots to Be Joined By Erykah Badu, Kehlani, Brandy, T.I. & More at 2026 Roots Picnic - Billboard",
+      "link": "https://www.billboard.com/music/concerts/erykah-badu-kehlani-brandy-ti-2026-roots-picnic-lineup-1236203338/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jay-Z and Roots to Be Joined By Erykah Badu, Kehlani, Brandy, T.I. After announcing earlier this week that Jay-Z andThe Rootswill headline this year’s Roots Picnic on May 30 and May 31 in Philadelphia in its new home in Belmont Plateau, the R&B/hip-hop festival revealed the full lineup on Friday morning (March 20). In addition, the lineup features Kehlani, Brandy and T.I., Mariah the Scientist, a J.Period live mixtape set with Wale and Roots rapper Black Thought, DJ Jazzy Jeff’s Magnificent Block Party, Destin Conrad, KWN and a Jermaine Dupri and friends set. The opening night will be the first time Jay-Z has performed with the Roots in more than a decade. Speaking of the move to scenic Belmont Plateau, Roots manager and Live Nation Urban president Shawn Gee said in a statement, “Moving the Roots Picnic to Belmont Plateau and bringing Jay-Z and The Roots together to perform are both bucket-list moments for us. Visit Billboard Pro for music business news.",
+      "published_at": "Fri, 20 Mar 2026 13:14:29 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導了Jay-Z與The Roots將在2026年Roots Picnic音樂節上表演，並公布了完整陣容，但與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 460,
+      "title": "BTS Ties Together History & K-Pop Excellence With First Album in 6 Years: Stream ‘ARIRANG’ Now - Billboard Canada",
+      "link": "https://ca.billboard.com/music/music-news/bts-new-album-arirang-first-lp-6-years-listen-1236203070/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "## Katie Tupper Plays a Sold-Out Show in Vancouver: Canadian Concerts of the Week. ## Katie Tupper Plays a Sold-Out Show in Vancouver: Canadian Concerts of the Week. Hot on the heels of her debut album, **Greyhound**, the Saskatoon-based neo-soul singer is flexing her captivating on-stage presence to listeners as she embarks on a full run-through of her latest release. Additionally, Jamaican-Canadian singer Rochelle Jordan brings her shape-shifting, R&B, alt-dance-pop soundscapes to Toronto, while rock band Goo Goo Dolls plays two nights in Western Canada. While it’s been a decade since their last charting album in Canada — 2016’s **Boxes** — the group have cemented their place in the popular music songbook, and are facing a resurgence on TikTok for the '90s era their biggest hit represents. After supporting R&B songstress Yaya Bey on tour at the top of the year, Montreal-based alternative neo-soul singer Magi Merlin is embarking on a headlining tour of her own, where she'll play a show at the intimate venue Casa del Popolo, in what she called “her first hometown show in forever,” on social media.",
+      "published_at": "Fri, 20 Mar 2026 04:00:44 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導加拿大音樂人的演唱會及新專輯資訊，如Katie Tupper、Rochelle Jordan、Goo Goo Dolls和Magi Merlin。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 461,
+      "title": "JAŸ-Z adds Yankee Stadium ‘Extra Innings’ concert. Here’s where to get tickets - New York Post",
+      "link": "https://nypost.com/2026/03/25/ticket-sales/jay-z-adds-yankee-stadium-extra-innings-concert-get-tickets/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# JAŸ-Z adds Yankee Stadium ‘Extra Innings’ concert. After announcing two huge concerts at Yankee Stadium *and* weighing in on the Kendrick/Drake spat — *he’s “concerned technology and ‘negative stuff’ are ruining the fun of rap battles*— the 25-time Grammy winner has added a third ‘Extra Innings’ show to his summer stint at “the House that Derek Jeter built.”. The two delivered hits “Crazy In Love,” “N—-s in Paris” and “Drunk in Love” in their first time in concert together in six years. ## JAŸ-Z tickets. Inventory to see JAŸ-Z live is available on all verified ticketing sites. ## JAŸ-Z Yankee Stadium dates. | JAŸ-Z Yankee Stadium dates |. All single and multi-day Roots Picnic options, dates and links to buy tickets are listed here:. | **May 30-31** *Two-day passes* **with JAŸ-Z on May 30** |. | **Saturday, May 30** *Single-day passes* **with JAŸ-Z** |. About the accusation, JAŸ-Z told GQ “That whole [lawsuit thing], that s— took a lot out of me.",
+      "published_at": "Wed, 25 Mar 2026 15:26:37 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手JAY-Z加開演唱會及對嘻哈文化的評論，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 462,
+      "title": "Jay-Z gets candid on Diddy lawsuit, Kendrick and Drake feud - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/03/24/jay-z-gq-lawsuit-diddy-kendrick-lamar-drake-blue-ivy/89300089007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Jay-Z gets candid on Diddy lawsuit, Kendrick and Drake feud. The rare profile comes a little over a year after Jay-Z was accused of drugging and raping an underage girl in a lawsuit filed against fellow rapper Sean \"Diddy\" Combs. Jay-Z told GQ that while it would have been \"cheaper\" and \"quicker\" to settle the lawsuit, he said he was determined to see the legal battle through. Jay-Z, whose company Roc Nation oversees the Super Bowl halftime show, reflected on Kendrick Lamar's 2025 performance and the rapper's highly publicized feud with Drake. Jay-Z, who shares 14-year-old daughter Blue Ivy with wife Beyoncé, got candid on the burgeoning performer's journey to joining Beyoncé's 2025 Cowboy Carter Tour. \"On the first tour [Beyoncé's Renaissance World Tour], there was a lot of conversation around her first performance, and she worked really hard to get to that point, but she still wasn't going for it,\" Jay-Z told GQ.",
+      "published_at": "Tue, 24 Mar 2026 18:19:09 GMT",
+      "collected_at": "2026-03-26 01:06:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Jay-Z的法律訴訟、與Kendrick和Drake的恩怨以及女兒Blue Ivy的演藝發展，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 463,
+      "title": "Hailey Bieber Shares a Rare Peek at Her Son Jack's Short Blonde Hair - instyle.com",
+      "link": "https://www.instyle.com/hailey-bieber-peek-son-jack-short-blonde-hair-11931816",
+      "source": "Tavily (www.instyle.com)",
+      "snippet": "Image 7: Jack Blues Bieber's bright blonde hair:max_bytes(150000):strip_icc():format(webp)/Hailey-131d9f25e544428c84ea5d6ae9d4514a.jpg). All About Justin and Hailey Bieber’s “Miracle” Baby Jack Blues Bieber Image 9: Justin Bieber in a pink beanie and oversized grey suit jacket and Hailey Bieber in a white strapless gownat the 2022 Grammys:max_bytes(150000):strip_icc():format(webp)/HaileyandJustinprimary-4ccf01c3cf23450f831ec175c53b09fb.jpg)Hailey Bieber's Son Jack Looks Just Like Dad Justin With Bright Blonde Hair in Adorable Photo Image 11: Hailey Bieber on January 9, 2026. Image 13: Hailey Bieber shared a photo of her son Jack:max_bytes(150000):strip_icc():format(webp)/Screenshot2025-11-11at17.16.06-d9901e3a86b144f7b508f6ecea8ee4e8.png).",
+      "published_at": "Sun, 22 Mar 2026 16:58:17 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Hailey Bieber分享她兒子Jack的照片，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 464,
+      "title": "DADDY'S HOME, HOME FOR ME 🫦 BTS members served handsome visuals in the photos Netflix Korea shared on Sunday. RM, Jin, SUGA, J-hope, Jimin, V, and Jungkook held their comeback concert at Gwanghwamun Square in Seoul, South Korea on Satu - Facebook",
+      "link": "https://www.facebook.com/PhilippineSTAR/posts/daddys-home-home-for-me-bts-members-served-handsome-visuals-in-the-photos-netfli/1435890001908208/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# Philippine Star - DADDY'S HOME, HOME FOR ME 🫦 BTS members... ## Philippine Star's Post. ### **Philippine Star**. DADDY'S HOME, HOME FOR ME Image 1: 🫦. BTS members served handsome visuals in the photos Netflix Korea shared on Sunday. RM, Jin, SUGA, J-hope, Jimin, V, and Jungkook held their comeback concert at Gwanghwamun Square in Seoul, South Korea on Saturday, which was livestreamed on Netflix. The K-pop boy group is coming to Manila on March 13 and 14, 2027 for their comeback world tour. Amie Bautista ready kn b nxt year? bat naman masyado nyong ginalangin yong comeback nyo? Image 11: 🥰Image 12: 🥰Image 13: 🥰Image 14: 🥰Image 15: ✨Image 16: ✨Image 17: ✨Image 18: ✨. An daming pinag bago but I'm still ARMY girl. Image 21: 💜Image 22: 💜Image 23: 💜. I love BTS leader Kim Jong Un. Image 24: 💜Image 25: 💜Image 26: 💜Image 27: 💜Image 28: 💜Image 29: 💜Image 30: 💜.",
+      "published_at": "Sun, 22 Mar 2026 10:57:32 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導韓國團體BTS的演唱會及巡演資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 465,
+      "title": "Paris Jackson Questions Father's Estate About 'Michael' Movie Costs & Reshoots - Deadline",
+      "link": "https://deadline.com/2026/03/paris-jackson-michael-movie-questions-1236758498/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### Linden Entertainment Signs ‘Your Friends   raising specious ‘concerns’ over issues previously addressed and resolved; and staging tabloid press photo ops strutting into hearings with obvious props,” the filing adds with swipes that the young Jackson is “more concerned with taking personal shots at John Branca—and indirectly at the cast of the movie—than with any *actual expenses* of the biopic during 2021.”. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
+      "published_at": "Mon, 23 Mar 2026 23:18:23 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Paris Jackson質疑其父親遺產管理方關於「Michael」電影的製作成本和重拍費用，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 466,
+      "title": "James Franco’s Italian Drama ‘Hey Joe’, By Claudio Giovannesi, Gets U.S. Release Date Via Studio Dome, See Trailer - Deadline",
+      "link": "https://deadline.com/2026/03/james-franco-italian-film-hey-joe-us-release-date-1236760138/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "# James Franco’s Italian Drama ‘Hey Joe’, By Claudio Giovannesi, Gets U.S. Release Date Via Studio Dome, See Trailer. **EXCLUSIVE**: James Franco-starring Italian drama *Hey Joe* is getting a domestic theatrical and VOD release from Studio Dome this month. The Claudio Giovannesi-directed film will open in select theaters beginning March 20, launching with a special screening at LOOK Cinemas followed by a Q&A with Franco. Pic follows Dean Barry (Franco), an American WWII veteran who returns to Naples in the early 1970s after learning he has a son he has never met. ### James Franco, Nick Antonyan & Gene Simmons Wrap Cloud9 Studios' Comedy 'Love Meets In The Sunshine'](https://deadline.com/2025/11/james-franco-loves-meets-in-the-sunshine-1236628951/). ### Dave Franco Doesn't Think His Success Is \"Just Because\" He's James Franco's Brother](https://deadline.com/2025/10/dave-franco-doesnt-think-success-james-franco-brother-1236604367/). The film was originally picked up by Glass House Distribution last year, but that company was acquired by Shaked Berenson’s Studio Dome. “*Hey Joe* is a powerful story about connection and second chances,” said director Claudio Giovannesi. ## Must Read Stories.",
+      "published_at": "Thu, 19 Mar 2026 14:48:13 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於James Franco的新電影《Hey Joe》，內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 467,
+      "title": "How Did Johnny Blue Skies & the Dark Clouds Debut at No. 3 With Physical-Only ‘Mutiny After Midnight’ Album? - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/johnny-blue-skies-mutiny-after-midnight-five-burning-questions-1236204626/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "But thankfully, fans didn’t have to wait long for more new music from the acclaimed artist; by 2024, he revealed his new moniker as Johnny Blue Skies, releasing the act’s debut album, *Passage du Desir* that same year. Johnny Blue Skies & the Dark Clouds’ *Mutiny After Midnight* debuts at No. 3 on the Billboard 200 with 59,000 equivalent album units earned — all from physical album sales. Johnny Blue Skies & the Dark Clouds moves 59,000 equivalent album units — all from physical album sales – with its** ***Mutiny After Midnight*** **album, the biggest debut frame for the act. *Passage du Desir* debuted at No. 29 on the Billboard 200, and as people have gotten used to the concept and music of Johnny Blue Skies, they’ve decided it’s a journey they want to go on with Simpson.",
+      "published_at": "Tue, 24 Mar 2026 20:39:45 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Johnny Blue Skies樂團專輯登上告示牌排行榜。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 468,
+      "title": "Kanye West Settles Another Copyright Lawsuit Days Before New Album Drops - Forbes",
+      "link": "https://www.forbes.com/sites/conormurray/2026/03/19/kanye-west-settles-another-copyright-lawsuit-days-before-new-album-drops/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "Our best stories, exclusive reporting and Forbes perspectives on the day’s top news. Kanye West Settles Another Copyright Lawsuit Days Before New Album Drops. # Kanye West Settles Another Copyright Lawsuit Days Before New Album Drops. Kanye West reached a settlement agreement in a lawsuit filed by Memphis rappers who accused him of “blatant” copyright infringement for sampling their song without permission, days before West is slated to drop his new album. Kanye West is due to release a new album next week. The rappers accused West and Ty Dolla $ign of “brazen” copyright infringement by using a sample of their song, “Drink a Yak (Part 2),” without permission on “Fuk Sumn,” a song West and Ty Dolla $ign released in 2024. Some of West’s latest music releases sparked accusations and lawsuits accusing the rapper of sampling copyrighted music without permission, including a high-profile lawsuit by Donna Summer’s estate, which was settled in May 2024.",
+      "published_at": "Thu, 19 Mar 2026 18:31:22 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於肯伊·威斯特在新專輯發行前解決了一起版權侵權訴訟，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 469,
+      "title": "Harry Styles’ new album is a massive chart success - The Public's Radio",
+      "link": "https://thepublicsradio.org/npr/harry-styles-new-album-is-a-massive-chart-success/",
+      "source": "Tavily (thepublicsradio.org)",
+      "snippet": "# Harry Styles’ new album is a massive chart success. There’s been little doubt about which album was going to top this week’s *Billboard* 200, as Harry Styles — whose post-One Direction solo records have all debuted at No. 1 — was virtually guaranteed to put up blockbuster numbers for *Kiss All the Time. Even compared to lofty expectations, Styles has to be pleased with the new album’s performance, as it racked up 430,000 equivalent album units in its first week on the chart. With Harry Styles back atop the *Billboard* 200, last week’s blockbuster debut (Bruno Mars‘ first solo album since 2016, *The Romantic*) dips to No. 2. This week, *Albini Sessions (Benefit for Letters Charity)* debuts on the *Billboard* 200 at No. 197 — Fugazi’s first week on the chart since its last album, *The Argument*, came out in the fall of 2001.",
+      "published_at": "Thu, 19 Mar 2026 15:41:20 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於哈利·史泰爾斯（Harry Styles）新專輯的巨大成功，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 470,
+      "title": "Kevin Hart Live Roast Set at Netflix With Host Shane Gillis - Variety",
+      "link": "https://variety.com/2026/tv/news/kevin-hart-roast-netflix-shane-gillis-1236695049/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Switch edition between U.S. Edition Asia Edition Global Edition. Variety   Plus Icon  Read Next: ABC Scrambles to Delete ‘Bachelorette’ Season 22 Promo Content Amid Taylor Frankie Paul Fallout. # Kevin Hart Live Roast Set at Netflix With Host Shane Gillis. Kevin Hart will be in the hot seat for a live roast on Netflix, the streamer’s follow-up to the hugely popular Tom Brady broadcast in 2024. Hosted by Shane Gillis, the ceremony will take place on Sunday, May 10, the final night of the Netflix Is a Joke Fest. Like the Brady roast, it will be filmed inside the Kia Forum in Los Angeles. ## More from Variety. * ### How ‘The Simpsons’ Made It to 800 Episodes — And Even Helped Save Star Yeardley Smith’s Life. * ### LISTEN: ‘The Simpsons’ Celebrates Episode 800 and Takes Aim at 1,000: ‘It’s a Gift’. ### BTS’ New Album, ‘Arirang,’ Is Finally Here. ### Humbert & Poyet Infuse Monaco-style Joie de Vivre Into First U.S. Model Residence.",
+      "published_at": "Fri, 20 Mar 2026 15:13:01 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Netflix將舉辦Kevin Hart的現場脫口秀，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 471,
+      "title": "Charlie Puth Gives A Piano Lesson, Reflects on New Album ‘Whatever’s Clever’ | Takes Us Out - Billboard",
+      "link": "https://www.billboard.com/video/charlie-puth-piano-lesson-reflects-on-whatevers-clever/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Charlie Puth Gives A Piano Lesson, Reflects on New Album ‘Whatever’s Clever’ | Takes Us Out. ### Trending on Billboard. Charlie Puth takes us to the Blue Note Jazz Club in Los Angeles to reflect on his residency, his various eras & recent Super Bowl National Anthem performance. The truth is I used to be cringe. I’m still embracing my inner cringe. I think it’s a healthy thing. You played an unreleased song here? I played a couple, yeah, I played a couple unreleased songs. Babyface came to the New York Blue Note, that was fun. And I was like, we’re gonna follow the cue cards, right? I’m like, yeah, yeah. And he’s like, you know how to play it, right, Charlie? ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. Billboard is a part of Penske Media Corporation.",
+      "published_at": "Thu, 19 Mar 2026 16:00:00 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Charlie Puth的音樂活動與專輯，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 472,
+      "title": "Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’ - The Cut",
+      "link": "https://www.thecut.com/article/jay-z-says-the-allegations-against-him-were-heartbreaking.html",
+      "source": "Tavily (www.thecut.com)",
+      "snippet": "# Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’. Jay-Z filed a defamation lawsuit against the woman a few weeks later, accusing her and her lawyers of orchestrating an “evil conspiracy” that was “soullessly motivated by greed.” That case remains ongoing. Speaking to *GQ*, Jay-Z said he considered skipping the event but ultimately went to support his family, who he said is a “tight unit.” “Blue has this jersey with ‘Jay-Z’ on the back. Jay-Z Says the Allegations Against Him Were ‘Heartbreaking’. 4. The Woman Having Amazing Sex With a Boring Guy. Hot Divorcées Run Bravo Now. By submitting your email, you agree to our  Terms and Privacy Notice and to receive email correspondence from us. This email will be used to sign into all *New York* sites. This email will be used to sign into all *New York* sites.",
+      "published_at": "Tue, 24 Mar 2026 20:43:19 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於Jay-Z的法律爭議與個人感受，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 473,
+      "title": "Jay-Z heads to Yankee Stadium: Best tickets, seats and dates for two-night concert series - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/tickets/news/jay-z-yankee-stadium-tickets-seats-dates-concert-series/0032e2b40f086e40992b6902",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# Jay-Z heads to Yankee Stadium: Best tickets, seats and dates for two-night concert series. Add The Sporting News on Google. Back-to-back in the Bronx. Jay-Z heads to New York for a two-night concert series at the iconic Yankee Stadium. **BUY NOW**: Get tickets to see Jay-Z on SeatGeek. Here's how you can get tickets to see Jay-Z at Yankee Stadium. ## Jay-Z at Yankee Stadium tickets. Tickets to Jay-Z at Yankee Stadium are available now on SeatGeek! **BUY NOW**: Best seats, prices for Jay-Z Yankee Stadium concerts. ## Jay-Z at Yankee Stadium dates. Jay-Z will take the stage at Yankee Stadium on Friday, July 10 and Saturday, July 11. Add Sporting News as a preferred source on Google to see more of our reporting. Emily Dozier is a live events and lifestyle writer at The Sporting News, covering everything from sporting events and music festivals to broadway shows and stand-up comedy.",
+      "published_at": "Tue, 24 Mar 2026 06:20:01 GMT",
+      "collected_at": "2026-03-26 01:58:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國歌手Jay-Z在洋基體育場舉辦演唱會的資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -6155,6 +6645,51 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Anson Lo on Mirror, Acting Ambitions and Hong Kong Pop's Rise - Variety、Chinese Auteur Jia Zhangke Wraps Short Film in Italy, Talks AI at Asian Film Awards Masterclass - Variety、Jackie Chan, Leo Zhang Team for Action Comedy ‘Pawfect Agents,’ Cappu Films Handling Sales (EXCLUSIVE) - Variety",
       "created_at": "2026-03-23 06:57:11"
+    },
+    {
+      "id": 3,
+      "report_date": "2026-03-24",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "華語天王周杰倫在睽違三年八個月後，驚喜宣布將推出全新專輯《太陽之子》。專輯名稱據稱獲得歌神張學友的認證。他更預告將在3月24日舉辦電影院MV全球首映，並邀請百名幸運歌迷搶先體驗，此消息一出立刻引爆粉絲熱烈討論與期待。",
+      "key_events": [
+        "周杰倫新專輯",
+        "專輯名太陽之子",
+        "3/24電影院首映"
+      ],
+      "created_at": "2026-03-24 01:09:42"
+    },
+    {
+      "id": 4,
+      "report_date": "2026-03-25",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "周杰倫新專輯《太陽之子》即將誕生，MV將於3月24日在電影院全球首映，並已釋出致敬克林姆的預告，引發歌迷高度期待。專輯名稱據傳由歌神張學友命名，周杰倫也透過愛妻視角影片與昆凌互動，為新專輯宣傳增添話題。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "MV電影院首映",
+        "張學友命名專輯"
+      ],
+      "created_at": "2026-03-25 01:01:02"
+    },
+    {
+      "id": 5,
+      "report_date": "2026-03-26",
+      "total_articles": 18,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 18,
+      "daily_summary": "今日搜集到的新聞中，並無任何關於華語歌手周杰倫的報導或焦點事件。所有提及『Jay-Z』的新聞皆與美國饒舌歌手Jay-Z相關，內容涵蓋其演唱會、專輯、法律訴訟及個人言論等。因此，今日無周杰倫相關的精選摘要或重要事件可提供。",
+      "key_events": [
+        "無周杰倫相關報導",
+        "今日無相關焦點",
+        "Jay-Z非周杰倫"
+      ],
+      "created_at": "2026-03-26 02:00:31"
     }
   ],
   "notification_logs": [
@@ -6255,11 +6790,67 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-03-23 06:57:13"
+    },
+    {
+      "id": 15,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-24 01:09:42"
+    },
+    {
+      "id": 16,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "失敗: ",
+      "sent_at": "2026-03-24 01:09:43"
+    },
+    {
+      "id": 17,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-25 01:01:03"
+    },
+    {
+      "id": 18,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-25 01:01:04"
+    },
+    {
+      "id": 19,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-26 01:08:59"
+    },
+    {
+      "id": 20,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-26 01:09:00"
+    },
+    {
+      "id": 21,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-26 02:00:31"
+    },
+    {
+      "id": 22,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-26 02:00:32"
     }
   ],
   "_meta": {
-    "nextArticleId": 439,
-    "nextReportId": 3,
-    "nextLogId": 15
+    "nextArticleId": 474,
+    "nextReportId": 6,
+    "nextLogId": 23
   }
 }
