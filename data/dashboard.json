@@ -1,16 +1,16 @@
 {
   "todayStats": {
-    "total": 18,
+    "total": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 18
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 270,
-    "positive": 27,
-    "negative": 5,
-    "neutral": 238,
-    "avg_score": 0.55
+    "total": 300,
+    "positive": 44,
+    "negative": 6,
+    "neutral": 250,
+    "avg_score": 0.57
   },
   "trend": [
     {
@@ -32,10 +32,10 @@
     {
       "date": "2026-03-25",
       "total": 237,
-      "positive": 10,
-      "negative": 1,
-      "neutral": 31,
-      "avg_score": 0.61
+      "positive": 27,
+      "negative": 2,
+      "neutral": 33,
+      "avg_score": 0.68
     },
     {
       "date": "2026-03-26",
@@ -44,9 +44,157 @@
       "negative": 0,
       "neutral": 18,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-03-27",
+      "total": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 694,
+      "title": "Fetty Wap has a lot to say on 'Zavier.’ It’s his first album since being released from prison - Greenwich Time",
+      "link": "https://www.greenwichtime.com/entertainment/article/fetty-wap-has-a-lot-to-say-on-zavier-it-s-22140996.php",
+      "source": "Tavily (www.greenwichtime.com)",
+      "snippet": "During that time, he thought about everything he missed: his family, his kids, the sound of a car engine as he drives, food — “I love to eat,” he told The Associated Press — and, of course, music. Fun Fetty Wap abounds on “Zavier,” as does a serious Fetty Wap, a lustful Fetty Wap, a tender Fetty Wap. It's “a lot of different sounds up in there,” he says. “The whole ‘Zavier’ thing is just, like, bring back the same energy as the ‘Fetty Wap’ album,” he continued, referencing his 2015 breakthrough record — the one that brought the diamond-selling “Trap Queen” to the masses. I’m going to sound Max B and then I’m gonna make Max B sound like the old Max B,'” he said about the song “BossDon.” But it worked. He also looked toward his family for inspiration: Fetty Wap's sisters are featured on the album on the throwback “White Roses.”. “'White Roses' is actually my favorite track,” says Fetty Wap.",
+      "published_at": "Thu, 26 Mar 2026 13:06:23 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Fetty Wap發行新專輯《Zavier》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 695,
+      "title": "Hailey Bieber Shares a Rare Peek at Her Son Jack's Short Blonde Hair - instyle.com",
+      "link": "https://www.instyle.com/hailey-bieber-peek-son-jack-short-blonde-hair-11931816",
+      "source": "Tavily (www.instyle.com)",
+      "snippet": "Image 7: Jack Blues Bieber's bright blonde hair:max_bytes(150000):strip_icc():format(webp)/Hailey-131d9f25e544428c84ea5d6ae9d4514a.jpg). All About Justin and Hailey Bieber’s “Miracle” Baby Jack Blues Bieber Image 9: Justin Bieber in a pink beanie and oversized grey suit jacket and Hailey Bieber in a white strapless gownat the 2022 Grammys:max_bytes(150000):strip_icc():format(webp)/HaileyandJustinprimary-4ccf01c3cf23450f831ec175c53b09fb.jpg)Hailey Bieber's Son Jack Looks Just Like Dad Justin With Bright Blonde Hair in Adorable Photo Image 11: Hailey Bieber on January 9, 2026. Image 13: Hailey Bieber shared a photo of her son Jack:max_bytes(150000):strip_icc():format(webp)/Screenshot2025-11-11at17.16.06-d9901e3a86b144f7b508f6ecea8ee4e8.png).",
+      "published_at": "Sun, 22 Mar 2026 16:58:17 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Hailey Bieber及其兒子Jack的資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 696,
+      "title": "Paris Jackson Questions Father's Estate About 'Michael' Movie Costs & Reshoots - Deadline",
+      "link": "https://deadline.com/2026/03/paris-jackson-michael-movie-questions-1236758498/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### Linden Entertainment Signs ‘Your Friends   raising specious ‘concerns’ over issues previously addressed and resolved; and staging tabloid press photo ops strutting into hearings with obvious props,” the filing adds with swipes that the young Jackson is “more concerned with taking personal shots at John Branca—and indirectly at the cast of the movie—than with any *actual expenses* of the biopic during 2021.”. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
+      "published_at": "Mon, 23 Mar 2026 23:18:23 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要關於Paris Jackson質疑其父親遺產管理方關於「Michael」電影的成本與重拍，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 697,
+      "title": "Living with invisible power in Guangzhou - Nature",
+      "link": "https://www.nature.com/articles/s44284-026-00429-9",
+      "source": "Tavily (www.nature.com)",
+      "snippet": "You are using a browser version with limited support for CSS. * Jie Guo  (郭杰)  ORCID: orcid.org/0000-0001-8982-30001. *Nature Cities* (2026)Cite this article. ### Subjects. Receive 12 digital issues and online access to articles. * Instant access to the full article PDF. Prices may be subject to local taxes which are calculated during checkout. Criminol.* **40**, 321–339 (2000). *GeoJournal* **79**, 1–14 (2014). The author was supported by National Natural Science Foundation of China (no. ## Author information. ### Authors and Affiliations. Search author on:PubMed Google Scholar. ### Corresponding author. The author declares no competing interests. ## About this article. ### Cite this article. https://doi.org/10.1038/s44284-026-00429-9. * DOI: https://doi.org/10.1038/s44284-026-00429-9. ### Share this article. Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative. Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily. Sign up for Nature Briefing.",
+      "published_at": "Mon, 23 Mar 2026 10:30:24 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要為一篇關於廣州城市研究的學術文章摘要。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 698,
+      "title": "12 Albums Out This Week You Should Listen to Now - Pitchfork",
+      "link": "https://pitchfork.com/news/12-new-albums-you-should-listen-to-now-grace-ives-underscores-bts/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "# 12 New Albums You Should Listen to Now: Grace Ives, Underscores, BTS, and More. Also stream new releases from CA7RIEL & Paco Amoroso and Anna Calvi. We first got a taste of Grace Ives’ new album *Girlfriend* last November, when she shared three singles (in her terminology, a “thringle”) and a blog post detailing her state of mind: “Stop dwelling. Her new album *U* builds the momentum of three killer singles and a year of teasing glitched-out, atmospheric pop with the confident kick of big-room EDM. Anna Calvi’s new EP swaggers out of the shadows with the gothic cabaret barnstormer “God’s Lonely Man,” Calvi’s wraithlike falsetto writhing around a gruff lead from Iggy Pop. The EP’s three remaining tracks also feature guest vocalists, namely Perfume Genius—on a Nick Cave and PJ Harvey-worthy cover of Bonnie “Prince” Billy’s “I See a Darkness”—Matt Berninger, and Laurie Anderson, who threads her deadpan into a choral spin of Kraftwerk’s “Computer Love” that somehow ends up sounding like a Lost Girls track. New Music Releases and Upcoming Albums in 2026.",
+      "published_at": "Fri, 20 Mar 2026 13:53:10 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫相關資訊，主要介紹本週發行的多張新專輯和EP。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 699,
+      "title": "Aerosmith 'Legendary Edition' of 1973 Self-Titled Debut Out March 20 - Rock Cellar Magazine",
+      "link": "https://rockcellarmagazine.com/aerosmith-legendary-edition-album-2026-listen/",
+      "source": "Tavily (rockcellarmagazine.com)",
+      "snippet": "* Joe Jackson New Album, Tour Announced for 2026. (PiL) New Tour + Album News. # Out Now: Aerosmith Revisits 1973 Self-Titled Debut as Remastered ‘Legendary Edition’ with Bonus Material — Listen/Buy. By Rock Cellar Magazine Staff | March 20, 2026 | 0 Reply. The self-titled album put the band on the map with songs like “Dream On,” which was a Top 10 Billboard hit and established the band as a force and has a new lyric video shared with the Legacy Edition:. CD1 – “Aerosmith” Original Album Remastered 2024. CD3 – Paul’s Mall Live Performance March 20, 1973 + Bonus Tracks. 5. Write Me A Letter (Live at Paul’s Mall, 1973). Mitchell’s triumphant return to the stage on July 24, 2022, will be featured on a new live album from Rhino, AT NEWPORT, available on July 28, 2023 on CD and 2-LP black vinyl.",
+      "published_at": "Fri, 20 Mar 2026 15:00:35 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於Aerosmith專輯的重新發行，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 700,
+      "title": "Kehlani announces her self-titled album rooted in identity and growth - Q News Pty Ltd",
+      "link": "https://qnews.com.au/kehlani-announces-her-self-titled-album-rooted-in-identity-and-growth/",
+      "source": "Tavily (qnews.com.au)",
+      "snippet": "# Kehlani announces her self-titled album rooted in identity and growth. **The Grammy Award winning Kehlani has officially announced her next chapter, revealing that her highly anticipated self-titled album *Kehlani* will drop on April 24.**. For an artist known for emotional honesty and genre-blurring sound, a self-titled album signals something bigger. As an openly lesbian artist, Kehlani has long been celebrated for bringing queer experiences into mainstream music without compromise. Her blend of artistry, visibility and authenticity has made Kehlani a powerful voice both within and beyond the queer community. At the upcoming *Billboard Women in Music* award night, Kehlani will receive the *Impact Award.* An honour to recognise her artistry, advocacy, and influence on culture and community. If early details are anything to go by, the album *Kehlani* will capture the artist at her most self-assured and creatively free. Self-titled albums often mark a turning point. To pre-save or pre-order the album, including signed copies, head to kehlani.lnk.to/album. > A post shared by Kehlani (@kehlani).",
+      "published_at": "Sat, 21 Mar 2026 23:35:48 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導歌手Kehlani宣布發行新專輯並將獲得獎項。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 701,
+      "title": "Jay-Z Explains Why He Refused to Settle That Sexual Assault Lawsuit: ‘It Ain’t in My DNA’ - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/music/articles/jay-z-explains-why-refused-143653795.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "Jay said he “needed the people around me more than ever” to overcome the anger he felt, especially because it didn’t feel right to channel those emotions to the place he usually would: music. “I’m not sure with the amount of negativity in the world that people needed me to add to that with my feelings — because it would have been harsh, and it would have been harsh on everybody,” he said. “I know what she’s trying to accomplish and anything that I can contribute — I mean, that’s my family, first of all — I thought it was super important,” he said. While Jay said he was ready to play “all offense” in 2026 after a couple of years on defense, it’s unclear whether that’ll include new music. I don’t know what *I* need to create currently that’s going to fulfill me and make me happy because that’s most important,” he said.",
+      "published_at": "Tue, 24 Mar 2026 14:36:53 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國藝人Jay-Z拒絕性侵訴訟和其音樂創作心境，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 702,
+      "title": "BTS’s Comeback Show Was Heavy on Their New Album - The New York Times",
+      "link": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
+      "source": "Tavily (www.nytimes.com)",
+      "snippet": "Delivering the K-pop boy band BTS’s comeback concert on Saturday from downtown Seoul to Netflix’s 325 million subscribers and the band’s global fan base. Instead of starting in New York with an appearance on NBC’s “Today” show and a performance in Grand Central Terminal for the “Tonight Show,” as BTS did in 2020, the band is starting with a free comeback concert on Saturday in the historic center of Seoul that’s being livestreamed on Netflix. So the fact that they chose to wear looks by the Korean brand Songzio for their comeback concert was, like their choice of venue (Seoul’s historic Gwanghwamun Square) and the name of their album (“Arirang,” a 130-year-old Korean folk song), a statement as much about the place of Korean culture and identity on the global stage as about style. Such is the gravitational pull that BTS exerts in its home country, where the group — a symbol of South Korea’s cultural export power — is ending its nearly four-year hiatus with a highly anticipated concert at Gwanghwamun Square in Seoul on Saturday.",
+      "published_at": "Sat, 21 Mar 2026 09:14:42 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於韓國團體BTS的復出演唱會及其對韓國文化的推廣，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 703,
+      "title": "Bob Sinclar & Kiesza’s Modern Spin on ‘80s Hit ‘I Can’t Wait!’ Makes Billboard Canada Airplay Chart Debut - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/bob-sinclar-kieza-billboard-canada-charts",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "The French producer and the Canadian pop singer’s collaboration “I Can’t Wait!” debuts this week at No. 30 on the Billboard Canada Adult Contemporary (AC) Airplay chart, dated March 21. The Ontario Premier has announced that the provincial government plans to ban ticket resale transactions at prices exceeding face value, making it illegal for tickets to concerts, cultural, sports and other live events to be resold for more than their original cost. “With these new measures, consumers would no longer need to worry about being ripped off in the ticket resale market, and more families and fans would have the opportunity to see their favourite band or sports team perform live,” says Stephen Crawford, minister of public and business service delivery and procurement, in a statement. The news comes at the same time that on the other side of the country, Consumer Protection B.C. has reached a deal with StubHub Canada, following claims that ticket buyers for Taylor Swift's final Eras Tour shows in Vancouver were sold undisclosed “obstructed view” seats.",
+      "published_at": "Fri, 20 Mar 2026 15:17:15 GMT",
+      "collected_at": "2026-03-27 01:15:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導加拿大音樂榜單、安大略省的票務轉售禁令以及泰勒絲演唱會的票務爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 676,
       "title": "Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May - CBS News",
@@ -326,161 +474,21 @@
       "summary": "斥資一億打造MV！周杰倫深夜急做民調 春風不忍了：整張都蠻扯 - Yahoo新聞",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 441,
-      "title": "周杰倫深V裝配Dior幸運項鍊帥翻 上億畢卡索名畫也搶鏡 - ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tQWxwVUIzNnRib29DOHRzZ1BpVjMtSWk0MzRwMlg0Y3VhNUUyZkQ4VXlpRGpuWlc5djFUVXlJcW5laG9SUzN5elFWOUZSWWEzUlE?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫深V裝配Dior幸運項鍊帥翻 上億畢卡索名畫也搶鏡  ETtoday新聞雲",
-      "published_at": "2026-03-25T03:37:00.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫深V裝配Dior幸運項鍊帥翻 上億畢卡索名畫也搶鏡 - ETtoday新聞雲",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 442,
-      "title": "不止會寫歌，周杰倫還懂設計！「周董」操刀設計的這只錶連川普總統都擁有 - ELLE",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVmlVZEZZa20yMi1HUGY0eGpjUHdycEdfWS05T3lxLWJ5NnB5TVI3UnFZWWFEWldaZl9SbVBFNU5wZ2lkVUpCZ19oMmxBdXh2YjRHM000RnluZ2tQQlFYZm9MUzJ5Y1ItOXNYZld0c1QtU2VVXzFVX29fWFRCUjMzTkFhMlVpWEVVcUhxWi1uempEdDh3ZGtz?oc=5",
-      "source": "Google News",
-      "snippet": "不止會寫歌，周杰倫還懂設計！「周董」操刀設計的這只錶連川普總統都擁有  ELLE",
-      "published_at": "2026-03-25T04:52:46.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "不止會寫歌，周杰倫還懂設計！「周董」操刀設計的這只錶連川普總統都擁有 - ELLE",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 443,
-      "title": "周杰倫首揭露求婚昆凌核彈級內幕！驚爆整座古堡、餐廳攏係假ㄟ - 噓！星聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DYlpvVF90czNMNGJkY05SYVBiRkdVaHZCRHc3LXBpWktLM0tDYjBjb2FBMUVETjZ6czZWbS1hYUMtTFVSU0VVdWNRX3BKT1JYSEVHRDM3SmMzd9IBX0FVX3lxTE93Nkp6WDM0cUZCT19LQmpDRjdKQU9TNXdSUlY1cGY1WEhLZ0gzcFBtTFduVTBOdGtrUVVlUVhNbWdxenp5WDl0NzdzSEtGT2RhMEpZOXl5TWJIZGlZMU5V?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫首揭露求婚昆凌核彈級內幕！驚爆整座古堡、餐廳攏係假ㄟ  噓！星聞",
-      "published_at": "2026-03-24T07:35:49.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫首揭露求婚昆凌核彈級內幕！驚爆整座古堡、餐廳攏係假ㄟ - 噓！星聞",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 444,
-      "title": "周杰倫睽違4年推新專輯！鬆口「巡演最終站可能回台灣」 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Nml1U0Fsc3JkTVJEdUd3ZFNDbThyVDFRNXJKRllWS3JoMlczVnNSbndGTHp1dXcyNlA0WGpQMHE3WkxvejRHbHhpU1lQQWFnTF8yLVBkSE9CWnM?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫睽違4年推新專輯！鬆口「巡演最終站可能回台灣」  Newtalk新聞",
-      "published_at": "2026-03-25T02:20:13.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫睽違4年推新專輯！鬆口「巡演最終站可能回台灣」 - Newtalk新聞",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 445,
-      "title": "周杰倫新歌MV藏藝術密碼預告將收錄求婚影片| 娛樂 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jTmo1NmtYS2RfM2llTnpSSGZJRHRJMGN3cFlMbDJFM2xfSS1IT2JvVmotSld2OWYwand5aldFVzRyYmNxc0RsUFkyWG02bXJNVnl1OE5oQ3htbjhScGNF?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫新歌MV藏藝術密碼預告將收錄求婚影片| 娛樂  中央社 CNA",
-      "published_at": "2026-03-24T08:06:00.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫新歌MV藏藝術密碼預告將收錄求婚影片| 娛樂 - 中央社 CNA",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 446,
-      "title": "被問MV中的名畫都收藏了嗎？周杰倫一句話嗆爆阿Ken - 自由娛樂",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pYm02c0ZYQm41R2ZjVFdSZENENGNJTmplbllmNzdQMDZsNXF3Z084ZGc4VmN0RGdNT0RZRzJEWU5GNVpUVEMwb1dmX3JfOGpra2dIRkFZY3lJY0Ut0gFiQVVfeXFMTUxmNThnWTdHc01yZVRYWEZJWmZuZGtlbUdvQTljUUhoSzhNSHVjdDdJU29ZUFZMeEx6NjFZUTdCN3pIUlItTXNLSWFKZGJzck42aldKYmllT0dzOGdJcS1XVkE?oc=5",
-      "source": "Google News",
-      "snippet": "被問MV中的名畫都收藏了嗎？周杰倫一句話嗆爆阿Ken  自由娛樂",
-      "published_at": "2026-03-24T11:01:15.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "被問MV中的名畫都收藏了嗎？周杰倫一句話嗆爆阿Ken - 自由娛樂",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 447,
-      "title": "周杰倫《太陽之子》專輯直擊！想為小女兒寫專屬歌、想把求婚影片放進MV ⋯⋯ 7 大必知重點整理！ - GQ Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPa0J3LTFRNTZFem14ZmJEWENvSU04QzFoNmVCc2JRdUxHdjRKcm5xYjFIRm9HZ2g0S3RqQ3BNVC0yVjZXMlotc0VVd3ZtYnU4SlFsYi11RzJpdTJnakRoQjRST1ZBVGc0N0E1Zm1RV091WGMxRWlMZEtRR0hxbHhYX0RmSFZfWnNLaU1tdnFnb25WVzdwZFBkV0poc1lVdnhqNHktRzA3VnR0czhTSUl3OS1GN19kWXF5UVU3X2RncGdkTU1pR2NLemFBMjF5dGVPbjdYcEppN3VKcmRRcWFhR1BFVEJxQkZTOERvRUNwY1ZGRGJuNk5Ic2k5eFVueVpEWFhoVVlFSkloV3Q0OTFWVk1QNWhBWWtjOE8zQWt0Mm5tX216b090cVRSdFNkNE04dFFIR1R6QXdiNjVadzFlMUFOZW1jTVZoendmN3o4OW9iazliUGxJa2pUME5PM01PZ1hxOXNhdHNlVnlZN25LTA?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫《太陽之子》專輯直擊！想為小女兒寫專屬歌、想把求婚影片放進MV ⋯⋯ 7 大必知重點整理！  GQ Taiwan",
-      "published_at": "2026-03-24T07:33:21.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫《太陽之子》專輯直擊！想為小女兒寫專屬歌、想把求婚影片放進MV ⋯⋯ 7 大必知重點整理！ - GQ Taiwan",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 448,
-      "title": "事業、家庭兩全！周杰倫兩度恐慌症上身　他鬆口：有點恐怖 - 鏡週刊Mirror Media",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yYk10RzFvaGRYX0QzN0N3VnQyeVczdEZiV3RCRm5Vcm1oRk9Db3g3R1dmeE9uUE9Id1lGTW9xRmJNeWMySUJkaF95SlZNUUY0NXdBMGVVVXZhaEnSAWBBVV95cUxPX21teVJqN09MODdBYXN3ZGFMa185ajk5azFNUENZVnlYT3JkNERSVGxBdVQ3dWlRTG1SWHQxZXA2aXktTUVSMHJPQVhXQXFlcE42Qi1seHVVRU1palBVM2Y?oc=5",
-      "source": "Google News",
-      "snippet": "事業、家庭兩全！周杰倫兩度恐慌症上身　他鬆口：有點恐怖  鏡週刊Mirror Media",
-      "published_at": "2026-03-24T07:20:00.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "事業、家庭兩全！周杰倫兩度恐慌症上身　他鬆口：有點恐怖 - 鏡週刊Mirror Media",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 449,
-      "title": "周杰倫寵女狂魔！為3歲愛女Jacinda一句話 寫出新專輯「專屬情歌」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPMzdld3otODI0cDJyeXNQaUFIM2VNX0szY0NTTlQ3TlV0MW9mR3hxMHJINXlLTVlkeWtPdTI0U0NaU3VYbFBIRTNJR0N4a0JxeU56eTdldUpZdUxBM0dnbTRlSzFUQXFsQnk2OXJLVVhSVzRsTXh4LVZYdVRXODhsbUlhVl9zVTdvSFRrVzVlLWhqSjRrSmVPc2xiZkRIeEJRY0Q1di1lY2tqTTFJR3FEZkRPRmJ6UW9ZYjdvY3lYcXZBZUNQdy1UU0s2aW42WW5kdzFwS1RKd0ZDOGs5MGFJakZmaGdrZzd4TVNnMFlQby1GcW4yMFB1d3ZabmVSUExuVHdSNEZ5VUZ6RE10ZFNOLTU5S0ttMFpMcmYyWVE2elN4V3lLY1NPY2MwaGpUTE4xaUxvZVJJeDhmbjZFZHdGdGE1YmV2TFp4a2lpZ1ZLcVIwRENXTXFMckhoQVNhX3JhMFhoNDBYOEZFbGM?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫寵女狂魔！為3歲愛女Jacinda一句話 寫出新專輯「專屬情歌」  Yahoo新聞",
-      "published_at": "2026-03-25T04:10:28.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫寵女狂魔！為3歲愛女Jacinda一句話 寫出新專輯「專屬情歌」 - Yahoo新聞",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 450,
-      "title": "周杰倫《太陽之子》深夜民調！春風「整張都蠻扯」網讚：哥沒瓶頸 - ETtoday星光雲| ETtoday新聞雲",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FeU9aYkFuZmwyelZld0E1ZlJJOHVFMmdTUWxPb3oyaFlacTVVTHZDOWp5NU9Oa2t0clg4WXRhYVRaaHlNRzNoQ3lOSWw3UdIBakFVX3lxTE5Bd3lqd2FFb1pXMUhCclNRekVKdXc4ZXZPd3hHMjY0MHJpZFBCWGNCVGpJbklvSFo2OXNQT3Q3ckVMR2JTM0NHenBrbWphOEI4eWNPYk9NQ0xNMEVFR0pzQjhTZm4wczg3VHc?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫《太陽之子》深夜民調！春風「整張都蠻扯」網讚：哥沒瓶頸  ETtoday星光雲| ETtoday新聞雲",
-      "published_at": "2026-03-25T02:14:00.000Z",
-      "collected_at": "2026-03-25 05:41:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫《太陽之子》深夜民調！春風「整張都蠻扯」網讚：哥沒瓶頸 - ETtoday星光雲| ETtoday新聞雲",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 4,
-    "report_date": "2026-03-26",
-    "total_articles": 18,
+    "id": 5,
+    "report_date": "2026-03-27",
+    "total_articles": 10,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 18,
-    "daily_summary": "周杰倫睽違四年推出新專輯《太陽之子》，首波主打MV斥資上億元，由《阿凡達》團隊打造，並藏有30幅名畫彩蛋。專輯中為小女兒創作〈女兒殿下〉，更預告將公開與昆凌的求婚影片。他還分享曾兩度恐慌症發作，並透露巡演最終站可能回台灣。",
+    "neutral_count": 10,
+    "daily_summary": "周杰倫今日焦點圍繞新專輯《太陽之子》發行。主打歌MV斥資上億由《阿凡達》團隊打造，專輯中更收錄為小女兒Jacinda創作的《女兒殿下》，並預告將曝光他向昆凌求婚的浪漫影片。他還透露了求婚時的核彈級內幕，以及曾兩度恐慌症發作的經歷。此外，周董也鬆口未來巡演最終站可能回到台灣。",
     "key_events": [
-      "發行新專輯《太陽之子》",
-      "億元MV藏名畫彩蛋",
-      "將公開昆凌求婚片"
+      "新專輯《太陽之子》發行",
+      "斥資上億MV與女兒歌",
+      "透露求婚內幕與恐慌症"
     ],
-    "created_at": "2026-03-26 06:04:33"
+    "created_at": "2026-03-27 01:16:54"
   }
 }
