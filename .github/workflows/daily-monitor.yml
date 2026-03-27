@@ -2,8 +2,8 @@ name: Jay Monitor Daily Run
 
 on:
   schedule:
-    # 每天早上 9 點 (台灣時間) = UTC 時間 凌晨 1 點
-    - cron: '0 1 * * *'
+    # 提早到 08:37 (UTC 00:37) 執行，避開 GitHub 全球整點(01:00)最恐怖的塞車潮
+    - cron: '37 0 * * *'
   workflow_dispatch: # 允許在 GitHub 網頁上手動點擊執行
 
 jobs:
