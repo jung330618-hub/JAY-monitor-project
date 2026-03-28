@@ -7008,11 +7008,11 @@
       "snippet": "周杰倫〈太陽之子〉今全球首播！耗時2年、砸上億　免費直播看這  NOWnews今日新聞",
       "published_at": "2026-03-24T02:24:14.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫耗時兩年、斥資上億打造的新歌〈太陽之子〉今日全球首播，並提供免費直播觀看。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 502,
@@ -7022,11 +7022,11 @@
       "snippet": "周杰倫出新輯 邀歌迷進影廳看MV（1） (圖)  Yahoo運動",
       "published_at": "2026-03-24T07:14:14.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發行新專輯，並邀請歌迷到影廳觀看其音樂錄影帶。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 503,
@@ -7036,11 +7036,11 @@
       "snippet": "周杰倫10年沒開簽唱會「有望辦在網球場」　被問台灣演唱會回應了！  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-03-24T11:43:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫有望在十年後舉辦簽唱會，並對台灣演唱會的可能性做出回應，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 504,
@@ -7050,11 +7050,11 @@
       "snippet": "周杰倫公開2首新歌 預告曝光向昆凌求婚畫面  大紀元",
       "published_at": "2026-03-24T14:41:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫公開了兩首新歌，並在預告中曝光了向昆凌求婚的畫面。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 505,
@@ -7064,11 +7064,11 @@
       "snippet": "周杰倫認了4歲愛女地位最高！新專輯為她寫歌 曝演唱會大改版〈黃金甲〉遭取代  鏡新聞",
       "published_at": "2026-03-24T20:11:44.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫承認4歲愛女地位最高，為她寫新歌，並透露演唱會將大改版，其中〈黃金甲〉會被取代。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 506,
@@ -7078,11 +7078,11 @@
       "snippet": "（有片）周杰倫新專輯《太陽之子》 今全球數字平台上線- 娛樂  點新聞",
       "published_at": "2026-03-25T02:29:34.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯《太陽之子》已在全球數字平台正式上線。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 507,
@@ -7092,11 +7092,11 @@
       "snippet": "太巧！張信哲新歌撞梗周杰倫　去年就拍好MV...驚人巧合曝光  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-03-24T23:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "張信哲新歌主題與周杰倫作品巧合，引發媒體關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 508,
@@ -7106,11 +7106,11 @@
       "snippet": "周杰倫發新片 預告求婚畫面藏MV  中時新聞網",
       "published_at": "2026-03-24T20:10:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫發布新作品，其中包含一支新片和一支預告有求婚畫面的MV。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 509,
@@ -7120,11 +7120,11 @@
       "snippet": "周杰倫出新輯 邀歌迷進影廳看MV（2） (圖)  Yahoo新聞",
       "published_at": "2026-03-24T07:14:16.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發行新專輯，並邀請歌迷到電影院觀看MV，為新作品宣傳。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 510,
@@ -7134,11 +7134,11 @@
       "snippet": "〈太陽之子〉MV全球首播 周杰倫曝小女兒新歌與求婚畫面彩蛋  rti.org.tw",
       "published_at": "2026-03-24T08:23:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈太陽之子〉MV全球首播，並在其中揭露了小女兒的新歌與求婚畫面彩蛋，引發粉絲熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 511,
@@ -7148,11 +7148,11 @@
       "snippet": "周杰倫首揭露求婚昆凌核彈級內幕 豪租古堡 餐廳是假的？  世界新聞網",
       "published_at": "2026-03-24T13:12:43.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫首次揭露他向昆凌求婚時，租下古堡並安排「假餐廳」的浪漫內幕。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 512,
@@ -7162,11 +7162,11 @@
       "snippet": "直擊｜周杰倫突現身信義區！超大胸肌被看光 掏心恐慌狀況突嗆：你有病喔  壹蘋新聞網",
       "published_at": "2026-03-24T06:08:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.3,
+      "summary": "周杰倫現身信義區時，因被拍到胸肌而情緒激動，對拍攝者做出不滿反應。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 513,
@@ -7176,11 +7176,11 @@
       "snippet": "周杰倫推出新專輯為細女寫歌情歌MV公開當年浪漫求婚影片- 亞洲 - 明周娛樂  Ming Pao Weekly",
       "published_at": "2026-03-24T13:24:25.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發行新專輯，其中為小女兒創作歌曲，並在情歌MV中公開浪漫求婚影片。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 514,
@@ -7190,11 +7190,11 @@
       "snippet": "周杰倫驚吐曾兩度恐慌！認了反著來「沒歌先拍MV」 阿KEN傻眼曝過程  Yahoo新聞",
       "published_at": "2026-03-24T12:30:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫在節目中分享過去曾兩度恐慌的經歷，並揭露他先拍MV再創作歌曲的獨特工作模式。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 515,
@@ -7204,11 +7204,11 @@
       "snippet": "周杰倫出席新專輯記者會（2） (圖)  Yahoo新聞",
       "published_at": "2026-03-24T07:36:45.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫出席新專輯記者會，預示著新作品的發布。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 516,
@@ -9841,6 +9841,216 @@
       "summary": "此新聞主要報導加拿大音樂榜單、安大略省的票務轉售禁令以及泰勒絲演唱會的票務爭議，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 704,
+      "title": "DADDY'S HOME, HOME FOR ME 🫦 BTS members served handsome visuals in the photos Netflix Korea shared on Sunday. RM, Jin, SUGA, J-hope, Jimin, V, and Jungkook held their comeback concert at Gwanghwamun Square in Seoul, South Korea on Satu - Facebook",
+      "link": "https://www.facebook.com/PhilippineSTAR/posts/daddys-home-home-for-me-bts-members-served-handsome-visuals-in-the-photos-netfli/1435890001908208/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# Philippine Star - DADDY'S HOME, HOME FOR ME 🫦 BTS members... ## Philippine Star's Post. ### **Philippine Star**. DADDY'S HOME, HOME FOR ME Image 1: 🫦. BTS members served handsome visuals in the photos Netflix Korea shared on Sunday. RM, Jin, SUGA, J-hope, Jimin, V, and Jungkook held their comeback concert at Gwanghwamun Square in Seoul, South Korea on Saturday, which was livestreamed on Netflix. The K-pop boy group is coming to Manila on March 13 and 14, 2027 for their comeback world tour. Amie Bautista ready kn b nxt year? bat naman masyado nyong ginalangin yong comeback nyo? Image 11: 🥰Image 12: 🥰Image 13: 🥰Image 14: 🥰Image 15: ✨Image 16: ✨Image 17: ✨Image 18: ✨. An daming pinag bago but I'm still ARMY girl. Image 21: 💜Image 22: 💜Image 23: 💜. I love BTS leader Kim Jong Un. Image 24: 💜Image 25: 💜Image 26: 💜Image 27: 💜Image 28: 💜Image 29: 💜Image 30: 💜.",
+      "published_at": "Sun, 22 Mar 2026 10:57:32 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導韓國團體BTS的演唱會及世界巡演資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 705,
+      "title": "Kangmin Finds His Balance With Solo Debut Album ‘Free Falling’ - Forbes",
+      "link": "https://www.forbes.com/sites/laurasirikul/2026/03/27/kangmin-finds-his-balance-with-solo-debut-album-free-falling/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "Despite the name of Kangmin’s debut solo album and title track, *Free Falling*, the 23-year-old K-pop artist has been feeling quite the opposite lately. “I wanted to talk about what I was going through, and my emotions of going through those situations at the time of preparing for this album,” Kangmin says over Zoom from Seoul. “There was a bit of the emotion of anxiousness within feeling happy, so I wanted to come across as very honest with my fans through this album.”. The title track, “Free Falling,” is a contemporary R&B-pop song he wrote that depicts a couple in a turbulent relationship, going through a cycle of love and pain, and how this constant push-and-pull causes him to lose control and essentially free-fall. The final track in the album, “in the mirror,” is a mid-tempo pop song about ignoring your emotions, but realizing that it is time to face your reflection and accept it.",
+      "published_at": "Fri, 27 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於K-pop藝人Kangmin發行首張個人專輯《Free Falling》，內容探討其創作心境與歌曲主題，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 706,
+      "title": "Jason Aldean On New Album 'Songs About Us' Coming Out in April - Billboard",
+      "link": "https://www.billboard.com/video/jason-aldean-on-new-album-songs-about-us-coming-out/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "## Video. # Jason Aldean On New Album ‘Songs About Us’ Coming Out in April & Touring in the Summer | iHeartRadio Music Awards 2026. ### Trending on Billboard. Jason Aldean caught up with Billboard’s Tetris Kelly on the red carpet at the iHeartRadio Music Awards 2026. ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. // This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. Billboard is a part of Penske Media Corporation. Powered by WordPress.com VIP. ## optional screen reader.",
+      "published_at": "Fri, 27 Mar 2026 01:13:36 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導美國歌手Jason Aldean的新專輯與巡演資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 707,
+      "title": "Kehlani Announces Self Titled Album - TotalNtertainment",
+      "link": "https://www.totalntertainment.com/music/kehlani-announces-self-titled-album/",
+      "source": "Tavily (www.totalntertainment.com)",
+      "snippet": "# Kehlani Announces Self Titled Album. Award–winning R&B powerhouse Kehlani announces the arrival of her highly anticipated new self titled album, Kehlani, set for release on April 24. A self-titled album is often an artist’s most personal statement, and Kehlani is no exception. To date, she has earned over 20 gold and platinum RIAA certifications, tallied more than 5 billion streams, and is now a 2x GRAMMY® Award–winning, 7x GRAMMY® Award–nominated artist, taking home Best R&B Performance and Best R&B Song for her global hit “Folded”. She ushered in a new era and dominated the cultural conversation with her 2025 single “Folded,” a soaring anthem that has amassed over 800 million global streams, peaked at #6 on Billboard’s Hot 100, and reached #1 at Urban Radio (for 9 weeks) as well as hit #1 at Rhythmic and R&B Radio. Kehlani also earned her first solo Billboard #1 on the Rhythmic Airplay Chart, claimed the top spot on Apple Music’s R&B charts in both the U.S. and U.K., and reached #22 on Billboard’s Global 200.",
+      "published_at": "Fri, 27 Mar 2026 06:58:02 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了R&B歌手Kehlani即將發行新專輯的消息及其近期取得的音樂成就，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 708,
+      "title": "Michael Jackson’s Estate Fires Back at Paris Jackson After She Slams Biopic - TMZ",
+      "link": "https://www.tmz.com/2026/03/21/michael-jackson-estate-slams-paris-after-biopic-complaints/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Michael Jackson’s Estate Fires Back at Paris Jackson After She Slams Biopic. ## Michael Jackson’s Estate Fires Back at Paris Jackson After She Rips Biopic. **Paris Jackson** slammed the two executors running **Michael Jackson**’s estate and trashed some of the production decisions behind the upcoming biopic in the process … but a lawyer for the estate scoffed at her complaints and called them “without merit.”. She also says Branca’s lack of experience producing' films “may be the root of reports that the estate has had to fund tens of millions of dollars in reshoots after the terms of a well-known settlement agreement prevented the production from using substantial amounts of footage already shot.” Paris said she was concerned it was a “botched production on a” 3.5-hour biopic “which the estate has reportedly invested at least some, if not all of the $150 million budget, is troubling, to say the least.”. Paris also claimed McClain and Branca used the estate funds to invest in risky projects.",
+      "published_at": "Sat, 21 Mar 2026 08:00:03 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞與周杰倫無關，內容主要關於麥可傑克森遺產管理委員會與其女兒Paris Jackson就傳記電影製作決策的爭議。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 709,
+      "title": "Meet Carolyn Bessette’s ex before JFK Jr: 'Baywatch' star once said she ‘still loved me’ after marriage - Fox News",
+      "link": "https://www.foxnews.com/entertainment/meet-carolyn-bessettes-ex-before-jfk-jr-baywatch-star-once-said-she-still-loved-me-after-marriage",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "## Michael Bergin dated Carolyn Bessette in the early 1990s, prior to her relationship with JFK Jr. By Lori A Bashian  Fox News. Also, portrayed in the show is Michael Bergin, a former Calvin Klein model who dated Bessette prior to her relationship with JFK Jr. Bergin dated Bessette prior to her marriage to JFK Jr. Here is everything you need to know about Bessette's other big romance. In his 2004 book, \"The Other Man: A Love Story,\" Bergin claimed that he and Bessette continued to see each other after her September 1996 marriage to JFK Jr. During an appearance on \"Paula Zahn Now\" in 2004, Bergin spoke about why he chose to write a book about his relationship with Bessette, saying since someone else wrote about it first \"like they knew what they were talking about,\" he \"wanted to put an end to all this\" and get \"closure.\" He was likely referring to the 2000 book, \"The Day John Died,\" written by Christopher Andersen.",
+      "published_at": "Sat, 21 Mar 2026 14:00:16 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞與周杰倫無關，主要報導了卡羅琳·貝塞特在嫁給小約翰·甘迺迪之前與其前男友麥可·伯金的關係。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 710,
+      "title": "Police video of Justin Timberlake's 2024 drunken driving arrest released - NBC New York",
+      "link": "https://www.nbcnewyork.com/entertainment/entertainment-news/police-video-justin-timberlake-2024-dwi-arrest-released/6479388/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "# Police video of Justin Timberlake's 2024 drunken driving arrest released. ## Timberlake's lawyers had sued to block the release of the video, arguing it would “devastate” Timberlake’s privacy by revealing “intimate, highly personal, and sensitive details.”. Justin Timberlake struggled to perform field sobriety tests requiring him to walk a straight line and stand on one leg after he was pulled over in New York’s Hamptons in 2024 by police officers who suspected him of driving drunk, according to video footage released Friday. When an officer asks why he is in town, Timberlake says, “I’m on a world tour.”. ### Justin Timberlake sues to block release of police video from 2024 drunken driving arrest in NY. Timberlake's lawyers had sued to block the release of the video, arguing it would “devastate” Timberlake’s privacy by revealing “intimate, highly personal, and sensitive details.” They also said it would cause “severe and irreparable harm” to his reputation by subjecting him to “public ridicule and harassment.”.",
+      "published_at": "Sat, 21 Mar 2026 13:45:31 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導賈斯汀·提姆布萊克酒駕逮捕影片的釋出。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 711,
+      "title": "Video Shows Justin Timberlake Struggling Through DUI Tests: ‘Really Hard’ - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/justin-timberlake-arrest-video-dui-tests-11714495",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "Newly released police video shows Justin Timberlake struggling through roadside sobriety tests during his 2024 drunken driving arrest in New York’s Hamptons. *Newsweek* also contacted the Police Department of Sag Harbor, New York, to request the full arrest footage. Timberlake told police he had consumed one martini and said he was following friends home in the former whaling village, one of the Hamptons’ affluent beach towns, about 100 miles east of New York City. When an officer asked why he was in town, Timberlake replied, “I’m on a world tour.”. The footage was released after Sag Harbor Village and Timberlake’s legal team agreed to disclose a redacted version in response to public records requests. The *Associated Press* and other media outlets had sought the video under New York’s Freedom of Information Law. Timberlake’s lawyers initially sued to block the release, arguing the footage would expose “intimate, highly personal, and sensitive details” and cause “severe and irreparable harm” to his reputation by subjecting him to public ridicule.",
+      "published_at": "Sat, 21 Mar 2026 09:52:00 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於賈斯汀·提姆布萊克（Justin Timberlake）酒駕被捕及相關影片釋出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 712,
+      "title": "DeleteMe acquires social media security tool Block Party - TechCrunch",
+      "link": "https://techcrunch.com/2026/03/25/deleteme-acquires-social-media-security-tool-block-party/",
+      "source": "Tavily (techcrunch.com)",
+      "snippet": "# DeleteMe acquires social media security tool Block Party. Block Party founder Tracy Chou announced on Wednesday that the company has been acquired by DeleteMe, an online personal data removal service. A software engineer and advocate for diversity in tech, Chou founded Block Party in 2018 as a tool to help people stay safe from targeted harassment on Twitter, inspired by her own experiences on the platform. Under his ownership, the company began charging for access to its API, but the costs were too steep for a startup like Block Party to operate, so Block Party was forced to quickly pivot and launch tools for other platforms. ### Save up to $300 or 30% to TechCrunch Founder Summit. #### 1,000+ **founders** and investors come together at **TechCrunch Founder Summit 2026** for a full day focused on growth, execution, and real-world scaling. For current Block Party users, nothing will change for now — as the tool becomes more integrated into DeleteMe at large, the company says it will share more with customers.",
+      "published_at": "Wed, 25 Mar 2026 16:51:56 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導DeleteMe收購社群媒體安全工具Block Party，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 713,
+      "title": "Box Office: ‘Project Hail Mary’ Rockets to $33 Million - Variety",
+      "link": "https://variety.com/2026/film/news/box-office-project-hail-mary-ready-or-not-2-1236695888/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Box Office: ‘Project Hail Mary’ Rockets to $33 Million. Phil Lord and Christopher Miller’s “Project Hail Mary” earned $33 million domestically on Friday from 4,007 locations. The sci-fi drama is expected to blast off to $77 million by Sunday, which marks the best opening for Amazon MGM ever, legging out 2023’s “Creed III” ($58 million). Disney and Pixar’s “Hoppers” landed in second place on Friday with $5.4 million domestically. Searchlight Pictures’ “Ready or Not 2: Here I Come” came in third place on Friday, pulling in $3.8 million domestically from 3,010 locations. The No. 4 slot went to the Indian action epic “Dhurandhar The Revenge,” which made an estimated $3 million on Friday from just 987 North American theaters. The film is projected to gross $10.9 million by Sunday. Fifth place went to Universal’s “Reminders of Him,” which added $2.7 million domestically on its second Friday in theaters. The teary romance is expected to gross $8.7 million by Sunday, pushing its North American total to a solid $33 million.",
+      "published_at": "Sat, 21 Mar 2026 15:52:48 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導北美電影票房表現，其中《Project Hail Mary》首週末票房表現亮眼。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 714,
+      "title": "We're Just Curious3/21 - CBS News",
+      "link": "https://www.cbsnews.com/gooddaysacramento/video/were-just-curious321/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "## Good Day. Image 71: We're Just Curious3/21 ### We're Just Curious3/21 now playing now playing 3m agoImage 72: Making bouillabaisse with a Sonoma-based chef ### Making bouillabaisse with a Sonoma-based chef 03:54 13h agoImage 73: Learn how to start planning your wedding with Tar Creek Ranch ### Learn how to start planning your wedding with Tar Creek Ranch 03:26 14h agoImage 74: New fun at the ballpark with the Stockton Ports ### New fun at the ballpark with the Stockton Ports 08:24 13h agoImage 75: The Party Animals hang out with fans in Elk Grove ### The Party Animals hang out with fans in Elk Grove 08:25 13h agoImage 76: Getting a taste of Retro Pie Pizza in Manteca ### Getting a taste of Retro Pie Pizza in Manteca 08:40 13h agoImage 77: Actors Beau Garrett & Ben Schnetzer talk about “The Madison” ### Actors Beau Garrett & Ben Schnetzer talk about “The Madison” 04:06 14h agoImage 78: Oscar Mayer Wienermobile visits Good Day ### Oscar Mayer Wienermobile visits Good Day 04:31 14h agoImage 79: Meet the kid behind a successful lemonade stand in Stockton ### Meet the kid behind a successful lemonade stand in Stockton 04:59 14h agoImage 80: Creating clean graffiti with Pressure Perfect ### Creating clean graffiti with Pressure Perfect 08:01 14h agoImage 81: Play and make new pals at WonderPlay Zone in Folsom ### Play and make new pals at WonderPlay Zone in Folsom 03:14 Mar 19, 2026Image 82: The Pops Chorale & Orchestra performs on Good Day! 03:16 Nov 30, 2024Image 70: Give me 60 - a new Good Day game! ### Moonshine & Co. 04:45 Mar 28, 2024Image 140: Cane Corner - New in the Neighborhood!",
+      "published_at": "Sat, 21 Mar 2026 14:23:00 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導是CBS節目《Good Day》的內容摘要，包含多個不相關的日常主題，但並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 715,
+      "title": "Karaoke Revolution Presents: American Idol Encore 2 - Kotaku",
+      "link": "https://kotaku.com/games/karaoke-revolution-presents-american-idol-encore-2/gallery/13",
+      "source": "Tavily (kotaku.com)",
+      "snippet": "# Karaoke Revolution Presents: American Idol Encore 2 - Kotaku. # Karaoke Revolution Presents: American Idol Encore 2. *   Image 2: Yoostar on MTV ## Yoostar on MTV. *   Image 3: SpongeBob s Surf   Skate Roadtrip ## SpongeBob’s Surf  s Atlantis Squarepantis ## SpongeBob’s Atlantis Squarepantis. *   Image 10: SpongeBob s Atlantis Squarepantis ## SpongeBob’s Atlantis Squarepantis. *   Image 11: Bratz: The Movie ## Bratz: The Movie. *   Image 12: Big Bumpin  ## Big Bumpin’. *   Image 13: Pocket Bike Racer ## Pocket Bike Racer. About Cookies on this Site. We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising.",
+      "published_at": "Sat, 21 Mar 2026 07:16:28 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了多款遊戲，包括《Karaoke Revolution Presents: American Idol Encore 2》以及其他如Yoostar、海綿寶寶系列等遊戲，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 716,
+      "title": "The Wailers and The Pogues Confirm Australian Tours Despite Bluesfest Collapse - Billboard",
+      "link": "https://www.billboard.com/music/concerts/the-wailers-the-pogues-confirm-australia-tours-bluesfest-collapse-1236203949/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# The Wailers and The Pogues Confirm Australian Tours Despite Bluesfest Collapse. Both acts have announced updated routing — The Wailers with a new run of East Coast dates and The Pogues adding a Brisbane show. Two more acts from the cancelled Bluesfest 2026 lineup have confirmed they are pressing ahead with their Australian tours. The Wailers and The Pogues both announced updated plans on Saturday (March 21), joining Sublime and Counting Crows in reassuring fans that their runs would continue despite the Easter festival’s collapse. The Wailers have announced a new string of intimate East Coast dates, now presented by Noisy Group, with shows in Gosford, Sydney, Port Macquarie, Coffs Harbour and Brunswick Heads running through Easter weekend. The band’s 2026 tour marks the 50th anniversary of *Rastaman Vibration* — Bob Marley’s landmark 1976 album that represented the commercial breakthrough of reggae in the United States. The Pogues have also confirmed their Australian and New Zealand tour is going ahead as planned, adding a new Brisbane show at Fortitude Music Hall on April 2.",
+      "published_at": "Sat, 21 Mar 2026 06:21:44 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導The Wailers和The Pogues樂團確認將在澳洲巡演，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 717,
+      "title": "New Kids on the Block Thrill Fans with 2026 Tour Buzz: Germany Dates Incoming and Tickets Flying Fas - AD HOC NEWS",
+      "link": "https://www.ad-hoc-news.de/boerse/news/ueberblick/new-kids-on-the-block-thrill-fans-with-2026-tour-buzz-germany-dates/68950278",
+      "source": "Tavily (www.ad-hoc-news.de)",
+      "snippet": "# New Kids on the Block Thrill Fans with 2026 Tour Buzz: Germany Dates Incoming and Tickets Flying Fast for Epic Comeback Shows. You won't believe the excitement exploding online as New Kids on the Block drop hints of massive 2026 tour expansion into Europe, with Germany fans heartbroken yet hopeful for dates in Berlin and Munich. **New Kids on the Block are back, and Germany fans, you are losing your minds right now.** Just hours ago on March 21, 2026, the band's official tour page lit up with fresh updates showing North American dates selling out in record time, fueling massive hype that their magic is heading your way next. This isn't hype for hype's sake—the official NKOTB tour page confirms 15+ U.S. shows already at capacity, with more announcements promised 'imminently.' Fans in DACH are united, sharing old concert vids and pleading #NKOTBtoGermany. Promoter Live Nation Germany's history with NKOTB includes past sellouts, and their site teases '2026 international dates TBA.' Cross-checked with Eventim.de—no listings, but presale alerts are live for registered fans.",
+      "published_at": "Sat, 21 Mar 2026 11:18:35 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導New Kids on the Block樂團2026年巡演的相關消息。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 718,
+      "title": "Lily Allen West End Girl Concert Review: Bold Show Full of Feminine Rage - Variety",
+      "link": "https://variety.com/2026/music/global/lily-allen-west-end-girl-concert-review-bold-feminine-rage-1236695834/",
+      "source": "Tavily (variety.com)",
+      "snippet": "On Friday night, Lily Allen finally brought “West End Girl” to the West End. In a full-circle moment for the London-born singer-songwriter, the tour for her latest album — which, in case you were living under a rock, created lots of buzz for its no-holds-barred songwriting seemingly about her divorce from “Stranger Things” star David Harbour — found her back in the place that marked the beginning of the end of her relationship. Instead of having another artist open the concert, Allen enlisted three cellists — all brunette with bangs, strangely mirroring the singer — to play instrumental versions of some of her biggest hits like “LDN,” “It’s Not Fair,” “Smile” and “Fuck You.” Though some fans have expressed disappointment online that Allen isn’t including these songs in her setlist, that sentiment wasn’t present in the room — as lyrics flashed on a screen behind the cellists, the Palladium turned into a giggly, nostalgic sing-a-long that left the audience warmed up and ready to focus on “West End Girl.”.",
+      "published_at": "Sat, 21 Mar 2026 13:59:44 GMT",
+      "collected_at": "2026-03-28 05:35:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導英國歌手Lily Allen的「West End Girl」演唱會評論，內容聚焦於其音樂表現與個人情感表達。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -9906,6 +10116,21 @@
         "透露求婚內幕與恐慌症"
       ],
       "created_at": "2026-03-27 01:16:54"
+    },
+    {
+      "id": 6,
+      "report_date": "2026-03-28",
+      "total_articles": 15,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 15,
+      "daily_summary": "周杰倫近日話題豐富，睽違四年將推新專輯，預告收錄求婚影片，並鬆口巡演最終站可能回台灣。他揭露當年向昆凌求婚的「假古堡」內幕，新歌MV斥資上億引發熱議。此外，他曾設計連川普都擁有的手錶，早期寫歌「罵方文山」也成經典。",
+      "key_events": [
+        "睽違四年將推新專輯",
+        "揭露求婚假古堡內幕",
+        "巡演最終站可能回台"
+      ],
+      "created_at": "2026-03-28 05:37:33"
     }
   ],
   "notification_logs": [
@@ -10048,11 +10273,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-03-27 01:16:56"
+    },
+    {
+      "id": 21,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "失敗: {\"message\":\"Authentication failed. Confirm that the access token in the authorization header is valid.\"}",
+      "sent_at": "2026-03-28 05:37:33"
+    },
+    {
+      "id": 22,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-28 05:37:34"
     }
   ],
   "_meta": {
-    "nextArticleId": 704,
-    "nextReportId": 6,
-    "nextLogId": 21
+    "nextArticleId": 719,
+    "nextReportId": 7,
+    "nextLogId": 23
   }
 }
