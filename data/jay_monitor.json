@@ -7218,11 +7218,11 @@
       "snippet": "周杰倫直播空城！萬人湧留言區　直接炸鍋狂刷：「是不是遲到了」  三立娛樂星聞",
       "published_at": "2026-03-24T09:43:47.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫直播開場時人未到，卻引發萬人湧入留言區熱烈討論，展現其超高人氣與粉絲期待。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 517,
@@ -7232,11 +7232,11 @@
       "snippet": "周杰倫自曝將公開求婚昆凌影片！專輯還為小女兒寫一首新歌  Marie Claire 美麗佳人",
       "published_at": "2026-03-24T12:17:21.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫透露將公開與昆凌的求婚影片，並在新專輯中為小女兒創作一首新歌，展現其家庭溫馨的一面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 518,
@@ -7246,11 +7246,11 @@
       "snippet": "阿Ken讚只有「他」能超越周杰倫! 本人當眾無情吐槽：有病喔?  MSN",
       "published_at": "2026-03-24T10:03:49.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "阿Ken稱讚某人能超越周杰倫，周杰倫則幽默回應「有病喔？」，展現其高人氣與風趣。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 519,
@@ -7260,11 +7260,11 @@
       "snippet": "周杰倫鬆口將分享求婚昆凌的浪漫影片　大手筆租古堡、演員 差點戲白演了  鏡週刊Mirror Media",
       "published_at": "2026-03-24T08:07:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫鬆口表示將分享他為昆凌精心策劃、租用古堡和演員的浪漫求婚影片。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 520,
@@ -7274,11 +7274,11 @@
       "snippet": "直擊／周杰倫〈太陽之子〉首映人潮擠爆威秀！斥資上億MV將曝光  NOWnews今日新聞",
       "published_at": "2026-03-24T05:04:45.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈太陽之子〉MV首映吸引大量人潮，該斥資上億的MV即將曝光，顯示極高的市場期待與關注度。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 521,
@@ -7288,11 +7288,11 @@
       "snippet": "周杰倫砸1億拍〈太陽之子〉MV！3/24全球首播　進場、直播一次看  NOWnews今日新聞",
       "published_at": "2026-03-22T09:59:22.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫斥資1億元拍攝新歌〈太陽之子〉MV，將於3月24日全球首播並提供直播觀看。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 522,
@@ -7302,11 +7302,11 @@
       "snippet": "粉絲要暴動了！周杰倫鬆口考慮將在網球場辦簽唱會？  噓！星聞",
       "published_at": "2026-03-24T08:29:39.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫鬆口考慮在網球場舉辦簽唱會，引發粉絲高度期待與興奮。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 523,
@@ -7316,11 +7316,11 @@
       "snippet": "周杰倫新歌藝術玩出新高度！MV致敬30幅名畫 笑虧方文山被上藝術課  蕃新聞",
       "published_at": "2026-03-24T18:57:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌MV以致敬30幅名畫的方式展現藝術新高度，並幽默提及方文山被上藝術課。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 524,
@@ -7330,11 +7330,11 @@
       "snippet": "周杰倫出席新專輯記者會（1） (圖)  Yahoo新聞",
       "published_at": "2026-03-24T07:36:42.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫出席新專輯記者會，預告將有新作品推出。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 525,
@@ -7344,11 +7344,11 @@
       "snippet": "周杰倫凌晨不睡坐等專輯評語！春風大讚周董在MV裡是歐洲版林正英  NOWnews今日新聞",
       "published_at": "2026-03-25T04:40:09.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫凌晨不睡等待專輯評語，並獲春風大讚其MV造型為歐洲版林正英。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 526,
@@ -7358,11 +7358,11 @@
       "snippet": "周杰倫首公開求婚昆凌影片！包下英國古堡險破功 浪漫細節曝光  Yahoo新聞",
       "published_at": "2026-03-24T12:31:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫首次公開他當年向昆凌求婚的浪漫影片，揭露了在英國古堡求婚時的驚險與甜蜜細節。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 527,
@@ -7372,11 +7372,11 @@
       "snippet": "周杰倫自爆被女兒搞到神經錯亂 不藏了！公開當年向昆凌求婚影片  Yahoo",
       "published_at": "2026-03-24T17:05:15.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫幽默分享被女兒搞到「神經錯亂」的日常，並首次公開當年向昆凌求婚的影片。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 528,
@@ -7386,11 +7386,11 @@
       "snippet": "創紀錄！周杰倫MV找奧斯卡團隊操刀 「斥資1億元打造」  Yahoo新聞",
       "published_at": "2026-03-21T04:22:54.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫為新MV投入破紀錄的億元資金，並邀請奧斯卡團隊操刀製作，展現其對作品的高品質追求。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 529,
@@ -7400,11 +7400,11 @@
       "snippet": "周杰倫發布新專輯《太陽之子》13首新歌1首為細女創作！耗資億元MV首播致敬30幅名畫  橙新聞",
       "published_at": "2026-03-25T03:06:56.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發布新專輯《太陽之子》，包含13首新歌，其中一首為細女創作，耗資億元的MV更致敬了30幅名畫。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 530,
@@ -7414,11 +7414,11 @@
       "snippet": "張信哲撞哏周杰倫！致敬梵谷吐內心話  噓！星聞",
       "published_at": "2026-03-24T08:31:34.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導張信哲致敬梵谷的行為被拿來與周杰倫的相關創作進行比較。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 531,
@@ -7428,11 +7428,11 @@
       "snippet": "周杰倫新專輯《太陽之子》MV 公開！巡演會來台？阿 KEN 遭他吐槽「無腦」  COOL-STYLE 潮流生活網",
       "published_at": "2026-03-24T10:26:19.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫新專輯《太陽之子》MV公開，引發歌迷對巡演是否來台的期待，新聞中也提及他與阿 KEN 的幽默互動。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 532,
@@ -7442,11 +7442,11 @@
       "snippet": "周杰倫舉行新專輯記者會 將公開向昆凌求婚私藏影片 (19:38) - 20260324  明報 Our Lifestyle",
       "published_at": "2026-03-24T11:38:30.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將舉辦新專輯記者會，並預計公開他向昆凌求婚的私人影片。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 533,
@@ -7456,11 +7456,11 @@
       "snippet": "周杰倫《太陽之子》懶人包　每日追星時程、專輯預購一次看  NOWnews今日新聞",
       "published_at": "2026-03-19T04:59:52.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新聞提供周杰倫《太陽之子》的追星時程與專輯預購資訊，方便粉絲掌握最新動態。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 534,
@@ -7470,11 +7470,11 @@
       "snippet": "直擊／周杰倫10年沒近距離接觸粉絲有求必應！被問辦簽唱會 天王給答案了  Yahoo新聞",
       "published_at": "2026-03-24T07:31:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫罕見地近距離與粉絲互動，有求必應並回應了舉辦簽唱會的可能性，讓粉絲感到非常開心。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 535,
@@ -7484,11 +7484,11 @@
       "snippet": "周杰倫回歸就玩超大！新歌「太陽之子」砸重金 30幅世界名畫藏其中  噓！星聞",
       "published_at": "2026-03-24T07:47:31.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫以新歌「太陽之子」盛大回歸，投入重金並將30幅世界名畫融入其中。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 536,
@@ -7498,11 +7498,11 @@
       "snippet": "周杰倫《太陽之子》中二帥回來！「歌詞聽不懂才對味」網刷整排回憶殺  噓！星聞",
       "published_at": "2026-03-24T07:07:02.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌《太陽之子》以其經典的「中二帥」風格和特色歌詞，成功喚起網友的集體回憶與高度共鳴，獲得極佳正面評價。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 537,
@@ -7512,11 +7512,11 @@
       "snippet": "《TAIPEI TIMES》 Jay Chou returns with first album in nearly four years  自由時報",
       "published_at": "2026-03-24T19:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違近四年發行新專輯，引發粉絲期待與關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 538,
@@ -7526,11 +7526,11 @@
       "snippet": "Jay Chou releases new album in 3 years  Formosa News",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫時隔三年發行新專輯。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 539,
@@ -7540,11 +7540,11 @@
       "snippet": "周杰倫聽到SHE話題尷尬摸鼻子！網秒想起田馥甄　狂刷一排問號  NOWnews今日新聞",
       "published_at": "2026-03-24T09:07:01.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫被問及SHE話題時顯得尷尬，引發網友聯想到田馥甄並熱烈討論。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 540,
@@ -7554,11 +7554,11 @@
       "snippet": "周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友  Cosmopolitan",
       "published_at": "2026-03-18T09:04:43.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫睽違三年八個月將發行新專輯《太陽之子》，並於3月24日舉辦新歌首映，專輯名稱靈感來自張學友。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 541,
@@ -10051,6 +10051,76 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導英國歌手Lily Allen的「West End Girl」演唱會評論，內容聚焦於其音樂表現與個人情感表達。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 719,
+      "title": "EXCLUSIVE: Inside the Making of BTS’ ‘Arirange’ Comeback Show Costumes with Designer Jay Songzio - WWD",
+      "link": "https://wwd.com/fashion-news/fashion-features/bts-arirang-comeback-costumes-jay-songzio-lyrical-armor-1238685143/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "The Korean designer collaborated with the group and each member to create characters for the historical concert. **PARIS –** When BTS took the stage at 8 p.m. Korean time on Saturday night, millions of fans around the world tuned in to witness all seven members reunited for the first time in years – a highly anticipated event already being framed as one of the most important musical moments of the year. The group appeared in custom looks by Korean designer Jay Songzio, whose Songzio label crafted an exclusive collection for the comeback show, blending historical references with an avant-garde edge. So mixing this kind of very fluid silhouettes and design with armor-like details, we tried to create this collection. But then oftentimes, when we prepare a collection for Paris, for example, we add a lot of Korean references, and then we try to soften it a bit, whether it’s for commercial reasons or sometimes for aesthetic reasons. **Songzio:** A lot of ornamental aspects – whether it’s extra studs to make them look even more like armor.",
+      "published_at": "Sat, 21 Mar 2026 12:00:00 GMT",
+      "collected_at": "2026-03-28 06:23:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於韓國設計師Jay Songzio為BTS防彈少年團回歸演唱會設計服裝的幕後故事，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 720,
+      "title": "How Korea Took Over the World - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/movies/movie-features/how-korea-took-over-the-world-1236542921/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "James Shin, president of film and TV at HYBE America,  the U.S. arm of the entertainment company behind K-pop sensations BTS, Seventeen and Le Sserafim — and a producer on an upcoming, still-untitled Paramount K-pop film — sees that discipline baked into the Korean production system itself. Part of what has made K-culture’s American breakthrough so seamless is that so much of it is now made by Americans — Korean Americans who grew up with a foot in both worlds and the instincts to navigate between them. Kang noted that *Demon Hunters*’ visual style was consciously shaped by her lifelong love of anime and manhwa — Korean comics and graphic novels — and executed with careful attention to Korean linguistic and cultural nuances, even though the film’s lingua franca is American English.",
+      "published_at": "Sat, 21 Mar 2026 14:45:25 GMT",
+      "collected_at": "2026-03-28 06:23:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要探討韓國文化在全球的影響力及其製作系統，並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 721,
+      "title": "First Alert Weather Saturday morning forecast 3-21-26 - CBS News",
+      "link": "https://www.cbsnews.com/sanfrancisco/video/first-alert-weather-saturday-morning-forecast-3-21-26/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "Get into the holiday spirit with Wine Oh TV's Monique Soltani 07:16 Dec 11, 2022Image 117: Don't miss August Wilson's 'Two Trains Running' at Marin Theatre Company ### Don't miss August Wilson's 'Two Trains Running' at Marin Theatre Company 05:11 Dec 11, 2022Image 118: Gravity & Counter Pulse present 'dark/lessons/rupture' ### Gravity & Counter Pulse present 'dark/lessons/rupture' 05:44 Dec 15, 2022Image 119: 'Billion-Dollar Losses, Trillion-Dollar Threats: The Cost of Climate Change' ### 'Billion-Dollar Losses, Trillion-Dollar Threats: The Cost of Climate Change' 05:51 Dec 11, 2022Image 120: SF Public Library presents 'Dispatch from Ukrainian Libraries On the Front Line' ### SF Public Library presents 'Dispatch from Ukrainian Libraries On the Front Line' 07:20 Dec 11, 2022Image 121: 3X Grammy-nominated Alphabet Rockers drop new album 'The Movement' ### 3X Grammy-nominated Alphabet Rockers drop new album 'The Movement' 06:04 Dec 11, 2022Image 122: Rediscover Thee Stork Club in Oakland ### Rediscover Thee Stork Club in Oakland 07:22 Dec 11, 2022Image 123: Legendary Sweetwater Music Hall celebrates 50th anniversary ### Legendary Sweetwater Music Hall celebrates 50th anniversary 05:38 Dec 11, 2022Image 124: Ellen Pall talks about her new book 'Must Read Well' ### Ellen Pall talks about her new book 'Must Read Well' 05:14 Dec 11, 2022Image 125: Don't miss 'Jagged Little Pill' featuring the music of Alanis Mourrisette ### Don't miss 'Jagged Little Pill' featuring the music of Alanis Mourrisette 06:35 Dec 11, 2022Image 126: 34th Annual Kidney Foundation Authors Luncheon in San Francisco ### 34th Annual Kidney Foundation Authors Luncheon in San Francisco 05:40 Dec 11, 2022Image 127: Cine+Mas Founder talks about the SF Latino Film Festival ### Cine+Mas Founder talks about the SF Latino Film Festival 06:34 Dec 11, 2022Image 128: Don't miss 'the ripple, the wave, that carried me home' at Berkeley Rep ### Don't miss 'the ripple, the wave, that carried me home' at Berkeley Rep 07:10 Dec 11, 2022Image 129: Don't miss Broadway SF's production of Moulin Rouge",
+      "published_at": "Sat, 21 Mar 2026 16:03:00 GMT",
+      "collected_at": "2026-03-28 06:23:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容摘要未提及周杰倫相關資訊，主要報導其他文化活動、天氣預報及社會議題。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 722,
+      "title": "‘Comeback of the century’: K-pop phenomenon BTS returns with first concert in years - CNN",
+      "link": "https://www.cnn.com/2026/03/21/style/bts-arirang-comeback-concert-korea-intl-hnk",
+      "source": "Tavily (www.cnn.com)",
+      "snippet": "# ‘Comeback of the century’: K-pop phenomenon BTS returns with first concert in years. At the heart of BTS’ comeback is a free, public concert in Seoul for their most dedicated fans. The one-hour concert is part of a promotional tour for BTS’ new fifth full-length studio album, “Arirang.” Released the day prior and named after a Korean traditional folk song that serves as the country’s unofficial national anthem, it explores themes like personal identity and belonging. Fans of BTS cheer ahead of the band's comeback as they wait near the concert venue in central Seoul on March 21, 2026. BTS’ new album has sparked much discussion around the meanings behind its name, “Arirang.” The Korean song, which it is named after, is believed to have originated during at least the Joseon Dynasty (1392–1910) and comes in hundreds of variations. “With the midterm elections coming out soon in Korea, some politicians see the concert as a good PR opportunity… and are using it to highlight their achievements, even though they haven’t done anything (to get BTS to perform),” she said.",
+      "published_at": "Sat, 21 Mar 2026 09:03:13 GMT",
+      "collected_at": "2026-03-28 06:23:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導韓國團體BTS的演唱會與新專輯發行，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 723,
+      "title": "BTS Kicks Off First Group Performance in Over Three Years With Netflix Live Stream - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/tv/tv-features/bts-the-comeback-live-arirang-netflix-concert-1236543294/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# BTS Kicks Off First Group Performance in Over Three Years With Netflix Live Stream. Put your phone down, let’s get all the fun.” Or the maybe not the whole stadium, but the whole gathered crowd at Seoul landmark Gwanghwamun, which has been outfitted for the grand return of the groundbreaking K-pop group, BTS. Fresh off the release of their fifth studio album, Arirang, the seven members of BTS — RM, Jin, Suga, J-hope, Jimin, V and Jungkook — kicked off their first group live performance in over three years, *BTS The Comeback Live | Arirang*, Saturday night in Seoul. *BTS The Comeback Live | Arirang* marks the first-ever live stream of a standalone concert for Netflix. “We’re really pushing the boundaries of what’s possible in the live concert broadcast world.”. “It really takes an army of production veterans — plus BTS Army, of course — to make this happen,” Mussman added.",
+      "published_at": "Sat, 21 Mar 2026 11:13:56 GMT",
+      "collected_at": "2026-03-28 06:23:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導韓國團體BTS透過Netflix直播舉行了三年來的首次團體演唱會，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -10120,17 +10190,17 @@
     {
       "id": 6,
       "report_date": "2026-03-28",
-      "total_articles": 15,
+      "total_articles": 20,
       "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 15,
-      "daily_summary": "周杰倫近日話題豐富，睽違四年將推新專輯，預告收錄求婚影片，並鬆口巡演最終站可能回台灣。他揭露當年向昆凌求婚的「假古堡」內幕，新歌MV斥資上億引發熱議。此外，他曾設計連川普都擁有的手錶，早期寫歌「罵方文山」也成經典。",
+      "neutral_count": 20,
+      "daily_summary": "周杰倫近日話題不斷，其斥資一億打造的MV引發熱議，他甚至深夜急做民調，連春風都直呼「整張都蠻扯」。此外，有報導指出周杰倫曾寫歌「罵」方文山，該曲卻意外成為傳唱20年的曠世巨作。",
       "key_events": [
-        "睽違四年將推新專輯",
-        "揭露求婚假古堡內幕",
-        "巡演最終站可能回台"
+        "周杰倫億元MV",
+        "深夜急做民調",
+        "寫歌罵方文山"
       ],
-      "created_at": "2026-03-28 05:37:33"
+      "created_at": "2026-03-28 06:25:10"
     }
   ],
   "notification_logs": [
@@ -10287,11 +10357,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-03-28 05:37:34"
+    },
+    {
+      "id": 23,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-28 06:25:10"
+    },
+    {
+      "id": 24,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-28 06:25:11"
     }
   ],
   "_meta": {
-    "nextArticleId": 719,
+    "nextArticleId": 724,
     "nextReportId": 7,
-    "nextLogId": 23
+    "nextLogId": 25
   }
 }
