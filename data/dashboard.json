@@ -1,16 +1,16 @@
 {
   "todayStats": {
-    "total": 20,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 20
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 360,
-    "positive": 79,
-    "negative": 7,
-    "neutral": 274,
-    "avg_score": 0.59
+    "total": 390,
+    "positive": 99,
+    "negative": 8,
+    "neutral": 283,
+    "avg_score": 0.6
   },
   "trend": [
     {
@@ -32,10 +32,10 @@
     {
       "date": "2026-03-25",
       "total": 237,
-      "positive": 62,
-      "negative": 3,
-      "neutral": 37,
-      "avg_score": 0.74
+      "positive": 82,
+      "negative": 4,
+      "neutral": 38,
+      "avg_score": 0.76
     },
     {
       "date": "2026-03-26",
@@ -60,9 +60,129 @@
       "negative": 0,
       "neutral": 20,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-03-29",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 724,
+      "title": "Chase DeLauter does it again with a homer in his third straight game - ESPN",
+      "link": "https://www.espn.com/watch/player/_/id/48336896",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "ESPN+ • NCAA Men's Volleyball. ESPN+ • Australian A-League Women. ESPNU • RE-AIR • NCAA Women's Basketball. ESPNews • RE-AIR • ESPN The Ocho. ## ESPN Films Presents \"30 For 30: Four Falls of Buffalo\". ESPN2 • RE-AIR • 30 for 30. ESPN Deportes • ES • SportsCenter Medianoche. ## Luis Robert Jr. cracks a walk-off home run for the Mets in the 11th. ## Blue Jays walk it off in 11th on Ernie Clement single. ## JJ Wetherholt rips a walk-off single for Cardinals in 10th. ## Vandy runs squeeze play to perfection to walk it off in 16th. * ## Alex Karaban 3-pointer helps UConn put away Michigan State. ESPN+ • NCAA Men's Volleyball. ESPN+ • Australian A-League Women. ESPNU • RE-AIR • NCAA Women's Basketball. ESPNews • RE-AIR • ESPN The Ocho. ## ESPN Films Presents \"30 For 30: Four Falls of Buffalo\". ESPN2 • RE-AIR • 30 for 30. ESPN Deportes • ES • SportsCenter Medianoche.",
+      "published_at": "Sun, 29 Mar 2026 05:51:30 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了多項體育賽事和節目資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 725,
+      "title": "Walter Darby Bannard: Paintings from 1959-1965 - Artnet",
+      "link": "https://www.artnet.com/galleries/berry-campbell/walter-darby-bannard-paintings-from-1959-1965/",
+      "source": "Tavily (www.artnet.com)",
+      "snippet": "# Price Database. ### Berry Campbell. ## Walter Darby Bannard: Paintings from 1959-1965. #### LOCATION. #### DATES. Mar 19-Apr 18, 2026. Opening Reception:Mar 18, 2026. ## Artworks in this Exhibition. #### Walter Darby Bannard. #### Walter Darby Bannard. *Untitled (Green Krylon on Gray)*, 1964. #### Walter Darby Bannard. *Untitled (Green Krylon on pink paper)*, 1964. #### Walter Darby Bannard. ## Artists in This Show. ## More Exhibitions At Berry Campbell. ### Judith Godwin: Flux and Form. Mar 19-Apr 18, 2026. ### Lilian Thomas Burwell: The Journey. Feb 12-Mar 14, 2026. ### West Coast Women of Abstract Expressionism. Jan 8-Mar 14, 2026. ### William Perehudoff: Boundless Color. Jan 8-Feb 7, 2026. ### In Focus: Francesco Polenghi. Nov 20-Dec 20, 2025. ### From Equinox to Solstice. Nov 20-Dec 20, 2025.",
+      "published_at": "Sun, 29 Mar 2026 04:59:21 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於藝術家Walter Darby Bannard的畫展資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 726,
+      "title": "Masked agitators battle federal officers outside Portland ICE facility after 'No Kings' protests - Fox News",
+      "link": "https://www.foxnews.com/video/6392007094112",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox News and full episodes. Reduce eye strain and focus on the content that matters. This video is playing in picture-in-picture. # Masked agitators battle federal officers outside Portland ICE facility after 'No Kings' protests. Video captured masked agitators fighting with federal officers in Portland, Oregon, following citywide protests on Saturday, March 28, 2026. ## Live Now. My View with Lara Trump. My View with Lara Trump. FOX News Saturday Night with Jimmy Failla. FOX News Radio Live Channel Coverage.",
+      "published_at": "Sun, 29 Mar 2026 02:21:23 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導關於美國波特蘭的抗議活動與聯邦官員的衝突，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 727,
+      "title": "Angelenos resort to different modes of transportation to avoid rising gas prices - CBS News",
+      "link": "https://www.cbsnews.com/losangeles/video/angelenos-resort-to-different-modes-of-transportation-to-avoid-rising-gas-prices/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Angelenos resort to different modes of transportation to avoid rising gas prices. Hunter Sowards takes a look at the different ways that some Angelenos are skirting around the rising gas prices by resorting to different modes of transportation.",
+      "published_at": "Sun, 29 Mar 2026 05:38:00 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導探討洛杉磯居民為避免油價上漲而改用不同交通方式，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 728,
+      "title": "F1 announce delay to Japanese GP race start - racingnews365.com",
+      "link": "https://racingnews365.com/f1-announce-delay-to-japanese-gp-race-start",
+      "source": "Tavily (racingnews365.com)",
+      "snippet": "Explore the RN365 Stats Hub. LIVE: 2026 F1 Japanese Grand Prix - Piastri roars into lead as Antonelli drops to sixth. # F1 announce delay to Japanese GP race start. F1 and the FIA have confirmed a delay to the start of the Japanese Grand Prix. * LIVE: 2026 F1 Japanese Grand Prix - Piastri roars into lead as Antonelli drops to sixth. F1 announce delay to Japanese GP race start. Kimi Antonelli backed to make F1 history in Japanese GP. F1 weather forecast for Japanese GP in Suzuka. 2026 F1 Japanese Grand Prix. Kimi Antonelli backed to make F1 history in Japanese GP. 0 F1 announce delay to Japanese GP race start. 0 LIVE: 2026 F1 Japanese Grand Prix - Huge Bearman crash brings out safety car; Antonelli leads. * Kimi Antonelli backed to make F1 history in Japanese GP. * F1 announce delay to Japanese GP race start. LIVE  2026 F1 Japanese Grand Prix. * 2026 F1 Japanese Grand Prix.",
+      "published_at": "Sun, 29 Mar 2026 04:20:00 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於F1日本大獎賽的賽事延遲及相關賽況更新，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 729,
+      "title": "'No Kings' protests sweep US as critics slam Donald Trump deportations, Iran war - The Jerusalem Post",
+      "link": "https://www.jpost.com/international/article-891483",
+      "source": "Tavily (www.jpost.com)",
+      "snippet": "Police officers clear the street outside a federal building after a \"No Kings\" protest against U.S. President Donald Trump's administration policies, in Los Angeles, California, US March 28, 2026. Demonstrators decrying US President Donald Trump's aggressive deportation efforts, war in Iran and other policies took to city streets across the country on Saturday in the third round of the \"No Kings\" rallies. Large rallies took place in New York, Dallas, Philadelphia and Washington, but two-thirds of No Kings events were happening outside major cities, a nearly 40% jump for smaller communities from the movement's first mobilization last June, organizers said. Actor Robert De Niro, one of the organizers, said that no president before Trump has posed \"such an existential threat to our freedoms and security.”. Trump's policies have galvanized the opposition, Dallas protester Chris Brendel said. Morgan Taylor, 45, attending the Washington protest with her 12-year-old son, said she was enraged by Trump's military action in Iran, which she called a \"stupid war.\".",
+      "published_at": "Sun, 29 Mar 2026 02:50:22 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國各地針對唐納·川普總統的驅逐出境政策和伊朗戰爭等議題發起的「No Kings」抗議活動，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 730,
+      "title": "WSH at VGK | Recap - NHL.com",
+      "link": "https://www.nhl.com/video/topic/game-recaps/wsh-at-vgk-recap-6392023009112",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "# WSH at VGK | Recap. ## Game Recaps. ### WSH at VGK | Recap. Capitals at Golden Knights | Recap. ### VAN at CGY | Recap. ### UTA at LAK | Recap. ### PHI at DET | Recap. ### MTL at NSH | Recap. ### WPG at COL | Recap. ### TOR at STL | Recap. ### SEA at BUF | Recap. ### MIN at BOS | Recap. ### SJS at CBJ | Recap. ### ANA at EDM | Recap. ### OTT at TBL | Recap. ### DET at BUF | Recap. ### EDM at VGK | Recap. ### LAK at VAN | Recap. ### WSH at UTA | Recap. ### ANA at CGY | Recap. ### SJS at STL | Recap. ### COL at WPG | Recap. ### NJD at NSH | Recap. ### MIN at FLA | Recap. ### SEA at TBL | Recap. ### PIT at OTT | Recap. ### CHI at PHI | Recap.",
+      "published_at": "Sun, 29 Mar 2026 05:49:12 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容為NHL冰球賽事的回顧，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 731,
+      "title": "4 hospitalized after 5-car crash in Winnetka - CBS News",
+      "link": "https://www.cbsnews.com/losangeles/video/4-hospitalized-after-5-car-crash-in-winnetka/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# 4 hospitalized after 5-car crash in Winnetka. It happened at around 9:55 p.m. in the 20200 block of W. Vanowen Street, Los Angeles Fire Department firefighters said.",
+      "published_at": "Sun, 29 Mar 2026 05:41:00 GMT",
+      "collected_at": "2026-03-29 05:58:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導洛杉磯Winnetka發生一起五車連環相撞事故，造成四人送醫，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 719,
       "title": "EXCLUSIVE: Inside the Making of BTS’ ‘Arirange’ Comeback Show Costumes with Designer Jay Songzio - WWD",
@@ -370,133 +490,21 @@
       "summary": "此新聞報導關於Hailey Bieber及其兒子Jack的資訊，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 696,
-      "title": "Paris Jackson Questions Father's Estate About 'Michael' Movie Costs & Reshoots - Deadline",
-      "link": "https://deadline.com/2026/03/paris-jackson-michael-movie-questions-1236758498/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "## site categories. ### Linden Entertainment Signs ‘Your Friends   raising specious ‘concerns’ over issues previously addressed and resolved; and staging tabloid press photo ops strutting into hearings with obvious props,” the filing adds with swipes that the young Jackson is “more concerned with taking personal shots at John Branca—and indirectly at the cast of the movie—than with any *actual expenses* of the biopic during 2021.”. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
-      "published_at": "Mon, 23 Mar 2026 23:18:23 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要關於Paris Jackson質疑其父親遺產管理方關於「Michael」電影的成本與重拍，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 697,
-      "title": "Living with invisible power in Guangzhou - Nature",
-      "link": "https://www.nature.com/articles/s44284-026-00429-9",
-      "source": "Tavily (www.nature.com)",
-      "snippet": "You are using a browser version with limited support for CSS. * Jie Guo  (郭杰)  ORCID: orcid.org/0000-0001-8982-30001. *Nature Cities* (2026)Cite this article. ### Subjects. Receive 12 digital issues and online access to articles. * Instant access to the full article PDF. Prices may be subject to local taxes which are calculated during checkout. Criminol.* **40**, 321–339 (2000). *GeoJournal* **79**, 1–14 (2014). The author was supported by National Natural Science Foundation of China (no. ## Author information. ### Authors and Affiliations. Search author on:PubMed Google Scholar. ### Corresponding author. The author declares no competing interests. ## About this article. ### Cite this article. https://doi.org/10.1038/s44284-026-00429-9. * DOI: https://doi.org/10.1038/s44284-026-00429-9. ### Share this article. Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative. Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily. Sign up for Nature Briefing.",
-      "published_at": "Mon, 23 Mar 2026 10:30:24 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，主要為一篇關於廣州城市研究的學術文章摘要。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 698,
-      "title": "12 Albums Out This Week You Should Listen to Now - Pitchfork",
-      "link": "https://pitchfork.com/news/12-new-albums-you-should-listen-to-now-grace-ives-underscores-bts/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "# 12 New Albums You Should Listen to Now: Grace Ives, Underscores, BTS, and More. Also stream new releases from CA7RIEL & Paco Amoroso and Anna Calvi. We first got a taste of Grace Ives’ new album *Girlfriend* last November, when she shared three singles (in her terminology, a “thringle”) and a blog post detailing her state of mind: “Stop dwelling. Her new album *U* builds the momentum of three killer singles and a year of teasing glitched-out, atmospheric pop with the confident kick of big-room EDM. Anna Calvi’s new EP swaggers out of the shadows with the gothic cabaret barnstormer “God’s Lonely Man,” Calvi’s wraithlike falsetto writhing around a gruff lead from Iggy Pop. The EP’s three remaining tracks also feature guest vocalists, namely Perfume Genius—on a Nick Cave and PJ Harvey-worthy cover of Bonnie “Prince” Billy’s “I See a Darkness”—Matt Berninger, and Laurie Anderson, who threads her deadpan into a choral spin of Kraftwerk’s “Computer Love” that somehow ends up sounding like a Lost Girls track. New Music Releases and Upcoming Albums in 2026.",
-      "published_at": "Fri, 20 Mar 2026 13:53:10 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容未提及周杰倫相關資訊，主要介紹本週發行的多張新專輯和EP。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 699,
-      "title": "Aerosmith 'Legendary Edition' of 1973 Self-Titled Debut Out March 20 - Rock Cellar Magazine",
-      "link": "https://rockcellarmagazine.com/aerosmith-legendary-edition-album-2026-listen/",
-      "source": "Tavily (rockcellarmagazine.com)",
-      "snippet": "* Joe Jackson New Album, Tour Announced for 2026. (PiL) New Tour + Album News. # Out Now: Aerosmith Revisits 1973 Self-Titled Debut as Remastered ‘Legendary Edition’ with Bonus Material — Listen/Buy. By Rock Cellar Magazine Staff | March 20, 2026 | 0 Reply. The self-titled album put the band on the map with songs like “Dream On,” which was a Top 10 Billboard hit and established the band as a force and has a new lyric video shared with the Legacy Edition:. CD1 – “Aerosmith” Original Album Remastered 2024. CD3 – Paul’s Mall Live Performance March 20, 1973 + Bonus Tracks. 5. Write Me A Letter (Live at Paul’s Mall, 1973). Mitchell’s triumphant return to the stage on July 24, 2022, will be featured on a new live album from Rhino, AT NEWPORT, available on July 28, 2023 on CD and 2-LP black vinyl.",
-      "published_at": "Fri, 20 Mar 2026 15:00:35 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於Aerosmith專輯的重新發行，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 700,
-      "title": "Kehlani announces her self-titled album rooted in identity and growth - Q News Pty Ltd",
-      "link": "https://qnews.com.au/kehlani-announces-her-self-titled-album-rooted-in-identity-and-growth/",
-      "source": "Tavily (qnews.com.au)",
-      "snippet": "# Kehlani announces her self-titled album rooted in identity and growth. **The Grammy Award winning Kehlani has officially announced her next chapter, revealing that her highly anticipated self-titled album *Kehlani* will drop on April 24.**. For an artist known for emotional honesty and genre-blurring sound, a self-titled album signals something bigger. As an openly lesbian artist, Kehlani has long been celebrated for bringing queer experiences into mainstream music without compromise. Her blend of artistry, visibility and authenticity has made Kehlani a powerful voice both within and beyond the queer community. At the upcoming *Billboard Women in Music* award night, Kehlani will receive the *Impact Award.* An honour to recognise her artistry, advocacy, and influence on culture and community. If early details are anything to go by, the album *Kehlani* will capture the artist at her most self-assured and creatively free. Self-titled albums often mark a turning point. To pre-save or pre-order the album, including signed copies, head to kehlani.lnk.to/album. > A post shared by Kehlani (@kehlani).",
-      "published_at": "Sat, 21 Mar 2026 23:35:48 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導歌手Kehlani宣布發行新專輯並將獲得獎項。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 701,
-      "title": "Jay-Z Explains Why He Refused to Settle That Sexual Assault Lawsuit: ‘It Ain’t in My DNA’ - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/jay-z-explains-why-refused-143653795.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "Jay said he “needed the people around me more than ever” to overcome the anger he felt, especially because it didn’t feel right to channel those emotions to the place he usually would: music. “I’m not sure with the amount of negativity in the world that people needed me to add to that with my feelings — because it would have been harsh, and it would have been harsh on everybody,” he said. “I know what she’s trying to accomplish and anything that I can contribute — I mean, that’s my family, first of all — I thought it was super important,” he said. While Jay said he was ready to play “all offense” in 2026 after a couple of years on defense, it’s unclear whether that’ll include new music. I don’t know what *I* need to create currently that’s going to fulfill me and make me happy because that’s most important,” he said.",
-      "published_at": "Tue, 24 Mar 2026 14:36:53 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於美國藝人Jay-Z拒絕性侵訴訟和其音樂創作心境，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 702,
-      "title": "BTS’s Comeback Show Was Heavy on Their New Album - The New York Times",
-      "link": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
-      "source": "Tavily (www.nytimes.com)",
-      "snippet": "Delivering the K-pop boy band BTS’s comeback concert on Saturday from downtown Seoul to Netflix’s 325 million subscribers and the band’s global fan base. Instead of starting in New York with an appearance on NBC’s “Today” show and a performance in Grand Central Terminal for the “Tonight Show,” as BTS did in 2020, the band is starting with a free comeback concert on Saturday in the historic center of Seoul that’s being livestreamed on Netflix. So the fact that they chose to wear looks by the Korean brand Songzio for their comeback concert was, like their choice of venue (Seoul’s historic Gwanghwamun Square) and the name of their album (“Arirang,” a 130-year-old Korean folk song), a statement as much about the place of Korean culture and identity on the global stage as about style. Such is the gravitational pull that BTS exerts in its home country, where the group — a symbol of South Korea’s cultural export power — is ending its nearly four-year hiatus with a highly anticipated concert at Gwanghwamun Square in Seoul on Saturday.",
-      "published_at": "Sat, 21 Mar 2026 09:14:42 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於韓國團體BTS的復出演唱會及其對韓國文化的推廣，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 703,
-      "title": "Bob Sinclar & Kiesza’s Modern Spin on ‘80s Hit ‘I Can’t Wait!’ Makes Billboard Canada Airplay Chart Debut - Billboard Canada",
-      "link": "https://ca.billboard.com/music/chart-beat/bob-sinclar-kieza-billboard-canada-charts",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "The French producer and the Canadian pop singer’s collaboration “I Can’t Wait!” debuts this week at No. 30 on the Billboard Canada Adult Contemporary (AC) Airplay chart, dated March 21. The Ontario Premier has announced that the provincial government plans to ban ticket resale transactions at prices exceeding face value, making it illegal for tickets to concerts, cultural, sports and other live events to be resold for more than their original cost. “With these new measures, consumers would no longer need to worry about being ripped off in the ticket resale market, and more families and fans would have the opportunity to see their favourite band or sports team perform live,” says Stephen Crawford, minister of public and business service delivery and procurement, in a statement. The news comes at the same time that on the other side of the country, Consumer Protection B.C. has reached a deal with StubHub Canada, following claims that ticket buyers for Taylor Swift's final Eras Tour shows in Vancouver were sold undisclosed “obstructed view” seats.",
-      "published_at": "Fri, 20 Mar 2026 15:17:15 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導加拿大音樂榜單、安大略省的票務轉售禁令以及泰勒絲演唱會的票務爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 6,
-    "report_date": "2026-03-28",
-    "total_articles": 20,
+    "id": 7,
+    "report_date": "2026-03-29",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 20,
-    "daily_summary": "周杰倫近日話題不斷，其斥資一億打造的MV引發熱議，他甚至深夜急做民調，連春風都直呼「整張都蠻扯」。此外，有報導指出周杰倫曾寫歌「罵」方文山，該曲卻意外成為傳唱20年的曠世巨作。",
+    "neutral_count": 8,
+    "daily_summary": "根據今日搜集到的新聞內容，並無任何關於華語流行天王周杰倫的相關報導。新聞列表中多處提及的『Jay-Z』均是指美國饒舌歌手Jay-Z，請留意兩位藝人名字的區別。因此，今日無周杰倫的焦點新聞可供摘要。",
     "key_events": [
-      "周杰倫億元MV",
-      "深夜急做民調",
-      "寫歌罵方文山"
+      "無相關事件",
+      "無相關事件",
+      "無相關事件"
     ],
-    "created_at": "2026-03-28 06:25:10"
+    "created_at": "2026-03-29 05:59:48"
   }
 }
