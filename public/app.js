@@ -76,7 +76,7 @@ async function loadDashboard() {
   } catch (err) {
     // 本機 API 失敗：改讀靜態 JSON（GitHub Pages 模式）
     try {
-      const res2 = await fetch('./data/dashboard.json');
+      const res2 = await fetch('../data/dashboard.json');
       data = await res2.json();
     } catch (err2) {
       console.error('無法讀取任何資料來源');
