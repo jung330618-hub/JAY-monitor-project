@@ -1,16 +1,16 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 18,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 18
   },
   "allTimeStats": {
-    "total": 360,
-    "positive": 76,
+    "total": 390,
+    "positive": 95,
     "negative": 7,
-    "neutral": 277,
-    "avg_score": 0.59
+    "neutral": 288,
+    "avg_score": 0.6
   },
   "trend": [
     {
@@ -32,10 +32,10 @@
     {
       "date": "2026-03-25",
       "total": 237,
-      "positive": 59,
+      "positive": 78,
       "negative": 3,
-      "neutral": 36,
-      "avg_score": 0.74
+      "neutral": 38,
+      "avg_score": 0.76
     },
     {
       "date": "2026-03-26",
@@ -63,14 +63,140 @@
     },
     {
       "date": "2026-03-30",
-      "total": 9,
+      "total": 18,
       "positive": 0,
       "negative": 0,
-      "neutral": 9,
+      "neutral": 18,
       "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 728,
+      "title": "Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/29/new-macbook-pro-low-prices/",
+      "source": "Tavily (www.macrumors.com)",
+      "snippet": "# Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon. Amazon is offering new all-time low prices on Apple's M5 Pro/M5 Max MacBook Pro, with up to $149 off select models without the need of a membership or clipping a coupon. This deal, along with all of the others we're tracking in this article, represent new best-ever prices on the brand new M5 Pro and M5 Max MacBook Pro. 14-inch M5 Pro MacBook Pro (24GB/1TB) for $2,049.99. ### Apple to Launch These 15+ New Products Later This Year. ### Apple Releasing Two New iPhone Apps This Year. Apple is expected to release two new iPhone apps this year, including an Apple Business app and a Siri app with chatbot-like functionality. iPhone 17 vs iPhone 17 Pro vs iPhone Air. Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy?",
+      "published_at": "Sun, 29 Mar 2026 21:24:00 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Apple M5 Pro/M5 Max MacBook Pro的降價促銷及未來新產品發布，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 729,
+      "title": "China Box Office: ‘Project Hail Mary’ Overtakes ‘Hoppers’ to Claim Top Spot - Variety",
+      "link": "https://variety.com/2026/film/news/china-box-office-project-hail-mary-1236702329/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Columbia Pictures’ science-fiction epic “Project Hail Mary” climbed to the number one position at the China box office during the March 27–29 weekend, earning RMB53.3 million ($7.5 million) in its second frame, according to data from Artisan Gateway. The film has now reached a cumulative total of $18.3 million. ### Gillian Anderson and Jason Isaacs Drama ‘The Salt Path’ Drops First Trailer, Sets North American Release With Rialto (EXCLUSIVE). ### 'Heavyweight,' Brit Boxing Drama Starring Jordan Bolger, Nicholas Pinnock and Jason Isaacs, Sets U.S. Release (EXCLUSIVE). Produced by PMF Pictures, the film has now reached a cumulative total of $612.3 million since its debut. Martial arts epic “Blades of the Guardians” followed in fourth place, earning $1.9 million for a cumulative total of $200.1 million. Rounding out the top five, the comedy-drama “It’s OK” earned $1.7 million in its opening frame. Produced by China Film and directed by Yang Lina, the film stars Wen Qi, Qin Hailu, Bai Ke, and Li Xueqin.",
+      "published_at": "Mon, 30 Mar 2026 06:08:02 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於中國電影票房，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 730,
+      "title": "Nuggets' Zeke Nnaji: Exits early Sunday - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/nuggets-zeke-nnaji-exits-early-sunday/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: nuggets-zeke-nnaji-exits-early-sunday | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Nuggets' Zeke Nnaji: Exits early Sunday. Nnaji will not return to Sunday's game against the Warriors due to left hip impingement. Nnaji saw just seven minutes of action during Sunday's contest before exiting. * ##### Nuggets' Zeke Nnaji: Not starting Friday. * ##### Nuggets' Zeke Nnaji: Drawing rare start. * ##### Nuggets' Zeke Nnaji: Headed to bench. * ##### Nuggets' Zeke Nnaji: Double-double in starting role. * ##### Nuggets' Zeke Nnaji: Starting vs. * ##### Nuggets' Zeke Nnaji: Reduced role in win. Mike Barner • 3 min read. #### Fantasy hoops specialists to add. Mike Barner • 3 min read. #### Waivers: Must-adds for playoffs. Alex Barutha • 3 min read. Mike Barner • 4 min read. Adam King • 5 min read. #### Waiver wire: Fantasy playoff adds. Mike Barner • 3 min read.",
+      "published_at": "Mon, 30 Mar 2026 04:30:31 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Zeke Nnaji的傷勢與比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 731,
+      "title": "Warriors vs. Nuggets (Mar 29, 2026) Live Score - ESPN",
+      "link": "https://www.espn.com/nba/odds/_/gameId/401810945",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Golden State Warriors @ Denver Nuggets. 36-39, 15-24 Away. 36-39, 15-24 Away. | Warriors  GS | 28 | 25 | 21 | 19 | 93 |. | Nuggets  DEN | 23 | 23 | 40 | 30 | 116 |. 48-28, 24-13 Home. 48-28, 24-13 Home. * Your US State Privacy Rights. * Children's Online Privacy Policy. CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. On behalf of Boot Hill Casino & Resort (KS). Terms: sportsbook.draftkings.com/promos. Copyright: © 2026 ESPN Enterprises, LLC.",
+      "published_at": "Mon, 30 Mar 2026 03:32:56 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是金州勇士隊與丹佛金塊隊的一場籃球比賽比分，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 732,
+      "title": "Player of the Night - Alperen Sengun - Mar. 29 - NBA",
+      "link": "https://www.nba.com/watch/video/player-of-the-night-alperen-sengun-mar-29",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "## Player of the Night - Alperen Sengun - Mar. 29. Player of the Night - Alperen Sengun - March 29, 2026. * #### Game Recap: Nuggets 116, Warriors 93. * #### Game Recap: Thunder 111, Knicks 100. The Thunder defeat the Knicks, 111-100, as SGA totals 10 pts, 2 ast in the final 5:12 as the Thunder end the game on a 14-5 run. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers defeat the Wizards, 123-88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. The Rockets defeated the Pelicans, 134-102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. The Nets defeated the Kings, 116-99. The Raptors defeat the Magic, 139-87. The Pacers defeat the Miami Heat, 135-118. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109. The Suns defeated the Jazz 134-109.",
+      "published_at": "Mon, 30 Mar 2026 06:07:43 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要報導NBA賽事結果，如Alperen Sengun的表現及各隊比賽回顧。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 733,
+      "title": "The pet I’ll never forget: Merlin the therapy sheep - theguardian.com",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/30/the-pet-ill-never-forget-merlin-the-therapy-sheep",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# The pet I’ll never forget: Merlin the therapy sheep. When Merlin came to live with me, his only job was to clear the weeds from my fields. Merlin the sheep came to me by chance four years ago. The lamb was called Bambi and when I came to collect her, my friend offered me another lamb, Merlin. Shortly after, Bambi died and it was just Merlin left. After I got Merlin I realised that sheep are some of the most relaxed mammals, which makes them the perfect therapists because being near them calms people down too. Merlin in particular has a knack for it. From then on, Merlin blossomed into an incredibly empathetic and sensitive animal. Merlin oozes love and affection. I even wrote a children’s book, called Merlin Finds His Magic, all about the life of the therapy sheep. I now have six sheep on my land who help me with my work, but Merlin is the shining star of the flock.",
+      "published_at": "Mon, 30 Mar 2026 06:00:19 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要講述了一隻名為Merlin的治療羊的故事，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 734,
+      "title": "Toumani Camara with the slam - NBA",
+      "link": "https://www.nba.com/watch/video/toumani-camara-with-the-slam-7",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "* #### Game Recap: Nuggets 116, Warriors 93. The Nuggets defeated the Warriors, 116-93, winning their 6th straight game. * #### Game Recap: Thunder 111, Knicks 100. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. * #### Game Recap: Rockets 134, Pelicans 102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. * #### Game Recap: Nets 116, Kings 99. The Nets improve to 18-57, while the Kings fall to 19-57. * #### Game Recap: Raptors 139, Magic 87. The Raptors improve to 42-32, while the Magic fall to 39-35. * #### Game Recap: Celtics 114, Hornets 99. * #### Game Recap: Pacers 135, Heat 118. * #### Game Recap: Clippers 127, Bucks 113. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109.",
+      "published_at": "Mon, 30 Mar 2026 05:02:46 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為NBA賽事回顧，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 735,
+      "title": "Dunk of the Night: Scottie Barnes - Mar. 29 - NBA",
+      "link": "https://www.nba.com/watch/video/dunk-of-the-night-scottie-barnes-mar-29",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "## Dunk of the Night: Scottie Barnes - Mar. 29. Dunk of the Night: Scottie Barnes - March 29, 2026. * #### Game Recap: Nuggets 116, Warriors 93. * #### Game Recap: Thunder 111, Knicks 100. The Thunder defeat the Knicks, 111-100, as SGA totals 10 pts, 2 ast in the final 5:12 as the Thunder end the game on a 14-5 run. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers defeat the Wizards, 123-88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. The Rockets defeated the Pelicans, 134-102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. The Nets defeated the Kings, 116-99. The Raptors defeat the Magic, 139-87. The Pacers defeat the Miami Heat, 135-118. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109. The Suns defeated the Jazz 134-109.",
+      "published_at": "Mon, 30 Mar 2026 06:07:51 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要報導NBA賽事結果，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 736,
+      "title": "Ford Championship: Nelly Korda outduelled by Hyo Joo Kim again as South Korean wins on LPGA Tour for second straight week - Sky Sports",
+      "link": "https://www.skysports.com/golf/news/12176/13525983/ford-championship-nelly-korda-outduelled-by-hyo-joo-kim-again-as-south-korean-wins-on-lpga-tour-for-second-straight-week",
+      "source": "Tavily (www.skysports.com)",
+      "snippet": "# Ford Championship: Nelly Korda outduelled by Hyo Joo Kim again as South Korean wins on LPGA Tour for second straight week. South Korea's Hyo Joo Kim defended the Ford Championship title by holding off a late charge from American star Nelly Korda; Kim set a new LPGA Tour 54-hole scoring record with a 191 total, including two rounds of 61, on her way to winning by two strokes ahead of Korda. Hyo Joo Kim repelled a challenge from Nelly Korda for the second straight week, pulling away around the turn and closing with a three-under 69 for a two-shot victory in the Ford Championship. Kim was poised to break the LPGA Tour's scoring record for 72 holes until one mistake led to a double-bogey on the eighth hole and gave Korda hope. But the American missed a short par putt on the ninth, and that was followed by a two-shot swing on the 10th - Kim hit her approach to 18 inches for birdie, and Korda failed to get up-and-down for par.",
+      "published_at": "Mon, 30 Mar 2026 06:05:22 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了高爾夫球手Hyo Joo Kim在Ford Championship中擊敗Nelly Korda奪冠，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 719,
       "title": "How Did Johnny Blue Skies & the Dark Clouds Debut at No. 3 With Physical-Only ‘Mutiny After Midnight’ Album? - Billboard",
@@ -364,164 +490,38 @@
       "summary": "這則新聞報導了多款遊戲，包括《Karaoke Revolution Presents: American Idol Encore 2》以及其他如Yoostar、海綿寶寶系列等遊戲，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 716,
-      "title": "The Wailers and The Pogues Confirm Australian Tours Despite Bluesfest Collapse - Billboard",
-      "link": "https://www.billboard.com/music/concerts/the-wailers-the-pogues-confirm-australia-tours-bluesfest-collapse-1236203949/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# The Wailers and The Pogues Confirm Australian Tours Despite Bluesfest Collapse. Both acts have announced updated routing — The Wailers with a new run of East Coast dates and The Pogues adding a Brisbane show. Two more acts from the cancelled Bluesfest 2026 lineup have confirmed they are pressing ahead with their Australian tours. The Wailers and The Pogues both announced updated plans on Saturday (March 21), joining Sublime and Counting Crows in reassuring fans that their runs would continue despite the Easter festival’s collapse. The Wailers have announced a new string of intimate East Coast dates, now presented by Noisy Group, with shows in Gosford, Sydney, Port Macquarie, Coffs Harbour and Brunswick Heads running through Easter weekend. The band’s 2026 tour marks the 50th anniversary of *Rastaman Vibration* — Bob Marley’s landmark 1976 album that represented the commercial breakthrough of reggae in the United States. The Pogues have also confirmed their Australian and New Zealand tour is going ahead as planned, adding a new Brisbane show at Fortitude Music Hall on April 2.",
-      "published_at": "Sat, 21 Mar 2026 06:21:44 GMT",
-      "collected_at": "2026-03-28 05:35:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導The Wailers和The Pogues樂團確認將在澳洲巡演，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 717,
-      "title": "New Kids on the Block Thrill Fans with 2026 Tour Buzz: Germany Dates Incoming and Tickets Flying Fas - AD HOC NEWS",
-      "link": "https://www.ad-hoc-news.de/boerse/news/ueberblick/new-kids-on-the-block-thrill-fans-with-2026-tour-buzz-germany-dates/68950278",
-      "source": "Tavily (www.ad-hoc-news.de)",
-      "snippet": "# New Kids on the Block Thrill Fans with 2026 Tour Buzz: Germany Dates Incoming and Tickets Flying Fast for Epic Comeback Shows. You won't believe the excitement exploding online as New Kids on the Block drop hints of massive 2026 tour expansion into Europe, with Germany fans heartbroken yet hopeful for dates in Berlin and Munich. **New Kids on the Block are back, and Germany fans, you are losing your minds right now.** Just hours ago on March 21, 2026, the band's official tour page lit up with fresh updates showing North American dates selling out in record time, fueling massive hype that their magic is heading your way next. This isn't hype for hype's sake—the official NKOTB tour page confirms 15+ U.S. shows already at capacity, with more announcements promised 'imminently.' Fans in DACH are united, sharing old concert vids and pleading #NKOTBtoGermany. Promoter Live Nation Germany's history with NKOTB includes past sellouts, and their site teases '2026 international dates TBA.' Cross-checked with Eventim.de—no listings, but presale alerts are live for registered fans.",
-      "published_at": "Sat, 21 Mar 2026 11:18:35 GMT",
-      "collected_at": "2026-03-28 05:35:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導New Kids on the Block樂團2026年巡演的相關消息。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 718,
-      "title": "Lily Allen West End Girl Concert Review: Bold Show Full of Feminine Rage - Variety",
-      "link": "https://variety.com/2026/music/global/lily-allen-west-end-girl-concert-review-bold-feminine-rage-1236695834/",
-      "source": "Tavily (variety.com)",
-      "snippet": "On Friday night, Lily Allen finally brought “West End Girl” to the West End. In a full-circle moment for the London-born singer-songwriter, the tour for her latest album — which, in case you were living under a rock, created lots of buzz for its no-holds-barred songwriting seemingly about her divorce from “Stranger Things” star David Harbour — found her back in the place that marked the beginning of the end of her relationship. Instead of having another artist open the concert, Allen enlisted three cellists — all brunette with bangs, strangely mirroring the singer — to play instrumental versions of some of her biggest hits like “LDN,” “It’s Not Fair,” “Smile” and “Fuck You.” Though some fans have expressed disappointment online that Allen isn’t including these songs in her setlist, that sentiment wasn’t present in the room — as lyrics flashed on a screen behind the cellists, the Palladium turned into a giggly, nostalgic sing-a-long that left the audience warmed up and ready to focus on “West End Girl.”.",
-      "published_at": "Sat, 21 Mar 2026 13:59:44 GMT",
-      "collected_at": "2026-03-28 05:35:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導英國歌手Lily Allen的「West End Girl」演唱會評論，內容聚焦於其音樂表現與個人情感表達。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 694,
-      "title": "Fetty Wap has a lot to say on 'Zavier.’ It’s his first album since being released from prison - Greenwich Time",
-      "link": "https://www.greenwichtime.com/entertainment/article/fetty-wap-has-a-lot-to-say-on-zavier-it-s-22140996.php",
-      "source": "Tavily (www.greenwichtime.com)",
-      "snippet": "During that time, he thought about everything he missed: his family, his kids, the sound of a car engine as he drives, food — “I love to eat,” he told The Associated Press — and, of course, music. Fun Fetty Wap abounds on “Zavier,” as does a serious Fetty Wap, a lustful Fetty Wap, a tender Fetty Wap. It's “a lot of different sounds up in there,” he says. “The whole ‘Zavier’ thing is just, like, bring back the same energy as the ‘Fetty Wap’ album,” he continued, referencing his 2015 breakthrough record — the one that brought the diamond-selling “Trap Queen” to the masses. I’m going to sound Max B and then I’m gonna make Max B sound like the old Max B,'” he said about the song “BossDon.” But it worked. He also looked toward his family for inspiration: Fetty Wap's sisters are featured on the album on the throwback “White Roses.”. “'White Roses' is actually my favorite track,” says Fetty Wap.",
-      "published_at": "Thu, 26 Mar 2026 13:06:23 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國饒舌歌手Fetty Wap發行新專輯《Zavier》，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 695,
-      "title": "Hailey Bieber Shares a Rare Peek at Her Son Jack's Short Blonde Hair - instyle.com",
-      "link": "https://www.instyle.com/hailey-bieber-peek-son-jack-short-blonde-hair-11931816",
-      "source": "Tavily (www.instyle.com)",
-      "snippet": "Image 7: Jack Blues Bieber's bright blonde hair:max_bytes(150000):strip_icc():format(webp)/Hailey-131d9f25e544428c84ea5d6ae9d4514a.jpg). All About Justin and Hailey Bieber’s “Miracle” Baby Jack Blues Bieber Image 9: Justin Bieber in a pink beanie and oversized grey suit jacket and Hailey Bieber in a white strapless gownat the 2022 Grammys:max_bytes(150000):strip_icc():format(webp)/HaileyandJustinprimary-4ccf01c3cf23450f831ec175c53b09fb.jpg)Hailey Bieber's Son Jack Looks Just Like Dad Justin With Bright Blonde Hair in Adorable Photo Image 11: Hailey Bieber on January 9, 2026. Image 13: Hailey Bieber shared a photo of her son Jack:max_bytes(150000):strip_icc():format(webp)/Screenshot2025-11-11at17.16.06-d9901e3a86b144f7b508f6ecea8ee4e8.png).",
-      "published_at": "Sun, 22 Mar 2026 16:58:17 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Hailey Bieber及其兒子Jack的資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 696,
-      "title": "Paris Jackson Questions Father's Estate About 'Michael' Movie Costs & Reshoots - Deadline",
-      "link": "https://deadline.com/2026/03/paris-jackson-michael-movie-questions-1236758498/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "## site categories. ### Linden Entertainment Signs ‘Your Friends   raising specious ‘concerns’ over issues previously addressed and resolved; and staging tabloid press photo ops strutting into hearings with obvious props,” the filing adds with swipes that the young Jackson is “more concerned with taking personal shots at John Branca—and indirectly at the cast of the movie—than with any *actual expenses* of the biopic during 2021.”. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
-      "published_at": "Mon, 23 Mar 2026 23:18:23 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要關於Paris Jackson質疑其父親遺產管理方關於「Michael」電影的成本與重拍，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 697,
-      "title": "Living with invisible power in Guangzhou - Nature",
-      "link": "https://www.nature.com/articles/s44284-026-00429-9",
-      "source": "Tavily (www.nature.com)",
-      "snippet": "You are using a browser version with limited support for CSS. * Jie Guo  (郭杰)  ORCID: orcid.org/0000-0001-8982-30001. *Nature Cities* (2026)Cite this article. ### Subjects. Receive 12 digital issues and online access to articles. * Instant access to the full article PDF. Prices may be subject to local taxes which are calculated during checkout. Criminol.* **40**, 321–339 (2000). *GeoJournal* **79**, 1–14 (2014). The author was supported by National Natural Science Foundation of China (no. ## Author information. ### Authors and Affiliations. Search author on:PubMed Google Scholar. ### Corresponding author. The author declares no competing interests. ## About this article. ### Cite this article. https://doi.org/10.1038/s44284-026-00429-9. * DOI: https://doi.org/10.1038/s44284-026-00429-9. ### Share this article. Sorry, a shareable link is not currently available for this article. Provided by the Springer Nature SharedIt content-sharing initiative. Sign up for the *Nature Briefing* newsletter — what matters in science, free to your inbox daily. Sign up for Nature Briefing.",
-      "published_at": "Mon, 23 Mar 2026 10:30:24 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，主要為一篇關於廣州城市研究的學術文章摘要。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 698,
-      "title": "12 Albums Out This Week You Should Listen to Now - Pitchfork",
-      "link": "https://pitchfork.com/news/12-new-albums-you-should-listen-to-now-grace-ives-underscores-bts/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "# 12 New Albums You Should Listen to Now: Grace Ives, Underscores, BTS, and More. Also stream new releases from CA7RIEL & Paco Amoroso and Anna Calvi. We first got a taste of Grace Ives’ new album *Girlfriend* last November, when she shared three singles (in her terminology, a “thringle”) and a blog post detailing her state of mind: “Stop dwelling. Her new album *U* builds the momentum of three killer singles and a year of teasing glitched-out, atmospheric pop with the confident kick of big-room EDM. Anna Calvi’s new EP swaggers out of the shadows with the gothic cabaret barnstormer “God’s Lonely Man,” Calvi’s wraithlike falsetto writhing around a gruff lead from Iggy Pop. The EP’s three remaining tracks also feature guest vocalists, namely Perfume Genius—on a Nick Cave and PJ Harvey-worthy cover of Bonnie “Prince” Billy’s “I See a Darkness”—Matt Berninger, and Laurie Anderson, who threads her deadpan into a choral spin of Kraftwerk’s “Computer Love” that somehow ends up sounding like a Lost Girls track. New Music Releases and Upcoming Albums in 2026.",
-      "published_at": "Fri, 20 Mar 2026 13:53:10 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容未提及周杰倫相關資訊，主要介紹本週發行的多張新專輯和EP。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 699,
-      "title": "Aerosmith 'Legendary Edition' of 1973 Self-Titled Debut Out March 20 - Rock Cellar Magazine",
-      "link": "https://rockcellarmagazine.com/aerosmith-legendary-edition-album-2026-listen/",
-      "source": "Tavily (rockcellarmagazine.com)",
-      "snippet": "* Joe Jackson New Album, Tour Announced for 2026. (PiL) New Tour + Album News. # Out Now: Aerosmith Revisits 1973 Self-Titled Debut as Remastered ‘Legendary Edition’ with Bonus Material — Listen/Buy. By Rock Cellar Magazine Staff | March 20, 2026 | 0 Reply. The self-titled album put the band on the map with songs like “Dream On,” which was a Top 10 Billboard hit and established the band as a force and has a new lyric video shared with the Legacy Edition:. CD1 – “Aerosmith” Original Album Remastered 2024. CD3 – Paul’s Mall Live Performance March 20, 1973 + Bonus Tracks. 5. Write Me A Letter (Live at Paul’s Mall, 1973). Mitchell’s triumphant return to the stage on July 24, 2022, will be featured on a new live album from Rhino, AT NEWPORT, available on July 28, 2023 on CD and 2-LP black vinyl.",
-      "published_at": "Fri, 20 Mar 2026 15:00:35 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於Aerosmith專輯的重新發行，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
     "id": 7,
     "report_date": "2026-03-30",
-    "total_articles": 9,
+    "total_articles": 18,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
+    "neutral_count": 18,
+    "daily_summary": "今日新聞摘要中，經仔細審閱所有提供的報導，並未發現任何與華語流行天王周杰倫相關的最新動態或新聞事件。所有提及『Jay-Z』的報導均為不同藝人的資訊，因此今日無周杰倫的焦點事件可供整理與發布。",
     "key_events": [
       "無周杰倫新聞",
-      "無周杰倫焦點",
-      "無周杰倫動態"
+      "無相關動態",
+      "無焦點事件"
     ],
-    "created_at": "2026-03-30 02:14:50"
+    "created_at": "2026-03-30 06:28:29"
   },
   "recentReports": [
     {
       "id": 7,
       "report_date": "2026-03-30",
-      "total_articles": 9,
+      "total_articles": 18,
       "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
+      "neutral_count": 18,
+      "daily_summary": "今日新聞摘要中，經仔細審閱所有提供的報導，並未發現任何與華語流行天王周杰倫相關的最新動態或新聞事件。所有提及『Jay-Z』的報導均為不同藝人的資訊，因此今日無周杰倫的焦點事件可供整理與發布。",
       "key_events": [
         "無周杰倫新聞",
-        "無周杰倫焦點",
-        "無周杰倫動態"
+        "無相關動態",
+        "無焦點事件"
       ],
-      "created_at": "2026-03-30 02:14:50"
+      "created_at": "2026-03-30 06:28:29"
     },
     {
       "id": 6,

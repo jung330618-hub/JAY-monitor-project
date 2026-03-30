@@ -7512,11 +7512,11 @@
       "snippet": "《TAIPEI TIMES》 Jay Chou returns with first album in nearly four years  自由時報",
       "published_at": "2026-03-24T19:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違近四年後，終於帶著新專輯回歸樂壇。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 538,
@@ -7526,11 +7526,11 @@
       "snippet": "Jay Chou releases new album in 3 years  Formosa News",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫時隔三年發行新專輯。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 539,
@@ -7540,11 +7540,11 @@
       "snippet": "周杰倫聽到SHE話題尷尬摸鼻子！網秒想起田馥甄　狂刷一排問號  NOWnews今日新聞",
       "published_at": "2026-03-24T09:07:01.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫聽到S.H.E話題時尷尬摸鼻子，引發網友聯想到田馥甄並熱烈討論。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 540,
@@ -7554,11 +7554,11 @@
       "snippet": "周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友  Cosmopolitan",
       "published_at": "2026-03-18T09:04:43.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫睽違三年八個月將發行新專輯《太陽之子》，並於3/24舉辦新歌首映，名稱靈感來自張學友。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 541,
@@ -7568,11 +7568,11 @@
       "snippet": "Jay Chou releases new album in 3 years｜Taiwan News  民視新聞網",
       "published_at": "2026-03-24T17:01:24.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違三年發行新專輯，為歌迷帶來期待已久的新作品。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 542,
@@ -7582,11 +7582,11 @@
       "snippet": "天王也沒轍！周杰倫曝女兒是「小霸王」被塗鴉也甘願 求婚險翻車內幕曝光  蕃新聞",
       "published_at": "2026-03-24T09:30:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫分享與女兒的溫馨互動，並揭露過去求婚時的趣味插曲。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 543,
@@ -7596,11 +7596,11 @@
       "snippet": "周杰倫《太陽之子》發布會遲到！YouTube直播湧萬人　留言區塞爆  NOWnews今日新聞",
       "published_at": "2026-03-24T05:06:30.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫《太陽之子》發布會雖遲到，仍吸引上萬人觀看YouTube直播並塞爆留言區，顯示其超高人氣與粉絲熱情。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 544,
@@ -7610,11 +7610,11 @@
       "snippet": "周杰倫《太陽之子》在唱什麼？片尾金句給直白答案：戰勝內心黑暗  NOWnews今日新聞",
       "published_at": "2026-03-24T07:19:29.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞探討周杰倫新作品《太陽之子》的深層意義，指出其傳達了戰勝內心黑暗的積極訊息。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 545,
@@ -7624,11 +7624,11 @@
       "snippet": "周杰倫提早公開〈太陽之子〉最新MV預告　致敬這幅世界名畫吊胃口  NOWnews今日新聞",
       "published_at": "2026-03-20T13:12:57.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫提早公開新歌〈太陽之子〉的MV預告，內容致敬世界名畫，成功引起粉絲高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 546,
@@ -7638,11 +7638,11 @@
       "snippet": "周杰倫砸1億拍〈太陽之子〉MV！3/24全球首播　進場、直播一次看  NOWnews今日新聞",
       "published_at": "2026-03-22T09:59:22.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫斥資1億元拍攝新歌〈太陽之子〉MV，將於3月24日全球首播，引發高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 547,
@@ -7652,11 +7652,11 @@
       "snippet": "跟蔡依林拚！周杰倫〈太陽之子〉名畫復活　評價兩極：這AI過分了  NOWnews今日新聞",
       "published_at": "2026-03-24T05:35:44.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "周杰倫〈太陽之子〉名畫經AI復活後引發兩極評價，部分觀點認為AI運用過度。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 548,
@@ -7666,11 +7666,11 @@
       "snippet": "周杰倫新MV割耳梵谷現身　心疼粉絲喊話：別熬夜追、白天再看就好  NOWnews今日新聞",
       "published_at": "2026-03-19T16:28:29.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發布新MV，內容包含割耳梵谷元素，並暖心提醒粉絲不需熬夜追看。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 549,
@@ -7680,11 +7680,11 @@
       "snippet": "Jay Chou, Ashin reunite for new song with Jerry Yan  TVBS新聞網",
       "published_at": "2025-12-06T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與阿信、言承旭合作推出新歌，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 550,
@@ -7694,11 +7694,11 @@
       "snippet": "周杰倫「Jay不到Chou」求教盧彥勳 站位被看穿但該先練猜拳  壹蘋新聞網",
       "published_at": "2026-01-17T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫幽默地自嘲球技不佳，向網球選手盧彥勳請教，展現親民與風趣的一面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 551,
@@ -7708,11 +7708,11 @@
       "snippet": "周杰倫MV神還原名畫《夜遊者》！才播幾秒粉絲哀嚎：勇敢放全部吧  NOWnews今日新聞",
       "published_at": "2026-03-18T16:36:05.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新MV神還原名畫《夜遊者》的片段引起粉絲熱烈迴響，紛紛表示期待完整版釋出。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 552,
@@ -7722,11 +7722,11 @@
       "snippet": "昆凌吃湯圓照片曝光！網友笑喊「周董視角」　22K金邊瓷碗意外成焦點 | 娛樂 | CTWANT  CTWANT",
       "published_at": "2026-03-05T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "昆凌吃湯圓的照片因被網友戲稱為「周董視角」而曝光，其使用的22K金邊瓷碗意外成為討論焦點。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 553,
@@ -7736,11 +7736,11 @@
       "snippet": "周杰倫明參加澳網「一分大滿貫」！他球技如何？與奧運亞軍超麻吉 | 綜合 | 運動  NOWnews今日新聞",
       "published_at": "2026-01-13T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫將參與澳網「一分大滿貫」活動，並與奧運亞軍關係密切。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 554,
@@ -7750,11 +7750,11 @@
       "snippet": "周杰倫出戰澳網「一分大滿貫」首輪對手曝光！身分是24歲業餘冠軍 | 綜合 | 運動  NOWnews今日新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫將參與澳網「一分大滿貫」賽事，首輪對手為24歲業餘冠軍。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 555,
@@ -7764,11 +7764,11 @@
       "snippet": "周杰倫新專輯《太陽之子》預購、發行時間出爐！13 首新歌、巴黎教堂MV、電影院首映全攻略！  JUKSY 街星",
       "published_at": "2026-03-18T07:21:27.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽之子》的預購與發行時間、13首新歌、巴黎教堂MV及電影院首映等詳細資訊已全面公開。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 556,
@@ -7778,11 +7778,11 @@
       "snippet": "周杰倫夢幻聯動世界球王！ 兩人互動留言「埋上海見面伏筆」  Yahoo新聞",
       "published_at": "2025-09-24T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與世界球王進行夢幻聯動，兩人互動留言暗示未來可能在上海見面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 557,
@@ -7792,11 +7792,11 @@
       "snippet": "周杰倫今1630打澳網評價一面倒！林書豪陪練虧若能贏：應該謝我  NOWnews今日新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫參與澳網活動，並由林書豪陪練，林書豪幽默表示若周杰倫獲勝應感謝他。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 558,
@@ -10177,6 +10177,132 @@
       "summary": "這則新聞內容為北美冰球聯盟（NHL）的賽事回顧，與周杰倫無任何相關資訊。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 728,
+      "title": "Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon - MacRumors",
+      "link": "https://www.macrumors.com/2026/03/29/new-macbook-pro-low-prices/",
+      "source": "Tavily (www.macrumors.com)",
+      "snippet": "# Apple's M5 Pro/M5 Max MacBook Pro Reaches New All-Time Low Prices on Amazon. Amazon is offering new all-time low prices on Apple's M5 Pro/M5 Max MacBook Pro, with up to $149 off select models without the need of a membership or clipping a coupon. This deal, along with all of the others we're tracking in this article, represent new best-ever prices on the brand new M5 Pro and M5 Max MacBook Pro. 14-inch M5 Pro MacBook Pro (24GB/1TB) for $2,049.99. ### Apple to Launch These 15+ New Products Later This Year. ### Apple Releasing Two New iPhone Apps This Year. Apple is expected to release two new iPhone apps this year, including an Apple Business app and a Siri app with chatbot-like functionality. iPhone 17 vs iPhone 17 Pro vs iPhone Air. Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy?",
+      "published_at": "Sun, 29 Mar 2026 21:24:00 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Apple M5 Pro/M5 Max MacBook Pro的降價促銷及未來新產品發布，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 729,
+      "title": "China Box Office: ‘Project Hail Mary’ Overtakes ‘Hoppers’ to Claim Top Spot - Variety",
+      "link": "https://variety.com/2026/film/news/china-box-office-project-hail-mary-1236702329/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Columbia Pictures’ science-fiction epic “Project Hail Mary” climbed to the number one position at the China box office during the March 27–29 weekend, earning RMB53.3 million ($7.5 million) in its second frame, according to data from Artisan Gateway. The film has now reached a cumulative total of $18.3 million. ### Gillian Anderson and Jason Isaacs Drama ‘The Salt Path’ Drops First Trailer, Sets North American Release With Rialto (EXCLUSIVE). ### 'Heavyweight,' Brit Boxing Drama Starring Jordan Bolger, Nicholas Pinnock and Jason Isaacs, Sets U.S. Release (EXCLUSIVE). Produced by PMF Pictures, the film has now reached a cumulative total of $612.3 million since its debut. Martial arts epic “Blades of the Guardians” followed in fourth place, earning $1.9 million for a cumulative total of $200.1 million. Rounding out the top five, the comedy-drama “It’s OK” earned $1.7 million in its opening frame. Produced by China Film and directed by Yang Lina, the film stars Wen Qi, Qin Hailu, Bai Ke, and Li Xueqin.",
+      "published_at": "Mon, 30 Mar 2026 06:08:02 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於中國電影票房，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 730,
+      "title": "Nuggets' Zeke Nnaji: Exits early Sunday - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/nuggets-zeke-nnaji-exits-early-sunday/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: nuggets-zeke-nnaji-exits-early-sunday | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Nuggets' Zeke Nnaji: Exits early Sunday. Nnaji will not return to Sunday's game against the Warriors due to left hip impingement. Nnaji saw just seven minutes of action during Sunday's contest before exiting. * ##### Nuggets' Zeke Nnaji: Not starting Friday. * ##### Nuggets' Zeke Nnaji: Drawing rare start. * ##### Nuggets' Zeke Nnaji: Headed to bench. * ##### Nuggets' Zeke Nnaji: Double-double in starting role. * ##### Nuggets' Zeke Nnaji: Starting vs. * ##### Nuggets' Zeke Nnaji: Reduced role in win. Mike Barner • 3 min read. #### Fantasy hoops specialists to add. Mike Barner • 3 min read. #### Waivers: Must-adds for playoffs. Alex Barutha • 3 min read. Mike Barner • 4 min read. Adam King • 5 min read. #### Waiver wire: Fantasy playoff adds. Mike Barner • 3 min read.",
+      "published_at": "Mon, 30 Mar 2026 04:30:31 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Zeke Nnaji的傷勢與比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 731,
+      "title": "Warriors vs. Nuggets (Mar 29, 2026) Live Score - ESPN",
+      "link": "https://www.espn.com/nba/odds/_/gameId/401810945",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Golden State Warriors @ Denver Nuggets. 36-39, 15-24 Away. 36-39, 15-24 Away. | Warriors  GS | 28 | 25 | 21 | 19 | 93 |. | Nuggets  DEN | 23 | 23 | 40 | 30 | 116 |. 48-28, 24-13 Home. 48-28, 24-13 Home. * Your US State Privacy Rights. * Children's Online Privacy Policy. CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH. On behalf of Boot Hill Casino & Resort (KS). Terms: sportsbook.draftkings.com/promos. Copyright: © 2026 ESPN Enterprises, LLC.",
+      "published_at": "Mon, 30 Mar 2026 03:32:56 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是金州勇士隊與丹佛金塊隊的一場籃球比賽比分，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 732,
+      "title": "Player of the Night - Alperen Sengun - Mar. 29 - NBA",
+      "link": "https://www.nba.com/watch/video/player-of-the-night-alperen-sengun-mar-29",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "## Player of the Night - Alperen Sengun - Mar. 29. Player of the Night - Alperen Sengun - March 29, 2026. * #### Game Recap: Nuggets 116, Warriors 93. * #### Game Recap: Thunder 111, Knicks 100. The Thunder defeat the Knicks, 111-100, as SGA totals 10 pts, 2 ast in the final 5:12 as the Thunder end the game on a 14-5 run. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers defeat the Wizards, 123-88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. The Rockets defeated the Pelicans, 134-102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. The Nets defeated the Kings, 116-99. The Raptors defeat the Magic, 139-87. The Pacers defeat the Miami Heat, 135-118. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109. The Suns defeated the Jazz 134-109.",
+      "published_at": "Mon, 30 Mar 2026 06:07:43 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要報導NBA賽事結果，如Alperen Sengun的表現及各隊比賽回顧。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 733,
+      "title": "The pet I’ll never forget: Merlin the therapy sheep - theguardian.com",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/mar/30/the-pet-ill-never-forget-merlin-the-therapy-sheep",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# The pet I’ll never forget: Merlin the therapy sheep. When Merlin came to live with me, his only job was to clear the weeds from my fields. Merlin the sheep came to me by chance four years ago. The lamb was called Bambi and when I came to collect her, my friend offered me another lamb, Merlin. Shortly after, Bambi died and it was just Merlin left. After I got Merlin I realised that sheep are some of the most relaxed mammals, which makes them the perfect therapists because being near them calms people down too. Merlin in particular has a knack for it. From then on, Merlin blossomed into an incredibly empathetic and sensitive animal. Merlin oozes love and affection. I even wrote a children’s book, called Merlin Finds His Magic, all about the life of the therapy sheep. I now have six sheep on my land who help me with my work, but Merlin is the shining star of the flock.",
+      "published_at": "Mon, 30 Mar 2026 06:00:19 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要講述了一隻名為Merlin的治療羊的故事，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 734,
+      "title": "Toumani Camara with the slam - NBA",
+      "link": "https://www.nba.com/watch/video/toumani-camara-with-the-slam-7",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "* #### Game Recap: Nuggets 116, Warriors 93. The Nuggets defeated the Warriors, 116-93, winning their 6th straight game. * #### Game Recap: Thunder 111, Knicks 100. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. * #### Game Recap: Rockets 134, Pelicans 102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. * #### Game Recap: Nets 116, Kings 99. The Nets improve to 18-57, while the Kings fall to 19-57. * #### Game Recap: Raptors 139, Magic 87. The Raptors improve to 42-32, while the Magic fall to 39-35. * #### Game Recap: Celtics 114, Hornets 99. * #### Game Recap: Pacers 135, Heat 118. * #### Game Recap: Clippers 127, Bucks 113. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109.",
+      "published_at": "Mon, 30 Mar 2026 05:02:46 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為NBA賽事回顧，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 735,
+      "title": "Dunk of the Night: Scottie Barnes - Mar. 29 - NBA",
+      "link": "https://www.nba.com/watch/video/dunk-of-the-night-scottie-barnes-mar-29",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "## Dunk of the Night: Scottie Barnes - Mar. 29. Dunk of the Night: Scottie Barnes - March 29, 2026. * #### Game Recap: Nuggets 116, Warriors 93. * #### Game Recap: Thunder 111, Knicks 100. The Thunder defeat the Knicks, 111-100, as SGA totals 10 pts, 2 ast in the final 5:12 as the Thunder end the game on a 14-5 run. * #### Game Recap: Trail Blazers 123, Wizards 88. The Trail Blazers defeat the Wizards, 123-88. The Trail Blazers improve to 38-38, while the Wizards fall to 17-57. The Rockets defeated the Pelicans, 134-102. The Rockets improve to 45-29, while the Pelicans fall to 25-51. The Nets defeated the Kings, 116-99. The Raptors defeat the Magic, 139-87. The Pacers defeat the Miami Heat, 135-118. The Clippers defeat the Bucks 127-113, winning their 5th straight and improving to 39-36, while the Bucks fall to 29-45. * #### Game Recap: Suns 134, Jazz 109. The Suns defeated the Jazz 134-109.",
+      "published_at": "Mon, 30 Mar 2026 06:07:51 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要報導NBA賽事結果，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 736,
+      "title": "Ford Championship: Nelly Korda outduelled by Hyo Joo Kim again as South Korean wins on LPGA Tour for second straight week - Sky Sports",
+      "link": "https://www.skysports.com/golf/news/12176/13525983/ford-championship-nelly-korda-outduelled-by-hyo-joo-kim-again-as-south-korean-wins-on-lpga-tour-for-second-straight-week",
+      "source": "Tavily (www.skysports.com)",
+      "snippet": "# Ford Championship: Nelly Korda outduelled by Hyo Joo Kim again as South Korean wins on LPGA Tour for second straight week. South Korea's Hyo Joo Kim defended the Ford Championship title by holding off a late charge from American star Nelly Korda; Kim set a new LPGA Tour 54-hole scoring record with a 191 total, including two rounds of 61, on her way to winning by two strokes ahead of Korda. Hyo Joo Kim repelled a challenge from Nelly Korda for the second straight week, pulling away around the turn and closing with a three-under 69 for a two-shot victory in the Ford Championship. Kim was poised to break the LPGA Tour's scoring record for 72 holes until one mistake led to a double-bogey on the eighth hole and gave Korda hope. But the American missed a short par putt on the ninth, and that was followed by a two-shot swing on the 10th - Kim hit her approach to 18 inches for birdie, and Korda failed to get up-and-down for par.",
+      "published_at": "Mon, 30 Mar 2026 06:05:22 GMT",
+      "collected_at": "2026-03-30 06:26:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了高爾夫球手Hyo Joo Kim在Ford Championship中擊敗Nelly Korda奪冠，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -10261,17 +10387,17 @@
     {
       "id": 7,
       "report_date": "2026-03-30",
-      "total_articles": 9,
+      "total_articles": 18,
       "positive_count": 0,
       "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
+      "neutral_count": 18,
+      "daily_summary": "今日新聞摘要中，經仔細審閱所有提供的報導，並未發現任何與華語流行天王周杰倫相關的最新動態或新聞事件。所有提及『Jay-Z』的報導均為不同藝人的資訊，因此今日無周杰倫的焦點事件可供整理與發布。",
       "key_events": [
         "無周杰倫新聞",
-        "無周杰倫焦點",
-        "無周杰倫動態"
+        "無相關動態",
+        "無焦點事件"
       ],
-      "created_at": "2026-03-30 02:14:50"
+      "created_at": "2026-03-30 06:28:29"
     }
   ],
   "notification_logs": [
@@ -10442,11 +10568,25 @@
       "message": "每日報告",
       "status": "失敗: ",
       "sent_at": "2026-03-30 02:14:51"
+    },
+    {
+      "id": 25,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-30 06:28:30"
+    },
+    {
+      "id": 26,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-30 06:28:35"
     }
   ],
   "_meta": {
-    "nextArticleId": 728,
+    "nextArticleId": 737,
     "nextReportId": 8,
-    "nextLogId": 25
+    "nextLogId": 27
   }
 }
