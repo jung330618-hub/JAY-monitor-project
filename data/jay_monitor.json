@@ -7218,11 +7218,11 @@
       "snippet": "周杰倫直播空城！萬人湧留言區　直接炸鍋狂刷：「是不是遲到了」  三立娛樂星聞",
       "published_at": "2026-03-24T09:43:47.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫直播延遲引發大量粉絲湧入留言區熱烈討論，凸顯其超高人氣與粉絲的熱切期待。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 517,
@@ -7232,11 +7232,11 @@
       "snippet": "周杰倫自曝將公開求婚昆凌影片！專輯還為小女兒寫一首新歌  Marie Claire 美麗佳人",
       "published_at": "2026-03-24T12:17:21.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫透露將公開與昆凌的求婚影片，並為新專輯中的小女兒創作一首新歌。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 518,
@@ -7246,11 +7246,11 @@
       "snippet": "阿Ken讚只有「他」能超越周杰倫! 本人當眾無情吐槽：有病喔?  MSN",
       "published_at": "2026-03-24T10:03:49.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "阿Ken幽默稱某人能超越周杰倫，周杰倫則以玩笑方式回應，展現其輕鬆一面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 519,
@@ -7260,11 +7260,11 @@
       "snippet": "周杰倫鬆口將分享求婚昆凌的浪漫影片　大手筆租古堡、演員 差點戲白演了  鏡週刊Mirror Media",
       "published_at": "2026-03-24T08:07:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫鬆口表示將分享他當初大手筆租古堡、演員向昆凌求婚的浪漫影片。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 520,
@@ -7274,11 +7274,11 @@
       "snippet": "直擊／周杰倫〈太陽之子〉首映人潮擠爆威秀！斥資上億MV將曝光  NOWnews今日新聞",
       "published_at": "2026-03-24T05:04:45.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈太陽之子〉MV首映吸引爆滿人潮，並預告斥資上億的MV即將曝光。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 521,
@@ -7288,11 +7288,11 @@
       "snippet": "周杰倫砸1億拍〈太陽之子〉MV！3/24全球首播　進場、直播一次看  NOWnews今日新聞",
       "published_at": "2026-03-22T09:59:22.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫斥資1億元拍攝新歌〈太陽之子〉MV，並將於3月24日全球首播。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 522,
@@ -7302,11 +7302,11 @@
       "snippet": "粉絲要暴動了！周杰倫鬆口考慮將在網球場辦簽唱會？  噓！星聞",
       "published_at": "2026-03-24T08:29:39.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫鬆口考慮在網球場舉辦簽唱會，引發粉絲高度期待與興奮。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 523,
@@ -7316,11 +7316,11 @@
       "snippet": "周杰倫新歌藝術玩出新高度！MV致敬30幅名畫 笑虧方文山被上藝術課  蕃新聞",
       "published_at": "2026-03-24T18:57:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌MV以致敬30幅名畫的方式展現藝術新高度，並幽默提及方文山被上藝術課。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 524,
@@ -7330,11 +7330,11 @@
       "snippet": "周杰倫出席新專輯記者會（1） (圖)  Yahoo新聞",
       "published_at": "2026-03-24T07:36:42.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫出席新專輯記者會，預示著新作品的發布或宣傳。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 525,
@@ -7344,11 +7344,11 @@
       "snippet": "周杰倫凌晨不睡坐等專輯評語！春風大讚周董在MV裡是歐洲版林正英  NOWnews今日新聞",
       "published_at": "2026-03-25T04:40:09.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫凌晨不睡等待專輯評語，並因在MV中被春風讚為「歐洲版林正英」而獲得正面關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 526,
@@ -7358,11 +7358,11 @@
       "snippet": "周杰倫首公開求婚昆凌影片！包下英國古堡險破功 浪漫細節曝光  Yahoo新聞",
       "published_at": "2026-03-24T12:31:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫首次公開他當年向昆凌求婚的浪漫影片，揭露了在英國古堡求婚的溫馨細節。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 527,
@@ -7372,11 +7372,11 @@
       "snippet": "周杰倫自爆被女兒搞到神經錯亂 不藏了！公開當年向昆凌求婚影片  Yahoo",
       "published_at": "2026-03-24T17:05:15.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫分享與女兒的趣事，並首次公開當年向昆凌求婚的影片，展現其家庭生活溫馨的一面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 528,
@@ -7386,11 +7386,11 @@
       "snippet": "創紀錄！周杰倫MV找奧斯卡團隊操刀 「斥資1億元打造」  Yahoo新聞",
       "published_at": "2026-03-21T04:22:54.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新MV斥資上億元並邀請奧斯卡團隊操刀，創下紀錄。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 529,
@@ -7400,11 +7400,11 @@
       "snippet": "周杰倫發布新專輯《太陽之子》13首新歌1首為細女創作！耗資億元MV首播致敬30幅名畫  橙新聞",
       "published_at": "2026-03-25T03:06:56.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發布新專輯《太陽之子》，收錄13首新歌，其中一首為女兒創作，並推出耗資億元致敬名畫的MV。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 530,
@@ -7414,11 +7414,11 @@
       "snippet": "張信哲撞哏周杰倫！致敬梵谷吐內心話  噓！星聞",
       "published_at": "2026-03-24T08:31:34.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導張信哲致敬梵谷的創意與周杰倫的風格被拿來比較。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 531,
@@ -7428,11 +7428,11 @@
       "snippet": "周杰倫新專輯《太陽之子》MV 公開！巡演會來台？阿 KEN 遭他吐槽「無腦」  COOL-STYLE 潮流生活網",
       "published_at": "2026-03-24T10:26:19.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫新專輯《太陽之子》MV公開，引發粉絲對巡演來台的期待，並因與阿 KEN 的幽默互動增添話題。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 532,
@@ -7442,11 +7442,11 @@
       "snippet": "周杰倫舉行新專輯記者會 將公開向昆凌求婚私藏影片 (19:38) - 20260324  明報 Our Lifestyle",
       "published_at": "2026-03-24T11:38:30.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在新專輯記者會上宣布將公開他向昆凌求婚的私藏影片，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 533,
@@ -7456,11 +7456,11 @@
       "snippet": "周杰倫《太陽之子》懶人包　每日追星時程、專輯預購一次看  NOWnews今日新聞",
       "published_at": "2026-03-19T04:59:52.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則新聞提供周杰倫《太陽之子》的追星時程與專輯預購資訊，方便歌迷掌握最新動態。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 534,
@@ -7470,11 +7470,11 @@
       "snippet": "直擊／周杰倫10年沒近距離接觸粉絲有求必應！被問辦簽唱會 天王給答案了  Yahoo新聞",
       "published_at": "2026-03-24T07:31:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違十年近距離與粉絲互動，展現有求必應的親民態度，並回應了舉辦簽唱會的可能性。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 535,
@@ -7484,11 +7484,11 @@
       "snippet": "周杰倫回歸就玩超大！新歌「太陽之子」砸重金 30幅世界名畫藏其中  噓！星聞",
       "published_at": "2026-03-24T07:47:31.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫以新歌「太陽之子」高調回歸，該作品投入巨資並融入30幅世界名畫，展現其對音樂製作的重視與創意。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 536,
@@ -7498,11 +7498,11 @@
       "snippet": "周杰倫《太陽之子》中二帥回來！「歌詞聽不懂才對味」網刷整排回憶殺  噓！星聞",
       "published_at": "2026-03-24T07:07:02.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌《太陽之子》以其經典風格和「歌詞聽不懂才對味」的特色，引發網友熱烈回憶殺。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 537,
@@ -10051,6 +10051,132 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導英國歌手Lily Allen的「West End Girl」演唱會評論，內容聚焦於其音樂表現與個人情感表達。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 719,
+      "title": "How Did Johnny Blue Skies & the Dark Clouds Debut at No. 3 With Physical-Only ‘Mutiny After Midnight’ Album? - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/johnny-blue-skies-mutiny-after-midnight-five-burning-questions-1236204626/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "But thankfully, fans didn’t have to wait long for more new music from the acclaimed artist; by 2024, he revealed his new moniker as Johnny Blue Skies, releasing the act’s debut album, *Passage du Desir* that same year. Johnny Blue Skies & the Dark Clouds’ *Mutiny After Midnight* debuts at No. 3 on the Billboard 200 with 59,000 equivalent album units earned — all from physical album sales. Johnny Blue Skies & the Dark Clouds moves 59,000 equivalent album units — all from physical album sales – with its** ***Mutiny After Midnight*** **album, the biggest debut frame for the act. *Passage du Desir* debuted at No. 29 on the Billboard 200, and as people have gotten used to the concept and music of Johnny Blue Skies, they’ve decided it’s a journey they want to go on with Simpson.",
+      "published_at": "Tue, 24 Mar 2026 20:39:45 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於Johnny Blue Skies專輯登上告示牌排行榜，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 720,
+      "title": "Father – Song by Kanye West & Travis Scott - HotNewHipHop",
+      "link": "https://www.hotnewhiphop.com/986087-father-kanye-west-travis-scott",
+      "source": "Tavily (www.hotnewhiphop.com)",
+      "snippet": "# Father – Song by Kanye West & Travis Scott. Kanye West and Travis Scott's \"Father\" is one of the big highlights on Ye's recently released \"Bully\" album. Kanye West may have stumbled a little bit in releasing his new album *Bully*, but at least he finally dropped the whole thing on streaming services today (Saturday, March 28). Born and raised in San Juan, Puerto Rico, Gabriel treasures the crossover between his native reggaetón and hip-hop news coverage, such as his review for Bad Bunny’s hometown concert in 2024. Beyond engaging and breaking news coverage, Gabriel makes the most out of his concert obsessions, reviewing and recapping festivals like Rolling Loud Miami and Camp Flog Gnaw. He’s also developed a strong editorial voice through album reviews, think-pieces, and interviews with some of the genre’s brightest upstarts and most enduring obscured gems like Homeboy Sandman, Bktherula, Bas, and Devin Malik. Music   Teyana Taylor Reveals New Album Release Date. * music   Kanye West's \"Bully\" Album Divides The Ye Fanbase After Streaming Release.",
+      "published_at": "Sat, 28 Mar 2026 13:58:54 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Kanye West和Travis Scott的新歌與專輯發行，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 721,
+      "title": "Jack White Pokes At Trump's Pettiest Insecurity As He Disses Dollar Bill Decision - HuffPost",
+      "link": "https://www.huffpost.com/entry/jack-white-trump-small-hands-cash-signature_n_69c99bade4b051d223bdf9dd",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "# Jack White Pokes At Trump's Pettiest Insecurity As He Disses Dollar Bill Decision. The White Stripes frontman described Trump as a “manipulative, loophole finding, egomaniacal, conman” in a lengthy Instagram post on Saturday. Jack White needled Donald Trump after it was announced that the president would be slapping his signature on U.S. banknotes. The White Stripes frontman described Trump as a “manipulative, loophole finding, egomaniacal, conman” in a lengthy Instagram post on Friday. White didn’t let Trump’s enablers off the hook, either. White tried to put the decision to add Trump’s signature to the nation’s currency in context. You deserve it!” White wrote. I think that’s against the law to deface U.S. currency, so I would never suggest that becoming a nationwide campaign,” he wrote, “but is everyone allowed to break the law when they feel like it or just donnie?”. A stalwart Trump critic, White highlighted the president’s hypocrisy in a post about the Iran war earlier this month, writing: “Behold the leader of the ‘Board of Peace.’”.",
+      "published_at": "Mon, 30 Mar 2026 00:55:10 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞與周杰倫無關，主要報導Jack White批評美國前總統川普在美元鈔票上簽名的決定。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 722,
+      "title": "Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42 - Variety",
+      "link": "https://variety.com/2026/tv/news/alex-duong-dead-stand-up-blue-bloods-1236702311/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42. Alex Duong, a stand-up comedian and TV actor who appeared on the CBS drama “Blue Bloods,” died on Sunday in a Los Angeles hospital. Your continued support now means everything as Christina and Everest navigate the days ahead and to arrange a beautiful celebration of his life.”. Along with “Blue Bloods,” Duong’s other TV credits include “Everybody Hates Chris,” “Mad TV,” “Dexter,” “Interns Anonymous,” “Death Valley” and “The Young and the Restless.” On the film side, Duong appeared in “Formosa Betrayed,” “Ghetto Physics,” “The Beyond” and “Sideways for Attention.”. Last August, the Largo in Los Angeles hosted “The Alex Duong Has Cancer In His Eye Comedy Benefit Show,” which featured comedians like Ronny Chieng, Andrea Jin and Atusko Okatsuka. “Comedians always have each other’s backs when times are shit,” Duong told the LA Times in a 2025 profile.",
+      "published_at": "Sun, 29 Mar 2026 23:11:19 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國演員兼喜劇演員Alex Duong逝世，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 723,
+      "title": "‘No Kings’ protests around the country - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/630169",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Home  › ABC       30.03.2026. # ‘No Kings’ protests around the country. Across the country, millions of people attend “No Kings” protests, calling out President Donald Trump and his administration's policies, including Bruce Springsteen. ---- Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Mon, 30 Mar 2026 01:20:00 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國的政治抗議活動，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 724,
+      "title": "2026 Ty Scott Full Game Log - FOX Sports",
+      "link": "https://www.foxsports.com/ufl/ty-scott-player-game-log?season=2026&category=standard",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "Access and manage your favorites here. # TY SCOTT 2026 GAME LOG. ## TY SCOTT. ## FULL GAME LOG. | GAME | GS | TGT | REC | RECYDS | YAC | RECTD | LNG | RATT | RYDS | RAVG | RTD | LNG |. | 3/28 | @STL L | - | 7 | 2 | 35 | - | 0 | 30 | - | - | - | - | - |. NFL College Football INDYCAR MLB College Basketball NASCAR. The Herd with Colin Cowherd First Things First The Joel Klatt Show Kevin Harvick's Happy Hour Bear Bets. FIFA World Cup 2026™ Best Betting Apps & Sites Best Sportsbook Promos Missouri Sports Betting. FOX SPORTS™, SPEED™, SPEED.COM™ & © 2026 Fox Media LLC and Fox Sports Interactive Media, LLC. Use of this website (including any and all parts and components) constitutes your acceptance of these Terms of Use and Privacy Policy | Advertising Choices | Your Privacy Choices | Closed Captioning. FS1FOXFOX NewsFox CorporationFOX Sports SupportsFOX Deportes.",
+      "published_at": "Mon, 30 Mar 2026 00:50:02 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要內容為FOX Sports關於運動員Ty Scott的賽事紀錄。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 725,
+      "title": "Kofi Kingston accepts Penta’s Intercontinental title open challenge - cagesideseats.com",
+      "link": "https://www.cagesideseats.com/wwe/429373/kofi-kingston-accepts-penta-intercontinental-title-open-challenge-wwe-raw-the-garden",
+      "source": "Tavily (www.cagesideseats.com)",
+      "snippet": "# Kofi Kingston accepts Penta’s Intercontinental title open challenge. While Penta is busy in AAA setting up a match against Vikingo for the Intercontinental championship on April 11, we now know it’s at least possible he won’t even be Intercontinental champion by that time. That’s because he issued an open challenge for that very title on this week’s episode of *Monday Night Raw* at Madison Square Garden in New York, adding to an already stacked card loaded with the biggest stars WWE has to offer. WWE has not officially announced that this will indeed be the match but the official account retweeted Kingston’s above tweet, indicating it’s likely to take place. * **Intercontinental championship**: Penta (c) vs. Penta accepts risky IC title challenge in AAA on road to WrestleMania. WWE decided the best way to get Sami Zayn on the card at WrestleMania 42 was to give him Carmelo Hayes’ championship. Top WWE stars are aging out, says Becky Lynch.",
+      "published_at": "Sun, 29 Mar 2026 23:00:00 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導WWE摔角賽事，關於Kofi Kingston接受Penta的洲際冠軍公開挑戰。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 726,
+      "title": "DAL at PHI | Recap - NHL.com",
+      "link": "https://www.nhl.com/video/topic/highlights/dal-at-phi-recap-6392104198112",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "### CHI at NJD | Recap. ### CHI@NJD: Hughes scores empty-net goal. CHI@NJD: Hughes scores empty-net goal. CHI@NJD: Hughes goes short side in 3rd period. CHI@NJD: Hamilton finishes Hughes' dish in 3rd period. CHI@NJD: Nazar scores PPG for his second tally of game. ### CHI@NJD: Nemec scores goal against Spencer Knight. CHI@NJD: Nemec scores goal against Spencer Knight. DAL@PHI: Konecny draws the puck around the net and tucks PPG inside the far post. BOS@CBJ: Zacha scores his second PPG of 3rd period. CHI@NJD: Donato sets up Nazar in opening period. CHI@NJD: Brown scores PPG for his 15th tally of season. BOS@CBJ: Zacha scores PPG to record milestone point. BOS@CBJ: McAvoy trims Bruins' deficit in 3rd period. NSH@TBL: Forsberg scores tip-in goal in 3rd period. CHI@NJD: Mikheyev nets his 15th goal of season. NSH@TBL: Perry scores his 15th goal of season. NSH@TBL: Hagel scores his 35th goal of the season. ### MTL@CAR: Suzuki scores PPG against Frederik Andersen. MTL@CAR: Suzuki scores PPG against Frederik Andersen.",
+      "published_at": "Mon, 30 Mar 2026 01:57:16 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞內容是關於NHL冰球比賽的戰況摘要，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 727,
+      "title": "CHI at NJD | Recap - NHL.com",
+      "link": "https://www.nhl.com/video/topic/game-recaps/chi-at-njd-recap-6392103284112",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "# CHI at NJD | Recap. ## Game Recaps. ### CHI at NJD | Recap. ### BOS at CBJ | Recap. ### NSH at TBL | Recap. ### MTL at CAR | Recap. ### FLA at NYR | Recap. ### WSH at VGK | Recap. ### VAN at CGY | Recap. ### UTA at LAK | Recap. ### PHI at DET | Recap. ### MTL at NSH | Recap. ### WPG at COL | Recap. ### TOR at STL | Recap. ### SEA at BUF | Recap. ### MIN at BOS | Recap. ### SJS at CBJ | Recap. ### NJD at CAR | Recap. ### ANA at EDM | Recap. ### CHI at NYR | Recap. ### DET at BUF | Recap. ### EDM at VGK | Recap. ### LAK at VAN | Recap. ### WSH at UTA | Recap. ### ANA at CGY | Recap. ### SJS at STL | Recap. ### COL at WPG | Recap.",
+      "published_at": "Mon, 30 Mar 2026 01:47:33 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容為北美冰球聯盟（NHL）的賽事回顧，與周杰倫無任何相關資訊。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -10131,6 +10257,21 @@
         "巡演最終站可能回台"
       ],
       "created_at": "2026-03-28 05:37:33"
+    },
+    {
+      "id": 7,
+      "report_date": "2026-03-30",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無周杰倫焦點",
+        "無周杰倫動態"
+      ],
+      "created_at": "2026-03-30 02:14:50"
     }
   ],
   "notification_logs": [
@@ -10287,11 +10428,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-03-28 05:37:34"
+    },
+    {
+      "id": 23,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-03-30 02:14:51"
+    },
+    {
+      "id": 24,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "失敗: ",
+      "sent_at": "2026-03-30 02:14:51"
     }
   ],
   "_meta": {
-    "nextArticleId": 719,
-    "nextReportId": 7,
-    "nextLogId": 23
+    "nextArticleId": 728,
+    "nextReportId": 8,
+    "nextLogId": 25
   }
 }

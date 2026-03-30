@@ -274,6 +274,7 @@ function getDashboardData() {
   const trend = getSentimentTrend(14);
   const recentArticles = getRecentArticles(30);
   const latestReport = getLatestReport();
+  const recentReports = getReports(7); // ★ 取出最近的 7 篇歷史報告
 
   const data = loadData();
   const analyzed = data.articles.filter(a => a.analyzed === 1);
@@ -293,7 +294,8 @@ function getDashboardData() {
     allTimeStats,
     trend,
     recentArticles,
-    latestReport
+    latestReport,
+    recentReports
   };
 }
 

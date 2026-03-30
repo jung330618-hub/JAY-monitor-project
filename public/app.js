@@ -5,6 +5,7 @@
 const API_BASE = '';
 let allArticles = [];
 let currentFilter = 'all';
+let historyReports = [];
 
 // ===== 初始化 =====
 
@@ -94,6 +95,7 @@ async function loadDashboard() {
   updateTrendChart(data.trend);
   updateDonutChart(data.allTimeStats);
   updateSummary(data.latestReport);
+  updateHistoryReportOptions(data.recentReports);
   updateArticles(data.recentArticles);
 }
 
@@ -347,6 +349,79 @@ function updateSummary(report) {
     </div>
   `;
 }
+
+// ===== 歷史報告 =====
+
+function updateHistoryReportOptions(reports) {
+  historyReports = reports || [];
+  const selectEl = document.getElementById('historySelect');
+  if (!selectEl) return;
+  
+  if (historyReports.length === 0) {
+    selectEl.innerHTML = '<option value="">無歷史資料</option>';
+    return;
+  }
+  
+  let options = '<option value="">請選擇日期...</option>';
+  historyReports.forEach(r => {
+    options += `<option value="${r.report_date}">${r.report_date}</option>`;
+  });
+  selectEl.innerHTML = options;
+  
+  if (historyReports.length > 0) {
+    // 預設選中倒數第二篇（或最新一篇），因為第一篇已經在「最新摘要」顯示了
+    const idx = historyReports.length > 1 ? 1 : 0;
+    selectEl.value = historyReports[idx].report_date;
+    renderHistoryReport();
+  }
+}
+
+window.renderHistoryReport = function() {
+  const selectEl = document.getElementById('historySelect');
+  const summaryEl = document.getElementById('historySummary');
+  if (!selectEl || !summaryEl) return;
+  
+  const date = selectEl.value;
+  const report = historyReports.find(r => r.report_date === date);
+  
+  if (!report) {
+    summaryEl.innerHTML = `
+      <div class="summary-empty">
+        <span class="empty-icon">🕰️</span>
+        <p>請選擇想觀看的報告日期</p>
+      </div>
+    `;
+    return;
+  }
+  
+  // 與 updateSummary 長得非常類似的形式
+  let eventsHtml = '';
+  if (Array.isArray(report.key_events)) {
+    const list = report.key_events.map(e => `<li>${e}</li>`).join('');
+    eventsHtml = `<ul style="margin:8px 0;padding-left:20px;">${list}</ul>`;
+  } else if (typeof report.key_events === 'string' && report.key_events.trim() !== '') {
+    const arr = report.key_events.split('、');
+    const list = arr.map(e => `<li>${e.trim()}</li>`).join('');
+    eventsHtml = `<ul style="margin:8px 0;padding-left:20px;">${list}</ul>`;
+  } else {
+    eventsHtml = '<p style="color:var(--text-3);">無明顯事件</p>';
+  }
+
+  const html = `
+    <div style="font-size: 14px; line-height: 1.6; color: var(--text-0);">
+      <div style="margin-bottom: 12px; font-weight: bold; color: var(--accent);">
+        📅 報表日期：${report.report_date}<br>
+        📊 統整數量：共 ${report.total_articles} 篇（😊${report.positive_count} / 😟${report.negative_count} / 😐${report.neutral_count}）
+      </div>
+      <p style="margin-bottom: 16px;">${report.daily_summary || '無摘要說明'}</p>
+      <div class="events-box" style="background: hsla(0,0%,10%,0.3); padding: 12px; border-radius: var(--radius); border-left: 3px solid var(--accent);">
+        <strong>🔑 重要事件分析：</strong>
+        ${eventsHtml}
+      </div>
+    </div>
+  `;
+  summaryEl.innerHTML = html;
+};
 
 // ===== 更新文章列表 =====
 

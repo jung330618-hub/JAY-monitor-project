@@ -1,16 +1,16 @@
 {
   "todayStats": {
-    "total": 15,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 15
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 330,
-    "positive": 56,
+    "total": 360,
+    "positive": 76,
     "negative": 7,
-    "neutral": 267,
-    "avg_score": 0.57
+    "neutral": 277,
+    "avg_score": 0.59
   },
   "trend": [
     {
@@ -32,10 +32,10 @@
     {
       "date": "2026-03-25",
       "total": 237,
-      "positive": 39,
+      "positive": 59,
       "negative": 3,
-      "neutral": 35,
-      "avg_score": 0.7
+      "neutral": 36,
+      "avg_score": 0.74
     },
     {
       "date": "2026-03-26",
@@ -60,9 +60,143 @@
       "negative": 0,
       "neutral": 15,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-03-30",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 719,
+      "title": "How Did Johnny Blue Skies & the Dark Clouds Debut at No. 3 With Physical-Only ‘Mutiny After Midnight’ Album? - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/johnny-blue-skies-mutiny-after-midnight-five-burning-questions-1236204626/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "But thankfully, fans didn’t have to wait long for more new music from the acclaimed artist; by 2024, he revealed his new moniker as Johnny Blue Skies, releasing the act’s debut album, *Passage du Desir* that same year. Johnny Blue Skies & the Dark Clouds’ *Mutiny After Midnight* debuts at No. 3 on the Billboard 200 with 59,000 equivalent album units earned — all from physical album sales. Johnny Blue Skies & the Dark Clouds moves 59,000 equivalent album units — all from physical album sales – with its** ***Mutiny After Midnight*** **album, the biggest debut frame for the act. *Passage du Desir* debuted at No. 29 on the Billboard 200, and as people have gotten used to the concept and music of Johnny Blue Skies, they’ve decided it’s a journey they want to go on with Simpson.",
+      "published_at": "Tue, 24 Mar 2026 20:39:45 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於Johnny Blue Skies專輯登上告示牌排行榜，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 720,
+      "title": "Father – Song by Kanye West & Travis Scott - HotNewHipHop",
+      "link": "https://www.hotnewhiphop.com/986087-father-kanye-west-travis-scott",
+      "source": "Tavily (www.hotnewhiphop.com)",
+      "snippet": "# Father – Song by Kanye West & Travis Scott. Kanye West and Travis Scott's \"Father\" is one of the big highlights on Ye's recently released \"Bully\" album. Kanye West may have stumbled a little bit in releasing his new album *Bully*, but at least he finally dropped the whole thing on streaming services today (Saturday, March 28). Born and raised in San Juan, Puerto Rico, Gabriel treasures the crossover between his native reggaetón and hip-hop news coverage, such as his review for Bad Bunny’s hometown concert in 2024. Beyond engaging and breaking news coverage, Gabriel makes the most out of his concert obsessions, reviewing and recapping festivals like Rolling Loud Miami and Camp Flog Gnaw. He’s also developed a strong editorial voice through album reviews, think-pieces, and interviews with some of the genre’s brightest upstarts and most enduring obscured gems like Homeboy Sandman, Bktherula, Bas, and Devin Malik. Music   Teyana Taylor Reveals New Album Release Date. * music   Kanye West's \"Bully\" Album Divides The Ye Fanbase After Streaming Release.",
+      "published_at": "Sat, 28 Mar 2026 13:58:54 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Kanye West和Travis Scott的新歌與專輯發行，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 721,
+      "title": "Jack White Pokes At Trump's Pettiest Insecurity As He Disses Dollar Bill Decision - HuffPost",
+      "link": "https://www.huffpost.com/entry/jack-white-trump-small-hands-cash-signature_n_69c99bade4b051d223bdf9dd",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "# Jack White Pokes At Trump's Pettiest Insecurity As He Disses Dollar Bill Decision. The White Stripes frontman described Trump as a “manipulative, loophole finding, egomaniacal, conman” in a lengthy Instagram post on Saturday. Jack White needled Donald Trump after it was announced that the president would be slapping his signature on U.S. banknotes. The White Stripes frontman described Trump as a “manipulative, loophole finding, egomaniacal, conman” in a lengthy Instagram post on Friday. White didn’t let Trump’s enablers off the hook, either. White tried to put the decision to add Trump’s signature to the nation’s currency in context. You deserve it!” White wrote. I think that’s against the law to deface U.S. currency, so I would never suggest that becoming a nationwide campaign,” he wrote, “but is everyone allowed to break the law when they feel like it or just donnie?”. A stalwart Trump critic, White highlighted the president’s hypocrisy in a post about the Iran war earlier this month, writing: “Behold the leader of the ‘Board of Peace.’”.",
+      "published_at": "Mon, 30 Mar 2026 00:55:10 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞與周杰倫無關，主要報導Jack White批評美國前總統川普在美元鈔票上簽名的決定。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 722,
+      "title": "Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42 - Variety",
+      "link": "https://variety.com/2026/tv/news/alex-duong-dead-stand-up-blue-bloods-1236702311/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Alex Duong, Stand-Up Comedian and ‘Blue Bloods’ Actor, Dies at 42. Alex Duong, a stand-up comedian and TV actor who appeared on the CBS drama “Blue Bloods,” died on Sunday in a Los Angeles hospital. Your continued support now means everything as Christina and Everest navigate the days ahead and to arrange a beautiful celebration of his life.”. Along with “Blue Bloods,” Duong’s other TV credits include “Everybody Hates Chris,” “Mad TV,” “Dexter,” “Interns Anonymous,” “Death Valley” and “The Young and the Restless.” On the film side, Duong appeared in “Formosa Betrayed,” “Ghetto Physics,” “The Beyond” and “Sideways for Attention.”. Last August, the Largo in Los Angeles hosted “The Alex Duong Has Cancer In His Eye Comedy Benefit Show,” which featured comedians like Ronny Chieng, Andrea Jin and Atusko Okatsuka. “Comedians always have each other’s backs when times are shit,” Duong told the LA Times in a 2025 profile.",
+      "published_at": "Sun, 29 Mar 2026 23:11:19 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國演員兼喜劇演員Alex Duong逝世，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 723,
+      "title": "‘No Kings’ protests around the country - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/630169",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Home  › ABC       30.03.2026. # ‘No Kings’ protests around the country. Across the country, millions of people attend “No Kings” protests, calling out President Donald Trump and his administration's policies, including Bruce Springsteen. ---- Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Mon, 30 Mar 2026 01:20:00 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國的政治抗議活動，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 724,
+      "title": "2026 Ty Scott Full Game Log - FOX Sports",
+      "link": "https://www.foxsports.com/ufl/ty-scott-player-game-log?season=2026&category=standard",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "Access and manage your favorites here. # TY SCOTT 2026 GAME LOG. ## TY SCOTT. ## FULL GAME LOG. | GAME | GS | TGT | REC | RECYDS | YAC | RECTD | LNG | RATT | RYDS | RAVG | RTD | LNG |. | 3/28 | @STL L | - | 7 | 2 | 35 | - | 0 | 30 | - | - | - | - | - |. NFL College Football INDYCAR MLB College Basketball NASCAR. The Herd with Colin Cowherd First Things First The Joel Klatt Show Kevin Harvick's Happy Hour Bear Bets. FIFA World Cup 2026™ Best Betting Apps & Sites Best Sportsbook Promos Missouri Sports Betting. FOX SPORTS™, SPEED™, SPEED.COM™ & © 2026 Fox Media LLC and Fox Sports Interactive Media, LLC. Use of this website (including any and all parts and components) constitutes your acceptance of these Terms of Use and Privacy Policy | Advertising Choices | Your Privacy Choices | Closed Captioning. FS1FOXFOX NewsFox CorporationFOX Sports SupportsFOX Deportes.",
+      "published_at": "Mon, 30 Mar 2026 00:50:02 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要內容為FOX Sports關於運動員Ty Scott的賽事紀錄。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 725,
+      "title": "Kofi Kingston accepts Penta’s Intercontinental title open challenge - cagesideseats.com",
+      "link": "https://www.cagesideseats.com/wwe/429373/kofi-kingston-accepts-penta-intercontinental-title-open-challenge-wwe-raw-the-garden",
+      "source": "Tavily (www.cagesideseats.com)",
+      "snippet": "# Kofi Kingston accepts Penta’s Intercontinental title open challenge. While Penta is busy in AAA setting up a match against Vikingo for the Intercontinental championship on April 11, we now know it’s at least possible he won’t even be Intercontinental champion by that time. That’s because he issued an open challenge for that very title on this week’s episode of *Monday Night Raw* at Madison Square Garden in New York, adding to an already stacked card loaded with the biggest stars WWE has to offer. WWE has not officially announced that this will indeed be the match but the official account retweeted Kingston’s above tweet, indicating it’s likely to take place. * **Intercontinental championship**: Penta (c) vs. Penta accepts risky IC title challenge in AAA on road to WrestleMania. WWE decided the best way to get Sami Zayn on the card at WrestleMania 42 was to give him Carmelo Hayes’ championship. Top WWE stars are aging out, says Becky Lynch.",
+      "published_at": "Sun, 29 Mar 2026 23:00:00 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導WWE摔角賽事，關於Kofi Kingston接受Penta的洲際冠軍公開挑戰。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 726,
+      "title": "DAL at PHI | Recap - NHL.com",
+      "link": "https://www.nhl.com/video/topic/highlights/dal-at-phi-recap-6392104198112",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "### CHI at NJD | Recap. ### CHI@NJD: Hughes scores empty-net goal. CHI@NJD: Hughes scores empty-net goal. CHI@NJD: Hughes goes short side in 3rd period. CHI@NJD: Hamilton finishes Hughes' dish in 3rd period. CHI@NJD: Nazar scores PPG for his second tally of game. ### CHI@NJD: Nemec scores goal against Spencer Knight. CHI@NJD: Nemec scores goal against Spencer Knight. DAL@PHI: Konecny draws the puck around the net and tucks PPG inside the far post. BOS@CBJ: Zacha scores his second PPG of 3rd period. CHI@NJD: Donato sets up Nazar in opening period. CHI@NJD: Brown scores PPG for his 15th tally of season. BOS@CBJ: Zacha scores PPG to record milestone point. BOS@CBJ: McAvoy trims Bruins' deficit in 3rd period. NSH@TBL: Forsberg scores tip-in goal in 3rd period. CHI@NJD: Mikheyev nets his 15th goal of season. NSH@TBL: Perry scores his 15th goal of season. NSH@TBL: Hagel scores his 35th goal of the season. ### MTL@CAR: Suzuki scores PPG against Frederik Andersen. MTL@CAR: Suzuki scores PPG against Frederik Andersen.",
+      "published_at": "Mon, 30 Mar 2026 01:57:16 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞內容是關於NHL冰球比賽的戰況摘要，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 727,
+      "title": "CHI at NJD | Recap - NHL.com",
+      "link": "https://www.nhl.com/video/topic/game-recaps/chi-at-njd-recap-6392103284112",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "# CHI at NJD | Recap. ## Game Recaps. ### CHI at NJD | Recap. ### BOS at CBJ | Recap. ### NSH at TBL | Recap. ### MTL at CAR | Recap. ### FLA at NYR | Recap. ### WSH at VGK | Recap. ### VAN at CGY | Recap. ### UTA at LAK | Recap. ### PHI at DET | Recap. ### MTL at NSH | Recap. ### WPG at COL | Recap. ### TOR at STL | Recap. ### SEA at BUF | Recap. ### MIN at BOS | Recap. ### SJS at CBJ | Recap. ### NJD at CAR | Recap. ### ANA at EDM | Recap. ### CHI at NYR | Recap. ### DET at BUF | Recap. ### EDM at VGK | Recap. ### LAK at VAN | Recap. ### WSH at UTA | Recap. ### ANA at CGY | Recap. ### SJS at STL | Recap. ### COL at WPG | Recap.",
+      "published_at": "Mon, 30 Mar 2026 01:47:33 GMT",
+      "collected_at": "2026-03-30 02:12:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容為北美冰球聯盟（NHL）的賽事回顧，與周杰倫無任何相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 704,
       "title": "DADDY'S HOME, HOME FOR ME 🫦 BTS members served handsome visuals in the photos Netflix Korea shared on Sunday. RM, Jin, SUGA, J-hope, Jimin, V, and Jungkook held their comeback concert at Gwanghwamun Square in Seoul, South Korea on Satu - Facebook",
@@ -356,147 +490,116 @@
       "summary": "此新聞資訊主要關於Aerosmith專輯的重新發行，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 700,
-      "title": "Kehlani announces her self-titled album rooted in identity and growth - Q News Pty Ltd",
-      "link": "https://qnews.com.au/kehlani-announces-her-self-titled-album-rooted-in-identity-and-growth/",
-      "source": "Tavily (qnews.com.au)",
-      "snippet": "# Kehlani announces her self-titled album rooted in identity and growth. **The Grammy Award winning Kehlani has officially announced her next chapter, revealing that her highly anticipated self-titled album *Kehlani* will drop on April 24.**. For an artist known for emotional honesty and genre-blurring sound, a self-titled album signals something bigger. As an openly lesbian artist, Kehlani has long been celebrated for bringing queer experiences into mainstream music without compromise. Her blend of artistry, visibility and authenticity has made Kehlani a powerful voice both within and beyond the queer community. At the upcoming *Billboard Women in Music* award night, Kehlani will receive the *Impact Award.* An honour to recognise her artistry, advocacy, and influence on culture and community. If early details are anything to go by, the album *Kehlani* will capture the artist at her most self-assured and creatively free. Self-titled albums often mark a turning point. To pre-save or pre-order the album, including signed copies, head to kehlani.lnk.to/album. > A post shared by Kehlani (@kehlani).",
-      "published_at": "Sat, 21 Mar 2026 23:35:48 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導歌手Kehlani宣布發行新專輯並將獲得獎項。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 701,
-      "title": "Jay-Z Explains Why He Refused to Settle That Sexual Assault Lawsuit: ‘It Ain’t in My DNA’ - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/jay-z-explains-why-refused-143653795.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "Jay said he “needed the people around me more than ever” to overcome the anger he felt, especially because it didn’t feel right to channel those emotions to the place he usually would: music. “I’m not sure with the amount of negativity in the world that people needed me to add to that with my feelings — because it would have been harsh, and it would have been harsh on everybody,” he said. “I know what she’s trying to accomplish and anything that I can contribute — I mean, that’s my family, first of all — I thought it was super important,” he said. While Jay said he was ready to play “all offense” in 2026 after a couple of years on defense, it’s unclear whether that’ll include new music. I don’t know what *I* need to create currently that’s going to fulfill me and make me happy because that’s most important,” he said.",
-      "published_at": "Tue, 24 Mar 2026 14:36:53 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於美國藝人Jay-Z拒絕性侵訴訟和其音樂創作心境，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 702,
-      "title": "BTS’s Comeback Show Was Heavy on Their New Album - The New York Times",
-      "link": "https://www.nytimes.com/live/2026/03/21/world/bts-netflix-concert-arirang",
-      "source": "Tavily (www.nytimes.com)",
-      "snippet": "Delivering the K-pop boy band BTS’s comeback concert on Saturday from downtown Seoul to Netflix’s 325 million subscribers and the band’s global fan base. Instead of starting in New York with an appearance on NBC’s “Today” show and a performance in Grand Central Terminal for the “Tonight Show,” as BTS did in 2020, the band is starting with a free comeback concert on Saturday in the historic center of Seoul that’s being livestreamed on Netflix. So the fact that they chose to wear looks by the Korean brand Songzio for their comeback concert was, like their choice of venue (Seoul’s historic Gwanghwamun Square) and the name of their album (“Arirang,” a 130-year-old Korean folk song), a statement as much about the place of Korean culture and identity on the global stage as about style. Such is the gravitational pull that BTS exerts in its home country, where the group — a symbol of South Korea’s cultural export power — is ending its nearly four-year hiatus with a highly anticipated concert at Gwanghwamun Square in Seoul on Saturday.",
-      "published_at": "Sat, 21 Mar 2026 09:14:42 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於韓國團體BTS的復出演唱會及其對韓國文化的推廣，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 703,
-      "title": "Bob Sinclar & Kiesza’s Modern Spin on ‘80s Hit ‘I Can’t Wait!’ Makes Billboard Canada Airplay Chart Debut - Billboard Canada",
-      "link": "https://ca.billboard.com/music/chart-beat/bob-sinclar-kieza-billboard-canada-charts",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "The French producer and the Canadian pop singer’s collaboration “I Can’t Wait!” debuts this week at No. 30 on the Billboard Canada Adult Contemporary (AC) Airplay chart, dated March 21. The Ontario Premier has announced that the provincial government plans to ban ticket resale transactions at prices exceeding face value, making it illegal for tickets to concerts, cultural, sports and other live events to be resold for more than their original cost. “With these new measures, consumers would no longer need to worry about being ripped off in the ticket resale market, and more families and fans would have the opportunity to see their favourite band or sports team perform live,” says Stephen Crawford, minister of public and business service delivery and procurement, in a statement. The news comes at the same time that on the other side of the country, Consumer Protection B.C. has reached a deal with StubHub Canada, following claims that ticket buyers for Taylor Swift's final Eras Tour shows in Vancouver were sold undisclosed “obstructed view” seats.",
-      "published_at": "Fri, 20 Mar 2026 15:17:15 GMT",
-      "collected_at": "2026-03-27 01:15:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導加拿大音樂榜單、安大略省的票務轉售禁令以及泰勒絲演唱會的票務爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 676,
-      "title": "Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May - CBS News",
-      "link": "https://www.cbsnews.com/boston/video/grammy-nominated-rapper-jeezy-announces-10-day-las-vegas-residency-this-may/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "# Grammy-nominated rapper Jeezy announces 10-day Las Vegas residency this May. Jeezy spoke with WBZ-TV's Breana Pitts about what fans can expect.",
-      "published_at": "Fri, 20 Mar 2026 14:02:00 GMT",
-      "collected_at": "2026-03-26 06:02:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國饒舌歌手Jeezy將在拉斯維加斯舉辦為期十天的駐場演出，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 677,
-      "title": "Jeff Klein Isn’t Selling San Vicente Bungalows — Unless It’s “F*** You” Money - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/news/local-news/jeff-klein-san-vicente-bungalows-growth-1236541819/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "Is Jeff Klein looking to open a San Vicente Bungalow in Palm Springs? That was the question left open by *The Wall Street Journal*’s March 19 bombshell scoop — that Klein, 54, was working with Goldman Sachs and real-estate firm JLL to find a new investment partner for his high-end hospitality empire, long a magnet for A-list celebs and industry climbers, ostensibly as part of an expansion plan. Notably, though, the *Journal* also reported that Klein would “consider selling a majority or even all of the businesses,” including his West Hollywood and New York properties. Rambling Reporter gave Klein a call to clear up the confusion and learned that it’s definitely the former — unless, of course, the money ends up being stupid enough for it to be the latter. We are open to the right partner to help us grow, but not to compromise what makes it special,” says Klein, who these days is something of a Hollywood royal himself — as is his husband of nearly 15 years, John Goldwyn, grandson of Samuel.",
-      "published_at": "Fri, 20 Mar 2026 01:41:36 GMT",
-      "collected_at": "2026-03-26 06:02:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導Jeff Klein的San Vicente Bungalows酒店業務尋求投資夥伴或考慮出售，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 678,
-      "title": "Jim Marshall, “Godfather Of Rock ‘N’ Roll Photography”, Subject Of Movie Biopic - deadline.com",
-      "link": "https://deadline.com/2026/03/jim-marshall-rock-n-roll-photographer-movie-biopic-1236761325/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "## Follow Us:. ## site categories. ### Quiver Acquires US   New Round Of Layoffs Hits 6% Of CBS News Workforce. ## Read More About:. Get our Breaking News Alerts and Keep your inbox happy. ## No Comments. ### Submit a comment. ## Site.",
-      "published_at": "Fri, 20 Mar 2026 15:06:23 GMT",
-      "collected_at": "2026-03-26 06:02:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了搖滾攝影師Jim Marshall的傳記電影計畫，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 679,
-      "title": "Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’ - The Guardian",
-      "link": "https://www.theguardian.com/music/2026/mar/24/jay-z-sexual-assault-lawsuit-interview",
-      "source": "Tavily (www.theguardian.com)",
-      "snippet": "# Jay-Z on refusing to settle sexual assault lawsuit: ‘I can’t do it, I would die’. Jay-Z has spoken out about his recent sexual assault lawsuit in a new interview. The suit alleged that Jay-Z and Sean “Diddy” Combs raped a a 13-year-old girl at a party in 2000. Combs and Jay-Z denied all allegations after the lawsuit was filed in late 2024, and the case was voluntarily dismissed in February 2025. “It was hard,” Jay-Z told GQ. Not even a: ‘I got to go to the board with this.’ It was like a testament because people know me.”. The lawsuit claimed that an unnamed girl was drugged and raped by both Jay-Z and Combs at a party after the MTV music awards in 2000. Jay-Z blasted the assault allegations when they first emerged in late 2024, calling them a “blackmail attempt”. “I don’t know if it’s helpful to our growth where the fallout lands, especially on social media,” the musician added.",
-      "published_at": "Tue, 24 Mar 2026 15:01:35 GMT",
-      "collected_at": "2026-03-26 06:02:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，內容主要關於Jay-Z的性侵訴訟。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 680,
-      "title": "Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’ - Page Six",
-      "link": "https://pagesix.com/2026/03/24/celebrity-news/jay-z-finally-addresses-sexual-misconduct-allegations-lawsuit/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "# Jay-Z finally addresses sexual misconduct allegations, lawsuit: ‘That s–t took a lot out of me’. Jay-Z was left “heartbroken” over the sexual misconduct lawsuit filed against him by an anonymous accuser at the end of 2024. I was heartbroken,” Jay-Z, 56, began. After emphasizing that he took the allegations against him “really hard,” Jay-Z once again denied the accusations and insisted they were “not true.”. Jay-Z (pictured here on the April cover of GQ) was left \"heartbroken\" over the sexual misconduct lawsuit filed against him at the end of 2024. Jay-Z finally opened up about the sexual assault allegations and since-dismissed civil lawsuit during a cover interview with GQ published Tuesday. Jay-Z (seen here in Los Angeles in January 2024) called the lawsuit \"blackmail\" and described the accusations against him as \"heinous in nature.\" Getty Images. Jay-Z's anonymous accuser voluntarily withdrew her lawsuit against the rapper (pictured here at the Super Bowl in February 2026) in February 2025.",
-      "published_at": "Tue, 24 Mar 2026 14:35:09 GMT",
-      "collected_at": "2026-03-26 06:02:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於饒舌歌手Jay-Z回應性騷擾指控與訴訟，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 6,
-    "report_date": "2026-03-28",
-    "total_articles": 15,
+    "id": 7,
+    "report_date": "2026-03-30",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 15,
-    "daily_summary": "周杰倫近日話題豐富，睽違四年將推新專輯，預告收錄求婚影片，並鬆口巡演最終站可能回台灣。他揭露當年向昆凌求婚的「假古堡」內幕，新歌MV斥資上億引發熱議。此外，他曾設計連川普都擁有的手錶，早期寫歌「罵方文山」也成經典。",
+    "neutral_count": 9,
+    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
     "key_events": [
-      "睽違四年將推新專輯",
-      "揭露求婚假古堡內幕",
-      "巡演最終站可能回台"
+      "無周杰倫新聞",
+      "無周杰倫焦點",
+      "無周杰倫動態"
     ],
-    "created_at": "2026-03-28 05:37:33"
-  }
+    "created_at": "2026-03-30 02:14:50"
+  },
+  "recentReports": [
+    {
+      "id": 7,
+      "report_date": "2026-03-30",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人如Justin Timberlake、Jay-Z、BTS等，涵蓋新專輯發行、演唱會、法律事件及個人生活動態等不同面向。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無周杰倫焦點",
+        "無周杰倫動態"
+      ],
+      "created_at": "2026-03-30 02:14:50"
+    },
+    {
+      "id": 6,
+      "report_date": "2026-03-28",
+      "total_articles": 15,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 15,
+      "daily_summary": "周杰倫近日話題豐富，睽違四年將推新專輯，預告收錄求婚影片，並鬆口巡演最終站可能回台灣。他揭露當年向昆凌求婚的「假古堡」內幕，新歌MV斥資上億引發熱議。此外，他曾設計連川普都擁有的手錶，早期寫歌「罵方文山」也成經典。",
+      "key_events": [
+        "睽違四年將推新專輯",
+        "揭露求婚假古堡內幕",
+        "巡演最終站可能回台"
+      ],
+      "created_at": "2026-03-28 05:37:33"
+    },
+    {
+      "id": 5,
+      "report_date": "2026-03-27",
+      "total_articles": 10,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 10,
+      "daily_summary": "周杰倫今日焦點圍繞新專輯《太陽之子》發行。主打歌MV斥資上億由《阿凡達》團隊打造，專輯中更收錄為小女兒Jacinda創作的《女兒殿下》，並預告將曝光他向昆凌求婚的浪漫影片。他還透露了求婚時的核彈級內幕，以及曾兩度恐慌症發作的經歷。此外，周董也鬆口未來巡演最終站可能回到台灣。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "斥資上億MV與女兒歌",
+        "透露求婚內幕與恐慌症"
+      ],
+      "created_at": "2026-03-27 01:16:54"
+    },
+    {
+      "id": 4,
+      "report_date": "2026-03-26",
+      "total_articles": 18,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 18,
+      "daily_summary": "周杰倫睽違四年推出新專輯《太陽之子》，首波主打MV斥資上億元，由《阿凡達》團隊打造，並藏有30幅名畫彩蛋。專輯中為小女兒創作〈女兒殿下〉，更預告將公開與昆凌的求婚影片。他還分享曾兩度恐慌症發作，並透露巡演最終站可能回台灣。",
+      "key_events": [
+        "發行新專輯《太陽之子》",
+        "億元MV藏名畫彩蛋",
+        "將公開昆凌求婚片"
+      ],
+      "created_at": "2026-03-26 06:04:33"
+    },
+    {
+      "id": 3,
+      "report_date": "2026-03-25",
+      "total_articles": 237,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 30,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫寫這首歌罵方文山！意外變曠世巨作　一紅就是20年 - 三立娛樂星聞、斥資一億打造MV！周杰倫深夜急做民調 春風不忍了：整張都蠻扯 - Yahoo新聞、周杰倫深V裝配Dior幸運項鍊帥翻 上億畢卡索名畫也搶鏡 - ETtoday新聞雲",
+      "created_at": "2026-03-25 05:42:10"
+    },
+    {
+      "id": 2,
+      "report_date": "2026-03-23",
+      "total_articles": 28,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 28,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Anson Lo on Mirror, Acting Ambitions and Hong Kong Pop's Rise - Variety、Chinese Auteur Jia Zhangke Wraps Short Film in Italy, Talks AI at Asian Film Awards Masterclass - Variety、Jackie Chan, Leo Zhang Team for Action Comedy ‘Pawfect Agents,’ Cappu Films Handling Sales (EXCLUSIVE) - Variety",
+      "created_at": "2026-03-23 06:57:11"
+    },
+    {
+      "id": 1,
+      "report_date": "2026-03-18",
+      "total_articles": 410,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 27,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫新專輯誕生！《太陽之子》3/24電影院MV全球首映 - rti.org.tw, 影音／周杰倫「愛妻視角」叫老婆去抱樹！ 昆凌傻眼吐舌：不可能 - TVBS新聞網, 周杰倫新專輯來了！驚喜釋出預告致敬克林姆，Coming Soon 吊人胃口！ - GQ Taiwan",
+      "created_at": "2026-03-18 06:55:49"
+    }
+  ]
 }

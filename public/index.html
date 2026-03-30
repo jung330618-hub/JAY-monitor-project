@@ -294,6 +294,23 @@
           </div>
         </div>
       </div>
+      <!-- 歷史報告 -->
+      <div class="chart-card">
+        <div class="card-header" style="justify-content: space-between;">
+          <h3><span class="card-icon">🕰️</span> 歷史報告</h3>
+          <select id="historySelect" onchange="renderHistoryReport()" style="background: var(--bg-0); color: var(--text-0); border: 1px solid var(--border); border-radius: 4px; padding: 4px 8px; font-size: 13px; outline: none;">
+            <option value="">載入中...</option>
+          </select>
+        </div>
+        <div class="card-body">
+          <div class="summary-content" id="historySummary">
+            <div class="summary-empty">
+              <span class="empty-icon">🕰️</span>
+              <p>請選擇想觀看的報告日期</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- 文章列表 -->
