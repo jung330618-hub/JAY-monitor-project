@@ -324,8 +324,19 @@ function updateSummary(report) {
   const eventTags = events.map(e => `<span class="event-tag">${e}</span>`).join('');
 
   el.innerHTML = `
-    <div class="summary-date">📅 ${report.report_date}</div>
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+      <div class="summary-date" style="margin-bottom: 0;">📅 ${report.report_date}</div>
+    </div>
+    
+    <div class="summary-today-stats" style="display: flex; gap: 16px; margin-bottom: 16px; font-size: 13px; color: var(--text-1); background: hsla(215, 20%, 7%, 0.8); padding: 12px 16px; border-radius: 8px; border: 1px solid var(--border);">
+      <div>📊 總計: <strong style="color:var(--text-0)">${report.total_articles || 0} 篇</strong></div>
+      <div style="color:hsl(145, 65%, 48%)">✅ 正面: <strong>${report.positive_count || 0}</strong></div>
+      <div style="color:hsl(0, 72%, 55%)">❌ 負面: <strong>${report.negative_count || 0}</strong></div>
+      <div style="color:hsl(210, 20%, 55%)">⚪ 中性: <strong>${report.neutral_count || 0}</strong></div>
+    </div>
+
     <div class="summary-text">${report.daily_summary || '無摘要'}</div>
+    
     <div class="summary-events">
       <h4>🔑 重要事件</h4>
       ${eventTags || '<span class="event-tag">無特別事件</span>'}
