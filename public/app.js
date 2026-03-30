@@ -326,7 +326,11 @@ function updateSummary(report) {
     return;
   }
 
-  const events = (report.key_events || '').split(',').map(e => e.trim()).filter(Boolean);
+  let rawEvents = report.key_events || [];
+  if (typeof rawEvents === 'string') {
+    rawEvents = rawEvents.split('、'); 
+  }
+  const events = Array.isArray(rawEvents) ? rawEvents.map(e => String(e).trim()).filter(Boolean) : [];
   const eventTags = events.map(e => `<span class="event-tag">${e}</span>`).join('');
 
   el.innerHTML = `
