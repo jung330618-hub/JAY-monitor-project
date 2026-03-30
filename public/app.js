@@ -74,13 +74,17 @@ async function loadDashboard() {
       data = json.data;
     }
   } catch (err) {
-    // 本機 API 失敗：改讀靜態 JSON（GitHub Pages 模式）
-    try {
-      const res2 = await fetch('../data/dashboard.json');
-      data = await res2.json();
-    } catch (err2) {
-      console.error('無法讀取任何資料來源');
-      return;
+    // 本機 API 失敗：改讀靜態檔案（GitHub Pages / 本機直接開啟模式）
+    if (window.STATIC_DASHBOARD_DATA) {
+      data = window.STATIC_DASHBOARD_DATA;
+    } else {
+      try {
+        const res2 = await fetch('../data/dashboard.json');
+        data = await res2.json();
+      } catch (err2) {
+        console.error('無法讀取任何資料來源');
+        return;
+      }
     }
   }
 
@@ -349,6 +353,30 @@ function updateSummary(report) {
 function updateArticles(articles) {
   allArticles = articles || [];
   renderArticles();
+  renderRawLinks();
+}
+
+function renderRawLinks() {
+  const footer = document.querySelector('.footer');
+  if (!footer || !allArticles || allArticles.length === 0) return;
+  
+  // 避免重複渲染
+  if (document.getElementById('rawLinksContainer')) return;
+
+  let linksHtml = '<div id="rawLinksContainer" style="margin-top:24px;text-align:left;padding-top:20px;border-top:1px solid hsla(42,30%,70%,0.2);">';
+  linksHtml += '<h4 style="color:var(--accent);margin-bottom:12px;font-size:16px;">🔗 今日所有蒐集到的資料連結：</h4>';
+  linksHtml += '<ul style="list-style:none;padding:0;margin:0;">';
+  
+  allArticles.forEach(a => {
+    linksHtml += `<li style="margin-bottom: 8px;">
+      <a href="${a.link}" target="_blank" rel="noopener noreferrer" style="color:var(--text-1);text-decoration:none;font-size:14px;transition:0.2s;">
+        <span style="color:var(--accent);margin-right:4px;">▸</span> ${a.title}
+      </a>
+    </li>`;
+  });
+  
+  linksHtml += '</ul></div>';
+  footer.innerHTML += linksHtml;
 }
 
 function renderArticles() {

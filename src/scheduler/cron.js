@@ -94,7 +94,8 @@ async function runFullPipeline() {
     const path = require('path');
     const staticData = db.getDashboardData();
     fs.writeFileSync(path.join(process.cwd(), 'data', 'dashboard.json'), JSON.stringify(staticData, null, 2), 'utf-8');
-    console.log('✅ GitHub Pages 靜態資料結構已更新 (dashboard.json)');
+    fs.writeFileSync(path.join(process.cwd(), 'data', 'dashboard-data.js'), 'window.STATIC_DASHBOARD_DATA = ' + JSON.stringify(staticData, null, 2) + ';', 'utf-8');
+    console.log('✅ GitHub Pages 靜態資料結構已更新 (dashboard.json / dashboard-data.js)');
 
     // ④ 通知
     console.log('\n📨 步驟 4/4: 發送通知...');
