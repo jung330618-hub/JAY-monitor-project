@@ -8240,11 +8240,11 @@
       "snippet": "吳宗憲演唱會嘉賓點名周杰倫! 自信「機率9成以上」 鬆口邀約可能  MSN",
       "published_at": "2026-02-05T10:07:40.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "吳宗憲公開表示將邀請周杰倫擔任演唱會嘉賓，並對其出席抱持高度信心。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 590,
@@ -8254,11 +8254,11 @@
       "snippet": "周杰倫演唱會香港場爆「假冒身分詐騙」 主辦怒報警緊急聲明曝  MSN",
       "published_at": "2025-10-08T11:03:50.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫香港演唱會爆發假冒身分詐騙事件，主辦單位已報警並發布緊急聲明。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 591,
@@ -8268,11 +8268,11 @@
       "snippet": "周杰倫6年巡演上海謝幕 無預警宣布「全新演唱會」官方證實：明年登場  Yahoo新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫結束長達六年的巡迴演唱會後，無預警宣布將於明年舉辦全新演唱會，此消息已獲官方證實。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 592,
@@ -8282,11 +8282,11 @@
       "snippet": "周杰倫上海開唱3天湧入18萬人！明年將啟動各城市專屬全新演唱會  NOWnews今日新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在上海的演唱會成功吸引18萬人次，並預告明年將啟動各城市專屬的全新演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 593,
@@ -8296,11 +8296,11 @@
       "snippet": "粥餅倫買「周杰倫演唱會」竟被詐騙！新台幣 1.7 萬元慘飛了難過發聲  COOL-STYLE 潮流生活網",
       "published_at": "2025-11-07T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "模仿周杰倫的網紅「粥餅倫」因購買周杰倫演唱會門票而遭到詐騙，損失新台幣1.7萬元。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 594,
@@ -8310,11 +8310,11 @@
       "snippet": "陸女看周杰倫演唱會搞丟「47萬手鐲」！上網求助結局超暖心  Yahoo新聞",
       "published_at": "2025-10-02T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "一名陸女在周杰倫演唱會上遺失價值47萬的手鐲，經上網求助後獲得暖心結局。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 595,
@@ -8324,11 +8324,11 @@
       "snippet": "周杰倫才宣布新巡演！突認了「恐慌症發作」：我無法控制的情況  NOWnews今日新聞",
       "published_at": "2025-10-13T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫在宣布新巡演後，坦承自己曾恐慌症發作，並表示這是他無法控制的情況。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 596,
@@ -8338,11 +8338,11 @@
       "snippet": "吳宗憲鬆口台北演唱會嘉賓 「邀周杰倫來機率九成」  Yahoo新聞",
       "published_at": "2026-02-04T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "吳宗憲鬆口表示周杰倫有九成機率擔任其台北演唱會嘉賓，引發外界高度期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 597,
@@ -8352,11 +8352,11 @@
       "snippet": "周杰倫好忙！唱完演唱會後可望推出新專輯　慶祝出道25週年  鏡週刊Mirror Media",
       "published_at": "2025-10-01T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在完成演唱會後，有望為慶祝出道25週年推出新專輯。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 598,
@@ -8366,11 +8366,11 @@
       "snippet": "蔡依林大巨蛋演唱會來了！跨年連唱三天 票價、搶票時間出爐  台視新聞網",
       "published_at": "2025-10-31T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導蔡依林將在大巨蛋舉辦跨年演唱會，並公布了票價與搶票時間，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 599,
@@ -8380,11 +8380,11 @@
       "snippet": "一床難求的長照煉獄！床位比周杰倫演唱會還搶手，你的未來能安心變老嗎？  康健雜誌",
       "published_at": "2025-10-04T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "康健雜誌報導指出，台灣長照床位比周杰倫演唱會門票更難搶，藉此凸顯長照系統的嚴峻挑戰。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 600,
@@ -8394,11 +8394,11 @@
       "snippet": "周杰倫演唱會門票1分鐘售罄！「周同學」IP轉動上海  梅花新聞網",
       "published_at": "2025-09-20T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會門票在上海一分鐘內售罄，再次證明其強大號召力與IP影響力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 601,
@@ -8408,11 +8408,11 @@
       "snippet": "情侶檔誆稱有周杰倫演唱會票72人遭詐近615萬元| 社會  中央社 CNA",
       "published_at": "2025-08-26T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "一對情侶謊稱持有周杰倫演唱會門票，詐騙72名受害者近615萬元。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 602,
@@ -8422,11 +8422,11 @@
       "snippet": "一唱就是6年！周杰倫「嘉年華」巡演走入最終站 場次資料曝光  Yahoo新聞",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫「嘉年華」巡迴演唱會即將進入最終站，相關場次資料已曝光，顯示其巡演的成功與持續性。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 603,
@@ -8436,11 +8436,11 @@
       "snippet": "周杰倫演唱會「賣水哥」爆紅！埋伏10小時溜進場「1瓶僅賣5元」 網笑：五月天場也看過  鏡新聞",
       "published_at": "2025-09-22T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫演唱會上出現一位以低價賣水而爆紅的「賣水哥」，引發網友熱議與趣談。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 604,
@@ -8450,11 +8450,11 @@
       "snippet": "謊稱有周杰倫演唱會門票男用「無卡提款」詐網友4萬遭判刑- 社會  中時新聞網",
       "published_at": "2025-08-27T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "一名男子因謊稱持有周杰倫演唱會門票，利用無卡提款詐騙網友四萬元而遭判刑。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 605,
@@ -10709,6 +10709,202 @@
       "summary": "此新聞報導了美國歌手Charlie Puth發行新專輯《Whatever’s Clever!》的資訊，內容與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 766,
+      "title": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - The Conversation",
+      "link": "https://theconversation.com/why-michael-jacksons-daughter-paris-wont-stop-til-she-gets-enough-from-his-estate-279510",
+      "source": "Tavily (theconversation.com)",
+      "snippet": "She is asking a court to take a closer look at how the pop icon’s estate is being handled by its executors – the people responsible for managing it. Paris Jackson has accused executors John Branca and John McClain of paying themselves and the estate’s lawyers too much, and for leaving $464 million owned by the estate uninvested. Paris Jackson has also stated that the $150 million film is a “botched production.” The executors have responded by arguing that the application of their expertise to other productions about the singer has already provided a huge payoff to the estate. The executors also recently won a court battle against Paris Jackson that ended with a judge ordering her to pay their attorney’s fees in a related dispute. Like other executors in this situation, the men handling Jackson’s estate have hired lawyers, accountants and other professionals to assist them. In this case, Paris Jackson is complaining that the compensation paid to executors of her father’s estate has been excessive.",
+      "published_at": "Wed, 01 Apr 2026 12:48:16 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於麥可傑克森女兒對其遺產處理方式的爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 767,
+      "title": "MGK Celebrates Daughter Saga Blade's First Birthday with Never-Before-Seen Photos from the Last Year - Yahoo News New Zealand",
+      "link": "https://nz.news.yahoo.com/mgk-celebrates-daughter-saga-blades-202602210.html",
+      "source": "Tavily (nz.news.yahoo.com)",
+      "snippet": "# MGK Celebrates Daughter Saga Blade's First Birthday with Never-Before-Seen Photos from the Last Year. * MGK shared a heartfelt Instagram tribute for his daughter Saga Blade's first birthday with photos and videos from the past year. * Saga is MGK's second daughter and his first child with ex-fiancée Megan Fox. The rapper and girl dad, 35, is marking his daughter Saga Blade's first birthday with a special tribute to her on Instagram. The post featured a compilation of photos and videos of him and his little girl, whom he welcomed with ex Megan Fox last March. \"1 🧁❤️‍🔥,\" the doting dad simply captioned his post for his baby girl, which also included sweet snaps with his older daughter, Casie, 16, whom he shares with his ex Emma Cannon. MGK first announced the exciting news that he welcomed his second daughter, his first with Fox, on his Instagram. MGK, whose real name is Colson Baker, started off the video showing off some special time with his daughter Saga,.",
+      "published_at": "Wed, 01 Apr 2026 20:26:02 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國藝人MGK慶祝女兒生日，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 768,
+      "title": "Kanye West Surpasses J. Cole Thanks To “BULLY” Streaming Success - hotnewhiphop.com",
+      "link": "https://www.hotnewhiphop.com/986566-kanye-west-j-cole-streaming",
+      "source": "Tavily (www.hotnewhiphop.com)",
+      "snippet": "# Kanye West Surpasses J. Jul 26, 2015; Toronto, Ontario, CAN; Recording artist Kanye West performs during the closing ceremony for the 2015 Pan Am Games at Pan Am Ceremonies Venue. Over the weekend, Kanye West dropped his long-awaited twelfth studio album, earning mixed reactions from listeners. Over the weekend, Kanye West dropped his long-awaited twelfth studio album, *BULLY.* While the project has earned mixed reviews from listeners, it was quick to become a commercial success. ## Kanye West Wireless Festival. Kanye West and his 100-member Sunday Service Choir performed along with West's pastor, Adam Tyson. Music   Kanye West Finally Settles “Vultures 1” Sample Dispute. Music   Kanye West Makes Bizarre Comparison Between Nazism And Bisexuality. Numbers   Kanye West's \"Bully\" Receives Astronomical First Week Sales Projections. Music   Kanye West Suffers Major Loss Amid Legal Battle Over $57 Million Mansion. * music   Kanye West's \"Bully\" Gets Completely Ripped Apart By Pitchfork, And Fans Can't Stop Coping.",
+      "published_at": "Tue, 31 Mar 2026 16:55:53 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導肯伊威斯特新專輯《BULLY》的商業成功與評價，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 769,
+      "title": "Howie Mandel doubles down on awkward apology to Kelly Ripa, Mark Consuelos: 'I look great' - ew.com",
+      "link": "https://ew.com/howie-mandel-apology-mark-consuelos-kelly-ripa-11940564",
+      "source": "Tavily (ew.com)",
+      "snippet": "# Howie Mandel doubles down on awkward semi-apology after snapping at Mark Consuelos, Kelly Ripa on air. Mandel said it's \"up to you to discern\" whether or not his apology video was genuine, after he snapped at Ripa and Consuelos on \"Live With Kelly and Mark.\". Howie Mandel has doubled down on his awkward semi-apology to Kelly Ripa and Mark Consuelos, after the *America's Got Talent* host and comedian snapped at the cohosting couple live on the air. Days after sharing an Instagram video in which he partially apologized for scolding on television the *Live With Kelly and Mark* stars for praising his looks at age 70, Mandel added another layer of confusion to the ordeal in his answer to a podcaster's inquiry on the matter. In the comments section of Mandel's original apology video, longtime *Live* producer Michael Gelman shared his thoughts as he wrote, \"During these divided times, one thing we can all agree upon is that you do look great ...For your age.\".",
+      "published_at": "Wed, 01 Apr 2026 17:59:17 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Howie Mandel對Kelly Ripa和Mark Consuelos的尷尬半道歉，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 770,
+      "title": "NFL star Nacua in rehab, says attorney - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/nfl-star-nacua-enters-rehab-025042066.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "# NFL star Nacua in rehab, says attorney. Los Angeles Rams wide receiver Puka Nacua has checked himself into rehab, his attorney said Wednesday. The Rams star \"voluntarily entered a private facility to focus on his health, personal growth, and overall development,\" lawyer Levi McCathern told AFP in a statement. Nacua topped the NFL with 129 receptions last season, adding a total of 1,715 yards, as the Rams reached the NFC Championship game before losing to eventual Super Bowl winners Seattle. Last month, a Jewish woman filed a lawsuit against Nacua alleging that he made an antisemitic statement and later bit her during a night out in Los Angeles on New Year's Eve. His lawyer said Nacua denies the allegation of antisemitism, calling it a \"blatant lie,\" and describing the bite as \"horseplay.\". Nacua's decision to enter rehab was prior to and unrelated to the lawsuit, said the attorney.",
+      "published_at": "Thu, 02 Apr 2026 04:06:00 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞關於NFL球星Puka Nacua因個人健康問題進入復健中心，並面臨一宗反猶太言論及咬人指控的訴訟，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 771,
+      "title": "Seeing Steph Curry is a reminder Warriors have plenty left to play for - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/sports/annkillion/article/seeing-steph-curry-reminder-warriors-plenty-left-22184683.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Seeing Steph Curry is a reminder Warriors have plenty left to play for. ## In a season marred by injuries, the Golden State Warriors still have stakes to play for with Stephen Curry on the mend and some ambitions for this season and next to realize and sustain. Curry hadn’t shot on the floor before a game — with the whole world watching — since the last game he played, January 30th, sixty days earlier. If Curry returns Sunday, the Warriors would have five regular-season games remaining to try to get organized for a play-in game on either April 14 or April 15. There was some hope — certainly from ESPN — that Curry could play in the nationally televised game on Wednesday night. Seeing Steph Curry is a reminder Warriors have plenty left to play for. In a season marred by injuries, the Golden State Warriors still have stakes to play for with Stephen Curry on the mend and some ambitions for this season and next to realize and sustain.",
+      "published_at": "Thu, 02 Apr 2026 05:42:57 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導史蒂芬·柯瑞回歸及金州勇士隊的賽季展望。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 772,
+      "title": "Puka Nacua: Los Angeles Rams wide receiver went to rehab before being sued by a woman for assault and battery, attorney says - Sky Sports",
+      "link": "https://www.skysports.com/nfl/news/12118/13527078/puka-nacua-los-angeles-rams-wide-receiver-went-to-rehab-before-being-sued-by-a-woman-for-assault-and-battery-attorney-says",
+      "source": "Tavily (www.skysports.com)",
+      "snippet": "+ Sky Sports with no contract. # Puka Nacua: Los Angeles Rams wide receiver went to rehab before being sued by a woman for assault and battery, attorney says. Puka Nacua is currently in a rehabilitation facility, according to his attorney Levi McCathern; Nacua was last month sued for assault and battery by a woman over allegations he made an antisemitic statement and bit her on New Year's Eve. Thursday 2 April 2026 06:45, UK. Los Angeles Rams All-Pro wide receiver Puka Nacua is in rehab and was there before he was sued for assault and battery by a woman who says he made an antisemitic statement and bit her on the shoulder on New Year's Eve, according to his attorney. Plaintiff Madison Atiabi and her attorney, Joseph Kar, claim Nacua made an antisemitic exclamation that emotionally distressed her when they were together on New Year's Eve. She says Nacua bit her and left teeth marks on her shoulder when they were in a van together later in the night, and she claims Nacua also bit her friend's thumb. ## Around Sky. + Sky Sports with no contract.",
+      "published_at": "Thu, 02 Apr 2026 05:47:04 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導洛杉磯公羊隊寬接手Puka Nacua因被控襲擊和毆打而進入康復中心。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 773,
+      "title": "‘The Bachelorette’ Star Konrad Bien-Stephen Dead at 35 - Variety Australia",
+      "link": "https://au.variety.com/2026/tv/news/konrad-bien-stephen-34861/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# ‘The Bachelorette’ Star Konrad Bien-Stephen Dead at 35. Australian reality star Konrad Bien-Stephen has passed away at the age of 35. Bien-Stephen’s management confirmed the news in a statement this morning (April 2). It’s understood that Bien-Stephen passed away on Monday night (March 30) in Melbourne. No other details have been forthcoming at the time of writing. “It is with deep sadness that we share the news of the passing of Konrad Bien-Stephen,” the statement said. “We ask that you respect the privacy of their family during this incredibly difficult time. Bien-Stephen first rose to national fame as a contestant on Brooke Blurton’s season of “The Bachelorette” in 2021. Bien-Stephen famously dated fellow reality TV personality Abbie Chatfield from November 2021 to August 2022. Bien-Stephen’s last Instagram post came just six days ago, showing him on a job site. ## Love Film & TV? “The Amazing Race” contestant Luke O’Halloran said, “Love ya mate x.”.",
+      "published_at": "Thu, 02 Apr 2026 01:42:57 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "澳洲實境秀明星Konrad Bien-Stephen於35歲逝世，死因未詳，此資訊與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 774,
+      "title": "\"RCB might be thinking that he was with them for ₹1 crore\" - Aakash Chopra lauds DC bowler's spell in IPL 2026 clash vs LSG - Sportskeeda",
+      "link": "https://www.sportskeeda.com/cricket/news-rcb-might-thinking-1-crore-aakash-chopra-lauds-dc-bowler-s-spell-ipl-2026-clash-vs-lsg",
+      "source": "Tavily (www.sportskeeda.com)",
+      "snippet": "Your login session has expired. Please logout and login again. * SA-W vs NZ-W. * AUS-W vs WI-W. * \"RCB might be thinking that he was with them for ₹1 crore\" - Aakash Chopra lauds DC bowler's spell in IPL 2026 clash vs LSG. Former India player Aakash Chopra has lauded Lungi Ngidi for bowling a potent spell in the Delhi Capitals' (DC) IPL 2026 clash against the Lucknow Super Giants (LSG). In a video shared on his YouTube channel, 'Aakash Chopra,' the former India batter praised T Natarajan and Ngidi for picking up three wickets apiece in Wednesday's game, reckoning RCB might be regretting releasing the Proteas seamer. He also knew that Axar Patel would come to bowl because he is a good matchup against Mitchell Marsh and Aiden Markram. **Get real-time updates on** **IPL 2025****, live scores,** **IPL Prediction****,** **match schedule****,** **points table**,**Result** **& squad -****CSK****,** **MI****,** **RCB****,** **KKR****,** **SRH****,** **LSG****,** **DC****,** **GT**, **PBKS**.",
+      "published_at": "Thu, 02 Apr 2026 05:35:35 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，內容主要報導印度板球超級聯賽（IPL）的賽事分析。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 775,
+      "title": "Thursday news quiz: daring dogs, delinquent capybaras and far too many bananas - The Guardian",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/apr/02/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-241",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Thursday news quiz: daring dogs, delinquent capybaras and far too many bananas. Test yourself on topical news trivia, pop culture and general knowledge every Thursday. It is time for the Thursday news quiz, where, thanks to our illustration from Anaïs Mims, you must decide whether you are gliding serenely across the waters of knowledge, your elegant neck forming a perfect question mark, or paddling furiously beneath the surface, one wrong answer away from an undignified flap. Fifteen questions on topical headlines, pop culture and general knowledge await. There are no prizes, but we always enjoy hearing how you got on in the comments. **The Thursday news quiz, No 241**. *If you really do think there has been an egregious error in one of the questions or answers – and can show your working and are absolutely 100% positive you aren’t attempting to factcheck a joke – you can complain about it in the comments below. ## Comments(…).",
+      "published_at": "Thu, 02 Apr 2026 05:00:17 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於《衛報》的週四新聞問答，內容涵蓋時事、流行文化和常識，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 776,
+      "title": "‘Chicago Med’ Boss & Oliver Platt Talk Shocking Charles Ending (VIDEO) - TV Insider",
+      "link": "https://www.tvinsider.com/1255493/chicago-med-charles-stroke-is-oliver-platt-leaving/",
+      "source": "Tavily (www.tvinsider.com)",
+      "snippet": "# ‘Chicago Med’ Boss & Oliver Platt Talk Shocking Charles Ending (VIDEO). There have been quite a few cast changes over the years on *Chicago Med*, but now, in its 11th season, two OGs are still around: Oliver Platt and S. The former gets the spotlight in the Thursday, April 1 episode, “The Book of Charles,” and he’s delivering one of his best performances of the series. “Epatha and I were so traumatized shooting that scene,” Oliver Platt tells TV Insider. “Oliver and I particularly paid close attention to earlier in the season that Charles was having trouble with his medication, and he went to his doctor and tried to see what was going on.”. Watch the full video interview above for more from Oliver Platt and showrunner Allen MacDonald about this shocking development for Charles. * Who Is 'Chicago Med' Star Oliver Platt's Wife? * 'Chicago Med' Boss & Oliver Platt Preview 'Book of Charles' Episode. ## Chicago Med## Allen MacDonald## Oliver Platt## S.",
+      "published_at": "Thu, 02 Apr 2026 01:00:54 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於美劇《芝加哥醫情》的劇情發展與演員Oliver Platt的表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 777,
+      "title": "Wemby drops 41 points, adds 18 rebounds in win vs. Warriors - ESPN",
+      "link": "https://www.espn.com/video/clip?id=48374360",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Wemby drops 41 points, adds 18 rebounds in Spurs' win. ### The Latest. ### The Latest. ## Wemby drops 41 points, adds 18 rebounds in Spurs' win. Wemby drops 41 points, adds 18 rebounds in Spurs' win. ## Hawks-Magic get into scuffle after Goga Bitadze's hard foul on Jock Landale. Hawks-Magic get into scuffle after Goga Bitadze's hard foul on Jock Landale. ## Sharks win on Alexander Wennberg's goal with 31 seconds left. Sharks win on Alexander Wennberg's goal with 31 seconds left. ## Denzel Clarke dazzles with HR robbery. ## L.J. Cryer fights off defender for and-1. L.J. Cryer fights off defender for and-1. * ## Wemby stretches over a defender to finish. Wemby stretches over a defender to finish. * Your US State Privacy Rights. * Children's Online Privacy Policy. CALL 1-800-GAMBLER, (800) 327-5050 or visit gamblinghelplinema.org (MA). 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD). 21+ and present in most states. (18+ DC/KY/NH/WY). Void in ONT/OR/NH.",
+      "published_at": "Thu, 02 Apr 2026 04:46:40 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導美國體育賽事，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 778,
+      "title": "Tom Clancy’s The Division® Resurgence Now Available Worldwide on iOS and Android Devices - Business Wire",
+      "link": "https://www.businesswire.com/news/home/20260330606957/en/Tom-Clancys-The-Division-Resurgence-Now-Available-Worldwide-on-iOS-and-Android-Devices",
+      "source": "Tavily (www.businesswire.com)",
+      "snippet": "SAN FRANCISCO--(BUSINESS WIRE)--Today, Ubisoft announced that Tom Clancy’s The Division Resurgence, a free-to-play third-person RPG shooter mobile game set in a massive urban open world, is now available worldwide\\* on iOS and Android devices. Developed by a team of experts within Ubisoft Mobile Games,\\*\\* The Division Resurgence features a brand-new standalone campaign. SAN FRANCISCO--(BUSINESS WIRE)--Today, Ubisoft® announced that Siege® X, the largest and most transformative update in Tom Clancy’s Rainbow Six Siege’s 10-year history, is now free to access on PlayStation®4, PlayStation®5, the Xbox One family of consoles, Xbox Series X | S, and Windows PC, including on Steam, and Amazon Luna\\*. SAN FRANCISCO--(BUSINESS WIRE)--Today, Ubisoft announced that Tom Clancy’s Rainbow Six Siege® X, the largest and most transformative evolution in the game’s history, will launch as a free update on June 10 on Ubisoft+, Ubisoft’s subscription service\\*, PlayStation®4, PlayStation®5, the Xbox One family of consoles, Xbox Series X | S, Windows PC, including on Steam, and Amazon Luna.",
+      "published_at": "Tue, 31 Mar 2026 16:00:00 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Ubisoft遊戲《全境封鎖：曙光》和《虹彩六號：圍攻行動X》的發布資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 779,
+      "title": "April storm brings late-season snow back to Sierra - CBS News",
+      "link": "https://www.cbsnews.com/sacramento/video/april-storm-brings-late-season-snow-back-to-sierra/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "* See What's On CBS13. # April storm brings late-season snow back to Sierra.",
+      "published_at": "Thu, 02 Apr 2026 05:39:00 GMT",
+      "collected_at": "2026-04-02 05:56:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導四月風暴為內華達山脈帶來了遲來的季節性降雪，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -10834,6 +11030,21 @@
         "未有焦點事件"
       ],
       "created_at": "2026-04-01 06:19:35"
+    },
+    {
+      "id": 10,
+      "report_date": "2026-04-02",
+      "total_articles": 14,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 14,
+      "daily_summary": "今日搜集到的新聞內容，經仔細審閱後，並未發現任何與華語天王周杰倫直接相關的報導或動態。所有新聞焦點均集中於國際娛樂圈、體育賽事、政治動態及其他社會議題，周杰倫今日並無公開或被報導的活動。",
+      "key_events": [
+        "無周杰倫相關新聞",
+        "今日無其公開動態",
+        "新聞焦點在其他"
+      ],
+      "created_at": "2026-04-02 05:58:33"
     }
   ],
   "notification_logs": [
@@ -11046,11 +11257,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-01 06:19:36"
+    },
+    {
+      "id": 31,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-02 05:58:34"
+    },
+    {
+      "id": 32,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-02 05:58:35"
     }
   ],
   "_meta": {
-    "nextArticleId": 766,
-    "nextReportId": 10,
-    "nextLogId": 31
+    "nextArticleId": 780,
+    "nextReportId": 11,
+    "nextLogId": 33
   }
 }
