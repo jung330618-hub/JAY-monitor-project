@@ -8464,11 +8464,11 @@
       "snippet": "周杰倫演唱會「山下智久突登台」！男神合唱嗨翻歌迷　兩人相識內幕曝光  三立娛樂星聞",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會上山下智久驚喜現身合唱，讓歌迷嗨翻並揭露兩人相識內幕。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 606,
@@ -8478,11 +8478,11 @@
       "snippet": "周杰倫演唱會驚見「比基尼正妹」場邊最辣風景 身分曝光竟是她！  中時新聞網",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫演唱會因一位比基尼正妹的出現，成為場邊焦點，引起話題。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 607,
@@ -8492,11 +8492,11 @@
       "snippet": "周杰倫廈門演唱會增「視線不良票區」 票價仍要近四千元網熱議  TVBS新聞網",
       "published_at": "2025-07-07T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫廈門演唱會增設視線不良票區，儘管視野受限，票價仍高達近四千元，引發網友熱議。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 608,
@@ -8506,11 +8506,11 @@
       "snippet": "周杰倫4場大巨蛋演唱會落幕！喊「下一次別再隔7年」 歌迷淚崩不肯離場  Yahoo新聞",
       "published_at": "2024-12-08T08:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在大巨蛋的四場演唱會圓滿落幕，歌迷因感動而淚崩不捨離場，周杰倫也承諾下次不會再讓大家等七年。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 609,
@@ -8520,11 +8520,11 @@
       "snippet": "周杰倫感冒頭痛健康亮紅燈 演唱會前緊急休養「突宣布好消息」  中時新聞網",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫因感冒頭痛需休養，但在演唱會前夕仍宣布了好消息。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 610,
@@ -8534,11 +8534,11 @@
       "snippet": "周杰倫 濱崎步 TWICE開騷時間表｜香港最新演唱會（不斷更新）  大公文匯網",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "此新聞提供周杰倫在香港的最新演唱會時間表，對歌迷而言是正面資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 611,
@@ -8548,11 +8548,11 @@
       "snippet": "周杰倫演唱會驚見「比基尼正妹」 辣露G級雪乳...IG被神出  自由娛樂",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫演唱會上，一位穿著比基尼的辣妹因其火辣身材引起關注，其社群帳號隨後被網友找出。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 612,
@@ -8562,11 +8562,11 @@
       "snippet": "周杰倫演唱會｜郭富城相隔18年再同台 竟然勁歌熱舞呢首歌？  香港01",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會上，郭富城驚喜現身，兩人相隔18年再度同台勁歌熱舞，為觀眾帶來驚喜。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 613,
@@ -8576,11 +8576,11 @@
       "snippet": "討論牆 | 周杰倫新歌來了！「太陽之子」MV成本逼近1億  LINE TODAY",
       "published_at": "2026-03-25T04:05:49.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出新歌「太陽之子」，其MV製作成本據稱逼近一億元，引發熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 614,
@@ -8590,11 +8590,11 @@
       "snippet": "周董新歌特效全開億級製作卻被酸江郎才盡？她笑：是太幸福了- 娛樂  中時新聞網",
       "published_at": "2026-03-24T14:07:29.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "新聞報導周杰倫新歌製作精良卻引發江郎才盡的質疑，但有人認為這只是因為他生活太幸福。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 615,
@@ -8604,11 +8604,11 @@
       "snippet": "周杰倫發新片 預告求婚畫面藏MV  翻爆",
       "published_at": "2026-03-25T02:09:49.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫發布新影片，預告其音樂錄影帶（MV）中將出現求婚畫面。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 616,
@@ -8618,11 +8618,11 @@
       "snippet": "周杰倫「深V」回歸帥出新高度！新歌〈太陽之子〉耗資一億藏玄機  造咖",
       "published_at": "2026-03-24T11:48:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫以「深V」造型帥氣回歸，並推出耗資一億的新歌〈太陽之子〉，引發高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 617,
@@ -8632,11 +8632,11 @@
       "snippet": "周杰倫新歌藏神秘彩蛋！歌詞驚喜連動〈晴天〉粉絲全驚呼！  COOL-STYLE 潮流生活網",
       "published_at": "2026-03-25T02:50:34.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌中藏有與經典歌曲〈晴天〉驚喜連動的歌詞彩蛋，引發粉絲熱烈討論與驚呼。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 618,
@@ -10905,6 +10905,244 @@
       "summary": "這則新聞報導四月風暴為內華達山脈帶來了遲來的季節性降雪，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 780,
+      "title": "MGK Shares Cute Pics of Baby Saga Blade on Daughter’s First Birthday - Billboard",
+      "link": "https://www.billboard.com/music/rock/mgk-cute-pics-baby-saga-blade-daughter-first-birthday-1236213206/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# MGK Shares Cute Pics of Baby Saga Blade on Daughter’s First Birthday. MGK is sharing pics from his infant daughter Saga Blade’s first birthday celebration. The “Cliché” singer posted a series of snaps of his second-born little one on Wednesday (April 1), obscuring the face of the child he shares with ex actress Megan Fox in a photo carousel of images from the baby’s first year. Elsewhere, MGK (born Colson Baker), 35, and Saga ride a mini-train at what looks like a carnival, take a daddy-daughter nap, dress up for Halloween as Jack Skellington and a little monster, swing on swings and celebrate Christmas with Casie in matching holiday onesies. News*, a day earlier during an Instagram Live, MGK revealed the cute nickname he has for Saga when he said “Hi, princess,” asking the little one if she wanted to “jam” with him.",
+      "published_at": "Thu, 02 Apr 2026 11:57:10 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊關於饒舌歌手MGK慶祝女兒一歲生日並分享可愛照片，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 781,
+      "title": "Jaafar Jackson says memories of uncle Michael Jackson are 'wonderful' - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/04/02/jaafar-jackson-remembers-uncle-michael-jackson/89440607007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Jaafar Jackson was just 12 when Michael Jackson died in 2009, but the Hollywood newcomer can still recall the \"wonderful times\" he had with his superstar uncle. In his first TV interview ahead of the release of the Antoine Fuqua biopic \"Michael\" on April 24, in which Jaafar plays Jackson, the 29-year-old actor on April 2 briefly reminisced about his childhood on \"Today with Jenna & Sheinelle.\". ## Katherine Jackson 'couldn't tell if it was me or Michael': Jaafar Jackson. Jaafar – the second youngest son of Jermaine Jackson, Michael's brother and former Jackson 5 member – told the hosts that he's received \"heartwarming\" support from his father and the rest of his family, including grandmother Katherine Jackson. The 95-year-old Jackson family matriarch saw the film and \"said how excellent I did and how much I embodied Michael,\" Jaafar shared. \"Michael\" is releasing against the backdrop of ongoing legal battles between Jackson's sexual assault accusers and his estate.",
+      "published_at": "Fri, 03 Apr 2026 00:04:00 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "Jaafar Jackson在首次電視採訪中分享了與已故叔叔Michael Jackson的美好回憶，並透露家人對他飾演Michael Jackson的傳記電影給予了溫馨支持。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 782,
+      "title": "Album Premiere: Gardenia – ‘Self-Titled’ - New Noise Magazine",
+      "link": "https://newnoisemagazine.com/premieres/album-premiere-gardenia-self-titled/",
+      "source": "Tavily (newnoisemagazine.com)",
+      "snippet": "# Album Premiere: Gardenia – ‘Self-Titled’. Gardenia are sharing their new self-titled full-length record, which deals with absence, the subtle ways intimacy erodes under fame and media, and the constant signal overload of modern life. The album was co-produced by Grammy-nominated producer Jack Shirley and the band themselves. The record reflects New York’s evolving heavy indie movement. Listen to the album here:. Gardenia was formed by born-and-bred New Yorkers, singer/bassist Ryan Zakin and drummer Tamir Malik. The duo met each other while working in a Manhattan recording studio. The new record proves how strong their musical bond is, and they aim to continue it for the upcoming days. *Photo courtesy of Michelle Lobianco*. ###### Stay Connected. ###### Subscribe. ### New Noise Print Subscription. Subscribe to receive physical monthly issues in the mail! This website uses cookies to ensure you get the best experience on our website.",
+      "published_at": "Fri, 27 Mar 2026 14:53:19 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於樂團Gardenia的新專輯發布，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 783,
+      "title": "Publishing Briefs: Bastian Langebaek Signs with Sony Music Publishing UK - Billboard",
+      "link": "https://www.billboard.com/lists/publishing-briefs-bastian-langebaek-sony-music-publishing/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "**Sony Music Publishing UK**, in partnership with its JV partner **Second Songs**, signed a global publishing agreement with Copenhagen-based songwriter **Bastian Langebaek**, which includes future works. “I’m incredibly excited and grateful to sign a new publishing deal with Second Songs & Sony Music Publishing, getting to work once more with [Second Songs co-founder] **Mark Gale**, who I first signed with 11 years ago, a moment that changed everything,” said Langebaek in a statement. “Lykke Li is a generational talent who has consistently pushed the boundaries of pop music, not just in the Nordics but on the global stage,” **Lars Karlsson**, managing director of Warner Chappell Music Scandinavia, said in a statement. “We couldn’t be more excited to welcome Julianna Rankin into the Sony Music Publishing family alongside Big Loud Texas,” added **Anna Weisband**, senior vp, creative A&R, Sony Music Publishing Nashville. “Aya is a remarkable artist of rare sensitivity whose music has resonated around the world for nearly 10 years, reaching several generations,” **Matthieu Tessier,** managing director of Warner Chappell Music France, said in a statement.",
+      "published_at": "Thu, 02 Apr 2026 19:49:12 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Sony Music Publishing UK簽約Bastian Langebaek等音樂出版協議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 784,
+      "title": "LeBron on Luka's injury: 'We'll see what happens' - ESPN",
+      "link": "https://www.espn.com/watch/player/_/id/48383149",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "## Calgary Flames vs. ## Nashville Predators vs. ## Adelaide United vs. ESPN+ • Australian A-League Women. ESPN2 • RE-AIR • NCAA Men's Basketball. ACCN • RE-AIR • All ACC. ## SEC Now. SECN • RE-AIR • SEC Now. ESPNU • RE-AIR • NCAA Men's Basketball. ESPNews • RE-AIR • X Games. ESPN Deportes • ES • Futbol Picante Noche. ## Jordan Lawlar crushes 1st MLB HR for D-backs. ## Jack Hughes tallies second goal vs. ## Jordan Eberle scores 41 seconds in for Kraken. ## Paul Skenes 'fired up' for Konnor Griffin's MLB debut. ## Chris Webber: I trust Illinois, but it'll be a slugfest vs. ## Calgary Flames vs. ## Nashville Predators vs. ## Adelaide United vs. ESPN+ • Australian A-League Women. ESPN2 • RE-AIR • NCAA Men's Basketball. ACCN • RE-AIR • All ACC. ESPNU • RE-AIR • NCAA Men's Basketball. ESPNews • RE-AIR • X Games. ESPN Deportes • ES • Futbol Picante Noche. * Your US State Privacy Rights.",
+      "published_at": "Fri, 03 Apr 2026 05:42:51 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要關於各項體育賽事（如NBA、NHL、NCAA等）的報導與摘要，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 785,
+      "title": "Why President Trump Fired Pam Bondi; Americans Drown in Medical Debt | April 2 - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/632014",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "# Why President Trump Fired Pam Bondi; Americans Drown in Medical Debt | April 2. Sources close to President Donald Trump told NBC News that he felt she had bungled the Epstein files saga and hadn't done enough to prosecute the president's political enemies. NBC News senior Capitol Hill correspondent Garrett Haake breaks down how she has changed the Justice Department — and whether interim AG Todd Blanche will stay on permanently. Plus, the rising cost of medical care is drowning Americans in debt. In the latest edition of NBC News' “Unaffordable America” series, senior financial reporter Gretchen Morgenson explains how the problem is expected to worsen as more than 10 million Americans lose health care coverage as a result of the president's signature “big, beautiful bill.”. “Here's the Scoop” is an evening podcast from NBC News. https://www.youtube.com/@HeresTheScoop. See more exclusive reporting at our NBC News YouTube channel:. Apple: https://podcasts.apple.com/us/podcast/heres-the-scoop/id1820996352. Spotify: https://open.spotify.com/show/2gXjYWGzbOiONamY4rY4xI. Amazon Music: https://music.amazon.com/podcasts/901a073c-bd6f-4726-ab4d-acefc00ec15e/here's-the-scoop? asc\\_campaign=&asc\\_refurl=https%3A%2F%2Fwww.nbcnews.com%2Fheres-the-scoop-daily-podcast&asc\\_source=https%3A%2F%2Fwww.nbcnews.com%2F\\_desktop. iHeart: https://www.iheart.com/podcast/552-the-drink-with-kate-snow-317749113/. Pandora: https://www.pandora.com/podcast/the-drink-with-kate-snow/PC:1001112945. TuneIn: https://tunein.com/podcasts/News/The-Drink-with-Kate-Snow-p4704762/?",
+      "published_at": "Fri, 03 Apr 2026 04:00:00 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於美國政治、前總統川普解僱Pam Bondi的原因，以及美國民眾面臨的醫療債務問題，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 786,
+      "title": "Rutgers Scarlet Knights vs. Creighton Bluejays The Crown Highlights 🏀 FOX College Hoops - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-xy42fi3iwzj69tyz",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "# Rutgers Scarlet Knights vs. Creighton Bluejays The Crown Highlights 🏀 FOX College Hoops. ## Check out the best moments between the Rutgers Scarlet Knights and the Creighton Bluejays in The Crown Quarterfinals! College Basketball  CBK - Rutgers Scarlet Knights vs. Creighton Bluejays - 04/02/2026  Rutgers Scarlet Knights  Creighton Bluejays. ### Fedor Žugić throws FULL COURT baseline pass to Josh Dix for slam dunk, sealing Creighton win over Rutgers. West Virginia Mountaineers The Crown Highlights 🏀 FOX College Hoops. ### Tariq Francis lobs it UP to Lino Mark, extending Rutgers' lead over Creighton. ### Stanford's Ebuka Okorie throws down dunk, extending lead over West Virginia. ### West Virginia's DJ Thomas throws down slam dunk, extending lead over Stanford. ### Baylor Bears vs. Minnesota Golden Gophers The Crown Highlights 🏀 FOX College Hoops. ### Obi Agbim throws halfcourt lob to Cameron Carr for STRONG slam dunk, extending Baylor's lead over Minnesota. Colorado Buffaloes The Crown Highlights 🏀 FOX College Hoops.",
+      "published_at": "Fri, 03 Apr 2026 05:34:01 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為大學籃球賽事精華，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 787,
+      "title": "Long Island man had enough drugs to kill 2 million people, officials say - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/long-island-man-had-enough-drugs-to-kill-2-million-people-officials-say/6485176/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "# Long Island man had enough drugs to kill 2 million people, officials say. A 42-year-old man was indicted, accused of trafficking drugs in Suffolk County. ## Local. #### Adrienne Bailon-Houghton on purpose, family and her new film ‘Chef's Kiss'. #### Man declared innocent 47 years after high-profile killing of NYC rabbi. #### Police shoot, kill man while serving arrest warrant in the Bronx. #### Huge fire tears through homes and businesses in Butler. #### Heart-broken grandmother speaks after 7-month-old girl shot and killed. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Thu, 02 Apr 2026 23:57:13 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於長島一名男子因販毒被起訴，以及其他多則地方新聞，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 788,
+      "title": "Ja Morant Personal Announcement Reignites Miami Trade Rumors - Newsweek",
+      "link": "https://www.newsweek.com/sports/nba/ja-morant-personal-announcement-reignites-miami-trade-rumors-11778735",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Ja Morant Personal Announcement Reignites Miami Trade Rumors. Once again, Ja Morant finds himself fueling the fire of what feels like an inevitable move away from Memphis. The Memphis Grizzlies star guard has reportedly listed his Memphis home for $3.5 million, a move that immediately rekindles questions about his long-term future with the franchise. And this latest personal decision only makes the idea of Morant playing in a Grizzlies jersey next season feel even more unbelievable. Back in December, Morant was listed as an executor of a trust that purchased a $3.2 million home in Miami-Dade County. That purchase came just weeks before the Feb. 5 trade deadline, when Morant’s name surfaced in league-wide discussions but ultimately remained in Memphis. The trade package sent Morant to Miami in exchange for veteran forward Andrew Wiggins and fifth-year guard Davion Mitchell. At this point, it feels like a lot less like \"is Morant getting traded\" and simply more of when. ## Donald Trump Gets Bad News Minutes After Iran War Speech.",
+      "published_at": "Fri, 03 Apr 2026 05:45:00 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導籃球員Ja Morant的交易傳聞，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 789,
+      "title": "A Letter Of Forgiveness To My Neighbor, Who Went On TV To Mock My Faith - huffpost.com",
+      "link": "https://www.huffpost.com/entry/alabama-attorney-general-candidate-anti-islam_n_69ce7637e4b0332f12c1d035",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "\"Jay, your campaign ad did not sound like justice. Why do we never attach the word “radical” to Christianity, Judaism, Hinduism, or Buddhism — or to any faith that humans manipulate to justify violence? My truest religion is love — the central message of all faiths. “Perhaps the better question is not who created whom, but why humans feel compelled to imagine the divine at all.”. Jay, your campaign ad did not sound like justice. When you say, “Allahu Akbar your butt back to the Middle East,” you are not speaking to extremists. I hope this letter opens your heart, Jay. This letter of forgiveness — of love and of the same humanity that we share. I hope it allows you to see this humanity in a Muslim father, neighbor and citizen who loves this country and this state fiercely. And I hope you leave with this: my Islam, my heart, my life, is a testimony of peace, love and forgiveness — far from anything you call “radical.”.",
+      "published_at": "Thu, 02 Apr 2026 17:12:58 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "負面",
+      "sentiment_score": 0.4,
+      "summary": "一封來自鄰居的公開信，批評一位名為「Jay」的人物在競選廣告中關於信仰與種族的爭議言論，同時表達寬恕與愛。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 790,
+      "title": "'I'm Not the Most Strict': Jay Cutler Says You're Overthinking Your Form – and Missing Out on Muscle - menshealth.com",
+      "link": "https://www.menshealth.com/uk/building-muscle/a70904372/jay-cutler-perfect-form-build-muscle/",
+      "source": "Tavily (www.menshealth.com)",
+      "snippet": "2. 'I'm Not the Most Strict': Jay Cutler Says You're Overthinking Your Form – and Missing Out on Muscle. # 'I'm Not the Most Strict': Jay Cutler Says You're Overthinking Your Form – and Missing Out on Muscle. Bodybuilding legend Jay Cutler doesn’t buy into the idea that perfect form is always necessary to build muscle. Cutler still focuses on ‘feeling’ each rep and staying in control, but doesn’t shy away from using a little momentum to challenge his muscles – as seen in his approach to barbell curls. 'I’m not the most strict when I do my curls,' Cutler says in a YouTube video. Remember, I was throwing around crazy weights, and I always feel my movements. When curling, Cutler uses a slight swing at the bottom of the movement to help initiate the lift, but he doesn’t let momentum take over. Using a small amount of momentum allows him to handle heavier weights while still maintaining control, ensuring the key parts of the lift remain effective.",
+      "published_at": "Wed, 01 Apr 2026 12:56:00 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於健身傳奇人物Jay Cutler的訓練哲學，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 791,
+      "title": "\"It's not like no one was there in the auction\" - Aakash Chopra highlights CSK's 3 wrong decisions ahead of IPL 2026 clash vs PBKS - Sportskeeda",
+      "link": "https://www.sportskeeda.com/cricket/news-it-s-like-one-auction-aakash-chopra-highlights-csk-s-3-wrong-decisions-ahead-ipl-2026-clash-vs-pbks",
+      "source": "Tavily (www.sportskeeda.com)",
+      "snippet": "Your login session has expired. Please logout and login again. * SA-W vs NZ-W. * AUS-W vs WI-W. Ahead of the Chennai Super Kings' (CSK) IPL 2026 clash against the Punjab Kings (PBKS), former India player Aakash Chopra has highlighted three wrong decisions taken by the Chennai-based franchise. He pointed out that the five-time champions have picked only two overseas batters, with Matthew Short not even being an ideal cover for Dewald Brevis, despite the presence of multiple other options in the auction. > \"They are the only team that has only two overseas batters. He should have also been a middle-order batter. Matthew Short's numbers while batting at No. 4 are absolutely ordinary. You have taken a player who won't be available for you till April 21 or 24,\" he said. The cricketer-turned-commentator added that Johnson is also not an ideal replacement for Ellis as he is not a death bowler.",
+      "published_at": "Fri, 03 Apr 2026 05:37:43 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要討論板球隊伍Chennai Super Kings在IPL 2026賽季前的選人決策失誤。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 792,
+      "title": "Dan Hurley takes UConn to 3 Of last 4 Final Fours Stream of General Videos - CBS Sports",
+      "link": "https://www.cbssports.com/watch/general/video/sportshq-network-13001",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "# Dan Hurley takes UConn to 3 Of last 4 Final Fours. ## Dan Hurley takes UConn to 3 Of last 4 Final Fours. ### CBS Sports Golazo Network. #### UEFA Women's Champions League Today. ### UEFA Champions League Channel. #### Kylian Mbappe's Best Goals in the Champions League. ### UFC. ### CBS Sports HQ. #### Scoreboard Final. ### CBS Sports Network. #### 2026 Tournament Rebound - Second Round: Utah State vs. #### Sheffield United vs. #### West Bromwich Albion vs. ## UFC News & Highlights. #### UFC Fighter Breakdown: Renato Moicano vs Chris Duncan. ### UFC. #### HIGHLIGHTS & REACTIONS From UFC Fight Night On Paramount +. ### UFC. #### Joe Pyfer Previews Adesanya Fight, Talks Faith Shift. ### UFC. #### Maycee Barber Previews Grasso Fight, Touts Ferocity. ### UFC. ### UFC. #### HIGHLIGHTS & REACTIONS From UFC Fight Night On Paramount+. ### UFC. #### UFC Fight Night Preview: Movsar Evloev Vs. Lerone Murphy. ### UFC. #### Michael 'Venom' Page Previews Sam Patterson Fight.",
+      "published_at": "Fri, 03 Apr 2026 04:51:42 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要關於體育賽事與選手，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 793,
+      "title": "Chicago Bulls vs Milwaukee Bucks Nov 7, 2025 Box Scores - NBA",
+      "link": "https://www.nba.com/game/chi-vs-mil-0022500035/box-score?utm_source=ko_1nymu710kbxfc9d44&utm_campaign=nba_onramp&utm_medium=social_partner_widget&utm_term=NBA&utm_content=0022500035&partnerRef=NBA&howToWatch=false&cp1=Threads&cp2=Post&cp3=%7Bcp_3%7D&cp4=%7Bcp_4%7D&referrer=utm_source%3Dko_1nymu710kbxfc9d44%26utm_campaign%3D%7Bcampaign_id%7D%26utm_medium%3DNBA%26utm_term%3D%7BpartnerRef%7D%26utm_content%3D%7Bgame_id%7D",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "Emirates NBA Cup: East Group C. # Giannis' 41 powers Bucks. Vučević C | 31:12 | 7 | 13 | 53.8 | 2 | 3 | 66.7 | 0 | 0 | 0.0 | 0 | 6 | 6 | 1 | 1 | 0 | 2 | 3 | 16 | -11 |. ## Milwaukee Bucks. Antetokounmpo F | 37:17 | 16 | 32 | 50.0 | 1 | 3 | 33.3 | 8 | 11 | 72.7 | 4 | 11 | 15 | 9 | 2 | 2 | 4 | 1 | 41 | 16 |. Turner C | 31:19 | 8 | 14 | 57.1 | 5 | 8 | 62.5 | 2 | 3 | 66.7 | 3 | 5 | 8 | 0 | 4 | 1 | 2 | 4 | 23 | 19 |. Antetokounmpo | DNP - Coach's Decision | | | | | | | | | | | | | | | | | | | |.",
+      "published_at": "Fri, 03 Apr 2026 04:08:35 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是一場NBA比賽的數據，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 794,
+      "title": "Spurs roll past the Clippers 118-99 without Victor Wembanyama for 11th straight win - Greenwich Time",
+      "link": "https://www.greenwichtime.com/sports/article/spurs-roll-past-the-clippers-118-99-without-22186995.php",
+      "source": "Tavily (www.greenwichtime.com)",
+      "snippet": "# Spurs roll past the Clippers 118-99 without Victor Wembanyama for 11th straight win. (AP) — De'Aaron Fox scored 22 points on 9-of-13 shooting, and the San Antonio Spurs beat the Los Angeles Clippers 118-99 on Thursday night without Victor Wembanyama in the lineup to win their 11th in a row. The Spurs had six players in double figures, including Stephon Castle with 20 points and Dylan Harper with 19 off the bench. Kawhi Leonard scored 24 points to lead the Clippers with his 53rd consecutive game of 20 or more points. This was the second straight year Madden Orlovsky's drawings were displayed on the ESPN show. The Spurs led by 26 points in the first half. This CT park is nominated for USA Today's list of the top 10 best city parks. CT’s best garden centers to visit this winter. CT retirement communities are lovely places to call home. Treat yourself to a day of luxury at the best spas in CT.",
+      "published_at": "Fri, 03 Apr 2026 05:12:46 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於馬刺隊在沒有Victor Wembanyama的情況下擊敗快艇隊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 795,
+      "title": "Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide - Billboard",
+      "link": "https://www.billboard.com/music/pop/jack-white-arlo-parks-anne-hathaway-new-music-friday-guide-1236213934/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jack White, Arlo Parks, Anne Hathaway & More: New Music Friday Guide. Billboard’s Friday Music Guide serves as a handy guide to New Music Friday’s most essential releases each week — the key music that everyone will be talking about today, and that will be dominating playlists this weekend and beyond. This week, Jack White prepares for his gig on *Saturday Night Live* with a punchy two-pack, Arlo Parks shares her gorgeous third album, *Ambiguous Desire*, and Anne Hathaway — ahem, Mother Mary — continues teasing her upcoming role as an iconic pop star in the A24 film of the same name… plus much more. Released as a surprise two-pack alongside single “Derecho Demonico,” it’s possible these could be the two songs Jack White will perform as musical guest on *Saturday Night Live* come April 4. “Time” comes as the latest single from Sofia D’Angelo — perhaps better known as a member of New York indie-pop collective MICHELLE — who in 2024 started releasing solo material again for the first time in four years.",
+      "published_at": "Fri, 03 Apr 2026 05:22:19 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此篇Billboard新音樂指南主要介紹Jack White、Arlo Parks和Anne Hathaway等藝人的新作品，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 796,
+      "title": "K-pop hits dominate the soundtrack of 'XO, Kitty' Season 3 with some familiar songs from the 'To All the Boys I've Loved Before' films featuring too. Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/k-pop-hits-dominate-the-soundtrack-of-xo-kitty-season-3-with-some-familiar-songs/1301702898496714/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# K-pop hits dominate the soundtrack of... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. K-pop hits dominate the soundtrack of 'XO, Kitty' Season 3 with some familiar songs from the 'To All the Boys I've Loved Before' films featuring too. Image 1: 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. Image 5: 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. ### 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. Image 9: 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN. ### 'XO, Kitty' Season 3 Soundtrack: From Fletcher To Ashe To SEVENTEEN.",
+      "published_at": "Thu, 02 Apr 2026 14:00:32 GMT",
+      "collected_at": "2026-04-03 05:56:34",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於影集《XO, Kitty》第三季的配樂，內容提及K-pop及其他藝人，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -11045,6 +11283,21 @@
         "新聞焦點在其他"
       ],
       "created_at": "2026-04-02 05:58:33"
+    },
+    {
+      "id": 11,
+      "report_date": "2026-04-03",
+      "total_articles": 17,
+      "positive_count": 1,
+      "negative_count": 1,
+      "neutral_count": 15,
+      "daily_summary": "今日搜集到的新聞中，沒有直接關於周杰倫的報導。主要焦點集中在其他娛樂、體育及商業新聞，例如MGK慶祝女兒生日、Jaafar Jackson分享對麥可傑克森的回憶，以及Kanye West專輯的討論等。周杰倫今日未有新的公開活動或重大新聞發布。",
+      "key_events": [
+        "無周杰倫報導",
+        "今日無相關",
+        "未有新消息"
+      ],
+      "created_at": "2026-04-03 05:58:29"
     }
   ],
   "notification_logs": [
@@ -11271,11 +11524,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-02 05:58:35"
+    },
+    {
+      "id": 33,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-03 05:58:30"
+    },
+    {
+      "id": 34,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-03 05:58:31"
     }
   ],
   "_meta": {
-    "nextArticleId": 780,
-    "nextReportId": 11,
-    "nextLogId": 33
+    "nextArticleId": 797,
+    "nextReportId": 12,
+    "nextLogId": 35
   }
 }
