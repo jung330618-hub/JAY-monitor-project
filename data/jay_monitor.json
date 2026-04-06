@@ -9066,11 +9066,11 @@
       "snippet": "【車勢星聞】影音／周杰倫推出全新專輯收錄13首歌，「太陽之子」MV致敬30幅名畫  CARTURE 車勢文化",
       "published_at": "2026-03-24T15:01:23.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出全新專輯收錄13首歌，其中《太陽之子》MV致敬30幅名畫。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 649,
@@ -9080,11 +9080,11 @@
       "snippet": "周杰倫「太陽之子」3/24全球MV首映  Yahoo新聞",
       "published_at": "2026-03-21T07:21:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌《太陽之子》的MV將於3月24日全球首映。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 650,
@@ -9094,11 +9094,11 @@
       "snippet": "周杰倫新專輯登場！曬出最新自拍「回春范特西」 歌迷激推這3首新歌  三立娛樂星聞",
       "published_at": "2026-03-25T04:06:05.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯登場，他曬出「回春范特西」自拍，歌迷對其中三首新歌反應熱烈並大力推薦。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 651,
@@ -9108,11 +9108,11 @@
       "snippet": "周杰倫新專輯《太陽之子》3/25發行  Yahoo新聞",
       "published_at": "2026-03-21T16:00:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫即將於3月25日發行新專輯《太陽之子》，此消息引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 652,
@@ -9122,11 +9122,11 @@
       "snippet": "周杰倫開嗆阿Ken有病啊！天王傻眼猛虧他　提問要用點腦做功課  NOWnews今日新聞",
       "published_at": "2026-03-25T03:44:30.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫幽默地「開嗆」阿Ken，建議他提問前應多做功課，展現明星間的趣味互動。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 653,
@@ -9136,11 +9136,11 @@
       "snippet": "直擊／周杰倫「求婚昆凌私密珍藏片」曝光！大手筆租英國古堡 還加演員助攻  Yahoo新聞",
       "published_at": "2026-03-24T07:16:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫向昆凌求婚的私密珍藏影片曝光，內容顯示他大手筆租借英國古堡並動用演員助攻，展現浪漫與用心。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 654,
@@ -9150,11 +9150,11 @@
       "snippet": "不愧是天王！周杰倫豪砸1億拍MV 「和梵谷對話」媲美好萊塢大片  Yahoo新聞",
       "published_at": "2026-03-21T05:56:10.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫斥資億元打造與梵谷對話的MV，其媲美好萊塢大片的製作水準備受讚譽。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 655,
@@ -9164,11 +9164,11 @@
       "snippet": "周杰倫也有心魔！突爆演唱會「2度恐慌發作」 嘆非常恐怖：不要再提了  TVBS新聞網",
       "published_at": "2026-03-24T07:44:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫自曝在演唱會上曾兩度恐慌發作，形容其為非常恐怖的經歷，並表示不願再提及。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 656,
@@ -9178,11 +9178,11 @@
       "snippet": "周杰倫深V露面新專輯記者會心情超好 揭2MV加碼預告要曝光求婚橋段  緯來新聞網",
       "published_at": "2026-03-24T07:19:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在新專輯記者會上心情極佳，不僅深V亮相，更預告將曝光兩支MV並加碼揭露求婚橋段。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 657,
@@ -9192,11 +9192,11 @@
       "snippet": "張信哲新作遠赴巴黎拍MV 致敬梵谷「靈感強撞周杰倫」  ctinews.com",
       "published_at": "2026-03-25T03:48:45.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "張信哲新歌MV致敬梵谷的靈感，被媒體指出與周杰倫的藝術風格有巧合的相似之處。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 658,
@@ -9206,11 +9206,11 @@
       "snippet": "藏了11年...周杰倫首度公開「古堡求婚昆凌影片」  facebook.com",
       "published_at": "2026-03-24T09:48:01.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫首次公開了11年前在古堡向昆凌求婚的影片，分享了這段浪漫的私人回憶。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 659,
@@ -9220,11 +9220,11 @@
       "snippet": "周杰倫自爆被女兒搞到神經錯亂 不藏了！公開當年向昆凌求婚影片  Yahoo",
       "published_at": "2026-03-24T10:14:57.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫幽默分享被女兒「搞到神經錯亂」的日常，並首次公開當年向昆凌求婚的影片。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 660,
@@ -9234,11 +9234,11 @@
       "snippet": "周杰倫回歸就玩超大！新歌「太陽之子」砸重金 30幅世界名畫藏其中  噓！星聞",
       "published_at": "2026-03-24T06:24:43.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫以新歌《太陽之子》高調回歸，MV投入重金並巧妙融入30幅世界名畫，展現其對作品的極致追求。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 661,
@@ -9248,11 +9248,11 @@
       "snippet": "（有片）周杰倫新專輯明全球發行《太陽之子》MV還原30幅名畫- 娛樂  點新聞",
       "published_at": "2026-03-24T15:04:40.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯即將全球發行，其中《太陽之子》MV還原了30幅名畫。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 662,
@@ -9262,11 +9262,11 @@
       "snippet": "周杰倫砸一億元打造〈太陽之子〉MV 創下MV製作費天花板  Yahoo新聞",
       "published_at": "2026-03-21T06:11:10.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫斥資一億元打造〈太陽之子〉MV，創下MV製作費新高紀錄。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 663,
@@ -9276,11 +9276,11 @@
       "snippet": "周杰倫專輯預購時間出爐！粉絲淚喊比逐玉還期待 20秒預告吊足胃口  Yahoo新聞",
       "published_at": "2026-03-19T08:21:24.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯預購時間公布，20秒預告片讓粉絲們感到極度興奮與期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 664,
@@ -11563,6 +11563,202 @@
       "summary": "此新聞報導主要關於Jack Black和Jack White在《週六夜現場》的表演，並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 827,
+      "title": "Kanye West’s ‘Bully’ Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With ‘Arirang’ - Variety",
+      "link": "https://variety.com/2026/music/news/kanye-wests-bully-debuts-at-no-2-albums-chart-bts-arirang-1236708933/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Kanye West’s ‘Bully’ Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With ‘Arirang’. The K-pop group’s latest album “Arirang” holds steady at No. 1 on the albums chart with 187,000 equivalent album units, down 71% from its opening week with 641,000. Last week, “Arirang” became BTS’ seventh No. 1 album and scored the biggest sales week for an album by a group in over a decade. ### David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger. Meanwhile, Ye’s “Bully” enters the chart at No. 2, becoming his 14th album to hit the top 10. (“Donda 2,” his last solo album, was deemed ineligible to chart in accordance with Billboard’s bundling guidelines.). ### Popular on Variety. Elsewhere on the chart, Melanie Martinez bowed at No. 3 with “Hades,” which earned 84,000 equivalent album units to become her fourth project to crack the top 10. ## More from Variety.",
+      "published_at": "Sun, 05 Apr 2026 19:50:46 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導Kanye West和BTS的專輯榜單表現，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 828,
+      "title": "Jaylen Brown nails it from behind the arc, 04/05/2026 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/videos/jaylen-brown-nails-behind-arc-220430977.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* Jaylen Brown with 41 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Jaylen Brown with 30 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 34 points vs. *[Jaylen Brown talks Celtics' ‘big win' over OKC originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-big-062631268.html). * Jaylen Brown with 41 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Jaylen Brown with 30 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 34 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-big-062631268.html).",
+      "published_at": "Sun, 05 Apr 2026 22:04:30 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於籃球員Jaylen Brown的比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 829,
+      "title": "Ye Just Made $33 Million in Two Nights. Will His Comeback Last? - Bloomberg.com",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-04-05/kanye-west-concert-breaks-records-with-18-million-night",
+      "source": "Tavily (www.bloomberg.com)",
+      "snippet": "The most influential recording artist of the century, Ye was once one of the highest-paid acts in the music business. Corporate America’s patience ran out in 2022 when Ye talked about going “death con 3 on Jewish people.” A couple months later, he expressed admiration and affection for Hitler. Yet while Ye’s music didn’t violate Spotify’s hate speech policy, the streaming service didn’t exactly push his songs. It wasn’t just corporate America that wrestled with Ye. His behavior forced his millions of fans to determine if they could separate the art from the artist. Ye’s most recent albums haven’t sold as well as the blockbusters, and his touring business was nonexistent. Yet while there are some people who will never forgive Ye, it’s clear that there are millions of people around the world who still want to engage with his work. For those who know Ye, the question isn’t whether he can keep himself stable for long enough to put out an album or play a couple of shows.",
+      "published_at": "Sun, 05 Apr 2026 22:15:01 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國藝人肯伊·威斯特（Ye）的復出及其爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 830,
+      "title": "'GOODNESS GRACIOUS!' Been hearing this phrase recently? That’s all due to Vice Ganda's hit 2013 film \"Girl, Boy, Bakla, Tomboy\" gaining traction online. Check the comments section for the full story. - facebook.com",
+      "link": "https://www.facebook.com/abscbnNEWS/posts/goodness-graciousbeen-hearing-this-phrase-recently-thats-all-due-to-vice-gandas-/1469313375243914/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "## ABS-CBN News's Post. ### **ABS-CBN News**. Been hearing this phrase recently? That’s all due to Vice Ganda's hit 2013 film \"Girl, Boy, Bakla, Tomboy\" gaining traction online. Check the comments section for the full story. Buong ulat: https://www.abs-cbn.com/.../vice-ganda-s-goodness... Vice Ganda’s ‘goodness gracious’ line resurfaces, trends online | ABS-CBN Entertainment. ### Vice Ganda’s ‘goodness gracious’ line resurfaces, trends online | ABS-CBN Entertainment. An image you can hear. Is he a natural blonde or a bleached blonde? you’re the one caught stealing on cctv oh my god‚ no way! i cannot take this anymore‚ no way! my twin brother is a criminal! ‘yan ang hindi ko matatanggap! ang tawagin mo kon— criminal? Most relevant is selected, so some comments may have been filtered out.",
+      "published_at": "Sun, 05 Apr 2026 12:01:35 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於菲律賓藝人Vice Ganda的電影台詞在網路上重新流行，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 831,
+      "title": "Disturbing trove of never-before-seen Michael Jackson photos - Daily Mail",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15702409/michael-jackson-photos-cascio-lawsuit.html",
+      "source": "Tavily (www.dailymail.co.uk)",
+      "snippet": "* Disturbing trove of never-before-seen photos shows Michael Jackson with 'distressed' alleged young victims, sparking explosive new lawsuit. # Disturbing trove of never-before-seen photos shows Michael Jackson with 'distressed' alleged young victims, sparking explosive new lawsuit. In the image, obtained by the Daily Mail and published for the first time, nine-year-old Dominic Cascio looks deeply uncomfortable and appears to recoil as Jackson puts his hand on his stomach and arm. The Cascio family first met Jackson in 1984 when Dominic, their father, managed Helmsley Palace in New York, a midtown hotel where the singer often stayed when in the city. A polaroid shot shared with the Daily Mail shows Edward Cascio posing with the singer – who is in his famous black fedora – at the Cascio family home in Franklin Lakes, New Jersey. ### Share or comment on this article: Disturbing trove of never-before-seen photos shows Michael Jackson with 'distressed' alleged young victims, sparking explosive new lawsuit. * **EXCLUSIVEDisturbing trove of never-before-seen photos shows Michael Jackson with 'distressed' alleged young victims, sparking explosive new lawsuit**.",
+      "published_at": "Sun, 05 Apr 2026 20:24:09 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "負面",
+      "sentiment_score": 0.05,
+      "summary": "一篇關於麥可傑克森與其被指控的年輕受害者之間令人不安的照片，引發新的訴訟。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 832,
+      "title": "The Industry Is Once Again Giving Kanye West a Pass - consequence.net",
+      "link": "https://consequence.net/2026/04/kanye-west-apology-redemption/",
+      "source": "Tavily (consequence.net)",
+      "snippet": "Even Experts Can’t Agree on Kanye West. Despite what he emoted in the much-discussed *Wall Street Journal* apology ad from January, Kanye West has done pretty much none of the moral soul-searching or action that many, including me, called for. “It seemed sincere.” As someone who lives with bipolar type 1, like Ye, I agree with Dr. Jones. With regards to the Black community, Ye has famously made jaw-dropping comments like slavery was “a choice,” and worn a T-shirt that bore the slogan “white lives matter.” West has also appropriated the Confederate flag, a symbol recognized for its deep anti-Blackness. Instead, he reminded us that he doesn’t *need* to apologize to be a top artist; he’s Kanye fucking West. “It’s my understanding that I was in the top 10 most listened-to artists overall in the US on Spotify in 2025, and last week and most days as well,” West told *Vanity Fair* on January 27th. Even Experts Can’t Agree on Kanye West.",
+      "published_at": "Fri, 03 Apr 2026 15:10:15 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討肯伊·威斯特的爭議行為及其在業界受到的寬容，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 833,
+      "title": "Badminton Destroyed by Westmoor Rams - M-A Chronicle",
+      "link": "https://machronicle.com/badminton-destroyed-by-westmoor-rams/",
+      "source": "Tavily (machronicle.com)",
+      "snippet": "First seed mixed doubles junior Kylie Lam and sophomore Colin Chien came off the court losing the first set 21-17 and the second set 23-21. Second seed boys doubles sophomore Jordan Lee and junior Dylan Chou met a similar fate, getting destroyed 21-8, 21-10 due to Westmoor’s superior drop shots. Second seeded girls doubles senior Jenna Lee\\* and Annika(Kyoto) Furukawa had a close match, playing with excellent placement and drop shots. Even with a rocky start for M-A, second seeded junior Kaya Lam came out focused, utilizing dropshots and smashes to win her game 21-12, 22-20. Still, the energy from Lam’s victory was short-lived as the Rams pushed back, beating first seeded boys singles sophomore Jack Trevor 21-9 and 21-6. That momentum carried on, allowing third seeded boys doubles sophomores Thomas Nelson and Haruki Uenaka to pull out a narrow win in a three-set battle, 21-17, 16-21, and 21-15. The Bears didn’t give up, and tried to take the girls doubles third seed game with freshman Alexander Tong and sophomore Khanya Ntwa.",
+      "published_at": "Sun, 05 Apr 2026 03:46:50 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導一場高中羽球賽事，其中提及一位名為Dylan Chou的學生球員，與周杰倫本人無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 834,
+      "title": "'SNL' welcomes Jack Black to five-timers club in cameo-filled sketch - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/tv/2026/04/05/snl-jack-black-five-timers-jonah-hill-melissa-mccarthy/89473667007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# 'SNL' welcomes Jack Black to five-timers club in cameo-filled sketch. ## \"Saturday Night Live\" welcomed Jack Black into the five-timers club with appearances by Melissa McCarthy, Tina Fey and more stars. The \"Super Mario Galaxy Movie\" actor kicked off the April 4 episode of \"Saturday Night Live\" with a star-studded monologue welcoming him into the \"five-timers club,\" the informal group of celebrities who have hosted \"SNL\" that many times. Traditionally, a star's fifth \"SNL\" episode as host includes a sketch where other five-timers induct them into the club and give them their own jacket, and Black's show was no exception. Inside, Tina Fey showed up and quipped that Black is \"officially the first Black in the five-timers club.\" But she acknowledged the club lounge has \"seen better days\" and offered a meta critique on the premise of the cameo-filled five-timers club sketches, saying the idea had been \"run into the ground.\". Before Black, the last star to enter the \"SNL\" five-timers club was Martin Short, who hosted his fifth episode in 2024.",
+      "published_at": "Sun, 05 Apr 2026 05:14:00 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了演員傑克·布萊克（Jack Black）加入《週六夜現場》（SNL）五次主持俱樂部，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 835,
+      "title": "Tina Fey, Jonah Hill, Melissa McCarthy Join Jack Black SNL Monologue - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/tv/tv-news/jack-black-tina-fey-jonah-hill-snl-monologue-1236556031/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "It’s a huge honor to join the Five-Timers club,” he said. ### 'Saturday Night Live': Jack Black, Colman Domingo to Host in April](https://www.hollywoodreporter.com/tv/tv-news/snl-season-51-hosts-musical-guests-list-1236374762/). “Yes, you’re right, it feels like there’s evil lurking around every corner,” Black said, before Tina Fey popped up. “I wanted to congratulate you on a historic night,” she said, before joking, “You’re officially the first Black in the Five-Timers club.” Black questioned what had become of the club, which Fey explained that “it’s seen better days.”. “I think it’s made out of Paddington,” she added, which led to Candice Bergen, who is notably the first woman to join *SNL*‘s Five-Timers club, joining in on the fun. Hill jokingly referred to him as “my hero, Professor Snape,” to which the *Anaconda* actor corrected him: “It’s five-time musical guest and my partner tonight, Jack White!”. “We’ve got Melissa, Candice Bergen, Jonah Hill and Mrs. Tina Fey, it’s my nightmare blunt rotation, and I think it’s gonna save the day,” Black sang, before being given his own Five-Timers club jacket.",
+      "published_at": "Sun, 05 Apr 2026 04:00:04 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於傑克·布萊克（Jack Black）加入《週六夜現場》（SNL）五次俱樂部，並無提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 836,
+      "title": "A music festival booked Kanye West, now known as Ye, and lost major sponsors - NPR",
+      "link": "https://www.npr.org/2026/04/05/nx-s1-5774562/kanye-west-ye-wireless-festival-london-uk-pepsi-diageo",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Major sponsors drop out after Ye was announced to headline U.K. festival** **The rapper Ye was announced as the headliner for the Wireless Festival in London. # A music festival booked Kanye West, now known as Ye, and lost major sponsors. Rapper and producer Ye, also known as Kanye West, seen before a 2025 concert in Shanghai. Sponsors are exiting a major U.K. music festival and the country's prime minister has been critical after the influential rapper Ye was announced as the event's headliner. The once widely revered musician and fashion impresario, formerly known as Kanye West, has gained notoriety over the years for his antisemitic comments and activities glorifying Nazis, including a 2025 song called \"Heil Hitler\" and selling swastika T-shirts on his clothing site. Yet organizers announced last week that West would headline the Wireless Festival in North London for the entirety of its three-night run in July, invoking outrage from politicians and withdrawals from festival sponsors.",
+      "published_at": "Sun, 05 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導肯伊·威斯特（Ye）因爭議言論導致音樂節失去主要贊助商，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 837,
+      "title": "Pepsi Cancels Sponsorship of U.K. Festival With Kanye West Headlining - variety.com",
+      "link": "https://variety.com/2026/music/news/kanye-west-wireless-pepsi-cancels-sponsor-prime-minister-1236708665/",
+      "source": "Tavily (variety.com)",
+      "snippet": "The scheduled three-night headlining appearance by Ye, formerly Kanye West, at the Wireless Festival in London is only growing in controversy. “It is deeply concerning Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism,” Starmer said in a statement to the British newspaper the Sun. Starmer was not the first political figure in the U.K. to raise an objection to the scheduled London appearance by Ye. Liberal Democrat leader Ed Davey expressed his view Thursday that Ye should be banned from entering the U.K., saying that “we need to get tougher on antisemitism.”. Ye’s three-night appearance at the Wireless Festival are being billed as his first U.K. appearance in 11 years. Some Jewish leaders in the U.K. immediately slammed the booking as “deeply irresponsible,” like the Jewish Leadership Council, which said in a statement to the Guardian, “West has repeatedly used his platform to spread antisemitism and pro-Nazi messaging … Any venue or festival should reconsider before providing their platform to Kanye West to spread his antisemitism.”.",
+      "published_at": "Sun, 05 Apr 2026 11:06:37 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於肯伊·威斯特因其反猶言論引發爭議，導致百事可樂取消贊助他將演出的音樂節，並有英國政治人物呼籲禁止他入境，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 838,
+      "title": "Kanye West headlining Wireless festival is ‘deeply concerning’, says Keir Starmer - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/apr/05/kanye-west-wireless-festival-deeply-concerning-keir-starmer",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Kanye West headlining Wireless festival is ‘deeply concerning’, says Keir Starmer. PM says antisemitism is ‘abhorrent’ after booking of West, who has song called Heil Hitler and last year advertised swastika T-shirt. Keir Starmer has said it is “deeply concerning” that Kanye West, the US rapper who has made a series of antisemitic comments, is to appear at a British music festival. Starmer said: “It is deeply concerning that Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism. Ed Davey, the Liberal Democrat leader, has called on the government to ban West from entering the UK, saying: “We need to get tougher on antisemitism.” He described West’s planned appearance as “extremely serious”. The Jewish Leadership Council last week condemned Wireless festival for booking the rapper, who will appear after heightened attacks on the UK Jewish community. West apologised in January for his antisemitic remarks in a letter published as a full-page advert in the Wall Street Journal.",
+      "published_at": "Sun, 05 Apr 2026 08:49:27 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Kanye West因反猶言論引發的演出爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 839,
+      "title": "Pepsi Pulls U.K. Festival Sponsorship Amid Kanye West Booking - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/music/music-news/pepsi-pulls-u-k-wireless-festival-sponsorship-kanye-west-1236556114/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# Pepsi Pulls U.K. Festival Sponsorship Amid Kanye “Ye” West Booking. Pepsi has reportedly withdrawn its sponsorship of the Wireless Festival in London amid the booking of controversial rapper Kanye West, now known as Ye. The “Runaway” artist, who has been at the center of criticism in recent years for several antisemitic remarks and releasing a song called “Heil Hitler,” is set to headline all three nights of the U.K. festival this summer, which runs from July 10-12. A spokesperson for Pepsi, which has been a long-standing partner and headline sponsor of the Wireless Festival for several years, wrote in a statement, “Pepsi has decided to withdraw its sponsorship of Wireless festival,” the *BBC* reported. ### Kanye West's Comeback Show Draws Star Power -- and Backlash](https://www.hollywoodreporter.com/music/music-news/kanye-west-lauryn-hill-travis-scott-controversy-1236555979/). He told *The Sun* newspaper, “It is deeply concerning that Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism. ### Kanye West’s Comeback Show Draws Star Power — and Backlash.",
+      "published_at": "Sun, 05 Apr 2026 15:42:30 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了百事可樂因肯伊·威斯特的爭議性預訂而撤回對Wireless音樂節的贊助，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 840,
+      "title": "Kanye West Brings Out Lauryn Hill and Travis Scott for Wild Second Night in L.A. - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/kanye-west-lauryn-hill-travis-scott-los-angeles-concert-two-1235541886/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "# Kanye West Brings Out Lauryn Hill and Travis Scott for Wild Second Night in L.A. North West, CeeLo Green, André Troutman, Zion Marley, and YG Marley also performed during Ye's sold-out concert at SoFi stadium. Over a year ago, Kanye West said that his then-unreleased 12th studio album *Bully* felt like his personal version of Lauryn Hill’s seminal 1998 record *The Miseducation of Lauryn Hill*. Ye, a longtime fan of Hill, sampled her live album *MTV Unplugged No. 2.0* cut “Mystery of Iniquity” on his Grammy-nominated 2004 single, “All Falls Down.” At the time, he couldn’t clear the original sample for the official release of the track and enlisted Syleena Johnson to re-sing the portions that featured on *The College Dropout* version. Ye’s daughter, North, who also made an appearance on day one, showed up for a second round to rap “Bless Me” and “Piercing on My Hand.” In another special moment, Ye invited André Troutman to perform their song, “All the Love.”.",
+      "published_at": "Sat, 04 Apr 2026 07:49:52 GMT",
+      "collected_at": "2026-04-06 06:21:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Kanye West的演唱會，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -11748,6 +11944,21 @@
         "Spotify推專屬體驗"
       ],
       "created_at": "2026-04-05 06:04:23"
+    },
+    {
+      "id": 14,
+      "report_date": "2026-04-06",
+      "total_articles": 14,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 13,
+      "daily_summary": "周杰倫「嘉年華II」巡演於杭州盛大開唱，不僅首唱7首新歌，更出動14公尺巨型機甲，吸引5萬粉絲狂嗨。他公開英國古堡求婚昆凌的影片引發熱議，女主播分析求婚細節更顯珍貴。此外，Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
+      "key_events": [
+        "嘉年華II杭州開唱",
+        "求婚影片引熱議",
+        "Spotify專屬體驗"
+      ],
+      "created_at": "2026-04-06 06:23:31"
     }
   ],
   "notification_logs": [
@@ -12016,11 +12227,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-05 06:04:24"
+    },
+    {
+      "id": 39,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-06 06:23:31"
+    },
+    {
+      "id": 40,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-06 06:23:32"
     }
   ],
   "_meta": {
-    "nextArticleId": 827,
-    "nextReportId": 14,
-    "nextLogId": 39
+    "nextArticleId": 841,
+    "nextReportId": 15,
+    "nextLogId": 41
   }
 }
