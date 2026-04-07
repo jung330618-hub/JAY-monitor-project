@@ -1,33 +1,25 @@
 {
   "todayStats": {
-    "total": 14,
+    "total": 12,
     "positive": 0,
-    "negative": 1,
-    "neutral": 13
+    "negative": 0,
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 600,
-    "positive": 182,
-    "negative": 24,
-    "neutral": 394,
-    "avg_score": 0.61
+    "total": 630,
+    "positive": 198,
+    "negative": 26,
+    "neutral": 406,
+    "avg_score": 0.62
   },
   "trend": [
     {
-      "date": "2026-03-23",
-      "total": 28,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 28,
-      "avg_score": 0.5
-    },
-    {
       "date": "2026-03-25",
       "total": 237,
-      "positive": 159,
-      "negative": 18,
+      "positive": 170,
+      "negative": 19,
       "neutral": 48,
-      "avg_score": 0.76
+      "avg_score": 0.77
     },
     {
       "date": "2026-03-26",
@@ -116,9 +108,185 @@
       "negative": 1,
       "neutral": 13,
       "avg_score": 0.47
+    },
+    {
+      "date": "2026-04-07",
+      "total": 12,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 12,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 841,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Rjtheweirdo, Sekou, Lazer Dim 700, Marlon Craft & More - Billboard",
+      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-rjtheweirdo-sekou-wiz-khalida/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Rjtheweirdo, Sekou, Lazer Dim 700, Marlon Craft & More. Listen to new must-hear songs from R&B/hip-hop artists like S! Ye quickly stole the weekend’s headlines from Pooh, thanks to his new *Bully* album, which opened at No. 2 on the Billboard 200 behind BTS’s *Arirang*, and its accompanying pair of SoFi Stadium shows in Los Angeles. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from a disco-infused Sekou to a new Lazer Dim 700 banger. Bridging elements of synth-pop, disco, and R&B, Sekou’s robust, chest-y voice reverberates across Cirkut and M-Phazes’ bass-driven soundscape with lyrics like, “It’s 2:00 a.m., and I’m waiting up for you/ If I want trouble, you’re really not hard to find/ Regret kicked in from the moment I called you.” Equal parts playful and cautious, Sekou casually dropped a springtime bop that can comfortably live on both R&B and pop playlists.",
+      "published_at": "Mon, 06 Apr 2026 17:55:49 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Billboard文章介紹了本週R&B/Hip-Hop領域的新歌精選，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 842,
+      "title": "All of Ye’s Solo Albums Ranked From Worst to Best: Critics’ Picks - billboard.com",
+      "link": "https://www.billboard.com/lists/kanye-west-albums-ranked/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "As one of the century’s premier hitmakers and influential artists invading music’s A-list, ranking West’s albums has been a passionate discussion among hip-hop fans for two decades, and *Billboard*‘s Michael Saponara and Armon Sadler will be adding to that with the list here. *The Life of Pablo* was an ever-changing set of music in multiple ways: Ye repeatedly switched the title ahead of its official release and continually updated the music, even adding songs, for months after it hit DSPs. Nonetheless, the album was such a flex between the star-studded cast of features and records that matter to the culture to this day. (Credit to him for obliging to the traditional four-year structure of a college career, by the way.) Beyond that, he showed he was ready for the real world by taking his abilities to yet another level: Pick the five best songs from any album throughout history and match them up against “Stronger,” “Good Life,” “Can’t Tell Me Nothing,” “Flashing Lights,” and “Homecoming.” The games may be close, but if this were a seven-game series, it may end like the Golden State Warriors sweeping the Cleveland Cavaliers in the 2018 NBA Finals.",
+      "published_at": "Mon, 06 Apr 2026 20:49:44 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於肯伊·威斯特（Kanye West）的專輯排名，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 843,
+      "title": "U.K. government reviewing Kanye West's permission to enter country for London festival - NBC News",
+      "link": "https://www.nbcnews.com/video/u-k-government-reviewing-kanye-west-s-permission-to-enter-country-for-london-festival-260800581814",
+      "source": "Tavily (www.nbcnews.com)",
+      "snippet": "U.K. government reviewing Kanye West's permission to enter country for London festival. ## U.K. government reviewing Kanye West's permission to enter country for London festival. * ## Billy Ray and Noah Cyrus Talk New Album, ‘The Hill’. * ## Shaggy Talks New Album ‘Lottery,’ Viral Wardrobe Choices, More. * ## Cardi B Talks New Hair Care Line, Music Tour, Motherhood, More. # U.K. government reviewing Kanye West's permission to enter country for London festival. U.K. government ministers are reviewing Kanye West's permission to enter the country following backlash over the decision to have the star, now known as Ye, to headline a London music festival this summer. NBC News’ Jesse Kirsch reports on the festival’s response.April 7, 2026. ## U.K. government reviewing Kanye West's permission to enter country for London festival. * ## Billy Ray and Noah Cyrus Talk New Album, ‘The Hill’. ## U.K. government reviewing Kanye West's permission to enter country for London festival. ## Nightly News.",
+      "published_at": "Tue, 07 Apr 2026 01:59:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導英國政府正在審查肯伊·威斯特（Kanye West）入境英國參加倫敦音樂節的許可，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 844,
+      "title": "Kanye West's comeback stirs controversy - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/632846",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Home  › ABC       06.04.2026. # Kanye West's comeback stirs controversy. Kanye West, now known as Ye, is facing new backlash during his attempted comeback despite his album \"Bully\" charting highly. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G. ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices. Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? Read ABC News reports online: http://abcnews.go.com. ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”. Connect with ABC News on social media:. Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Mon, 06 Apr 2026 12:10:00 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Kanye West的爭議性復出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 845,
+      "title": "Apple Sued by Three YouTube Channels - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/06/apple-sued-by-three-youtube-channels/",
+      "source": "Tavily (www.macrumors.com)",
+      "snippet": "Three established YouTube channels have sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by unlawfully accessing and scraping millions of copyrighted videos from YouTube to train its AI models. Apple's research papers indicate that some of the YouTube videos uploaded by the plaintiffs were used to train its AI models, the complaint alleged. ### Apple CarPlay Just Got Three Popular iPhone Apps. A lawsuit brought against Apple by music streaming app Musi has been dismissed by a federal judge, after she ruled that Apple's developer agreement gives it the right to remove any app from the App Store at any time, \"with or without cause.\" Launched in 2013 by two Canadian teenagers, Musi was an app that played YouTube videos in a stripped-down interface, showed its own ads (removable for... ### Apple Wanted to Buy Halide to Boost iPhone 18 Pro's Camera App—Now There's a Lawsuit. iPhone 17 vs iPhone 17 Pro vs iPhone Air. Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy? Apple to Unveil iOS 27 in June With These New Features Beyond Siri.",
+      "published_at": "Mon, 06 Apr 2026 15:53:49 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導蘋果公司面臨YouTube頻道侵權訴訟、應用程式Musi的訴訟被駁回，以及蘋果產品和技術的更新，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 846,
+      "title": "Paris Jackson’s Brother Blanket Failed in Attempt to Intervene in Estate Battle - TMZ",
+      "link": "https://www.tmz.com/2026/04/06/blanket-jackson-fails-to-intervene-in-dads-estate-battle/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Paris Jackson’s Brother Blanket Failed in Attempt to Intervene in Estate Battle. ## Paris Jackson’s Bro Blanket's Team Failed in Attempt to Intervene In Battle With Estate. **Paris Jackson**’s little brother, **Blanket \"Bigi\" Jackson**, and his legal team were apparently unsuccessful in their attempt to resolve her bitter battle with their late father’s estate ... Michael’s estate executors, **John Branca** and**John McClain**, called out Paris for backing out of a deal they say was recently reached between the executors and Jackson's children. Paris has been fighting the executors over certain payments made by the estate to third-party law firms that she felt were excessive, and has been pushing for a better process in court for approval of such payments. In new docs, the estate said they were close to an agreement with Paris -- after Blanket and his legal team spearheaded an effort to resolve the issues. The executors claim Blanket’s lawyer told them he spoke for all three of Michael’s children -- including Paris and Blanket’s brother, **Prince Jackson**.",
+      "published_at": "Mon, 06 Apr 2026 22:30:35 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 847,
+      "title": "Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Trump's agenda - CNBC",
+      "link": "https://www.cnbc.com/video/2026/04/06/jay-clayton-acting-ag-blanche-is-really-competent-and-knows-pres-trumps-agenda.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Jay Clayton, U.S. attorney for the Southern District of New York and former SEC chair, joins 'Squawk Box' to discuss the firing of former Attorney General Pam Bondi, President Trump's management style, allegations of Russian interference in the 2016 election, and more. Watch CNBC’s full interview with U.S. Attorney for the Southern District of New York Jay Clayton. Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Investors shouldn’t feel the need to chase short-lived relief rallies: Fairlead’s Katie Stockton. The risk-reward is quite good for stocks now, says Fundstrat's Tom Lee. JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets. Watch CNBC’s full interview with U.S. Attorney for the Southern District of New York Jay Clayton. Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Investors shouldn’t feel the need to chase short-lived relief rallies: Fairlead’s Katie Stockton.",
+      "published_at": "Mon, 06 Apr 2026 12:03:48 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於美國政治人物Jay Clayton的評論，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 848,
+      "title": "Pacers' Jay Huff: Starting against Bulls - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/pacers-jay-huff-starting-against-bulls/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: pacers-jay-huff-starting-against-bulls | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Pacers' Jay Huff: Starting against Bulls. Huff started in three consecutive contests before heading to the bench for Sunday's 135-118 win over the Miami Heat. However, Pascal Siakam will move back to the four spot Wednesday, allowing Huff to re-enter the starting lineup. * ##### Pacers' Jay Huff: Coming off bench Sunday. * ##### Pacers' Jay Huff: Strong line in loss. * ##### Pacers' Jay Huff: Logs 28 minutes in win. * ##### Pacers' Jay Huff: Joins starting lineup. * ##### Pacers' Jay Huff: Bench role continues. * ##### Pacers' Jay Huff: Scores 10 off bench. Mike Barner • 4 min read. Adam King • 5 min read. Mike Barner • 3 min read. Mike Barner • 3 min read. #### Waivers: Must-adds for playoffs. Alex Barutha • 3 min read. Mike Barner • 4 min read.",
+      "published_at": "Wed, 01 Apr 2026 23:52:02 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於籃球員Jay Huff，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 849,
+      "title": "Jack White Added as Surprise Performer For Coachella Weekend One - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/music/music-news/jack-white-added-performer-coachella-2026-weekend-one-1236557122/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# Jack White Added as Surprise Performer For Coachella Weekend One. The rock and roll icon will play at the festival for the first time since he headlined back in 2015. The rock star was added as a surprise act for Coachella for this weekend, with the music festival announcing White’s set in a post revealing the performance times for weekend one. White’s not the first veteran star to get added to Coachella’s lineup for a surprise set in the past few years. ### Wireless Festival Head Defends Kanye West Booking: \"Offer Some Forgiveness and Hope\"](https://www.hollywoodreporter.com/music/music-news/wireless-festival-uk-defends-kanye-west-booking-1236556693/). ### Kanye West's Tale of Two Comebacks](https://www.hollywoodreporter.com/music/music-features/kanye-west-ye-tale-of-two-comebacks-bully-wireless-festival-1236556791/). White’s set comes a week after he released a pair of singles — “G.O.D. and the Broken Ribs” and “Derecho Demonico”— on Friday, a day before he served as musical guest on *Saturday Night Live* while Jack Black was the host. ### Wireless Festival Head Defends Kanye West Booking: “Offer Some Forgiveness and Hope”.",
+      "published_at": "Tue, 07 Apr 2026 04:26:50 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Jack White作為驚喜表演者加入Coachella音樂節，並提及Kanye West，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 850,
+      "title": "Wireless Festival Promoter Defends Kanye West as Sponsors Pull Out - Variety",
+      "link": "https://variety.com/2026/music/news/wireless-festival-promoter-defends-kanye-west-forgiveness-1236709770/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Wireless Festival Promoter Defends Kanye West as Headliner as Sponsors Pull Out, Asks Brits’ ‘Forgiveness’ for Rapper’s ‘Abhorrent’ Past Statements. Melvin Benn, who serves as managing director at Festival Republic, the U.K. promoter behind Wireless, issued a statement to *Variety* on Monday defending Ye based on his own experiences dealing with people who suffer from mental health issues. He called Ye’s previous declarations about Jews and Hitler “abhorrent,” but that they are “not giving him a platform to extol opinion of whatever nature” but only to perform songs that are “enjoyed by millions.” “Forgiveness and giving people a second chance are becoming a lost virtue in this ever-increasing divisive world,” he stated, “and I would ask people to reflect on their instant comments of disgust at the likelihood of him performing (as was mine) and offer some forgiveness and hope to him as I have decided to do.”.",
+      "published_at": "Mon, 06 Apr 2026 20:44:58 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導Wireless Festival主辦方為Kanye West辯護，儘管贊助商撤回，並呼籲大眾給予Kanye第二次機會。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 851,
+      "title": "Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows - TMZ",
+      "link": "https://www.tmz.com/2026/04/06/kanye-west-ye-los-angeles/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Savannah Guthrie Delivers Easter Message Amid Mom's Disappearance. ### 'Age of Attraction's Derrick Fleming Dated Cast Member Post-Filming, Denies It Was Serious. ### Kardashians Go All Out With Massive Easter Baskets. # Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows. ## Kanye West Just Call Me The Comeback Kid ... Bloomberg says Ye snagged more than $18 million in ticket sales during his Friday concert alone, making it one of the highest grossing single shows in the history of live music. But Bloomberg cautioned Ye's two sold-out L.A. gigs could just be an aberration considering all of his issues involving antisemitism dating back to 2022. But now, some of those corporations, are giving Ye a second chance, namely Spotify and RapCaviar, according to Bloomberg. In addition, Ye's L.A. shows were publicized by hip hop mogul Rod Wave's company, which partners with Live Nation, the world's biggest concert promoter.",
+      "published_at": "Mon, 06 Apr 2026 09:11:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於Kanye West的復出演唱會收益，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 852,
+      "title": "Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition - variety.com",
+      "link": "https://variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-1236710074/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition. Set times for the first weekend of performances this Friday through Sunday were finally posted late Monday night, allowing the world to know exactly when headliner Sabrina Carpenter, Justin Bieber and Karol G will take the stage, on top of dozens of other artists. The unveiling of the itinerary revealed one surprise in the lineup, as well: an appearance by Jack White… not in a headliner slot, or anything even close to it, but rather a 45-minute Mojave Tent performance smack in the middle of Saturday afternoon, at 3 p.m. He’s set to perform at 11:25 p.m. on the festival’s hump night. The most wooden performance of the festival — arguably — will take place Friday at 2:55 p.m. Arrive late enough to miss this historic appearance and you might as well just turn around and go home.",
+      "published_at": "Tue, 07 Apr 2026 05:07:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Coachella音樂節公布演出時間表，並提及Jack White作為驚喜嘉賓，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 827,
       "title": "Kanye West’s ‘Bully’ Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With ‘Arirang’ - Variety",
@@ -370,192 +538,39 @@
       "summary": "此新聞內容與周杰倫無關，主要報導金騎士隊在NHL賽事中擊敗油人隊，以及舊金山灣區的其他新聞。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 818,
-      "title": "PWHL game in New York sets US pro women's hockey attendance record - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/sports/article/pwhl-game-in-new-york-sets-us-pro-women-s-hockey-22189908.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# PWHL game in New York sets US pro women's hockey attendance record. NEW YORK (AP) — The PWHL has another professional women’s hockey attendance record in the U.S., with the game between the New York Sirens and Seattle Torrent at Madison Square Garden on Saturday night drawing a crowd of 18,006. Playing their first game at the Garden, the Sirens won 2-1 in a shootout. In a season marred by injuries, the Golden State Warriors still have stakes to play for with Stephen Curry on the mend and some ambitions for this season and next to realize and sustain. The Golden State Valkyries should still have a strong roster for their second season, but with choices about free agents to make in the WNBA’s compressed offseason, they have plenty left to do. A pioneering Bay Area vegan restaurant closes after more than 30 years. The Bay Area’s most radical new Mexican restaurant. One shot near S.F.’s Parkmerced. The Bay Area’s most radical new Mexican restaurant.",
-      "published_at": "Sun, 05 Apr 2026 05:05:23 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於美國職業女子冰球聯賽創下觀賽人數紀錄，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 819,
-      "title": "When could we realistically see Zack Wheeler back with the Phillies? - Yahoo Sports",
-      "link": "https://sports.yahoo.com/videos/could-realistically-see-zack-wheeler-054024946.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "*[Zack Wheeler strikes out three over three innings in first rehab start originally appeared on NBC Sports Philadelphia*. *[Taking a closer look at Zack Wheeler's rehab start on Saturday originally appeared on NBC Sports Philadelphia*. *[Zack Wheeler reflects on first rehab start in Lehigh Valley originally appeared on NBC Sports Philadelphia*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/zack-wheeler-reflects-first-rehab-054433666.html). *[Zack Wheeler back on the mound for first time since surgery originally appeared on NBC Sports Philadelphia*. *[Zack Wheeler strikes out three over three innings in first rehab start originally appeared on NBC Sports Philadelphia*. *[Zack Wheeler reflects on being on a mound for first time since surgery originally appeared on NBC Sports Philadelphia*. *[Taking a closer look at Zack Wheeler's rehab start on Saturday originally appeared on NBC Sports Philadelphia*. *[Zack Wheeler reflects on first rehab start in Lehigh Valley originally appeared on NBC Sports Philadelphia*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/zack-wheeler-reflects-first-rehab-054433666.html). *[Zack Wheeler reflects on being on a mound for first time since surgery originally appeared on NBC Sports Philadelphia*.",
-      "published_at": "Sun, 05 Apr 2026 05:40:24 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於棒球選手Zack Wheeler的復健賽，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 820,
-      "title": "2026 NBA playoff picture: April 5 clinching scenarios and stakes for postseason contenders - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/2026-nba-playoff-picture-april-5-clinching-scenarios-and-stakes-for-postseason-contenders-173254603.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "**What’s at stake:** The No. 2 seed and home-court advantage in the Eastern Conference semifinals. **What’s at stake:** The No. 2 seed and home-court advantage in the Eastern Conference semifinals. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 5 or 6 seed and a guaranteed playoff berth. **What’s at stake:** The No. 1 seed and home-court advantage throughout the playoffs. **What’s at stake:** The No. 1 seed and home-court advantage throughout the playoffs. **What’s at stake:** The No. 7 seed and home-court advantage against the No. 8 seed in their opening game of the play-in tournament.",
-      "published_at": "Sun, 05 Apr 2026 03:04:00 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於2026年NBA季後賽的戰況分析，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 821,
-      "title": "Giancarlo Stanton’s 2-run single lifts Yankees past Marlins 9-7 - Greenwich Time",
-      "link": "https://www.greenwichtime.com/sports/article/giancarlo-stanton-s-2-run-single-lifts-yankees-22189812.php",
-      "source": "Tavily (www.greenwichtime.com)",
-      "snippet": "Jack Kochanowicz (1-0) allowed four hits and struck out seven over 5 2/3 innings, and Zach Neto provided the only run, walloping Seattle right-hander Emerson Hancock’s fourth pitch for a 443-foot homer in the first. CHICAGO (AP) — Munetaka Murakami hit a two-run homer and Colson Montgomery followed with a solo shot in Chicago’s three-run sixth inning as the White Sox beat Toronto for its second straight victory. Sproat pitched 3 2/3 innings, allowing four runs on four hits and three walks with four strikeouts. Royals starter Seth Lugo threw 103 pitches in five innings, allowing two runs on four hits and two walks, striking out seven. WASHINGTON (AP) — Freddie Freeman hit two-run doubles in the first and second innings and Andy Pages added a three-run homer in the fifth to help Los Angeles to a rout of Washington. Jesús Luzardo (1-1) allowed one run on five hits over 6 2/3 innings while striking out 11 and walking none in a strong bounce-back outing after a rough start to the season.",
-      "published_at": "Sun, 05 Apr 2026 04:32:18 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞內容與周杰倫無關，主要報導棒球賽事結果與球員表現。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 822,
-      "title": "DET @ PHI on 2026-04-04-Mobile View- - NBA",
-      "link": "https://www.nba.com/watch/video/det-phi-on-2026-04-04-mobile-view?plsrc=nba&collection=games-test",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "## DET @ PHI on 2026-04-04-Mobile View-. DET @ PHI on 2026-04-04-Mobile View-. * #### DET @ PHI on 04/04/2026-Portuguese (ESPN). DET @ PHI on 04/04/2026-Portuguese (ESPN)\"). * #### SAS @ DEN on 04/04/2026-Portuguese - Brazil (Prime Video). SAS @ DEN on 04/04/2026-Portuguese - Brazil (Prime Video)\"). * #### SAS @ DEN on 04/04/2026-Spanish - Mexico (Prime Video). SAS @ DEN on 04/04/2026-Spanish - Mexico (Prime Video)\"). * #### DET @ PHI on 2026-04-04-Mobile View-. DET @ PHI on 2026-04-04-Mobile View-. * #### DET @ PHI on 2026-04-04-Pistons-away. DET @ PHI on 2026-04-04-Pistons-away. * #### DET @ PHI on 2026-04-04-NBA BallerMode-. DET @ PHI on 2026-04-04-NBA BallerMode-. * #### DET @ PHI on 2026-04-04-NBA TV-. DET @ PHI on 2026-04-04-NBA TV-. * #### DET @ PHI on 2026-04-04-76ers-home. DET @ PHI on 2026-04-04-76ers-home. * #### WAS @ MIA on 2026-04-04-French (AI-Generated)-. WAS @ MIA on 2026-04-04-French (AI-Generated)--\"). * #### WAS @ MIA on 2026-04-04-Portuguese (AI-Generated)-. WAS @ MIA on 2026-04-04-Portuguese (AI-Generated)--\").",
-      "published_at": "Sun, 05 Apr 2026 04:27:24 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞內容是關於NBA賽事預告及轉播資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 823,
-      "title": "Golden Knights beat Oilers 5-1 to tighten Pacific Division race - AP News",
-      "link": "https://apnews.com/article/golden-knights-oilers-score-6b61124d25c6077e8a70688579ce1760",
-      "source": "Tavily (apnews.com)",
-      "snippet": "Vegas Golden Knights’ Ivan Barbashev (49), Mark Stone (61) and Noah Hanifin (15) celebrate a goal against the Edmonton Oilers during the third period of an NHL hockey game in Edmonton, Alberta, on Saturday, April 4, 2026. Vegas Golden Knights’ Ivan Barbashev (49), Mark Stone (61) and Noah Hanifin (15) celebrate a goal against the Edmonton Oilers during the third period of an NHL hockey game in Edmonton, Alberta, on Saturday, April 4, 2026. Vegas Golden Knights’ Ivan Barbashev (49), Mark Stone (61) and Noah Hanifin (15) celebrate a goal against the Edmonton Oilers during the third period of an NHL hockey game in Edmonton, Alberta, on Saturday, April 4, 2026. EDMONTON, Alberta (AP) — Carter Hart made 31 saves and the Vegas Golden Knights tightened the Pacific Division race, beating the Edmonton Oilers 5-1 on Saturday night to remain perfect in John Tortorella’s first three games as coach.",
-      "published_at": "Sun, 05 Apr 2026 05:18:09 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導的是NHL冰球賽事，拉斯維加斯黃金騎士隊以5-1擊敗愛德蒙頓油人隊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 824,
-      "title": "Andre Drummond throws it down - NBA",
-      "link": "https://www.nba.com/watch/video/andre-drummond-throws-it-down-9",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "* #### Game Recap: Pistons 116, 76ers 93. The Pistons defeated the 76ers, 116-93, to clinch the 1-seed in the East, improving to 57-21, while the 76ers fall to 43-35. * #### Game Recap: Nuggets 136, Spurs 134. The Denver Nuggets defeated the San Antonio Spurs, 136-134 in OT, improving to 50-28 on the season, while the Spurs fall to 59-18. * #### Game Recap: Heat 152, Wizards 136. The Miami Heat defeated the Washington Wizards, 152-136, to improve to 41-37 on the season, while the Wizards fall to 17-60. * #### Game Recap: Kings 117, Pelicans 113. The Kings defeat the Pelicans, 117-113 as they move to 21-57, while the Pelicans fall to 25-53 with the outcome. * #### Game Recap: Magic 138, Mavericks 127. * #### Game Recap: Raptors 128, Grizzlies 96. * #### Game Recap: Celtics 133, Bucks 101. * #### Game Recap: Rockets 140, Jazz 106. * #### Game Recap: Hawks 141, Nets 107. * #### Game Recap: Knicks 136, Bulls 96.",
-      "published_at": "Sun, 05 Apr 2026 04:52:30 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞摘要了近期NBA多場賽事結果，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 825,
-      "title": "Munki explores growth and self-discovery on new track “Far Away” - EARMILK",
-      "link": "https://earmilk.com/2026/04/04/munki-explores-growth-and-self-discovery-on-new-track-far-away/",
-      "source": "Tavily (earmilk.com)",
-      "snippet": "# Munki explores growth and self-discovery on new track “Far Away”. **Munki**’s “Far Away” feels like a defining step into the spotlight for the UK multi-instrumentalist, marking a confident shift from collaborator to solo storyteller. As the second single from his upcoming EP, *Four Leaf Clover*, the track carries a sense of movement both literal and emotional, built around themes of self-discovery and independence. Lyrics like “Far away I will wander / Further I will roam” establish a journey without a fixed destination, mirroring the uncertainty that often accompanies personal growth. What works particularly well is how the track balances reflection with a sense of optimism. #### Sahvvv aims to impress on her dark and atmospheric debut single 'Dangerous'. ## Hallie Marie mourns a whirlwind romance on new single \"A Space of Clarity\". ## Satya reflects during dark moments in recent single \"Project 10\". ## Jordan Renzi releases new single \"Edge of the Sea\" ahead of new album.",
-      "published_at": "Sun, 05 Apr 2026 02:15:00 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導多位獨立音樂人如Munki、Sahvvv等的新歌發布，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 826,
-      "title": "Jack Black and Jack White Kick Off SNL Crossover Episode with \"Seven Nation Army\" Performance - Consequence of Sound",
-      "link": "https://consequence.net/2026/04/jack-black-jack-white-snl-seven-nation-army/",
-      "source": "Tavily (consequence.net)",
-      "snippet": "Jack White Unleashes New Two-Song Single Ahead of SNL Appearance. In a sketch celebrating Black’s entrance into *SNL*’s Five-Timers Club, White joined his fellow Jack for a revamped rendition of “Seven Nation Army.”. Black then decided he was “gonna fix it by singing the world’s most rockin’ song,” prompting him and his Jack Zebra compadre to perform “Seven Nation Army” with reworked lyrics about the Five-Timers Club and the night’s episode. > Jack Black's Five-Timers monologue! ### Paul Simon Performs Gentle Version of \"Something So Right\" on Colbert: Watch. ### Maggie Rogers Returns to Colbert to Perform \"Alaska\" and \"One for My Baby (And One More for the Road)\": Watch. ### David Byrne Performs \"When We Are Singing,\" Explains Using ICE Footage in Concerts on Colbert: Watch. ### BTS Perform \"SWIM\" from the Guggenheim on Fallon: Watch. ### Norah Jones and Josh Homme Perform \"Somethin Stupid!\" Cover on Kimmel: Watch. ### Dave Matthews Performs a Trio of Politically-Charged Songs on Colbert: Watch.",
-      "published_at": "Sun, 05 Apr 2026 04:02:12 GMT",
-      "collected_at": "2026-04-05 06:02:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Jack Black和Jack White在《週六夜現場》的表演，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 797,
-      "title": "Actor & Filmmaker Nathan Xia Signs With M88 - Deadline",
-      "link": "https://deadline.com/2026/04/nathan-xia-m88-agency-1236772924/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "# Actor & Filmmaker Nathan Xia Signs With M88. **EXCLUSIVE:** Nathan Xia has signed with M88 for representation. Xia is a Chinese American actor, filmmaker, and alternative artist from San Diego, California. His short film, *Adam’s Song* (2023), screened at a multitude of festivals and won awards at the Nashville Film Festival and the Ouray International Film Festival before being acquired for online distribution by Wong Fu Productions, NextShark, and FilmShortage, and broadcast TV distribution by PBS. Jordan, Gemma Chan & Yahya Abdul-Mateen II Joining Him In New Venture - The Dish](https://deadline.com/2025/09/phillip-sun-m88-new-venture-michael-b-jordan-gemma-chan-1236505399/). ### Filmmaker Henry Alexander Kelly Signs With M88](https://deadline.com/2025/08/henry-alexander-kelly-signs-m88-1236489946/). With his relationship with his father fracturing, Adam’s music career and personal life are at a crisis point in *Adam’s Song*. He followed up *Adam’s Song* with *Ayo, Check Up!,* a basketball mental-health dramedy. As an actor, Xia has appeared in Apple TV’s *Loot*, as well as in film and TV projects for Matty Matheson & Ricky Staffieri, Jim Cummings, and Danny Madden. ## Must Read Stories.",
-      "published_at": "Fri, 03 Apr 2026 17:24:39 GMT",
-      "collected_at": "2026-04-04 05:35:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於演員兼電影製作人Nathan Xia簽約M88，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 798,
-      "title": "Raye tops album charts with This Music May Contain Hope - BBC",
-      "link": "https://www.bbc.com/news/articles/c2k31wxvgvwo",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "# Raye tops album charts with This Music May Contain Hope. Award-winning singer-songwriter Raye has topped the album charts for the first time with This Music May Contain Hope. The album, which she released last week, is her second number one this year following the hugely successful single, Where the Hell is My Husband - which she debuted at Glastonbury last summer and is now approaching its billionth stream on Spotify. Olivia Dean's The Art of Loving is at number two in the album chart, while US rapper Kanye West, now known as Ye, is at number three with his new release Bully. Meanwhile, their album, Arirang, is at number four in the album chart. Her previous album, 2023's My 21st Century Blues, debuted at number two in the charts. ## Raye comes out swinging on her new album, This Music May Contain Hope. ## Harry Styles breaks his own sales record as new album hits number one.",
-      "published_at": "Fri, 03 Apr 2026 16:48:29 GMT",
-      "collected_at": "2026-04-04 05:35:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導Raye、Olivia Dean、Kanye West和Harry Styles等歌手在專輯榜單上的表現，未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 799,
-      "title": "The Launch List: From Moroccanoil’s New Scent To Rimowa’s Limited-Edition Luggage - Forbes",
-      "link": "https://www.forbes.com/sites/forbes-personal-shopper/2026/03/31/the-launch-list-march/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# The Launch List: From Moroccanoil’s New Scent To Rimowa’s Limited-Edition Luggage. Each month, our editors encounter a multitude of new product launches and collaborations. ## The Launch List: Best New Products, At A Glance. ### Eberjey x Ilia’s New Collaboration. But the new limited-edition grid design could easily win the award for most stylish bag of all time. But alas, when that day comes, I will be reaching straight for Shark’s new ChillPill to cool me down. Apple’s new, most affordable MacBook uses the same processor found in its iPhone 16 Pro and iPhone 16 Pro Max instead of an M-series chip, making it perfect for students and casual users who want a laptop but don’t want to spend more than three figures on a device. For the first time since 1955, the classic tilt-head model got a notable upgrade, in the form of the new Artisan Plus stand mixer. At-home facial massage is certainly having a moment, and thanks to the new Dermaflash Cool, it’s a breeze.",
-      "published_at": "Tue, 31 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-04-04 05:35:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要介紹多款新產品上市，未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 14,
-    "report_date": "2026-04-06",
-    "total_articles": 14,
+    "id": 15,
+    "report_date": "2026-04-07",
+    "total_articles": 12,
     "positive_count": 0,
-    "negative_count": 1,
-    "neutral_count": 13,
-    "daily_summary": "周杰倫「嘉年華II」巡演於杭州盛大開唱，不僅首唱7首新歌，更出動14公尺巨型機甲，吸引5萬粉絲狂嗨。他公開英國古堡求婚昆凌的影片引發熱議，女主播分析求婚細節更顯珍貴。此外，Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
+    "negative_count": 0,
+    "neutral_count": 12,
+    "daily_summary": "周杰倫近日話題不斷，公開了英國古堡求婚昆凌的影片，引發熱議。其「嘉年華II」巡演首站杭州場吸引5萬人，首唱7首新歌，並斥資5億打造14公尺巨型機甲，場面震撼。Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
     "key_events": [
-      "嘉年華II杭州開唱",
-      "求婚影片引熱議",
-      "Spotify專屬體驗"
+      "求婚影片曝光",
+      "嘉年華II開唱",
+      "Spotify推專區"
     ],
-    "created_at": "2026-04-06 06:23:31"
+    "created_at": "2026-04-07 06:09:45"
   },
   "recentReports": [
+    {
+      "id": 15,
+      "report_date": "2026-04-07",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "周杰倫近日話題不斷，公開了英國古堡求婚昆凌的影片，引發熱議。其「嘉年華II」巡演首站杭州場吸引5萬人，首唱7首新歌，並斥資5億打造14公尺巨型機甲，場面震撼。Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
+      "key_events": [
+        "求婚影片曝光",
+        "嘉年華II開唱",
+        "Spotify推專區"
+      ],
+      "created_at": "2026-04-07 06:09:45"
+    },
     {
       "id": 14,
       "report_date": "2026-04-06",
@@ -645,21 +660,6 @@
         "未有焦點事件"
       ],
       "created_at": "2026-04-01 06:19:35"
-    },
-    {
-      "id": 8,
-      "report_date": "2026-03-31",
-      "total_articles": 14,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 14,
-      "daily_summary": "今日所提供的娛樂新聞中，並未包含任何與周杰倫直接相關的報導或動態。所有焦點均集中在其他國際藝人的最新專輯發行、演唱會消息、影視作品續訂、體育賽事結果以及科技產品更新等多元領域。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-03-31 06:07:12"
     }
   ]
 }

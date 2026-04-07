@@ -2556,11 +2556,11 @@
       "snippet": "周杰倫澳網退役! 親口預告轉換跑道 回歸音樂開工照曝光  MSN",
       "published_at": "2026-02-03T01:28:10.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫宣布將減少澳網相關活動，轉而專注於音樂事業，並已曝光回歸音樂工作的照片。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 184,
@@ -2570,11 +2570,11 @@
       "snippet": "獨家／王子免費住昆凌豪宅恐生變？「勾搭人妻」牴觸周杰倫道德標準  Yahoo新聞",
       "published_at": "2025-10-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "新聞報導指出，王子免費入住昆凌豪宅一事，因涉及「勾搭人妻」恐牴觸周杰倫的道德標準而可能生變。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 185,
@@ -2584,11 +2584,11 @@
       "snippet": "PHANTACI × TaylorMade 跨界合作， 9 月登場高爾夫主題系列「GOLFERS NEVER GIVE UP」  JUKSY 街星",
       "published_at": "2025-09-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫共同創立的品牌PHANTACI將與TaylorMade合作，於九月推出高爾夫主題系列商品。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 186,
@@ -2598,11 +2598,11 @@
       "snippet": "體壇焦點／澳網今開戰！周杰倫16:30搶千萬獎金　謝淑薇力拚第8冠  NOWnews今日新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞報導周杰倫與澳網開幕相關，暗示他以某種形式參與其中，並與千萬獎金有所連結，可能為其代言活動。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 187,
@@ -2612,11 +2612,11 @@
       "snippet": "周杰倫新專輯終於來了 名稱竟與張學友有關 | CTWANT  LINE TODAY",
       "published_at": "2026-03-18T05:08:47.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯終於發布，其名稱與張學友有關，引發粉絲高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 188,
@@ -2626,11 +2626,11 @@
       "snippet": "周杰倫新巡演「場次時間出爐了」！年後在這連唱3天 粉絲樂壞準備搶票  噓！星聞",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新巡演的場次時間已公布，粉絲對此感到非常興奮並準備搶票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 189,
@@ -9290,11 +9290,11 @@
       "snippet": "華語流行天王周杰倫（Jay）強勢回歸！最新專輯《太陽之子》在今（25）日全球數位發行。周杰倫昨（24）舉辦全球首映暨專輯記者會後，宣傳服也不脫，一直等到凌晨專輯上線後，坐等粉絲留言評語。玖壹壹除了留言大讚：「整張都滿扯！」之外，也表示，周杰倫在〈太陽之子〉裡飾演的神探角色，其實是「歐洲版林正英」。 我是廣告 請繼續往下閱讀 ▲周杰倫久未發專輯，緊張地深夜沒睡求粉絲評語。（圖／翻攝自周杰倫IG@ja ...",
       "published_at": "2026-03-24T21:40:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯《太陽之子》全球發行，他緊張等待粉絲評語，並獲得玖壹壹春風等人的高度讚賞。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 665,
@@ -9304,11 +9304,11 @@
       "snippet": "將 Yahoo 設為首選來源，在 Google 上查看更多我們的精彩報導 周杰倫舉辦新專輯粉絲見面會。（圖／杰威爾提供） 天王周杰倫睽違3年半，帶著全新專輯《太陽之子》強勢回歸，昨（24日）才舉辦完同名主打歌MV全球首播發表會，興奮的周杰倫也忍不住詢問廣大粉絲，最喜歡哪一首歌，好奇沒想到竟釣出「玖壹壹」的春風回應。 周杰倫昨日發表活動結束後，他迫不及待的透過社群與粉絲互動，調查大家聽完全部歌曲後， ...",
       "published_at": "2026-03-24T22:07:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫攜新專輯《太陽之子》強勢回歸，斥資一億打造MV並舉辦首播會，興奮與粉絲互動，更獲玖壹壹春風大讚專輯「蠻扯」。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 666,
@@ -9318,11 +9318,11 @@
       "snippet": "天王 周杰倫 睽違3年8個月的新專輯《太陽之子》於3月25日正式發行，其中最暖心的亮點，就是他為3歲小女兒Jacinda量身打造的專屬歌曲。他將父女間的可愛互動譜成旋律，並在歌曲中埋藏許多溫情彩蛋，隨即引發網友熱烈討論。",
       "published_at": "2026-03-24T21:11:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫為3歲愛女Jacinda量身打造新專輯《太陽之子》中的專屬情歌，展現父女溫馨互動，引發熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 667,
@@ -9332,11 +9332,11 @@
       "snippet": "天王周杰倫睽違4年推出新專輯《太陽之子》，今(25)日正式發行。昨日周杰倫率先舉行新歌MV首映會，同時透露，新世界巡迴演唱會「嘉年華II」將會採用「一城一主題」的方式呈現，且巡演最終站有可能回到台灣，「就是一個巡迴，請大家期待」。周杰倫在2024年底站上台北大巨蛋開唱，當時在全台掀起一波「周董炫風」 ...",
       "published_at": "2026-03-24T19:20:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違四年推出新專輯《太陽之子》，並透露新世界巡迴演唱會「嘉年華II」將採「一城一主題」，且最終站有望回到台灣。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 668,
@@ -9346,11 +9346,11 @@
       "snippet": "出道至今不斷刷新華語樂壇記錄的「亞洲天王」周杰倫，距離上一張專輯《最偉大的作品》已時隔近四年，近日他陸續在社群透露新專輯消息，釣足粉絲胃口，近日終於正式宣佈，將於 3 月 25 日發行他的第 16 張專輯《太陽之子》！並在粉絲搶聽記者會，分享首波主打〈太陽之子〉MV 以及專輯的創作理念，絕對是今年華語樂壇的一大盛事。",
       "published_at": "2026-03-24T10:55:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫將於3月25日發行第16張專輯《太陽之子》，首波主打MV由《阿凡達》團隊斥資億元打造，被譽為今年華語樂壇一大盛事。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 669,
@@ -9360,11 +9360,11 @@
       "snippet": "天王「周董」周杰倫今（24）日舉辦《太陽之子》發片記者會，並首映斥資近1億元的同名主打歌MV，談及新歌，他表示大家內心都有黑暗面，端看個人如何處理，是要共存或是消滅，更坦言過去演唱會上台時曾2度發生恐慌，大嘆：「心情非常恐怖，不要再提了」。",
       "published_at": "2026-03-24T08:30:56.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫在宣傳新歌時透露，過去曾兩度在演唱會上經歷恐慌發作，形容當時心情非常恐怖。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 670,
@@ -9374,11 +9374,11 @@
       "snippet": "周杰倫（周董）今（24日）舉行新專輯記者會，難掩好心情，不僅分享創作過程，也罕見鬆口即將到來的演唱會規劃。 他談到新作品陸續曝光，直言「其實忍很久了」。更透露，這次採取「一波一波釋出」策略，從預告到正式MV接連上線，「第一支大家等很久，後面其實還有很多內容，包括更多畫面素材，會慢慢跟大家見面」。語氣極度興奮。 距離上次發片記者會至少10年之久，面對熟悉的媒體朋友，他笑說，上一次開類似規模的記者會， ...",
       "published_at": "2026-03-24T01:29:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在新專輯記者會上心情大好，分享了新作品的發行策略並鬆口考慮舉辦簽唱會和演唱會規劃。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 671,
@@ -9388,11 +9388,11 @@
       "snippet": "天王周杰倫，今（24）日《太陽之子》首映會宣布，將在新專輯的歌曲MV中，首度完整公開當年向愛妻昆凌求婚的珍貴紀錄影片。過去媒體報導，周杰倫和昆凌在英國約克郡的塞爾比鎮教堂（Selby Abbey）的世紀婚禮，耗資約2300萬台幣。周杰倫今天表示，求婚時他原本是假裝帶昆凌一起去考察適合結婚的場地，包下古堡、雇用演員飾演城堡工作人員，還打造了餐廳場景，一切準備就緒，結果邀昆凌用餐時，她差點不想下樓用餐 ...",
       "published_at": "2026-03-24T01:12:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在《太陽之子》首映會上宣布，將在新專輯MV中公開當年耗資2300萬包下古堡，精心策劃向昆凌求婚的珍貴紀錄影片。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 672,
@@ -9402,11 +9402,11 @@
       "snippet": "周杰倫新歌一出，演藝圈好友紛紛現身留言區力挺。其中，911成員春風直白留言：「整張都蠻扯的。」短短一句話道盡對天王才華的佩服。還有YouTuber一隻阿圓、米鹿激動推薦「女兒殿下！！！！太讚了！」、「西西里」。",
       "published_at": "2026-03-24T19:13:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌《太陽之子》獲得演藝圈好友與網友的高度讚賞，認為其才華無瓶頸。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 673,
@@ -9416,11 +9416,11 @@
       "snippet": "樂壇天王周杰倫強勢回歸！睽違多時終於推出新專輯《太陽之子》，同名新歌MV於24日正式首播。影片曝光僅一小時便湧入數千名歌迷留言朝聖。許多網友激動表示，那種「聽不懂歌詞」的獨特倫式風格與精緻如電影般的視覺特效，彷彿讓人重回《龍戰騎士》時期的重搖滾震撼，直呼：「這不是在更新歌單，是在更新青春記憶！」 ...",
       "published_at": "2026-03-24T00:07:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽之子》同名新歌MV首播後，因其獨特風格和視覺特效，引發歌迷熱烈迴響與回憶殺。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 674,
@@ -9430,11 +9430,11 @@
       "snippet": "華語天王周杰倫出席新專輯記者會時，竟當場對主持人阿KEN脫口「你是有病嗎？」引發全場大笑，兩人一來一往互虧不斷，卻也看得出私下交情深厚、默契十足，讓嚴肅的發布會瞬間變成充滿笑聲的互動現場。 周杰倫舉辦新專輯粉絲見面會。（圖／記者鄭尹翔攝影） 周杰倫舉辦新專輯粉絲見面會。（圖／記者鄭尹翔攝影） 周杰倫舉辦新專輯粉絲見面會。（圖／記者鄭尹翔攝影） 周杰倫舉辦新專輯粉絲見面會，找來好阿Ken擔任主持人。",
       "published_at": "2026-03-24T07:13:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在新專輯記者會上與主持人阿KEN幽默互動，展現深厚交情與默契，讓現場充滿歡笑。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 675,
@@ -9444,11 +9444,11 @@
       "snippet": "有些人天生具有成功特質，不是運氣多好，而是做事方式夠穩、腦子夠清楚，遇到機會也接得住。搜狐網分享，12 星座 裡有三個星座自帶贏家體質，特別容易出人頭地，快看看有你嗎。",
       "published_at": "2026-03-24T21:29:00.000Z",
       "collected_at": "2026-03-25 05:41:55",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新聞指出周杰倫擁有天生贏家特質，是註定成功的星座代表之一。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 676,
@@ -11759,6 +11759,174 @@
       "summary": "這篇新聞報導了Kanye West的演唱會，但內容中未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 841,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Rjtheweirdo, Sekou, Lazer Dim 700, Marlon Craft & More - Billboard",
+      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-rjtheweirdo-sekou-wiz-khalida/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Rjtheweirdo, Sekou, Lazer Dim 700, Marlon Craft & More. Listen to new must-hear songs from R&B/hip-hop artists like S! Ye quickly stole the weekend’s headlines from Pooh, thanks to his new *Bully* album, which opened at No. 2 on the Billboard 200 behind BTS’s *Arirang*, and its accompanying pair of SoFi Stadium shows in Los Angeles. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from a disco-infused Sekou to a new Lazer Dim 700 banger. Bridging elements of synth-pop, disco, and R&B, Sekou’s robust, chest-y voice reverberates across Cirkut and M-Phazes’ bass-driven soundscape with lyrics like, “It’s 2:00 a.m., and I’m waiting up for you/ If I want trouble, you’re really not hard to find/ Regret kicked in from the moment I called you.” Equal parts playful and cautious, Sekou casually dropped a springtime bop that can comfortably live on both R&B and pop playlists.",
+      "published_at": "Mon, 06 Apr 2026 17:55:49 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Billboard文章介紹了本週R&B/Hip-Hop領域的新歌精選，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 842,
+      "title": "All of Ye’s Solo Albums Ranked From Worst to Best: Critics’ Picks - billboard.com",
+      "link": "https://www.billboard.com/lists/kanye-west-albums-ranked/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "As one of the century’s premier hitmakers and influential artists invading music’s A-list, ranking West’s albums has been a passionate discussion among hip-hop fans for two decades, and *Billboard*‘s Michael Saponara and Armon Sadler will be adding to that with the list here. *The Life of Pablo* was an ever-changing set of music in multiple ways: Ye repeatedly switched the title ahead of its official release and continually updated the music, even adding songs, for months after it hit DSPs. Nonetheless, the album was such a flex between the star-studded cast of features and records that matter to the culture to this day. (Credit to him for obliging to the traditional four-year structure of a college career, by the way.) Beyond that, he showed he was ready for the real world by taking his abilities to yet another level: Pick the five best songs from any album throughout history and match them up against “Stronger,” “Good Life,” “Can’t Tell Me Nothing,” “Flashing Lights,” and “Homecoming.” The games may be close, but if this were a seven-game series, it may end like the Golden State Warriors sweeping the Cleveland Cavaliers in the 2018 NBA Finals.",
+      "published_at": "Mon, 06 Apr 2026 20:49:44 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於肯伊·威斯特（Kanye West）的專輯排名，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 843,
+      "title": "U.K. government reviewing Kanye West's permission to enter country for London festival - NBC News",
+      "link": "https://www.nbcnews.com/video/u-k-government-reviewing-kanye-west-s-permission-to-enter-country-for-london-festival-260800581814",
+      "source": "Tavily (www.nbcnews.com)",
+      "snippet": "U.K. government reviewing Kanye West's permission to enter country for London festival. ## U.K. government reviewing Kanye West's permission to enter country for London festival. * ## Billy Ray and Noah Cyrus Talk New Album, ‘The Hill’. * ## Shaggy Talks New Album ‘Lottery,’ Viral Wardrobe Choices, More. * ## Cardi B Talks New Hair Care Line, Music Tour, Motherhood, More. # U.K. government reviewing Kanye West's permission to enter country for London festival. U.K. government ministers are reviewing Kanye West's permission to enter the country following backlash over the decision to have the star, now known as Ye, to headline a London music festival this summer. NBC News’ Jesse Kirsch reports on the festival’s response.April 7, 2026. ## U.K. government reviewing Kanye West's permission to enter country for London festival. * ## Billy Ray and Noah Cyrus Talk New Album, ‘The Hill’. ## U.K. government reviewing Kanye West's permission to enter country for London festival. ## Nightly News.",
+      "published_at": "Tue, 07 Apr 2026 01:59:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導英國政府正在審查肯伊·威斯特（Kanye West）入境英國參加倫敦音樂節的許可，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 844,
+      "title": "Kanye West's comeback stirs controversy - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/632846",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Home  › ABC       06.04.2026. # Kanye West's comeback stirs controversy. Kanye West, now known as Ye, is facing new backlash during his attempted comeback despite his album \"Bully\" charting highly. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G. ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices. Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? Read ABC News reports online: http://abcnews.go.com. ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”. Connect with ABC News on social media:. Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Mon, 06 Apr 2026 12:10:00 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Kanye West的爭議性復出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 845,
+      "title": "Apple Sued by Three YouTube Channels - MacRumors",
+      "link": "https://www.macrumors.com/2026/04/06/apple-sued-by-three-youtube-channels/",
+      "source": "Tavily (www.macrumors.com)",
+      "snippet": "Three established YouTube channels have sued Apple, alleging that the company violated the U.S. Digital Millennium Copyright Act (DMCA) by unlawfully accessing and scraping millions of copyrighted videos from YouTube to train its AI models. Apple's research papers indicate that some of the YouTube videos uploaded by the plaintiffs were used to train its AI models, the complaint alleged. ### Apple CarPlay Just Got Three Popular iPhone Apps. A lawsuit brought against Apple by music streaming app Musi has been dismissed by a federal judge, after she ruled that Apple's developer agreement gives it the right to remove any app from the App Store at any time, \"with or without cause.\" Launched in 2013 by two Canadian teenagers, Musi was an app that played YouTube videos in a stripped-down interface, showed its own ads (removable for... ### Apple Wanted to Buy Halide to Boost iPhone 18 Pro's Camera App—Now There's a Lawsuit. iPhone 17 vs iPhone 17 Pro vs iPhone Air. Apple's four new iPhones feature more differences between the latest models than ever before, so which one should you buy? Apple to Unveil iOS 27 in June With These New Features Beyond Siri.",
+      "published_at": "Mon, 06 Apr 2026 15:53:49 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導蘋果公司面臨YouTube頻道侵權訴訟、應用程式Musi的訴訟被駁回，以及蘋果產品和技術的更新，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 846,
+      "title": "Paris Jackson’s Brother Blanket Failed in Attempt to Intervene in Estate Battle - TMZ",
+      "link": "https://www.tmz.com/2026/04/06/blanket-jackson-fails-to-intervene-in-dads-estate-battle/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Paris Jackson’s Brother Blanket Failed in Attempt to Intervene in Estate Battle. ## Paris Jackson’s Bro Blanket's Team Failed in Attempt to Intervene In Battle With Estate. **Paris Jackson**’s little brother, **Blanket \"Bigi\" Jackson**, and his legal team were apparently unsuccessful in their attempt to resolve her bitter battle with their late father’s estate ... Michael’s estate executors, **John Branca** and**John McClain**, called out Paris for backing out of a deal they say was recently reached between the executors and Jackson's children. Paris has been fighting the executors over certain payments made by the estate to third-party law firms that she felt were excessive, and has been pushing for a better process in court for approval of such payments. In new docs, the estate said they were close to an agreement with Paris -- after Blanket and his legal team spearheaded an effort to resolve the issues. The executors claim Blanket’s lawyer told them he spoke for all three of Michael’s children -- including Paris and Blanket’s brother, **Prince Jackson**.",
+      "published_at": "Mon, 06 Apr 2026 22:30:35 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 847,
+      "title": "Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Trump's agenda - CNBC",
+      "link": "https://www.cnbc.com/video/2026/04/06/jay-clayton-acting-ag-blanche-is-really-competent-and-knows-pres-trumps-agenda.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Jay Clayton, U.S. attorney for the Southern District of New York and former SEC chair, joins 'Squawk Box' to discuss the firing of former Attorney General Pam Bondi, President Trump's management style, allegations of Russian interference in the 2016 election, and more. Watch CNBC’s full interview with U.S. Attorney for the Southern District of New York Jay Clayton. Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Investors shouldn’t feel the need to chase short-lived relief rallies: Fairlead’s Katie Stockton. The risk-reward is quite good for stocks now, says Fundstrat's Tom Lee. JPMorgan CEO Jamie Dimon in annual letter cites risks in geopolitics, AI and private markets. Watch CNBC’s full interview with U.S. Attorney for the Southern District of New York Jay Clayton. Jay Clayton: Acting AG Blanche is 'really competent' and knows Pres. Investors shouldn’t feel the need to chase short-lived relief rallies: Fairlead’s Katie Stockton.",
+      "published_at": "Mon, 06 Apr 2026 12:03:48 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於美國政治人物Jay Clayton的評論，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 848,
+      "title": "Pacers' Jay Huff: Starting against Bulls - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/pacers-jay-huff-starting-against-bulls/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: pacers-jay-huff-starting-against-bulls | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Pacers' Jay Huff: Starting against Bulls. Huff started in three consecutive contests before heading to the bench for Sunday's 135-118 win over the Miami Heat. However, Pascal Siakam will move back to the four spot Wednesday, allowing Huff to re-enter the starting lineup. * ##### Pacers' Jay Huff: Coming off bench Sunday. * ##### Pacers' Jay Huff: Strong line in loss. * ##### Pacers' Jay Huff: Logs 28 minutes in win. * ##### Pacers' Jay Huff: Joins starting lineup. * ##### Pacers' Jay Huff: Bench role continues. * ##### Pacers' Jay Huff: Scores 10 off bench. Mike Barner • 4 min read. Adam King • 5 min read. Mike Barner • 3 min read. Mike Barner • 3 min read. #### Waivers: Must-adds for playoffs. Alex Barutha • 3 min read. Mike Barner • 4 min read.",
+      "published_at": "Wed, 01 Apr 2026 23:52:02 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於籃球員Jay Huff，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 849,
+      "title": "Jack White Added as Surprise Performer For Coachella Weekend One - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/music/music-news/jack-white-added-performer-coachella-2026-weekend-one-1236557122/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# Jack White Added as Surprise Performer For Coachella Weekend One. The rock and roll icon will play at the festival for the first time since he headlined back in 2015. The rock star was added as a surprise act for Coachella for this weekend, with the music festival announcing White’s set in a post revealing the performance times for weekend one. White’s not the first veteran star to get added to Coachella’s lineup for a surprise set in the past few years. ### Wireless Festival Head Defends Kanye West Booking: \"Offer Some Forgiveness and Hope\"](https://www.hollywoodreporter.com/music/music-news/wireless-festival-uk-defends-kanye-west-booking-1236556693/). ### Kanye West's Tale of Two Comebacks](https://www.hollywoodreporter.com/music/music-features/kanye-west-ye-tale-of-two-comebacks-bully-wireless-festival-1236556791/). White’s set comes a week after he released a pair of singles — “G.O.D. and the Broken Ribs” and “Derecho Demonico”— on Friday, a day before he served as musical guest on *Saturday Night Live* while Jack Black was the host. ### Wireless Festival Head Defends Kanye West Booking: “Offer Some Forgiveness and Hope”.",
+      "published_at": "Tue, 07 Apr 2026 04:26:50 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Jack White作為驚喜表演者加入Coachella音樂節，並提及Kanye West，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 850,
+      "title": "Wireless Festival Promoter Defends Kanye West as Sponsors Pull Out - Variety",
+      "link": "https://variety.com/2026/music/news/wireless-festival-promoter-defends-kanye-west-forgiveness-1236709770/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Wireless Festival Promoter Defends Kanye West as Headliner as Sponsors Pull Out, Asks Brits’ ‘Forgiveness’ for Rapper’s ‘Abhorrent’ Past Statements. Melvin Benn, who serves as managing director at Festival Republic, the U.K. promoter behind Wireless, issued a statement to *Variety* on Monday defending Ye based on his own experiences dealing with people who suffer from mental health issues. He called Ye’s previous declarations about Jews and Hitler “abhorrent,” but that they are “not giving him a platform to extol opinion of whatever nature” but only to perform songs that are “enjoyed by millions.” “Forgiveness and giving people a second chance are becoming a lost virtue in this ever-increasing divisive world,” he stated, “and I would ask people to reflect on their instant comments of disgust at the likelihood of him performing (as was mine) and offer some forgiveness and hope to him as I have decided to do.”.",
+      "published_at": "Mon, 06 Apr 2026 20:44:58 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導Wireless Festival主辦方為Kanye West辯護，儘管贊助商撤回，並呼籲大眾給予Kanye第二次機會。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 851,
+      "title": "Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows - TMZ",
+      "link": "https://www.tmz.com/2026/04/06/kanye-west-ye-los-angeles/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Savannah Guthrie Delivers Easter Message Amid Mom's Disappearance. ### 'Age of Attraction's Derrick Fleming Dated Cast Member Post-Filming, Denies It Was Serious. ### Kardashians Go All Out With Massive Easter Baskets. # Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows. ## Kanye West Just Call Me The Comeback Kid ... Bloomberg says Ye snagged more than $18 million in ticket sales during his Friday concert alone, making it one of the highest grossing single shows in the history of live music. But Bloomberg cautioned Ye's two sold-out L.A. gigs could just be an aberration considering all of his issues involving antisemitism dating back to 2022. But now, some of those corporations, are giving Ye a second chance, namely Spotify and RapCaviar, according to Bloomberg. In addition, Ye's L.A. shows were publicized by hip hop mogul Rod Wave's company, which partners with Live Nation, the world's biggest concert promoter.",
+      "published_at": "Mon, 06 Apr 2026 09:11:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於Kanye West的復出演唱會收益，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 852,
+      "title": "Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition - variety.com",
+      "link": "https://variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-1236710074/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition. Set times for the first weekend of performances this Friday through Sunday were finally posted late Monday night, allowing the world to know exactly when headliner Sabrina Carpenter, Justin Bieber and Karol G will take the stage, on top of dozens of other artists. The unveiling of the itinerary revealed one surprise in the lineup, as well: an appearance by Jack White… not in a headliner slot, or anything even close to it, but rather a 45-minute Mojave Tent performance smack in the middle of Saturday afternoon, at 3 p.m. He’s set to perform at 11:25 p.m. on the festival’s hump night. The most wooden performance of the festival — arguably — will take place Friday at 2:55 p.m. Arrive late enough to miss this historic appearance and you might as well just turn around and go home.",
+      "published_at": "Tue, 07 Apr 2026 05:07:09 GMT",
+      "collected_at": "2026-04-07 06:07:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Coachella音樂節公布演出時間表，並提及Jack White作為驚喜嘉賓，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -11959,6 +12127,21 @@
         "Spotify專屬體驗"
       ],
       "created_at": "2026-04-06 06:23:31"
+    },
+    {
+      "id": 15,
+      "report_date": "2026-04-07",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "周杰倫近日話題不斷，公開了英國古堡求婚昆凌的影片，引發熱議。其「嘉年華II」巡演首站杭州場吸引5萬人，首唱7首新歌，並斥資5億打造14公尺巨型機甲，場面震撼。Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
+      "key_events": [
+        "求婚影片曝光",
+        "嘉年華II開唱",
+        "Spotify推專區"
+      ],
+      "created_at": "2026-04-07 06:09:45"
     }
   ],
   "notification_logs": [
@@ -12241,11 +12424,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-06 06:23:32"
+    },
+    {
+      "id": 41,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-07 06:09:46"
+    },
+    {
+      "id": 42,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-07 06:09:46"
     }
   ],
   "_meta": {
-    "nextArticleId": 841,
-    "nextReportId": 15,
-    "nextLogId": 41
+    "nextArticleId": 853,
+    "nextReportId": 16,
+    "nextLogId": 43
   }
 }
