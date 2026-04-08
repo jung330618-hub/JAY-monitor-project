@@ -2640,11 +2640,11 @@
       "snippet": "等了半年...周杰倫演唱會真的來了！　4月正式起跑「首站地點曝光」  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會經過半年等待後，確定將於四月正式啟動，並已公布首站地點。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 190,
@@ -2654,11 +2654,11 @@
       "snippet": "周杰倫演唱會門票「溢價近7倍」！黃牛遭重罰264萬反控警「釣魚執法」  Newtalk新聞",
       "published_at": "2026-02-26T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "周杰倫演唱會門票因黃牛溢價近7倍，導致黃牛遭重罰264萬，並反控警方釣魚執法。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 191,
@@ -2668,11 +2668,11 @@
       "snippet": "周杰倫上海開唱單場逾6萬人大批粉絲守場外聆聽| 兩岸  中央社 CNA",
       "published_at": "2025-10-09T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在上海舉辦的演唱會吸引超過六萬名觀眾，場外也有大批粉絲駐足聆聽，顯示其超高人氣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 192,
@@ -2682,11 +2682,11 @@
       "snippet": "周杰倫承諾新專輯「明年3、4月推出」！ 曝2026年演唱會計畫  台視新聞網",
       "published_at": "2025-12-04T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫承諾將於明年3、4月推出新專輯，並透露了2026年的演唱會計畫。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 193,
@@ -2696,11 +2696,11 @@
       "snippet": "周杰倫演唱會來了！4月新巡演《煙花》首站到杭州　新專輯快好了  NOWnews今日新聞",
       "published_at": "2026-02-13T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫宣布四月將展開新巡演《煙花》，首站杭州，並透露新專輯即將完成。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 194,
@@ -2710,11 +2710,11 @@
       "snippet": "看完周杰倫演唱會1年！他曝收文化局公文「遭檢舉黃牛」 釣一排苦主  華視新聞網",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "一名周杰倫演唱會觀眾在一年後收到文化局公文，被檢舉為黃牛，引發其他有類似遭遇的粉絲共鳴。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 195,
@@ -2724,11 +2724,11 @@
       "snippet": "周杰倫上海演唱會創紀錄　宣告明年展開全新一套的演唱會  鏡週刊Mirror Media",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫上海演唱會創下紀錄，並預告明年將啟動全新一套的演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 196,
@@ -2738,11 +2738,11 @@
       "snippet": "周杰倫演唱會紀念收藏卡 1/21限量上市！超稀有親簽卡、兌換卡以及獨家花絮卡，趕緊帶回家  樂聯網",
       "published_at": "2026-01-21T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會紀念收藏卡將於1月21日限量上市，包含超稀有親簽卡、兌換卡及獨家花絮卡，預計將引起粉絲搶購熱潮。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 197,
@@ -2752,11 +2752,11 @@
       "snippet": "才唱完110場！周杰倫爆25周年大喜訊 台北站進度曝光  噓！星聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在完成110場演唱會後，傳出25周年有「大喜訊」，並曝光了台北站的進度。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 198,
@@ -2766,11 +2766,11 @@
       "snippet": "2026演唱會全攻略！演唱會時間表、搶票資訊、票價總整理（持續更新）  商周",
       "published_at": "2025-11-04T06:47:15.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這篇報導提供了2026年演唱會的全面攻略，包含時間表、搶票和票價等重要資訊，對歌迷而言是實用指南。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 199,
@@ -2780,11 +2780,11 @@
       "snippet": "周杰倫開唱吸18萬人破紀錄！　突無預警宣布「全新巡演」來了  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會吸引18萬人次打破紀錄，並無預警宣布將舉辦全新巡演。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 200,
@@ -2794,11 +2794,11 @@
       "snippet": "看周杰倫演唱會被當「黃牛」查辦！ 文化局：可提證據自清  Yahoo新聞",
       "published_at": "2026-01-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.3,
+      "summary": "有民眾在觀看周杰倫演唱會時被誤認為黃牛而遭查辦，文化局則表示民眾可提供證據自清。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 201,
@@ -2808,11 +2808,11 @@
       "snippet": "獨家／哭了！周杰倫演唱會「最終場時間地點曝光」　公司證實  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會的最終場時間地點已獨家曝光並獲公司證實，引發粉絲高度期待與激動。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 202,
@@ -2822,11 +2822,11 @@
       "snippet": "周杰倫震撼宣布全新巡演！官方證實這時間登場 25週年後全新概念規模  Yahoo新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫震撼宣布將推出全新概念與大規模的巡迴演唱會，預計在他出道25週年後登場。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 203,
@@ -2836,11 +2836,11 @@
       "snippet": "周杰倫演唱會「山下智久突登台」！ 男神合唱嗨翻歌迷兩人相識內幕曝光  MSN",
       "published_at": "2026-02-25T21:18:51.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會上山下智久驚喜登台合唱，讓歌迷嗨翻，並曝光兩人相識內幕。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 204,
@@ -2850,11 +2850,11 @@
       "snippet": "周杰倫廈門演唱會增「視線不良票區」 票價仍要近四千元網熱議  MSN",
       "published_at": "2025-07-08T22:34:19.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫廈門演唱會新增視線不良票區，儘管視野不佳票價仍近四千元，引發網友熱烈討論。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 205,
@@ -11927,6 +11927,202 @@
       "summary": "這篇新聞報導了Coachella音樂節公布演出時間表，並提及Jack White作為驚喜嘉賓，但未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 853,
+      "title": "How Michael Jackson’s Estate Has Quietly Funded His Three Kids' Lavish Lifestyle - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/celebrity/articles/michael-jackson-estate-quietly-funded-181007088.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "# How Michael Jackson’s Estate Has Quietly Funded His Three Kids' Lavish Lifestyle. Michael Jackson’s estate has turned out to be a lucrative blessing for his three kids, and the legal documents are proving where the money is going. Paris Jackson, 28, is currently engaged in a legal battle with the executors of her late father’s estate, John Branca and John McClain, over alleged mismanagement of funds, lack of transparency, and high attorney fees, per *New York Post*. In October 2025, Paris was accused of “[blowing through [money] faster than Michael ever did,](https://www.yahoo.com/entertainment/celebrity/articles/paris-jackson-reportedly-blowing-her-205341464.html)” according to Rob Shuter’s *Naughty But Nice* Substack. Branca and McClain shared in legal documents, obtained by *Us Weekly*, Paris “has benefited more than anyone” from the lucrative Jackson estate, and they are frustrated that she’s pushing back. There is still no resolution in the Jackson family estate case, but it appears Paris is leading the fight with her brothers quietly showing support behind the scenes.",
+      "published_at": "Tue, 07 Apr 2026 18:10:07 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於麥可·傑克森的遺產管理及其子女的法律糾紛，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 854,
+      "title": "RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/raye-this-music-may-contain-hope-top10-4-billboard-charts-1236216492/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts. RAYE’s sophomore album *THIS MUSIC MAY CONTAIN HOPE.* debuts in the top 10 across four *Billboard* album charts (dated April 11), including Top Album Sales, where it starts at No. 8. ### RAYE Earns Her First U.K. No. 1 Album With ‘This Music May Contain Hope’. ### Miley Cyrus, Raye, Charlie Puth & More: New Music Friday Guide. ### Fans Choose RAYE’s ‘Nightingale Lane’ as This Week’s Favorite New Music. The new set was preceded by the smash single “WHERE IS MY HUSBAND!,” which has spent the last three months lodged in the top 20 of the all-genre Billboard Hot 100 songs chart. RAYE’s new album is one of a whopping seven titles that debut in the top 10 on the Top Album Sales chart, where BTS’ *ARIRANG* rules for a second week. Visit Billboard Pro for music business news.",
+      "published_at": "Tue, 07 Apr 2026 12:00:00 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導英國歌手RAYE的專輯《THIS MUSIC MAY CONTAIN HOPE.》在多個Billboard專輯榜單上首次進入前十名，並在英國獲得冠軍，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 855,
+      "title": "Ye’s ‘BULLY’ Debuts at No. 1 on Top R&B/Hip-Hop Albums Chart - billboard.com",
+      "link": "https://www.billboard.com/music/chart-beat/ye-west-bully-number-1-top-rb-hip-hop-albums-1236217186/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Ye’s ‘BULLY’ Debuts at No. 1 on Top R  one, Feb. 24, 2024. *BULLY*’s impact extends to the Hot R&B/Hip-Hop Songs chart, where 15 of the album’s tracks appear on the 50-position ranking. With “FATHER” in front, here’s a rundown of the *BULLY* cuts on the Hot R&B/Hip-Hop Songs chart this week:.",
+      "published_at": "Tue, 07 Apr 2026 20:57:54 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Ye的專輯《BULLY》在R&B/Hip-Hop專輯榜上首次亮相便奪冠的資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 856,
+      "title": "Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her - tmz.com",
+      "link": "https://www.tmz.com/2026/04/07/paris-jackson-accuses-dads-estate-executors-of-bullying-her/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her. ## Paris Jackson to MJ's Estate Executors You're Using My Dad's Fortune to Bully & Attack Me!!! **Paris Jackson** slammed the two executors in charge of her late father **Michael Jackson**’s estate ... According to court docs, obtained by TMZ, Paris and her legal team say the executors, **John Branca** and **John McClain**, are filing court documents that “mock and belittle” Michael’s only daughter. As TMZ previously reported, Paris and the executors **have been going** back and forth about payments made to third-party law firms who worked for the estate ... #### Paris Jackson Goes to Salon Amid Legal Drama With Michael's Estate. #### Michael Jackson Estate Accounting Report Shows $$$ Spent on Prince, Paris & Blanket. Paris Jackson   John Branca   Michael Jackson   John McClain   Celebrity News   RIP   Money   Celebrity Death   Exclusive   Fairly Legal.",
+      "published_at": "Tue, 07 Apr 2026 23:30:12 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her - tmz.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 857,
+      "title": "Aubrey Plaza is pregnant! White Lotus star, 41, is expecting first child with partner one year after husband's death - Daily Mail",
+      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15714339/aubrey-plaza-pregnant-partner-christopher-abbott-death-husband-jeff-baena.html",
+      "source": "Tavily (www.dailymail.co.uk)",
+      "snippet": "#### Aubrey Plaza leads stars at Khaite NYFW show one year after husband Jeff Baena's death. In August of last year, Plaza opened up about the grief she had experienced during a conversation with her former costar, Amy Poehler, on the former SNL star's Good Hang podcast (pictured), which marked her first interview since Baena's death. * **EXCLUSIVELove Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab**. * **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * Love Island star Jack Fincham reveals new job as he appears in court for missing community service to go to... * Love Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab.",
+      "published_at": "Wed, 08 Apr 2026 01:11:02 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導演員Aubrey Plaza在丈夫去世一年後懷孕並出席紐約時裝週，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 858,
+      "title": "Now cancer-free, 'Roastmaster' comic Jeff Ross still finds humor in loss - npr.org",
+      "link": "https://www.npr.org/2026/04/07/nx-s1-5775758/jeff-ross-roastmaster-take-a-banana-for-the-ride",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**'Roastmaster' comic Jeff Ross finds humor in loss** **Known for his ruthless celebrity roasts, Ross turns inward in his Netflix special, *Take a Banana for the Ride*, which details the loss of his parents and grandfather.**. \"Going bald is one thing, but people thinking that I was sick or weak, for some reason, that really bothered me,\" Ross says of being diagnosed with alopecia. Comedian Jeff Ross — aka the \"Roastmaster General,\" who's participated in televised roasts of celebrities like Justin Bieber, Tom Brady and Joan Rivers — is not easily offended. But his new Netflix comedy special, *Take a Banana for the Ride,* is more personal and autobiographical.In it, he reflects on his family and childhood — including the loss of his mother, who died of cancer when he was a teen, and his father, who died of an aneurysm five years later. To him, it was like a tough guy's way of saying, \"I love you.",
+      "published_at": "Tue, 07 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞主要報導喜劇演員Jeff Ross如何透過他的Netflix特輯，以幽默面對個人生命中的失落與挑戰。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 859,
+      "title": "Why The Meta $6M Verdict Is A “Joe Camel” Warning For Big Tech - Forbes",
+      "link": "https://www.forbes.com/sites/tylerchou/2026/04/07/why-the-meta-6m-verdict-is-a-joe-camel-warning-for-big-tech/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Why The Meta $6M Verdict Is A “Joe Camel” Warning For Big Tech. ## By Tyler Chou, Esq. I was halfway across the world in Taiwan for Spring Break when the Meta $6M verdict broke: a Los Angeles jury had delivered a $6 million verdict against Meta and Google in a case involving social media’s impact on a young user’s mental health. As an attorney for the world’s largest creators, I view this ruling not as a financial hit, but as a structural shift in the legal landscape—one that mirrors the fall of Big Tobacco. How the Meta 6M Verdict Reshapes The Creator Economy. ### What Leaders Should Do Now. As the legal landscape shifts from \"Fast\" to \"Slow,\" creators and brands should audit their strategy:. The path from immunity to accountability following this Meta $6M verdict is now clearly marked; the only question is how quickly the rest of the industry will be forced to walk it.",
+      "published_at": "Tue, 07 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要探討Meta因社群媒體對年輕用戶心理健康的影響而被判賠600萬美元的案例，並將其視為科技巨頭法律責任的結構性轉變，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 860,
+      "title": "Three early warning signs of dementia that have nothing to do with memory - Daily Mail",
+      "link": "https://www.dailymail.co.uk/health/article-15710185/three-early-warning-signs-dementia.html",
+      "source": "Tavily (www.dailymail.co.uk)",
+      "snippet": "* **EXCLUSIVELove Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab**. * **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Love Island star Jack Fincham says 'it can't get any worse than this' as he reveals he's homeless after struggling with life following rehab stint**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**.",
+      "published_at": "Mon, 06 Apr 2026 20:24:23 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容摘要未提及周杰倫，主要報導其他名人的生活、健康及情感狀況。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 861,
+      "title": "Dangerous winter virus is still spreading... map shows who is at risk - Daily Mail",
+      "link": "https://www.dailymail.co.uk/health/article-15709803/winter-seasonal-virus-babies-seniors-RSV-respiratory-pneumonia.html",
+      "source": "Tavily (www.dailymail.co.uk)",
+      "snippet": "* **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**. * **Inside Coleen Rooney's lavish 40th birthday party as she dances the night away with husband Wayne and son Kai and a HUGE star performs**. * **Lorna Luxe reveals sweet nod to late husband John as she shares a glimpse inside her lavish new 'temporary' home which she says he 'would love'**.",
+      "published_at": "Mon, 06 Apr 2026 22:06:09 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導多位西方名人的生活動態與健康狀況，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 862,
+      "title": "Breathing in common cleaning products may cause more serious health damage than accidentally drinking them - Daily Mail",
+      "link": "https://www.dailymail.co.uk/health/article-15707043/Breathing-common-cleaning-products-cause-health-damage-accidentally-drinking-them.html",
+      "source": "Tavily (www.dailymail.co.uk)",
+      "snippet": "* **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**. * **Inside Coleen Rooney's lavish 40th birthday party as she dances the night away with husband Wayne and son Kai and a HUGE star performs**. * **Lorna Luxe reveals sweet nod to late husband John as she shares a glimpse inside her lavish new 'temporary' home which she says he 'would love'**. * **Olivia Attwood shares post about feeling 'lost' and reveals she's back using lip fillers after accusing ex Bradley Dack of 'cheating on her multiple times over ten years'**.",
+      "published_at": "Sun, 05 Apr 2026 00:14:55 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，內容主要報導其他西方名人的生活與健康相關新聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 863,
+      "title": "Michael Jackson’s Album And Song Both Return To Their Chart Peaks - uk.news.yahoo.com",
+      "link": "https://uk.news.yahoo.com/michael-jackson-album-song-both-123000107.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "Michael Jackson may be referred to frequently as the King of Pop, but when it comes to the *Billboard* charts, he typically appears on rankings dedicated to R&B music. This frame, one of Jackson’s albums and a beloved single both find their way back to their all-time highs on different R&B charts. “Billie Jean” is Jackson’s only hit song that is present on any *Billboard* chart this frame, looking specifically in America. The tune lives on the R&B Digital Song Sales ranking, which reports the bestselling R&B-only tracks throughout the U.S. This time around, “Billie Jean” dance one space from No. 8 to No. 7, returning to its previously-set peak position a little under a year into its time on the tally. His *Number Ones* compilation, just like “Billie Jean,” steps up a single spot – from No. 7 to No. 6 – on the Top R&B/Hip-Hop Albums tally. While “Billie Jean” is only present on one U.S.-based chart, *Number Ones* occupies a spot on half a dozen rosters.",
+      "published_at": "Mon, 06 Apr 2026 12:30:00 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可·傑克森的專輯和單曲重返美國告示牌R&B榜單高峰，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 864,
+      "title": "Kanye West Breaks Silence Amid U.K. Music Festival Backlash - huffpost.com",
+      "link": "https://www.huffpost.com/entry/kanye-west-speaks-out-wireless-festival-controversy_n_69d4bf64e4b05537a7f26815",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "The rapper said he hopes to \"present a show of change, bringing unity, peace, and love through my music\" when he performs in London this summer. Ye, the rapper formerly known as Kanye West, has spoken out for the first time about the controversy surrounding his upcoming performances at the Wireless music festival. Among the most vocal critics of the Wireless booking were numerous leading UK-based Jewish groups, London mayor Sadiq Khan and even UK prime minister Keir Starmer, who said it was “deeply concerning that Kanye West has been booked to perform at Wireless despite his previous antisemitic remarks and celebration of Nazism.”. The organizers of Wireless have also defended the choice to keep Ye as their headliner for 2026, with managing director Melvin Benn saying: “Forgiveness and giving people a second chance are becoming a lost virtue in this ever-increasing divisive world and I would ask people to reflect on their instant comments of disgust at the likelihood of him performing (as was mine) and offer some forgiveness and hope to him as I have decided to do.”.",
+      "published_at": "Tue, 07 Apr 2026 08:33:16 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Kanye West因過往言論引發音樂節演出爭議，並非關於周杰倫的資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 865,
+      "title": "Celine Dion Adds Six More Dates to Paris Residency Run - Billboard Canada",
+      "link": "https://ca.billboard.com/music/pop/celine-dion-adds-six-more-dates-paris-residency-run-1236216665/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "# Celine Dion Adds Six More Dates to Paris Residency Run. The additional shows at the Paris La Défense Arena will take place in September and October. ## Following Ye’s U.K. Travel Ban, London’s Wireless Festival Is Officially Canceled. ## U.K. Authorities Deny Ye a Visa Following Mass Exodus of Wireless Festival Partners Over Past Antisemitic Actions. ## Following Ye’s U.K. Travel Ban, London’s Wireless Festival Is Officially Canceled. London’s Wireless Festival has been canceled following news that Ye’s (formerly known as Kanye West) entry into the U.K. was blocked by the Home Office on Tuesday (April 7). In a statement sent to *Billboard*, Festival Republic said, “The Home Office has withdrawn Ye’s ETA, denying him entry into the United Kingdom. ## U.K. Authorities Deny Ye a Visa Following Mass Exodus of Wireless Festival Partners Over Past Antisemitic Actions.",
+      "published_at": "Tue, 07 Apr 2026 14:59:47 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Celine Dion Adds Six More Dates to Paris Residency Run - Billboard Canada",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 866,
+      "title": "Ella Langley’s ‘Choosin’ Texas’ Hits No. 1 on Billboard Canadian Hot 100 After Six Month Climb - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/ella-langley-billboard-canada-charts",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "After a six month climb, Alabama country star Ella Langley’s hit “Choosin’ Texas” has hit No. 1 on the Billboard Canadian Hot 100, dated April 11. The rising Canadian star’s track “Kingdom of Fear” arrives at No. 73, weeks after he debuted with his first-ever love song, “You and Me.”. While his apology hasn’t won over U.K. authorities— resulting in the cancellation of Wireless Festival, which Ye was set to headline — the provocative artist has continued his chart dominance, debuting at No. 2 with **Bully** on the Billboard Canadian Albums chart — his first solo release in four years. A few spots down, **RAYE**’s This May Contain Hope arrives at No. 10, one spot higher than her placement in the U.S. It follows the success of her cheekily honest song “Where Is My Husband!,” which hits a new peak at No. 5 on the Canadian Hot 100, while “Click Clack Symphony,” rises 79-63, following its debut last week.",
+      "published_at": "Tue, 07 Apr 2026 18:25:48 GMT",
+      "collected_at": "2026-04-08 06:09:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Ella Langley、Ye和RAYE等歌手在Billboard加拿大榜單上的表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12142,6 +12338,21 @@
         "Spotify推專區"
       ],
       "created_at": "2026-04-07 06:09:45"
+    },
+    {
+      "id": 16,
+      "report_date": "2026-04-08",
+      "total_articles": 14,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 14,
+      "daily_summary": "今天搜集到的新聞中，沒有任何關於周杰倫的報導。所有焦點集中在其他歐美娛樂新聞，例如麥可傑克森的遺產爭議、肯伊威斯特的音樂節風波與復出演出，以及其他社會與健康議題。因此，今日無周杰倫的相關焦點事件可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "焦點為歐美娛樂",
+        "無相關事件"
+      ],
+      "created_at": "2026-04-08 06:11:41"
     }
   ],
   "notification_logs": [
@@ -12438,11 +12649,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-07 06:09:46"
+    },
+    {
+      "id": 43,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-08 06:11:42"
+    },
+    {
+      "id": 44,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-08 06:11:43"
     }
   ],
   "_meta": {
-    "nextArticleId": 853,
-    "nextReportId": 16,
-    "nextLogId": 43
+    "nextArticleId": 867,
+    "nextReportId": 17,
+    "nextLogId": 45
   }
 }
