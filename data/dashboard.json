@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 14,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 14
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 660,
-    "positive": 210,
+    "total": 690,
+    "positive": 219,
     "negative": 29,
-    "neutral": 421,
+    "neutral": 442,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-03-25",
-      "total": 237,
-      "positive": 170,
-      "negative": 19,
-      "neutral": 48,
-      "avg_score": 0.77
-    },
     {
       "date": "2026-03-26",
       "total": 18,
@@ -124,9 +116,129 @@
       "negative": 0,
       "neutral": 14,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-09",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 867,
+      "title": "Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer - billboard.com",
+      "link": "https://www.billboard.com/culture/tv-film/michael-jackson-biopic-final-trailer-watch-1236217679/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer. After nearly half a decade in development, the Michael Jackson biopic *Michael* is just weeks away from moonwalking onto screens around the world. To celebrate, Lionsgate dropped the final trailer for the anticipated movie that stars the late self-proclaimed King of Pop’s real-life nephew, Jaafar Jackson, in the titular role on Wednesday morning (April 8). The latest sneak peek at the movie opens with Jackson saying, “I’ve just got all these songs in my head,” as he stares at a cork board in the studio featured sketches, snippets of lyrics and index cards featuring the titles of some of the legendary *Thriller* songs that would make the former Jackson 5 member a solo mega-star, including “Wanna Be Startin’ Somethin’,” “Billie Jean,” “P.Y.T.,” “Human Nature” and the title track. “I just gotta get them out,” a smiling Jackson says as the strains of one of the album’s two No. 1 Billboard Hot 100 hits, “Beat It,” plays in the background.",
+      "published_at": "Wed, 08 Apr 2026 15:20:36 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer - billboard.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 868,
+      "title": "Music News Digest: Rogers Stadium Economic Impact, Canadian Folk Music Awards 2026 Nominations - Billboard Canada",
+      "link": "https://ca.billboard.com/fyi/rogers-stadium-toronto-economic-impact-digest",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "The release of Angine de Poitrine's new album *Vol. 11* on April 3, brought a rush order for 30,000 vinyl copies, a huge figure for a small company of just six employees, and extensive media coverage (including CTV news and Radio-Canada) has followed. While his apology hasn’t won over U.K. authorities— resulting in the cancellation of Wireless Festival, which Ye was set to headline — the provocative artist has continued his chart dominance, debuting at No. 2 with **Bully** on the Billboard Canadian Albums chart — his first solo release in four years. A few spots down, **RAYE**’s This May Contain Hope arrives at No. 10, one spot higher than her placement in the U.S. It follows the success of her cheekily honest song “Where Is My Husband!,” which hits a new peak at No. 5 on the Canadian Hot 100, while “Click Clack Symphony,” rises 79-63, following its debut last week.",
+      "published_at": "Wed, 08 Apr 2026 14:18:05 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Music News Digest: Rogers Stadium Economic Impact, Canadian Folk Music Awards 2026 Nominations - Billboard Canada",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 869,
+      "title": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/04/08/dr-dre-forbes-billionaire-list/89520582007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. # Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. Snoop Dogg, Eminem honor Dr. Dre's 'mark on the world of music'. Snoop Dogg, Eminem and 50 Cent joined producer and entrepreneur Dr. Dre as his star on the Hollywood Walk of Fame was revealed. “I don’t chase money – I try to make the money chase me,” Dre told Forbes, who also ranked Dre as No. 20 on its list of the Greatest Self-Made Americans*.* “I’ve always been able to bet on myself, and whatever I do and wherever I go, I know I have my talent with me.”. After leaving Death Row Records, which he co-founded, Dre created Aftermath Entertainment and continued to work with Snoop Dogg, producing his debut \"Doggystyle,\" and furthered the career of the late Tupac Shakur, collaborating on \"California Love,\" and produced albums for Eminem and 50 Cent.",
+      "published_at": "Wed, 08 Apr 2026 22:15:00 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Dr. Dre成為繼Jay-Z之後第二位嘻哈億萬富翁，並在好萊塢星光大道留名，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 870,
+      "title": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/justin-trudeaus-son-18-says-153250475.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship. * Xav Trudeau shares that his dad Justin Trudeau's girlfriend Katy Perry gives him feedback on his music and advice on improving his songs. * Xav describes Perry as \"super nice\" and says his dad's happiness in the relationship is what matters most. * Perry and Justin Trudeau were first linked in the summer and made their public debut as a couple in October. When Justin Trudeau's son Xav is looking for advice on his music, he's able to go to his dad's girlfriend, singer Katy Perry. \"When I'm really happy with a song [I] send it [to her],\" Xav, 18, said of Perry, 41, while appearing on an episode of the *Can't Be Censored* podcast. This past December, a source told PEOPLE that while Perry wasn't looking for a boyfriend, the relationship was an \"exciting surprise.\".",
+      "published_at": "Wed, 08 Apr 2026 15:32:50 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 871,
+      "title": "Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive) - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). Morgan Jay, the breakout standup comic known for his auto-tuned microphone and crowd work during performances, is set to host the 26th Golden Trailer Awards. The May 28 awards ceremony at the Saban Theatre in Beverly Hills will honor the best in Hollywood movie and TV/streaming series previews*,* including trailers, commercials and posters. The Golden Trailers Awards gig will see Jay work a room full of studio marketing execs, movie fans, celebrities and trailer editors. He doesn’t just perform to the audience—he pulls them into the experience, which makes him an ideal host for our night,” Evelyn Brady, Golden Trailer Awards executive director and co-founder, said in a statement. Beyond the hardware to be handed out, Golden Trailer Awards organizers are promising a “raucous” evening for the industry creatives set to fill the Saban Theatre.",
+      "published_at": "Wed, 08 Apr 2026 13:56:21 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於喜劇演員Morgan Jay將主持2026年金預告片獎，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 872,
+      "title": "Jay Tufele: Visits Detroit - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/jay-tufele-visits-detroit/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nfl | pageType: stories | section: | slug: jay-tufele-visits-detroit | sport: football | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nfl/reg/free/stories. # Jay Tufele: Visits Detroit. Tufele appeared in 12 regular-season games with the Jets last season, making two starts, but finished the campaign on injured reserve after recording 12 tackles (five solo) across 230 defensive snaps. * ##### Jets' Jay Tufele: Heading to IR. * ##### Jets' Jay Tufele: Won't play Sunday. * ##### Jets' Jay Tufele: Doesn't practice Wednesday. * ##### Jets' Jay Tufele: Exits with foot injury. * ##### Jets' Jay Tufele: On track to play Sunday. * ##### Jets' Jay Tufele: Ruled out against Cincy. Heath Cummings • 3 min read. #### Heath's Dynasty rookie rankings. Fantasy Football Today • 4 min read. #### 2026 Dynasty TE Rankings. Heath Cummings • 3 min read. #### 2026 Dynasty WR rankings. Heath Cummings • 2 min read. #### Dynasty RB rankings for 2026. Heath Cummings • 2 min read.",
+      "published_at": "Wed, 08 Apr 2026 05:27:37 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay Tufele: Visits Detroit - CBS Sports",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 873,
+      "title": "Pacers' Jay Huff: Headed to bench - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/pacers-jay-huff-headed-to-bench-527691/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: pacers-jay-huff-headed-to-bench-527691 | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Pacers' Jay Huff: Headed to bench. Huff will come off the bench for Sunday's game in Cleveland, Tony East of Forbes.com reports. Huff may be limited in the reserve role, so he's a risky target in daily fantasy leagues. * ##### Pacers' Jay Huff: Needs 18 shots to score 12 points. * ##### Pacers' Jay Huff: Starting against Bulls. * ##### Pacers' Jay Huff: Coming off bench Sunday. * ##### Pacers' Jay Huff: Strong line in loss. * ##### Pacers' Jay Huff: Logs 28 minutes in win. * ##### Pacers' Jay Huff: Joins starting lineup. #### Waiver wire: Adds for the final week. Mike Barner • 3 min read. Mike Barner • 4 min read. Adam King • 5 min read. #### Week 22 waiver wire. Mike Barner • 3 min read. Mike Barner • 3 min read. Alex Barutha • 3 min read.",
+      "published_at": "Sun, 05 Apr 2026 21:47:39 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於NBA球員Jay Huff的賽事資訊，與華語歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 874,
+      "title": "Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia - billboard.com",
+      "link": "https://www.billboard.com/music/rb-hip-hop/jason-derulo-last-dance-arena-tour-australia-2026-1236217621/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia. The R&B star will play arenas on both coasts. Jason Derulo will bring his *Last Dance World Tour* to Australia later in the year. The R&B star will play arenas on both coasts, kicking off at Brisbane’s Entertainment Centre (Sept. 17), then moving to Sydney’s Qudos Bank Arena (Sept .19), Melbourne’s Rod Laver Arena (Sept. Derulo has runs on the board in Australia, where his releases “In My Head,” “Trumpets,” “Savage Love (Laxed – Siren Beat)” with Jawsh 685 (a recording that landed in the courts), and “Talk Dirty” featuring 2 Chainz all led the ARIA Singles Chart, while his first three solo albums cracked the national top 10. Derulo is touring in support of his eight-track album, *The Last Dance (Part 1),* which dropped in January. ***Jason Derulo Last Dance World Tour 2026***:. ### Want to know what everyone in the music business is talking about? Visit Billboard Pro for music business news.",
+      "published_at": "Wed, 08 Apr 2026 06:18:07 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了美國R&B歌手Jason Derulo將在澳洲舉行《Last Dance》巡迴演唱會，與周杰倫無直接相關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 853,
       "title": "How Michael Jackson’s Estate Has Quietly Funded His Three Kids' Lavish Lifestyle - Yahoo",
@@ -434,136 +546,39 @@
       "summary": "此新聞報導關於籃球員Jay Huff，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 849,
-      "title": "Jack White Added as Surprise Performer For Coachella Weekend One - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/music/music-news/jack-white-added-performer-coachella-2026-weekend-one-1236557122/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "# Jack White Added as Surprise Performer For Coachella Weekend One. The rock and roll icon will play at the festival for the first time since he headlined back in 2015. The rock star was added as a surprise act for Coachella for this weekend, with the music festival announcing White’s set in a post revealing the performance times for weekend one. White’s not the first veteran star to get added to Coachella’s lineup for a surprise set in the past few years. ### Wireless Festival Head Defends Kanye West Booking: \"Offer Some Forgiveness and Hope\"](https://www.hollywoodreporter.com/music/music-news/wireless-festival-uk-defends-kanye-west-booking-1236556693/). ### Kanye West's Tale of Two Comebacks](https://www.hollywoodreporter.com/music/music-features/kanye-west-ye-tale-of-two-comebacks-bully-wireless-festival-1236556791/). White’s set comes a week after he released a pair of singles — “G.O.D. and the Broken Ribs” and “Derecho Demonico”— on Friday, a day before he served as musical guest on *Saturday Night Live* while Jack Black was the host. ### Wireless Festival Head Defends Kanye West Booking: “Offer Some Forgiveness and Hope”.",
-      "published_at": "Tue, 07 Apr 2026 04:26:50 GMT",
-      "collected_at": "2026-04-07 06:07:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導Jack White作為驚喜表演者加入Coachella音樂節，並提及Kanye West，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 850,
-      "title": "Wireless Festival Promoter Defends Kanye West as Sponsors Pull Out - Variety",
-      "link": "https://variety.com/2026/music/news/wireless-festival-promoter-defends-kanye-west-forgiveness-1236709770/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Wireless Festival Promoter Defends Kanye West as Headliner as Sponsors Pull Out, Asks Brits’ ‘Forgiveness’ for Rapper’s ‘Abhorrent’ Past Statements. Melvin Benn, who serves as managing director at Festival Republic, the U.K. promoter behind Wireless, issued a statement to *Variety* on Monday defending Ye based on his own experiences dealing with people who suffer from mental health issues. He called Ye’s previous declarations about Jews and Hitler “abhorrent,” but that they are “not giving him a platform to extol opinion of whatever nature” but only to perform songs that are “enjoyed by millions.” “Forgiveness and giving people a second chance are becoming a lost virtue in this ever-increasing divisive world,” he stated, “and I would ask people to reflect on their instant comments of disgust at the likelihood of him performing (as was mine) and offer some forgiveness and hope to him as I have decided to do.”.",
-      "published_at": "Mon, 06 Apr 2026 20:44:58 GMT",
-      "collected_at": "2026-04-07 06:07:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導Wireless Festival主辦方為Kanye West辯護，儘管贊助商撤回，並呼籲大眾給予Kanye第二次機會。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 851,
-      "title": "Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows - TMZ",
-      "link": "https://www.tmz.com/2026/04/06/kanye-west-ye-los-angeles/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Savannah Guthrie Delivers Easter Message Amid Mom's Disappearance. ### 'Age of Attraction's Derrick Fleming Dated Cast Member Post-Filming, Denies It Was Serious. ### Kardashians Go All Out With Massive Easter Baskets. # Kanye West Reportedly Rakes in $33 Million During His 2 Comeback Shows. ## Kanye West Just Call Me The Comeback Kid ... Bloomberg says Ye snagged more than $18 million in ticket sales during his Friday concert alone, making it one of the highest grossing single shows in the history of live music. But Bloomberg cautioned Ye's two sold-out L.A. gigs could just be an aberration considering all of his issues involving antisemitism dating back to 2022. But now, some of those corporations, are giving Ye a second chance, namely Spotify and RapCaviar, according to Bloomberg. In addition, Ye's L.A. shows were publicized by hip hop mogul Rod Wave's company, which partners with Live Nation, the world's biggest concert promoter.",
-      "published_at": "Mon, 06 Apr 2026 09:11:09 GMT",
-      "collected_at": "2026-04-07 06:07:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於Kanye West的復出演唱會收益，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 852,
-      "title": "Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition - variety.com",
-      "link": "https://variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-1236710074/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Coachella Announces Set Times, With Jack White as Surprise Last-Minute Addition. Set times for the first weekend of performances this Friday through Sunday were finally posted late Monday night, allowing the world to know exactly when headliner Sabrina Carpenter, Justin Bieber and Karol G will take the stage, on top of dozens of other artists. The unveiling of the itinerary revealed one surprise in the lineup, as well: an appearance by Jack White… not in a headliner slot, or anything even close to it, but rather a 45-minute Mojave Tent performance smack in the middle of Saturday afternoon, at 3 p.m. He’s set to perform at 11:25 p.m. on the festival’s hump night. The most wooden performance of the festival — arguably — will take place Friday at 2:55 p.m. Arrive late enough to miss this historic appearance and you might as well just turn around and go home.",
-      "published_at": "Tue, 07 Apr 2026 05:07:09 GMT",
-      "collected_at": "2026-04-07 06:07:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Coachella音樂節公布演出時間表，並提及Jack White作為驚喜嘉賓，但未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 827,
-      "title": "Kanye West’s ‘Bully’ Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With ‘Arirang’ - Variety",
-      "link": "https://variety.com/2026/music/news/kanye-wests-bully-debuts-at-no-2-albums-chart-bts-arirang-1236708933/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Kanye West’s ‘Bully’ Debuts at No. 2 on Albums Chart as BTS Holds Top Spot With ‘Arirang’. The K-pop group’s latest album “Arirang” holds steady at No. 1 on the albums chart with 187,000 equivalent album units, down 71% from its opening week with 641,000. Last week, “Arirang” became BTS’ seventh No. 1 album and scored the biggest sales week for an album by a group in over a decade. ### David Zaslav to Receive More Than $550 Million in Compensation Related to Warner Bros.-Paramount Merger. Meanwhile, Ye’s “Bully” enters the chart at No. 2, becoming his 14th album to hit the top 10. (“Donda 2,” his last solo album, was deemed ineligible to chart in accordance with Billboard’s bundling guidelines.). ### Popular on Variety. Elsewhere on the chart, Melanie Martinez bowed at No. 3 with “Hades,” which earned 84,000 equivalent album units to become her fourth project to crack the top 10. ## More from Variety.",
-      "published_at": "Sun, 05 Apr 2026 19:50:46 GMT",
-      "collected_at": "2026-04-06 06:21:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導Kanye West和BTS的專輯榜單表現，未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 828,
-      "title": "Jaylen Brown nails it from behind the arc, 04/05/2026 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/videos/jaylen-brown-nails-behind-arc-220430977.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* Jaylen Brown with 41 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Jaylen Brown with 30 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 34 points vs. *[Jaylen Brown talks Celtics' ‘big win' over OKC originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-big-062631268.html). * Jaylen Brown with 41 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Jaylen Brown with 30 points vs. * Jaylen Brown with 32 points vs. * Jaylen Brown with 34 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-big-062631268.html).",
-      "published_at": "Sun, 05 Apr 2026 22:04:30 GMT",
-      "collected_at": "2026-04-06 06:21:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於籃球員Jaylen Brown的比賽表現，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 829,
-      "title": "Ye Just Made $33 Million in Two Nights. Will His Comeback Last? - Bloomberg.com",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-04-05/kanye-west-concert-breaks-records-with-18-million-night",
-      "source": "Tavily (www.bloomberg.com)",
-      "snippet": "The most influential recording artist of the century, Ye was once one of the highest-paid acts in the music business. Corporate America’s patience ran out in 2022 when Ye talked about going “death con 3 on Jewish people.” A couple months later, he expressed admiration and affection for Hitler. Yet while Ye’s music didn’t violate Spotify’s hate speech policy, the streaming service didn’t exactly push his songs. It wasn’t just corporate America that wrestled with Ye. His behavior forced his millions of fans to determine if they could separate the art from the artist. Ye’s most recent albums haven’t sold as well as the blockbusters, and his touring business was nonexistent. Yet while there are some people who will never forgive Ye, it’s clear that there are millions of people around the world who still want to engage with his work. For those who know Ye, the question isn’t whether he can keep himself stable for long enough to put out an album or play a couple of shows.",
-      "published_at": "Sun, 05 Apr 2026 22:15:01 GMT",
-      "collected_at": "2026-04-06 06:21:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於美國藝人肯伊·威斯特（Ye）的復出及其爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 830,
-      "title": "'GOODNESS GRACIOUS!' Been hearing this phrase recently? That’s all due to Vice Ganda's hit 2013 film \"Girl, Boy, Bakla, Tomboy\" gaining traction online. Check the comments section for the full story. - facebook.com",
-      "link": "https://www.facebook.com/abscbnNEWS/posts/goodness-graciousbeen-hearing-this-phrase-recently-thats-all-due-to-vice-gandas-/1469313375243914/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "## ABS-CBN News's Post. ### **ABS-CBN News**. Been hearing this phrase recently? That’s all due to Vice Ganda's hit 2013 film \"Girl, Boy, Bakla, Tomboy\" gaining traction online. Check the comments section for the full story. Buong ulat: https://www.abs-cbn.com/.../vice-ganda-s-goodness... Vice Ganda’s ‘goodness gracious’ line resurfaces, trends online | ABS-CBN Entertainment. ### Vice Ganda’s ‘goodness gracious’ line resurfaces, trends online | ABS-CBN Entertainment. An image you can hear. Is he a natural blonde or a bleached blonde? you’re the one caught stealing on cctv oh my god‚ no way! i cannot take this anymore‚ no way! my twin brother is a criminal! ‘yan ang hindi ko matatanggap! ang tawagin mo kon— criminal? Most relevant is selected, so some comments may have been filtered out.",
-      "published_at": "Sun, 05 Apr 2026 12:01:35 GMT",
-      "collected_at": "2026-04-06 06:21:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於菲律賓藝人Vice Ganda的電影台詞在網路上重新流行，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 16,
-    "report_date": "2026-04-08",
-    "total_articles": 14,
+    "id": 17,
+    "report_date": "2026-04-09",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 14,
-    "daily_summary": "今天搜集到的新聞中，沒有任何關於周杰倫的報導。所有焦點集中在其他歐美娛樂新聞，例如麥可傑克森的遺產爭議、肯伊威斯特的音樂節風波與復出演出，以及其他社會與健康議題。因此，今日無周杰倫的相關焦點事件可供摘要。",
+    "neutral_count": 8,
+    "daily_summary": "今日搜集的新聞報導中，並未發現任何與周杰倫直接相關的內容。主要娛樂新聞焦點集中在Kanye West的音樂節爭議與其復出動態，以及Michael Jackson遺產處理的相關報導。",
     "key_events": [
       "無周杰倫新聞",
-      "焦點為歐美娛樂",
-      "無相關事件"
+      "Kanye West爭議",
+      "MJ遺產糾紛"
     ],
-    "created_at": "2026-04-08 06:11:41"
+    "created_at": "2026-04-09 06:11:01"
   },
   "recentReports": [
+    {
+      "id": 17,
+      "report_date": "2026-04-09",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日搜集的新聞報導中，並未發現任何與周杰倫直接相關的內容。主要娛樂新聞焦點集中在Kanye West的音樂節爭議與其復出動態，以及Michael Jackson遺產處理的相關報導。",
+      "key_events": [
+        "無周杰倫新聞",
+        "Kanye West爭議",
+        "MJ遺產糾紛"
+      ],
+      "created_at": "2026-04-09 06:11:01"
+    },
     {
       "id": 16,
       "report_date": "2026-04-08",
@@ -653,21 +668,6 @@
         "未有新消息"
       ],
       "created_at": "2026-04-03 05:58:29"
-    },
-    {
-      "id": 10,
-      "report_date": "2026-04-02",
-      "total_articles": 14,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 14,
-      "daily_summary": "今日搜集到的新聞內容，經仔細審閱後，並未發現任何與華語天王周杰倫直接相關的報導或動態。所有新聞焦點均集中於國際娛樂圈、體育賽事、政治動態及其他社會議題，周杰倫今日並無公開或被報導的活動。",
-      "key_events": [
-        "無周杰倫相關新聞",
-        "今日無其公開動態",
-        "新聞焦點在其他"
-      ],
-      "created_at": "2026-04-02 05:58:33"
     }
   ]
 }

@@ -2864,11 +2864,11 @@
       "snippet": "周杰倫演唱會曾恐慌發作！醫揭真相：不是想太多，是大腦失衡  TVBS 健康2.0",
       "published_at": "2025-10-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "新聞報導周杰倫曾於演唱會期間經歷恐慌發作，醫生解釋其為大腦失衡而非單純想太多。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 206,
@@ -2878,11 +2878,11 @@
       "snippet": "看周杰倫演唱會卻被誤當黃牛！文化局發公文要求自證　歌迷炸鍋  NOWnews今日新聞",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "看周杰倫演唱會卻被誤當黃牛！文化局發公文要求自證　歌迷炸鍋 - NOWnews今日新聞",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 207,
@@ -2892,11 +2892,11 @@
       "snippet": "新竹男謊稱讓售周杰倫演唱會門票詐4人 遭判刑1年  聯合新聞網",
       "published_at": "2025-12-10T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "新竹男謊稱讓售周杰倫演唱會門票詐4人 遭判刑1年 - 聯合新聞網",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 208,
@@ -2906,11 +2906,11 @@
       "snippet": "周杰倫曾恐慌症發作「動念取消演唱會」 歌迷敲碗唱回台北杰威爾回應了  自由娛樂",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫曾因恐慌症考慮取消演唱會，但歌迷仍熱切期盼他能回台北開唱，杰威爾對此做出了回應。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 209,
@@ -2920,11 +2920,11 @@
       "snippet": "周杰倫認曾「恐慌發作無法上台」　親揭6年巡演辛酸：我無法控制  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-10-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫認曾「恐慌發作無法上台」　親揭6年巡演辛酸：我無法控制 - ETtoday星光雲| ETtoday新聞雲",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 210,
@@ -2934,11 +2934,11 @@
       "snippet": "周杰倫「嘉年華」世界巡迴演唱會一連三天在香港開唱 與亞洲男神山下智久世紀同台 HIGH翻香江  playmusic.tw",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫「嘉年華」世界巡迴演唱會在香港成功舉辦，並與山下智久同台演出，氣氛熱烈。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 211,
@@ -2948,11 +2948,11 @@
       "snippet": "大哥拒買票！潛伏16小時「混進周杰倫演唱會」只為賣水　身份曝光網全跪了 | 國際 | CTWANT  CTWANT",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "一名男子為賣水潛伏16小時混進周杰倫演唱會，其身份曝光後引發網友熱議。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 212,
@@ -2962,11 +2962,11 @@
       "snippet": "網瘋傳「演唱會搶票難度榜」！周杰倫、檀健次最難搶　楊丞琳被歸：有手就行  噓！星聞",
       "published_at": "2025-07-09T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "網瘋傳「演唱會搶票難度榜」！周杰倫、檀健次最難搶　楊丞琳被歸：有手就行 - 噓！星聞",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 213,
@@ -2976,11 +2976,11 @@
       "snippet": "周杰倫全新巡演時間曝光 「演唱會名稱」藏驚喜  Yahoo新聞",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫全新巡演時間曝光 「演唱會名稱」藏驚喜 - Yahoo新聞",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 214,
@@ -2990,11 +2990,11 @@
       "snippet": "周杰倫全新巡迴演唱會來了！老搭檔擔任總監　新專輯最後倒數3首未完成  三立娛樂星聞",
       "published_at": "2026-02-11T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫全新巡迴演唱會即將啟動，由老搭檔擔任總監，同時也透露新專輯尚有三首歌曲未完成。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 215,
@@ -3004,11 +3004,11 @@
       "snippet": "周杰倫演唱會黃牛爆多！粉絲沒賣票也遭檢舉 北市府發聲了  PChome Online 新聞",
       "published_at": "2026-01-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫演唱會黃牛爆多！粉絲沒賣票也遭檢舉 北市府發聲了 - PChome Online 新聞",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 216,
@@ -3018,11 +3018,11 @@
       "snippet": "周杰倫演唱會「山下智久開金口」！夢幻場面太驚喜　2人都愛這1物  NOWnews今日新聞",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會上，日本藝人山下智久驚喜開金口獻唱，創造了夢幻場面，令粉絲感到非常驚喜，且兩人因共同喜愛某物而結緣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 217,
@@ -3032,11 +3032,11 @@
       "snippet": "周杰倫演唱會火爆登場！「面子好大」全靠這款油切水扛住  自由時報",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫演唱會火爆登場，新聞提及他透過某款油切水保持良好狀態。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 218,
@@ -3046,11 +3046,11 @@
       "snippet": "周杰倫演唱會賣水哥爆紅！不聽歌、不看人　潛伏場館16小時只賣水  NOWnews今日新聞",
       "published_at": "2025-09-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一位在周杰倫演唱會上專注賣水、不聽歌的「賣水哥」因其獨特行為而爆紅。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 219,
@@ -3060,11 +3060,11 @@
       "snippet": "辣模看周杰倫演唱會外套脫一半 只剩內衣「爆彈奶奶」炸出  鏡週刊Mirror Media",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "一篇關於辣模在周杰倫演唱會上衣著性感的報導。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 220,
@@ -3074,11 +3074,11 @@
       "snippet": "周杰倫啟德演唱會驚傳今晚有山下智久 首場爆滿氣氛高漲  香港01",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫啟德演唱會首場爆滿，氣氛高漲，並傳出有山下智久擔任驚喜嘉賓。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 221,
@@ -3088,11 +3088,11 @@
       "snippet": "太難搶！周杰倫演唱會爆大批詐騙 為求一張門票換來170萬港幣損失  Yahoo新聞",
       "published_at": "2025-06-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "太難搶！周杰倫演唱會爆大批詐騙 為求一張門票換來170萬港幣損失 - Yahoo新聞",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 222,
@@ -3102,11 +3102,11 @@
       "snippet": "周杰倫演唱會2025丨港鐵加班次、巴士加開特別路線即睇啟德體育園入場安排、交通、紀念品Pop Up店位置  Yahoo",
       "published_at": "2025-06-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新聞報導周杰倫2025年演唱會的交通安排、啟德體育園入場資訊及紀念品店位置，顯示主辦方為歌迷提供便利的積極準備。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 223,
@@ -3116,11 +3116,11 @@
       "snippet": "他潛伏10餘小時才混入周杰倫演唱會 卻根本不看周杰倫  壹蘋新聞網",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "他潛伏10餘小時才混入周杰倫演唱會 卻根本不看周杰倫 - 壹蘋新聞網",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 224,
@@ -3130,11 +3130,11 @@
       "snippet": "周杰倫演唱會台下驚見「內衣正妹」！外套一脫辣秀G級美胸　身分曝光  三立娛樂星聞",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫演唱會上，一名穿著性感的「內衣正妹」因其亮麗外型而引起關注。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 225,
@@ -3144,11 +3144,11 @@
       "snippet": "周杰倫宣布將展開全新巡迴演唱會！官方證實：「明年登場！」  JUKSY 街星",
       "published_at": "2025-10-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫官方證實將於明年展開全新的巡迴演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 226,
@@ -3158,11 +3158,11 @@
       "snippet": "周杰倫巡迴演唱會最終場來了！粉絲快把握最後機會 杰威爾證實了  Yahoo新聞",
       "published_at": "2025-06-13T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "杰威爾證實周杰倫巡迴演唱會即將迎來最終場，呼籲粉絲把握最後機會。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 227,
@@ -12123,6 +12123,118 @@
       "summary": "這則新聞報導了Ella Langley、Ye和RAYE等歌手在Billboard加拿大榜單上的表現，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 867,
+      "title": "Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer - billboard.com",
+      "link": "https://www.billboard.com/culture/tv-film/michael-jackson-biopic-final-trailer-watch-1236217679/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer. After nearly half a decade in development, the Michael Jackson biopic *Michael* is just weeks away from moonwalking onto screens around the world. To celebrate, Lionsgate dropped the final trailer for the anticipated movie that stars the late self-proclaimed King of Pop’s real-life nephew, Jaafar Jackson, in the titular role on Wednesday morning (April 8). The latest sneak peek at the movie opens with Jackson saying, “I’ve just got all these songs in my head,” as he stares at a cork board in the studio featured sketches, snippets of lyrics and index cards featuring the titles of some of the legendary *Thriller* songs that would make the former Jackson 5 member a solo mega-star, including “Wanna Be Startin’ Somethin’,” “Billie Jean,” “P.Y.T.,” “Human Nature” and the title track. “I just gotta get them out,” a smiling Jackson says as the strains of one of the album’s two No. 1 Billboard Hot 100 hits, “Beat It,” plays in the background.",
+      "published_at": "Wed, 08 Apr 2026 15:20:36 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Watch Michael Jackson Explode Into Global Icon and Predict His Solo Breakthrough in Final ‘Michael’ Biopic Trailer - billboard.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 868,
+      "title": "Music News Digest: Rogers Stadium Economic Impact, Canadian Folk Music Awards 2026 Nominations - Billboard Canada",
+      "link": "https://ca.billboard.com/fyi/rogers-stadium-toronto-economic-impact-digest",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "The release of Angine de Poitrine's new album *Vol. 11* on April 3, brought a rush order for 30,000 vinyl copies, a huge figure for a small company of just six employees, and extensive media coverage (including CTV news and Radio-Canada) has followed. While his apology hasn’t won over U.K. authorities— resulting in the cancellation of Wireless Festival, which Ye was set to headline — the provocative artist has continued his chart dominance, debuting at No. 2 with **Bully** on the Billboard Canadian Albums chart — his first solo release in four years. A few spots down, **RAYE**’s This May Contain Hope arrives at No. 10, one spot higher than her placement in the U.S. It follows the success of her cheekily honest song “Where Is My Husband!,” which hits a new peak at No. 5 on the Canadian Hot 100, while “Click Clack Symphony,” rises 79-63, following its debut last week.",
+      "published_at": "Wed, 08 Apr 2026 14:18:05 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Music News Digest: Rogers Stadium Economic Impact, Canadian Folk Music Awards 2026 Nominations - Billboard Canada",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 869,
+      "title": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/04/08/dr-dre-forbes-billionaire-list/89520582007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. # Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. Snoop Dogg, Eminem honor Dr. Dre's 'mark on the world of music'. Snoop Dogg, Eminem and 50 Cent joined producer and entrepreneur Dr. Dre as his star on the Hollywood Walk of Fame was revealed. “I don’t chase money – I try to make the money chase me,” Dre told Forbes, who also ranked Dre as No. 20 on its list of the Greatest Self-Made Americans*.* “I’ve always been able to bet on myself, and whatever I do and wherever I go, I know I have my talent with me.”. After leaving Death Row Records, which he co-founded, Dre created Aftermath Entertainment and continued to work with Snoop Dogg, producing his debut \"Doggystyle,\" and furthered the career of the late Tupac Shakur, collaborating on \"California Love,\" and produced albums for Eminem and 50 Cent.",
+      "published_at": "Wed, 08 Apr 2026 22:15:00 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Dr. Dre成為繼Jay-Z之後第二位嘻哈億萬富翁，並在好萊塢星光大道留名，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 870,
+      "title": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/justin-trudeaus-son-18-says-153250475.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship. * Xav Trudeau shares that his dad Justin Trudeau's girlfriend Katy Perry gives him feedback on his music and advice on improving his songs. * Xav describes Perry as \"super nice\" and says his dad's happiness in the relationship is what matters most. * Perry and Justin Trudeau were first linked in the summer and made their public debut as a couple in October. When Justin Trudeau's son Xav is looking for advice on his music, he's able to go to his dad's girlfriend, singer Katy Perry. \"When I'm really happy with a song [I] send it [to her],\" Xav, 18, said of Perry, 41, while appearing on an episode of the *Can't Be Censored* podcast. This past December, a source told PEOPLE that while Perry wasn't looking for a boyfriend, the relationship was an \"exciting surprise.\".",
+      "published_at": "Wed, 08 Apr 2026 15:32:50 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 871,
+      "title": "Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive) - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "# Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). Morgan Jay, the breakout standup comic known for his auto-tuned microphone and crowd work during performances, is set to host the 26th Golden Trailer Awards. The May 28 awards ceremony at the Saban Theatre in Beverly Hills will honor the best in Hollywood movie and TV/streaming series previews*,* including trailers, commercials and posters. The Golden Trailers Awards gig will see Jay work a room full of studio marketing execs, movie fans, celebrities and trailer editors. He doesn’t just perform to the audience—he pulls them into the experience, which makes him an ideal host for our night,” Evelyn Brady, Golden Trailer Awards executive director and co-founder, said in a statement. Beyond the hardware to be handed out, Golden Trailer Awards organizers are promising a “raucous” evening for the industry creatives set to fill the Saban Theatre.",
+      "published_at": "Wed, 08 Apr 2026 13:56:21 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於喜劇演員Morgan Jay將主持2026年金預告片獎，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 872,
+      "title": "Jay Tufele: Visits Detroit - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/football/news/jay-tufele-visits-detroit/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nfl | pageType: stories | section: | slug: jay-tufele-visits-detroit | sport: football | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nfl/reg/free/stories. # Jay Tufele: Visits Detroit. Tufele appeared in 12 regular-season games with the Jets last season, making two starts, but finished the campaign on injured reserve after recording 12 tackles (five solo) across 230 defensive snaps. * ##### Jets' Jay Tufele: Heading to IR. * ##### Jets' Jay Tufele: Won't play Sunday. * ##### Jets' Jay Tufele: Doesn't practice Wednesday. * ##### Jets' Jay Tufele: Exits with foot injury. * ##### Jets' Jay Tufele: On track to play Sunday. * ##### Jets' Jay Tufele: Ruled out against Cincy. Heath Cummings • 3 min read. #### Heath's Dynasty rookie rankings. Fantasy Football Today • 4 min read. #### 2026 Dynasty TE Rankings. Heath Cummings • 3 min read. #### 2026 Dynasty WR rankings. Heath Cummings • 2 min read. #### Dynasty RB rankings for 2026. Heath Cummings • 2 min read.",
+      "published_at": "Wed, 08 Apr 2026 05:27:37 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay Tufele: Visits Detroit - CBS Sports",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 873,
+      "title": "Pacers' Jay Huff: Headed to bench - CBS Sports",
+      "link": "https://www.cbssports.com/fantasy/basketball/news/pacers-jay-huff-headed-to-bench-527691/",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: pacers-jay-huff-headed-to-bench-527691 | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Pacers' Jay Huff: Headed to bench. Huff will come off the bench for Sunday's game in Cleveland, Tony East of Forbes.com reports. Huff may be limited in the reserve role, so he's a risky target in daily fantasy leagues. * ##### Pacers' Jay Huff: Needs 18 shots to score 12 points. * ##### Pacers' Jay Huff: Starting against Bulls. * ##### Pacers' Jay Huff: Coming off bench Sunday. * ##### Pacers' Jay Huff: Strong line in loss. * ##### Pacers' Jay Huff: Logs 28 minutes in win. * ##### Pacers' Jay Huff: Joins starting lineup. #### Waiver wire: Adds for the final week. Mike Barner • 3 min read. Mike Barner • 4 min read. Adam King • 5 min read. #### Week 22 waiver wire. Mike Barner • 3 min read. Mike Barner • 3 min read. Alex Barutha • 3 min read.",
+      "published_at": "Sun, 05 Apr 2026 21:47:39 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於NBA球員Jay Huff的賽事資訊，與華語歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 874,
+      "title": "Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia - billboard.com",
+      "link": "https://www.billboard.com/music/rb-hip-hop/jason-derulo-last-dance-arena-tour-australia-2026-1236217621/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia. The R&B star will play arenas on both coasts. Jason Derulo will bring his *Last Dance World Tour* to Australia later in the year. The R&B star will play arenas on both coasts, kicking off at Brisbane’s Entertainment Centre (Sept. 17), then moving to Sydney’s Qudos Bank Arena (Sept .19), Melbourne’s Rod Laver Arena (Sept. Derulo has runs on the board in Australia, where his releases “In My Head,” “Trumpets,” “Savage Love (Laxed – Siren Beat)” with Jawsh 685 (a recording that landed in the courts), and “Talk Dirty” featuring 2 Chainz all led the ARIA Singles Chart, while his first three solo albums cracked the national top 10. Derulo is touring in support of his eight-track album, *The Last Dance (Part 1),* which dropped in January. ***Jason Derulo Last Dance World Tour 2026***:. ### Want to know what everyone in the music business is talking about? Visit Billboard Pro for music business news.",
+      "published_at": "Wed, 08 Apr 2026 06:18:07 GMT",
+      "collected_at": "2026-04-09 06:09:17",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了美國R&B歌手Jason Derulo將在澳洲舉行《Last Dance》巡迴演唱會，與周杰倫無直接相關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12353,6 +12465,21 @@
         "無相關事件"
       ],
       "created_at": "2026-04-08 06:11:41"
+    },
+    {
+      "id": 17,
+      "report_date": "2026-04-09",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日搜集的新聞報導中，並未發現任何與周杰倫直接相關的內容。主要娛樂新聞焦點集中在Kanye West的音樂節爭議與其復出動態，以及Michael Jackson遺產處理的相關報導。",
+      "key_events": [
+        "無周杰倫新聞",
+        "Kanye West爭議",
+        "MJ遺產糾紛"
+      ],
+      "created_at": "2026-04-09 06:11:01"
     }
   ],
   "notification_logs": [
@@ -12663,11 +12790,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-08 06:11:43"
+    },
+    {
+      "id": 45,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-09 06:11:02"
+    },
+    {
+      "id": 46,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-09 06:11:03"
     }
   ],
   "_meta": {
-    "nextArticleId": 867,
-    "nextReportId": 17,
-    "nextLogId": 45
+    "nextArticleId": 875,
+    "nextReportId": 18,
+    "nextLogId": 47
   }
 }
