@@ -3424,11 +3424,11 @@
       "snippet": "周杰倫臺北大巨蛋演唱會再加開「視線遮蔽區」！票價、座位圖、售票時間資訊一覽  Vogue Taiwan",
       "published_at": "2024-10-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫臺北大巨蛋演唱會因應高需求再加開視線遮蔽區，並公布票價、座位圖及售票時間。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 246,
@@ -3438,11 +3438,11 @@
       "snippet": "周杰倫演唱會後台與媽媽葉惠美合影！母子倆同穿Dior成最強宣傳  自由時報",
       "published_at": "2025-04-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在演唱會後台與媽媽葉惠美溫馨合影，兩人身穿Dior服飾，被媒體譽為最強宣傳。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 247,
@@ -3452,11 +3452,11 @@
       "snippet": "周杰倫大巨蛋演唱會4天亮點：陳冠希、山下智久、許光漢全來朝聖！五月天、張惠妹同唱是全場7、8 年級青春集大成  Vogue Taiwan",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫大巨蛋演唱會眾星雲集，陳冠希、山下智久、許光漢等名人到場支持，並與五月天、張惠妹同台，成為七、八年級生的青春盛宴。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 248,
@@ -3466,11 +3466,11 @@
       "snippet": "黃牛集團鎖定周杰倫演唱會海內外狂撈358萬 卻不服財產被扣這麼多  聯合新聞網",
       "published_at": "2025-04-04T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "一個黃牛集團因鎖定周杰倫演唱會海內外非法獲利358萬，目前不服財產被扣押。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 249,
@@ -3480,11 +3480,11 @@
       "snippet": "周杰倫演唱會門票遭偽造販售刑事局逮工程師送辦| 社會  中央社 CNA",
       "published_at": "2025-03-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "刑事局逮捕偽造周杰倫演唱會門票的工程師，打擊黃牛行為。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 250,
@@ -3494,11 +3494,11 @@
       "snippet": "周杰倫演唱會入場攻略：入場時間、啟德安檢違禁品、周邊限定店、取票地點、歌單及交通  timeout.com.hk",
       "published_at": "2025-06-26T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這篇報導為周杰倫演唱會的觀眾提供了詳盡的入場攻略，包含時間、安檢、周邊、取票、歌單及交通等實用資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 251,
@@ -3508,11 +3508,11 @@
       "snippet": "周杰倫演唱會2025歌單｜20首周氏情歌點歌環節必點推薦！一首禁忌之歌不能點！  U Lifestyle",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這則新聞為周杰倫2025年演唱會的點歌環節提供了20首情歌推薦，並提及一首不能點的禁忌之歌，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 252,
@@ -3522,11 +3522,11 @@
       "snippet": "啟德體育園︱周杰倫演唱會6.27起一連三晚舉行 設特別交通安排  香港01",
       "published_at": "2025-06-25T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫將在啟德體育園舉行一連三晚的演唱會，並將有特別交通安排。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 253,
@@ -3536,11 +3536,11 @@
       "snippet": "周杰倫演唱會2025香港站（門票加推）｜門票票價/購票日期/座位表/搶飛攻略一文睇清  Sundaykiss",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "此新聞提供周杰倫2025香港演唱會門票加推的詳細資訊，包含票價、購票日期、座位表及搶票攻略，對歌迷而言是實用且正面的消息。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 254,
@@ -3550,11 +3550,11 @@
       "snippet": "周杰倫演唱會｜情侶「小紅書」賣假飛斷正 警檢逾千張印同一編號  香港01",
       "published_at": "2025-07-22T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.3,
+      "summary": "一對情侶因在小紅書上販售周杰倫演唱會假票被警方查獲，並檢獲逾千張印有相同編號的假票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 255,
@@ -3564,11 +3564,11 @@
       "snippet": "周杰倫演唱會正式落幕啦！一起回顧4場演唱會的嘉賓&金句：「我會繼續乘著我音樂的翅膀，飛往下一個20年」  Women's Health",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "這則新聞回顧了周杰倫演唱會的成功落幕，並提及了演唱會嘉賓與他對未來音樂生涯的展望。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 256,
@@ -3578,11 +3578,11 @@
       "snippet": "假演唱會門票│ 偽造啟德體育園和紅館演唱會門票警搗詐騙集團檢高仿周杰倫個唱門票拘8男女 - 香港 - 香港文匯網  香港文匯網",
       "published_at": "2025-06-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "警方搗破一個偽造演唱會門票的詐騙集團，查獲高仿周杰倫演唱會門票並拘捕8人。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 257,
@@ -3592,11 +3592,11 @@
       "snippet": "周杰倫演唱會2025｜郭富城任尾場嘉賓爆意外 多名舞蹈員包圍協助 天王級淡定執生功力驚人  星島頭條",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫演唱會尾場，嘉賓郭富城雖遇意外，但憑藉其天王級的淡定與執生功力，在舞蹈員協助下成功化解，展現驚人專業。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 258,
@@ -3606,11 +3606,11 @@
       "snippet": "上台送周杰倫演唱會 2025 香港站最貴 HK$1,880 門票兩張！  DCFever.com",
       "published_at": "2025-04-15T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "此新聞報導了贈送周杰倫2025香港演唱會最貴HK$1,880門票兩張的活動。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 259,
@@ -3620,11 +3620,11 @@
       "snippet": "周杰倫演唱會2100元門票「絕對看不到周杰倫」一樣秒殺  品觀點",
       "published_at": "2025-04-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會即使是視線不佳的低價門票也迅速售罄，顯示其超高人氣與市場號召力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 260,
@@ -3634,11 +3634,11 @@
       "snippet": "周杰倫演唱會香港站2025 一文睇清啟德交通/禁帶物品清單/的士上落客區/行李寄存等安排！  U Lifestyle",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導為周杰倫2025年香港演唱會的觀眾提供了交通、禁帶物品、的士上落客區及行李寄存等實用資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 261,
@@ -3648,11 +3648,11 @@
       "snippet": "周杰倫演唱會黃牛包廂票 體育園：不得轉售 有權中止租用安排  香港01",
       "published_at": "2025-06-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "香港體育園針對周杰倫演唱會黃牛包廂票問題，明確表示不得轉售，並有權中止租用安排。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 262,
@@ -3662,11 +3662,11 @@
       "snippet": "周杰倫香港演唱會「門票再加開」！時間、座位表、訂購攻略一次看  TVBS新聞網",
       "published_at": "2025-03-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫香港演唱會因市場需求熱烈而再次加開門票，並提供詳細的訂購資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 263,
@@ -3676,11 +3676,11 @@
       "snippet": "「周杰倫演唱會是一場糟糕的體驗！」他揭現場「3崩潰體驗」…網笑： 安慰到買不到票的我  風傳媒",
       "published_at": "2024-10-31T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "有歌迷分享周杰倫演唱會的「3崩潰體驗」，引發網友幽默回應，稱這安慰了買不到票的粉絲。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 264,
@@ -3690,11 +3690,11 @@
       "snippet": "快訊／周杰倫大巨蛋演唱會場次、票價、售票日全出爐！  噓！星聞",
       "published_at": "2024-09-24T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫大巨蛋演唱會的場次、票價及售票日期等詳細資訊已正式公布。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 265,
@@ -3704,11 +3704,11 @@
       "snippet": "還有一次機會！周杰倫12月大巨蛋演唱會「加開」，11/2座位圖、票價一次看  ELLE",
       "published_at": "2024-10-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫因需求旺盛，將於12月在大巨蛋加開演唱會場次，並公布了座位圖與票價資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 266,
@@ -3718,11 +3718,11 @@
       "snippet": "周杰倫演唱會一連3天在啟德主場館舉行  Now 新聞",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫演唱會將一連三天在啟德主場館舉行。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 267,
@@ -3732,11 +3732,11 @@
       "snippet": "周杰倫演唱會4天亮點全紀錄＋完整歌單！江蕙開金口唱〈煙花易冷〉，動力火車、孫燕姿、昆凌爺爺都來了！  ELLE",
       "published_at": "2024-12-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會四天亮點全紀錄，包括完整歌單以及江蕙、動力火車、孫燕姿等眾多嘉賓的驚喜現身。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 268,
@@ -3746,11 +3746,11 @@
       "snippet": "周杰倫台北大巨蛋演唱會服裝解密：Dior巴黎總部量身打造，連秀場都沒曝光過的全新造型  Vogue Taiwan",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫台北大巨蛋演唱會的服裝由Dior巴黎總部量身打造，是連秀場都未曾曝光的全新造型，展現其獨特品味與時尚地位。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 269,
@@ -12403,6 +12403,90 @@
       "summary": "Zion’s EP ‘The Perfect Melody II’ & More Best New Music Latin - Billboard",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 887,
+      "title": "Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics - TMZ",
+      "link": "https://www.tmz.com/2026/04/10/jackson-family-attends-michael-movie-premiere-in-berlin/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics. ## Michael Jackson It's A Family Affair At Premiere of 'Michael' Biopic. The Jackson family was all smiles during Friday's world premiere of \"Michael\" at the Uber Eats Music Hall in Berlin, Germany. **Jackie Jackson**, **Jermaine Jackson** and **Jaafar Jackson** posed for pics on the red carpet alongside **Juliano Valdi**, who plays young **Michael Jackson** in the biopic. But noticeably absent was MJ's daughter **Paris**, whorecently **slammed** Michael's attorney, **John Branca**,for the film's \"botched production\" ... #### Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her. #### Michael Jackson Estate Accounting Report Shows $$$ Spent on Prince, Paris & Blanket. #### Michael Jackson's Estate Paid Millions for Hefty 'Michael' Biopic Reshoots. #### Paris Jackson Goes to Salon Amid Legal Drama With Michael's Estate. Prince Jackson   Blanket Jackson   Jackie Jackson   Michael Jackson   Jermaine Jackson   Jaafar Jackson   Paris Jackson   John Branca   Miles Teller   Musicians   Jackson Family   Movies.",
+      "published_at": "Fri, 10 Apr 2026 21:06:38 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "麥可傑克森傳記電影《Michael》首映，傑克森家族成員出席，但女兒Paris Jackson缺席並公開批評電影製作與遺產執行人。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 888,
+      "title": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - WYSO Public Radio",
+      "link": "https://www.wyso.org/npr-news/2026-04-09/bts-stays-at-no-1-on-the-charts-and-thwarts-ye-in-the-process",
+      "source": "Tavily (www.wyso.org)",
+      "snippet": "Three albums debut in the top five of this week's *Billboard* albums chart. Last week, a No. 1 debut for BTS's *Arirang* seemed as inevitable as the tides: The K-pop boy band didn't have much competition beyond country star Luke Combs (whose *The Way I Am* debuted at No. 2), and the group had already banked six No. 1 albums in its career. This week, *Arirang*'s continued chart dominance seemed like less of a given, seeing as how a huge percentage of its first-week numbers came from album sales (which don't carry over from week to week), while the latest round of debuts figured to be similarly formidable. It needed those sales, too, because three albums debut just behind it in this week's top five, led by Ye — the rapper formerly known as Kanye West — and his long-delayed new release *Bully*, which debuts at No. 2. Aided by a new video that premiered on April 1 — and in line for *another* chart boost after Langley's album *Dandelion* drops this Friday — \"Choosin' Texas\" is this week's most-streamed song.",
+      "published_at": "Thu, 09 Apr 2026 16:11:18 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於BTS、Ye等藝人的專輯榜單表現，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 889,
+      "title": "Jaylen Brown with the And-1!, 04/10/2026 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/videos/jaylen-brown-1-015821619.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. * Jaylen Brown talks Celtics season high scoring night with 148 points over NetsAbby Chin is joined by Jaylen Brown courtside after the Celtics blowout the Brooklyn Nets. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026. * Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026.",
+      "published_at": "Sat, 11 Apr 2026 01:58:21 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是籃球運動員Jaylen Brown的比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 890,
+      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - Billboard",
+      "link": "https://www.billboard.com/lists/the-weeks-best-new-dance-songs-david-guetta-afrojack-sia/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
+      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹本週最新的舞曲音樂，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 891,
+      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - billboard.com",
+      "link": "https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
+      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Billboard文章介紹了本週最新的舞曲音樂，包括Afrojack、David Guetta等藝人的新作品，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 892,
+      "title": "With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album - Billboard",
+      "link": "https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album. Holiday had the honors of opening the ARIAs with a performance of his viral smash “Dancing2.” Just Holiday, his hair teased like a mane, chest out, staring down the barrel of national TV cameras. He’s a first-time nominee for the APRA Music Awards, including the coveted song of the year for “Dancing2,” which took flight on TikTok, where fans clamored to its message of love, connection and positivity. This new chapter for Keli Holiday is a “representative of love,” he tells *Billboard* over Zoom. He’s the alter-ego of Adam Hyde, who alongside Reuben Styles is co-founder of Peking Duk, the multi-platinum, ARIA Award-winning electronic duo which has accumulated more than 400 million streams across such songs as “High,” “Take Me Over,” “Stranger” and “Fire.” The duo’s debut album, *Paradise*, is due out Aug. 14 and features the cut “Thrills” with Rico Nasty.",
+      "published_at": "Thu, 09 Apr 2026 09:15:43 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於音樂人Keli Holiday的專輯與巡演計畫，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12659,6 +12743,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard、Tyga To Star In 'Baby, You're A Star' Opposite Madison Bailey - Deadline、Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs - Billboard",
       "created_at": "2026-04-10 06:24:49"
+    },
+    {
+      "id": 19,
+      "report_date": "2026-04-11",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集到的新聞中，未有直接關於周杰倫的報導。多數新聞聚焦於其他歐美音樂人如Michael Jackson家族動態、BTS、Kanye West等藝人的音樂榜單表現、巡演消息或個人事件。此外，也有部分體育賽事與社會新聞。",
+      "key_events": [
+        "無相關新聞",
+        "無相關新聞",
+        "無相關新聞"
+      ],
+      "created_at": "2026-04-11 05:42:47"
     }
   ],
   "notification_logs": [
@@ -12997,11 +13096,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-10 06:24:51"
+    },
+    {
+      "id": 49,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-11 05:42:47"
+    },
+    {
+      "id": 50,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-11 05:42:48"
     }
   ],
   "_meta": {
-    "nextArticleId": 887,
-    "nextReportId": 19,
-    "nextLogId": 49
+    "nextArticleId": 893,
+    "nextReportId": 20,
+    "nextLogId": 51
   }
 }

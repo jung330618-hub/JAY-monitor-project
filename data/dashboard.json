@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
+    "total": 6,
     "positive": 0,
-    "negative": 0,
-    "neutral": 12
+    "negative": 1,
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 720,
-    "positive": 224,
-    "negative": 30,
-    "neutral": 466,
+    "total": 750,
+    "positive": 239,
+    "negative": 33,
+    "neutral": 478,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-03-27",
-      "total": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-03-28",
       "total": 15,
@@ -124,9 +116,101 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-11",
+      "total": 6,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 5,
+      "avg_score": 0.46
     }
   ],
   "recentArticles": [
+    {
+      "id": 887,
+      "title": "Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics - TMZ",
+      "link": "https://www.tmz.com/2026/04/10/jackson-family-attends-michael-movie-premiere-in-berlin/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics. ## Michael Jackson It's A Family Affair At Premiere of 'Michael' Biopic. The Jackson family was all smiles during Friday's world premiere of \"Michael\" at the Uber Eats Music Hall in Berlin, Germany. **Jackie Jackson**, **Jermaine Jackson** and **Jaafar Jackson** posed for pics on the red carpet alongside **Juliano Valdi**, who plays young **Michael Jackson** in the biopic. But noticeably absent was MJ's daughter **Paris**, whorecently **slammed** Michael's attorney, **John Branca**,for the film's \"botched production\" ... #### Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her. #### Michael Jackson Estate Accounting Report Shows $$$ Spent on Prince, Paris & Blanket. #### Michael Jackson's Estate Paid Millions for Hefty 'Michael' Biopic Reshoots. #### Paris Jackson Goes to Salon Amid Legal Drama With Michael's Estate. Prince Jackson   Blanket Jackson   Jackie Jackson   Michael Jackson   Jermaine Jackson   Jaafar Jackson   Paris Jackson   John Branca   Miles Teller   Musicians   Jackson Family   Movies.",
+      "published_at": "Fri, 10 Apr 2026 21:06:38 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "麥可傑克森傳記電影《Michael》首映，傑克森家族成員出席，但女兒Paris Jackson缺席並公開批評電影製作與遺產執行人。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 888,
+      "title": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - WYSO Public Radio",
+      "link": "https://www.wyso.org/npr-news/2026-04-09/bts-stays-at-no-1-on-the-charts-and-thwarts-ye-in-the-process",
+      "source": "Tavily (www.wyso.org)",
+      "snippet": "Three albums debut in the top five of this week's *Billboard* albums chart. Last week, a No. 1 debut for BTS's *Arirang* seemed as inevitable as the tides: The K-pop boy band didn't have much competition beyond country star Luke Combs (whose *The Way I Am* debuted at No. 2), and the group had already banked six No. 1 albums in its career. This week, *Arirang*'s continued chart dominance seemed like less of a given, seeing as how a huge percentage of its first-week numbers came from album sales (which don't carry over from week to week), while the latest round of debuts figured to be similarly formidable. It needed those sales, too, because three albums debut just behind it in this week's top five, led by Ye — the rapper formerly known as Kanye West — and his long-delayed new release *Bully*, which debuts at No. 2. Aided by a new video that premiered on April 1 — and in line for *another* chart boost after Langley's album *Dandelion* drops this Friday — \"Choosin' Texas\" is this week's most-streamed song.",
+      "published_at": "Thu, 09 Apr 2026 16:11:18 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於BTS、Ye等藝人的專輯榜單表現，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 889,
+      "title": "Jaylen Brown with the And-1!, 04/10/2026 - Yahoo Sports",
+      "link": "https://sports.yahoo.com/videos/jaylen-brown-1-015821619.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. * Jaylen Brown talks Celtics season high scoring night with 148 points over NetsAbby Chin is joined by Jaylen Brown courtside after the Celtics blowout the Brooklyn Nets. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026. * Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026.",
+      "published_at": "Sat, 11 Apr 2026 01:58:21 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是籃球運動員Jaylen Brown的比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 890,
+      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - Billboard",
+      "link": "https://www.billboard.com/lists/the-weeks-best-new-dance-songs-david-guetta-afrojack-sia/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
+      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹本週最新的舞曲音樂，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 891,
+      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - billboard.com",
+      "link": "https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
+      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Billboard文章介紹了本週最新的舞曲音樂，包括Afrojack、David Guetta等藝人的新作品，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 892,
+      "title": "With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album - Billboard",
+      "link": "https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album. Holiday had the honors of opening the ARIAs with a performance of his viral smash “Dancing2.” Just Holiday, his hair teased like a mane, chest out, staring down the barrel of national TV cameras. He’s a first-time nominee for the APRA Music Awards, including the coveted song of the year for “Dancing2,” which took flight on TikTok, where fans clamored to its message of love, connection and positivity. This new chapter for Keli Holiday is a “representative of love,” he tells *Billboard* over Zoom. He’s the alter-ego of Adam Hyde, who alongside Reuben Styles is co-founder of Peking Duk, the multi-platinum, ARIA Award-winning electronic duo which has accumulated more than 400 million streams across such songs as “High,” “Take Me Over,” “Stranger” and “Fire.” The duo’s debut album, *Paradise*, is due out Aug. 14 and features the cut “Thrills” with Rico Nasty.",
+      "published_at": "Thu, 09 Apr 2026 09:15:43 GMT",
+      "collected_at": "2026-04-11 05:40:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於音樂人Keli Holiday的專輯與巡演計畫，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 875,
       "title": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard",
@@ -462,104 +546,39 @@
       "summary": "Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her - tmz.com",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 857,
-      "title": "Aubrey Plaza is pregnant! White Lotus star, 41, is expecting first child with partner one year after husband's death - Daily Mail",
-      "link": "https://www.dailymail.co.uk/tvshowbiz/article-15714339/aubrey-plaza-pregnant-partner-christopher-abbott-death-husband-jeff-baena.html",
-      "source": "Tavily (www.dailymail.co.uk)",
-      "snippet": "#### Aubrey Plaza leads stars at Khaite NYFW show one year after husband Jeff Baena's death. In August of last year, Plaza opened up about the grief she had experienced during a conversation with her former costar, Amy Poehler, on the former SNL star's Good Hang podcast (pictured), which marked her first interview since Baena's death. * **EXCLUSIVELove Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab**. * **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * Love Island star Jack Fincham reveals new job as he appears in court for missing community service to go to... * Love Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab.",
-      "published_at": "Wed, 08 Apr 2026 01:11:02 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導演員Aubrey Plaza在丈夫去世一年後懷孕並出席紐約時裝週，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 858,
-      "title": "Now cancer-free, 'Roastmaster' comic Jeff Ross still finds humor in loss - npr.org",
-      "link": "https://www.npr.org/2026/04/07/nx-s1-5775758/jeff-ross-roastmaster-take-a-banana-for-the-ride",
-      "source": "Tavily (www.npr.org)",
-      "snippet": "**'Roastmaster' comic Jeff Ross finds humor in loss** **Known for his ruthless celebrity roasts, Ross turns inward in his Netflix special, *Take a Banana for the Ride*, which details the loss of his parents and grandfather.**. \"Going bald is one thing, but people thinking that I was sick or weak, for some reason, that really bothered me,\" Ross says of being diagnosed with alopecia. Comedian Jeff Ross — aka the \"Roastmaster General,\" who's participated in televised roasts of celebrities like Justin Bieber, Tom Brady and Joan Rivers — is not easily offended. But his new Netflix comedy special, *Take a Banana for the Ride,* is more personal and autobiographical.In it, he reflects on his family and childhood — including the loss of his mother, who died of cancer when he was a teen, and his father, who died of an aneurysm five years later. To him, it was like a tough guy's way of saying, \"I love you.",
-      "published_at": "Tue, 07 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導喜劇演員Jeff Ross如何透過他的Netflix特輯，以幽默面對個人生命中的失落與挑戰。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 859,
-      "title": "Why The Meta $6M Verdict Is A “Joe Camel” Warning For Big Tech - Forbes",
-      "link": "https://www.forbes.com/sites/tylerchou/2026/04/07/why-the-meta-6m-verdict-is-a-joe-camel-warning-for-big-tech/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Why The Meta $6M Verdict Is A “Joe Camel” Warning For Big Tech. ## By Tyler Chou, Esq. I was halfway across the world in Taiwan for Spring Break when the Meta $6M verdict broke: a Los Angeles jury had delivered a $6 million verdict against Meta and Google in a case involving social media’s impact on a young user’s mental health. As an attorney for the world’s largest creators, I view this ruling not as a financial hit, but as a structural shift in the legal landscape—one that mirrors the fall of Big Tobacco. How the Meta 6M Verdict Reshapes The Creator Economy. ### What Leaders Should Do Now. As the legal landscape shifts from \"Fast\" to \"Slow,\" creators and brands should audit their strategy:. The path from immunity to accountability following this Meta $6M verdict is now clearly marked; the only question is how quickly the rest of the industry will be forced to walk it.",
-      "published_at": "Tue, 07 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要探討Meta因社群媒體對年輕用戶心理健康的影響而被判賠600萬美元的案例，並將其視為科技巨頭法律責任的結構性轉變，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 860,
-      "title": "Three early warning signs of dementia that have nothing to do with memory - Daily Mail",
-      "link": "https://www.dailymail.co.uk/health/article-15710185/three-early-warning-signs-dementia.html",
-      "source": "Tavily (www.dailymail.co.uk)",
-      "snippet": "* **EXCLUSIVELove Island star Jack Fincham reveals new job as he appears in court for missing community service to go to rehab**. * **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Love Island star Jack Fincham says 'it can't get any worse than this' as he reveals he's homeless after struggling with life following rehab stint**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**.",
-      "published_at": "Mon, 06 Apr 2026 20:24:23 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容摘要未提及周杰倫，主要報導其他名人的生活、健康及情感狀況。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 861,
-      "title": "Dangerous winter virus is still spreading... map shows who is at risk - Daily Mail",
-      "link": "https://www.dailymail.co.uk/health/article-15709803/winter-seasonal-virus-babies-seniors-RSV-respiratory-pneumonia.html",
-      "source": "Tavily (www.dailymail.co.uk)",
-      "snippet": "* **Mel B reveals the Spice Girls like her new husband Rory McPhee because he makes her a 'nicer' person as she shares a rare insight into married life**. * **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**. * **Inside Coleen Rooney's lavish 40th birthday party as she dances the night away with husband Wayne and son Kai and a HUGE star performs**. * **Lorna Luxe reveals sweet nod to late husband John as she shares a glimpse inside her lavish new 'temporary' home which she says he 'would love'**.",
-      "published_at": "Mon, 06 Apr 2026 22:06:09 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導多位西方名人的生活動態與健康狀況，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 862,
-      "title": "Breathing in common cleaning products may cause more serious health damage than accidentally drinking them - Daily Mail",
-      "link": "https://www.dailymail.co.uk/health/article-15707043/Breathing-common-cleaning-products-cause-health-damage-accidentally-drinking-them.html",
-      "source": "Tavily (www.dailymail.co.uk)",
-      "snippet": "* **Harry Potter star Bonnie Wright reveals she's pregnant with her second child as she shares sweet photos of son, two, kissing her bump**. * **Celibate celebrities: 10 stars who have opened up about abstinence - after Baby Reindeer's Jessica Gunning revealed she wasn't intimate for 36 years**. * **Busted star James Bourne reveals he is having 'major surgery' to 'extend his life' as he shares worrying health update six months after quitting the band's tour**. * **Inside Coleen Rooney's lavish 40th birthday party as she dances the night away with husband Wayne and son Kai and a HUGE star performs**. * **Lorna Luxe reveals sweet nod to late husband John as she shares a glimpse inside her lavish new 'temporary' home which she says he 'would love'**. * **Olivia Attwood shares post about feeling 'lost' and reveals she's back using lip fillers after accusing ex Bradley Dack of 'cheating on her multiple times over ten years'**.",
-      "published_at": "Sun, 05 Apr 2026 00:14:55 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，內容主要報導其他西方名人的生活與健康相關新聞。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 18,
-    "report_date": "2026-04-10",
-    "total_articles": 12,
+    "id": 19,
+    "report_date": "2026-04-11",
+    "total_articles": 6,
     "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 12,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard、Tyga To Star In 'Baby, You're A Star' Opposite Madison Bailey - Deadline、Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs - Billboard",
-    "created_at": "2026-04-10 06:24:49"
+    "negative_count": 1,
+    "neutral_count": 5,
+    "daily_summary": "今日搜集到的新聞中，未有直接關於周杰倫的報導。多數新聞聚焦於其他歐美音樂人如Michael Jackson家族動態、BTS、Kanye West等藝人的音樂榜單表現、巡演消息或個人事件。此外，也有部分體育賽事與社會新聞。",
+    "key_events": [
+      "無相關新聞",
+      "無相關新聞",
+      "無相關新聞"
+    ],
+    "created_at": "2026-04-11 05:42:47"
   },
   "recentReports": [
+    {
+      "id": 19,
+      "report_date": "2026-04-11",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集到的新聞中，未有直接關於周杰倫的報導。多數新聞聚焦於其他歐美音樂人如Michael Jackson家族動態、BTS、Kanye West等藝人的音樂榜單表現、巡演消息或個人事件。此外，也有部分體育賽事與社會新聞。",
+      "key_events": [
+        "無相關新聞",
+        "無相關新聞",
+        "無相關新聞"
+      ],
+      "created_at": "2026-04-11 05:42:47"
+    },
     {
       "id": 18,
       "report_date": "2026-04-10",
@@ -645,21 +664,6 @@
         "Spotify推專屬體驗"
       ],
       "created_at": "2026-04-05 06:04:23"
-    },
-    {
-      "id": 12,
-      "report_date": "2026-04-04",
-      "total_articles": 17,
-      "positive_count": 5,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日周杰倫新聞焦點：他公開了在英國古堡向昆凌求婚的感人影片，引發熱議。同時，「嘉年華II」世界巡演於杭州盛大啟動，現場5萬名歌迷狂嗨，更出動14公尺巨型機甲。此外，Spotify推出周杰倫專屬互動體驗「16包廂」，成功吸引三倍新粉絲加入。",
-      "key_events": [
-        "求婚影片公開",
-        "嘉年華巡演啟動",
-        "Spotify推體驗"
-      ],
-      "created_at": "2026-04-04 05:37:25"
     }
   ]
 }
