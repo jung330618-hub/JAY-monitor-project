@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
+    "total": 4,
     "positive": 0,
-    "negative": 1,
-    "neutral": 5
+    "negative": 0,
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 750,
-    "positive": 239,
-    "negative": 33,
-    "neutral": 478,
-    "avg_score": 0.62
+    "total": 780,
+    "positive": 260,
+    "negative": 36,
+    "neutral": 484,
+    "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-03-28",
-      "total": 15,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 15,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-03-30",
       "total": 18,
@@ -124,9 +116,73 @@
       "negative": 1,
       "neutral": 5,
       "avg_score": 0.46
+    },
+    {
+      "date": "2026-04-12",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 893,
+      "title": "Here Is 80 Acres Self-Titled EP ’80 Acres’ - Country Swag",
+      "link": "https://countryswag.com/80-acres-self-titled-ep/",
+      "source": "Tavily (countryswag.com)",
+      "snippet": "80 Acres with frontman Dylan Marlowe, share their debut self-titled EP, *80 Acres**,* out now, April 8th on all streaming platforms. Dylan Marlowe is a name you have probably heard of across the country music landscape. *80 Acres shares their self-titled EP, out now on all streaming platforms.*. Fans can join our Weekly Round-Up e-newsletter here, for the latest in country music and more news about future 80 Acres releases. *80 Acres EP* is available everywhere you buy or stream music. Take a listen below and check out more new recently released music on our ‘New Country Music’ playlist. Be sure to give the playlist a follow for your weekly new country music fix. https://countryswag.com/wp-content/uploads/2026/04/80-acres.jpg 630 1200   Erica Zisman  https://countryswag.com/wp-content/uploads/2021/05/logo-new-cs-white.png  Erica Zisman2026-04-08 20:57:052026-04-08 20:57:05Here Is 80 Acres Self-Titled EP ’80 Acres’. **Kasey Tyndall & Dylan Marlowe Join Forces on New Song**. **Dylan Marlowe Makes Label Debut with New Song “Record High”**. **Dylan Marlowe Shares Highly-Anticipated New Song “Sorryville”**.",
+      "published_at": "Thu, 09 Apr 2026 00:57:05 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導介紹了鄉村音樂團體80 Acres及其主唱Dylan Marlowe發行的首張同名EP，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 894,
+      "title": "Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1 - billboard.com",
+      "link": "https://www.billboard.com/music/concerts/bruno-mars-the-romantic-tour-setlist-every-song-night-1-1236220593/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1. The first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session/. Arguably, Bruno Mars has held the keys to the Las Vegas Strip for more than a decade, thanks to two record-breaking residencies at The Cosmopolitan and Dolby Live, which have brought in more than $200 million. All this … and a parade with Hello Kitty made the debut of Mars’ The Romantic Tour an unforgettable occasion for the sold-out crowd that gathered to celebrate Mars both during the day and later that night at Allegiant Stadium. As for the main event, the first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session, around 8:50 p.m., and didn’t relinquish until he played every new track, old hit and crowd favorite — even bringing back Silk Sonic with Anderson .Paak. Visit Billboard Pro for music business news.",
+      "published_at": "Sat, 11 Apr 2026 06:01:58 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於火星人布魯諾（Bruno Mars）在拉斯維加斯的「The Romantic Tour」演唱會歌單與盛況，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 895,
+      "title": "Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’ - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/bruno-mars-romantic-tour-vegas-parade-key-donation-day-1236220895/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’. Vegas honored the pop supernova with a parade, while Bruno pledged a $1 million donation to the Intermountain Health Nevada Children's Hospital. Bruno Mars kicked off The Romantic Tour on Friday night (April 10) with a sold-out show in front of more than 60,000 fans packing Allegiant Stadium in Las Vegas. ### Bruno Mars' The Romantic Tour Setlist: Every Song From Night 1. Bruno started the day in style with a ride down the Strip in a vintage convertible for a parade honoring his contributions to the Las Vegas entertainment scene, as April 10 was renamed to Bruno Mars Day in Sin City. The Grammy-winning artist was given the key to the Las Vegas Strip, while Park Avenue outside Park MGM was renamed to Bruno Mars Drive. The Romantic Tour continues on Saturday night (April 11) when Bruno Mars returns to the Allegiant Stadium stage for another cinematic performance.",
+      "published_at": "Sat, 11 Apr 2026 20:39:08 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導火星人布魯諾在拉斯維加斯開啟浪漫巡演，獲頒城市鑰匙並捐款百萬美元，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 896,
+      "title": "Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show - Billboard",
+      "link": "https://www.billboard.com/lists/jackson-wang-tour-best-moments-brooklyn/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show. Three years after lighting up the stage at Barclays Center for his first tour, Jackson Wang partied it up once more at the iconic Brooklyn, New York, venue on Friday (April 10). ### Jackson Wang Talks Inspiration for ‘MAGIC MAN 2’: ‘What Do I Want to Say as a Person?’. On social media, Magic Man concerts are essentially known for Wang’s viral and sexy interactions with his fans. For a string of three unreleased songs — “Shadows on the Wall,” “Contact” and “Closer” — Wang’s dancers brought four lucky fans on stage to sit down and enjoy the singer’s full attention on them. He revealed that the first song off the project is “Sex God.” The song featuring Pusha T and produced by Pharrell Williams debuted at the Louis Vuitton Fall Winter 2026 Show at Paris Fashion Week, but Wang confirmed that it would usher in a new era to shed away Magic Man.",
+      "published_at": "Sat, 11 Apr 2026 19:35:38 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導王嘉爾在布魯克林成功舉辦「MAGIC MAN 2」演唱會，並預告新歌及音樂新紀元，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 887,
       "title": "Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics - TMZ",
@@ -490,80 +546,39 @@
       "summary": "這則新聞報導了美國R&B歌手Jason Derulo將在澳洲舉行《Last Dance》巡迴演唱會，與周杰倫無直接相關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 853,
-      "title": "How Michael Jackson’s Estate Has Quietly Funded His Three Kids' Lavish Lifestyle - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/michael-jackson-estate-quietly-funded-181007088.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# How Michael Jackson’s Estate Has Quietly Funded His Three Kids' Lavish Lifestyle. Michael Jackson’s estate has turned out to be a lucrative blessing for his three kids, and the legal documents are proving where the money is going. Paris Jackson, 28, is currently engaged in a legal battle with the executors of her late father’s estate, John Branca and John McClain, over alleged mismanagement of funds, lack of transparency, and high attorney fees, per *New York Post*. In October 2025, Paris was accused of “[blowing through [money] faster than Michael ever did,](https://www.yahoo.com/entertainment/celebrity/articles/paris-jackson-reportedly-blowing-her-205341464.html)” according to Rob Shuter’s *Naughty But Nice* Substack. Branca and McClain shared in legal documents, obtained by *Us Weekly*, Paris “has benefited more than anyone” from the lucrative Jackson estate, and they are frustrated that she’s pushing back. There is still no resolution in the Jackson family estate case, but it appears Paris is leading the fight with her brothers quietly showing support behind the scenes.",
-      "published_at": "Tue, 07 Apr 2026 18:10:07 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於麥可·傑克森的遺產管理及其子女的法律糾紛，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 854,
-      "title": "RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts - Billboard",
-      "link": "https://www.billboard.com/music/chart-beat/raye-this-music-may-contain-hope-top10-4-billboard-charts-1236216492/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts. RAYE’s sophomore album *THIS MUSIC MAY CONTAIN HOPE.* debuts in the top 10 across four *Billboard* album charts (dated April 11), including Top Album Sales, where it starts at No. 8. ### RAYE Earns Her First U.K. No. 1 Album With ‘This Music May Contain Hope’. ### Miley Cyrus, Raye, Charlie Puth & More: New Music Friday Guide. ### Fans Choose RAYE’s ‘Nightingale Lane’ as This Week’s Favorite New Music. The new set was preceded by the smash single “WHERE IS MY HUSBAND!,” which has spent the last three months lodged in the top 20 of the all-genre Billboard Hot 100 songs chart. RAYE’s new album is one of a whopping seven titles that debut in the top 10 on the Top Album Sales chart, where BTS’ *ARIRANG* rules for a second week. Visit Billboard Pro for music business news.",
-      "published_at": "Tue, 07 Apr 2026 12:00:00 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導英國歌手RAYE的專輯《THIS MUSIC MAY CONTAIN HOPE.》在多個Billboard專輯榜單上首次進入前十名，並在英國獲得冠軍，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 855,
-      "title": "Ye’s ‘BULLY’ Debuts at No. 1 on Top R&B/Hip-Hop Albums Chart - billboard.com",
-      "link": "https://www.billboard.com/music/chart-beat/ye-west-bully-number-1-top-rb-hip-hop-albums-1236217186/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Ye’s ‘BULLY’ Debuts at No. 1 on Top R  one, Feb. 24, 2024. *BULLY*’s impact extends to the Hot R&B/Hip-Hop Songs chart, where 15 of the album’s tracks appear on the 50-position ranking. With “FATHER” in front, here’s a rundown of the *BULLY* cuts on the Hot R&B/Hip-Hop Songs chart this week:.",
-      "published_at": "Tue, 07 Apr 2026 20:57:54 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Ye的專輯《BULLY》在R&B/Hip-Hop專輯榜上首次亮相便奪冠的資訊，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 856,
-      "title": "Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her - tmz.com",
-      "link": "https://www.tmz.com/2026/04/07/paris-jackson-accuses-dads-estate-executors-of-bullying-her/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her. ## Paris Jackson to MJ's Estate Executors You're Using My Dad's Fortune to Bully & Attack Me!!! **Paris Jackson** slammed the two executors in charge of her late father **Michael Jackson**’s estate ... According to court docs, obtained by TMZ, Paris and her legal team say the executors, **John Branca** and **John McClain**, are filing court documents that “mock and belittle” Michael’s only daughter. As TMZ previously reported, Paris and the executors **have been going** back and forth about payments made to third-party law firms who worked for the estate ... #### Paris Jackson Goes to Salon Amid Legal Drama With Michael's Estate. #### Michael Jackson Estate Accounting Report Shows $$$ Spent on Prince, Paris & Blanket. Paris Jackson   John Branca   Michael Jackson   John McClain   Celebrity News   RIP   Money   Celebrity Death   Exclusive   Fairly Legal.",
-      "published_at": "Tue, 07 Apr 2026 23:30:12 GMT",
-      "collected_at": "2026-04-08 06:09:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her - tmz.com",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 19,
-    "report_date": "2026-04-11",
-    "total_articles": 6,
+    "id": 20,
+    "report_date": "2026-04-12",
+    "total_articles": 4,
     "positive_count": 0,
-    "negative_count": 1,
-    "neutral_count": 5,
-    "daily_summary": "今日搜集到的新聞中，未有直接關於周杰倫的報導。多數新聞聚焦於其他歐美音樂人如Michael Jackson家族動態、BTS、Kanye West等藝人的音樂榜單表現、巡演消息或個人事件。此外，也有部分體育賽事與社會新聞。",
+    "negative_count": 0,
+    "neutral_count": 4,
+    "daily_summary": "根據今日搜集到的新聞資料，未發現任何與周杰倫相關的報導。所有內容主要涵蓋其他國際藝人如Bruno Mars、Michael Jackson家族、Kanye West等人的音樂活動、專輯發行、巡演及個人動態，以及部分非娛樂類資訊。",
     "key_events": [
-      "無相關新聞",
-      "無相關新聞",
-      "無相關新聞"
+      "無周杰倫新聞",
+      "今日無相關報導",
+      "焦點為其他藝人"
     ],
-    "created_at": "2026-04-11 05:42:47"
+    "created_at": "2026-04-12 06:16:33"
   },
   "recentReports": [
+    {
+      "id": 20,
+      "report_date": "2026-04-12",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "根據今日搜集到的新聞資料，未發現任何與周杰倫相關的報導。所有內容主要涵蓋其他國際藝人如Bruno Mars、Michael Jackson家族、Kanye West等人的音樂活動、專輯發行、巡演及個人動態，以及部分非娛樂類資訊。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "焦點為其他藝人"
+      ],
+      "created_at": "2026-04-12 06:16:33"
+    },
     {
       "id": 19,
       "report_date": "2026-04-11",
@@ -649,21 +664,6 @@
         "Spotify專屬體驗"
       ],
       "created_at": "2026-04-06 06:23:31"
-    },
-    {
-      "id": 13,
-      "report_date": "2026-04-05",
-      "total_articles": 13,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 13,
-      "daily_summary": "周杰倫「嘉年華II」巡演杭州站盛大開唱，首度獻唱7首新歌，並動用14公尺巨型機甲，吸引5萬歌迷狂歡。他公開了在英國古堡向昆凌求婚的珍貴影片，單膝下跪的畫面引發熱議。此外，Spotify也推出周杰倫專屬「16包廂」互動體驗，成功吸引三倍新粉絲加入。",
-      "key_events": [
-        "嘉年華II杭州開唱",
-        "公開英國求婚影片",
-        "Spotify推專屬體驗"
-      ],
-      "created_at": "2026-04-05 06:04:23"
     }
   ]
 }

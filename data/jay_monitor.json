@@ -3760,11 +3760,11 @@
       "snippet": "「周杰倫演唱會」精彩亮點總回顧：陳傑憲獻唱、阿妹大唱〈連名帶姓〉，五月天是壓軸嘉賓！  GQ Taiwan",
       "published_at": "2024-12-09T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這篇報導回顧了周杰倫演唱會的精彩亮點，包括陳傑憲獻唱、張惠妹演唱〈連名帶姓〉以及五月天擔任壓軸嘉賓。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 270,
@@ -3774,11 +3774,11 @@
       "snippet": "周杰倫演唱會2025開鑼 大晒廣東話唱老歌冧粉絲  東周刊",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫2025年演唱會將開鑼，他將以廣東話演唱老歌來取悅粉絲。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 271,
@@ -3788,11 +3788,11 @@
       "snippet": "周杰倫嘉年華嗨翻拉抬去年第4季演唱會經濟規模創高| 產經  中央社 CNA",
       "published_at": "2025-02-22T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫的嘉年華演唱會表現亮眼，成功拉抬了去年第四季的演唱會經濟規模，創下新高。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 272,
@@ -3802,11 +3802,11 @@
       "snippet": "周杰倫演唱會2025香港站｜門票票價/購票日期/座位表/搶飛攻略一文睇清| 最新娛聞  東方新地",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "新聞提供周杰倫2025香港演唱會的門票票價、購票日期、座位表及搶票攻略等實用資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 273,
@@ -3816,11 +3816,11 @@
       "snippet": "獨家／周杰倫演唱會秒殺網全崩潰　曝「2關鍵要點」才能當天選之人  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2024-10-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.4,
+      "summary": "周杰倫演唱會門票瞬間秒殺，導致許多粉絲因搶不到票而崩潰，新聞揭露了成功購票的關鍵要點。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 274,
@@ -3830,11 +3830,11 @@
       "snippet": "真的假的？他曬「爬下水道」聽周杰倫演唱會影片 網示警：死過人  Yahoo新聞",
       "published_at": "2024-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "有網友分享爬下水道聽周杰倫演唱會的影片，引發其他網友警告此行為極度危險且曾發生死亡事件。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 275,
@@ -3844,11 +3844,11 @@
       "snippet": "周杰倫演唱會香港站2025丨周杰倫《嘉年華世界巡迴演唱會》登陸啟德體育園！終極加推座位3.27公開發售即睇搶飛攻略、票價、座位表  Yahoo",
       "published_at": "2025-03-26T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫《嘉年華世界巡迴演唱會》香港站2025將登陸啟德體育園，並於3月27日終極加推座位公開發售，提供搶飛攻略、票價及座位表資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 276,
@@ -3858,11 +3858,11 @@
       "snippet": "周杰倫香港演唱會2025｜啟德主場館交通全攻略！附入場流程/違禁品  星島頭條",
       "published_at": "2025-06-27T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞為周杰倫2025年香港演唱會的觀眾提供了啟德主場館的交通、入場流程及違禁品等實用攻略資訊。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 277,
@@ -3872,11 +3872,11 @@
       "snippet": "周杰倫大巨蛋演唱會清票近80萬人搶3000張票創紀錄| 娛樂  中央社 CNA",
       "published_at": "2024-10-23T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫大巨蛋演唱會清票吸引近80萬人搶3000張票，創下驚人紀錄，顯示其極高人氣與市場號召力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 278,
@@ -3886,11 +3886,11 @@
       "snippet": "3.8萬人12分鐘散場！周杰倫大巨蛋演唱會3個半小時嗨爆 首場完整歌單曝  Yahoo新聞",
       "published_at": "2024-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫大巨蛋演唱會吸引3.8萬人，演出長達3個半小時並氣氛嗨爆，散場效率極高。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 279,
@@ -3900,11 +3900,11 @@
       "snippet": "周杰倫演唱會嘉賓會是誰？ 登台北大巨蛋周董親曝「點歌環節」演唱會造型必穿愛牌原因  ELLE",
       "published_at": "2024-12-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫即將舉辦演唱會，新聞提及嘉賓、點歌環節以及演唱會造型，引發粉絲高度期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 280,
@@ -3914,11 +3914,11 @@
       "snippet": "周杰倫新歌MV致敬世界名畫！　導演是他…發片記者會藏愛妻密碼  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2026-03-18T02:28:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌MV致敬世界名畫，並在發片記者會中展現對愛妻的甜蜜心意。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 281,
@@ -3928,11 +3928,11 @@
       "snippet": "超驚喜｜周杰倫19秒新歌預告片致敬名畫 發片記者會藏愛妻彩蛋  壹蘋新聞網",
       "published_at": "2026-03-18T01:22:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發布19秒新歌預告片，內容致敬名畫並藏有愛妻彩蛋，引發粉絲超驚喜。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 282,
@@ -3942,11 +3942,11 @@
       "snippet": "周杰倫19秒新歌預告200萬人暴動！致敬世界名畫 貼心藏愛妻密碼  TVBS新聞網",
       "published_at": "2026-03-18T03:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫發布19秒新歌預告，因致敬世界名畫並藏有愛妻密碼，引發兩百萬人熱烈討論與期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 283,
@@ -3956,11 +3956,11 @@
       "snippet": "周杰倫新歌MV進度曝光! 天王竟為這件事煩惱爆粗口  MSN",
       "published_at": "2026-03-15T21:00:04.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫新歌MV進度曝光，內容提及他因製作過程而煩惱甚至爆粗口，引發關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 284,
@@ -3970,11 +3970,11 @@
       "snippet": "哈利波特？周杰倫19秒新歌預告引起騷動 名畫入MV致敬「他」  自由娛樂",
       "published_at": "2026-03-17T23:12:43.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發布19秒新歌預告，MV中融入名畫元素並引發熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 285,
@@ -3984,11 +3984,11 @@
       "snippet": "周杰倫新歌MV完成了！親製作5種短影片　崩潰爆粗口：為什麼我弄  NOWnews今日新聞",
       "published_at": "2026-03-15T06:53:05.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫親自投入新歌MV製作並完成，雖然過程辛苦到讓他忍不住「爆粗口」，但展現了他對作品的投入與熱情。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 286,
@@ -3998,11 +3998,11 @@
       "snippet": "周杰倫家族旅行「搶先聽新歌」 粉絲等不及列時間軸狂催進度  MSN",
       "published_at": "2026-03-15T10:59:02.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在家族旅行中透露新歌進度，引發粉絲高度期待並積極催促新歌發布。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 287,
@@ -4012,11 +4012,11 @@
       "snippet": "討論牆 | 抄襲風波天王也遭殃！ 周杰倫新歌24秒前奏撞韓團歌  LINE TODAY",
       "published_at": "2026-03-14T14:06:31.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "此新聞報導周杰倫新歌前奏被指與韓團歌曲相似，引發抄襲爭議。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 288,
@@ -4026,11 +4026,11 @@
       "snippet": "周杰倫專輯終於完工！宣告全家公路旅行「新歌搶先聽」 要網友猜「3月發片日」  Yahoo新聞",
       "published_at": "2026-03-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫宣布新專輯已完工，並將在全家公路旅行中搶先曝光新歌，暗示專輯可能於三月發行。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 289,
@@ -4040,11 +4040,11 @@
       "snippet": "天王周杰倫曝\"3/18發新歌\" 韋禮安5月小巨蛋開唱－民視新聞  民視新聞網",
       "published_at": "2026-03-13T11:56:47.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫宣布將於3月18日發行新歌，為歌迷帶來期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 290,
@@ -4054,11 +4054,11 @@
       "snippet": "周杰倫新歌全家先聽　IG鬆口發布時間  鏡週刊Mirror Media",
       "published_at": "2026-03-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫透過IG透露新歌發布時間，並表示家人已搶先聽過。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 291,
@@ -4068,11 +4068,11 @@
       "snippet": "F4真的變F3了！無預警發新歌MV 周杰倫、阿信超夢幻組合讓粉絲嗨翻  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與阿信無預警發布新歌MV，其夢幻組合讓粉絲感到非常興奮。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 292,
@@ -4082,11 +4082,11 @@
       "snippet": "周杰倫攜手阿信、F3世紀合體！5分鐘新歌MV曝光「青春全回來了」  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與阿信、F3合作推出新歌MV，引發粉絲對青春回憶的強烈共鳴。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 293,
@@ -4096,11 +4096,11 @@
       "snippet": "周杰倫新歌MV「致敬名畫」巧撞泰勒絲掀熱議！2派人馬社群吵翻天  Yahoo新聞",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫新歌MV因致敬名畫卻巧合撞梗泰勒絲，引發社群兩派人馬熱烈爭論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 294,
@@ -4110,11 +4110,11 @@
       "snippet": "周杰倫新專輯穩了！昆凌、3寶搶先聽新歌　他預告：過幾天換你們  NOWnews今日新聞",
       "published_at": "2026-03-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫預告新專輯即將發行，並透露家人已搶先試聽新歌，讓粉絲引頸期盼。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 295,
@@ -12487,6 +12487,62 @@
       "summary": "此新聞資訊主要關於音樂人Keli Holiday的專輯與巡演計畫，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 893,
+      "title": "Here Is 80 Acres Self-Titled EP ’80 Acres’ - Country Swag",
+      "link": "https://countryswag.com/80-acres-self-titled-ep/",
+      "source": "Tavily (countryswag.com)",
+      "snippet": "80 Acres with frontman Dylan Marlowe, share their debut self-titled EP, *80 Acres**,* out now, April 8th on all streaming platforms. Dylan Marlowe is a name you have probably heard of across the country music landscape. *80 Acres shares their self-titled EP, out now on all streaming platforms.*. Fans can join our Weekly Round-Up e-newsletter here, for the latest in country music and more news about future 80 Acres releases. *80 Acres EP* is available everywhere you buy or stream music. Take a listen below and check out more new recently released music on our ‘New Country Music’ playlist. Be sure to give the playlist a follow for your weekly new country music fix. https://countryswag.com/wp-content/uploads/2026/04/80-acres.jpg 630 1200   Erica Zisman  https://countryswag.com/wp-content/uploads/2021/05/logo-new-cs-white.png  Erica Zisman2026-04-08 20:57:052026-04-08 20:57:05Here Is 80 Acres Self-Titled EP ’80 Acres’. **Kasey Tyndall & Dylan Marlowe Join Forces on New Song**. **Dylan Marlowe Makes Label Debut with New Song “Record High”**. **Dylan Marlowe Shares Highly-Anticipated New Song “Sorryville”**.",
+      "published_at": "Thu, 09 Apr 2026 00:57:05 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導介紹了鄉村音樂團體80 Acres及其主唱Dylan Marlowe發行的首張同名EP，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 894,
+      "title": "Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1 - billboard.com",
+      "link": "https://www.billboard.com/music/concerts/bruno-mars-the-romantic-tour-setlist-every-song-night-1-1236220593/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1. The first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session/. Arguably, Bruno Mars has held the keys to the Las Vegas Strip for more than a decade, thanks to two record-breaking residencies at The Cosmopolitan and Dolby Live, which have brought in more than $200 million. All this … and a parade with Hello Kitty made the debut of Mars’ The Romantic Tour an unforgettable occasion for the sold-out crowd that gathered to celebrate Mars both during the day and later that night at Allegiant Stadium. As for the main event, the first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session, around 8:50 p.m., and didn’t relinquish until he played every new track, old hit and crowd favorite — even bringing back Silk Sonic with Anderson .Paak. Visit Billboard Pro for music business news.",
+      "published_at": "Sat, 11 Apr 2026 06:01:58 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於火星人布魯諾（Bruno Mars）在拉斯維加斯的「The Romantic Tour」演唱會歌單與盛況，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 895,
+      "title": "Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’ - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/bruno-mars-romantic-tour-vegas-parade-key-donation-day-1236220895/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’. Vegas honored the pop supernova with a parade, while Bruno pledged a $1 million donation to the Intermountain Health Nevada Children's Hospital. Bruno Mars kicked off The Romantic Tour on Friday night (April 10) with a sold-out show in front of more than 60,000 fans packing Allegiant Stadium in Las Vegas. ### Bruno Mars' The Romantic Tour Setlist: Every Song From Night 1. Bruno started the day in style with a ride down the Strip in a vintage convertible for a parade honoring his contributions to the Las Vegas entertainment scene, as April 10 was renamed to Bruno Mars Day in Sin City. The Grammy-winning artist was given the key to the Las Vegas Strip, while Park Avenue outside Park MGM was renamed to Bruno Mars Drive. The Romantic Tour continues on Saturday night (April 11) when Bruno Mars returns to the Allegiant Stadium stage for another cinematic performance.",
+      "published_at": "Sat, 11 Apr 2026 20:39:08 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導火星人布魯諾在拉斯維加斯開啟浪漫巡演，獲頒城市鑰匙並捐款百萬美元，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 896,
+      "title": "Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show - Billboard",
+      "link": "https://www.billboard.com/lists/jackson-wang-tour-best-moments-brooklyn/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show. Three years after lighting up the stage at Barclays Center for his first tour, Jackson Wang partied it up once more at the iconic Brooklyn, New York, venue on Friday (April 10). ### Jackson Wang Talks Inspiration for ‘MAGIC MAN 2’: ‘What Do I Want to Say as a Person?’. On social media, Magic Man concerts are essentially known for Wang’s viral and sexy interactions with his fans. For a string of three unreleased songs — “Shadows on the Wall,” “Contact” and “Closer” — Wang’s dancers brought four lucky fans on stage to sit down and enjoy the singer’s full attention on them. He revealed that the first song off the project is “Sex God.” The song featuring Pusha T and produced by Pharrell Williams debuted at the Louis Vuitton Fall Winter 2026 Show at Paris Fashion Week, but Wang confirmed that it would usher in a new era to shed away Magic Man.",
+      "published_at": "Sat, 11 Apr 2026 19:35:38 GMT",
+      "collected_at": "2026-04-12 06:14:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導王嘉爾在布魯克林成功舉辦「MAGIC MAN 2」演唱會，並預告新歌及音樂新紀元，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12758,6 +12814,21 @@
         "無相關新聞"
       ],
       "created_at": "2026-04-11 05:42:47"
+    },
+    {
+      "id": 20,
+      "report_date": "2026-04-12",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "根據今日搜集到的新聞資料，未發現任何與周杰倫相關的報導。所有內容主要涵蓋其他國際藝人如Bruno Mars、Michael Jackson家族、Kanye West等人的音樂活動、專輯發行、巡演及個人動態，以及部分非娛樂類資訊。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "焦點為其他藝人"
+      ],
+      "created_at": "2026-04-12 06:16:33"
     }
   ],
   "notification_logs": [
@@ -13110,11 +13181,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-11 05:42:48"
+    },
+    {
+      "id": 51,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-12 06:16:34"
+    },
+    {
+      "id": 52,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-12 06:16:34"
     }
   ],
   "_meta": {
-    "nextArticleId": 893,
-    "nextReportId": 20,
-    "nextLogId": 51
+    "nextArticleId": 897,
+    "nextReportId": 21,
+    "nextLogId": 53
   }
 }
