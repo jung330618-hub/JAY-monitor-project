@@ -4124,11 +4124,11 @@
       "snippet": "周董新輯磨4年迫不及待報喜 新歌預告318起跑  自由娛樂",
       "published_at": "2026-03-11T21:30:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫籌備四年的新專輯即將推出，新歌預告將於3月18日開始。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 296,
@@ -4138,11 +4138,11 @@
       "snippet": "周杰倫、阿信、F3夢幻合體！新歌24小時狂破2500萬次點閱  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與阿信、F3的夢幻新歌合作在24小時內突破2500萬次點閱，成績斐然。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 297,
@@ -4152,11 +4152,11 @@
       "snippet": "周杰倫、阿信聯手F3推新歌 MV上線超猛成績曝  大紀元新聞網",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與阿信聯手F3推出新歌，其MV上線後取得了超乎預期的亮眼成績。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 298,
@@ -4166,11 +4166,11 @@
       "snippet": "朱孝天真的掰掰了！F3新歌找2大咖助陣 超大面子請周杰倫、五月天阿信  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "朱孝天真的掰掰了！F3新歌找2大咖助陣 超大面子請周杰倫、五月天阿信 - Yahoo新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 299,
@@ -4180,11 +4180,11 @@
       "snippet": "神級組合！周杰倫、阿信聯手F3推新歌「恆星不忘」  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "神級組合！周杰倫、阿信聯手F3推新歌「恆星不忘」 - Yahoo新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 300,
@@ -4194,11 +4194,11 @@
       "snippet": "周杰倫MV致敬名畫！概念疑似撞泰勒絲新歌　發文吐苦水：傷腦筋耶  NOWnews今日新聞",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫MV致敬名畫！概念疑似撞泰勒絲新歌　發文吐苦水：傷腦筋耶 - NOWnews今日新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 301,
@@ -4208,11 +4208,11 @@
       "snippet": "新歌撞梗泰勒絲！周杰倫曝煩惱心聲：該先推單曲嗎？  台視新聞網",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "新歌撞梗泰勒絲！周杰倫曝煩惱心聲：該先推單曲嗎？ - 台視新聞網",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 302,
@@ -4222,11 +4222,11 @@
       "snippet": "娛樂搶先看／周杰倫預告過幾天發新歌、徐展元認了中華隊技不如人  NOWnews今日新聞",
       "published_at": "2026-03-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫預告即將發布新歌，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 303,
@@ -4236,11 +4236,11 @@
       "snippet": "林書豪挑戰F5新歌！周杰倫驚給10分 網讚：比〈晴天〉好  中時新聞網",
       "published_at": "2025-12-11T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫對林書豪挑戰其新歌給予滿分好評，網友甚至讚譽其表現超越經典歌曲〈晴天〉。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 304,
@@ -4250,11 +4250,11 @@
       "snippet": "夢幻聯動！周杰倫、阿信合體「F3」推新歌 朱孝天疑「被退出」  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫與阿信夢幻聯動組成「F3」推出新歌，引發粉絲高度期待，但朱孝天似乎未參與其中。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 305,
@@ -4264,11 +4264,11 @@
       "snippet": "吳建豪新歌MV復古車吸睛 嗨喊：要跟周杰倫拚了｜#鏡新聞  Yahoo新聞",
       "published_at": "2026-02-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "吳建豪在新歌MV中以復古車吸睛，並開玩笑表示要與周杰倫一較高下，間接肯定了周杰倫在音樂MV領域的地位。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 306,
@@ -4278,11 +4278,11 @@
       "snippet": "阿信、周杰倫加入F3！朱孝天徹底掰了 「恆星不忘」MV全被剪光光  噓！星聞",
       "published_at": "2025-12-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "新聞報導周杰倫與阿信被提及加入新的「F3」組合，顯示其持續的影響力與話題性。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 307,
@@ -4292,11 +4292,11 @@
       "snippet": "周杰倫新輯倒數！帶全家旅行「新歌搶先聽」 喊話歌迷：過幾天該你們  TVBS新聞網",
       "published_at": "2026-03-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫預告新專輯即將發行，並透露已讓家人搶先試聽新歌，同時向歌迷喊話期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 308,
@@ -4306,11 +4306,11 @@
       "snippet": "震撼彈！F3無預警出新歌　陣容終於曝光「驚見五月天阿信、周杰倫」  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "F3無預警推出新歌，陣容驚喜曝光包含周杰倫與五月天阿信。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 309,
@@ -4320,11 +4320,11 @@
       "snippet": "傳合作GD推新歌周杰倫曬合照：共通語言是藝術| 娛樂  中央社 CNA",
       "published_at": "2025-07-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫曬出與GD合照並表示藝術是共通語言，引發外界對兩人合作推出新歌的期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 310,
@@ -4334,11 +4334,11 @@
       "snippet": "獨家｜F3五月天周杰倫新歌MV24歲神顏混血兒起底 網民：我戀愛了  香港01",
       "published_at": "2025-12-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則新聞報導了周杰倫與五月天新歌MV中一位24歲混血兒引起網民熱烈討論與喜愛。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 311,
@@ -4348,11 +4348,11 @@
       "snippet": "F4新歌「沒有朱孝天」 加入五月天阿信、周杰倫神助攻  wennan.org.tw",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫為F4新歌提供「神助攻」，展現其在華語樂壇的影響力。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 312,
@@ -4362,11 +4362,11 @@
       "snippet": "在新歌MV中又在走路 周杰倫逗趣回應歌迷疑惑  大紀元新聞網",
       "published_at": "2025-12-11T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "在新歌MV中又在走路 周杰倫逗趣回應歌迷疑惑 - 大紀元新聞網",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 313,
@@ -4376,11 +4376,11 @@
       "snippet": "新歌片段流出！周杰倫撞哏泰勒絲苦惱心聲全說了| 時尚名人  udnSTYLE",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "新歌片段流出！周杰倫撞哏泰勒絲苦惱心聲全說了| 時尚名人 - udnSTYLE",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 314,
@@ -4390,11 +4390,11 @@
       "snippet": "阿信太瘋！F4掰了朱孝天找周杰倫站C位 夢幻男團新歌曝光  緯來新聞網",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞報導阿信與朱孝天提及周杰倫可能加入「夢幻男團」並站C位，且有新歌曝光，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 315,
@@ -4404,11 +4404,11 @@
       "snippet": "F4合體真的沒有朱孝天 新歌聯動「周杰倫、五月天阿信」 | TVBS  LINE TODAY",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "F4新歌將與周杰倫及五月天阿信聯動合作。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 316,
@@ -4418,11 +4418,11 @@
       "snippet": "吳建豪新歌復古車吸睛　要跟周杰倫拚了  噓！星聞",
       "published_at": "2026-02-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "吳建豪新歌復古車吸睛　要跟周杰倫拚了 - 噓！星聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 317,
@@ -4432,11 +4432,11 @@
       "snippet": "周杰倫新歌來了！造訪披頭四錄音室創作〈即興曲〉  中時新聞網",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫新歌來了！造訪披頭四錄音室創作〈即興曲〉 - 中時新聞網",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 318,
@@ -4446,11 +4446,11 @@
       "snippet": "周杰倫新歌MV「致敬名畫」巧撞泰勒絲掀熱議！2派人馬社群吵翻天  鏡週刊Mirror Media",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫新歌MV「致敬名畫」巧撞泰勒絲掀熱議！2派人馬社群吵翻天 - 鏡週刊Mirror Media",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 319,
@@ -12543,6 +12543,90 @@
       "summary": "此新聞報導王嘉爾在布魯克林成功舉辦「MAGIC MAN 2」演唱會，並預告新歌及音樂新紀元，內容未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 897,
+      "title": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap",
+      "link": "https://www.thewrap.com/creative-content/movies/michael-movie-clip-jaafar-jackson-billie-jean-fans-react/",
+      "source": "Tavily (www.thewrap.com)",
+      "snippet": "“Literally the least inspired cinematography I’ve ever seen,” one critic writes on X. A new clip from the highly anticipated Michael Jackson biopic, titled “Michael,” was released Wednesday and featured star Jaafar Jackson’s take on “Billie Jean.” And, after being viewed over 8 million times, the consensus for the sneak peek was resoundingly negative. In the clip, Jackson, the real-life nephew of the late King of Pop, can be seen wearing his uncle’s signature white glove and black bedazzled jacket while singing the 1983 hit, “Billie Jean.” The scene is a recreation of the late Jackson’s famed performance for “Motown 25: Yesterday, Today, Forever,” where he debuted his famous moonwalk move for the first time. “Literally the least inspired cinematography I’ve ever seen,” one critic wrote in response to the clip’s release. “Michael,” which is set to hit theaters on April 24, has faced its fair share of drama leading up to the release, including millions in reshoots, a scrapped final act, a delayed release and more.",
+      "published_at": "Fri, 10 Apr 2026 05:53:13 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於麥可傑克森傳記電影預告片評價負面，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 898,
+      "title": "How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard",
+      "link": "https://www.billboard.com/pro/how-raye-career-high-debut-this-music-may-contain-hope/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "### RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts. Since then, her trajectory has been on a big upswing: the success of *Blues* led to a Grammy nomination for best new artist in 2025, where she stole the show at the ceremony with a rendition of “Oscar Winning Tears,” and the subsequent release of her second album, *THIS MUSIC MAY CONTAIN HOPE*, and its breakout single “Where Is My Husband?” This week, *HOPE* debuted at No. 11 on the Billboard 200 and “Husband” reached No. 11 on the Hot 100, both career-high marks for Raye — feats which earn Human Re Sources founder/CEO **J Erving** the title of *Billboard*’s Executive of the Week. **This week, Raye’s new album *THIS MUSIC MAY CONTAIN HOPE* debuted in the top 10 on four different *Billboard* charts, and hit No. 11 on the Billboard 200, a career high for her.",
+      "published_at": "Fri, 10 Apr 2026 16:13:26 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於歌手Raye新專輯在Billboard排行榜上取得的佳績，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 899,
+      "title": "YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
+      "link": "https://www.adweek.com/media/youtuber-jesser-parent-company-jesserco/",
+      "source": "Tavily (www.adweek.com)",
+      "snippet": "# YouTuber Jesser Launches Parent Company, Preps Business Expansion. ## The media company, which generates an eight-figure revenue, has content and product debuts coming later this year. On Friday, the YouTube creator Jesse “Jesser” Riedel announced the formation of JesserCo., a new parent company that will unite his growing portfolio of businesses under a single structure. The 27-year-old Jesser will remain founder, while Zach Miller, who previously served as president of Bucketsquad, Jesser’s apparel brand, has been elevated to president of JesserCo. The reorganization brings together two main operating businesses: Jesser Media, the newly named home for his content operation, and Bucketsquad, the basketball lifestyle and apparel brand. Jesser Media reaches more than 45 million subscribers and followers, primarily through his YouTube channel, and has generated more than 10 billion views across platforms, according to the company. Mark Stenberg is ADWEEK's senior media reporter. ## Media. #### EXCLUSIVE: Soccer Media Startup Footballco Wants to Own New York's World Cup Summer.",
+      "published_at": "Fri, 10 Apr 2026 17:08:07 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要報導YouTuber Jesser成立母公司JesserCo.並擴展其內容和服飾品牌業務。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 900,
+      "title": "Why Jay McInerney got fired from the New Yorker (Fresh Air+) : Fresh Air - NPR",
+      "link": "https://www.npr.org/2026/04/12/nx-s1-5775905/why-jay-mcinerney-got-fired-from-the-new-yorker-fresh-air",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Why Jay McInerney got fired from the New Yorker (Fresh Air+)** **Writer Jay McInerney first came onto the literary scene in the 1980s, writing about New York City, drugs, and excess in his hit novel, “Bright Lights, Big City.” He returns with a new book this month, \"See You on the Other Side,\" completing his four-book series on a NYC couple navigating marital tensions and aging. | To access bonus episodes, sponsor-free listening and to support public radio, become a Fresh Air+ supporter at plus.npr.org/freshair.**. # Why Jay McInerney got fired from the New Yorker (Fresh Air+). #### Why Jay McInerney got fired from the New Yorker (Fresh Air+). Writer Jay McInerney first came onto the literary scene in the 1980s, writing about New York City, drugs, and excess in his hit novel, “Bright Lights, Big City.” He returns with a new book this month, \"See You on the Other Side,\" completing his four-book series on a NYC couple navigating marital tensions and aging.",
+      "published_at": "Sun, 12 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國作家Jay McInerney的寫作生涯與新書，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 901,
+      "title": "A Belieber's Review of Justin Bieber's Coachella 2026 Set - Vogue Philippines",
+      "link": "https://vogue.ph/lifestyle/music/justin-bieber-coachella-2026-set-performance/",
+      "source": "Tavily (vogue.ph)",
+      "snippet": "Two hours before Justin Bieber began his 2026 Coachella set last night, I found myself inching closer and closer towards the main stage, where the Canadian pop star and late millennial icon was set to perform at 11:25 p.m. Some diehard Beliebers—Justin’s fiercest fans—were already camped out near the front barricades. Bieber began totally alone on the stage with one of his new tracks, “All I Can Take.” In true J.B. fashion, he emerged wearing a large oversized pink hoodie from his own brand SKYLRK, and baggy shorts by Lu’u Dan. Then came other tracks from his *Swag* and *Swag II* albums: he sang “Speed Demon,” “Go Baby,” “Everything Hallelujah”—with the latter track, the camera panned to his wife Hailey Bieber in the crowd, as she watched on lovingly and sang along. Nearing the end of the show, Bieber shed his pink hoodie and shades to rock a simple black cutoff tee—returning to perform more stripped-down *Swag* tracks like “Yukon” and “Daisies.” More special guests emerged, including Tems, Wizkid, Dijon, the Kid LAROI, and Mk.gee.",
+      "published_at": "Mon, 13 Apr 2026 05:30:54 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於小賈斯汀（Justin Bieber）在2026年Coachella音樂節的演出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 902,
+      "title": "Kehlani Teams Up With Missy Elliott For Aaliyah-Tributing ‘Back and Forth’ Single - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/kehlani-missy-elliott-back-and-forth-single-listen-1236219895/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "It finds Kehlani in their signature lights-low R&B groove, with Elliott kicking thing off with some bold bars, boasting, “You know it’s some hot s–t/ Let me say what I’m gon’ say, let me stay on the topic/ Girl, woman, I do what I wanna do/ Why you trippin’ when I come right home to you?” over the song’s languorous beat before Kehlani steps in on the whispery first verse. The pre-chorus amps up the heat, with Kehlani singing, “And by-y-y-y-y/ By doing this later, I do us a favor / And by-y-y-y-y/ Don’t ruin my makeup, be there when you wake up,” before dipping into the singsongy chorus that pays homage to Elliott’s legendary late friend and collaborator Aaliyah’s 1994 debut hit single “Back & Forth.”. The new song comes after an epic run for Kehlani in 2025, which included the crossover anthem “Folded,” which landed the singer several chart milestones, with the track peaking at No. 6 on the Billboard Hot 100, marking her first top 10 on that singles chart.",
+      "published_at": "Fri, 10 Apr 2026 16:44:10 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導Kehlani與Missy Elliott合作新歌並向Aaliyah致敬。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12829,6 +12913,17 @@
         "焦點為其他藝人"
       ],
       "created_at": "2026-04-12 06:16:33"
+    },
+    {
+      "id": 21,
+      "report_date": "2026-04-13",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap、How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard、YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
+      "created_at": "2026-04-13 07:30:30"
     }
   ],
   "notification_logs": [
@@ -13195,11 +13290,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-12 06:16:34"
+    },
+    {
+      "id": 53,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-13 07:30:31"
+    },
+    {
+      "id": 54,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-13 07:30:32"
     }
   ],
   "_meta": {
-    "nextArticleId": 897,
-    "nextReportId": 21,
-    "nextLogId": 53
+    "nextArticleId": 903,
+    "nextReportId": 22,
+    "nextLogId": 55
   }
 }

@@ -1,15 +1,15 @@
 {
   "todayStats": {
-    "total": 4,
+    "total": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 4
+    "neutral": 6
   },
   "allTimeStats": {
-    "total": 780,
-    "positive": 260,
+    "total": 810,
+    "positive": 277,
     "negative": 36,
-    "neutral": 484,
+    "neutral": 497,
     "avg_score": 0.63
   },
   "trend": [
@@ -124,9 +124,101 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-13",
+      "total": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 897,
+      "title": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap",
+      "link": "https://www.thewrap.com/creative-content/movies/michael-movie-clip-jaafar-jackson-billie-jean-fans-react/",
+      "source": "Tavily (www.thewrap.com)",
+      "snippet": "“Literally the least inspired cinematography I’ve ever seen,” one critic writes on X. A new clip from the highly anticipated Michael Jackson biopic, titled “Michael,” was released Wednesday and featured star Jaafar Jackson’s take on “Billie Jean.” And, after being viewed over 8 million times, the consensus for the sneak peek was resoundingly negative. In the clip, Jackson, the real-life nephew of the late King of Pop, can be seen wearing his uncle’s signature white glove and black bedazzled jacket while singing the 1983 hit, “Billie Jean.” The scene is a recreation of the late Jackson’s famed performance for “Motown 25: Yesterday, Today, Forever,” where he debuted his famous moonwalk move for the first time. “Literally the least inspired cinematography I’ve ever seen,” one critic wrote in response to the clip’s release. “Michael,” which is set to hit theaters on April 24, has faced its fair share of drama leading up to the release, including millions in reshoots, a scrapped final act, a delayed release and more.",
+      "published_at": "Fri, 10 Apr 2026 05:53:13 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於麥可傑克森傳記電影預告片評價負面，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 898,
+      "title": "How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard",
+      "link": "https://www.billboard.com/pro/how-raye-career-high-debut-this-music-may-contain-hope/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "### RAYE’s ‘THIS MUSIC MAY CONTAIN HOPE.’ Makes Top 10 Debut on 4 Billboard Album Charts. Since then, her trajectory has been on a big upswing: the success of *Blues* led to a Grammy nomination for best new artist in 2025, where she stole the show at the ceremony with a rendition of “Oscar Winning Tears,” and the subsequent release of her second album, *THIS MUSIC MAY CONTAIN HOPE*, and its breakout single “Where Is My Husband?” This week, *HOPE* debuted at No. 11 on the Billboard 200 and “Husband” reached No. 11 on the Hot 100, both career-high marks for Raye — feats which earn Human Re Sources founder/CEO **J Erving** the title of *Billboard*’s Executive of the Week. **This week, Raye’s new album *THIS MUSIC MAY CONTAIN HOPE* debuted in the top 10 on four different *Billboard* charts, and hit No. 11 on the Billboard 200, a career high for her.",
+      "published_at": "Fri, 10 Apr 2026 16:13:26 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於歌手Raye新專輯在Billboard排行榜上取得的佳績，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 899,
+      "title": "YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
+      "link": "https://www.adweek.com/media/youtuber-jesser-parent-company-jesserco/",
+      "source": "Tavily (www.adweek.com)",
+      "snippet": "# YouTuber Jesser Launches Parent Company, Preps Business Expansion. ## The media company, which generates an eight-figure revenue, has content and product debuts coming later this year. On Friday, the YouTube creator Jesse “Jesser” Riedel announced the formation of JesserCo., a new parent company that will unite his growing portfolio of businesses under a single structure. The 27-year-old Jesser will remain founder, while Zach Miller, who previously served as president of Bucketsquad, Jesser’s apparel brand, has been elevated to president of JesserCo. The reorganization brings together two main operating businesses: Jesser Media, the newly named home for his content operation, and Bucketsquad, the basketball lifestyle and apparel brand. Jesser Media reaches more than 45 million subscribers and followers, primarily through his YouTube channel, and has generated more than 10 billion views across platforms, according to the company. Mark Stenberg is ADWEEK's senior media reporter. ## Media. #### EXCLUSIVE: Soccer Media Startup Footballco Wants to Own New York's World Cup Summer.",
+      "published_at": "Fri, 10 Apr 2026 17:08:07 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要報導YouTuber Jesser成立母公司JesserCo.並擴展其內容和服飾品牌業務。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 900,
+      "title": "Why Jay McInerney got fired from the New Yorker (Fresh Air+) : Fresh Air - NPR",
+      "link": "https://www.npr.org/2026/04/12/nx-s1-5775905/why-jay-mcinerney-got-fired-from-the-new-yorker-fresh-air",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Why Jay McInerney got fired from the New Yorker (Fresh Air+)** **Writer Jay McInerney first came onto the literary scene in the 1980s, writing about New York City, drugs, and excess in his hit novel, “Bright Lights, Big City.” He returns with a new book this month, \"See You on the Other Side,\" completing his four-book series on a NYC couple navigating marital tensions and aging. | To access bonus episodes, sponsor-free listening and to support public radio, become a Fresh Air+ supporter at plus.npr.org/freshair.**. # Why Jay McInerney got fired from the New Yorker (Fresh Air+). #### Why Jay McInerney got fired from the New Yorker (Fresh Air+). Writer Jay McInerney first came onto the literary scene in the 1980s, writing about New York City, drugs, and excess in his hit novel, “Bright Lights, Big City.” He returns with a new book this month, \"See You on the Other Side,\" completing his four-book series on a NYC couple navigating marital tensions and aging.",
+      "published_at": "Sun, 12 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國作家Jay McInerney的寫作生涯與新書，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 901,
+      "title": "A Belieber's Review of Justin Bieber's Coachella 2026 Set - Vogue Philippines",
+      "link": "https://vogue.ph/lifestyle/music/justin-bieber-coachella-2026-set-performance/",
+      "source": "Tavily (vogue.ph)",
+      "snippet": "Two hours before Justin Bieber began his 2026 Coachella set last night, I found myself inching closer and closer towards the main stage, where the Canadian pop star and late millennial icon was set to perform at 11:25 p.m. Some diehard Beliebers—Justin’s fiercest fans—were already camped out near the front barricades. Bieber began totally alone on the stage with one of his new tracks, “All I Can Take.” In true J.B. fashion, he emerged wearing a large oversized pink hoodie from his own brand SKYLRK, and baggy shorts by Lu’u Dan. Then came other tracks from his *Swag* and *Swag II* albums: he sang “Speed Demon,” “Go Baby,” “Everything Hallelujah”—with the latter track, the camera panned to his wife Hailey Bieber in the crowd, as she watched on lovingly and sang along. Nearing the end of the show, Bieber shed his pink hoodie and shades to rock a simple black cutoff tee—returning to perform more stripped-down *Swag* tracks like “Yukon” and “Daisies.” More special guests emerged, including Tems, Wizkid, Dijon, the Kid LAROI, and Mk.gee.",
+      "published_at": "Mon, 13 Apr 2026 05:30:54 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於小賈斯汀（Justin Bieber）在2026年Coachella音樂節的演出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 902,
+      "title": "Kehlani Teams Up With Missy Elliott For Aaliyah-Tributing ‘Back and Forth’ Single - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/kehlani-missy-elliott-back-and-forth-single-listen-1236219895/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "It finds Kehlani in their signature lights-low R&B groove, with Elliott kicking thing off with some bold bars, boasting, “You know it’s some hot s–t/ Let me say what I’m gon’ say, let me stay on the topic/ Girl, woman, I do what I wanna do/ Why you trippin’ when I come right home to you?” over the song’s languorous beat before Kehlani steps in on the whispery first verse. The pre-chorus amps up the heat, with Kehlani singing, “And by-y-y-y-y/ By doing this later, I do us a favor / And by-y-y-y-y/ Don’t ruin my makeup, be there when you wake up,” before dipping into the singsongy chorus that pays homage to Elliott’s legendary late friend and collaborator Aaliyah’s 1994 debut hit single “Back & Forth.”. The new song comes after an epic run for Kehlani in 2025, which included the crossover anthem “Folded,” which landed the singer several chart milestones, with the track peaking at No. 6 on the Billboard Hot 100, marking her first top 10 on that singles chart.",
+      "published_at": "Fri, 10 Apr 2026 16:44:10 GMT",
+      "collected_at": "2026-04-13 07:28:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導Kehlani與Missy Elliott合作新歌並向Aaliyah致敬。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 893,
       "title": "Here Is 80 Acres Self-Titled EP ’80 Acres’ - Country Swag",
@@ -462,108 +554,31 @@
       "summary": "Music News Digest: Rogers Stadium Economic Impact, Canadian Folk Music Awards 2026 Nominations - Billboard Canada",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 869,
-      "title": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/music/2026/04/08/dr-dre-forbes-billionaire-list/89520582007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. # Dr. Dre joins Jay-Z as second hip-hop billionaire on Forbes' list. Snoop Dogg, Eminem honor Dr. Dre's 'mark on the world of music'. Snoop Dogg, Eminem and 50 Cent joined producer and entrepreneur Dr. Dre as his star on the Hollywood Walk of Fame was revealed. “I don’t chase money – I try to make the money chase me,” Dre told Forbes, who also ranked Dre as No. 20 on its list of the Greatest Self-Made Americans*.* “I’ve always been able to bet on myself, and whatever I do and wherever I go, I know I have my talent with me.”. After leaving Death Row Records, which he co-founded, Dre created Aftermath Entertainment and continued to work with Snoop Dogg, producing his debut \"Doggystyle,\" and furthered the career of the late Tupac Shakur, collaborating on \"California Love,\" and produced albums for Eminem and 50 Cent.",
-      "published_at": "Wed, 08 Apr 2026 22:15:00 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Dr. Dre成為繼Jay-Z之後第二位嘻哈億萬富翁，並在好萊塢星光大道留名，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 870,
-      "title": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
-      "link": "https://uk.news.yahoo.com/justin-trudeaus-son-18-says-153250475.html",
-      "source": "Tavily (uk.news.yahoo.com)",
-      "snippet": "# Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship. * Xav Trudeau shares that his dad Justin Trudeau's girlfriend Katy Perry gives him feedback on his music and advice on improving his songs. * Xav describes Perry as \"super nice\" and says his dad's happiness in the relationship is what matters most. * Perry and Justin Trudeau were first linked in the summer and made their public debut as a couple in October. When Justin Trudeau's son Xav is looking for advice on his music, he's able to go to his dad's girlfriend, singer Katy Perry. \"When I'm really happy with a song [I] send it [to her],\" Xav, 18, said of Perry, 41, while appearing on an episode of the *Can't Be Censored* podcast. This past December, a source told PEOPLE that while Perry wasn't looking for a boyfriend, the relationship was an \"exciting surprise.\".",
-      "published_at": "Wed, 08 Apr 2026 15:32:50 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News UK",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 871,
-      "title": "Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive) - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "# Morgan Jay to Host 2026 Golden Trailer Awards (Exclusive). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). * Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=1153511048447777&href=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Share on Whats App%20-%20https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/). * Send an Email&body=https://www.hollywoodreporter.com/movies/movie-news/morgan-jay-golden-trailer-awards-1236558651/%20-%20Morgan%20Jay%20to%20Host%202026%20Golden%20Trailer%20Awards%20(Exclusive)). Morgan Jay, the breakout standup comic known for his auto-tuned microphone and crowd work during performances, is set to host the 26th Golden Trailer Awards. The May 28 awards ceremony at the Saban Theatre in Beverly Hills will honor the best in Hollywood movie and TV/streaming series previews*,* including trailers, commercials and posters. The Golden Trailers Awards gig will see Jay work a room full of studio marketing execs, movie fans, celebrities and trailer editors. He doesn’t just perform to the audience—he pulls them into the experience, which makes him an ideal host for our night,” Evelyn Brady, Golden Trailer Awards executive director and co-founder, said in a statement. Beyond the hardware to be handed out, Golden Trailer Awards organizers are promising a “raucous” evening for the industry creatives set to fill the Saban Theatre.",
-      "published_at": "Wed, 08 Apr 2026 13:56:21 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於喜劇演員Morgan Jay將主持2026年金預告片獎，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 872,
-      "title": "Jay Tufele: Visits Detroit - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/football/news/jay-tufele-visits-detroit/",
-      "source": "Tavily (www.cbssports.com)",
-      "snippet": "site: fantasynews | arena: nfl | pageType: stories | section: | slug: jay-tufele-visits-detroit | sport: football | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nfl/reg/free/stories. # Jay Tufele: Visits Detroit. Tufele appeared in 12 regular-season games with the Jets last season, making two starts, but finished the campaign on injured reserve after recording 12 tackles (five solo) across 230 defensive snaps. * ##### Jets' Jay Tufele: Heading to IR. * ##### Jets' Jay Tufele: Won't play Sunday. * ##### Jets' Jay Tufele: Doesn't practice Wednesday. * ##### Jets' Jay Tufele: Exits with foot injury. * ##### Jets' Jay Tufele: On track to play Sunday. * ##### Jets' Jay Tufele: Ruled out against Cincy. Heath Cummings • 3 min read. #### Heath's Dynasty rookie rankings. Fantasy Football Today • 4 min read. #### 2026 Dynasty TE Rankings. Heath Cummings • 3 min read. #### 2026 Dynasty WR rankings. Heath Cummings • 2 min read. #### Dynasty RB rankings for 2026. Heath Cummings • 2 min read.",
-      "published_at": "Wed, 08 Apr 2026 05:27:37 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay Tufele: Visits Detroit - CBS Sports",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 873,
-      "title": "Pacers' Jay Huff: Headed to bench - CBS Sports",
-      "link": "https://www.cbssports.com/fantasy/basketball/news/pacers-jay-huff-headed-to-bench-527691/",
-      "source": "Tavily (www.cbssports.com)",
-      "snippet": "site: fantasynews | arena: nba | pageType: stories | section: | slug: pacers-jay-huff-headed-to-bench-527691 | sport: basketball | route: article\\_single\\_fantasy | 6-keys: media/fantasynews/nba/reg/free/stories. # Pacers' Jay Huff: Headed to bench. Huff will come off the bench for Sunday's game in Cleveland, Tony East of Forbes.com reports. Huff may be limited in the reserve role, so he's a risky target in daily fantasy leagues. * ##### Pacers' Jay Huff: Needs 18 shots to score 12 points. * ##### Pacers' Jay Huff: Starting against Bulls. * ##### Pacers' Jay Huff: Coming off bench Sunday. * ##### Pacers' Jay Huff: Strong line in loss. * ##### Pacers' Jay Huff: Logs 28 minutes in win. * ##### Pacers' Jay Huff: Joins starting lineup. #### Waiver wire: Adds for the final week. Mike Barner • 3 min read. Mike Barner • 4 min read. Adam King • 5 min read. #### Week 22 waiver wire. Mike Barner • 3 min read. Mike Barner • 3 min read. Alex Barutha • 3 min read.",
-      "published_at": "Sun, 05 Apr 2026 21:47:39 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於NBA球員Jay Huff的賽事資訊，與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 874,
-      "title": "Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia - billboard.com",
-      "link": "https://www.billboard.com/music/rb-hip-hop/jason-derulo-last-dance-arena-tour-australia-2026-1236217621/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Jason Derulo Sets ‘Last Dance’ Arena Tour of Australia. The R&B star will play arenas on both coasts. Jason Derulo will bring his *Last Dance World Tour* to Australia later in the year. The R&B star will play arenas on both coasts, kicking off at Brisbane’s Entertainment Centre (Sept. 17), then moving to Sydney’s Qudos Bank Arena (Sept .19), Melbourne’s Rod Laver Arena (Sept. Derulo has runs on the board in Australia, where his releases “In My Head,” “Trumpets,” “Savage Love (Laxed – Siren Beat)” with Jawsh 685 (a recording that landed in the courts), and “Talk Dirty” featuring 2 Chainz all led the ARIA Singles Chart, while his first three solo albums cracked the national top 10. Derulo is touring in support of his eight-track album, *The Last Dance (Part 1),* which dropped in January. ***Jason Derulo Last Dance World Tour 2026***:. ### Want to know what everyone in the music business is talking about? Visit Billboard Pro for music business news.",
-      "published_at": "Wed, 08 Apr 2026 06:18:07 GMT",
-      "collected_at": "2026-04-09 06:09:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了美國R&B歌手Jason Derulo將在澳洲舉行《Last Dance》巡迴演唱會，與周杰倫無直接相關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 20,
-    "report_date": "2026-04-12",
-    "total_articles": 4,
+    "id": 21,
+    "report_date": "2026-04-13",
+    "total_articles": 6,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 4,
-    "daily_summary": "根據今日搜集到的新聞資料，未發現任何與周杰倫相關的報導。所有內容主要涵蓋其他國際藝人如Bruno Mars、Michael Jackson家族、Kanye West等人的音樂活動、專輯發行、巡演及個人動態，以及部分非娛樂類資訊。",
-    "key_events": [
-      "無周杰倫新聞",
-      "今日無相關報導",
-      "焦點為其他藝人"
-    ],
-    "created_at": "2026-04-12 06:16:33"
+    "neutral_count": 6,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap、How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard、YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
+    "created_at": "2026-04-13 07:30:30"
   },
   "recentReports": [
+    {
+      "id": 21,
+      "report_date": "2026-04-13",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap、How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard、YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
+      "created_at": "2026-04-13 07:30:30"
+    },
     {
       "id": 20,
       "report_date": "2026-04-12",
@@ -649,21 +664,6 @@
         "Spotify推專區"
       ],
       "created_at": "2026-04-07 06:09:45"
-    },
-    {
-      "id": 14,
-      "report_date": "2026-04-06",
-      "total_articles": 14,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 13,
-      "daily_summary": "周杰倫「嘉年華II」巡演於杭州盛大開唱，不僅首唱7首新歌，更出動14公尺巨型機甲，吸引5萬粉絲狂嗨。他公開英國古堡求婚昆凌的影片引發熱議，女主播分析求婚細節更顯珍貴。此外，Spotify也為他推出專屬互動體驗「16包廂」，成功吸引三倍新粉絲。",
-      "key_events": [
-        "嘉年華II杭州開唱",
-        "求婚影片引熱議",
-        "Spotify專屬體驗"
-      ],
-      "created_at": "2026-04-06 06:23:31"
     }
   ]
 }
