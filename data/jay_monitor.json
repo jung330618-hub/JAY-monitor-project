@@ -4460,11 +4460,11 @@
       "snippet": "朱孝天暴雷除名全被消失！F3x周杰倫x五月天阿信新歌細節彩蛋曝光  Yahoo新聞",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞報導周杰倫將與五月天阿信及F3（或F4）合作推出新歌，儘管朱孝天提前暴雷的內容已被移除，但新歌細節與彩蛋仍引發關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 320,
@@ -4474,11 +4474,11 @@
       "snippet": "周杰倫將出輯「新歌MV撞哏泰勒絲」都用莎劇1角色當靈感  世界新聞網",
       "published_at": "2025-10-21T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫即將發行新歌，其MV被指出與泰勒絲的新作有共同的莎劇角色靈感。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 321,
@@ -4488,11 +4488,11 @@
       "snippet": "周杰倫新歌 MV 撞泰勒絲！無奈喊「真是傷腦筋耶」引熱議！  JUKSY 街星",
       "published_at": "2025-10-20T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.4,
+      "summary": "周杰倫新歌MV因與泰勒絲作品相似引發討論，他本人對此表示無奈。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 322,
@@ -4502,11 +4502,11 @@
       "snippet": "披頭四錄音室拍MV！周杰倫新歌出爐超猛創作內幕曝光| 時尚名人  udnSTYLE",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌MV在披頭四錄音室拍攝，並曝光了其超猛的創作內幕。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 323,
@@ -4516,11 +4516,11 @@
       "snippet": "周杰倫無預警發新歌！造訪披頭四錄音室靈感爆發  Yahoo新聞",
       "published_at": "2025-06-04T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫因造訪披頭四錄音室而靈感爆發，無預警發布新歌，令粉絲感到驚喜。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 324,
@@ -4530,11 +4530,11 @@
       "snippet": "周杰倫新歌片段流出 意外與泰勒絲撞梗好苦惱  世界新聞網",
       "published_at": "2025-10-19T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫新歌片段意外流出，並因與泰勒絲撞梗而感到苦惱。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 325,
@@ -4544,11 +4544,11 @@
       "snippet": "「F4」回歸少1人 換周杰倫、阿信助攻推新歌  大紀元新聞網",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫與阿信共同助陣F4成員推出新歌，為其提供支援。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 326,
@@ -4558,11 +4558,11 @@
       "snippet": "「F5」新歌被批油到頭皮發麻 資深媒體人逆風發聲  自由娛樂",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫相關新歌「F5」因被批「油到頭皮發麻」引發討論，但有資深媒體人逆風發聲。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 327,
@@ -4572,11 +4572,11 @@
       "snippet": "快訊／周杰倫新歌〈即興曲〉來了！6／6這時間聽　新專輯進度曝光  NOWnews今日新聞",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫即將於6月6日發布新歌〈即興曲〉，並透露了新專輯的進度，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 328,
@@ -4586,11 +4586,11 @@
       "snippet": "林書豪清唱「F5」新歌〈恆星不忘〉！吳建豪尷尬只給2分 周杰倫神回覆  噓！星聞",
       "published_at": "2025-12-11T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞報導林書豪清唱新歌〈恆星不忘〉，吳建豪給出評價，而周杰倫則以「神回覆」展現幽默互動。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 329,
@@ -4600,11 +4600,11 @@
       "snippet": "周杰倫社群連續發文爆炸「有點受夠了」 新歌壓力大曬滿地電線喊煩躁  Yahoo",
       "published_at": "2025-11-18T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫因新歌製作壓力大，在社群媒體上發文表達「有點受夠了」和煩躁的情緒。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 330,
@@ -4614,11 +4614,11 @@
       "snippet": "F4變F3驚喜合體周杰倫、五月天阿信 「朱孝天被踢」掀議！本尊昔這樣說  PChome Online 新聞",
       "published_at": "2025-12-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫與五月天阿信驚喜合體，被媒體稱為「F3」，同時引發了關於F4成員朱孝天缺席的討論。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 331,
@@ -4628,11 +4628,11 @@
       "snippet": "震撼彈！F4飛甩朱孝天 無預警與天王周杰倫五月天阿信出新歌  香港01",
       "published_at": "2025-12-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "F4（飛甩朱孝天）無預警與周杰倫及五月天阿信合作推出新歌，引發震撼。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 332,
@@ -4642,11 +4642,11 @@
       "snippet": "宇宙級夢幻組合誕生！阿信、周杰倫攜手F3推出〈恆星不忘Forever Forever〉  鏡週刊Mirror Media",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與阿信攜手F3推出新歌〈恆星不忘Forever Forever〉，被譽為宇宙級夢幻組合。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 333,
@@ -4656,11 +4656,11 @@
       "snippet": "才傳將夢幻聯動出新歌！周杰倫合體GD曬同框照 「私下互動」曝光  Yahoo新聞",
       "published_at": "2025-07-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "才傳將夢幻聯動出新歌！周杰倫合體GD曬同框照 「私下互動」曝光 - Yahoo新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 334,
@@ -4670,11 +4670,11 @@
       "snippet": "吳建豪新歌MV復古車吸睛　嗨喊：要跟周杰倫拚了  鏡新聞",
       "published_at": "2026-02-15T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "吳建豪因新歌MV中的復古車，幽默表示要與周杰倫在品味上「拚了」，間接肯定了周杰倫在復古車領域的影響力。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 335,
@@ -4684,11 +4684,11 @@
       "snippet": "神級組合！周杰倫阿信聯手F3推新歌《恆星不忘》  rti.org.tw",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與阿信聯手F3推出新歌《恆星不忘》，被譽為神級組合。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 336,
@@ -4698,11 +4698,11 @@
       "snippet": "「F5」夢幻合體推新歌被酸爆 名嘴逆風挺： 組合耳目一新  中時新聞網",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "「F5」夢幻合體推新歌被酸爆 名嘴逆風挺： 組合耳目一新 - 中時新聞網",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 337,
@@ -4712,11 +4712,11 @@
       "snippet": "周杰倫、蔡依林隔空開戰？雙J新歌「1巧合強碰」　曲風一次看  NOWnews今日新聞",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫、蔡依林隔空開戰？雙J新歌「1巧合強碰」　曲風一次看 - NOWnews今日新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 338,
@@ -4726,11 +4726,11 @@
       "snippet": "太驚喜！周杰倫無預警推出新歌　「即興創作太神」網驚：幸福好突然  ETtoday星光雲| ETtoday新聞雲",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "太驚喜！周杰倫無預警推出新歌　「即興創作太神」網驚：幸福好突然 - ETtoday星光雲| ETtoday新聞雲",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 339,
@@ -4740,11 +4740,11 @@
       "snippet": "披頭四錄音室拍MV！周杰倫新歌出爐 超猛創作內幕曝光  噓！星聞",
       "published_at": "2025-06-05T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌出爐，MV在披頭四錄音室拍攝，並曝光了超猛的創作內幕。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 340,
@@ -4754,11 +4754,11 @@
       "snippet": "F4重組開騷朱孝天出局 阿信頂上 周杰倫作曲新歌MV曝光 - 20251207 - SHOWBIZ  明報 Our Lifestyle",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "F4重組開騷朱孝天出局 阿信頂上 周杰倫作曲新歌MV曝光 - 20251207 - SHOWBIZ - 明報 Our Lifestyle",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 341,
@@ -4768,11 +4768,11 @@
       "snippet": "F3與周杰倫阿信合體出新歌朱孝天衰多口被飛MV鏡頭全被删妻子韓雯雯愁爆開live：丈夫為合體勁減15公斤  星島頭條",
       "published_at": "2025-12-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫與阿信和F3合作推出新歌，但F3成員朱孝天因爭議MV鏡頭被刪，其妻子透露他為此減重15公斤。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 342,
@@ -4782,11 +4782,11 @@
       "snippet": "周杰倫要出新歌！MV拍好了搶先曝光「靈感疑撞泰勒絲」無奈：傷腦筋  TVBS新聞網",
       "published_at": "2025-10-20T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "周杰倫即將發行新歌並曝光MV，但因靈感被質疑與泰勒絲作品相似而感到困擾。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 343,
@@ -4796,11 +4796,11 @@
       "snippet": "F3與周杰倫阿信合體出新歌朱孝天衰多口被飛MV鏡頭全被删妻子韓雯雯愁爆開live：丈夫為合體勁減15公斤  CCUE.ca",
       "published_at": "2025-12-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "F3與周杰倫阿信合體出新歌朱孝天衰多口被飛MV鏡頭全被删妻子韓雯雯愁爆開live：丈夫為合體勁減15公斤 - CCUE.ca",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 344,
@@ -4810,11 +4810,11 @@
       "snippet": "宇宙級夢幻合體！周杰倫五月天阿信攜手F4言承旭、吳建豪、周渝民，新歌〈恆星不忘Forever Forever〉上架  Marie Claire 美麗佳人",
       "published_at": "2025-12-05T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "宇宙級夢幻合體！周杰倫五月天阿信攜手F4言承旭、吳建豪、周渝民，新歌〈恆星不忘Forever Forever〉上架 - Marie Claire 美麗佳人",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 345,
@@ -4824,11 +4824,11 @@
       "snippet": "周杰倫報告新歌進度 提前爆料御用作詞人再度出馬  自由娛樂",
       "published_at": "2025-08-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫透露新歌製作進度，並確認御用作詞人將再次合作。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 346,
@@ -4838,11 +4838,11 @@
       "snippet": "輾壓周杰倫！23歲梓渝新歌「熱度值衝破13億」　遭爆劈腿照樣爆紅  NOWnews今日新聞",
       "published_at": "2025-08-14T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "新聞報導指出，23歲歌手梓渝的新歌熱度值超越周杰倫，即使有劈腿爭議仍爆紅。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 347,
@@ -12627,6 +12627,34 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導Kehlani與Missy Elliott合作新歌並向Aaliyah致敬。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 903,
+      "title": "University of Wisconsin Board of Regents votes to fire system President Jay Rothman - Wisconsin Examiner",
+      "link": "https://wisconsinexaminer.com/2026/04/07/university-of-wisconsin-board-of-regents-votes-to-fire-system-president-jay-rothman/",
+      "source": "Tavily (wisconsinexaminer.com)",
+      "snippet": "# University of Wisconsin Board of Regents votes to fire system President Jay Rothman. The University of Wisconsin Board of Regents voted unanimously to fire UW President Jay Rothman on Tuesday, ending his tenure as the leader of UW system campuses. The University of Wisconsin Board of Regents voted unanimously to fire UW President Jay Rothman on Tuesday, ending his tenure as the leader of UW system campuses and launching the process of finding a new leader. In a statement, the Board of Regents said that Rothman had “worked hard to bring the best to the campuses, students, faculty and staff” and those efforts are appreciated, but “despite these accomplishments, based on the annual performance review and subsequent discussions, the Board has lost confidence in President Rothman’s ability to lead the UWs moving forward.”. WMC said Rothman has helped to enhance the UW’s reputation and “that reputation will be severely tarnished by the Board of Regents if it votes to remove Jay from his position without justification.”.",
+      "published_at": "Tue, 07 Apr 2026 23:25:41 GMT",
+      "collected_at": "2026-04-14 06:22:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "University of Wisconsin Board of Regents votes to fire system President Jay Rothman - Wisconsin Examiner",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 904,
+      "title": "Agriculture Security Is National Security’ — Florida Lt. Gov. Jay Collins Meets With Local Farmers - NorthEscambia.com",
+      "link": "http://www.northescambia.com/2026/04/agriculture-security-is-national-security-florida-lt-gov-jay-collins-meets-with-local-farmers",
+      "source": "Tavily (www.northescambia.com)",
+      "snippet": "# NorthEscambia.com. * All Battery Of Escambia County Jail Inmate Leads To Arrest Of Two Corrections Officers. Jay Collins Meets With Local Farmers. * MILO, The Mobile ID And Licensing Office, Is In Walnut Hill And Century This Week. * Florida Gas Prices Decline 20 Cents, But Escambia County Trends Upward. Jay Collins Meets With Local Farmers. Jay Collins met with farmers from Escambia and Santa Rosa counties on Monday in Jay. “Having grown up on a family farm, touring Diamond Farm in Santa Rosa County today and spending time with those on the front lines of Florida agriculture was personal for me,” Collins said. Collins visited several farms in the Jay area to discuss the challenges that farmers are facing from the economy and climate. “Supporting our farmers isn’t optional; it’s essential to keeping Florida and America strong,” Collins said. **Photos for NorthEscambia.com, click to enlarge.**. Copyright © 2007-2025 NorthEscambia.com · P.O. Box 1207 · Century, FL 32535 · All Rights Reserved.",
+      "published_at": "Tue, 14 Apr 2026 05:47:27 GMT",
+      "collected_at": "2026-04-14 06:22:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導佛羅里達州副州長Jay Collins與當地農民會面，討論農業安全與挑戰，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -12924,6 +12952,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap、How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard、YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
       "created_at": "2026-04-13 07:30:30"
+    },
+    {
+      "id": 22,
+      "report_date": "2026-04-14",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日搜集的新聞中，並無關於周杰倫的相關報導。所有提及「Jay」的內容均指向其他公眾人物或事件，例如Jay Rothman、Jay Collins、Jay McInerney、Jaylen Brown、Jay-Z等，與亞洲天王周杰倫無關。",
+      "key_events": [
+        "無周杰倫報導",
+        "無相關事件",
+        "今日無焦點"
+      ],
+      "created_at": "2026-04-14 06:24:49"
     }
   ],
   "notification_logs": [
@@ -13304,11 +13347,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-13 07:30:32"
+    },
+    {
+      "id": 55,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-14 06:24:50"
+    },
+    {
+      "id": 56,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-14 06:24:50"
     }
   ],
   "_meta": {
-    "nextArticleId": 903,
-    "nextReportId": 22,
-    "nextLogId": 55
+    "nextArticleId": 905,
+    "nextReportId": 23,
+    "nextLogId": 57
   }
 }
