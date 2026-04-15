@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 2,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 2
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 840,
-    "positive": 291,
-    "negative": 39,
-    "neutral": 510,
+    "total": 870,
+    "positive": 308,
+    "negative": 40,
+    "neutral": 522,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-03-31",
-      "total": 14,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 14,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-01",
       "total": 15,
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 2,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-15",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 905,
+      "title": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com",
+      "link": "https://www.billboard.com/music/pop/peter-asher-documentary-trailer-james-taylor-linda-ronstadt-1236217217/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer. He’s “the legend behind music’s biggest legends,” as Asher is dubbed in the trailer, premiering below, for *Peter Asher: Everywhere Man*, a documentary directed and produced by Dayna Goldfine and Dan Geller, the team also behind the 2021 film *Hallelujah: Leonard Cohen, a Journey, A Song.*. “As filmmakers who came of age listening to and revering the singers, songwriters and musicians who appear in *Peter Asher: Everywhere Man,* we thought we were relatively savvy about their narratives, but until this project we had no idea about the myriad ways in which Peter shaped and influenced not only their individual origin stories, music and careers, but also some of the now-accepted paradigms about the music industry in general,” Goldfine says.",
+      "published_at": "Wed, 08 Apr 2026 13:00:00 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於紀錄片《Peter Asher: Everywhere Man》的預告片，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 906,
+      "title": "Why the Michael Jackson movie is already extremely controversial - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/movies/2026/04/11/michael-jackson-movie-controversy/89537227007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Why the Michael Jackson movie is already extremely controversial. # Why the Michael Jackson movie is already extremely controversial. ## The highly anticipated 'Michael' biopic starring nephew Jaafar Jackson finally arrives in theaters April 24. Michael Jackson estate sued for alleged child sex trafficking. Four siblings, formerly friends of the Jackson family, have sued the Michael Jackson estate for alleged child sex trafficking. * Jaafar Jackson, son of Michael's brother Jermaine Jackson, stars as the King of Pop. Colman Domingo and Nia Long play parents Joe and Katherine Jackson. ## What are the allegations against Michael Jackson? ## Why is the Michael Jackson biopic controversial? Unlike the long-running Broadway musical \"MJ,\" which ends just before Jackson's 1993 accusations, the new movie was reportedly set to address his alleged misconduct head-on. ## What have Michael Jackson’s accusers said about the film? ## What does Michael Jackson’s family think of the movie? ## How long is the Michael Jackson movie?",
+      "published_at": "Sat, 11 Apr 2026 18:53:00 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於麥可傑克森傳記電影的爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 907,
+      "title": "Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
+      "link": "https://www.tmz.com/2026/04/08/kanye-west-sued-by-former-bodyguard/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M. # Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M. ## Kanye West Ex-Security Guard Wants Nearly $1M. **Kanye West**’s issues continue to grow …. According to court docs obtained by TMZ, **Jonathan Monroe** -- who says he worked as a full-time security guard in 2021 -- claims he wasn’t paid all the wages owed nor given overtime. This newest legal issue comes as London's Wireless Festival **scrapped its event** after sponsors **started pulling out** due to Kanye being the headliner and the British government denied him entry to the UK. #### Wireless Festival Boss Stands by Kanye West Headlining Event. #### Jonah Hill Talks About Kanye West Calling Him the Reason for Liking Jews Again. #### Anheuser-Busch Becomes 4th Sponsor to Drop Out of Kanye West-Led Festival. #### Festival Headlined by Kanye West Sees PayPal Drop Out, Latest Sponsor to Cancel. Kanye West   Celebrity News   Money   Hip Hop   Exclusive   Fairly Legal.",
+      "published_at": "Wed, 08 Apr 2026 10:00:29 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Kanye West面臨前保鑣追討近百萬美元薪資的法律問題，以及因他擔任主秀導致贊助商撤資、英國政府拒絕入境，最終導致音樂節取消等負面消息，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 908,
+      "title": "Breaking through: why Taiwanese kids’ authors are gaining a global reach - The Bookseller",
+      "link": "https://www.thebookseller.com/spotlight/breaking-through-why-taiwanese-kids-authors-are-gaining-a-global-reach",
+      "source": "Tavily (www.thebookseller.com)",
+      "snippet": "Subscribe from just £3.65 a week and unlock full access to exclusive interviews, rights deals, industry data and more:. The Bookseller's Disability Issue. The Bookseller's Disability Issue. ## Books from Czechia. The Bookseller's Disability Issue. ## Breaking through: why Taiwanese kids’ authors are gaining a global reachSPONSORED ARTICLE. Writer Yih-Fen Chou, illustrator Bei Lynn (© Yu-Chung Chen) and picture-book author Hsu-Kung Liu. Three Taiwanese creators are up for this year’s Astrid Lindgren prize, reflecting a growing international footprint in the country’s children’s sector. Serious about the book trade? Join thousands of book industry professionals who never miss a story. Create a free account to unlock 3 articles a month and receive tailored newsletters with the latest from the book trade. Subscribe from just £3.65 a week. ### Latest Issue. ### Latest Issue. In this week's issue:. In this week's issue:. ## Michael Rosen misses Bologna Book Fair due to passport rules. The Bookseller Buyer's Guides. Subscribe from just £3.65 a week.",
+      "published_at": "Tue, 14 Apr 2026 15:14:28 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導台灣兒童文學作家在國際上嶄露頭角，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 909,
+      "title": "This TikTok vigilante is calling out what he says are obnoxious influencers — and getting legal threats - Business Insider",
+      "link": "https://www.businessinsider.com/daadi-snacks-tiktok-targets-influencer-culture-2026-4",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "* Jay is a TikToker whose posts critical of influencer behavior often go viral. That video was the start of Jay's side hustle as a prominent influencer critic. Daadi Snacks now boasts over a million TikTok followers, and while the videos aren't traditional product marketing, Jay said they've helped grow awareness of his family's brand. A TikToker known as themilehams, who has been targeted by Jay's criticism, said accounts like his fuel bullying. Jay, who often takes aim at food and travel influencers, said most feedback on his videos has been positive, and that many of his posts are based on tips from followers. The poster, an Atlanta influencer who goes by BestieBri, said in a statement to Business Insider that she didn't mean to attack the café. \"It's not like people go to school for 'How to show up and be an influencer,'\" he said.",
+      "published_at": "Sun, 12 Apr 2026 12:15:26 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導一位名為Jay的TikTok網紅批評其他網紅的行為，與華語歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 910,
+      "title": "How ‘Euphoria’ Season 3 Keeps Fezco Alive After Angus Cloud’s Death - Variety",
+      "link": "https://variety.com/2026/tv/news/euphoria-season-3-angus-cloud-death-fez-alive-prison-1236710878/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Switch edition between U.S. Edition Asia Edition Global Edition. Variety   Plus Icon  Read Next: AMC Silicon Valley Satire ‘The Audacity’ Is a Sharp, Sweeping Take on What Makes Tech Moguls Tick: TV Review. ### Taylor Swift Releases 'Elizabeth Taylor' Music Video Featuring Clips of the Screen Icon. ### Taylor Swift Takes Home Seven Awards at iHeartRadio Music Awards 2026, Extending Her Record for Most Wins. Rue says Fez has told her multiple times that he misses Lexi, and Lexi makes the excuse that their hours don’t line up. For spoilers, read *Variety*‘s recap. ## More from Variety. * ### [‘For All Mankind’ Star Joel Kinnaman and Creators Unpack [SPOILER]’s Death and Why It Was ‘the Hardest Ending to Craft’](https://variety.com/2026/tv/news/for-all-mankind-episode-3-joel-kinnaman-ed-baldwin-death-1236712986/). * ### Jack Whitehall Jokes He Booked Sacked BBC DJ Scott Mills for His Wedding in ‘SNL U.K.’ Monologue. * ### Britney Spears Checks into Rehab Facility After DUI Arrest. ### Britney Spears Voluntarily Checks Into Rehab Facility.",
+      "published_at": "Mon, 13 Apr 2026 02:00:00 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於美劇《高校十八禁》第三季的劇情發展、泰勒絲獲獎及布蘭妮斯皮爾斯的新聞，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 911,
+      "title": "Road Work: BTS Reunites for Arirang World Tour After Solo Endeavors - Billboard",
+      "link": "https://www.billboard.com/lists/bts-world-tour-arirang-road-work/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "BTS WORLD TOUR 'ARIRANG' kicks off tonight after all seven members impacted the charts on their own. The group made history, landing at No. 3 on the year-end Top Tours chart with $196.4 million and 1.6 million tickets sold that year, ranking higher than any other non-English-language act in Boxscore history. Then, a lengthy gap leading to tonight’s kick-off for BTS WORLD TOUR ‘ARIRANG.’ Just as BTS’ history set each member up well for solo success, the individual work that all seven Bangtan Boys put in since 2022 will inform the group’s reunited return. It landed on 2025’s year-end Top Tours chart at No. 32 and No. 3 on the K-pop-specific ranking. **Chart highlights**: Jimin is one of two BTS members to top the Hot 100, Global 200, and Global Excl. **Chart Highlights:** As a featured artist on PSY’s “That That,” SUGA hit No. 5 on the Global 200 and No. 2 on Billboard Global Excl.",
+      "published_at": "Thu, 09 Apr 2026 14:45:37 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於韓國團體BTS的巡演與成員個人成就，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 912,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Kenyon Dixon, Momo Boyd, Fergie Baby & More - Billboard",
+      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-kenyon-dixon-momo-boyd-fergie-baby/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Kenyon Dixon, Momo Boyd, Fergie Baby & More. Listen to new must-hear songs from R&B/hip-hop artists such as Casper Sage and Denise Julia. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from a steamy new Kenyon Dixon single to a standout cut from Momo Boyd’s debut solo EP. Following an extended hiatus, the Filipina singer kicked off her next era with “2GOOD4U.” The sensual R&B track boasts a throwback 2000s feel and veers into the pop lane, while Deej ruminates about moving on from a trifling ex. Fergie Baby is looking to hold down Harlem for what looks like another summer after following up his impressive *Summer League Series, Vol. 1* project last July with the uptown anthems “Good Day to Be in Harlem” alongside Ferg and now the “Harlem River Drive (Flee-mix)” with the help of Wavy Arty on the boards and Harlem legend Cam’ron.",
+      "published_at": "Tue, 14 Apr 2026 19:14:28 GMT",
+      "collected_at": "2026-04-15 06:24:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此篇Billboard文章介紹了本週R&B/Hip-Hop新歌推薦，包含Kenyon Dixon、Momo Boyd和Fergie Baby等藝人，但內容並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 903,
       "title": "University of Wisconsin Board of Regents votes to fire system President Jay Rothman - Wisconsin Examiner",
@@ -442,136 +554,31 @@
       "summary": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - South Carolina Public Radio",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 879,
-      "title": "Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship - Yahoo News Canada",
-      "link": "https://ca.news.yahoo.com/justin-trudeaus-son-18-says-153250475.html",
-      "source": "Tavily (ca.news.yahoo.com)",
-      "snippet": "# Justin Trudeau's Son, 18, Says His Dad's Girlfriend Katy Perry Gives Him Music Advice as He Gets Candid About Their Relationship. * Xav Trudeau shares that his dad Justin Trudeau's girlfriend Katy Perry gives him feedback on his music and advice on improving his songs. * Xav describes Perry as \"super nice\" and says his dad's happiness in the relationship is what matters most. * Perry and Justin Trudeau were first linked in the summer and made their public debut as a couple in October. When Justin Trudeau's son Xav is looking for advice on his music, he's able to go to his dad's girlfriend, singer Katy Perry. \"When I'm really happy with a song [I] send it [to her],\" Xav, 18, said of Perry, 41, while appearing on an episode of the *Can't Be Censored*podcast. This past December, a source told PEOPLE that while Perry wasn't looking for a boyfriend, the relationship was an \"exciting surprise.\".",
-      "published_at": "Wed, 08 Apr 2026 15:32:50 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導加拿大總理Justin Trudeau之子Xav從其父親的女友Katy Perry獲得音樂建議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 880,
-      "title": "Sommelier Fabien Jacob on When the Wine List Really Works - FSR magazine",
-      "link": "https://www.fsrmagazine.com/feature/sommelier-fabien-jacob-on-when-the-wine-list-really-works/",
-      "source": "Tavily (www.fsrmagazine.com)",
-      "snippet": "Mon Chou Chou’s wine program is built for the room and clientele it actually has—a French brasserie in a busy district, serving a broad mix of guests in a high-volume environment. Mon Chou Chou’s wine program is built for the room and clientele it actually has—a French brasserie in a busy district, serving a broad mix of guests in a high-volume environment. The dining room, Jacob says, is built for guests who range from confident wine drinkers to people who would rather not pronounce a French appellation out loud. “I would prioritize a wine list that is easily digestible for the customer,” Jacob says. At Mon Chou Chou, the NA program includes nonalcoholic beer, wine, and cocktails, and Jacob says the team approached product selection the same way they approach the rest of the list: by tasting broadly and choosing what fits the market, not his personal preference.",
-      "published_at": "Wed, 08 Apr 2026 13:00:28 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Sommelier Fabien Jacob on When the Wine List Really Works - FSR magazine",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 881,
-      "title": "‘Saturday Night Live UK’ Season 1: All the Hosts and Musical Guests - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/tv/tv-news/saturday-night-live-uk-hosts-musical-guests-1236558578/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "# ‘Saturday Night Live UK’ Season 1: All the Hosts and Musical Guests. British comedian Jack Whitehall will be joined by singer Jorja Smith for this Saturday's live show. The show kicked off on March 21 with inaugural host and *SNL* hall-of-famer Tina Fey, who shepherded the relatively unknown cast of British social media stars and stand-up comedians to a solid start. ### Scott Mills' 'Celebrity Great British Bake Off' Episode Scrapped After His BBC Sacking](https://www.hollywoodreporter.com/tv/tv-news/scott-mills-celebrity-great-british-bake-off-episode-axed-1236558615/). This week, on April 11, British comedian Jack Whitehall will host with musical guest Jorja Smith. Here, *THR* rounds up a definitive list of the announced hosts and musical guests, which will be updated as new names are announced. **Apr. 11:** Jack Whitehall, Jorja Smith. Sign up for THR news straight to your inbox every day. ## More from The Hollywood Reporter. ### Scott Mills’ ‘Celebrity Great British Bake Off’ Episode Scrapped After His BBC Sacking. © 2026 The Hollywood Reporter, LLC.",
-      "published_at": "Wed, 08 Apr 2026 13:16:28 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於《週六夜現場英國版》第一季的主持人和音樂嘉賓，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 882,
-      "title": "Justin Bieber is headlining Coachella this month: How the pop star is forging a new path - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/article/justin-bieber-is-headlining-coachella-this-month-how-the-pop-star-is-forging-a-new-path-163753630.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "## After health struggles, a canceled tour and selling his catalog, Bieber is signaling a comeback with new music and intimate performances ahead of the festival. Before this month’s music festival, Bieber stepped out for a series of intimate, invite-only performances in Los Angeles. While it’s unclear whether Bieber’s Los Angeles shows offer a preview of his entire Coachella setlist, it’s worth noting that because Bieber sold the rights to his back catalog of music to all songs he released through 2021, he will not receive performance royalties for older tracks. Bieber’s small shows in Los Angeles weren’t his only performance ahead of Coachella: He also took the Grammys stage in February, where he stripped down to just shorts and socks to sing his *Swag* track “Yukon.” His wife, Hailey Bieber, was emotional in the audience as Bieber showed off a back tattoo that was supposedly a portrait of the Rhode Beauty founder.",
-      "published_at": "Wed, 08 Apr 2026 16:37:53 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Justin Bieber is headlining Coachella this month: How the pop star is forging a new path - Yahoo",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 883,
-      "title": "Jack White announces summer tour, two NYC shows. Get tickets today - New York Post",
-      "link": "https://nypost.com/2026/04/09/ticket-sales/jack-white-summer-tour-2026-where-to-buy-tickets-schedule/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "Jack White — *who served as the musical guest on “Saturday Night Live” alongside the “School of Rock” host on April 4* — just announced he’s added a North American leg to his 2026 world tour. Ahead of the tour announcement, the virtuosic axeman was revealed as a surprise special guest for Coachella this weekend, swung into “The Late Show with Stephen Colbert” *and* dropped a pair of fiery singles titled “Derecho Demonico” and “G.O.D. And The Broken Ribs,” which he delivered with gusto on the recent Jack Black/Jack White episode. At his Brooklyn Paramount gig on Feb. 12, he rocked 21 tracks including White Stripes fan favorites “Seven Nation Army,” “Icky Thump” and “Hotel Yorba” as well as Raconteurs tunes, Dead Weather deep cuts, ditties from his solo career and stunning Iggy Pop and Booker T. Inventory to see Jack White live is available on all verified ticketing sites. ## Jack White tour schedule 2026. | Jack White 2026 festival dates |. ## Jack White new music.",
-      "published_at": "Thu, 09 Apr 2026 18:46:41 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Jack White即將舉行的巡迴演唱會、新音樂發行以及過去的演出，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 884,
-      "title": "Grammy winner Zach Top added to CMAC 2026 lineup - Democrat and Chronicle",
-      "link": "https://www.democratandchronicle.com/story/lifestyle/music/2026/04/09/zach-top-to-play-cmac-in-2026/89535018007/",
-      "source": "Tavily (www.democratandchronicle.com)",
-      "snippet": "First-time Grammy Award-winning country music artist Zach Top joins the lineup of upcoming 2026 summer concerts at the Constellation Brands-Marvin Sands Performing Arts Center. Top, known for hits like \"I Never Lie\" and \"Sounds Like The Radio,\" will take the CMAC stage at 8 p.m. Aug. 8 for his \"Cold Beer & Country Music Summer '26 Tour.\" The show's special guest will be Wyatt McCubbin. Tickets for the \"Cold Beer & Country Music Summer '26 Tour\" will go on sale at 10 a.m. April 17 through Ticketmaster.com. * Jack Johnson will perform July 1. * Rochester Philharmonic Orchestra will perform its \"Red White & Boom\" concert on July 2. * Dierks Bentley will perform on July 11. * Death Cab for Cutie will perform on July 18. * CAAMP will perform on July 21. * Alison Krauss & Union Station will perform on July 25. * Ella Langley will perform on July 31. * Luke Bryan will perform his \"Word On The Street Tour\" on Aug. 26.",
-      "published_at": "Thu, 09 Apr 2026 20:02:00 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於葛萊美獎得主Zach Top加入CMAC 2026年演唱會陣容，並列出其他表演者，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 885,
-      "title": "Yung Kai Sails Into Toronto, Florence + The Machine Screams for Montreal: Canadian Concerts of the Week - Billboard Canada",
-      "link": "https://ca.billboard.com/music/concerts/concerts-of-the-week-canada",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "# Yung Kai Sails Into Toronto, Florence + The Machine Screams for Montreal: Canadian Concerts of the Week. Also this week, Vancouver indie rock band Said The Whale plays a hometown gig to celebrate their 20th anniversary and rising Toronto-born pop singer Tiffany Day celebrates her sophomore record with an album release show in Toronto. Then, U.K. singer RAYE heads to Laval and Toronto, in support of her latest album, **This Music May Contain Hope** and Florence + The Machine creeps into Montreal and Toronto to play songs from their latest record, **Everybody Scream**. Last month, the U.K. singer-songwriter released her second record, **This Music May Contain Hope**, debuting at No. 10 on the Billboard Canadian Albums chart. ## Yung Kai Sails Into Toronto, Florence + The Machine Screams for Montreal: Canadian Concerts of the Week. After months of teasing the track live, the Canadian electronic hitmaker and the British singer’s first-ever collaboration has debuted at No. 39 on the Billboard Canada CHR/Top 40 Airplay chart, dated April 11.",
-      "published_at": "Thu, 09 Apr 2026 16:58:30 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於加拿大地區的演唱會及新歌發布，內容並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 886,
-      "title": "Zion’s EP ‘The Perfect Melody II’ & More Best New Music Latin - Billboard",
-      "link": "https://www.billboard.com/music/latin/zion-the-perfect-melody-2-best-new-music-latin-1236214852/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Zion’s EP ‘The Perfect Melody II’ & More Best New Music Latin. Plus, check out *Billboard*'s New Music Latin weekly playlist below! Colombia’s *vieja escuela* (old school) Andy Rivera joins forces with Juan Duque and ONIKX of *la nueva escuela* (new school) for the release of “Amar y Ya.” On the nearly three-minute track, produced by Sherman and FINE, the three artists sing about a love that’s pure and honest, declaring in the chorus: “After you, there is nothing/ With you, I lack nothing/ I feel like I have everything/ After you, there is nothing/ I want everything with you—don’t leave me longing.” Backed by an urban-tinged, suave Afrobeats rhythm, “Amar y Ya,” which translates to “love and that’s all,” combines the sweet melodious vocals of Rivera, Duque and ONIKX, giving the song that extra romantic touch.",
-      "published_at": "Fri, 03 Apr 2026 17:45:06 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Zion’s EP ‘The Perfect Melody II’ & More Best New Music Latin - Billboard",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 22,
-    "report_date": "2026-04-14",
-    "total_articles": 2,
+    "id": 23,
+    "report_date": "2026-04-15",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 2,
-    "daily_summary": "今日搜集的新聞中，並無關於周杰倫的相關報導。所有提及「Jay」的內容均指向其他公眾人物或事件，例如Jay Rothman、Jay Collins、Jay McInerney、Jaylen Brown、Jay-Z等，與亞洲天王周杰倫無關。",
-    "key_events": [
-      "無周杰倫報導",
-      "無相關事件",
-      "今日無焦點"
-    ],
-    "created_at": "2026-04-14 06:24:49"
+    "neutral_count": 8,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com、Why the Michael Jackson movie is already extremely controversial - USA Today、Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
+    "created_at": "2026-04-15 06:26:12"
   },
   "recentReports": [
+    {
+      "id": 23,
+      "report_date": "2026-04-15",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com、Why the Michael Jackson movie is already extremely controversial - USA Today、Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
+      "created_at": "2026-04-15 06:26:12"
+    },
     {
       "id": 22,
       "report_date": "2026-04-14",
@@ -653,21 +660,6 @@
         "MJ遺產糾紛"
       ],
       "created_at": "2026-04-09 06:11:01"
-    },
-    {
-      "id": 16,
-      "report_date": "2026-04-08",
-      "total_articles": 14,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 14,
-      "daily_summary": "今天搜集到的新聞中，沒有任何關於周杰倫的報導。所有焦點集中在其他歐美娛樂新聞，例如麥可傑克森的遺產爭議、肯伊威斯特的音樂節風波與復出演出，以及其他社會與健康議題。因此，今日無周杰倫的相關焦點事件可供摘要。",
-      "key_events": [
-        "無周杰倫新聞",
-        "焦點為歐美娛樂",
-        "無相關事件"
-      ],
-      "created_at": "2026-04-08 06:11:41"
     }
   ]
 }
