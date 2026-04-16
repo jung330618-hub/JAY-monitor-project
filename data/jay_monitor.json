@@ -5160,11 +5160,11 @@
       "snippet": "哈利波特？周杰倫19秒新歌預告引起騷動 名畫入MV致敬「他」  自由娛樂",
       "published_at": "2026-03-17T23:12:43.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫發布19秒新歌預告，因融入名畫元素並引發熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 370,
@@ -5174,11 +5174,11 @@
       "snippet": "基因太強！周杰倫8歲兒Romeo正臉曝光 父子「神同步揉鼻」網笑翻：根本迷你周董  Yahoo新聞",
       "published_at": "2026-03-08T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "基因太強！周杰倫8歲兒Romeo正臉曝光 父子「神同步揉鼻」網笑翻：根本迷你周董 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 371,
@@ -5188,11 +5188,11 @@
       "snippet": "U:NUS吳昱廷赴濟州島拍MV 致敬周杰倫《不能說的秘密》海邊彈琴  Yahoo新聞",
       "published_at": "2026-03-16T11:31:54.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "U:NUS吳昱廷在濟州島拍攝MV時，以海邊彈琴的畫面致敬了周杰倫電影《不能說的秘密》中的經典場景。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 372,
@@ -5202,11 +5202,11 @@
       "snippet": "周董新歌預告來了！致敬世界名畫＋暗黑蝙蝠元素 吊足歌迷胃口  Yahoo新聞",
       "published_at": "2026-03-18T04:30:24.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌預告曝光，結合世界名畫與暗黑蝙蝠元素，成功吊足歌迷胃口，引發高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 373,
@@ -5216,11 +5216,11 @@
       "snippet": "周杰倫新專輯終於曝光！昆凌與3寶搶先聽 天王IG鬆口發布時間  Yahoo新聞",
       "published_at": "2026-03-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯終於曝光，昆凌與三寶搶先試聽，天王也透過IG透露了發布時間。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 374,
@@ -5230,11 +5230,11 @@
       "snippet": "睽違4年周杰倫新專輯終於來了！親自發布名稱 選在這1天：你們等著  Yahoo新聞",
       "published_at": "2026-03-10T13:48:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違四年終於將發行新專輯，並親自公布名稱，引發粉絲高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 375,
@@ -5244,11 +5244,11 @@
       "snippet": "周杰倫官宣新專輯 發片記者會選在昆凌出道日  新唐人電視台",
       "published_at": "2026-03-15T07:21:18.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫官宣即將發行新專輯，並將發片記者會日期選在妻子昆凌的出道紀念日。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 376,
@@ -5258,11 +5258,11 @@
       "snippet": "周杰倫新作完成！帶全家公路旅行試聽 預告粉絲：過幾天該你們  Yahoo新聞",
       "published_at": "2026-03-06T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫已完成新作品，並與家人公路旅行試聽，同時預告粉絲即將能聽到新歌。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 377,
@@ -5272,11 +5272,11 @@
       "snippet": "周杰倫直指「方文山變了」！ 合作27年突嘆：已經不是我認識的他  Yahoo新聞",
       "published_at": "2026-02-16T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫感嘆與方文山合作27年後，覺得方文山已經改變，不再是他所認識的樣子。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 378,
@@ -5286,11 +5286,11 @@
       "snippet": "周杰倫爭戰澳網首輪遭淘汰！ 戴太陽眼鏡帥氣登場全場嗨翻  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫雖在澳網首輪遭淘汰，但其帥氣登場仍讓全場氣氛沸騰。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 379,
@@ -5300,11 +5300,11 @@
       "snippet": "周杰倫澳網「動都不動、球都沒碰到」被淘汰！好友林書豪開酸了  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫在澳網因「動都不動、球都沒碰到」被淘汰，引來好友林書豪幽默調侃。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 380,
@@ -5314,11 +5314,11 @@
       "snippet": "台灣阿伯狂秀「百場演唱會」！看周杰倫、BP都有票 驚人身分曝光  Yahoo新聞",
       "published_at": "2026-03-11T06:05:30.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "一位台灣阿伯因狂看百場演唱會而爆紅，其中包含周杰倫的演出，間接顯示周杰倫的受歡迎程度。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 381,
@@ -5328,11 +5328,11 @@
       "snippet": "周杰倫全新巡迴演唱會來了！老搭檔擔任總監 新專輯最後倒數3首未完成  Yahoo新聞",
       "published_at": "2026-02-16T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫宣布將舉辦全新巡迴演唱會，並透露新專輯僅剩三首歌尚未完成。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 382,
@@ -5342,11 +5342,11 @@
       "snippet": "周杰倫與魔術師捲上億元糾紛！劉謙接班人揭「關鍵主因」 再爆蔡威澤黑歷史  Yahoo新聞",
       "published_at": "2025-10-18T07:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫被捲入與魔術師的億元糾紛，並牽扯出蔡威澤的黑歷史。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 383,
@@ -5356,11 +5356,11 @@
       "snippet": "周杰倫澳網初登場遭秒殺！大咖教練曝光 直批「致命關鍵」戳痛點  Yahoo新聞",
       "published_at": "2026-01-16T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫澳網初登場遭秒殺！大咖教練曝光 直批「致命關鍵」戳痛點 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 384,
@@ -5370,11 +5370,11 @@
       "snippet": "周杰倫曬帥照喊「期待2026此刻」 網一看牛仔褲嚇傻：600多萬  Yahoo新聞",
       "published_at": "2025-12-28T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫分享帥照並表達對2026的期待，其身穿的昂貴牛仔褲引起網友熱議。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 385,
@@ -5384,11 +5384,11 @@
       "snippet": "周杰倫、昆凌看球賽「互拍」小動作超甜！身體本能反應洩11年婚姻默契  Yahoo新聞",
       "published_at": "2026-01-21T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與昆凌在球賽中展現甜蜜互動與11年婚姻默契，獲得媒體正面關注。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 386,
@@ -5398,11 +5398,11 @@
       "snippet": "山寨周杰倫開演唱會還接代言！杰威爾緊急回應11字 網：杰倫宇宙太強大  Yahoo新聞",
       "published_at": "2025-12-19T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "有山寨周杰倫舉辦演唱會並接代言，引發杰威爾緊急發聲明回應此爭議事件。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 387,
@@ -5412,11 +5412,11 @@
       "snippet": "獨家／周杰倫昔「僵直性脊椎炎」免役 現可打澳網？專業醫3字回答  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞探討周杰倫過去因僵直性脊椎炎免役，並引述專業醫師對他目前是否能參與澳網的看法。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 388,
@@ -5426,11 +5426,11 @@
       "snippet": "籃球》周杰倫來了！林書豪球衣退休儀式神秘嘉賓就是周董 Jeremy笑說周董騙我來不了  Yahoo運動",
       "published_at": "2025-12-28T13:08:29.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫驚喜現身林書豪球衣退休儀式，為好友送上祝福。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 389,
@@ -5440,11 +5440,11 @@
       "snippet": "文章快閃台北48小時力挺江蕙 周杰倫、A-Lin送祝福  Yahoo新聞",
       "published_at": "2026-02-25T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫與A-Lin一同為江蕙送上祝福，展現對同行的支持。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 390,
@@ -5454,11 +5454,11 @@
       "snippet": "周杰倫突喊「我受夠了」！ 連發6限動怒這1點：真的把人逼瘋  Yahoo新聞",
       "published_at": "2025-11-17T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫在社群媒體上連發限時動態，表達對某一點的強烈不滿與憤怒。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 391,
@@ -5468,11 +5468,11 @@
       "snippet": "周杰倫澳網秒出局登熱搜！「一眨眼就結束」網笑了：毫無體感  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫在澳網比賽中迅速出局，因其過程太快而登上熱搜，引發網友幽默討論。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 392,
@@ -12767,6 +12767,104 @@
       "summary": "此篇Billboard文章介紹了本週R&B/Hip-Hop新歌推薦，包含Kenyon Dixon、Momo Boyd和Fergie Baby等藝人，但內容並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 913,
+      "title": "Jin: ‘My Biggest Dream Has Been to Go on Tour With BTS’ - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-features/jin-interview-bts-solo-work-1235544795/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "In our cover-story interview, BTS’ powerhouse singer talks about his rock-influenced solo work, loving Coldplay, and what really matters to him. Even in a remarkably fan-centered group, his attentiveness to the feelings of ARMY is intense — he saw his solo EPs and shows primarily as a way to keep fans entertained during the group’s break, and he pushed to extend BTS’ tour. He’s also the group’s designated rocker, even collaborating with Coldplay, though he hasn’t had time to see as many bands as he’d like. I tend to like rock-adjacent genres, and have always wanted to include that sound in a solo album. **Your solo tour had rock energy and a new approach — it was very different from what you do with BTS. How did that experience carry forward into both making the album and when you’re going to be touring with BTS?**. I feel like it takes those rock elements that you love and that you use so well.**.",
+      "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於韓國團體BTS成員Jin的個人音樂發展、對搖滾樂的喜愛以及他對粉絲的重視，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 914,
+      "title": "Durand Bernarr Announces Self-Titled Album ‘BERNARR’ - clashmusic.com",
+      "link": "https://www.clashmusic.com/news/durand-bernarr-announces-self-titled-album-bernarr/",
+      "source": "Tavily (www.clashmusic.com)",
+      "snippet": "# Durand Bernarr Announces Self-Titled Album ‘BERNARR’. Listen to recently-released single 'Wild Ride'. **Durand Bernarr** will release his fourth studio album, ‘BERNARR’, on May 1st. The album features collaborators from the RnB and modern soul continuum, including James Fauntleroy – who features on the nocturnal prelude single ‘Wild Ride’ – Donnie Scantz, Bryan‑Michael Cox, Johntá Austin, Kandi Burrus, Khalid, Raphael Saadiq, Sevyn Streeter, Troy Taylor, Vic Mensa and more. Bernarr earned his first GRAMMY for Best Progressive R&B Album, for his 2025 release ‘**BLOOM**’. Known for his genre-bending sound and theatrical command, Bernarr blends classic soul tradition with forward looking artistry, drawing comparisons to Luther Vandross, Little Richard, and Rahsaan Patterson. * + News / Robin Murray  / 15 · 04 · 2026. * + News / Shahzaib Hussain  / 14 · 04 · 2026. * + News / Robin Murray  / 14 · 04 · 2026. * + News / Shahzaib Hussain  / 14 · 04 · 2026.",
+      "published_at": "Wed, 15 Apr 2026 08:31:35 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Durand Bernarr宣布發行新專輯《BERNARR》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 915,
+      "title": "KINGS 👑 K-pop superstars BIGBANG set the Coachella stage on fire as they finally performed at the famed music festival after their 2020 appearance was canceled due to the COVID-19 pandemic. Link to full story in the comments section. - facebook.com",
+      "link": "https://www.facebook.com/abscbnNEWS/posts/kings-k-pop-superstars-bigbang-set-the-coachella-stage-on-fire-as-they-finally-p/1476243851217533/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# ABS-CBN News - KINGS 👑 K-pop superstars BIGBANG set the... ### **ABS-CBN News**. Link to full story in the comments section. Image 2: May be an image of one or more people, bangs and text that says 'い NONDO BIGBANG bring hits to Coachella in long-awaited long festival set PhotetromG-Dragon'sxaccount -Dragon'sXa account Phototrom loto:tromG-Uragon'sXaccount ABSQCBN NEWS'. Image 6: BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Image 16: BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. ### BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Most relevant is selected, so some comments may have been filtered out. ### BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Most relevant is selected, so some comments may have been filtered out.",
+      "published_at": "Mon, 13 Apr 2026 08:30:03 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "KINGS 👑 K-pop superstars BIGBANG set the Coachella stage on fire as they finally performed at the famed music festival after their 2020 appearance was canceled due to the COVID-19 pandemic. Link to full story in the comments section. - facebook.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 916,
+      "title": "Jason Bembry’s ‘My Friends’ Embraces Self-Confidence - clashmusic.com",
+      "link": "https://www.clashmusic.com/news/jason-bembrys-my-friends-embraces-self-confidence/",
+      "source": "Tavily (www.clashmusic.com)",
+      "snippet": "# Jason Bembry’s ‘My Friends’ Embraces Self-Confidence. **Jason Bembry** returns with new single ‘My Friends’. **Jason Bembry** uses music as a means to explore his emotions, processing some complex feelings in the process. Out now, new single ‘My Friends’ finds Jason Bembry revelling in self-confidence. The studio gloss seems to amplify the emotional meaning of the lyrics, with the 29-year-old using the single as a means to express self-worth. Merging the introspection of **James Blake** with the dancefloor expression of **Disclosure**, ‘My Friends’ spotlights Jason Bembry’s multi-faceted musicality. *‘My Friends’ is all about the isolation and self-confidence that comes from feeling othered by people you thought were your friends. Join the Clash mailing list for up to the minute music, fashion and film news. ## TOMORROW X TOGETHER Release New Mini-Album ‘7TH YEAR: A Moment Of Stillness In The Thorns’. ## Kibo Drops New Single ‘Red Starz’. ## Lone Returns With ‘Hyperphantasia’ – His First Album in Five Years.",
+      "published_at": "Mon, 13 Apr 2026 15:51:33 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jason Bembry’s ‘My Friends’ Embraces Self-Confidence - clashmusic.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 917,
+      "title": "Justin Bieber Did YouTube Karaoke at Coachella - The Cut",
+      "link": "https://www.thecut.com/article/justin-bieber-did-youtube-karaoke-coachella.html",
+      "source": "Tavily (www.thecut.com)",
+      "snippet": "As the music video ended Bieber joked to the audience, “Okay, so you guys know that one?”. “I’m a dad, I’m a husband,” Bieber says in the video. Bieber on stage repeats, “I’m a dad, I’m a husband.” Bieber in the video says, “It’s not clocking to you that I’m standing on business, is it?” Bieber says on stage, “Standing on business, bro.” And the crowd goes wild. This email will be used to sign into all *New York* sites. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. This email will be used to sign into all *New York* sites. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us.",
+      "published_at": "Sun, 12 Apr 2026 16:23:58 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於小賈斯汀在Coachella音樂節的表演與發言，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 918,
+      "title": "This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella) - facebook.com",
+      "link": "https://www.facebook.com/deadline/videos/this-one-is-for-the-og-beliebers-justinbieber-performs-his-cover-of-chris-browns/2129896504220525/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella) | Deadline Hollywood | Facebook. # Video. This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella). This one is for the OG Beliebers Image 5: 💜#JustinBieber performs his cover of Chris Brown’s “With You” at #…. ## Related Videos. Image 19: Video thumbnail 0:38. Image 20: Video thumbnail 0:35. Jennifer Garner on the final scene cliffhanger in ‘The Last Thing He Told Me’ Season 2 finale and the possibility for Season 3 Read more online at the link in bio. Image 21: Video thumbnail 1:12. Image 22: Video thumbnail 0:43. It’s complicated to greenlight big films.” See more at the link in bio. [#Hacks star Hannah Einbinder teases how the romantic undertones between Ava and Deborah are further explored in Season 5: “[It’s] one of my favorite [episodes].",
+      "published_at": "Sun, 12 Apr 2026 09:21:54 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導賈斯汀·比伯在Coachella音樂節的表演及其他影視新聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 919,
+      "title": "Michael B. Jordan’s ‘Thomas Crown Affair’ Trailer Seduces CinemaCon With Art, Sex and an Oscar-Winning Six Pack - Variety",
+      "link": "https://variety.com/2026/film/news/michael-b-jordan-thomas-crown-affair-trailer-sex-cinemacon-1236722975/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Variety   Plus Icon  Read Next: Gummybear International and Toonz Mark 20 Years of Gummibär With Feature Film Set for 2027 (EXCLUSIVE). Jordan’s ‘Thomas Crown Affair’ Trailer Seduces CinemaCon With Art, Sex and an Oscar-Winning Six Pack. Fresh off a triumphant Oscar win, Michael B. Jordan hit CinemaCon to showcase his latest directorial effort: a slick remake of “The Thomas Crown Affair.”. The annual convention of movie theater owners got a sneak peek at Jordan’s project — the third big-screen take on the story of a billionaire whose idle hands lead him to orchestrate major art thefts. Distributor Amazon MGM Studios cold opened their CinemaCon presentation with the trailer, showcasing Jordan in all his glossy leading man glory. The trailer played through the roof, which you can partly attribute to perfect timing — Jordan hasn’t been seen since his incredible best actor win for “Sinners.”. That doesn’t land today,” Jordan told *Variety* in November.",
+      "published_at": "Thu, 16 Apr 2026 03:49:40 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要報導麥可·B·喬丹在CinemaCon上展示其新片《偷天換日》預告片，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -13090,6 +13188,19 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com、Why the Michael Jackson movie is already extremely controversial - USA Today、Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
       "created_at": "2026-04-15 06:26:12"
+    },
+    {
+      "id": 24,
+      "report_date": "2026-04-16",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集到的新聞資料中，經審閱後，未發現任何關於周杰倫的報導或相關動態。因此，無法為您整理出周杰倫的最新焦點摘要。新聞列表主要涵蓋了其他國際藝人的活動，例如BTS、Justin Bieber、Bruno Mars等，周杰倫本人並無提及。",
+      "key_events": [
+        "無周杰倫相關報導"
+      ],
+      "created_at": "2026-04-16 06:28:10"
     }
   ],
   "notification_logs": [
@@ -13498,11 +13609,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-15 06:26:13"
+    },
+    {
+      "id": 59,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-16 06:28:11"
+    },
+    {
+      "id": 60,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-16 06:28:11"
     }
   ],
   "_meta": {
-    "nextArticleId": 913,
-    "nextReportId": 24,
-    "nextLogId": 59
+    "nextArticleId": 920,
+    "nextReportId": 25,
+    "nextLogId": 61
   }
 }

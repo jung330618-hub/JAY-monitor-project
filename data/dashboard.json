@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 8
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 870,
-    "positive": 308,
-    "negative": 40,
-    "neutral": 522,
-    "avg_score": 0.63
+    "total": 900,
+    "positive": 322,
+    "negative": 44,
+    "neutral": 534,
+    "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-04-01",
-      "total": 15,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 15,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-02",
       "total": 14,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-16",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 913,
+      "title": "Jin: ‘My Biggest Dream Has Been to Go on Tour With BTS’ - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-features/jin-interview-bts-solo-work-1235544795/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "In our cover-story interview, BTS’ powerhouse singer talks about his rock-influenced solo work, loving Coldplay, and what really matters to him. Even in a remarkably fan-centered group, his attentiveness to the feelings of ARMY is intense — he saw his solo EPs and shows primarily as a way to keep fans entertained during the group’s break, and he pushed to extend BTS’ tour. He’s also the group’s designated rocker, even collaborating with Coldplay, though he hasn’t had time to see as many bands as he’d like. I tend to like rock-adjacent genres, and have always wanted to include that sound in a solo album. **Your solo tour had rock energy and a new approach — it was very different from what you do with BTS. How did that experience carry forward into both making the album and when you’re going to be touring with BTS?**. I feel like it takes those rock elements that you love and that you use so well.**.",
+      "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於韓國團體BTS成員Jin的個人音樂發展、對搖滾樂的喜愛以及他對粉絲的重視，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 914,
+      "title": "Durand Bernarr Announces Self-Titled Album ‘BERNARR’ - clashmusic.com",
+      "link": "https://www.clashmusic.com/news/durand-bernarr-announces-self-titled-album-bernarr/",
+      "source": "Tavily (www.clashmusic.com)",
+      "snippet": "# Durand Bernarr Announces Self-Titled Album ‘BERNARR’. Listen to recently-released single 'Wild Ride'. **Durand Bernarr** will release his fourth studio album, ‘BERNARR’, on May 1st. The album features collaborators from the RnB and modern soul continuum, including James Fauntleroy – who features on the nocturnal prelude single ‘Wild Ride’ – Donnie Scantz, Bryan‑Michael Cox, Johntá Austin, Kandi Burrus, Khalid, Raphael Saadiq, Sevyn Streeter, Troy Taylor, Vic Mensa and more. Bernarr earned his first GRAMMY for Best Progressive R&B Album, for his 2025 release ‘**BLOOM**’. Known for his genre-bending sound and theatrical command, Bernarr blends classic soul tradition with forward looking artistry, drawing comparisons to Luther Vandross, Little Richard, and Rahsaan Patterson. * + News / Robin Murray  / 15 · 04 · 2026. * + News / Shahzaib Hussain  / 14 · 04 · 2026. * + News / Robin Murray  / 14 · 04 · 2026. * + News / Shahzaib Hussain  / 14 · 04 · 2026.",
+      "published_at": "Wed, 15 Apr 2026 08:31:35 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Durand Bernarr宣布發行新專輯《BERNARR》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 915,
+      "title": "KINGS 👑 K-pop superstars BIGBANG set the Coachella stage on fire as they finally performed at the famed music festival after their 2020 appearance was canceled due to the COVID-19 pandemic. Link to full story in the comments section. - facebook.com",
+      "link": "https://www.facebook.com/abscbnNEWS/posts/kings-k-pop-superstars-bigbang-set-the-coachella-stage-on-fire-as-they-finally-p/1476243851217533/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# ABS-CBN News - KINGS 👑 K-pop superstars BIGBANG set the... ### **ABS-CBN News**. Link to full story in the comments section. Image 2: May be an image of one or more people, bangs and text that says 'い NONDO BIGBANG bring hits to Coachella in long-awaited long festival set PhotetromG-Dragon'sxaccount -Dragon'sXa account Phototrom loto:tromG-Uragon'sXaccount ABSQCBN NEWS'. Image 6: BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Image 16: BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. ### BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Most relevant is selected, so some comments may have been filtered out. ### BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. BIGBANG bring hits to Coachella in long-awaited festival set | ABS-CBN Entertainment. Most relevant is selected, so some comments may have been filtered out.",
+      "published_at": "Mon, 13 Apr 2026 08:30:03 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "KINGS 👑 K-pop superstars BIGBANG set the Coachella stage on fire as they finally performed at the famed music festival after their 2020 appearance was canceled due to the COVID-19 pandemic. Link to full story in the comments section. - facebook.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 916,
+      "title": "Jason Bembry’s ‘My Friends’ Embraces Self-Confidence - clashmusic.com",
+      "link": "https://www.clashmusic.com/news/jason-bembrys-my-friends-embraces-self-confidence/",
+      "source": "Tavily (www.clashmusic.com)",
+      "snippet": "# Jason Bembry’s ‘My Friends’ Embraces Self-Confidence. **Jason Bembry** returns with new single ‘My Friends’. **Jason Bembry** uses music as a means to explore his emotions, processing some complex feelings in the process. Out now, new single ‘My Friends’ finds Jason Bembry revelling in self-confidence. The studio gloss seems to amplify the emotional meaning of the lyrics, with the 29-year-old using the single as a means to express self-worth. Merging the introspection of **James Blake** with the dancefloor expression of **Disclosure**, ‘My Friends’ spotlights Jason Bembry’s multi-faceted musicality. *‘My Friends’ is all about the isolation and self-confidence that comes from feeling othered by people you thought were your friends. Join the Clash mailing list for up to the minute music, fashion and film news. ## TOMORROW X TOGETHER Release New Mini-Album ‘7TH YEAR: A Moment Of Stillness In The Thorns’. ## Kibo Drops New Single ‘Red Starz’. ## Lone Returns With ‘Hyperphantasia’ – His First Album in Five Years.",
+      "published_at": "Mon, 13 Apr 2026 15:51:33 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jason Bembry’s ‘My Friends’ Embraces Self-Confidence - clashmusic.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 917,
+      "title": "Justin Bieber Did YouTube Karaoke at Coachella - The Cut",
+      "link": "https://www.thecut.com/article/justin-bieber-did-youtube-karaoke-coachella.html",
+      "source": "Tavily (www.thecut.com)",
+      "snippet": "As the music video ended Bieber joked to the audience, “Okay, so you guys know that one?”. “I’m a dad, I’m a husband,” Bieber says in the video. Bieber on stage repeats, “I’m a dad, I’m a husband.” Bieber in the video says, “It’s not clocking to you that I’m standing on business, is it?” Bieber says on stage, “Standing on business, bro.” And the crowd goes wild. This email will be used to sign into all *New York* sites. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. This email will be used to sign into all *New York* sites. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us. By submitting your email, you agree to our Terms and Privacy Policy and to receive email correspondence from us.",
+      "published_at": "Sun, 12 Apr 2026 16:23:58 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於小賈斯汀在Coachella音樂節的表演與發言，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 918,
+      "title": "This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella) - facebook.com",
+      "link": "https://www.facebook.com/deadline/videos/this-one-is-for-the-og-beliebers-justinbieber-performs-his-cover-of-chris-browns/2129896504220525/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella) | Deadline Hollywood | Facebook. # Video. This one is for the OG Beliebers 💜 #JustinBieber performs his cover of Chris Brown’s “With You” at #Coachella (Video: YouTube/Coachella). This one is for the OG Beliebers Image 5: 💜#JustinBieber performs his cover of Chris Brown’s “With You” at #…. ## Related Videos. Image 19: Video thumbnail 0:38. Image 20: Video thumbnail 0:35. Jennifer Garner on the final scene cliffhanger in ‘The Last Thing He Told Me’ Season 2 finale and the possibility for Season 3 Read more online at the link in bio. Image 21: Video thumbnail 1:12. Image 22: Video thumbnail 0:43. It’s complicated to greenlight big films.” See more at the link in bio. [#Hacks star Hannah Einbinder teases how the romantic undertones between Ava and Deborah are further explored in Season 5: “[It’s] one of my favorite [episodes].",
+      "published_at": "Sun, 12 Apr 2026 09:21:54 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導賈斯汀·比伯在Coachella音樂節的表演及其他影視新聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 919,
+      "title": "Michael B. Jordan’s ‘Thomas Crown Affair’ Trailer Seduces CinemaCon With Art, Sex and an Oscar-Winning Six Pack - Variety",
+      "link": "https://variety.com/2026/film/news/michael-b-jordan-thomas-crown-affair-trailer-sex-cinemacon-1236722975/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Variety   Plus Icon  Read Next: Gummybear International and Toonz Mark 20 Years of Gummibär With Feature Film Set for 2027 (EXCLUSIVE). Jordan’s ‘Thomas Crown Affair’ Trailer Seduces CinemaCon With Art, Sex and an Oscar-Winning Six Pack. Fresh off a triumphant Oscar win, Michael B. Jordan hit CinemaCon to showcase his latest directorial effort: a slick remake of “The Thomas Crown Affair.”. The annual convention of movie theater owners got a sneak peek at Jordan’s project — the third big-screen take on the story of a billionaire whose idle hands lead him to orchestrate major art thefts. Distributor Amazon MGM Studios cold opened their CinemaCon presentation with the trailer, showcasing Jordan in all his glossy leading man glory. The trailer played through the roof, which you can partly attribute to perfect timing — Jordan hasn’t been seen since his incredible best actor win for “Sinners.”. That doesn’t land today,” Jordan told *Variety* in November.",
+      "published_at": "Thu, 16 Apr 2026 03:49:40 GMT",
+      "collected_at": "2026-04-16 06:26:01",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要報導麥可·B·喬丹在CinemaCon上展示其新片《偷天換日》預告片，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 905,
       "title": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com",
@@ -456,118 +554,35 @@
       "summary": "這則新聞報導的是籃球運動員Jaylen Brown的比賽表現，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 890,
-      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - Billboard",
-      "link": "https://www.billboard.com/lists/the-weeks-best-new-dance-songs-david-guetta-afrojack-sia/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
-      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要介紹本週最新的舞曲音樂，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 891,
-      "title": "Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More - billboard.com",
-      "link": "https://www.billboard.com/lists/best-new-dance-songs-david-guetta-afrojack-sia/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Friday Dance Music Guide: The Week’s Best New Tracks From Afrojack, David Guetta & Sia & More. This week in dance music: Bonnie X Clyde, deadmau5 and Steve Appleton, Illenium, David Guetta, Dustin Lynch and Dead Turnley all made moves on the dance charts, as did Slayyyter, who clocked her first No. 1 on Top Dance Albums with her recently released *Wor$t Girl In America*. Bass favorite Virtual Riot releases 12-track *Burning Out*, his third studio album, written about a journey through burnout, collapse, sobriety and everything contained therein, with inspiration coming from this transformation and from music well outside the bass realm. “So I’ve always been a fan of Charli xcx’s album ‘how I’m feeling right now,’ not just because of the music, but because I like the idea of an album being the musical representation of how the artist is feeling when they wrote it,” Virtual Riot says in a statement.",
-      "published_at": "Fri, 10 Apr 2026 20:36:24 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇Billboard文章介紹了本週最新的舞曲音樂，包括Afrojack、David Guetta等藝人的新作品，但內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 892,
-      "title": "With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album - Billboard",
-      "link": "https://www.billboard.com/music/pop/keli-holiday-tour-album-interview-1236218663/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# With North America and Europe Tour Dates to Come, Keli Holiday Has ‘Hunkered Down’ With His Next Album. Holiday had the honors of opening the ARIAs with a performance of his viral smash “Dancing2.” Just Holiday, his hair teased like a mane, chest out, staring down the barrel of national TV cameras. He’s a first-time nominee for the APRA Music Awards, including the coveted song of the year for “Dancing2,” which took flight on TikTok, where fans clamored to its message of love, connection and positivity. This new chapter for Keli Holiday is a “representative of love,” he tells *Billboard* over Zoom. He’s the alter-ego of Adam Hyde, who alongside Reuben Styles is co-founder of Peking Duk, the multi-platinum, ARIA Award-winning electronic duo which has accumulated more than 400 million streams across such songs as “High,” “Take Me Over,” “Stranger” and “Fire.” The duo’s debut album, *Paradise*, is due out Aug. 14 and features the cut “Thrills” with Rico Nasty.",
-      "published_at": "Thu, 09 Apr 2026 09:15:43 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於音樂人Keli Holiday的專輯與巡演計畫，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 875,
-      "title": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard",
-      "link": "https://www.billboard.com/music/rb-hip-hop/tyga-baby-youre-a-star-movie-debut-1236218956/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey. In addition to starring in a lead role, the rapper is also cowriting and producing the film, titled *Baby, You're a Star*. Tyga will star alongside *Outer Banks*‘ Madison Bailey, Ashton Sanders, Mike Epps, Apollonia, Clifton Powell, Patrick Cage and David Alan Grier. The film’s storyline hits home with Tyga, which will follow an aspiring music artst determined to overcome life’s obstacles to reach stardom. “Blending music, nostalgia and raw emotional stakes, the film aims to capture the spirit of a generation on the brink of cultural change,” a press release for *Baby, You’re a Star* states. Production for the movie is currently underway in Portland, Ore. Tyga has been a rap staple for nearly 15 years since his breakout Billboard Hot 100 top 10 hit “Rack City,” which reached No. 7 on the chart in early 2012. Visit Billboard Pro for music business news.",
-      "published_at": "Thu, 09 Apr 2026 18:32:16 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導饒舌歌手Tyga將首次主演電影《Baby, You're a Star》，並參與編劇與製作，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 876,
-      "title": "Tyga To Star In 'Baby, You're A Star' Opposite Madison Bailey - Deadline",
-      "link": "https://deadline.com/2026/04/tyga-to-star-baby-youre-a-star-madison-bailey-1236785830/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "# Tyga Sets First Leading Film Role In ‘Baby, You’re A Star’; Also Producing   Sanders by IAG and Felker Toczek Suddleson; Apollonia is repped by Omniquest Media; Powell by J Pervis Talent and Opus Entertainment; Cage by CESD and Anonymous Content; Grier by Innovative, Activist Artists Management, and Johnson Shapiro Slewett   Epps by Artists First, UTA, and Yorn, Levine, Barnes; and Bryant by Citizen Skull Management and Nelson Davis. ## Must Read Stories.",
-      "published_at": "Thu, 09 Apr 2026 16:11:30 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導饒舌歌手Tyga的新電影角色，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 877,
-      "title": "Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs - Billboard",
-      "link": "https://www.billboard.com/music/music-news/ziggy-marley-new-album-brightside-takes-us-out-video-1236218445/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs. In a new episode of *Billboard*'s *Takes Us Out*, Marley talks about his creative process, *Yo Gabba GabbaLand!* cameo and his love of sports over a vegan meal. Over their meal, the duo talk about Marley’s upcoming album, collecting vinyl and being vulnerable in music. “I’m only vegan part-time,” Marley jokes. Marley is releasing his new album, *Brightside*, in an unconventional way. He attributes his decision to release his album this way to seeing how music was made when he was growing up, especially with his father, the late legend Bob Marley. “I grew up around seeing records being manufactured, vinyl from the conception to the final product,” Marley explains. “The most important vinyl is the first vinyl I bought,” Marley says before naming an album that was surely many collectors’ first: *Thriller*. “[I was] also getting some sparks of creativity, you know, being on a movie set,” Marley says.",
-      "published_at": "Thu, 09 Apr 2026 16:00:00 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Ziggy Marley決定以黑膠和CD形式獨家發行新專輯《Brightside》的原因，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 878,
-      "title": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - South Carolina Public Radio",
-      "link": "https://www.southcarolinapublicradio.org/news/2026-04-09/bts-stays-at-no-1-on-the-charts-and-thwarts-ye-in-the-process",
-      "source": "Tavily (www.southcarolinapublicradio.org)",
-      "snippet": "Three albums debut in the top five of this week's *Billboard* albums chart. Last week, a No. 1 debut for BTS's *Arirang* seemed as inevitable as the tides: The K-pop boy band didn't have much competition beyond country star Luke Combs (whose *The Way I Am* debuted at No. 2), and the group had already banked six No. 1 albums in its career. This week, *Arirang*'s continued chart dominance seemed like less of a given, seeing as how a huge percentage of its first-week numbers came from album sales (which don't carry over from week to week), while the latest round of debuts figured to be similarly formidable. It needed those sales, too, because three albums debut just behind it in this week's top five, led by Ye — the rapper formerly known as Kanye West — and his long-delayed new release *Bully*, which debuts at No. 2. Aided by a new video that premiered on April 1 — and in line for *another* chart boost after Langley's album *Dandelion* drops this Friday — \"Choosin' Texas\" is this week's most-streamed song.",
-      "published_at": "Thu, 09 Apr 2026 16:11:18 GMT",
-      "collected_at": "2026-04-10 06:23:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - South Carolina Public Radio",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 23,
-    "report_date": "2026-04-15",
-    "total_articles": 8,
+    "id": 24,
+    "report_date": "2026-04-16",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 8,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com、Why the Michael Jackson movie is already extremely controversial - USA Today、Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
-    "created_at": "2026-04-15 06:26:12"
+    "neutral_count": 7,
+    "daily_summary": "今日搜集到的新聞資料中，經審閱後，未發現任何關於周杰倫的報導或相關動態。因此，無法為您整理出周杰倫的最新焦點摘要。新聞列表主要涵蓋了其他國際藝人的活動，例如BTS、Justin Bieber、Bruno Mars等，周杰倫本人並無提及。",
+    "key_events": [
+      "無周杰倫相關報導"
+    ],
+    "created_at": "2026-04-16 06:28:10"
   },
   "recentReports": [
+    {
+      "id": 24,
+      "report_date": "2026-04-16",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集到的新聞資料中，經審閱後，未發現任何關於周杰倫的報導或相關動態。因此，無法為您整理出周杰倫的最新焦點摘要。新聞列表主要涵蓋了其他國際藝人的活動，例如BTS、Justin Bieber、Bruno Mars等，周杰倫本人並無提及。",
+      "key_events": [
+        "無周杰倫相關報導"
+      ],
+      "created_at": "2026-04-16 06:28:10"
+    },
     {
       "id": 23,
       "report_date": "2026-04-15",
@@ -645,21 +660,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard、Tyga To Star In 'Baby, You're A Star' Opposite Madison Bailey - Deadline、Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs - Billboard",
       "created_at": "2026-04-10 06:24:49"
-    },
-    {
-      "id": 17,
-      "report_date": "2026-04-09",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "今日搜集的新聞報導中，並未發現任何與周杰倫直接相關的內容。主要娛樂新聞焦點集中在Kanye West的音樂節爭議與其復出動態，以及Michael Jackson遺產處理的相關報導。",
-      "key_events": [
-        "無周杰倫新聞",
-        "Kanye West爭議",
-        "MJ遺產糾紛"
-      ],
-      "created_at": "2026-04-09 06:11:01"
     }
   ]
 }
