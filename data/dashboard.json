@@ -6,21 +6,13 @@
     "neutral": 7
   },
   "allTimeStats": {
-    "total": 900,
-    "positive": 322,
-    "negative": 44,
-    "neutral": 534,
+    "total": 926,
+    "positive": 335,
+    "negative": 45,
+    "neutral": 546,
     "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-04-02",
-      "total": 14,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 14,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-03",
       "total": 17,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-17",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 920,
+      "title": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-get-tickets-2026-michael-movie-online-1236224331/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "The film stars Michael Jackson's nephew Jaafar. The long-awaited biopic centers around Michael Jackson’s early life and career. ### Michael Jackson. ### ‘Michael’ 2026. The 2026 ‘Michael’ film stars Michael Jackson’s nephew Jaafar. The film begins with Michael’s early life growing up in Gary, Ind., to becoming a Motown artist at just age 6 and frontman of the Jackson 5. Michael was still with the Jackson 5 when he released his debut solo single, “Got to Be There.” The song reached No. 4 on the Billboard Hot 100 and No. 4 on the R  13 of his singles went No. 1 on the Hot 100.",
+      "published_at": "Thu, 16 Apr 2026 18:17:54 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森的傳記電影《Michael》，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 921,
+      "title": "Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/music/every-record-justin-bieber-and-skylrk-broke-before-coachella-weekend-2-11842726",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2. While the true triumph was that Bieber staged an evocative, genuine set, the hard data backs up that he and his SKYLRK brand also pulled off the most successful Coachella takeover by every available measure. Various outlets have reported that Bieber's reported $10 million for headlining Coachella is the richest earnings of any artist in the festival's history. Bieber also generated the highest ticket demand and the priciest tickets sold, while his 90-minute performance became the most viewed in Coachella history. Bieber and Neima Khaila co-founded SKYLRK, which officially launched last July. Bieber wore nothing but blue silk SKYLRK boxers and black SKYLRK socks while performing a stripped-back version of \"YUKON\" at the 2026 Grammys on Feb. 1, and he sported a SKYLRK outfit on the Coachella stage last weekend. ## The MAGA Trump Divorce, Six Months Later | Opinion.",
+      "published_at": "Fri, 17 Apr 2026 04:49:00 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了小賈斯汀（Justin Bieber）在科切拉音樂節上創下的多項紀錄，包括最高收入、門票需求和觀看次數，並推廣了他的SKYLRK品牌。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 922,
+      "title": "TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
+      "link": "https://rocknloadmag.com/tenille-townes-releases-introspective-self-produced-new-album-the-acrobat/",
+      "source": "Tavily (rocknloadmag.com)",
+      "snippet": "# Tenille Townes Releases Introspective, Self-Produced New Album ‘The Acrobat’. **TENILLE TOWNES****RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM*****THE ACROBAT***. Friday, April 10 – Today, acclaimed singer-songwriter **Tenille Townes** released her highly anticipated new album ***The Acrobat***. The song also gained support from media with Holler describing the tune as *“a quietly devastating song that confronts the emotional cost of loving someone at the expense of yourself.”* PopMatterspraised “we could use a little more,” stating how the track’s “*uncompromising quietude demonstrates how loud the world has become”*and on title track “the acrobat” featuring Lori McKenna*,*Music Row applauded the *“starkly compelling artistry where you hang on every line.”*No Depressionhas already dubbed the record *“a terrific act of creative transformation.”*. Whether on record or on stage, Townes continues to create what she calls a “safe space” for listeners.Her live shows balance moments of quiet reflection with joy and release, grounded in the belief that music can help people feel less alone.*“The greatest measure of success for me is the stories people share about how a song helped them,”*she says.",
+      "published_at": "Sun, 12 Apr 2026 16:30:23 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導加拿大歌手Tenille Townes發行新專輯《The Acrobat》，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 923,
+      "title": "Isaia Huron confronts love, projection, and self-definition on ‘Mr. Lovebomb’ [Interview] - EARMILK",
+      "link": "https://earmilk.com/2026/04/10/isaia-huron-confronts-love-projection-and-self-definition-on-mr-lovebomb-interview/",
+      "source": "Tavily (earmilk.com)",
+      "snippet": "Alternative R&B, soul, and pop singer, songwriter, and producer **Isaia Huron** has released his new record ***Mr. Lovebomb***, a title that feels as much like a societal critique as it does a personal moniker, reclaiming and owning a term often loaded with projection. More on his new record, Huron talks about how there was a particular song that came together early on that helped define the direction of *Mr. Lovebomb*: “The first song I made was “Side Slider,\" which is obviously the last song, but I needed to try to build a story that led up to this point of the main character having a moment of clarity of why he feels justified to cheat on his girl through the lens of uncovering why he's broken. Huron continues: ‘These guys have made it so easy for me to produce a record that, in essence, feels cohesive sonically and makes way for the story to shine through.",
+      "published_at": "Fri, 10 Apr 2026 21:37:49 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導歌手Isaia Huron發行新專輯《Mr. Lovebomb》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 924,
+      "title": "Freshmen Share Their Experiences on M-A’s Varsity Teams - M-A Chronicle",
+      "link": "https://machronicle.com/freshmen-share-their-experiences-on-m-as-varsity-teams/",
+      "source": "Tavily (machronicle.com)",
+      "snippet": "Despite being in his first high school swim season, freshman Agustin Araya has already become a crucial part of the swim team. “I’ve been swimming for a long time outside of school, and I just always show up to practice when required, and put in my best effort,” Araya said. Moeller is honored to be the only freshman on the varsity team. “I’m very happy to be a freshman on varsity and [to be] representing my school in games,” she said. Freshman Calista Chou has found a home in her varsity volleyball team. I had a really fun time being able to play with my team at a high level,” she said. “I am very happy to be a freshman on varsity, and it helped me boost my confidence,” he said. “Being on varsity has helped me to talk with upperclassmen and make friends with more people who are older than me,” he said.",
+      "published_at": "Thu, 16 Apr 2026 04:16:48 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於高中新生參與校隊的經驗，其中提及一位名為Calista Chou的學生，但與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 925,
+      "title": "Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list - Music News",
+      "link": "https://www.music-news.com/news/UK/188377/Anderson-Paak-praised-as-magician-and-legend-as-he-s-named-on-Time-100-list",
+      "source": "Tavily (www.music-news.com)",
+      "snippet": "# Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list. Anderson .Paak has been praised as a \"magician\" and a \"legend\" after he was named as one of Time magazine's 100 Most Influential People of 2026. She wrote in Time magazine: \"You haven’t really heard the Beatles until you’ve heard Anderson .Paak on the piano at 4 a.m., alone, sounding out \"The Long and Winding Road.\" He’s a magician. American Pie star Natasha also commended Anderson for being \"humbly aware that he’s the keeper of this endless trove of ideas, songs, and stories\". Last May, Anderson let the news slip about his Mariah collaboration while appearing on social media series Track Star - where guests try to identify mystery songs - as he correctly guessed the 57-year-old star's 1996 song Always Be My Baby. Anderson - who was wearing a T-shirt featuring Mariah's face - said: \"This would be Mariah Carey.",
+      "published_at": "Thu, 16 Apr 2026 11:08:41 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Anderson .Paak入選《時代》雜誌百大影響力人物。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 926,
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set - BBC",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o",
+      "source": "Tavily (www.bbc.com)",
+      "snippet": "# Justin Bieber headlines Coachella with nostalgia-fuelled set. Justin Bieber made a nostalgia-fuelled return to the major stage as Coachella's much-anticipated headline act. It marked the star's biggest live show in four years, having cancelled his Justice world tour following health issues. Dressed in a hoodie and shorts on a stripped-back stage, Bieber was joined by musical guests including The Kid Laroi, Wizkid, Tems and Dijon. The star's wife Hailey Bieber was spotted in the crowd, alongside celebrity couple Timothée Chalamet and Kylie Jenner. Bieber cancelled his world tour after revealing he was suffering from facial paralysis, after being diagnosed with Ramsay Hunt syndrome - a complication from contracting shingles - in 2022. His Coachella set marked a starker departure from the previous night's headline act, Sabrina Carpenter, whose Hollywood-themed gig included costume changes, choreography and elaborate stage design. ## Bieber cancels remaining Justice world tour dates. ## Justin and Hailey Bieber announce birth of first child.",
+      "published_at": "Sun, 12 Apr 2026 10:07:58 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了小賈斯汀在Coachella音樂節的復出演出，詳述了他的健康狀況與家庭生活，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 913,
       "title": "Jin: ‘My Biggest Dream Has Been to Go on Tour With BTS’ - Rolling Stone",
@@ -456,120 +554,31 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導Kehlani與Missy Elliott合作新歌並向Aaliyah致敬。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 893,
-      "title": "Here Is 80 Acres Self-Titled EP ’80 Acres’ - Country Swag",
-      "link": "https://countryswag.com/80-acres-self-titled-ep/",
-      "source": "Tavily (countryswag.com)",
-      "snippet": "80 Acres with frontman Dylan Marlowe, share their debut self-titled EP, *80 Acres**,* out now, April 8th on all streaming platforms. Dylan Marlowe is a name you have probably heard of across the country music landscape. *80 Acres shares their self-titled EP, out now on all streaming platforms.*. Fans can join our Weekly Round-Up e-newsletter here, for the latest in country music and more news about future 80 Acres releases. *80 Acres EP* is available everywhere you buy or stream music. Take a listen below and check out more new recently released music on our ‘New Country Music’ playlist. Be sure to give the playlist a follow for your weekly new country music fix. https://countryswag.com/wp-content/uploads/2026/04/80-acres.jpg 630 1200   Erica Zisman  https://countryswag.com/wp-content/uploads/2021/05/logo-new-cs-white.png  Erica Zisman2026-04-08 20:57:052026-04-08 20:57:05Here Is 80 Acres Self-Titled EP ’80 Acres’. **Kasey Tyndall & Dylan Marlowe Join Forces on New Song**. **Dylan Marlowe Makes Label Debut with New Song “Record High”**. **Dylan Marlowe Shares Highly-Anticipated New Song “Sorryville”**.",
-      "published_at": "Thu, 09 Apr 2026 00:57:05 GMT",
-      "collected_at": "2026-04-12 06:14:43",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導介紹了鄉村音樂團體80 Acres及其主唱Dylan Marlowe發行的首張同名EP，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 894,
-      "title": "Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1 - billboard.com",
-      "link": "https://www.billboard.com/music/concerts/bruno-mars-the-romantic-tour-setlist-every-song-night-1-1236220593/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Bruno Mars’ The Romantic Tour Setlist: Every Song From Night 1. The first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session/. Arguably, Bruno Mars has held the keys to the Las Vegas Strip for more than a decade, thanks to two record-breaking residencies at The Cosmopolitan and Dolby Live, which have brought in more than $200 million. All this … and a parade with Hello Kitty made the debut of Mars’ The Romantic Tour an unforgettable occasion for the sold-out crowd that gathered to celebrate Mars both during the day and later that night at Allegiant Stadium. As for the main event, the first of his two shows in Las Vegas, Mars kicked off the two-hour maximalist soul, funk and pop jam session, around 8:50 p.m., and didn’t relinquish until he played every new track, old hit and crowd favorite — even bringing back Silk Sonic with Anderson .Paak. Visit Billboard Pro for music business news.",
-      "published_at": "Sat, 11 Apr 2026 06:01:58 GMT",
-      "collected_at": "2026-04-12 06:14:43",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於火星人布魯諾（Bruno Mars）在拉斯維加斯的「The Romantic Tour」演唱會歌單與盛況，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 895,
-      "title": "Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’ - Billboard",
-      "link": "https://www.billboard.com/music/rb-hip-hop/bruno-mars-romantic-tour-vegas-parade-key-donation-day-1236220895/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Bruno Mars Kicks off The Romantic Tour in Las Vegas & Receives Key to the Strip on ‘Bruno Mars Day’. Vegas honored the pop supernova with a parade, while Bruno pledged a $1 million donation to the Intermountain Health Nevada Children's Hospital. Bruno Mars kicked off The Romantic Tour on Friday night (April 10) with a sold-out show in front of more than 60,000 fans packing Allegiant Stadium in Las Vegas. ### Bruno Mars' The Romantic Tour Setlist: Every Song From Night 1. Bruno started the day in style with a ride down the Strip in a vintage convertible for a parade honoring his contributions to the Las Vegas entertainment scene, as April 10 was renamed to Bruno Mars Day in Sin City. The Grammy-winning artist was given the key to the Las Vegas Strip, while Park Avenue outside Park MGM was renamed to Bruno Mars Drive. The Romantic Tour continues on Saturday night (April 11) when Bruno Mars returns to the Allegiant Stadium stage for another cinematic performance.",
-      "published_at": "Sat, 11 Apr 2026 20:39:08 GMT",
-      "collected_at": "2026-04-12 06:14:43",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導火星人布魯諾在拉斯維加斯開啟浪漫巡演，獲頒城市鑰匙並捐款百萬美元，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 896,
-      "title": "Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show - Billboard",
-      "link": "https://www.billboard.com/lists/jackson-wang-tour-best-moments-brooklyn/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Jackson Wang’s MAGIC MAN 2 Is Where Happiness Prevails: Best Moments From His Brooklyn Show. Three years after lighting up the stage at Barclays Center for his first tour, Jackson Wang partied it up once more at the iconic Brooklyn, New York, venue on Friday (April 10). ### Jackson Wang Talks Inspiration for ‘MAGIC MAN 2’: ‘What Do I Want to Say as a Person?’. On social media, Magic Man concerts are essentially known for Wang’s viral and sexy interactions with his fans. For a string of three unreleased songs — “Shadows on the Wall,” “Contact” and “Closer” — Wang’s dancers brought four lucky fans on stage to sit down and enjoy the singer’s full attention on them. He revealed that the first song off the project is “Sex God.” The song featuring Pusha T and produced by Pharrell Williams debuted at the Louis Vuitton Fall Winter 2026 Show at Paris Fashion Week, but Wang confirmed that it would usher in a new era to shed away Magic Man.",
-      "published_at": "Sat, 11 Apr 2026 19:35:38 GMT",
-      "collected_at": "2026-04-12 06:14:43",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導王嘉爾在布魯克林成功舉辦「MAGIC MAN 2」演唱會，並預告新歌及音樂新紀元，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 887,
-      "title": "Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics - TMZ",
-      "link": "https://www.tmz.com/2026/04/10/jackson-family-attends-michael-movie-premiere-in-berlin/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Jackson Family Hits the Red Carpet at the 'Michael' Premiere, See the Pics. ## Michael Jackson It's A Family Affair At Premiere of 'Michael' Biopic. The Jackson family was all smiles during Friday's world premiere of \"Michael\" at the Uber Eats Music Hall in Berlin, Germany. **Jackie Jackson**, **Jermaine Jackson** and **Jaafar Jackson** posed for pics on the red carpet alongside **Juliano Valdi**, who plays young **Michael Jackson** in the biopic. But noticeably absent was MJ's daughter **Paris**, whorecently **slammed** Michael's attorney, **John Branca**,for the film's \"botched production\" ... #### Paris Jackson Accuses MJ's Estate Executors of Using Dad's Fortune to Bully Her. #### Michael Jackson Estate Accounting Report Shows $$$ Spent on Prince, Paris & Blanket. #### Michael Jackson's Estate Paid Millions for Hefty 'Michael' Biopic Reshoots. #### Paris Jackson Goes to Salon Amid Legal Drama With Michael's Estate. Prince Jackson   Blanket Jackson   Jackie Jackson   Michael Jackson   Jermaine Jackson   Jaafar Jackson   Paris Jackson   John Branca   Miles Teller   Musicians   Jackson Family   Movies.",
-      "published_at": "Fri, 10 Apr 2026 21:06:38 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "負面",
-      "sentiment_score": 0.25,
-      "summary": "麥可傑克森傳記電影《Michael》首映，傑克森家族成員出席，但女兒Paris Jackson缺席並公開批評電影製作與遺產執行人。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 888,
-      "title": "BTS stays at No. 1 on the charts — and thwarts Ye in the process - WYSO Public Radio",
-      "link": "https://www.wyso.org/npr-news/2026-04-09/bts-stays-at-no-1-on-the-charts-and-thwarts-ye-in-the-process",
-      "source": "Tavily (www.wyso.org)",
-      "snippet": "Three albums debut in the top five of this week's *Billboard* albums chart. Last week, a No. 1 debut for BTS's *Arirang* seemed as inevitable as the tides: The K-pop boy band didn't have much competition beyond country star Luke Combs (whose *The Way I Am* debuted at No. 2), and the group had already banked six No. 1 albums in its career. This week, *Arirang*'s continued chart dominance seemed like less of a given, seeing as how a huge percentage of its first-week numbers came from album sales (which don't carry over from week to week), while the latest round of debuts figured to be similarly formidable. It needed those sales, too, because three albums debut just behind it in this week's top five, led by Ye — the rapper formerly known as Kanye West — and his long-delayed new release *Bully*, which debuts at No. 2. Aided by a new video that premiered on April 1 — and in line for *another* chart boost after Langley's album *Dandelion* drops this Friday — \"Choosin' Texas\" is this week's most-streamed song.",
-      "published_at": "Thu, 09 Apr 2026 16:11:18 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於BTS、Ye等藝人的專輯榜單表現，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 889,
-      "title": "Jaylen Brown with the And-1!, 04/10/2026 - Yahoo Sports",
-      "link": "https://sports.yahoo.com/videos/jaylen-brown-1-015821619.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. * Jaylen Brown talks Celtics season high scoring night with 148 points over NetsAbby Chin is joined by Jaylen Brown courtside after the Celtics blowout the Brooklyn Nets. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026. * Jaylen Brown with 41 points vs. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-cant-believe-got-063449577.html). * Jaylen Brown with 32 points vs. * Jaylen Brown with 43 points vs. * Jaylen Brown with 34 points vs. * Jaylen Brown with 31 points vs. *[Jaylen Brown talks Celtics season high scoring night with 148 points over Nets originally appeared on NBC Sports Boston*. Now PlayingPausedAd Playing](https://sports.yahoo.com/videos/jaylen-brown-talks-celtics-season-081822441.html). * Kawhi Leonard gets the And-1Kawhi Leonard gets the And-1, 04/07/2026.",
-      "published_at": "Sat, 11 Apr 2026 01:58:21 GMT",
-      "collected_at": "2026-04-11 05:40:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導的是籃球運動員Jaylen Brown的比賽表現，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 24,
-    "report_date": "2026-04-16",
+    "id": 25,
+    "report_date": "2026-04-17",
     "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 7,
-    "daily_summary": "今日搜集到的新聞資料中，經審閱後，未發現任何關於周杰倫的報導或相關動態。因此，無法為您整理出周杰倫的最新焦點摘要。新聞列表主要涵蓋了其他國際藝人的活動，例如BTS、Justin Bieber、Bruno Mars等，周杰倫本人並無提及。",
-    "key_events": [
-      "無周杰倫相關報導"
-    ],
-    "created_at": "2026-04-16 06:28:10"
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard、Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek、TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
+    "created_at": "2026-04-17 06:28:03"
   },
   "recentReports": [
+    {
+      "id": 25,
+      "report_date": "2026-04-17",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard、Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek、TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
+      "created_at": "2026-04-17 06:28:03"
+    },
     {
       "id": 24,
       "report_date": "2026-04-16",
@@ -649,17 +658,6 @@
         "無相關新聞"
       ],
       "created_at": "2026-04-11 05:42:47"
-    },
-    {
-      "id": 18,
-      "report_date": "2026-04-10",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Tyga to Make Feature Film Debut in Coming-of-Age Drama Alongside ‘Outer Banks’ Star Madison Bailey - Billboard、Tyga To Star In 'Baby, You're A Star' Opposite Madison Bailey - Deadline、Ziggy Marley Shares Why He Decided to Release His New Album Exclusively on Vinyl & CDs - Billboard",
-      "created_at": "2026-04-10 06:24:49"
     }
   ]
 }

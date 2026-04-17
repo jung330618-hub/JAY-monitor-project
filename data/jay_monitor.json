@@ -5482,11 +5482,11 @@
       "snippet": "影音／昆凌甜曬出遊片！周董「抱娃當攝影師」 24日發片藏浪漫密碼  TVBS新聞網",
       "published_at": "2026-03-17T07:30:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞報導昆凌分享家庭出遊影片，周杰倫溫馨抱娃擔任攝影師，並暗示新歌發片日藏有浪漫寓意。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 393,
@@ -5496,11 +5496,11 @@
       "snippet": "周杰倫、阿信、F3夢幻合唱橫掃冠軍！驚人成績曝光  Yahoo新聞",
       "published_at": "2025-12-07T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與阿信、F3的夢幻合唱取得了驚人的成功，橫掃各大榜單冠軍。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 394,
@@ -5510,11 +5510,11 @@
       "snippet": "周杰倫首度參加澳網！慘遭秒殺「連球都碰不到」 關鍵原因曝光了  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫首度參加澳網！慘遭秒殺「連球都碰不到」 關鍵原因曝光了 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 395,
@@ -5524,11 +5524,11 @@
       "snippet": "周杰倫澳網「被秒殺」碰不到球！輸球首發聲：只能在場邊做1事  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.4,
+      "summary": "周杰倫在澳網網球賽中失利，甚至未能碰到球，賽後他首次發聲表示只能在場邊觀看。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 396,
@@ -5538,11 +5538,11 @@
       "snippet": "周杰倫參戰澳網球沒碰到秒敗！費德勒看到了狂虧 天王尷尬：好糗  Yahoo新聞",
       "published_at": "2026-01-15T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫在澳網球賽中秒敗並被費德勒幽默調侃，展現了天王尷尬又親民的一面。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 397,
@@ -5552,11 +5552,11 @@
       "snippet": "周杰倫澳網籤表國籍是「中國」 首輪站著不動遭秒殺淘汰  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "新聞以幽默諷刺的方式，報導周杰倫在澳網籤表上國籍被列為「中國」，並虛構他「站著不動遭秒殺淘汰」的情境。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 398,
@@ -5566,11 +5566,11 @@
       "snippet": "周杰倫澳網被秒殺「呆掉」表情包瘋傳 台灣女將奪亞軍無緣2千萬獎金  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫在澳網被秒殺後，其「呆掉」表情包在網路上瘋傳，成為熱門話題。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 399,
@@ -5580,11 +5580,11 @@
       "snippet": "睽違3年8個月，周杰倫推出第16張個人專輯《太陽之子》，以12首全新創作歌曲及特別收錄給歌迷的禮物〈聖誕星〉共計13首歌，首波同名主打〈太陽之子〉MV即將曝光，這支長達6分58秒的MV充滿了創意巧思，並結合精彩的動畫與後製，杰威爾音樂將於3月24日在電影院舉辦全球首映會，邀請媒體與幸運的100位歌迷一同欣賞周杰倫的最新 ...",
       "published_at": "2026-03-17T23:26:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫睽違三年多推出第16張新專輯《太陽之子》，包含13首歌曲，首波主打MV將舉辦全球首映會。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 400,
@@ -5594,11 +5594,11 @@
       "snippet": "天王周杰倫（周董）第16張個人專輯《太陽之子》預告即將於3月25日全球發行。距離上張專輯已睽違3年8個月，周董這次一口氣集結12首全新創作，加上特別送給歌迷的禮物〈聖誕星〉共13首歌曲。同名主打歌〈太陽之子〉MV長達6分58秒，結合酷炫動畫與後製，杰威爾音樂更將於3月24日在電影院舉辦全球首映會，邀請100位幸運歌迷見證天王回歸。",
       "published_at": "2026-03-17T22:40:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫睽違三年多將發行第16張個人專輯《太陽之子》，收錄13首新歌，並將舉辦MV全球首映會，預告天王強勢回歸。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 401,
@@ -5608,11 +5608,11 @@
       "snippet": "天王 周杰倫 相隔3年8個月發片，以12首全新創作歌曲及特別收錄給歌迷的禮物「聖誕星」，共計13首歌曲集結成最新專輯「太陽之子」，首波同名主打「太陽之子」MV長達6分58秒，而這次的專輯名稱竟來自另一位天王 張學友 親自取名。",
       "published_at": "2026-03-17T21:14:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫暌違3年8個月發行新專輯《太陽之子》，收錄13首歌曲並推出同名主打MV，專輯名稱更由天王張學友親自取名。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 402,
@@ -5622,11 +5622,11 @@
       "snippet": "周杰倫新專輯《太陽之子》來了！這絕對是 2026 最猛開局，畢竟光是短短幾秒鐘的前導就讓大家躁動，《太陽之子》是周杰倫第 16 張個人專輯，大家早已破不及待，只能從 Teaser 畫面中尋找蛛絲馬跡，猜測周董會端出什麼樣的酷東西。以下就為 GQ 讀者解析周杰倫新專輯《太陽之子》的細節！ 周杰倫新專輯《太陽之子》名稱含義 其實「太陽之子」是歌神張學友對周杰倫的暱稱與認證。這個稱號源於 2023 年時 ...",
       "published_at": "2026-03-17T23:22:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞詳細解析周杰倫即將於2026年發行的第16張個人專輯《太陽之子》，包括其名稱由來及粉絲的高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 403,
@@ -5636,11 +5636,11 @@
       "snippet": "天王周杰倫（周董）將推出睽違3年8個月的新專輯，他在今（18日）凌晨0點準時釋出19秒新歌預告，醉心藝術的他，預告以象徵主義畫家古斯塔夫克林姆的代表作〈吻〉為靈感，並正式宣告，新專輯名為《太陽之子》，集結12首全新創作歌曲及特別收錄給歌迷的禮物〈聖誕星〉。",
       "published_at": "2026-03-17T21:20:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫宣布將推出睽違已久的新專輯《太陽之子》，內含12首全新創作歌曲及特別收錄曲，並將開放100名歌迷參加發片記者會。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 404,
@@ -5650,11 +5650,11 @@
       "snippet": "華語樂壇 2026年最令人期待的大事，莫過於是天王周杰倫第16張個人專輯誕生了！他以12首全新創作歌曲及特別收錄給歌迷的禮物〈聖誕星〉，共計13首歌曲集結成最新專輯《太陽之子》，首波同名主打〈太陽之子〉MV充滿了創意巧思，並結合精彩的動畫與後製，杰威爾音樂將於3月24日在電影院舉辦全球首映會，邀請媒體與幸運的100位歌迷一同欣賞。",
       "published_at": "2026-03-17T21:35:21.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫即將於2026年發行第16張全新專輯《太陽之子》，收錄13首歌曲，並將舉辦全球首映會。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 405,
@@ -5664,11 +5664,11 @@
       "snippet": "周杰倫今（18）日凌晨零點釋出19秒新歌預告片，MV由導演廖人帥操刀，暗黑華麗的風格搭配金色畫面、蝙蝠與古城堡元素，被認為致敬其經典舊作〈威廉古堡〉，更有網友發現畫面靈感來自奧地利畫家古斯塔夫克林姆的世界名畫《吻》，短短幾秒便吸引全球歌迷熱烈討論。另外，周杰倫將於3月24日舉行新專輯全球發片記者會，這天也剛好是愛妻昆凌2008年從《我愛黑澀會》進入演藝圈的紀念日。",
       "published_at": "2026-03-17T20:00:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫釋出19秒新歌預告片，MV致敬經典並融入藝術元素，引發歌迷熱烈討論，且新專輯發片日巧合地與愛妻昆凌的出道紀念日重疊。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 406,
@@ -5678,11 +5678,11 @@
       "snippet": "天王周杰倫（周董）果然守約！他先前在社群平台表示，18日開始一天一首Teaser，24日將舉辦新歌記者會，今（18日）凌晨零時，周董如約驚喜釋出19秒新歌預告片。MV影像媲美電影等級，導演廖人帥也同步揭露MV是致敬畫家古斯塔夫克林姆的代表作《吻》（Der Kuss），連師弟派偉俊也忍不住留言驚嘆：「這是要拍電影嗎？」 ...",
       "published_at": "2026-03-17T22:26:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫如約釋出19秒新歌預告片，影像媲美電影並致敬名畫，記者會更藏有昆凌密碼，引發高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 407,
@@ -5692,11 +5692,11 @@
       "snippet": "周杰倫推出第16張全新專輯《太陽之子》，並宣布將於3月24日在台北舉辦MV全球首映與專輯記者會，特別邀請媒體與100位幸運歌迷一同進場參與，搶先欣賞新作內容。這場結合音樂與影像的盛會，也被視為2026年華語樂壇最受矚目的重磅回歸。",
       "published_at": "2026-03-17T21:37:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫將舉辦新專輯《太陽之子》的MV全球首映與記者會，邀請媒體與幸運歌迷搶先參與，被視為華語樂壇的重磅回歸。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 408,
@@ -5706,11 +5706,11 @@
       "snippet": "天王周杰倫再度掀起話題！他將於3月24日舉辦新專輯發片記者會，巧合的是，這一天正好撞上老婆昆凌2008年自《我愛黑澀會》踏入演藝圈的出道日，被粉絲解讀為暗藏浪漫巧思，也讓這場回歸不只是音樂事件，更添甜蜜話題。 華語樂壇天王周杰倫又出招了！全新專輯MV預告短短幾秒就掀起全球粉絲瘋狂討論，讓「周董粉絲」立刻陷入暴動，熱度直逼破表。（圖／翻攝自周杰IG） 周杰倫今（18日）凌晨0點如約釋出新歌19秒預告 ...",
       "published_at": "2026-03-17T21:06:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯發片日巧合撞上愛妻昆凌出道紀念日，被粉絲解讀為浪漫巧思，引發熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 409,
@@ -5720,11 +5720,11 @@
       "snippet": "天王周杰倫第16張個人專輯即將推出，興奮不已的粉絲更是從Teaser畫面中尋找蛛絲軌跡，試圖揭開新歌的神秘面紗，距離上張專輯，睽違3年8個月的時間，周杰倫以12首全新創作歌曲及特別收錄給歌迷的禮物「聖誕星」，共計13首歌曲集結成最新專輯《太陽之子》，首波同名主打〈太陽之子〉MV即將以酷炫之姿與大家見面，這支長達6分58秒的MV充滿了創意巧思，並結合精彩的動畫與後製，杰威爾音樂將於3月24日在電影院 ...",
       "published_at": "2026-03-17T21:13:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "快訊／周杰倫新專輯名稱出爐！幕後推手是張學友 發行日期是這天",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 410,
@@ -5734,11 +5734,11 @@
       "snippet": "2026年華語樂壇最令人期待的重磅消息正式曝光！天王周杰倫宣告即將推出第16張個人全新專輯《太陽之子》。距離上一張專輯已相隔3年8個月，隨著首波預告密集釋出，粉絲們紛紛從充滿藝術氣息的畫面中尋找蛛絲馬跡。這次的新專輯共集結了13首歌曲，包含12首全新創作以及特別收錄給歌迷的驚喜禮物〈聖誕星〉。數位專輯將於3月25日全球同步發行，實體專輯則於4月10日全面上市，並搶先在3月19日下午1點全面開啟預購 ...",
       "published_at": "2026-03-17T21:11:00.000Z",
       "collected_at": "2026-03-18 06:55:34",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫宣布將推出第16張全新專輯《太陽之子》，收錄13首歌曲，數位專輯3月25日發行，實體專輯3月19日開放預購。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 411,
@@ -12865,6 +12865,104 @@
       "summary": "此新聞資訊主要報導麥可·B·喬丹在CinemaCon上展示其新片《偷天換日》預告片，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 920,
+      "title": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard",
+      "link": "https://www.billboard.com/culture/product-recommendations/how-to-get-tickets-2026-michael-movie-online-1236224331/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "The film stars Michael Jackson's nephew Jaafar. The long-awaited biopic centers around Michael Jackson’s early life and career. ### Michael Jackson. ### ‘Michael’ 2026. The 2026 ‘Michael’ film stars Michael Jackson’s nephew Jaafar. The film begins with Michael’s early life growing up in Gary, Ind., to becoming a Motown artist at just age 6 and frontman of the Jackson 5. Michael was still with the Jackson 5 when he released his debut solo single, “Got to Be There.” The song reached No. 4 on the Billboard Hot 100 and No. 4 on the R  13 of his singles went No. 1 on the Hot 100.",
+      "published_at": "Thu, 16 Apr 2026 18:17:54 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森的傳記電影《Michael》，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 921,
+      "title": "Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/music/every-record-justin-bieber-and-skylrk-broke-before-coachella-weekend-2-11842726",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2. While the true triumph was that Bieber staged an evocative, genuine set, the hard data backs up that he and his SKYLRK brand also pulled off the most successful Coachella takeover by every available measure. Various outlets have reported that Bieber's reported $10 million for headlining Coachella is the richest earnings of any artist in the festival's history. Bieber also generated the highest ticket demand and the priciest tickets sold, while his 90-minute performance became the most viewed in Coachella history. Bieber and Neima Khaila co-founded SKYLRK, which officially launched last July. Bieber wore nothing but blue silk SKYLRK boxers and black SKYLRK socks while performing a stripped-back version of \"YUKON\" at the 2026 Grammys on Feb. 1, and he sported a SKYLRK outfit on the Coachella stage last weekend. ## The MAGA Trump Divorce, Six Months Later | Opinion.",
+      "published_at": "Fri, 17 Apr 2026 04:49:00 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了小賈斯汀（Justin Bieber）在科切拉音樂節上創下的多項紀錄，包括最高收入、門票需求和觀看次數，並推廣了他的SKYLRK品牌。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 922,
+      "title": "TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
+      "link": "https://rocknloadmag.com/tenille-townes-releases-introspective-self-produced-new-album-the-acrobat/",
+      "source": "Tavily (rocknloadmag.com)",
+      "snippet": "# Tenille Townes Releases Introspective, Self-Produced New Album ‘The Acrobat’. **TENILLE TOWNES****RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM*****THE ACROBAT***. Friday, April 10 – Today, acclaimed singer-songwriter **Tenille Townes** released her highly anticipated new album ***The Acrobat***. The song also gained support from media with Holler describing the tune as *“a quietly devastating song that confronts the emotional cost of loving someone at the expense of yourself.”* PopMatterspraised “we could use a little more,” stating how the track’s “*uncompromising quietude demonstrates how loud the world has become”*and on title track “the acrobat” featuring Lori McKenna*,*Music Row applauded the *“starkly compelling artistry where you hang on every line.”*No Depressionhas already dubbed the record *“a terrific act of creative transformation.”*. Whether on record or on stage, Townes continues to create what she calls a “safe space” for listeners.Her live shows balance moments of quiet reflection with joy and release, grounded in the belief that music can help people feel less alone.*“The greatest measure of success for me is the stories people share about how a song helped them,”*she says.",
+      "published_at": "Sun, 12 Apr 2026 16:30:23 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導加拿大歌手Tenille Townes發行新專輯《The Acrobat》，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 923,
+      "title": "Isaia Huron confronts love, projection, and self-definition on ‘Mr. Lovebomb’ [Interview] - EARMILK",
+      "link": "https://earmilk.com/2026/04/10/isaia-huron-confronts-love-projection-and-self-definition-on-mr-lovebomb-interview/",
+      "source": "Tavily (earmilk.com)",
+      "snippet": "Alternative R&B, soul, and pop singer, songwriter, and producer **Isaia Huron** has released his new record ***Mr. Lovebomb***, a title that feels as much like a societal critique as it does a personal moniker, reclaiming and owning a term often loaded with projection. More on his new record, Huron talks about how there was a particular song that came together early on that helped define the direction of *Mr. Lovebomb*: “The first song I made was “Side Slider,\" which is obviously the last song, but I needed to try to build a story that led up to this point of the main character having a moment of clarity of why he feels justified to cheat on his girl through the lens of uncovering why he's broken. Huron continues: ‘These guys have made it so easy for me to produce a record that, in essence, feels cohesive sonically and makes way for the story to shine through.",
+      "published_at": "Fri, 10 Apr 2026 21:37:49 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導歌手Isaia Huron發行新專輯《Mr. Lovebomb》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 924,
+      "title": "Freshmen Share Their Experiences on M-A’s Varsity Teams - M-A Chronicle",
+      "link": "https://machronicle.com/freshmen-share-their-experiences-on-m-as-varsity-teams/",
+      "source": "Tavily (machronicle.com)",
+      "snippet": "Despite being in his first high school swim season, freshman Agustin Araya has already become a crucial part of the swim team. “I’ve been swimming for a long time outside of school, and I just always show up to practice when required, and put in my best effort,” Araya said. Moeller is honored to be the only freshman on the varsity team. “I’m very happy to be a freshman on varsity and [to be] representing my school in games,” she said. Freshman Calista Chou has found a home in her varsity volleyball team. I had a really fun time being able to play with my team at a high level,” she said. “I am very happy to be a freshman on varsity, and it helped me boost my confidence,” he said. “Being on varsity has helped me to talk with upperclassmen and make friends with more people who are older than me,” he said.",
+      "published_at": "Thu, 16 Apr 2026 04:16:48 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於高中新生參與校隊的經驗，其中提及一位名為Calista Chou的學生，但與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 925,
+      "title": "Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list - Music News",
+      "link": "https://www.music-news.com/news/UK/188377/Anderson-Paak-praised-as-magician-and-legend-as-he-s-named-on-Time-100-list",
+      "source": "Tavily (www.music-news.com)",
+      "snippet": "# Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list. Anderson .Paak has been praised as a \"magician\" and a \"legend\" after he was named as one of Time magazine's 100 Most Influential People of 2026. She wrote in Time magazine: \"You haven’t really heard the Beatles until you’ve heard Anderson .Paak on the piano at 4 a.m., alone, sounding out \"The Long and Winding Road.\" He’s a magician. American Pie star Natasha also commended Anderson for being \"humbly aware that he’s the keeper of this endless trove of ideas, songs, and stories\". Last May, Anderson let the news slip about his Mariah collaboration while appearing on social media series Track Star - where guests try to identify mystery songs - as he correctly guessed the 57-year-old star's 1996 song Always Be My Baby. Anderson - who was wearing a T-shirt featuring Mariah's face - said: \"This would be Mariah Carey.",
+      "published_at": "Thu, 16 Apr 2026 11:08:41 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Anderson .Paak入選《時代》雜誌百大影響力人物。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 926,
+      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set - BBC",
+      "link": "https://www.bbc.com/news/articles/c75kx5dw395o",
+      "source": "Tavily (www.bbc.com)",
+      "snippet": "# Justin Bieber headlines Coachella with nostalgia-fuelled set. Justin Bieber made a nostalgia-fuelled return to the major stage as Coachella's much-anticipated headline act. It marked the star's biggest live show in four years, having cancelled his Justice world tour following health issues. Dressed in a hoodie and shorts on a stripped-back stage, Bieber was joined by musical guests including The Kid Laroi, Wizkid, Tems and Dijon. The star's wife Hailey Bieber was spotted in the crowd, alongside celebrity couple Timothée Chalamet and Kylie Jenner. Bieber cancelled his world tour after revealing he was suffering from facial paralysis, after being diagnosed with Ramsay Hunt syndrome - a complication from contracting shingles - in 2022. His Coachella set marked a starker departure from the previous night's headline act, Sabrina Carpenter, whose Hollywood-themed gig included costume changes, choreography and elaborate stage design. ## Bieber cancels remaining Justice world tour dates. ## Justin and Hailey Bieber announce birth of first child.",
+      "published_at": "Sun, 12 Apr 2026 10:07:58 GMT",
+      "collected_at": "2026-04-17 06:26:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了小賈斯汀在Coachella音樂節的復出演出，詳述了他的健康狀況與家庭生活，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -13201,6 +13299,17 @@
         "無周杰倫相關報導"
       ],
       "created_at": "2026-04-16 06:28:10"
+    },
+    {
+      "id": 25,
+      "report_date": "2026-04-17",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard、Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek、TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
+      "created_at": "2026-04-17 06:28:03"
     }
   ],
   "notification_logs": [
@@ -13623,11 +13732,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-04-16 06:28:11"
+    },
+    {
+      "id": 61,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-17 06:28:04"
+    },
+    {
+      "id": 62,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-04-17 06:28:04"
     }
   ],
   "_meta": {
-    "nextArticleId": 920,
-    "nextReportId": 25,
-    "nextLogId": 61
+    "nextArticleId": 927,
+    "nextReportId": 26,
+    "nextLogId": 63
   }
 }
