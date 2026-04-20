@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
-    "positive": 2,
+    "total": 7,
+    "positive": 0,
     "negative": 0,
-    "neutral": 10
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 949,
+    "total": 956,
     "positive": 337,
     "negative": 45,
-    "neutral": 567,
-    "avg_score": 0.64
+    "neutral": 574,
+    "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-04-05",
-      "total": 13,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 13,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-06",
       "total": 14,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.57
+    },
+    {
+      "date": "2026-04-20",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 950,
+      "title": "Jackson legacy on the line as ‘Michael’ biopic divides the family once more - New York Post",
+      "link": "https://nypost.com/2026/04/19/entertainment/jackson-legacy-on-the-line-as-michael-biopic-divides-the-family-once-more/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Jackson legacy on the line as ‘Michael’ biopic divides the family once more. “In what should be a great time for this family, a time when everyone really gets a chance to not only rally around [ailing family matriarch] Katherine and the memory of Michael, but to celebrate Jaafar, there is still division,” a family source told The Post. On one side, three of the Jackson 5 family band which launched Michael’s career: Jermaine, 71, Jackie, 74, and Marlon, 69, who all returned to Gary, their hometown, this week joined by their children and a packed crowd for the premiere. On the other side stand Randy and Janet Jackson, Michael’s closest siblings in age. Long considered the outlier in the family, Randy’s strained relations are partly rooted in one of the most personal betrayals in Jackson family history — when Jermaine married Alejandra Oaziaza, the mother of two of Randy’s children, Steven and Genevieve, in 1995. “There’s never been a doubt that the Jackson cousins have been closer than the Jackson siblings,” a source said.",
+      "published_at": "Sun, 19 Apr 2026 12:00:00 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森傳記電影上映後，傑克森家族內部因電影和過往恩怨再次產生分歧。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 951,
+      "title": "Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026 - Billboard",
+      "link": "https://www.billboard.com/video/kehlani-folded-changed-everything-billboard-women-in-music/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Billboard Women in Music 2026 Impact Award recipient Kehlani takes us deep into her creative process and emotional journey behind her hit “Folded” and her self-titled album. Like, this song is so toxic.” And other people are like, “Oh, girl, it’s a sex song. Like, she just wanted to get cracked.” And then there’s other songs that’s like, “OK, so they had you messed up and you’re just gonna take them back and you just folded the clothes like that?” I’m like, “Oh, wow, let’s talk about it some more.”. We made one song, and I was like, “It is not time for this weird-ass album. Like, it’s not time for this right now. Like, if there was ever a time, it’s right now. I just came out of it and went on kind of this redemption tour of, like, “Let me see who really is still here with me through all the chaos.” And I was like, “OK.",
+      "published_at": "Sat, 18 Apr 2026 16:00:00 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026 - Billboard",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 952,
+      "title": "Boston Celtics star Jaylen Brown wins top honor for his...interviews? - Celtics Wire",
+      "link": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/04/13/celtics-star-jaylen-brown-wins-top-honor-for-his-interviews/89599017007/",
+      "source": "Tavily (celticswire.usatoday.com)",
+      "snippet": "Boston Celtics star Jaylen Brown wins top honor for his...interviews? # Boston Celtics star Jaylen Brown wins top honor for his...interviews? Jaylen Brown has made a name for himself in NBA media circles for his thoughtful, and at times, unguarded answers about a variety of topics both on and off the court since joining the league in 2016. Brown was honored with a nod for the organization of journalists covering the sport for their First Team All-Interview. According to the PBWA, the designation, \"which honors the players who are consistently thoughtful, insightful and engaging with the media,\" saw the Cal alum come in fifth overall in votes among those participating in the voting. San Antonio Spurs star Victor Wembanyama and Golden State Warriors legend Stephen Curry were the top two vote-getters, along with the rest of the First Team, Kevin Durant of the Houston Rockets, Donovan Mitchell of the Cleveland Cavaliers, and Brown.",
+      "published_at": "Tue, 14 Apr 2026 00:04:00 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導波士頓塞爾提克球星Jaylen Brown因其訪談表現獲得媒體組織的榮譽，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 953,
+      "title": "Boys Volleyball Dominates Burlingame in Short Game - M-A Chronicle",
+      "link": "https://machronicle.com/boys-volleyball-dominates-burlingame-in-short-game/",
+      "source": "Tavily (machronicle.com)",
+      "snippet": "Senior defensive specialist Jaden Clark took the service line and delivered a series of clean serves that forced the Panthers into an early timeout with the Bears leading 3-0. Adding on, junior setter Coen Chou wasted no time finding momentum, setting up senior outside hitter Ben Warner\\* for a sharp hit on the line to extend the lead to 5-0. Sandoval continued to anchor the back row, while a series of blocks at the net by Cunningham and Warner forced the Panthers into faults, extending the lead to 19-9. Chou set up Warner for another shocker of a hit to reach 13-7, where Warner remained a force at the net, nailing a hit into the side of the court to further extend the lead to 15-8. Robbins fired a hit into a gap in the Panthers’ defense to reach match point, and a final block by Chou and Cunningham ended the set 25-11, concluding a three-set victory for M-A.",
+      "published_at": "Sat, 18 Apr 2026 06:54:10 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Boys Volleyball Dominates Burlingame in Short Game - M-A Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 954,
+      "title": "Justin Bieber Coachella Debate Rages Over One Question: Was His Set Perfectly Minimal or Not Enough? - Billboard",
+      "link": "https://www.billboard.com/media/podcasts/justin-bieber-coachella-debate-pop-shop-podcast-1236221842/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "One of those people was *Billboard*‘s own Lyndsey Havens, who, in her recap of the performance, praised Bieber for managing “to make a polo field of strangers feel like a late-night hang among close friends.” While some concertgoers and YouTube stream watchers similarly praised the set’s minimalist aesthetic — a lo-fi feel that definitely matched Bieber’s pair of 2025 albums *SWAG* and *SWAG II* — others compared the performance to JB’s fellow 2026 headliner Sabrina Carpenter or even Beyoncé’s famous 2018 Beychella set and wondered how he got away with doing so little on the biggest festival stage in the U.S. On the new *Billboard Pop Shop Podcast*, Katie & Keith are discussing the active debate — as well as the sea of special guests (Jennifer Lopez! Casual pop fans and chart junkies can hear*Billboard*‘s executive digital director, West Coast, Katie Atkinson and*Billboard*’s managing director, charts and data operations, Keith Caulfield every week on the podcast, which can be streamed on Billboard.com or**downloaded in Apple**Podcasts or your favorite podcast provider.",
+      "published_at": "Wed, 15 Apr 2026 00:52:06 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Justin Bieber Coachella Debate Rages Over One Question: Was His Set Perfectly Minimal or Not Enough? - Billboard",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 955,
+      "title": "Billie Eilish Drops New ‘Hit Me Hard and Soft: The Tour’ Film Trailer - Billboard",
+      "link": "https://www.billboard.com/music/music-news/billie-eilish-new-hit-me-hard-and-soft-the-tour-film-trailer-1236221727/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Billie Eilish Drops New ‘Hit Me Hard and Soft: The Tour’ Film Trailer. The 10-time Grammy-, two-time Oscar-winning singer dropped a new trailer for her upcoming concert film *Hit Me Hard and Soft: The Tour (Live in 3D)* on Monday (April 13). The new three-minute-long trailer follows Eilish and three-time Oscar winner James Cameron as Eilish gets ready to perform for thousands of fans and Cameron prepares to capture the moment. On top of getting a look at how Cameron and Eilish filmed the singer’s concert, fans also get behind-the-scenes looks at how Eilish gets ready for a sold-out performance in the trailer. Her songs, including the Billboard Hot 100 No. 1 hit “Bad Guy” and “Chihiro,” are played over moments of Eilish on- and offstage as the words “Prepare for her vision / her words / her world” flash on the screen. *Hit Me Hard and Soft: The Tour (Live in 3D),* co-directed by Cameron and Eilish, hits theaters on May 8.",
+      "published_at": "Mon, 13 Apr 2026 20:26:21 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Billie Eilish Drops New ‘Hit Me Hard and Soft: The Tour’ Film Trailer - Billboard",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 956,
+      "title": "Kehlani On 'Folded,' Staying True To Her Moral Compass and More - Billboard",
+      "link": "https://www.billboard.com/music/awards/kehlani-women-in-music-2026-impact-1236222816/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Around the same time, Kehlani dropped “Folded,” the throwback slow jam that slowly grew into the biggest hit of her career, reaching No. 6 on the Billboard Hot 100 (her first top 10 on the chart) and eventually winning Grammys for best R&B song and best R&B performance. “You could think this is the furthest I’m ever going to go and this is the biggest it’s ever going to get,” says this year’s Women in Music Impact honoree, “and then God just surprises you and says, ‘No, I thought bigger for you always.’ ”. I really want some of these songs to make it into movies … and ultimately just have a really historical personal moment for me, and hopefully keep adding to the genre because that’s the coolest thing that “Folded” has done beyond anything — I’m watching the conversation change and I’m a part of it.",
+      "published_at": "Fri, 17 Apr 2026 16:06:12 GMT",
+      "collected_at": "2026-04-20 07:30:24",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導歌手Kehlani的歌曲成就與事業發展。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 938,
       "title": "Kendrick Lamar’s Protégé Baby Keem Tells the Whole Story, Warts and All - The New York Times",
@@ -456,118 +554,31 @@
       "summary": "這則新聞報導牙買加雷鬼歌手Buju Banton回歸VP唱片並發行新單曲，同時宣布夏季巡演計畫，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 920,
-      "title": "How To Get Tickets To The 2026 'Michael' Movie Starring Jaafar Jackson - Billboard",
-      "link": "https://www.billboard.com/culture/product-recommendations/how-to-get-tickets-2026-michael-movie-online-1236224331/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "The film stars Michael Jackson's nephew Jaafar. The long-awaited biopic centers around Michael Jackson’s early life and career. ### Michael Jackson. ### ‘Michael’ 2026. The 2026 ‘Michael’ film stars Michael Jackson’s nephew Jaafar. The film begins with Michael’s early life growing up in Gary, Ind., to becoming a Motown artist at just age 6 and frontman of the Jackson 5. Michael was still with the Jackson 5 when he released his debut solo single, “Got to Be There.” The song reached No. 4 on the Billboard Hot 100 and No. 4 on the R  13 of his singles went No. 1 on the Hot 100.",
-      "published_at": "Thu, 16 Apr 2026 18:17:54 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於麥可傑克森的傳記電影《Michael》，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 921,
-      "title": "Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2 - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/music/every-record-justin-bieber-and-skylrk-broke-before-coachella-weekend-2-11842726",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# Every Record Justin Bieber and SKYLRK Broke Before Coachella Weekend 2. While the true triumph was that Bieber staged an evocative, genuine set, the hard data backs up that he and his SKYLRK brand also pulled off the most successful Coachella takeover by every available measure. Various outlets have reported that Bieber's reported $10 million for headlining Coachella is the richest earnings of any artist in the festival's history. Bieber also generated the highest ticket demand and the priciest tickets sold, while his 90-minute performance became the most viewed in Coachella history. Bieber and Neima Khaila co-founded SKYLRK, which officially launched last July. Bieber wore nothing but blue silk SKYLRK boxers and black SKYLRK socks while performing a stripped-back version of \"YUKON\" at the 2026 Grammys on Feb. 1, and he sported a SKYLRK outfit on the Coachella stage last weekend. ## The MAGA Trump Divorce, Six Months Later | Opinion.",
-      "published_at": "Fri, 17 Apr 2026 04:49:00 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了小賈斯汀（Justin Bieber）在科切拉音樂節上創下的多項紀錄，包括最高收入、門票需求和觀看次數，並推廣了他的SKYLRK品牌。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 922,
-      "title": "TENILLE TOWNES RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM THE ACROBAT - rocknloadmag.com",
-      "link": "https://rocknloadmag.com/tenille-townes-releases-introspective-self-produced-new-album-the-acrobat/",
-      "source": "Tavily (rocknloadmag.com)",
-      "snippet": "# Tenille Townes Releases Introspective, Self-Produced New Album ‘The Acrobat’. **TENILLE TOWNES****RELEASES INTROSPECTIVE, SELF-PRODUCED NEW ALBUM*****THE ACROBAT***. Friday, April 10 – Today, acclaimed singer-songwriter **Tenille Townes** released her highly anticipated new album ***The Acrobat***. The song also gained support from media with Holler describing the tune as *“a quietly devastating song that confronts the emotional cost of loving someone at the expense of yourself.”* PopMatterspraised “we could use a little more,” stating how the track’s “*uncompromising quietude demonstrates how loud the world has become”*and on title track “the acrobat” featuring Lori McKenna*,*Music Row applauded the *“starkly compelling artistry where you hang on every line.”*No Depressionhas already dubbed the record *“a terrific act of creative transformation.”*. Whether on record or on stage, Townes continues to create what she calls a “safe space” for listeners.Her live shows balance moments of quiet reflection with joy and release, grounded in the belief that music can help people feel less alone.*“The greatest measure of success for me is the stories people share about how a song helped them,”*she says.",
-      "published_at": "Sun, 12 Apr 2026 16:30:23 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導加拿大歌手Tenille Townes發行新專輯《The Acrobat》，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 923,
-      "title": "Isaia Huron confronts love, projection, and self-definition on ‘Mr. Lovebomb’ [Interview] - EARMILK",
-      "link": "https://earmilk.com/2026/04/10/isaia-huron-confronts-love-projection-and-self-definition-on-mr-lovebomb-interview/",
-      "source": "Tavily (earmilk.com)",
-      "snippet": "Alternative R&B, soul, and pop singer, songwriter, and producer **Isaia Huron** has released his new record ***Mr. Lovebomb***, a title that feels as much like a societal critique as it does a personal moniker, reclaiming and owning a term often loaded with projection. More on his new record, Huron talks about how there was a particular song that came together early on that helped define the direction of *Mr. Lovebomb*: “The first song I made was “Side Slider,\" which is obviously the last song, but I needed to try to build a story that led up to this point of the main character having a moment of clarity of why he feels justified to cheat on his girl through the lens of uncovering why he's broken. Huron continues: ‘These guys have made it so easy for me to produce a record that, in essence, feels cohesive sonically and makes way for the story to shine through.",
-      "published_at": "Fri, 10 Apr 2026 21:37:49 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導歌手Isaia Huron發行新專輯《Mr. Lovebomb》。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 924,
-      "title": "Freshmen Share Their Experiences on M-A’s Varsity Teams - M-A Chronicle",
-      "link": "https://machronicle.com/freshmen-share-their-experiences-on-m-as-varsity-teams/",
-      "source": "Tavily (machronicle.com)",
-      "snippet": "Despite being in his first high school swim season, freshman Agustin Araya has already become a crucial part of the swim team. “I’ve been swimming for a long time outside of school, and I just always show up to practice when required, and put in my best effort,” Araya said. Moeller is honored to be the only freshman on the varsity team. “I’m very happy to be a freshman on varsity and [to be] representing my school in games,” she said. Freshman Calista Chou has found a home in her varsity volleyball team. I had a really fun time being able to play with my team at a high level,” she said. “I am very happy to be a freshman on varsity, and it helped me boost my confidence,” he said. “Being on varsity has helped me to talk with upperclassmen and make friends with more people who are older than me,” he said.",
-      "published_at": "Thu, 16 Apr 2026 04:16:48 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於高中新生參與校隊的經驗，其中提及一位名為Calista Chou的學生，但與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 925,
-      "title": "Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list - Music News",
-      "link": "https://www.music-news.com/news/UK/188377/Anderson-Paak-praised-as-magician-and-legend-as-he-s-named-on-Time-100-list",
-      "source": "Tavily (www.music-news.com)",
-      "snippet": "# Anderson .Paak praised as ' magician' and 'legend' as he's named on Time 100 list. Anderson .Paak has been praised as a \"magician\" and a \"legend\" after he was named as one of Time magazine's 100 Most Influential People of 2026. She wrote in Time magazine: \"You haven’t really heard the Beatles until you’ve heard Anderson .Paak on the piano at 4 a.m., alone, sounding out \"The Long and Winding Road.\" He’s a magician. American Pie star Natasha also commended Anderson for being \"humbly aware that he’s the keeper of this endless trove of ideas, songs, and stories\". Last May, Anderson let the news slip about his Mariah collaboration while appearing on social media series Track Star - where guests try to identify mystery songs - as he correctly guessed the 57-year-old star's 1996 song Always Be My Baby. Anderson - who was wearing a T-shirt featuring Mariah's face - said: \"This would be Mariah Carey.",
-      "published_at": "Thu, 16 Apr 2026 11:08:41 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導Anderson .Paak入選《時代》雜誌百大影響力人物。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 926,
-      "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set - BBC",
-      "link": "https://www.bbc.com/news/articles/c75kx5dw395o",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "# Justin Bieber headlines Coachella with nostalgia-fuelled set. Justin Bieber made a nostalgia-fuelled return to the major stage as Coachella's much-anticipated headline act. It marked the star's biggest live show in four years, having cancelled his Justice world tour following health issues. Dressed in a hoodie and shorts on a stripped-back stage, Bieber was joined by musical guests including The Kid Laroi, Wizkid, Tems and Dijon. The star's wife Hailey Bieber was spotted in the crowd, alongside celebrity couple Timothée Chalamet and Kylie Jenner. Bieber cancelled his world tour after revealing he was suffering from facial paralysis, after being diagnosed with Ramsay Hunt syndrome - a complication from contracting shingles - in 2022. His Coachella set marked a starker departure from the previous night's headline act, Sabrina Carpenter, whose Hollywood-themed gig included costume changes, choreography and elaborate stage design. ## Bieber cancels remaining Justice world tour dates. ## Justin and Hailey Bieber announce birth of first child.",
-      "published_at": "Sun, 12 Apr 2026 10:07:58 GMT",
-      "collected_at": "2026-04-17 06:26:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了小賈斯汀在Coachella音樂節的復出演出，詳述了他的健康狀況與家庭生活，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 27,
-    "report_date": "2026-04-19",
-    "total_articles": 12,
-    "positive_count": 2,
+    "id": 28,
+    "report_date": "2026-04-20",
+    "total_articles": 7,
+    "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
-    "daily_summary": "根據您提供的今日新聞列表，經仔細檢閱後，並未發現任何與華語天王周杰倫直接相關的報導或焦點事件。因此，今日無法為您整理周杰倫的最新動態摘要。所有新聞皆聚焦於其他國際藝人與娛樂界資訊。",
-    "key_events": [],
-    "created_at": "2026-04-19 06:22:26"
+    "neutral_count": 7,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Jackson legacy on the line as ‘Michael’ biopic divides the family once more - New York Post、Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026 - Billboard、Boston Celtics star Jaylen Brown wins top honor for his...interviews? - Celtics Wire",
+    "created_at": "2026-04-20 07:30:38"
   },
   "recentReports": [
+    {
+      "id": 28,
+      "report_date": "2026-04-20",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Jackson legacy on the line as ‘Michael’ biopic divides the family once more - New York Post、Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026 - Billboard、Boston Celtics star Jaylen Brown wins top honor for his...interviews? - Celtics Wire",
+      "created_at": "2026-04-20 07:30:38"
+    },
     {
       "id": 27,
       "report_date": "2026-04-19",
@@ -643,17 +654,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-04-14 06:24:49"
-    },
-    {
-      "id": 21,
-      "report_date": "2026-04-13",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "'Michael' Clip of Jaafar Jackson's 'Billie Jean' Performance Slammed by Fans: 'F--king Atrocious' - TheWrap、How Following Raye’s Vision Led to a Career High Debut With ‘This Music May Contain Hope’ - Billboard、YouTuber Jesser Launches Parent Company, Preps Business Expansion - ADWEEK",
-      "created_at": "2026-04-13 07:30:30"
     }
   ]
 }
