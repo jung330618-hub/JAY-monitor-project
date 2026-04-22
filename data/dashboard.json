@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 10,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 10
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 966,
+    "total": 974,
     "positive": 337,
     "negative": 45,
-    "neutral": 584,
+    "neutral": 592,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-04-07",
-      "total": 12,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-08",
       "total": 14,
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-22",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 967,
+      "title": "A review of Michael, the long awaited biopic of Michael Jackson starring his nephew Jaafar Jackson and Colman Domingo as the demanding father Joe. Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/a-review-of-michael-the-long-awaited-biopic-of-michael-jackson-starring-his-neph/1315905797076424/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# A review of Michael, the long awaited... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. A review of Michael, the long awaited biopic of Michael Jackson starring his nephew Jaafar Jackson and Colman Domingo as the demanding father Joe. Image 1: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. ### 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Image 5: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Image 16: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. ### 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. I can Domingo being nominated for Best Supporting Actor, assuming the film tries to launch a bid for Oscars next year..... 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. I can Domingo being nominated for Best Supporting Actor, assuming the film tries to launch a bid for Oscars next year.....",
+      "published_at": "Tue, 21 Apr 2026 23:02:24 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為關於麥可傑克森傳記電影《Michael》的影評，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 968,
+      "title": "'Michael' review: Resurrecting the King of Pop, sans complications - AP News",
+      "link": "https://apnews.com/article/michael-jackson-movie-review-c1c8ba4f0a10421e507934b2d6c92358",
+      "source": "Tavily (apnews.com)",
+      "snippet": "This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Nia Long as Katherine Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Nia Long as Katherine Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP).",
+      "published_at": "Tue, 21 Apr 2026 13:00:11 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於電影《Michael》的評論，該片由Jaafar Jackson飾演麥可·傑克森。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 969,
+      "title": "'Michael' Review: Jaafar Jackson in Solid Michael Jackson Bio-Drama - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/movies/movie-reviews/michael-review-michael-jackson-biopic-jaafar-jackson-1236568847/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "### Michael Jackson Biopic 'Michael': First Reactions](https://www.hollywoodreporter.com/movies/movie-news/michael-jackson-biopic-first-reactions-1236570185/). Those and other signs of Jackson’s enduring popularity suggest that diehard fans of his music — some of us used to wait hours for “Billie Jean” to come around again on MTV — will still seize the opportunity to celebrate the legendary streak that took him from childhood Motown stardom to pop royalty, with the three certified banger albums produced by Quincy Jones, *Off the Wall*, *Thriller* and *Bad*. What makes all this compelling is the degree to which Jaafar Jackson, the son of Michael’s older brother Jermaine, disappears into the role of his celebrated uncle. Even more than a decade later, when Michael’s solo stardom had far eclipsed that of his work with his brothers — let alone his earning power — Joe remained a controlling bully, insisting that his most famous son continue touring with the Jacksons, as they became known when Jermaine left to pursue a solo career with Motown.",
+      "published_at": "Tue, 21 Apr 2026 13:00:00 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森傳記電影的初步評價，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 970,
+      "title": "‘Michael’ review: Michael Jackson biopic is painfully bad - New York Post",
+      "link": "https://nypost.com/2026/04/21/entertainment/michael-review-michael-jackson-biopic-is-painfully-bad/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# ‘Michael’ review: Michael Jackson biopic is painfully bad. How flabbergasting to see “Michael,” the new biopic about Michael Jackson, the best-selling solo artist of all time, crash and burn into such a cheap and embarrassing bore. Say what you will about Michael Jackson — and God knows there is plenty to say — he was not boring. In almost every moment of “Michael,” the King of Pop, played with panache and detail by his nephew Jaafar Jackson, is flashing a megawatt grin when he’s not staring longingly at his copy of “Peter Pan.” This Michael is perfect. That’s right — there is a scene in which Michael Jackson and Bubbles the chimp play Twister, underscored by “Blame It on the Boogie.”. In every sense, this is “Attorneys Present: The Michael Jackson Story.”. Jaafar Jackson plays his uncle Michael Jackson in \"Michael.\" ©Lions Gate/Courtesy Everett Collection.",
+      "published_at": "Tue, 21 Apr 2026 20:29:56 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於麥可傑克森傳記電影《Michael》的負面評論，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 971,
+      "title": "EXCLUSIVE: Complex Is Scaling Its Food Festival Family Style Into a Year-Round Media Brand - ADWEEK",
+      "link": "https://www.adweek.com/media/complex-family-style-food-festival-content/?itm_source=homepage&itm_medium=the-latest-left&itm_campaign=1",
+      "source": "Tavily (www.adweek.com)",
+      "snippet": "### Media News. # EXCLUSIVE: Complex Is Scaling Its Food Festival Family Style Into a Year-Round Media Brand. ## The streetwear brand is launching a slate of original programming for the brand while expanding its event footprint, projecting $20 million in revenue. Nearly two years after acquiring the food festival Family Style in May 2024, Complex is turning the brand into a full-fledged food media franchise. Now, the brand is extending into a year-round content operation, Complex chief executive Aaron Levant told ADWEEK. On Wednesday, the streetwear brand launched a dedicated YouTube channel for Family Style with four original series, an expansion that marks the most aggressive push into food from Complex since it was acquired by NTWRK in February 2024. Mark Stenberg is ADWEEK's senior media reporter. ## Media. #### YouTuber Jesser Launches Parent Company, Preps Business Expansion. The media company, which generates an eight-figure revenue, has content and product debuts coming later this year.",
+      "published_at": "Thu, 16 Apr 2026 18:54:17 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Complex媒體品牌將其美食節Family Style擴展為全年營運的媒體品牌，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 972,
+      "title": "Taemin Is Ready to Make an Even Bigger Impact During Coachella Weekend Two - WWD",
+      "link": "https://wwd.com/eye/people/taemin-coachella-1238917638/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "# Taemin Is Ready to Make an Even Bigger Impact During Coachella Weekend Two. The \"Idol's Idol\" is making history at the festival, bringing his most popular hits to the stage along with six new songs. Known as the “Idol’s Idol,” Taemin has established his legacy through strong stage performances and choreography, both as a solo artist and with second-generation K-pop group SHINee. This spring, he’s claimed a few “firsts” — he’s the first Korean solo male K-pop artist to be featured on the Coachella lineup, and the first to have a dedicated exhibition at the Grammy Museum. “ I want them to see the type of musician I am through the performances, the music and the way I’m expressing everything,” he says. “Justin Bieber performed on the same night that I did, and I really wanted to see his concert,” he says. “ As always, I think it’s gonna be very fun, as it always has been,” he says of performing with the group, which debuted in 2008.",
+      "published_at": "Thu, 16 Apr 2026 19:03:15 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要聚焦於K-pop藝人泰民在Coachella音樂節的歷史性演出及成就，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 973,
+      "title": "Kanye West Postpones Marseille Concert In Face Of Potential French Government Ban - Deadline",
+      "link": "https://deadline.com/2026/04/kanye-west-postpones-marseille-france-concert-1236861192/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "# Kanye West Postpones Marseille Concert In Face Of Potential French Government Ban. Kanye West has postponed a concert in the French port city of Marseille in June following news that France was studying options for banning the event due to his past antisemitic outbursts and pro-Nazi declarations. ### Kanye West: French Interior Minister Studying Options To Stop Marseille Concert](https://deadline.com/2026/04/kanye-west-french-interior-minister-ban-marseille-concert-1236860399/). ### Wireless Festival Canceled After Kanye West Blocked From Entering UK](https://deadline.com/2026/04/kanye-west-wireless-headline-controversy-antisemitic-remarks-1236783288/). West had been due to perform on June 11 at the Vélodrome stadium in Marseille, but news broke on Tuesday that French Interior Minister Laurent Nuñez was studying ways “all possibilities” to stop the concert. Back in the U.S., West’s first live performances in five years at the SoFi Stadium in Los Angeles in early April drew between 60,000 to 80,000 people a night and reportedly earned $33M between them, leaving music and concert organizer execs in a conundrum over how to move on next with the artist.",
+      "published_at": "Wed, 15 Apr 2026 07:19:00 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Kanye West演唱會因爭議言論而延期，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 974,
+      "title": "Kehlani Reveals Features On Self Titled Album - Majic 102.1",
+      "link": "https://myhoustonmajic.com/5543584/kehlani-reveals-features-on-self-titled-album/",
+      "source": "Tavily (myhoustonmajic.com)",
+      "snippet": "# Kehlani Reveals Features On Self Titled Album. 'Kehlani' Features: Lil Wayne, Missy Elliot, Usher, Clipse & More. ## Share the post. ### Share this link via. ### Or copy link. Kehlani and Cardi B have collaborated on a new song for Kehlani’s upcoming album, with Cardi being one of the many features on the project. The collaboration was teased in a Spotify trailer featuring Kehlani enjoying a girls’ night with cocktails named after the album’s featured artists. This marks the latest collaboration between Kehlani and Cardi B, with Cardi expressing excitement for the album’s release on her Instagram Story. Kehlani’s self-titled album is set to be released on Friday. More from Majic 102.1. * Hatta's Madd Vacation: Win The Ultimate Walt Disney World Experience. * Stuck on You: The Lovebug \"Invasion\" Taking Over Houston. Madd Hatta's Daily Dilemma. ## Stuck on You: The Lovebug “Invasion” Taking Over Houston. ## Love Majic 102.1? Join the Majic 102.1 Newsletter. ## Majic 102.1.",
+      "published_at": "Tue, 21 Apr 2026 00:10:03 GMT",
+      "collected_at": "2026-04-22 06:26:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導歌手Kehlani即將發行的新專輯及其合作藝人，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 957,
       "title": "‘Michael’ Premiere Photos: Michael Jackson’s Son Prince Shows Up On The Red Carpet - Deadline",
@@ -442,136 +554,39 @@
       "summary": "此新聞內容與華語歌手周杰倫無關，而是關於一位名叫Jay的男子在獄中尋獲希望的個人故事。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 943,
-      "title": "Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed - KUNM",
-      "link": "https://www.kunm.org/npr-news/2026-04-18/sitting-in-a-jail-cell-alone-and-hopeless-a-mans-life-is-suddenly-changed",
-      "source": "Tavily (www.kunm.org)",
-      "snippet": "# Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed. And so I started making poor decisions,\" Jay said. \"The next night I made a plan of how to do it, and I did it,\" Jay remembered. Jay made a plan to end his life. Jay had grown up religious, but had stopped going to church years before. He said yes, and listened as the man began to pray. \"I wish I could tell you that I remember the [exact] words that he said to me, but what I remember is that his words landed with me, and instead of wanting my life to be over, suddenly I saw hope,\" Jay said. The interaction happened nearly ten years ago, but it was a pivotal moment in Jay's life, and one he thinks about all the time. Jay says that he wishes he could meet that man again and express his appreciation.",
-      "published_at": "Sat, 18 Apr 2026 09:00:00 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "此新聞報導一名名為Jay的男子在獄中絕望後，透過信仰重獲希望的個人故事，與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 944,
-      "title": "Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed - KUAF Public Radio",
-      "link": "https://www.kuaf.com/npr-news/2026-04-18/sitting-in-a-jail-cell-alone-and-hopeless-a-mans-life-is-suddenly-changed",
-      "source": "Tavily (www.kuaf.com)",
-      "snippet": "# Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed. And so I started making poor decisions,\" Jay said. \"The next night I made a plan of how to do it, and I did it,\" Jay remembered. At around 1 that morning, Jay was placed in the county detention center. Jay made a plan to end his life. He said yes, and listened as the man began to pray. \"I wish I could tell you that I remember the [exact] words that he said to me, but what I remember is that his words landed with me, and instead of wanting my life to be over, suddenly I saw hope,\" Jay said. The interaction happened nearly ten years ago, but it was a pivotal moment in Jay's life, and one he thinks about all the time. Jay says that he wishes he could meet that man again and express his appreciation.",
-      "published_at": "Sat, 18 Apr 2026 09:00:00 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "一篇關於一名名叫Jay的男子在獄中絕望之際，因一次禱告經歷重獲希望，生命因此改變的勵志故事。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 945,
-      "title": "Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed - Tri States Public Radio | TSPR | WIUM",
-      "link": "https://www.tspr.org/npr-news/2026-04-18/sitting-in-a-jail-cell-alone-and-hopeless-a-mans-life-is-suddenly-changed",
-      "source": "Tavily (www.tspr.org)",
-      "snippet": "# Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed. And so I started making poor decisions,\" Jay said. \"The next night I made a plan of how to do it, and I did it,\" Jay remembered. Jay made a plan to end his life. Jay had grown up religious, but had stopped going to church years before. He said yes, and listened as the man began to pray. \"I wish I could tell you that I remember the [exact] words that he said to me, but what I remember is that his words landed with me, and instead of wanting my life to be over, suddenly I saw hope,\" Jay said. The interaction happened nearly ten years ago, but it was a pivotal moment in Jay's life, and one he thinks about all the time. Jay says that he wishes he could meet that man again and express his appreciation.",
-      "published_at": "Sat, 18 Apr 2026 09:00:00 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此報導講述一位名叫Jay的男子在獄中經歷絕望後重獲希望的個人故事，與歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 946,
-      "title": "Justin Bieber Goes Heavy On ‘Swag’ In Much-Anticipated Coachella Headlining Set - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/music/music-news/justin-bieber-coachella-2026-recap-1236561292/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "# Justin Bieber Goes Heavy On ‘Swag’ In Much-Anticipated Coachella Headlining Set. Bieber brought out The Kid Laroi to perform their smash hit stay, with other guests including Wizkid, Tems, Dijon and Mk.gee. Justin Bieber played his biggest concert in years as he headlined Coachella on Saturday night, delivering an intimate concert that leaned heavy on his *Swag* era and had Bieber mining through old YouTube clips on his laptop to take fans back to the early days. Kicking off at about 11:30 p.m., Bieber spent much of the first chunk of his set focused around his *Swag* era, opening with “All I Can Take” before going into “Speed Demon,” “First Place,” and “Go Baby.” He stuck with *Swag* songs until he brought out his first surprise guest of the evening, with The Kid Laroi coming out to perform their 2021 smash hit “Stay.”.",
-      "published_at": "Sun, 12 Apr 2026 10:20:10 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於小賈斯汀在Coachella音樂節的演出，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 947,
-      "title": "Oasis Wins Major Tour of the Year Honor at 2026 Pollstar Awards - Variety",
-      "link": "https://variety.com/2026/music/news/pollstar-awards-oasis-tours-kendrick-lamar-sza-benson-boone-1236723272/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Oasis’ Comeback Outing Wins ‘Major Tour of the Year’ Prize at Pollstar Awards, as Kendrick Lamar/SZA, Benson Boone and the Weeknd Also Score Top Honors. Other top winners in genre-based categories included Metallica (for rock tour of the year), Kendrick Lamar/SZA (hip-hop tour of the year), the Weeknd (R&B tour of the year), Benson Boone (pop tour of the year), Bad Bunny (Latin tour of the year), Adam Sandler (comedy tour of the year), and Chris Stapleton and Lainey Wilson (who tied for country tour of the year). Among the awards going to individuals were the award for promoter of the year, which went to Live Nation’s Arthur Fogel, a bit of good news amid a tough day for that company, plus Barclay Center’s Laurie Jacoby as venue executive of the year, Red Light’s Coran Capshaw as personal manager of the year, Shore Fire’s Rebecca Shapiro as publicist of the year, CAA’s Allison McGregor as marketing executive of the year, and another CAA honoree, Darryl Eaton, as agent of the year.",
-      "published_at": "Thu, 16 Apr 2026 06:07:25 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了2026年Pollstar Awards的各項巡演獎項得主，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 948,
-      "title": "Jerry Seinfeld, Weird Al Yankovic to Headline Just For Laughs 2026 - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/news/general-news/jerry-seinfeld-weird-al-yankovic-just-for-laughs-1236564273/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "Jerry Seinfeld and Weird Al Yankovic are returning to their comedy roots as headliners for the *Just For Laughs* comedy festival in Montreal in July, organizers said Wednesday. After directing his first movie, *Unfrosted,* for Netflix, Seinfeld will return to Montreal for its 2026 edition to perform his solo show, *Jerry Seinfeld Live*, on July 23 in the Place des Arts concert hall. ### Netflix Is a Joke Festival Sets 2026 Lineup: See Who Is Performing in Los Angeles in May](https://www.hollywoodreporter.com/tv/tv-news/netflix-is-a-joke-festival-2026-lineup-schedule-los-angeles-1236478031/). And Yankovic, who first played at JFL in Montreal in 1990, will perform his own solo show, *Weird Al Yankovic: Bigger and Weirder Tour,* for free on July 25 in the outdoor Place des Festivals venue. JFL organizers also announced their first wave of hosts for twice-nightly galas, including YouTube star Gabriel “Fluffy” Iglesias, *Trainwreck* actor Mike Birbiglia, Atsuko Okatsuka, whose second TV stand-up special streamed on Hulu and Disney+, and Gerry Dee, the *Animal Control* star.",
-      "published_at": "Wed, 15 Apr 2026 10:00:00 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Jerry Seinfeld和Weird Al Yankovic將擔任2026年Just For Laughs喜劇節的頭條表演者，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 949,
-      "title": "6LACK Shares New Single ‘Sunday Again’ Featuring 2 Chainz - Billboard",
-      "link": "https://www.billboard.com/music/rb-hip-hop/6lack-new-single-sunday-again-featuring-2-chainz-1236226092/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# 6LACK Shares New Single ‘Sunday Again’ Featuring 2 Chainz. 6LACK is back with new music. The Atlanta singer-rapper released “Sunday Again” featuring 2 Chainz on Friday, alongside a companion music video directed by Levi Turner, as the latest preview of his forthcoming album *Love Is the New Gangsta*, due May 22 via LVRN/Interscope Records. The video — which also features cameos from artists Mereba, umi, Quin and slimwav — sees 6LACK and 2 Chainz surrounded by friends and family in what the artist describes as a moment of community and serenity, reflecting the album’s central theme of universal love. The new album follows 6LACK’s 2023 effort *Since I Have a Lover*, which earned a Grammy nomination for Best Progressive R&B Album and received widespread critical praise from outlets including NPR, Pitchfork, Rolling Stone and Complex. His 2018 follow-up *East Atlanta Love Letter* peaked at No. 3 on the Billboard 200 and hit No. 1 on the Top R&B Albums chart.",
-      "published_at": "Sat, 18 Apr 2026 07:31:21 GMT",
-      "collected_at": "2026-04-19 06:21:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於歌手6LACK發布新單曲《Sunday Again》並預告即將推出的專輯，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 927,
-      "title": "Hailey Bieber Shares Video of Baby Jack Dancing to Justin Bieber at Coachella - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/music/hailey-bieber-shares-video-of-baby-jack-dancing-to-justin-bieber-at-coachella-11823159",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# Hailey Bieber Shares Video of Baby Jack Dancing to Justin Bieber at Coachella. On Monday, Hailey Bieber shared behind-the-scenes footage from the Bieber family takeover of Coachella, including 19-month-old Jack Blues Bieber. The first photo shows Hailey standing alongside Justin, who is holding baby Jack. Last Halloween, Hailey shared a photo of Jack wearing the famed purple hoodie and white jacket Justin wore fifteen years ago during his My World Tour. On April 5, Hailey posted an Instagram carousel showing Jack playing with her newly launched Rhode pimple stickers and Justin holding Jack on his lap while watching his 2011 \"Never Say Never\" documentary. On Jake Shane's \"Therapuss\" Season 3 premiere, Hailey Bieber revealed that Jack started saying, \"Baby, oh, Baby, oh\" because he had been listening to his dad's seminal hit \"Baby.\" She added, \"He honestly looks identical\" to Justin and had recently gotten his hair buzzed to \"look like dada.\".",
-      "published_at": "Mon, 13 Apr 2026 23:59:00 GMT",
-      "collected_at": "2026-04-18 05:57:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，主要描述海莉·比伯分享其兒子傑克與賈斯汀·比伯的家庭生活點滴。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 29,
-    "report_date": "2026-04-21",
-    "total_articles": 10,
+    "id": 30,
+    "report_date": "2026-04-22",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
-    "daily_summary": "今日娛樂新聞焦點集中在Michael Jackson傳記電影《Michael》的首映，包括其兒子Prince Jackson與飾演者Jafaar Jackson的發言。Justin Bieber於Coachella音樂節的演出、Kanye West演唱會延期，以及Kehlani、Usher、BIGBANG等藝人的新作品或巡演亦受矚目。然而，今日搜集到的新聞中，並未包含任何關於周杰倫的最新動態或相關報導。",
+    "neutral_count": 8,
+    "daily_summary": "今日新聞搜集結果顯示，並無任何關於周杰倫的報導或相關焦點。所有主要娛樂新聞集中於歐美藝人動態，例如麥可傑克森傳記電影《Michael》的評價與首映，肯伊威斯特因法國政府禁令而延期馬賽演唱會，以及小賈斯汀在Coachella音樂節的演出表現。此外，多位歌手如Kehlani、Billie Eilish、Bruno Mars等亦有新專輯、巡演及音樂節的最新消息。因此，今日無周杰倫的最新動態可供摘要。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫報導",
+      "《Michael》影評",
+      "Kanye演唱會延期"
     ],
-    "created_at": "2026-04-21 06:27:38"
+    "created_at": "2026-04-22 06:27:54"
   },
   "recentReports": [
+    {
+      "id": 30,
+      "report_date": "2026-04-22",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日新聞搜集結果顯示，並無任何關於周杰倫的報導或相關焦點。所有主要娛樂新聞集中於歐美藝人動態，例如麥可傑克森傳記電影《Michael》的評價與首映，肯伊威斯特因法國政府禁令而延期馬賽演唱會，以及小賈斯汀在Coachella音樂節的演出表現。此外，多位歌手如Kehlani、Billie Eilish、Bruno Mars等亦有新專輯、巡演及音樂節的最新消息。因此，今日無周杰倫的最新動態可供摘要。",
+      "key_events": [
+        "無周杰倫報導",
+        "《Michael》影評",
+        "Kanye演唱會延期"
+      ],
+      "created_at": "2026-04-22 06:27:54"
+    },
     {
       "id": 29,
       "report_date": "2026-04-21",
@@ -647,17 +662,6 @@
         "無周杰倫相關報導"
       ],
       "created_at": "2026-04-16 06:28:10"
-    },
-    {
-      "id": 23,
-      "report_date": "2026-04-15",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Watch James Taylor, Linda Ronstadt & More Laud Peter Asher in ‘Peter Asher: Everywhere Man’ Documentary Trailer - billboard.com、Why the Michael Jackson movie is already extremely controversial - USA Today、Kanye West's Legal Issues Grow With Ex-Bodyguard Seeking Nearly $1M - TMZ",
-      "created_at": "2026-04-15 06:26:12"
     }
   ]
 }
