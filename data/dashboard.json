@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 15,
+    "total": 12,
     "positive": 0,
     "negative": 0,
-    "neutral": 15
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 1026,
+    "total": 1038,
     "positive": 338,
     "negative": 45,
-    "neutral": 643,
-    "avg_score": 0.63
+    "neutral": 655,
+    "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-12",
-      "total": 4,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 4,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-13",
       "total": 6,
@@ -132,9 +124,185 @@
       "negative": 0,
       "neutral": 15,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-27",
+      "total": 12,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 12,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1027,
+      "title": "Kehlani Reacts to Her Complex Pop-Up in New York for Self-Titled Album: 'I LOVE YOU' - Complex",
+      "link": "https://www.complex.com/music/a/jadegomez510/kehlani-complex-nyc-pop-up-reaction",
+      "source": "Tavily (www.complex.com)",
+      "snippet": "# Kehlani Reacts to Her Complex Pop-Up in New York for Self-Titled Album: 'I LOVE YOU'. ## Complex and Kehlani teamed up to give fans an exclusive way to shop her self-titled album and meet the singer herself. Rain or shine, the fans made sure to pop out for Kehlani’s Complex Pop-Up to support her self-titled album. On Saturday (April 25), fans lined the streets of New York in the freezing rain for a chance to purchase the singer’s latest album, released the day prior. Her self-titled is supported by the smash hit single “Folded,” which earned the singer her first Grammy Awards for Best R&B Performance and Best R&B Song. In a Complex interview with Jillian Superstar, Kehlani recalled the emotions she had to process when creating the album. musicKehlani Celebrates New Self-Titled Album With Complex NY Pop-Up. To coincide with the arrival of her new album, Kehlani is bringing a one-day pop-up to Complex NY.",
+      "published_at": "Sun, 26 Apr 2026 06:24:07 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導歌手Kehlani為其新專輯在紐約舉辦快閃活動並與粉絲互動。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1028,
+      "title": "Siblings Detail Sexual Assault Lawsuit Against Michael Jackson Estate: “We Were Groomed” - Pitchfork",
+      "link": "https://pitchfork.com/news/siblings-detail-sexual-assault-lawsuit-against-michael-jackson-estate-we-were-groomed/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "# Siblings Detail Sexual Assault Lawsuit Against Michael Jackson Estate: “We Were Groomed”. In a new interview with *The New York Times*, five siblings who grew up with close ties to Michael Jackson have discussed their decision to sue the late singer’s estate for sexual assault. Marie-Nicole said Jackson first assaulted her at age 12, while he was staying in her family home after the September 11 attacks; for Dominic, the abuse allegedly began at age 8, during a trip to Euro Disney. The Cascio siblings sued the Jackson estate in February, alleging that the late singer abused and sexually trafficked them for periods that, collectively, spanned more than a decade. Before filing that lawsuit, however, the Cascio siblings confronted Jackson’s estate about the alleged abuse. Jackson’s history of abuse allegations dates back to 1993, when Los Angeles police launched an investigation into the artist based on accusations that he had molested four children, including a 13-year-old boy.",
+      "published_at": "Mon, 27 Apr 2026 00:43:19 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Siblings Detail Sexual Assault Lawsuit Against Michael Jackson Estate: “We Were Groomed” - Pitchfork",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1029,
+      "title": "'Michael' May Be 'Family-Friendly,' but It's a Movie That Taps Into Michael Jackson's Most Powerful Creative Fuel -- His Anger - Variety Australia",
+      "link": "https://au.variety.com/2026/film/features/michael-taps-michael-jacksons-most-powerful-fuel-his-anger-35923/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# ‘Michael’ May Be ‘Family-Friendly,’ but It’s a Movie That Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger. You might think the reason it’s going to make a jillion dollars is that a lot of people are only too happy to revel in a Michael Jackson biopic that’s all greatest-hits cues and nostalgic high points: a two-hour hologram of Michael mania. The film tells a very particular story, and what that story is about is the very source of Michael Jackson’s creative power. But the underlying story that “Michael” tells, in tracing Michael’s war with his father, is the saga of Michael Jackson’s anger. We think of Michael Jackson as a “family-friendly” performer because that’s the image he crafted for himself, and he was indeed that thing, yet he also worked in the tradition of pop musicians who expressed a volcanic wrath that had no other outlet but song.",
+      "published_at": "Sun, 26 Apr 2026 20:37:29 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要探討麥可傑克森傳記電影《Michael》如何呈現其創作動力源於憤怒，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1030,
+      "title": "Michael Overtakes Oppenheimer With Biggest Box Office Debut Ever for a Biopic - IGN Nordic",
+      "link": "https://nordic.ign.com/michael/106806/michael-overtakes-oppenheimer-with-biggest-box-office-debut-ever-for-a-biopic",
+      "source": "Tavily (nordic.ign.com)",
+      "snippet": "# Michael Overtakes Oppenheimer With Biggest Box Office Debut Ever for a Biopic. Michael made a huge $217 million at the global box office, enough to secure the record for the biggest opening weekend ever for a biopic. Michael is behind only The Super Mario Galaxy Movie in terms of global box office debuts this year. According to Variety, Michael cost nearly $200 million to produce (this includes reshoots for the third act totalling around $15 million). Michael’s box office success comes despite accusations of “whitewashing.” The movie ends in 1988 during the Bad tour, and does not feature Michael Jackson’s high-profile child abuse allegations. IGN’s Michael review returned a 3/10. Meanwhile, The Super Mario Galaxy Movie added another $36.7 million internationally this weekend after finally launching in Japan. The extended box office came after Amazon announced a return to Imax theaters for the Ryan Gosling sci-fi movie. Related reads:Debut Trailer for Upcoming Michael Jackson Biopic Gets Huge Views in First 6 Hours. ## Michael.",
+      "published_at": "Sun, 26 Apr 2026 19:56:54 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導電影《Michael》的全球票房表現，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1031,
+      "title": "Michael Overtakes Oppenheimer With Biggest Box Office Debut Ever for a Biopic - IGN Southeast Asia",
+      "link": "https://sea.ign.com/michael/241982/michael-overtakes-oppenheimer-with-biggest-box-office-debut-ever-for-a-biopic",
+      "source": "Tavily (sea.ign.com)",
+      "snippet": "# Michael Overtakes Oppenheimer With Biggest Box Office Debut Ever for a Biopic. Michael made a huge $217 million at the global box office, enough to secure the record for the biggest opening weekend ever for a biopic. Michael is behind only The Super Mario Galaxy Movie in terms of global box office debuts this year. According to Variety, Michael cost nearly $200 million to produce (this includes reshoots for the third act totalling around $15 million). Michael’s box office success comes despite accusations of “whitewashing.” The movie ends in 1988 during the Bad tour, and does not feature Michael Jackson’s high-profile child abuse allegations. IGN’s Michael review returned a 3/10. Meanwhile, The Super Mario Galaxy Movie added another $36.7 million internationally this weekend after finally launching in Japan. The extended box office came after Amazon announced a return to Imax theaters for the Ryan Gosling sci-fi movie. Related reads:Michael Actor Responds to 'Whitewashing' Claims to Say Allegations May Be Dealt With in a Sequel. ## michael.",
+      "published_at": "Sun, 26 Apr 2026 19:56:54 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森傳記電影《Michael》的票房表現，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1032,
+      "title": "New Michael Jackson Movie’s Rave Audience Reception Slammed By Major Director: “People Just Want To Forget” - ScreenRant",
+      "link": "https://screenrant.com/michael-jackson-movie-2026-audience-response-dan-reed-criticism/",
+      "source": "Tavily (screenrant.com)",
+      "snippet": "# New Michael Jackson Movie’s Rave Audience Reception Slammed By Major Director: “People Just Want To Forget”. How can you tell an authentic story about Michael Jackson without ever mentioning the fact that he was seriously accused of being a child molester? If anyone’s making money, it’s Michael Jackson’s estate and the people who worked on this biographical picture. For Reed, this proves that most audiences *\"don't care that [Michael Jackson] was a child molester\"* and would rather enjoy his music without confronting the allegations. But there was enough noise online from those simplistic debunking [videos] that people found it easy to give themselves permission to like Michael Jackson’s music again, if they ever stopped liking it. And short of having actual video evidence of Michael Jackson engaged in sexual intercourse with a 7-year-old child, I don’t know what would be sufficient to change these people’s minds.",
+      "published_at": "Sun, 26 Apr 2026 14:04:03 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要討論麥可傑克森電影因其對戀童癖指控的處理方式而引發的爭議，以及觀眾對此的反應。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1033,
+      "title": "Badminton Senior Night Ends in Tenacious Defeat to Aragon - M-A Chronicle",
+      "link": "https://machronicle.com/badminton-senior-night-ends-in-tenacious-defeat-to-aragon/",
+      "source": "Tavily (machronicle.com)",
+      "snippet": "First seeded girls singles senior Viet-Tran Do, however, despite closely losing the first set, won the second and third set with pinpoint precision and accuracy, closing with a final score of 19-21, 21-15, and 21-15. Despite many early losses, second-seeded girls singles sophomore Stella Huang pulled off a quick and decisive win. Second-seeded girls doubles seniors Annika Furukawa and Jenna Lee\\* had a close first set, conceding 21-18. Boys doubles couldn’t find the same success, with third-seeded juniors Caleb Swartzberg and Dylan Chou losing 21-11, 21-10 due to their opponents’ overpowering smashes. Third-seeded girls doubles freshman Alexandra Tong and sophomore Khanya Mtwa had a closer match, losing the first set 21-16, but coming back to win 21-15 and 21-14 in the second and third sets with dominant offensive rallies. However, second-seeded boys singles freshman Joshua Luo conceded 21-16, 21-16 due to nimble and accurate smashes by his opponent, despite consistent rallies.",
+      "published_at": "Sun, 26 Apr 2026 06:38:01 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於一場羽毛球比賽的結果，其中提及一位名叫Dylan Chou的學生，但與藝人周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1034,
+      "title": "Margot Robbie, Jacob Elordi star in 'Wuthering Heights' teaser trailer - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/GMA/Culture/margot-robbie-jacob-elordi-star-wuthering-heights-teaser/story?id=125262512",
+      "source": "Tavily (abcnews.com)",
+      "snippet": "# Margot Robbie, Jacob Elordi star in 'Wuthering Heights' teaser trailer. The teaser trailer is set to a 2024 Charli XCX song. Fall in love again and again with the official teaser trailer for \"Wuthering Heights.\". The trailer is set to Charli XCX's \"Everything Is Romantic,\" and the film also features original songs by the \"Brat\" superstar. Charli XCX took to Instagram on Wednesday to share the film's trailer. Margot Robbie stars alongside Jacob Elordi in new Chanel No. 5 ad campaign. \"new original songs by me for Emerald Fennell's 'Wuthering Heights' starring Margot Robbie and Jacob Elordi. ## Iran live updates: Iranian FM will meet with Putin in Russia, official says. * Apr 26, 4:59 PM. * Apr 19, 10:21 PM. ## Iran live updates: Iranian FM will meet with Putin in Russia, official says. * Apr 26, 4:59 PM. * Apr 19, 10:21 PM. ## Roommate charged with murder of 2 USF doctoral students: Sheriff. * Apr 25, 3:55 PM.",
+      "published_at": "Sun, 26 Apr 2026 23:24:19 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導了Margot Robbie和Jacob Elordi主演的《咆哮山莊》預告片，以及其他國際新聞和社會事件。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1035,
+      "title": "BTS world tour setlist. See all the songs from ‘Dynamite’ to deep cuts - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/04/26/bts-world-tour-setlist-arirang/89753603007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "See all the songs from ‘Dynamite’ to deep cuts. # BTS world tour setlist. See all the songs from ‘Dynamite’ to deep cuts. BTS talk making 'Hooligan' and favorite 'Arirang' tracks. BTS discuss the makings of their new comeback album \"Arirang,\" and why the track \"Hooligan\" was particularly difficult. The global superstars kicked off the U.S. leg of their world tour with three sold-out shows at Raymond James Stadium in Florida. BTS members Jin, Suga, J-Hope, RM, Jimin, V and Jungkook showcased “ARIRANG,” playing 12 out of the album's 14 tracks and still nodded to their most well-known hits like “Butter” and “Dynamite” throughout the 2.5-hour set. They’ve returned as a \"2.0\" version of themselves, more evolved and refined. Yet there's a sense of familiarity, a return to their origins in both heritage and early hip-hop influences. ## BTS ARIRANG Tour setlist. * Boy with Luv (rotating song).",
+      "published_at": "Mon, 27 Apr 2026 03:28:00 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於韓國團體BTS的全球巡演歌單及新專輯，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1036,
+      "title": "BTS Kick Off \"ARIRANG\" US Tour: See the 23-Song Setlist - Consequence of Sound",
+      "link": "https://consequence.net/2026/04/bts-arirang-tampa-tour-kick-off-setlist/",
+      "source": "Tavily (consequence.net)",
+      "snippet": "BTS kicked off the North American leg of their “ARIRANG World Tour” with the first of three shows at Raymond James Stadium in Tampa, Florida, on Saturday night. The show’s second act boasted *ARIRANG* tracks “2.0.,” “NORMAL,” “FYA” and “Body to Body,” plus fan favorites “MIC DROP” and “IDOL.” For the encore, BTS ran through classics like “Butter,” “Dynamite,” the tour debut of “Permission to Dance,” and “Magic Shop.” Check out the band’s full setist below. BTS will play two more shows in Tampa before making their way to El Paso, Mexico City, Stanford, and Las Vegas as part of the first leg of their American tour. **BTS 2026 North American Tour Dates:**. 04/26 – Tampa, FL @ Raymond James Stadium. 04/28 – Tampa, FL @ Raymond James Stadium. 05/16 – Stanford, CA @ Stanford Stadium. 05/17 – Stanford, CA @ Stanford Stadium. 08/15 – Arlington, TX @ AT&T Stadium. 08/16 – Arlington, TX @ AT&T Stadium.",
+      "published_at": "Sun, 26 Apr 2026 14:27:50 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要報導韓國團體BTS的北美巡迴演唱會詳情與日期，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1037,
+      "title": "‘Michael’ moonwalks to $97 million opening, shattering record for music biopics - The Zimbabwe Mail",
+      "link": "https://thezimbabwemail.com/entertainment/movies/michael-moonwalks-to-97-million-opening-shattering-record-for-music-biopics/",
+      "source": "Tavily (thezimbabwemail.com)",
+      "snippet": "Home Entertainment Movies ‘Michael’ moonwalks to $97 million opening, shattering record for music biopics. NEW YORK — “Michael,” the big-budget Michael Jackson spectacle, shrugged off bad reviews and a troubled production to launch with $97 million in U.S. and Canada theaters, according to studio estimates Sunday, shattering a record debut for music biopics. “Michael” collected $120.4 million overseas, to give it a $217.4 million global opening — a new high for a music biopic. The opening for “Michael” added to a strong spring for Hollywood boosted by box-office hits like Amazon MGM’s “Project Hail Mary” and Universal’s “The Super Mario Galaxy Movie.” After three weeks atop the box office, the “Mario” sequel slid to second place, with $21.2 million. 2. “The Super Mario Galaxy Movie,” $21.2 million. 3. “Project Hail Mary,” $13.2 million. 5. “The Drama,” $2.6 million. 6. “Hoppers,” $1.9 million. 9. “Mother Mary,” $1.2 million.",
+      "published_at": "Sun, 26 Apr 2026 20:44:34 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導麥可傑克森傳記電影的票房表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1038,
+      "title": "Michael moonwalks to $217m opening weekend, shattering box office records for a biopic - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/apr/27/michael-jackson-biopic-record-box-office",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Michael moonwalks to $217m opening weekend, shattering box office records for a biopic. Michael Jackson biopic has shrugged off controversy, bad reviews and a troubled production to take $217m worldwide, including $97m in North America. Michael, the big-budget Michael Jackson biopic, has shrugged off bad reviews and a troubled production to launch with a $97m opening in North American theaters, contributing to its enormous $217m (£160m, A$303m) worldwide box office and shattering the record for the biggest biopic opening of all time. The film, a highly authorised portrayal of the “king of pop” that was co-produced by the Jackson estate and stars Jackson’s nephew Jaafar Jackson, took $120.4m internationally and $97m domestic – combining to surpass Oppenheimer’s $180.4m worldwide opening weekend in 2023 and Bohemian Rhapsody’s $124m in 2018. Michael’s $97m domestic debut also surpassed records set by previous biopics in North America, including Oppenheimer ($82m in 2023), Straight Outta Compton ($60.2m in 2015) and Bohemian Rhapsody ($51m in 2018).",
+      "published_at": "Mon, 27 Apr 2026 01:43:40 GMT",
+      "collected_at": "2026-04-27 04:09:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》打破傳記片票房紀錄，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1012,
       "title": "Kehlani’s new self-titled project is a no-skip album — Album Review - MELODIC Magazine",
@@ -386,192 +554,39 @@
       "summary": "此新聞報導美國歌手Kehlani發行新專輯並舉辦快閃活動，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1000,
-      "title": "Kehlani Shares Self-Titled New Album f/ Clipse, Cardi B, Missy Elliott, Usher, and More - Complex",
-      "link": "https://www.complex.com/music/a/tracewilliamcowen/kehlani-self-titled-album-clipse-cardi-b",
-      "source": "Tavily (www.complex.com)",
-      "snippet": "# Kehlani Shares Self-Titled New Album f/ Clipse, Cardi B, Missy Elliott, Usher, and More. Kehlani, fresh off taking home two Grammys and sitting down for an interview with Complex’s Jillian Superstar, is back with a new album. The development of that track, as Kehlani recently explained to Complex, proved instrumental in a period of artistic growth reflected on the new album. Elsewhere in her recent Complex interview, Kehlani also looked back on how impactful Nick Cannon’s early support was for her journey as an artist, calling him a “great guy.” In fact, according to her, there are actually multiple artists who have similar stories about the *Wild ’n Out* creator and *All That* alum. See the full interview, also featuring Kehlani’s thoughts on AI and what it felt like to take home two Grammys this year for “Folded,” below. In a new interview with Complex, Kehlani looks back on the impact of Nick Cannon in her early rise.",
-      "published_at": "Fri, 24 Apr 2026 13:59:28 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導歌手Kehlani發行新專輯並接受Complex採訪的內容，未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1001,
-      "title": "‘Michael’ Heading Toward $85 Million-Plus Opening Weekend At Box Office - Yahoo News UK",
-      "link": "https://uk.news.yahoo.com/michael-heading-toward-85-million-020651008.html",
-      "source": "Tavily (uk.news.yahoo.com)",
-      "snippet": "# ‘Michael’ Heading Toward $85 Million-Plus Opening Weekend At Box Office. The Michael Jackson biopic *Michael* is projected to earn more than $85 million in its opening weekend at the domestic box office. *Michael*, which stars Jaafar Jackson (Michael Jackson’s nephew/Jermaine Jackson’s son) in the title role, officially opened in North American theaters on Friday after special Wednesday night fan screenings and Thursday previews. As such, if a projection for its opening weekend by *Deadline* published on Friday night is any indication, Michael is taking a big first step toward its aspirations to make a sequel a reality. Lionsgate announced in an email Friday that *Michael* earned $3.8 million at fan screenings Wednesday night before playing in previews Thursday night, which resulted in a two-day domestic total of $12.6 million. Lionsgate also announced Friday that *Michael* also opened with $18.5 million in ticket sales in 82 international markets on Wednesday.",
-      "published_at": "Sat, 25 Apr 2026 02:06:00 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了麥可傑克森傳記電影《Michael》在上映首週末預計將獲得超過8500萬美元的票房，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1002,
-      "title": "A review of Michael, the long awaited biopic of Michael Jackson starring his nephew Jaafar Jackson and Colman Domingo as the demanding father Joe. Read more below. - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/a-review-of-michael-the-long-awaited-biopic-of-michael-jackson-starring-his-neph/1318075356859468/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# A review of Michael, the long awaited... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. A review of Michael, the long awaited biopic of Michael Jackson starring his nephew Jaafar Jackson and Colman Domingo as the demanding father Joe. Image 1: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. ### 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Image 5: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Image 11: 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. ### 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Sounds more like fan fiction than a bio-pic. He led a very troubled and troublesome life, which it seems is ignored in this film. 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. 'Michael' Review: Jaafar Jackson Channels His Uncle In Musical Biopic. Sounds more like fan fiction than a bio-pic. He led a very troubled and troublesome life, which it seems is ignored in this film.",
-      "published_at": "Sat, 25 Apr 2026 01:06:38 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容為麥可傑克森傳記電影《Michael》的評論，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1003,
-      "title": "Michael Jackson Accuser James Safechuck Speaks Out Amid Biopic Release - TMZ",
-      "link": "https://www.tmz.com/2026/04/24/michael-jackson-accuser-james-safechuck-shares-message-to-survivors/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Crochet Cutie -- Guess The Bikini Babe! # Michael Jackson Accuser James Safechuck Speaks Out Amid Biopic Release. ## Michael Jackson Accuser Message To Abuse Survivors Amid Biopic Release. **Michael Jackson**'s sexual assault accuser **James Safechuck** has a new message for childhood sexual abuse survivors ... Video: Michael Jackson Accuser James Safechuck Comments During Biopic Rollout. Safechuck says abusers are sometimes praised, even after alleged victims make public claims against them ... Safechuck and **Wade Robson** claim they were sexually abused by Michael as children, and they detailed their allegations in the HBO doc “Leaving Neverland.”. Safechuck and Robson are **suing** Michael's estate for $400 million in damages. The biopic, \"Michael,\" does not mention any of the child molestation allegations made against MJ. #### Beyoncé Seen Fawning Over Michael Jackson in Unaired Reality Show Video. #### Michael Jackson Talks 'Titties' on Resurfaced Reality Show Clip, Watch Video. James Safechuck   Wade Robson   Michael Jackson   Pop Music   Musicians   Movies   Michael Jackson Movie   Neverland.",
-      "published_at": "Fri, 24 Apr 2026 23:45:09 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於麥可傑克森的性侵指控者James Safechuck在傳記電影上映期間再次發聲，重申指控並提及對麥可傑克森遺產的訴訟，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1004,
-      "title": "OKP’s Biggest Takeaways From Kehlani’s Self-Titled New Album - Okayplayer",
-      "link": "https://www.okayplayer.com/okps-biggest-takeaways-from-kehlanis-self-titled-new-album/1428307",
-      "source": "Tavily (www.okayplayer.com)",
-      "snippet": "Listening to Kehlani’s latest feels like my mom’s driving me to the first day of 7th grade 22 years ago, and from the jump, it’s clear that that’s the point. The retro R&B aesthetic feels more like a tool rather than an endgame, with her tender, yet sultry vocals and introspection making the production feel inhabited instead of “used.” Crash, on the other hand, felt scattershot, with Kehlani shifting between sonics with a clumsiness that was kind of unbefitting of her vocal talent and songwriting. * #### The Listening: New Music From Kehlani, Reason, Fredo Bang & BigXThaPlug Latto & GloRilla and More. missy elliott kehlani brandy big sean new music t-pain usher. * #### The Listening: New Music From Kehlani, Reason, Fredo Bang & BigXThaPlug Latto & GloRilla and More. missy elliott kehlani brandy big sean new music news t-pain usher. * #### The Listening: New Music From Kehlani, Reason, Fredo Bang & BigXThaPlug Latto & GloRilla and More.",
-      "published_at": "Fri, 24 Apr 2026 22:51:40 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要討論歌手Kehlani的新專輯，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1005,
-      "title": "Jada Pinkett Smith asks court to make Will Smith’s former friend pay her $49,000 legal bills - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-04-24/jada-pinkett-smith-asks-court-for-bilaal-salaam-to-pay-legal-bills",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "* Bilaal Salaam sued after airing podcast allegations about the Smiths’ private lives, which Pinkett Smith characterized as a “money shakedown” and part of a broader attempt to extort her. Jada Pinkett Smith is asking a judge to make Bilaal Salaam cover the $49,000 in legal fees she racked up fighting claims he made in a December lawsuit. According to a motion filed April 20 and obtained by The Times, Pinkett Smith is asking that Salaam pay $49,181.23, consisting of “reasonable attorneys’ fees incurred” in connection with Pinkett Smith’s successful special motion to strike Salaam’s complaint, “plus further fees and costs associated with this motion.”. Salaam’s suit claims that Pinkett Smith told him he would “end up missing or catch a bullet” if he kept “telling her personal business.” She also allegedly pressured him to sign a non-disclosure agreement. Pinkett Smith swiftly responded during an appearance on “The Breakfast Club” and said that Salaam started the rumors as part of a broader “money shakedown” and that his claims were “ridiculous and nonsense.”.",
-      "published_at": "Sat, 25 Apr 2026 01:39:41 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導關於Jada Pinkett Smith與Bilaal Salaam的法律糾紛，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1006,
-      "title": "Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed - KNAU",
-      "link": "https://www.knau.org/npr-news/2026-04-18/sitting-in-a-jail-cell-alone-and-hopeless-a-mans-life-is-suddenly-changed",
-      "source": "Tavily (www.knau.org)",
-      "snippet": "Arizona Public Radio continues to integrate new audio software while addressing remaining glitches. # Sitting in a jail cell, alone and hopeless, a man's life is suddenly changed. And so I started making poor decisions,\" Jay said. \"The next night I made a plan of how to do it, and I did it,\" Jay remembered. Jay made a plan to end his life. He said yes, and listened as the man began to pray. \"I wish I could tell you that I remember the [exact] words that he said to me, but what I remember is that his words landed with me, and instead of wanting my life to be over, suddenly I saw hope,\" Jay said. The interaction happened nearly ten years ago, but it was a pivotal moment in Jay's life, and one he thinks about all the time. Jay says that he wishes he could meet that man again and express his appreciation.",
-      "published_at": "Sat, 18 Apr 2026 09:00:00 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容講述一位名為Jay的男子在獄中重獲希望的個人故事，與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1007,
-      "title": "The Legacy Of Michael Jackson Pondered Anew As ‘Michael’ Hits Theaters - Forbes",
-      "link": "https://www.forbes.com/sites/jimryan1/2026/04/24/the-legacy-of-michael-jackson-pondered-anew-as-michael-hits-theaters/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "“This is monumental,” said Gary, Indiana mayor Eddie Melton, taking to the red carpet as the new Michael Jackson biopic *Michael* premiered last week in the Steel City. “I’m so grateful to be able to be here,” said Jaafar Jackson, who portrays his uncle Michael in his acting debut and received the key to the city of Gary following a screening of the film. But he just carried himself with that grace and that humility,” said Michael’s oldest child (siblings ‘Bigi’ and Paris Jackson did not attend). “I think folks are starting to recognize that Gary is able to compete on a global scale,” said Mayor Melton. Dubbed “The First Lady of House Music,” Mazelle sang lead on Soul II Soul’s 1990 hit “Missing You.” Growing up down the street from the Jackson family in Gary, Mazelle now works extensively with kids in a music and mentorship role. “What Michael Jackson did so well was bring people together through his music,” said the producer.",
-      "published_at": "Fri, 24 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "麥可傑克森傳記電影《Michael》在故鄉加里市首映，獲得市長、家人及當地社區的熱烈歡迎與高度讚揚，共同慶祝其音樂遺產與正面影響。",
-      "category": "影視",
-      "analyzed": 1
-    },
-    {
-      "id": 1008,
-      "title": "Olivia Rodrigo Praises Justin Bieber’s ‘Epic’ Coachella Set: ‘It Was Really Powerful’ - Billboard Canada",
-      "link": "https://ca.billboard.com/music/music-news/olivia-rodrigo-praises-justin-bieber-coachella-set-powerful-1236230992/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "The Dirty Nil are additionally slated to perform at the Burlington waterfront fest — operated by MRG Live — which will see over 30 acts performing between three music stages at Spencer Smith Park from June 20-21. Returning to their hometown, Walk off the Earth will bring their 2010s hits to the stage, including “Red Hands,” which hit No. 9 on the Billboard Canadian Hot 100, the band’s highest charting single in Canada. According to an initial concept — shared in a one-page brief in February — the festival includes three stages, including a main performance stage that’s filled with a lineup of hometown musicians from several music genres, with a “notable Canadian headliner” closing out each evening. The Lakeshore Music & Arts Festival will maintain Sound of Music’s free ticket structure, but will implement paid VIP ticket tiers to “enhance the visitor experience.” The brief outlined that the planned VIP section features premium seating, exclusive food and drink options, merchandise and artist meet-and-greet experiences.",
-      "published_at": "Fri, 24 Apr 2026 16:27:04 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導加拿大音樂節相關資訊，未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1009,
-      "title": "Nikki Glaser Roasts Katy Perry, Hailey Bieber, Victoria Beckham and More at Time 100 Gala - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/news/general-news/nikki-glaser-roasts-katy-perry-hailey-bieber-time-100-gala-1236574873/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "# Nikki Glaser Roasts Katy Perry, Hailey Bieber, Victoria Beckham and More at Time 100 Gala. Fresh off hosting the last two Golden Globe Awards, the comedian didn't hold back at this year's event honoring the magazine's picks for the world's most influential people. Glaser hosted the 20th annual Time 100 Gala on Thursday night at Jazz at Lincoln Center in New York City, which celebrates *Time*‘s list of the world’s most influential people. And in true Glaser style, she made it a roast, playfully taking jabs at Katy Perry, Hailey Bieber, Victoria Beckham, MrBeast, Kate Hudson and more, as well as *Time* itself. “Welcome to the Time 100, the one list you actually want to be on this year,” the comedian said to a star-studded crowd kicking off the event. “One of the most impressive people on the list is Victoria Beckham, of course. ### How an 18-Year-Old TikToker’s Scientology “Run” Inspired a Trend — and Why He Says It’s Gone Too Far. The Hollywood Reporter is a part of Penske Media Corporation.",
-      "published_at": "Sat, 25 Apr 2026 02:35:19 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Nikki Glaser在Time 100 Gala上對多位名人進行幽默調侃，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1010,
-      "title": "Noah Kahan, Kehlani, Suki Waterhouse & More: New Music Friday Guide - Billboard",
-      "link": "https://www.billboard.com/music/pop/noah-kahan-kehlani-suki-waterhouse-new-music-friday-guide-1236230297/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Noah Kahan, Kehlani, Suki Waterhouse   Kehlani releases her classic R  and Suki Waterhouse previews her upcoming album *Loveland* out this summer… plus much more. Since releasing his self-produced debut album, *Westward*, last year, rising singer-songwriter Dylan Gossett has kept momentum with new music including latest track “My Boy.” As the title suggests, the song is a beautiful message to his son (his and his wife’s first child, which they announced on Instagram last November) that functions as Gossett’s parental vow.",
-      "published_at": "Fri, 24 Apr 2026 05:03:24 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導介紹了Noah Kahan、Kehlani、Suki Waterhouse等多位藝人的新音樂發行，但未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1011,
-      "title": "Kehlani’s self-titled album tracks ranked from worst to best - Rolling Out",
-      "link": "https://rollingout.com/2026/04/24/kehlani-album-tracks-ranked-best-worst/",
-      "source": "Tavily (rollingout.com)",
-      "snippet": "# Kehlani’s self-titled album tracks ranked from worst to best. Oakland R&B star blends nostalgia, vocals, and legacy collabs in a genre-shaping album. Kehlani’s self-titled album arrives after a decade of steady growth from mixtape standout to mainstream R&B force. The album draws heavily from 1990s and 2000s R&B, not as imitation but as reference point. Jimmy Jam and Terry Lewis contribute to the album’s more classic R&B textures, while other tracks lean into contemporary polish. Big Sean)** – Smooth but relatively understated mid-album moment. Usher)** – Classic R&B breakup exchange with polished delivery. Cardi B)** – Lively collaboration with strong mainstream appeal. Folded** – The project’s defining hit and emotional anchor. Unlearn** – Gospel-leaning closer that ties the album’s emotional themes together. By the final track, Kehlani reads less like a diary and more like a reflection on R&B itself. * album, charts, Collaboration, Folded, Kehlani, Music, Pop, ranking, review, rnb.",
-      "published_at": "Fri, 24 Apr 2026 12:19:59 GMT",
-      "collected_at": "2026-04-25 03:42:05",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於歌手Kehlani的專輯評論與歌曲排名，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 34,
-    "report_date": "2026-04-26",
-    "total_articles": 15,
+    "id": 35,
+    "report_date": "2026-04-27",
+    "total_articles": 12,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 15,
-    "daily_summary": "今日搜集的新聞中，未發現周杰倫相關報導。主要娛樂焦點集中於Kehlani發行新專輯、Michael Jackson傳記電影上映與票房，以及Time100慈善晚會眾星雲集。此外，Demi Lovato、Selena Gomez與Joe Jonas因懷舊重聚，Klay Thompson傳出緋聞。整體娛樂新聞涵蓋音樂、電影及名人動態。",
+    "neutral_count": 12,
+    "daily_summary": "今日新聞中未包含任何關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影《Michael》的亮眼票房表現、圍繞其內容的爭議，以及歌手Kehlani發行全新同名專輯並舉行宣傳活動等娛樂界動態。",
     "key_events": [
-      "無周杰倫新聞",
-      "Kehlani發新專輯",
-      "MJ傳記電影熱映"
+      "《Michael》票房告捷",
+      "《Michael》引發爭議",
+      "Kehlani發行新專輯"
     ],
-    "created_at": "2026-04-26 04:05:56"
+    "created_at": "2026-04-27 04:10:48"
   },
   "recentReports": [
+    {
+      "id": 35,
+      "report_date": "2026-04-27",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "今日新聞中未包含任何關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影《Michael》的亮眼票房表現、圍繞其內容的爭議，以及歌手Kehlani發行全新同名專輯並舉行宣傳活動等娛樂界動態。",
+      "key_events": [
+        "《Michael》票房告捷",
+        "《Michael》引發爭議",
+        "Kehlani發行新專輯"
+      ],
+      "created_at": "2026-04-27 04:10:48"
+    },
     {
       "id": 34,
       "report_date": "2026-04-26",
@@ -653,17 +668,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-04-21 06:27:38"
-    },
-    {
-      "id": 28,
-      "report_date": "2026-04-20",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Jackson legacy on the line as ‘Michael’ biopic divides the family once more - New York Post、Kehlani at 30: How ‘Folded’ Changed Everything | Billboard Women In Music 2026 - Billboard、Boston Celtics star Jaylen Brown wins top honor for his...interviews? - Celtics Wire",
-      "created_at": "2026-04-20 07:30:38"
     }
   ]
 }
