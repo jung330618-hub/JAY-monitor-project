@@ -2,25 +2,17 @@
   "todayStats": {
     "total": 11,
     "positive": 0,
-    "negative": 0,
-    "neutral": 11
+    "negative": 1,
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 1049,
+    "total": 1060,
     "positive": 338,
-    "negative": 45,
-    "neutral": 666,
+    "negative": 46,
+    "neutral": 676,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-14",
-      "total": 2,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 2,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-15",
       "total": 8,
@@ -132,9 +124,171 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-04-29",
+      "total": 11,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 10,
+      "avg_score": 0.48
     }
   ],
   "recentArticles": [
+    {
+      "id": 1050,
+      "title": "Michael Jackson's Nephew Says Critics Will \"Have to Eat Crow\" as 'Michael' Biopic Opens to Rotten Reviews - MovieWeb",
+      "link": "https://movieweb.com/michael-jackson-nephew-defends-biopic-critics-reviews/",
+      "source": "Tavily (movieweb.com)",
+      "snippet": "# Michael Jackson's Nephew Defends Biopic in Wake of Rotten Reviews. The film, starring Jaafar Jackson in his feature debut, debuted to a wave of negative reviews ahead of its theatrical debut, with critics panning it for its \"sanitized\" storytelling and \"style over substance\" approach, leading to a low Rotten Tomatoes score. The trailers for *Michael* have attracted plenty of attention online, with the first teaser setting a record with 116.2 million global views in its first 24 hours of release, making it the most-viewed music biopic trailer of all time. Ahead of the film's release, Taj Jackson took to X to express his frustration with the negative press surrounding *Michael*. Despite the film's controversies and negative reviews, *Michael* is projected to be a major box office success, with the film tracking for a massive global opening weekend of roughly $150 million. Moonwalk to Millions: Test Your Michael Jackson Biopic Knowledge.",
+      "published_at": "Thu, 23 Apr 2026 10:42:04 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導麥可傑克森傳記電影儘管評價不佳，但預計票房將會成功，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1051,
+      "title": "‘Michael’ moonwalks to $97 million opening, shattering record for music biopics - AP News",
+      "link": "https://apnews.com/article/michael-jackson-movie-box-office-9cd10825b6ced69aaa96c6e575ea9d2d",
+      "source": "Tavily (apnews.com)",
+      "snippet": "This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). NEW YORK (AP) — “Michael,” the big-budget Michael Jackson spectacle, shrugged off bad reviews and a troubled production to launch with $97 million in U.S. and Canada theaters, according to studio estimates Sunday, shattering a record debut for music biopics. The opening for “Michael” added to a strong spring for Hollywood boosted by box-office hits like Amazon MGM’s “Project Hail Mary” and Universal’s “The Super Mario Galaxy Movie.” After three weeks atop the box office, the “Mario” sequel slid to second place, with $21.2 million.",
+      "published_at": "Sun, 26 Apr 2026 15:33:23 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了麥可傑克森傳記電影《麥可》的成功上映，並打破了音樂傳記片的票房紀錄，但內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1052,
+      "title": "Michael Jackson's nephew Jaafar stars as the King of Pop in a new biopic. Here's what to know about him. - Business Insider",
+      "link": "https://www.businessinsider.com/who-is-jaafar-jackson-michael-jackson-nephew-movie-2026-4",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "* Michael Jackson's nephew, Jaafar Jackson, is portraying the King of Pop in the new biopic \"Michael.\". * Jaafar is the son of Michael's brother, Jermaine Jackson, and Alejandra Genevieve Oaziaza. ## Jaafar is the son of Jermaine Jackson and Alejandra Genevieve Oaziaza. Jaafar's father, Jermaine, was one of the original members of the Jackson 5, along with his brothers, Jackie, Tito, Marlon, and Michael. ## Jaafar Jackson makes his acting debut portraying his famous uncle in \"Michael.\". Jaafar had no formal dance training or acting credits before \"Michael,\" save for one episode of \"The Jacksons: Next Generation,\" a 2015 reality show that followed the lives of his cousins, Taj, Taryll, and TJ (then known as the R&B-pop trio 3T). ## Jaafar Jackson isn't actually singing in \"Michael.\". When Jaafar landed the lead role in \"Michael,\" he received a vote of confidence from a core member of his family: Michael's mother, Katherine Jackson.",
+      "published_at": "Fri, 24 Apr 2026 16:55:45 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森的姪子Jaafar Jackson將主演其傳記電影，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1053,
+      "title": "Ray J makes outrageous claim he’s slept with over 12,500 women — ‘5 to 10 a day’ while on tour - Page Six",
+      "link": "https://pagesix.com/2026/04/28/celebrity-news/ray-j-claims-hes-slept-with-over-12500-women-5-to-10-a-day-while-on-tour/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Ray J makes outrageous claim he’s slept with over 12,500 women — ‘5 to 10 a day’ while on tour. Ray J made an outrageous claim that he’s slept with 12,500 different women. “We did a celebration, [adult entertainment venue] Booby Trap celebrated my 10,000th,” he claimed. When Newton asked him to clarify if it was “different” partners, Ray J claimed he had slept with “10,000 different people,” before upping the number to 12,500. Newton broke down the math, and said Ray J’s claim would he mean he was averaging sleeping with over one and a half women a day for 30 years. Ray J replied, “Yeah, the math is different ’cause when we’re on tour, we’re thinking five to ten a day.”. “I was celebrating 10,000 bodies.”. Ray J claimed he's slept with 12.500 women during his appearance on Cam Newton's \"Funky Friday\" podcast. Ray J alleged he slept with five to ten women a day while he was on tour.",
+      "published_at": "Tue, 28 Apr 2026 23:30:22 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於Ray J聲稱曾與超過12,500名女性發生關係，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1054,
+      "title": "'Menace II Society' Actor Samuel Monroe Jr.'s Family Launches GoFundMe for Medical Bills - TMZ",
+      "link": "https://www.tmz.com/2026/04/27/samuel-monroe-jr-family-starts-gofundme-for-medical-bills/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### 'Menace II Society' Actor Samuel Monroe Jr.'s Family Gets More Bad Medical News. # 'Menace II Society' Actor Samuel Monroe Jr.'s Family Launches GoFundMe for Medical Bills. ## 'Menace II Society' Actor GoFundMe Started for Ailing Samuel Monroe Jr. and his family is asking for help with his mounting medical bills. the family has created a **GoFundMe**as his substantial medical bills pile up ... Every donation, no matter the size, will help ease the burden on Samuel’s family and ensure that Kingston and Brooklynn have the support they need while their father fights for his life.\". The 52-year-old actor has appeared in a slew of films and TV shows, including \"Tales from the Hood,\" \"Set It Off,\" \"The Players Club,\" \"Out All Night\" and \"NYPD Blue.\" Samuel also appeared in \"Don't Be a Menace to South Central While Drinking Your Juice in the Hood,\" the Wayans Brothers' spoof of 1990s L.A.-based crime dramas. #### Influencer Ashlee Jenae's Dad Launches GoFundMe to Help With Mounting Costs.",
+      "published_at": "Mon, 27 Apr 2026 20:53:18 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "演員Samuel Monroe Jr.的家人因其高額醫療費用發起GoFundMe募款。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1055,
+      "title": "Megan Thee Stallion exits ‘Moulin Rouge’ weeks early, just days after split with Klay Thompson - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-04-28/megan-thee-stallion-exits-moulin-rouge-after-klay-thompson-split",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "Tap to enable a layout that focuses on the article. # Megan Thee Stallion exits ‘Moulin Rouge’ weeks early, just days after split with Klay Thompson. * Click here to listen to this article. This is read by an automated voice. Megan Thee Stallion’s Broadway run playing Zidler in “Moulin Rouge! The Musical” is ending weeks earlier than planned, and days after she announced a messy split from NBA star Klay Thompson. “It’s been such an honor to be part of thee Moulin Rouge family and I’ve met so many amazing people in this theater! “I’ve made the decision to end my relationship with Klay,” Megan said in a statement. * ### Megan Thee Stallion recovering after hospitalization for ‘extreme exhaustion, dehydration’. * ### Some ‘Good News’: Megan Thee Stallion will be host and musical guest of ‘SNL’. Megan Thee Stallion’s new website is for you.",
+      "published_at": "Wed, 29 Apr 2026 03:36:23 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Megan Thee Stallion退出百老匯音樂劇及與Klay Thompson分手，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1056,
+      "title": "Donald Trump's White House State Dinner For King Charles Photos: Apple's Tim Cook, Amazon's Jeff Bezos & More - Deadline",
+      "link": "https://deadline.com/gallery/donald-trumo-white-house-state-dinner-king-charles-photos/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### FCC Commissioner Urges ABC To “Stand Up And Stand Firm” In Face Of Brendan Carr’s Review Of Broadcast Licenses. # Donald Trump’s White House State Dinner For King Charles Photos: Apple’s Tim Cook, Amazon’s Jeff Bezos   Company “Confident” About Passing Test. * ### WGA West Notifies Writers Of Final Offer To Staff Union In Blistering Email. ## No Comments. ### Submit a comment. ## Site.",
+      "published_at": "Wed, 29 Apr 2026 02:30:29 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於唐納·川普的白宮國宴、FCC以及WGA等議題，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1057,
+      "title": "Kylie Jenner and Timothée Chalamet Spend Date Night at Knicks Game - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/celebrity-news/kylie-jenner-and-timothee-chalamet-spend-date-night-at-knicks-game-11890939",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Kylie Jenner and Timothée Chalamet Spend Date Night at Knicks Game. Kylie Jenner and Timothée Chalamet took their latest date night courtside. The superstar duo showed up at Madison Square Garden for the New York Knicks playoff game on Tuesday, April 28. Jenner and Chalamet were spotted among a packed celebrity crowd as the Knicks faced the Atlanta Hawks in Game 5 of their first-round Eastern Conference series. Jenner, 28, wore a pair of white studded jeans and a white tank, while Chalamet, 30, opted for an oversized black jacket and a Knicks hat. Chalamet has been quite the supporter of the Knicks throughout the postseason and previously attended Game 3 earlier this month. ## How the Iran War Scored Trump His Biggest OPEC Win Yet. ## Green Card Update: Applicants Impacted by Trump Travel Ban Get Legal Win. ## Opinion. ## The Trump Staged Shooting Conspiracies Need to Stop | Opinion. ## The DNC Didn’t Ban AIPAC, But Warning Signs Remain | Opinion.",
+      "published_at": "Wed, 29 Apr 2026 03:15:00 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導凱莉·詹娜與提摩西·夏勒梅觀看尼克隊比賽，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1058,
+      "title": "ZHU Joins Pacha New York’s Increasingly Global 2026 Lineup - Yahoo News Malaysia",
+      "link": "https://malaysia.news.yahoo.com/zhu-joins-pacha-york-increasingly-003056275.html",
+      "source": "Tavily (malaysia.news.yahoo.com)",
+      "snippet": "# ZHU Joins Pacha New York’s Increasingly Global 2026 Lineup. Just days after ZHU released his ambitiously atmospheric new album *BLACK MIDAS*, the Grammy-nominated producer will now take the stage at Pacha New York in an announcement that expands the forthcoming nightclub’s opening lineup into an even more culturally diverse and global roster. Pacha New York opens over the weekend of June 20-21 with the two-night debut featuring a double header of British DJ-producer Michael Bibi on June 20 and legendary South African house pioneer Black Coffee on the 21st. Pacha New York’s current calendar extends into October, with upcoming bookings from Belgium’s Lost Frequencies, Brazil’s Vintage Culture, and Black Coffee, who appears four times. See the Pacha New York lineup as of press time below. ## Pacha New York 2026 Lineup (So Far):. * Sunday, June 21 | Opening Weekend with Black Coffee ***– SOLD OUT***.",
+      "published_at": "Wed, 29 Apr 2026 00:30:56 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於ZHU加入Pacha New York的2026年演出陣容，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1059,
+      "title": "Jalen Brunson scores 39 points and the Knicks rout the Hawks 126-97 for a 3-2 series lead - AP News",
+      "link": "https://apnews.com/article/knicks-hawks-score-nba-playoffs-7ccf847242ff87af923f51ae6ad20eaa",
+      "source": "Tavily (apnews.com)",
+      "snippet": "New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson, left, and OG Anunoby, right, defend Atlanta Hawks’ Jalen Johnson, center, during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. NEW YORK (AP) — Jalen Brunson scored 39 points, nearly extending his own franchise record for 40-point playoff games, and the New York Knicks routed the Atlanta Hawks 126-97 on Tuesday night for a 3-2 lead in the first-round playoff series.",
+      "published_at": "Wed, 29 Apr 2026 02:57:03 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了NBA季後賽中，Jalen Brunson攻下39分帶領尼克隊以126-97擊敗老鷹隊，取得系列賽3-2領先。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1060,
+      "title": "Kylie Jenner joins boyfriend Timothee Chalamet in star-filled crowd for Knicks-Hawks Game 5 at MSG - New York Post",
+      "link": "https://nypost.com/2026/04/28/sports/kylie-jenner-boyfriend-timothee-chalamet-at-knicks-hawks-game-5/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Kylie Jenner joins boyfriend Timothee Chalamet in star-filled crowd for Knicks-Hawks Game 5 at MSG. You know it’s a big game when Kylie Jenner is back in her place next to boyfriend Timothée Chalamet on celebrity row at Madison Square Garden. Kylie Jenner is all smiles as she sits next to her boyfriend Timothee Chalamet on celebrity row during Game 5 of a first-round NBA playoffs basketball game in the second quarter at Madison Square Garden JASON SZENES FOR THE NEW YORK POST. Cam Skattebo and his girlfriend Chloe Rodriguez sit on celebrity row during Game 5 of a first-round NBA playoffs basketball game in the first quarter at Madison Square Garden JASON SZENES FOR THE NEW YORK POST. Ben Stiller and Spike Lee celebrate during the game between the Knicks' Game 5 game against the Hawks in the first round of the NBA Playoffs on April 28, 2026 at Madison Square Garden.",
+      "published_at": "Wed, 29 Apr 2026 02:00:16 GMT",
+      "collected_at": "2026-04-29 04:10:29",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Kylie Jenner與Timothee Chalamet等名人出席NBA賽事，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1039,
       "title": "Aspinall Returns to Training After Eye Surgery - Telecom Asia Sport",
@@ -400,178 +554,39 @@
       "summary": "這則新聞與周杰倫無關，主要報導了Margot Robbie和Jacob Elordi主演的《咆哮山莊》預告片，以及其他國際新聞和社會事件。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1035,
-      "title": "BTS world tour setlist. See all the songs from ‘Dynamite’ to deep cuts - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/music/2026/04/26/bts-world-tour-setlist-arirang/89753603007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "See all the songs from ‘Dynamite’ to deep cuts. # BTS world tour setlist. See all the songs from ‘Dynamite’ to deep cuts. BTS talk making 'Hooligan' and favorite 'Arirang' tracks. BTS discuss the makings of their new comeback album \"Arirang,\" and why the track \"Hooligan\" was particularly difficult. The global superstars kicked off the U.S. leg of their world tour with three sold-out shows at Raymond James Stadium in Florida. BTS members Jin, Suga, J-Hope, RM, Jimin, V and Jungkook showcased “ARIRANG,” playing 12 out of the album's 14 tracks and still nodded to their most well-known hits like “Butter” and “Dynamite” throughout the 2.5-hour set. They’ve returned as a \"2.0\" version of themselves, more evolved and refined. Yet there's a sense of familiarity, a return to their origins in both heritage and early hip-hop influences. ## BTS ARIRANG Tour setlist. * Boy with Luv (rotating song).",
-      "published_at": "Mon, 27 Apr 2026 03:28:00 GMT",
-      "collected_at": "2026-04-27 04:09:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於韓國團體BTS的全球巡演歌單及新專輯，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1036,
-      "title": "BTS Kick Off \"ARIRANG\" US Tour: See the 23-Song Setlist - Consequence of Sound",
-      "link": "https://consequence.net/2026/04/bts-arirang-tampa-tour-kick-off-setlist/",
-      "source": "Tavily (consequence.net)",
-      "snippet": "BTS kicked off the North American leg of their “ARIRANG World Tour” with the first of three shows at Raymond James Stadium in Tampa, Florida, on Saturday night. The show’s second act boasted *ARIRANG* tracks “2.0.,” “NORMAL,” “FYA” and “Body to Body,” plus fan favorites “MIC DROP” and “IDOL.” For the encore, BTS ran through classics like “Butter,” “Dynamite,” the tour debut of “Permission to Dance,” and “Magic Shop.” Check out the band’s full setist below. BTS will play two more shows in Tampa before making their way to El Paso, Mexico City, Stanford, and Las Vegas as part of the first leg of their American tour. **BTS 2026 North American Tour Dates:**. 04/26 – Tampa, FL @ Raymond James Stadium. 04/28 – Tampa, FL @ Raymond James Stadium. 05/16 – Stanford, CA @ Stanford Stadium. 05/17 – Stanford, CA @ Stanford Stadium. 08/15 – Arlington, TX @ AT&T Stadium. 08/16 – Arlington, TX @ AT&T Stadium.",
-      "published_at": "Sun, 26 Apr 2026 14:27:50 GMT",
-      "collected_at": "2026-04-27 04:09:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要報導韓國團體BTS的北美巡迴演唱會詳情與日期，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1037,
-      "title": "‘Michael’ moonwalks to $97 million opening, shattering record for music biopics - The Zimbabwe Mail",
-      "link": "https://thezimbabwemail.com/entertainment/movies/michael-moonwalks-to-97-million-opening-shattering-record-for-music-biopics/",
-      "source": "Tavily (thezimbabwemail.com)",
-      "snippet": "Home Entertainment Movies ‘Michael’ moonwalks to $97 million opening, shattering record for music biopics. NEW YORK — “Michael,” the big-budget Michael Jackson spectacle, shrugged off bad reviews and a troubled production to launch with $97 million in U.S. and Canada theaters, according to studio estimates Sunday, shattering a record debut for music biopics. “Michael” collected $120.4 million overseas, to give it a $217.4 million global opening — a new high for a music biopic. The opening for “Michael” added to a strong spring for Hollywood boosted by box-office hits like Amazon MGM’s “Project Hail Mary” and Universal’s “The Super Mario Galaxy Movie.” After three weeks atop the box office, the “Mario” sequel slid to second place, with $21.2 million. 2. “The Super Mario Galaxy Movie,” $21.2 million. 3. “Project Hail Mary,” $13.2 million. 5. “The Drama,” $2.6 million. 6. “Hoppers,” $1.9 million. 9. “Mother Mary,” $1.2 million.",
-      "published_at": "Sun, 26 Apr 2026 20:44:34 GMT",
-      "collected_at": "2026-04-27 04:09:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導麥可傑克森傳記電影的票房表現，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1038,
-      "title": "Michael moonwalks to $217m opening weekend, shattering box office records for a biopic - The Guardian",
-      "link": "https://www.theguardian.com/music/2026/apr/27/michael-jackson-biopic-record-box-office",
-      "source": "Tavily (www.theguardian.com)",
-      "snippet": "# Michael moonwalks to $217m opening weekend, shattering box office records for a biopic. Michael Jackson biopic has shrugged off controversy, bad reviews and a troubled production to take $217m worldwide, including $97m in North America. Michael, the big-budget Michael Jackson biopic, has shrugged off bad reviews and a troubled production to launch with a $97m opening in North American theaters, contributing to its enormous $217m (£160m, A$303m) worldwide box office and shattering the record for the biggest biopic opening of all time. The film, a highly authorised portrayal of the “king of pop” that was co-produced by the Jackson estate and stars Jackson’s nephew Jaafar Jackson, took $120.4m internationally and $97m domestic – combining to surpass Oppenheimer’s $180.4m worldwide opening weekend in 2023 and Bohemian Rhapsody’s $124m in 2018. Michael’s $97m domestic debut also surpassed records set by previous biopics in North America, including Oppenheimer ($82m in 2023), Straight Outta Compton ($60.2m in 2015) and Bohemian Rhapsody ($51m in 2018).",
-      "published_at": "Mon, 27 Apr 2026 01:43:40 GMT",
-      "collected_at": "2026-04-27 04:09:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》打破傳記片票房紀錄，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1012,
-      "title": "Kehlani’s new self-titled project is a no-skip album — Album Review - MELODIC Magazine",
-      "link": "https://www.melodicmag.com/album-ep-reviews/kehlanis-new-self-titled-project-is-a-no-skip-album-album-review/",
-      "source": "Tavily (www.melodicmag.com)",
-      "snippet": "### Kehlani’s new self-titled project is a no-skip album — Album Review. # Kehlani’s new self-titled project is a no-skip album — Album Review. It’s followed by her biggest track yet, “Folded” — the single earning Best R&B Song and Best R&B Performance at this years Grammys speaks for itself. “I Need You” featuring Brandy is arguably one of the top three on the album, and it’s because she manages to bring back the Princess of R&B and also blend in a modern sound and production that feels like a ode to the genre overall. Three more solo tracks, “You Got It,” “Call Me Back,” and “Still” are all heartfelt, vulnerable and reflective to the new, mature sound Kehlani carries throughout this album in comparison to her past projects. Kehlani and Cardi B together create some of the best hip-hop/R&B songs, just like on Cardi’s newest album with “Safe.” We’re hoping for more future collaborations between the two. Kehlani outdid herself with this album, showcasing her true love as a fan and artist of R&B.",
-      "published_at": "Fri, 24 Apr 2026 16:30:52 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於美國歌手Kehlani的新專輯評價，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1013,
-      "title": "Kehlani Drops New Self-Titled Album – Listen Now! - Just Jared",
-      "link": "https://www.justjared.com/2026/04/25/kehlani-drops-new-self-titled-album-listen-now/",
-      "source": "Tavily (www.justjared.com)",
-      "snippet": "# Kehlani Drops New Self-Titled Album - Listen Now! **Kehlani** is back with new music! On Friday (April 24), the 31-year-old Grammy-winning singer debuted her brand new album, titled ***Kehlani***. “I am honored to present you with the album,” **Kehlani** wrote on Instagram after the album’s release. In a new interview with *Complex*, **Kehlani** opened up about the two-year process she went through while creating the album, which began with her working through some emotional baggage. “I went and locked myself in the room, and I started randomly processing a bunch of things from 2020,” **Kehlani** recalled. After getting out of her system, **Kehlani** resumed the process of making the album. If you didn’t see, **Kehlani** is nominated for three awards at the *2026 American Music Awards*, which are taking place on May 25 with **Queen Latifah** as host. Posted to: First Listen, Kehlani, Music. 1. PBS Cancels 1 TV Show, Announces 3 Are Ending & Several Are Renewed for 2026. 5. Kehlani Drops New Self-Titled Album -... 1. Megan Thee Stallion Confirms Split...",
-      "published_at": "Sat, 25 Apr 2026 21:15:46 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導歌手Kehlani發行新專輯，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1014,
-      "title": "'We have no sleep': What it's like to run a round-the-clock celebrity fan page - BBC",
-      "link": "https://www.bbc.com/news/articles/cy41xj53v07o",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "\"I feel like we have no sleep - we're at this 24 hours a day, seven days a week,\" says 25-year-old Canadian, Jay. He's a researcher for the social media account Buzzing Pop, which has 250,000 followers on X and posts round-the-clock news and gossip about the biggest celebrities in the world. \"We're always keeping up - it's crazy but we love it,\" says Jay. Jay is part of a new generation of social media creators whose job it is to provide constant updates on fans' favourite film, TV and music stars. He says he started his fan account to \"feel a bit closer\" to the star, adding \"I got likes from Taylor Swift, follows from her dancers and her team\". And while Buzzing Pop is not dedicated to a single celebrity or music artist, Jay says his team works hard to keep their posts \"neutral and informative\".",
-      "published_at": "Sun, 26 Apr 2026 00:11:46 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇BBC報導描述了名為Jay的社群媒體研究員，如何為一個涵蓋多位名人的粉絲專頁Buzzing Pop提供24小時不間斷的資訊，但內容並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1015,
-      "title": "Beloved ABC host and rock musician dead at 64 after assisted suicide: ‘Did it his way’ - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/beloved-abc-host-rock-musician-090045854.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# Beloved ABC host and rock musician dead at 64 after assisted suicide: ‘Did it his way’. James Valentine, a popular ABC radio and television host for more than 30 years and a rock musician, has died. Valentine died by assisted suicide at home two years after he was diagnosed with cancer, **according to multiple reports.**. “Throughout his illness, James did it his way, which lasted all the way until the day when he made the choice to do voluntary assisted dying,” the statement continued. He was a saxophonist, and his music career took off in 1982 when he was a member of Jo Jo Zep. He also played with Model from 1984 to 1987 and Absent Friends from 1989 to 1990. Valentine hosted radio and television shows for ABC for nearly 40 years. He worked for 702 ABC Sydney for more than 25 years before retiring because of his illness. Add pennlive.com as a Preferred Source by clicking here.",
-      "published_at": "Sat, 25 Apr 2026 09:00:45 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "資深ABC主持人兼搖滾音樂家James Valentine因癌症選擇安樂死，享年64歲。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1016,
-      "title": "Princess Eugenie - HuffPost",
-      "link": "https://www.huffpost.com/life/topic/princess-eugenie?page=7",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "Part of HuffPost Style & Beauty. ©2026 BuzzFeed, Inc. All rights reserved. Trump Can't Help But Make His Latest DC Renovation All About Obama In Strange Saturday Morning Post. Alex Jones Uses Infowars’ Last Gasp To Attack Sandy Hook Families. Trump Says He's No Longer Sending Steve Witkoff And Jared Kushner To Pakistan For Iran Talks. Bill Maher Slams 1 Exhausting Trump Trait Emerging ‘Every Day’ Of His Iran War. Trump Blasts Ex-MAGA Ally With Fake Time Magazine Cover: 'VILE PERSON OF THE YEAR'. Russell Brand's Cringe-Inducing Search For A Bible Verse Must Be Seen To Be Believed. Trump Says Iran Proposed Better Terms 'Within 10 Minutes' After He Canceled Talks. CNN Host Asks John Fetterman Straight Up If Israel Support Is 'Hill' He's 'Willing To Die On'. Trump Is Going To The White House Correspondents’ Dinner. 12 Foreplay Tips You Haven't Heard A Million Times Before. # Princess Eugenie. \"The Young Victoria\" Premiere: Keira, Rupert, Emily Blunt And Some Princesses (PHOTOS).",
-      "published_at": "Sun, 26 Apr 2026 00:38:55 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導美國政治、名人活動及其他雜項資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1017,
-      "title": "Ex-Warriors star Klay Thompson accused of cheating off the court - New York Post",
-      "link": "https://nypost.com/2026/04/25/sports/klay-thompson-accused-of-cheating-by-megan-thee-stallion/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Ex-Warriors star Klay Thompson accused of cheating off the court. Klay Thompson has been accused of cheating … again, and this time there’s no defensive scheme a coach can draw up to help him. Thompson, now with the Mavericks and a former four-time NBA champion with the Warriors, found himself at the center of a storm Saturday after musician Megan Thee Stallion, whom he has been in a relationship with since last summer, publicly accused him of cheating on her. It wasn’t just the accusation — which is not the first time Thompson has been accused of infidelity — it was the tone. Megan famously spent holidays with Thompson and his family. Megan repeatedly showed up courtside to Thompson’s games. Thompson was most recently spotted with his mother, Julie, on April 14 at Megan’s Broadway performance of “Moulin Rouge.”. In a statement to our very own Page Six, Megan said it was her decision to end the relationship with Thompson. Thompson has yet to respond to Megan’s claims.",
-      "published_at": "Sat, 25 Apr 2026 22:39:19 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於NBA球星Klay Thompson被指控劈腿，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1018,
-      "title": "Matt Dillon Debuts West African Inspired Art Exhibition in New York - Fakta.co",
-      "link": "https://www.fakta.co/matt-dillon-west-africa-exhibition",
-      "source": "Tavily (www.fakta.co)",
-      "snippet": "# Matt Dillon Debuts West African Inspired Art Exhibition in New York. Actor Matt Dillon launched his debut solo art exhibition at The Journal Gallery in New York on Friday, April 24, 2026. \"It’s not meant to be a literal description of the work or place, but rather the feeling behind the work,\" said Michael Nevin, Co-founder of The Journal Gallery. Julia Dippelhofer, the gallery's other co-founder, described Dillon's approach to gathering inspiration during his journeys. He will pick up found textbooks or old newspapers to be repurposed as sketchbooks,\" said Julia Dippelhofer, Co-founder of The Journal Gallery. \"He is like a sponge and a great storyteller,\" said Julia Dippelhofer, Co-founder of The Journal Gallery. ## Vancouver Whitecaps Face Relocation Risks Amid Record Winning Streak. ## Matt Dillon Debuts West African Inspired Art Exhibition in New York. ## Vancouver Whitecaps Face Relocation Risks Amid Record Winning Streak. ## Matt Dillon Debuts West African Inspired Art Exhibition in New York.",
-      "published_at": "Sun, 26 Apr 2026 03:17:13 GMT",
-      "collected_at": "2026-04-26 04:05:00",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於演員Matt Dillon在紐約舉辦的西非主題藝術展覽，以及溫哥華白帽隊的相關資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 36,
-    "report_date": "2026-04-28",
+    "id": 37,
+    "report_date": "2026-04-29",
     "total_articles": 11,
     "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日搜集到的新聞中，沒有任何關於周杰倫的報導。因此，無法提供周杰倫相關的焦點摘要。",
+    "negative_count": 1,
+    "neutral_count": 10,
+    "daily_summary": "今日搜集的新聞中，沒有關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影的票房表現、其家族成員的性侵訴訟，以及其他藝人的新專輯發行與巡演動態。",
     "key_events": [
-      "無周杰倫報導",
-      "無相關焦點",
-      "無重要事件"
+      "麥可傑克森傳記電影大賣",
+      "麥可家族性侵訴訟",
+      "嘻哈歌手謀殺案認罪"
     ],
-    "created_at": "2026-04-28 04:24:23"
+    "created_at": "2026-04-29 04:11:14"
   },
   "recentReports": [
+    {
+      "id": 37,
+      "report_date": "2026-04-29",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 10,
+      "daily_summary": "今日搜集的新聞中，沒有關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影的票房表現、其家族成員的性侵訴訟，以及其他藝人的新專輯發行與巡演動態。",
+      "key_events": [
+        "麥可傑克森傳記電影大賣",
+        "麥可家族性侵訴訟",
+        "嘻哈歌手謀殺案認罪"
+      ],
+      "created_at": "2026-04-29 04:11:14"
+    },
     {
       "id": 36,
       "report_date": "2026-04-28",
@@ -653,21 +668,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Lil Tjay on Offset, Justin Bieber, and Keeping His Foot on the Gas - Billboard、He's the only 6-time Teen Choice Awards nominee to write a bestselling economics book - NBC New York、'Michael' drama: Which Jacksons said 'no thanks' and why the film cut the sexual abuse claims - Los Angeles Times",
       "created_at": "2026-04-23 03:56:23"
-    },
-    {
-      "id": 30,
-      "report_date": "2026-04-22",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "今日新聞搜集結果顯示，並無任何關於周杰倫的報導或相關焦點。所有主要娛樂新聞集中於歐美藝人動態，例如麥可傑克森傳記電影《Michael》的評價與首映，肯伊威斯特因法國政府禁令而延期馬賽演唱會，以及小賈斯汀在Coachella音樂節的演出表現。此外，多位歌手如Kehlani、Billie Eilish、Bruno Mars等亦有新專輯、巡演及音樂節的最新消息。因此，今日無周杰倫的最新動態可供摘要。",
-      "key_events": [
-        "無周杰倫報導",
-        "《Michael》影評",
-        "Kanye演唱會延期"
-      ],
-      "created_at": "2026-04-22 06:27:54"
     }
   ]
 }
