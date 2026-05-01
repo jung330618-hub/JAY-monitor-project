@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 11,
+    "total": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 11
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 1071,
+    "total": 1081,
     "positive": 338,
     "negative": 46,
-    "neutral": 687,
+    "neutral": 697,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-16",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-17",
       "total": 7,
@@ -132,9 +124,157 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-01",
+      "total": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1072,
+      "title": "Michael’s a Sensational Experience - Splice Today",
+      "link": "https://www.splicetoday.com/moving-pictures/michael-s-a-sensational-experience",
+      "source": "Tavily (www.splicetoday.com)",
+      "snippet": "Bad news: the Michael Jackson movie’s kind of a blast. Most of the movie is made up of these flash cards, with the exception being the titanic set pieces featuring Michael in performance. The concert sequences are what sell the movie, and Jaafar Jackson (Jermaine’s son, Michael’s portrayer in the film) does them justice with a fine duplication of his uncle’s brilliance. That crisis was supposed to be the frame for the movie, with the fast trot coming in as a series of flashbacks before Michael resolved the crisis and the movie wrapped up. Luckily for the moviemakers, the story of Michael Jackson remains remarkable no matter what. But as long as we’re not being honest, *Michael*’s about the best Michael Jackson movie possible. Jaafar Jackson’s good as Michael speaking and very good as him dancing. The boys shift a lot on the sofa; Mr. Jackson lays into little Michael, and the boys bite their lips and shake their heads.",
+      "published_at": "Tue, 28 Apr 2026 10:32:51 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要內容為關於麥可傑克森傳記電影《Michael》的評論。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1073,
+      "title": "Who’s Who in ‘Michael’: A Guide to the Characters - The New York Times",
+      "link": "https://www.nytimes.com/2026/04/24/movies/michael-jackson-movie-cast-characters.html",
+      "source": "Tavily (www.nytimes.com)",
+      "snippet": "# Who’s Who in ‘Michael’: A Guide to the Characters - The New York Times. Movies|Who’s Who in ‘Michael’: A Guide to the Characters. # Who’s Who in ‘Michael’: A Guide to the Characters. A new Michael Jackson biopic, with the star’s nephew Jaafar Jackson in the title role, is packed with famous musical figures. Miles Teller as John Branca, Michael Jackson’s lawyer and a co-executor of his estate.Credit...Lionsgate. The new Michael Jackson biopic, “Michael,” is filled with music-world royalty. The film also stars Colman Domingo (“Euphoria”) as Michael Jackson’s father, Joe Jackson; Miles Teller (“Whiplash”), who plays John Branca, Jackson’s lawyer and manager; and Nia Long (“Boyz N the Hood”) as the pop legend’s mother, Katherine. It was Berry Gordy, who, while leading the Motown Records label he’d founded, plucked Michael and four of his brothers from obscurity and went on to mentor them to stardom as the Jackson 5.",
+      "published_at": "Fri, 24 Apr 2026 09:00:06 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞介紹了即將上映的麥可傑克森傳記電影《Michael》中的主要角色及其演員陣容，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1074,
+      "title": "The inescapable unease of the Michael Jackson biopic - Salon.com",
+      "link": "https://www.salon.com/2026/04/25/michael-review-michael-jackson-biopic-is-distinctly-uneasy/",
+      "source": "Tavily (www.salon.com)",
+      "snippet": "(Lionsgate) Jaafar Jackson as Michael Jackson in “Michael”. No matter how sanitized and safe the movie may be — and rest assured, it’s as sterile as possible — there was no way Fuqua’s film wasn’t going to unearth mountains of readily available information and firsthand quotes from Jackson himself that cast a sickly spotlight over the singer. Audience members clapped and sang along to “Thriller” and “Wanna Be Startin’ Somethin’,” and whooped every time Michael — played with admittedly impressive accuracy by Jackson’s nephew, Jaafar — hit a spin or kick. It appears that these scenes were scattered heavily throughout “Michael” so that the film could use them to convince viewers that Jackson never did anything wrong. “Michael” still ends on a high note — one of Jackson’s last — as the singer readies the release of 1988’s “Bad.” Ironically, it’s the time when Jackson’s music and personal affairs started to become bad, too.",
+      "published_at": "Sat, 25 Apr 2026 16:00:27 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要討論麥可傑克森傳記電影的爭議性呈現。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1075,
+      "title": "Bruno Mars Scores Another Hit Album Weeks After Dropping ‘The Romantic’ - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/music/articles/bruno-mars-scores-another-hit-133000466.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "# Bruno Mars Scores Another Hit Album Weeks After Dropping ‘The Romantic’. The Grammy winner is known to space his projects apart by several years, and Mars made fans wait an entire decade between his two most recent solo collections, *24K Magic* and *The Romantic*. Less than two months after dropping *The Romantic*, Mars collects a new top 10 album on multiple *Billboard* charts – though the music featured on his latest release will be familiar to not only his diehard followers, but anyone who’s tuned into top 40 radio in the past decade. ## Bruno Mars’s *Collaborations* Debuts Inside Top 10. ## Bruno Mars’s *Collaborations* Lands on Two Charts. Mars earns his fourth top 10 on the Vinyl Albums chart, which is centered entirely around the country’s bestselling releases on wax. ## Bruno Mars Has Collected a Pair of Sales No. 1s.",
+      "published_at": "Thu, 30 Apr 2026 13:30:00 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於火星人布魯諾（Bruno Mars）的新專輯《Collaborations》在多個排行榜上取得成功，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1076,
+      "title": "RZA on writing and directing new film and induction into Rock & Roll Hall of Fame - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/642480",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Wu-Tang Clan co-founder RZA tells ABC News' Linsey Davis about writing and directing his new film \"One Spoon of Chocolate,\" and his soon-to-be induction into the Rock & Roll Hall of Fame. ––– Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” —–– Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Thu, 30 Apr 2026 07:20:00 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於RZA的新電影與入選搖滾名人堂，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1077,
+      "title": "What to do in Chicago: Demi Lovato, Asian American Arts Festival and a boat birthday party - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/2026/04/30/what-to-do-chicago-may2/",
+      "source": "Tavily (www.chicagotribune.com)",
+      "snippet": "# What to do in Chicago: Demi Lovato, Asian American Arts Festival and a boat birthday party. Just after dropping eight new tracks on an expanded version of her latest album, “It’s Not That Deep,” Demi Lovato stages a dance party in the United Center. 8 p.m. May 1 at United Center, 1901 W. 7 p.m. May 2 at the Chicago Theatre, 175 N. Maybe you know him as Earn’s uncle on “Atlanta” — a guest role for which Williams won an Emmy — or Money Mike in “Friday After Next.” Get the behind-the-scenes stories in his forthcoming memoir, due out this fall, “Nine Lives, No Wives, and 69 Concubines.” 8 p.m. May 2 at United Center, 1901 W. 7 p.m. May 3 at The Chicago Theatre, 175 N. 8 p.m. May 2 at Rosemont Theatre, 5400 N. Michigan Ave.; and 7:30 p.m. May 10 in Nichols Concert Hall, Music Institute of Chicago, 1490 Chicago Ave., Evanston; tickets from $15 at orionensemble.org.",
+      "published_at": "Thu, 30 Apr 2026 18:21:36 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導芝加哥的活動資訊，包括黛咪·洛瓦托的演出和亞洲裔美國人藝術節等，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1078,
+      "title": "ASCAP Screen Awards Honor 'Wicked,' 'Palm Royale,' 'Pluribus' Composers - Variety",
+      "link": "https://variety.com/2026/film/news/ascap-screen-music-awards-wicked-palm-royale-composers-1236733085/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# ASCAP Screen Music Awards Honor Composers for ‘Wicked,’ ‘Palm Royale,’ ‘Pluribus’ and ‘Stranger Things’; David Vanacore Gets Lifetime Honor. At the annual ASCAP Screen Music Awards Tuesday night, the performing rights organization announced the winners of its Composers Choice Awards, a set of honors voted upon by members, with trophies going to the scorers for “Wicked: For Good,” “Palm Royale,” “Stranger Things,” “Pluribus” and the latest “Star Wars” video game, among other projects. Documentary film score of the year went to Blair Mowat for “The Age of Disclosure.” Amanda Jones picked up the documentary series score of the year award for “Hurricane Katrina: Rage Against Time.”. * ### CBS Says It Will Develop New Late Night Concepts After Axing Stephen Colbert, but ‘Immediate Profitability’ Is the Focus With New Byron Allen Deal. * ### ‘Marshals’ Most-Watched New TV Show of the Season, as CBS Touts Its Broadcast and Streaming Strength Against Competitors.",
+      "published_at": "Wed, 29 Apr 2026 14:39:24 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於ASCAP螢幕音樂獎的得獎者，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1079,
+      "title": "Monica Lewinsky Jokes About Bill Clinton Affair on Video - TMZ",
+      "link": "https://www.tmz.com/2026/04/24/monica-lewinsky-jokes-about-bill-clinton-affair/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Monica Lewinsky Jokes About Bill Clinton Affair on Video. ## Monica Lewinsky on Clinton Affair You Gotta Be Able to Laugh at Yourself!!! Video: Monica Lewinsky Jokes About Bill Clinton Affair on Video. **Monica Lewinsky** is able to laugh at her infamous past with **Bill Clinton** ... As you know, Lewinsky and Clinton were involved in a scandalous affair when she was 22 --and he was 49 and married, and president -- in the 1990s. Video: Monica Lewinsky Slams Jay Leno, Says She Was His Top Target on His Show | TMZ Live. #### Jay Leno Denies He Targeted Monica Lewinsky, Says She Was Fair Game. #### Monica Lewinsky Slams Jay Leno, Says She Was His Top Target on His Show. #### Monica Lewinsky Says Bill Clinton Should Apologize But She Doesn't Need It. #### Monica Lewinsky Had Suicidal Thoughts During Clinton Affair Scandal. Monica Lewinsky   Bill Clinton   Jay Leno   Celebrity News   Relationships   Scandals   Politics   Exclusive.",
+      "published_at": "Fri, 24 Apr 2026 13:23:58 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要關於Monica Lewinsky對與Bill Clinton緋聞的自嘲，以及她與Jay Leno的爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1080,
+      "title": "11 Best Moments From 2026 Billboard Women in Music - Billboard Canada",
+      "link": "https://ca.billboard.com/music/awards/11-best-moments-from-2026-billboard-women-in-music",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "In a night all about women supporting women, Zara Larsson took the Billboard Women in Music mission statement literally on Wednesday night (April 29) at the Hollywood Palladium, with the Swedish pop star being held aloft by her four backup dancers as she flawlessly performed her Grammy-nominated song “Midnight Sun.”. In presenting the 2026 Billboard Women in Music Impact award to Kehlani, Ciara said she’s especially pleased “when I get to celebrate an artist whose music keeps climbing the charts and whose compassion [for helping others] is off charts.”. The Live Nation-promoted tour promoting the album due out on June 12 will find the “Good 4 U” singer doubling-up for shows in Pittsburgh, Washington, D.C., Charlotte, N.C., Chicago, Boston, Montreal, Toronto, Columbus, Philadelphia, Atlanta, Orlando, Sunrise, Fl., Nashville, Vancouver, Seattle, Oakland, Sacramento and Las Vegas, with four shows planned at the Intuit Dome in Los Angeles and four more at the Barclays Center in Brooklyn in February 2027 before moving on to Europe and the U.K. The tour, which will feature support on select dates from Wolf Alice, Devon Again, The Last Dinner Party, Grace Ives and Die Spitz, is slated to wrap up on May 2 with the second of two stops at Palau Sant Jordi in Barcelona, Spain on the follow-up to the singer’s 2024-2025 Guts world tour, which played 95 sold-out shows to over 1.4 million fans.",
+      "published_at": "Thu, 30 Apr 2026 14:04:20 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於2026年Billboard女性音樂獎及其他藝人的巡演資訊，內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1081,
+      "title": "Tickets for dozens of Bay Area concerts are $30, from Santana to TLC - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/live-nation-concerts-22232459.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "Bay Area music lovers can purchase tickets to some of the summer’s hottest shows for just $30 as part of Live Nation’s latest fan initiative. The promoter’s new Summer of Live program is offering a limited number of discounted tickets to more than 4,000 shows across North America through Tuesday, May 5. The Bay Area is hosting a slate of Summer of Live shows from May through November, with concerts including Machine Gun Kelly at Wheatland’s Toyota Amphitheatre on May 15; Kesha (May 27), Lil Wayne (July 31) and TLC and Salt-N-Pepa (Oct. 11) at Toyota Pavilion at Concord;  Luke Bryan (Aug. 14), Santana and the Doobie Brothers (Aug. 9) and John Mellencamp (Aug. 12) at Shoreline Amphitheatre in Mountain View; and Zayn (Sept. The offer is similar to Live Nation’s annual Concert Week initiative, which usually runs in May. In 2024, it offered $25 tickets to 90 Bay Area concerts, including Peso Pluma, Maxwell and Missy Elliott. Review: ‘Exit 8’ is a mind-bending Japanese thriller stuck in an endless loop.",
+      "published_at": "Wed, 29 Apr 2026 22:36:30 GMT",
+      "collected_at": "2026-05-01 04:37:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Live Nation在舊金山灣區推出多場演唱會的優惠票價活動，但內容並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1061,
       "title": "Michael Jackson Biopic Cast Looks Shockingly Like The Real People They Play - HuffPost",
@@ -414,164 +554,39 @@
       "summary": "此新聞報導主要關於ZHU加入Pacha New York的2026年演出陣容，內容未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1059,
-      "title": "Jalen Brunson scores 39 points and the Knicks rout the Hawks 126-97 for a 3-2 series lead - AP News",
-      "link": "https://apnews.com/article/knicks-hawks-score-nba-playoffs-7ccf847242ff87af923f51ae6ad20eaa",
-      "source": "Tavily (apnews.com)",
-      "snippet": "New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson, left, and OG Anunoby, right, defend Atlanta Hawks’ Jalen Johnson, center, during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. New York Knicks’ Jalen Brunson drives past Atlanta Hawks’ Dyson Daniels (5) during the first half in Game 5 of a first-round NBA playoffs basketball series, Tuesday, April 28, 2026, in New York. NEW YORK (AP) — Jalen Brunson scored 39 points, nearly extending his own franchise record for 40-point playoff games, and the New York Knicks routed the Atlanta Hawks 126-97 on Tuesday night for a 3-2 lead in the first-round playoff series.",
-      "published_at": "Wed, 29 Apr 2026 02:57:03 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了NBA季後賽中，Jalen Brunson攻下39分帶領尼克隊以126-97擊敗老鷹隊，取得系列賽3-2領先。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1060,
-      "title": "Kylie Jenner joins boyfriend Timothee Chalamet in star-filled crowd for Knicks-Hawks Game 5 at MSG - New York Post",
-      "link": "https://nypost.com/2026/04/28/sports/kylie-jenner-boyfriend-timothee-chalamet-at-knicks-hawks-game-5/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Kylie Jenner joins boyfriend Timothee Chalamet in star-filled crowd for Knicks-Hawks Game 5 at MSG. You know it’s a big game when Kylie Jenner is back in her place next to boyfriend Timothée Chalamet on celebrity row at Madison Square Garden. Kylie Jenner is all smiles as she sits next to her boyfriend Timothee Chalamet on celebrity row during Game 5 of a first-round NBA playoffs basketball game in the second quarter at Madison Square Garden JASON SZENES FOR THE NEW YORK POST. Cam Skattebo and his girlfriend Chloe Rodriguez sit on celebrity row during Game 5 of a first-round NBA playoffs basketball game in the first quarter at Madison Square Garden JASON SZENES FOR THE NEW YORK POST. Ben Stiller and Spike Lee celebrate during the game between the Knicks' Game 5 game against the Hawks in the first round of the NBA Playoffs on April 28, 2026 at Madison Square Garden.",
-      "published_at": "Wed, 29 Apr 2026 02:00:16 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Kylie Jenner與Timothee Chalamet等名人出席NBA賽事，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1039,
-      "title": "Aspinall Returns to Training After Eye Surgery - Telecom Asia Sport",
-      "link": "https://www.telecomasia.net/news/mma/aspinall-returns-to-training-after-eye-surgery/",
-      "source": "Tavily (www.telecomasia.net)",
-      "snippet": "## #中传砍掉翻译摄影等16个专业# ​. 【#中传砍掉翻译摄影等16个专业##廖祥忠称AI时代课堂须彻底重构# 】近日，中国传媒大学党委书记廖祥忠表示，中传一口气砍掉翻译、摄影等16个本科专业和方向，未来将是“人机分工时代”，正在做课堂革命，课堂必须彻底重构，老师需要搞清自己在整个知识体系中承担什么作用，剩下的交给AI。 ​​​​ ​. ## 热门微博. ### 【#中传砍掉翻译摄影等16个专业##廖祥忠称AI时代课堂须彻底重构# 】近日，中国传媒大学党委书记廖祥忠表示，中传一口气砍掉翻译、摄影等16个本科专业和方向，未来将是“人机分工时代”，正在做课堂革命，课堂必须彻底重构，老师需要搞清自己在整个知识体系中承担什么作用，剩下的交给AI。 ​​​​...展开全文*c*. ### 【#中传党委书记回应砍掉16个本科专业#：未来是“人机分工时代”，教育变革迫在眉睫】#中传砍掉翻译摄影等16个专业# 据央视新闻3月8日报道，全国政协委员、中国传媒大学党委书记廖祥忠表示，去年，中国传媒大学一口气砍掉了翻译、摄影等16个本科专业和方向。 廖祥忠提到，今年Seedance2.0出 ​​​​...展开全文*c*. ## 热门视频. ### 【#中传砍掉翻译摄影等16个专业#】近日，中国传媒大学党委书记廖祥忠表示，中传一口气砍掉翻译、摄影等16个本科专业和方向，未来将是“人机分工时代”，正在做课堂革命，课堂必须彻底重构，老师需要搞清自己在整个知识体系中承担什么作用，剩下的交给AI。*L*荔枝新闻的微博视频 ​​​​. ### #中传砍掉翻译摄影等16个专业# 近日，中国传媒大学党委书记廖祥忠表示，中传一口气砍掉翻译、摄影等16个本科专业和方向，未来将是“人机分工时代”，正在做课堂革命，课堂必须彻底重构，老师需要搞清自己在整个知识体系中承担什么作用，剩下的交给AI。 未来真的不知不觉的到来了，AI对很多行业的冲击 ​​​​...展开全文*c*. ## 全部微博. ### #中传砍掉翻译摄影等16个专业#中传把翻译专业都砍掉了，英语在课堂上的比重也该适当降低了，我以前是上初中的时候才开始学英语，现在的孩子幼儿园就开始学英语了，不但在学校学英语，放了学还要在辅导班学英语，英语的学习压力实在是太大了。 ​​​​. ### #中传砍掉翻译摄影等16个专业#微软在2025年发布过受AI影响最大的40个职业。 整体看下来，一些看起来体面的工作被AI代替了，反而像油漆工：洗碗工、护工等费力的工作需要人来做。 ​​​​. ### #中传砍掉翻译摄影等16个专业#看这张图就好了 单位时间收益越高的行业越值得设计、使用ai也越容易被替代。 2026年3月5日，Anthropic 的研究显示：理论上可被AI覆盖的职业远多于现实已经被替代的职业。这意味着，人类社会正处在技术能力与产业落地之间的时间差阶段。 AI首先渗透的是知识密集型领域— ​​​​...展开全文*c*. ### 受AI影响程度最高的职业TOP 10。 计算机程序员、客服、数据录入员排前三。 整体来说，金融、计算机、行政、法律等中产相关工作影响较大。 服务员、厨师、维修工等蓝领影响微乎其微。 以为AI会让人解放出来，有更多时间干别的。 实际可能是把人都往蓝领挤 ...展开全文*c*. ## 微博推荐. ### #橹穆双人舞台百天播放量# 在线人数突破15w+ 弹幕量，评论数均全站第一 加急安排橹穆双人规划！ ...展开全文*c*. ### #内娱进入开机冷静期# 最近，一则“同一艺人四部剧都没过会”的爆料掀起热议。“四连不过”的说法，精准戳中了当下市场最敏感的神经。网友按图索骥，将猜测矛头指向去年播剧成绩不佳的男演员。 虽然无法点名，但这种情况绝非个例。因此，比起纠结“他是谁”，更值得追问的是“为什么”。 今年以来， ​​​​...展开全文*c*. ### 出门记得涂好防晒哦 #朝朝穆穆# ​​​​. ### 我和春天一起来给你们跳舞了 #susu福福# 🍃#苏新皓框框跳# *L*TOP登陆少年-苏新皓的微博视频 ​​​​. ### 试了试slap看了看时间该sleep🥱 #22X日志# ​​​​. ### 【#张凌赫谈演员的社会责任#】#张凌赫说会听取帮助自己的声音# 近日，演员@张凌赫z 接受采访，讲述在纪录片《凌探未来》中化身“电力张工”的故事。张凌赫说，希望用影响力传播更多好的公益内容，也坦言会听取帮助自己的声音，继续踏实前行。点击视频，看采访完整版↓ *L*新华社的微博视频 ​​​​. ### 嘿嘿 ​​​​. ### 叮！您有一份惊喜彩蛋待查收✉️ 巴黎欧莱雅青春代言人@TF\\_ING穆祉丞MUA 精彩拍摄花絮首发来袭～ 通勤🚲度假⛱️打球🎾 场景变换不停，肌肤好状态却始终如一 想知道小穆的秘密装备？答案马上揭晓✨ ...展开全文*c*. ## 微博实时热点. ### #四晚494元房间被退单后变一晚569元#. 【#四晚494元房间被退单后变一晚569元# 当事人：店方谎称老板离世，门店将被查封】#酒店回应低价订五一房间被退单#提前两个月低价预订五一酒店，临近出行却被商家以“老板离世、门店将被查封”等离谱理由要求退房。近日，消费者张女士在社交平台反映，柳州胡同七号酒店无端违约，捏造虚假事由逼迫顾客 ​​​​. ### #茶卡盐湖心形雕塑被吐槽画蛇添足#. 【#茶卡盐湖心形雕塑被吐槽画蛇添足#，景区：此前有游客反馈没打卡点，委托专业人员设计】#茶卡盐湖回应心形雕塑争议#近日，有网友发视频吐槽称，青海海西茶卡盐湖景区中一座心形积木雕塑造型“辣眼睛”，其红绿蓝的配色与周边的自然景观格格不入。在评论区，有不少网友评论表示支持，称在自然景区内摆 ​​​​. ### #广交会点燃入境消费新热潮#. 【#广交会点燃入境消费新热潮#】#广交会让老外爱上中国购# 今天（27日）是第139届广交会二期的最后一天。本届广交会举办以来，超过200个国家和地区的数十万名境外采购商涌入了广东广州，广交会牵起的国际商旅线，让广州的烟火气遇见国际范，也点燃了入境消费的新热潮。广州塔旅游区采购了一批翻译机发 ​​​​. ### 华住会崩了. ### #黄金被扣30年将按正常时效处理#. #黄金被扣30年将按正常时效处理#【警方回应“2859克黄金被扣押30年申请退赔遭拒”：很重视，正按复议程序推进】#黄金被扣30年正按复议程序推进##警方回应男子被扣黄金30年# 近日，“男子30年前被警方扣押2859克黄金申请退赔遭拒”一事引发关注。4月27日，当事人潘永嘉的代理律师张铁雁告诉红星新闻记者 ​​​​.",
-      "published_at": "Mon, 27 Apr 2026 12:16:43 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要探討中國傳媒大學因應AI時代調整專業設置，以及其他社會熱點，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1040,
-      "title": "“Michael,” the highly anticipated biopic on the late pop superstar Michael Jackson, debuted at the top of the North American box office. Link to full story in the comments section. - facebook.com",
-      "link": "https://www.facebook.com/abscbnNEWS/posts/michael-the-highly-anticipated-biopic-on-the-late-pop-superstar-michael-jackson-/1489484413226810/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# ABS-CBN News - “Michael,” the highly anticipated biopic on... “Michael,” the highly anticipated biopic on the late pop superstar Michael Jackson, debuted at the top of the North American box office. Image 1: May be an image of text that says 'Michael Jackson biopic debuts atop North America box office UniversalPictures Jniversal Picture ABSOCBN CBN NEWS'. Image 5: Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. Image 34: Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. ### Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. LONG LIVE TO THE KINGImage 15: 👑 OF POP,MICHAEL JACKSON!!! even in movie, Michael Jackson is really a HIT! ### Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. Michael Jackson biopic debuts atop North America box office | ABS-CBN Entertainment. LONG LIVE TO THE KINGImage 44: 👑 OF POP,MICHAEL JACKSON!!!",
-      "published_at": "Tue, 28 Apr 2026 03:00:48 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導麥可傑克森的傳記電影在北美票房表現亮眼，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1041,
-      "title": "Are my Pokémon and K-pop cards worthless? A pro assessor told me the answer. - Business Insider",
-      "link": "https://www.businessinsider.com/card-collecting-pokemon-kpop-photocard-pro-assessor-value-psa-grading-2026-4",
-      "source": "Tavily (www.businessinsider.com)",
-      "snippet": "* I have a collection of around 500 Pokémon and K-pop photo cards. I took my cards to Johnathan Lim at Singapore's Oxley Grading, a business that helps collectors assess cards before they decide whether or not to send them in for grading at businesses like PSA and CGC. Lim likened collecting ~~of~~ valuable Pokémon cards to the stock market. \"That's like buying a meme stock,\" Lim said,explainingI'd have to watch the market for anomalous surges and sell the cards at the right time. Of my close to 50 Pokémon cards,Lim said only one or two might get a PSA 9 or 10 when graded. One card of the \"Final Fantasy\" character Sephiroth — which I was gifted — is in great condition, Lim said, and I can consider grading it to lock in its value. As for the K-pop cards, Lim said I'd likely be at the mercy of market volatility. Based on Lim's pre-grading, it doesn't look likely that I'll secure a $100,000 valuation on my badly-cut Flareon Pokémon card.",
-      "published_at": "Tue, 28 Apr 2026 04:08:01 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於寶可夢和K-pop卡片的價值評估，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1042,
-      "title": "\"Jayson Tatum's comments I thought were super classy, … - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/jayson-tatums-comments-thought-were-021057917.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "+ The Boys in the Back. + The Craic with Petesy Carroll. Uncrowned is a new destination for all things MMA, boxing, wrestling, and more, featuring Ariel Helwani. Yahoo Soccer is powered by OneFootball, the ultimate destination for news, live matches, scores, highlights, and more. Yahoo Racing is powered by Motorsport Network, providing expert reporting, analysis, and insider access across the world’s top racing series. * Cooper Flagg wins NBA ROY. # \"Jayson Tatum's comments I thought were super classy, …. > Dane Moore: Chris Finch when asked about his communication with Donte DiVincenzo following his injury cited Jayson Tatum's comments. \"Jayson Tatum's comments I thought were super classy, kind and compassionate. I know Donte has heard them. And he's been such a great example of what's possible.\". *This article originally appeared on Hoops Hype: \"Jayson Tatum's comments I thought were super classy, …*.",
-      "published_at": "Tue, 28 Apr 2026 02:10:57 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於籃球運動員Jayson Tatum的言論，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1043,
-      "title": "Max Eberl loves the spectacle of Bayern Munich vs. PSG - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/max-eberl-loves-spectacle-bayern-023000975.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "# Max Eberl loves the spectacle of Bayern Munich vs. Bayern Munich board member for sport Max Eberl is just another fan at this point — he is just as excited as the supporters from each club to watch the Bavarians face off with Paris Saint-Germain in the Champions League. It’ll be incredibly exciting to see how this tie unfolds,” said Eberl (as captured by @iMiaSanMia). It will be incredibly exciting to see what happens, because two evenly matched teams, Paris and Bayern, are facing each other.”. Like many fans, Eberl is disappointed that Bayern Munich head coach Vincent Kompany will not be leading the squad vs. “Vincent Kompany is our head coach, and we would have liked to have everyone available. That’s why I’m not worried,” Eberl said. *If you are looking for more Bayern Munich and German national team coverage, check out the latest episodes of Bavarian Podcast Works, which you can get on Acast, Spotify, Apple, or any leading podcast distributor…*.",
-      "published_at": "Tue, 28 Apr 2026 02:30:00 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導拜仁慕尼黑與巴黎聖日耳曼的足球賽事。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1044,
-      "title": "A Guilty Plea in Jam Master Jay’s Murder, Two Decades Later - The New York Times",
-      "link": "https://www.nytimes.com/2026/04/27/nyregion/jam-master-jay-run-dmc-murder-plea.html",
-      "source": "Tavily (www.nytimes.com)",
-      "snippet": "# A Guilty Plea in Jam Master Jay’s Murder, Two Decades Later - The New York Times. New York|A Guilty Plea in Jam Master Jay’s Murder, Two Decades Later. # A Guilty Plea in Jam Master Jay’s Murder, Two Decades Later. Jay Bryant’s admission of guilt on Monday was the first time anyone had publicly acknowledged orchestrating the 2002 killing of Jam Master Jay, the D.J. of Run-DMC. A man accused of conspiring to kill Jason Mizell, known as Jam Master Jay, the pioneering D.J. of the rap group Run-DMC, pleaded guilty on Monday to taking part in a murder plot that had baffled investigators for nearly two decades. The admission from Jay Bryant, 52, was the first time anyone had publicly acknowledged orchestrating the killing, which had shaken fans of Run-DMC, the hip-hop group known for its upbeat, sunny hip-hop in the late ’80s and early ’90s, distinct from the gangster rap taking over at the time.",
-      "published_at": "Mon, 27 Apr 2026 18:47:24 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Run-DMC的DJ Jam Master Jay謀殺案的認罪進展，與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1045,
-      "title": "Man pleads guilty to murder 2 decades after death of Run DMC's Jam Master Jay - BBC",
-      "link": "https://www.bbc.com/news/articles/c78q55nxdp3o",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "# Man pleads guilty to murder 2 decades after death of Run DMC's Jam Master Jay. A man has pleaded guilty to a charge of murder more than 20 years after the fatal ambush shooting of Run-DMC's Jam Master Jay. Jay Bryant, 52, changed his plea on Monday to guilty, telling a judge that he helped others get into a building to ambush and kill Jay Mizell, the pioneering rap star who was known as Jam Master Jay. Prosecutors said that Bryant's DNA was found on a hat inside the recording studio where Mizell was shot in the head in 2002. Prosecutors argued in court that Jordan and Washington planned the \"execution\" killing out of revenge after being cut out of a drug deal worth nearly $200,000. Prosecutors charged that he opened a back fire door to allow Jordan and Washington entry, and avoid buzzing into the studio so they could ambush Mizell.",
-      "published_at": "Mon, 27 Apr 2026 23:30:17 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "一名男子在Run-DMC成員Jam Master Jay遇害二十年後，承認謀殺罪名，揭露了這起因毒品交易糾紛引發的槍擊案細節。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1046,
-      "title": "Third man charged in Jam Master Jay murder changes plea to guilty - CBS News",
-      "link": "https://www.cbsnews.com/newyork/news/jay-bryant-jam-master-jay-murder/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "# Third man charged in Jam Master Jay murder changes plea to guilty. One of the three men charged in the killing of hip-hop icon Jam Master Jay changed his plea to guilty in court on Monday. Jam Master Jay, whose real name was Jason Mizell, was killed in 2002 inside a music studio in Hollis, Queens. Jay Bryant was charged in 2023, three years after Washington and Jordan. He changed his plea to guilty as an accomplice to Mizell's murder, after he originally pleaded not guilty to his earlier indictment. Prosecutors contended that Bryant slipped into the studio building and opened a back fire door so that Washington and Jordan could avoid buzzing up and could ambush the DJ. Prosecutors and trial witnesses said that Jordan shot the DJ while Washington blocked the door during the shooting and ordered one of Mizell's to get on the ground. #### Man charged with killing Run DMC member Jam Master Jay expected to plead guilty.",
-      "published_at": "Mon, 27 Apr 2026 18:23:40 GMT",
-      "collected_at": "2026-04-28 04:23:42",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "關於嘻哈偶像Jam Master Jay的謀殺案，第三名被告已認罪。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 38,
-    "report_date": "2026-04-30",
-    "total_articles": 11,
+    "id": 39,
+    "report_date": "2026-05-01",
+    "total_articles": 10,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日搜集到的娛樂新聞中，並未包含任何關於周杰倫的最新報導或焦點事件。本日娛樂頭條主要圍繞在Michael Jackson傳記電影的亮眼票房表現、多位國際藝人的個人生活動態，以及音樂界新專輯發行與巡迴演唱會的相關消息。整體而言，周杰倫今日並無公開活動或新聞曝光。",
+    "neutral_count": 10,
+    "daily_summary": "今日搜集到的新聞內容中，並未發現任何與華語天王周杰倫直接相關的報導或焦點事件。所有新聞主要集中於其他國際娛樂圈動態，例如麥可傑克森傳記電影《Michael》的票房表現與各界評價，該片首週開出亮眼成績，但也引發部分爭議。此外，還有布魯諾馬斯專輯熱賣、饒舌歌手Jay-Z的最新訪談、珍娜傑克森獲葛萊美名人堂肯定，以及多位歐美歌手的巡演資訊與獎項消息。其他報導則涵蓋體育賽事、名人戀情及法律案件等。因此，今日周杰倫並無新的娛樂新聞動態被提及。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫事件",
+      "無相關報導",
+      "今日無焦點"
     ],
-    "created_at": "2026-04-30 04:22:49"
+    "created_at": "2026-05-01 04:38:07"
   },
   "recentReports": [
+    {
+      "id": 39,
+      "report_date": "2026-05-01",
+      "total_articles": 10,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 10,
+      "daily_summary": "今日搜集到的新聞內容中，並未發現任何與華語天王周杰倫直接相關的報導或焦點事件。所有新聞主要集中於其他國際娛樂圈動態，例如麥可傑克森傳記電影《Michael》的票房表現與各界評價，該片首週開出亮眼成績，但也引發部分爭議。此外，還有布魯諾馬斯專輯熱賣、饒舌歌手Jay-Z的最新訪談、珍娜傑克森獲葛萊美名人堂肯定，以及多位歐美歌手的巡演資訊與獎項消息。其他報導則涵蓋體育賽事、名人戀情及法律案件等。因此，今日周杰倫並無新的娛樂新聞動態被提及。",
+      "key_events": [
+        "無周杰倫事件",
+        "無相關報導",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-01 04:38:07"
+    },
     {
       "id": 38,
       "report_date": "2026-04-30",
@@ -661,17 +676,6 @@
         "娛樂版面未提及"
       ],
       "created_at": "2026-04-25 03:43:15"
-    },
-    {
-      "id": 32,
-      "report_date": "2026-04-24",
-      "total_articles": 16,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 16,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Review: Dancing around controversy, the empathetic 'Michael' bows out before getting dark - Los Angeles Times、Yung Gravy Signs With BMG for New Album - billboard.com、Fans reignite Drake vs Kendrick feud after album announcement - NBC News",
-      "created_at": "2026-04-24 04:00:33"
     }
   ]
 }
