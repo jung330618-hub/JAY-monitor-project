@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 10,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 10
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1081,
+    "total": 1090,
     "positive": 338,
     "negative": 46,
-    "neutral": 697,
+    "neutral": 706,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-17",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-18",
       "total": 11,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-02",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1082,
+      "title": "‘Michael’ moonwalks into a big box office debut - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-26/michael-box-office-ticket-sales-totals",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "“Michael,” the Michael Jackson biopic from Lionsgate, had a massive opening weekend with a box office haul of $97 million in the U.S. and Canada. The film, which stars Jackson’s nephew, Jaafar Jackson, as the late singer, beat studio expectations of a $65 million to $70 million debut. Many noted the plot sidesteps the child sexual abuse allegations against Jackson and said the film presents a more one-dimensional view of the singer. ### ‘Michael’ drama: Which Jacksons said ‘no thanks’ and why the film cut the sexual abuse claims. “Michael” chronicles Jackson’s life through the rise of The Jackson 5 and his budding solo career before ending in 1988 while he’s on tour for his hit album, “Bad.” The film stars Colman Domingo as the late singer’s father, Joe Jackson, and Nia Long as his mother, Katherine. ### Why the new Michael Jackson biopic is on track to break box office records.",
+      "published_at": "Sun, 26 Apr 2026 17:53:42 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》的票房表現與內容爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1083,
+      "title": "Jackson family eager to cash in after $217M opening weekend for 'Michael' - New York Post",
+      "link": "https://nypost.com/2026/05/01/entertainment/jackson-family-eager-to-cash-in-after-217m-opening-weekend-for-michael/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Jackson family eager to cash in after $217M opening weekend for ‘Michael’ —with talks of ‘Thriller’ tour and movie sequels. “The success of this movie didn’t just bring Michael back,” one family source told The Post. Renewed discussions about a Jackson family tour are already underway, with efforts to include Michael’s younger sister, Janet, as headliner. “[Studio] Lionsgate and the Jackson Estate haven’t made a definitive decision yet, but the family is supportive as long as the project is executed properly and the false allegations against Michael are not given excessive attention,” said a source. By most accounts, the first film already leaned heavily on Michael’s most powerful music catalog — the Jackson 5 years through his 1988 “Thriller” album. Sources say the next film is also expected to lean heavily into Michael’s personal life — including his marriages to Elvis Presley’s only daughter, Lisa Marie, and later to his nurse, Debbie Rowe, who gave birth to Michael’s oldest son, Prince, and his only daughter, Paris.",
+      "published_at": "Fri, 01 May 2026 10:00:00 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導麥可傑克森電影成功後，其家族積極規劃後續商業活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1084,
+      "title": "‘Owning Manhattan' Jade Shenker Fought Dad's Guardian Over Home Before Death - TMZ",
+      "link": "https://www.tmz.com/2026/04/30/jade-shenker-fought-late-fathers-guardian-over-home/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# ‘Owning Manhattan' Jade Shenker Fought Dad's Guardian Over Home Before Death. ## 'Owning Manhattan' Star Jade Shenker Fought Late Dad's Guardian ... According to court docs obtained by TMZ, Jade took issue with the guardian, **Bonnie Stevens**, refusing to provide her with certain financial documents related to her dad's home in New York. The guardian claimed Jade was not entitled to all the information she was seeking, but the reality star insisted she had a right to get the info and to participate in her dad's guardianship case. In court docs filed months before his death, Jade was fighting the guardian's attempt to get authorization to sell her dad's New York home, arguing that the guardian's \"mismanagement of the property and failure to properly seek refinancing options created the very circumstances the guardian now claims necessitate the property's sale.\". Jade believed a refinance could cover all expenses for her dad, while the guardian was seeking to sell to cover Marc's expenses and the professional fees for the guardianship.",
+      "published_at": "Thu, 30 Apr 2026 08:00:49 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞與周杰倫無關，主要報導《Owning Manhattan》明星Jade Shenker與其父親監護人之間關於房產的法律糾紛。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1085,
+      "title": "Carlos Vives Drops New Album ‘El Último Disco,’ But Assures He Has ‘No Plans to Retire’ - Billboard",
+      "link": "https://www.billboard.com/music/latin/carlos-vives-new-album-el-ultimo-disco-not-retiring-1236236872/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Carlos Vives Drops New Album ‘El Último Disco,’ But Assures He Has ‘No Plans to Retire’. Carlos Vives has unleashed his new studio album, *El Último Disco, Vol. 1*, a 10-track set that includes collaborations with Juan Luis Guerra, Nina Pastori, Sergio George and Josemi Carmona. It was recorded live in the studio, alongside musicians of exceptional caliber who are unafraid to sing of beautiful love and of their people.”. Crafted with the traditional rock-infused cumbia and vallenato sounds that made Vives a global powerhouse, *El Último Disco* is also charged with romantic lyrics about wooing someone like in the old days as heard in opening track “Te Dedico.”. The song also marks the final recording by Vives’ longtime and late accordionist Egidio Cuadrado, who passed away in 2024. But contrary to the album’s title, which translates to “the last album,” Vives is not going anywhere. “I have no plans to retire; on the contrary, I want to continue singing about beautiful love and for my people,” he assures.",
+      "published_at": "Fri, 01 May 2026 17:19:41 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於拉丁歌手Carlos Vives發行新專輯並澄清無意退休，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1086,
+      "title": "&TEAM Earn Best Sales Week As ‘We On Fire’ Moves 1.2 Million Copies - Forbes",
+      "link": "https://www.forbes.com/sites/jeffbenjamin/2026/04/29/team-earn-best-sales-week-as-we-on-fire-moves-12-million-copies/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "After making new sales history for Japanese artists by earning one-million-plus in album sales in both Korea and Japan, &TEAM proves their selling power was no fluke with another massive haul for their latest EP. Forbes&TEAM’s Debut Korean Album Sells Over 1 Million Copies In 1 DayBy Jeff Benjamin. In a week’s time, the EP also sold nearly 1.24 million copies worldwide, surpassing &TEAM’s previous first-week sales record of 1.22 million set by the breakaway success of their debut Korean EP, *Back to Life*, released last October. Maki, &TEAM’s youngest member, also shared how “another big goal is to one day release some English songs that we can perform in front of our global fans. *The new &TEAM EP* We on Fire *is available globally now and will be released physically in the U.S. on Friday, May 15.*.",
+      "published_at": "Wed, 29 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要報導團體&TEAM的專輯銷售佳績，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1087,
+      "title": "Dame Dash Says Ye Has A Better Catalog Than Jay-Z: ‘Kanye Destroys Jay’ - billboard.com",
+      "link": "https://www.billboard.com/music/rb-hip-hop/dame-dash-kanye-west-jay-z-catalog-1236237450/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Dame Dash Says Ye Has A Better Catalog Than Jay-Z: ‘Kanye Destroys Jay’. Dame Dash sat down with *Art of Dialogue* recently to talked about a variety of topics, one being the discographies of his former business partner Jay-Z (two co-founded Roc-A-Fella with Kareem Burke in 1994) and Ye (formerly known as Kanye West.). “Kanye destroys Jay,” he continued. Jay’s not an artist…I would say Jay’s just more of a — he’s cunning, and he doesn’t mind playing with the devil.”. When asked to elaborate on what he meant by “cunning,” Dame continued by saying “[Jay-Z] will make you believe he’s your brother when he really hates you. Why you think I gave it away,” he said referring to New York State auctioning off Dash’s Roc-A-Fella Inc. shares to collect on his back taxes. ### Want to know what everyone in the music business is talking about? ### Get in the know on. Visit Billboard Pro for music business news.",
+      "published_at": "Fri, 01 May 2026 22:00:03 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要討論Dame Dash對Kanye West與Jay-Z音樂作品的比較。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1088,
+      "title": "Zayn Cancels Multiple Konnakol Tour Dates, Including Entire U.S. Leg: ‘Been at Home Recovering’ - Billboard",
+      "link": "https://www.billboard.com/music/music-news/zayn-cancels-2026-us-tour-dates-1236236954/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Zayn Cancels Multiple Konnakol Tour Dates, Including Entire U.S. Leg: ‘Been at Home Recovering’. Zayn has announced major changes to his upcoming Konnakol Tour. ### Zayn Malik Reveals He’s Been Hospitalized on Day of New Album’s Release: ‘Still Unexpectedly Recovering’. ### Zayn Kicks Back With ‘Konnakol’: Stream It Now. The former One Direction announced the cancellation of 21 previously scheduled shows, including the trek’s entire U.S. leg, in an Instagram Story on Friday (May 1). “I’ve had to take another look at my schedule for the months ahead and have to reduce the number of shows on the Konnakol Tour,” he wrote. Zayn initially announced a 31-date Konnakol Tour on Feb. 5. Now, the entire U.S. leg of the tour and the first two U.K. shows have been canceled, with one rescheduled for May 24 at AO Arena in Manchester. Check out the remaining slate of dates for Zayn’s 2026 KONNAKOL tour below. ### Want to know what everyone in the music business is talking about?",
+      "published_at": "Fri, 01 May 2026 16:29:40 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞與周杰倫無關，主要報導Zayn Malik因健康問題取消多場巡演，包括整個美國站。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1089,
+      "title": "Madonna & Sabrina Carpenter, Kacey Musgraves & More: Which Is Your Favorite New Music Release This Week? Vote! - Billboard",
+      "link": "https://www.billboard.com/music/music-news/best-new-music-poll-kacey-musgraves-madonna-1236237124/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Madonna & Sabrina Carpenter, Kacey Musgraves & More: Which Is Your Favorite New Music Release This Week? This week also saw saw new music from Jessie Reyez, Lizzo, Sienna Spiro and more. The pop (and country!) girls are out in full force for this New Music Friday (May 1). ### Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson & More: New Music Friday Guide. In addition to Gaga’s three new songs, the *Devil Wears Prada 2* soundtrack also boasts a new track from Sienna Spiro titled “Material Lover.” “Build a B—h” singer Bella Poarch also shared her new “Ribcage” single. This New Music Friday also includes new songs from Labrinth (“Prostitute”), Lizzo (“Bitch”), Bella Kay (“Promise?”), Vince Staples (“Blackberry Marmalade”), Bryson Tiller (“It’s OK”), Maroon 5 (“Heroine”), Jessie Reyez and Muni Long (“Ain’t You Tired?”), Bleachers (“I’m Not Joking”) and DaBaby, Yung Miami, YKNIECE and GloRilal (“Pop Dat Thang” remix). Vote — or share your own pick — in *Billboard*‘s New Music Friday poll below:.",
+      "published_at": "Fri, 01 May 2026 18:22:10 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導本週歐美樂壇新發行音樂，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1090,
+      "title": "Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson & More: New Music Friday Guide - Billboard",
+      "link": "https://www.billboard.com/music/pop/madonna-sabrina-carpenter-new-music-friday-guide-1236236591/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson   Kacey Musgraves releases her anticipated album *Middle of Nowhere*; and Sienna Spiro appears on the star-studded *Devil Wears Prada 2* soundtrack, which is out now… plus much more. Kacey Musgraves has said her new album was largely inspired by the Mexican community, which you can hear across its tracks — including the buzzy “Horses and Divorces.” The duet made headlines long before it arrived thanks to its unexpected feature from country icon Miranda Lambert. Released as a disc two to her 2025 album *Midnight Sun*, this girl-powered new edition features 10 fresh takes on the original 10 tracks.",
+      "published_at": "Fri, 01 May 2026 05:19:34 GMT",
+      "collected_at": "2026-05-02 04:01:06",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導西方歌手的新音樂發行，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1072,
       "title": "Michael’s a Sensational Experience - Splice Today",
@@ -428,150 +554,39 @@
       "summary": "此新聞報導主要關於Keke Palmer主持Billboard Women in Music 2026並表演新歌，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1050,
-      "title": "Michael Jackson's Nephew Says Critics Will \"Have to Eat Crow\" as 'Michael' Biopic Opens to Rotten Reviews - MovieWeb",
-      "link": "https://movieweb.com/michael-jackson-nephew-defends-biopic-critics-reviews/",
-      "source": "Tavily (movieweb.com)",
-      "snippet": "# Michael Jackson's Nephew Defends Biopic in Wake of Rotten Reviews. The film, starring Jaafar Jackson in his feature debut, debuted to a wave of negative reviews ahead of its theatrical debut, with critics panning it for its \"sanitized\" storytelling and \"style over substance\" approach, leading to a low Rotten Tomatoes score. The trailers for *Michael* have attracted plenty of attention online, with the first teaser setting a record with 116.2 million global views in its first 24 hours of release, making it the most-viewed music biopic trailer of all time. Ahead of the film's release, Taj Jackson took to X to express his frustration with the negative press surrounding *Michael*. Despite the film's controversies and negative reviews, *Michael* is projected to be a major box office success, with the film tracking for a massive global opening weekend of roughly $150 million. Moonwalk to Millions: Test Your Michael Jackson Biopic Knowledge.",
-      "published_at": "Thu, 23 Apr 2026 10:42:04 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導麥可傑克森傳記電影儘管評價不佳，但預計票房將會成功，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1051,
-      "title": "‘Michael’ moonwalks to $97 million opening, shattering record for music biopics - AP News",
-      "link": "https://apnews.com/article/michael-jackson-movie-box-office-9cd10825b6ced69aaa96c6e575ea9d2d",
-      "source": "Tavily (apnews.com)",
-      "snippet": "This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Lionsgate via AP). NEW YORK (AP) — “Michael,” the big-budget Michael Jackson spectacle, shrugged off bad reviews and a troubled production to launch with $97 million in U.S. and Canada theaters, according to studio estimates Sunday, shattering a record debut for music biopics. The opening for “Michael” added to a strong spring for Hollywood boosted by box-office hits like Amazon MGM’s “Project Hail Mary” and Universal’s “The Super Mario Galaxy Movie.” After three weeks atop the box office, the “Mario” sequel slid to second place, with $21.2 million.",
-      "published_at": "Sun, 26 Apr 2026 15:33:23 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了麥可傑克森傳記電影《麥可》的成功上映，並打破了音樂傳記片的票房紀錄，但內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1052,
-      "title": "Michael Jackson's nephew Jaafar stars as the King of Pop in a new biopic. Here's what to know about him. - Business Insider",
-      "link": "https://www.businessinsider.com/who-is-jaafar-jackson-michael-jackson-nephew-movie-2026-4",
-      "source": "Tavily (www.businessinsider.com)",
-      "snippet": "* Michael Jackson's nephew, Jaafar Jackson, is portraying the King of Pop in the new biopic \"Michael.\". * Jaafar is the son of Michael's brother, Jermaine Jackson, and Alejandra Genevieve Oaziaza. ## Jaafar is the son of Jermaine Jackson and Alejandra Genevieve Oaziaza. Jaafar's father, Jermaine, was one of the original members of the Jackson 5, along with his brothers, Jackie, Tito, Marlon, and Michael. ## Jaafar Jackson makes his acting debut portraying his famous uncle in \"Michael.\". Jaafar had no formal dance training or acting credits before \"Michael,\" save for one episode of \"The Jacksons: Next Generation,\" a 2015 reality show that followed the lives of his cousins, Taj, Taryll, and TJ (then known as the R&B-pop trio 3T). ## Jaafar Jackson isn't actually singing in \"Michael.\". When Jaafar landed the lead role in \"Michael,\" he received a vote of confidence from a core member of his family: Michael's mother, Katherine Jackson.",
-      "published_at": "Fri, 24 Apr 2026 16:55:45 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於麥可傑克森的姪子Jaafar Jackson將主演其傳記電影，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1053,
-      "title": "Ray J makes outrageous claim he’s slept with over 12,500 women — ‘5 to 10 a day’ while on tour - Page Six",
-      "link": "https://pagesix.com/2026/04/28/celebrity-news/ray-j-claims-hes-slept-with-over-12500-women-5-to-10-a-day-while-on-tour/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "# Ray J makes outrageous claim he’s slept with over 12,500 women — ‘5 to 10 a day’ while on tour. Ray J made an outrageous claim that he’s slept with 12,500 different women. “We did a celebration, [adult entertainment venue] Booby Trap celebrated my 10,000th,” he claimed. When Newton asked him to clarify if it was “different” partners, Ray J claimed he had slept with “10,000 different people,” before upping the number to 12,500. Newton broke down the math, and said Ray J’s claim would he mean he was averaging sleeping with over one and a half women a day for 30 years. Ray J replied, “Yeah, the math is different ’cause when we’re on tour, we’re thinking five to ten a day.”. “I was celebrating 10,000 bodies.”. Ray J claimed he's slept with 12.500 women during his appearance on Cam Newton's \"Funky Friday\" podcast. Ray J alleged he slept with five to ten women a day while he was on tour.",
-      "published_at": "Tue, 28 Apr 2026 23:30:22 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於Ray J聲稱曾與超過12,500名女性發生關係，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1054,
-      "title": "'Menace II Society' Actor Samuel Monroe Jr.'s Family Launches GoFundMe for Medical Bills - TMZ",
-      "link": "https://www.tmz.com/2026/04/27/samuel-monroe-jr-family-starts-gofundme-for-medical-bills/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### 'Menace II Society' Actor Samuel Monroe Jr.'s Family Gets More Bad Medical News. # 'Menace II Society' Actor Samuel Monroe Jr.'s Family Launches GoFundMe for Medical Bills. ## 'Menace II Society' Actor GoFundMe Started for Ailing Samuel Monroe Jr. and his family is asking for help with his mounting medical bills. the family has created a **GoFundMe**as his substantial medical bills pile up ... Every donation, no matter the size, will help ease the burden on Samuel’s family and ensure that Kingston and Brooklynn have the support they need while their father fights for his life.\". The 52-year-old actor has appeared in a slew of films and TV shows, including \"Tales from the Hood,\" \"Set It Off,\" \"The Players Club,\" \"Out All Night\" and \"NYPD Blue.\" Samuel also appeared in \"Don't Be a Menace to South Central While Drinking Your Juice in the Hood,\" the Wayans Brothers' spoof of 1990s L.A.-based crime dramas. #### Influencer Ashlee Jenae's Dad Launches GoFundMe to Help With Mounting Costs.",
-      "published_at": "Mon, 27 Apr 2026 20:53:18 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "負面",
-      "sentiment_score": 0.25,
-      "summary": "演員Samuel Monroe Jr.的家人因其高額醫療費用發起GoFundMe募款。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1055,
-      "title": "Megan Thee Stallion exits ‘Moulin Rouge’ weeks early, just days after split with Klay Thompson - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-04-28/megan-thee-stallion-exits-moulin-rouge-after-klay-thompson-split",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "Tap to enable a layout that focuses on the article. # Megan Thee Stallion exits ‘Moulin Rouge’ weeks early, just days after split with Klay Thompson. * Click here to listen to this article. This is read by an automated voice. Megan Thee Stallion’s Broadway run playing Zidler in “Moulin Rouge! The Musical” is ending weeks earlier than planned, and days after she announced a messy split from NBA star Klay Thompson. “It’s been such an honor to be part of thee Moulin Rouge family and I’ve met so many amazing people in this theater! “I’ve made the decision to end my relationship with Klay,” Megan said in a statement. * ### Megan Thee Stallion recovering after hospitalization for ‘extreme exhaustion, dehydration’. * ### Some ‘Good News’: Megan Thee Stallion will be host and musical guest of ‘SNL’. Megan Thee Stallion’s new website is for you.",
-      "published_at": "Wed, 29 Apr 2026 03:36:23 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導Megan Thee Stallion退出百老匯音樂劇及與Klay Thompson分手，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1056,
-      "title": "Donald Trump's White House State Dinner For King Charles Photos: Apple's Tim Cook, Amazon's Jeff Bezos & More - Deadline",
-      "link": "https://deadline.com/gallery/donald-trumo-white-house-state-dinner-king-charles-photos/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "## site categories. ### FCC Commissioner Urges ABC To “Stand Up And Stand Firm” In Face Of Brendan Carr’s Review Of Broadcast Licenses. # Donald Trump’s White House State Dinner For King Charles Photos: Apple’s Tim Cook, Amazon’s Jeff Bezos   Company “Confident” About Passing Test. * ### WGA West Notifies Writers Of Final Offer To Staff Union In Blistering Email. ## No Comments. ### Submit a comment. ## Site.",
-      "published_at": "Wed, 29 Apr 2026 02:30:29 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於唐納·川普的白宮國宴、FCC以及WGA等議題，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1057,
-      "title": "Kylie Jenner and Timothée Chalamet Spend Date Night at Knicks Game - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/celebrity-news/kylie-jenner-and-timothee-chalamet-spend-date-night-at-knicks-game-11890939",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# Kylie Jenner and Timothée Chalamet Spend Date Night at Knicks Game. Kylie Jenner and Timothée Chalamet took their latest date night courtside. The superstar duo showed up at Madison Square Garden for the New York Knicks playoff game on Tuesday, April 28. Jenner and Chalamet were spotted among a packed celebrity crowd as the Knicks faced the Atlanta Hawks in Game 5 of their first-round Eastern Conference series. Jenner, 28, wore a pair of white studded jeans and a white tank, while Chalamet, 30, opted for an oversized black jacket and a Knicks hat. Chalamet has been quite the supporter of the Knicks throughout the postseason and previously attended Game 3 earlier this month. ## How the Iran War Scored Trump His Biggest OPEC Win Yet. ## Green Card Update: Applicants Impacted by Trump Travel Ban Get Legal Win. ## Opinion. ## The Trump Staged Shooting Conspiracies Need to Stop | Opinion. ## The DNC Didn’t Ban AIPAC, But Warning Signs Remain | Opinion.",
-      "published_at": "Wed, 29 Apr 2026 03:15:00 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導凱莉·詹娜與提摩西·夏勒梅觀看尼克隊比賽，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1058,
-      "title": "ZHU Joins Pacha New York’s Increasingly Global 2026 Lineup - Yahoo News Malaysia",
-      "link": "https://malaysia.news.yahoo.com/zhu-joins-pacha-york-increasingly-003056275.html",
-      "source": "Tavily (malaysia.news.yahoo.com)",
-      "snippet": "# ZHU Joins Pacha New York’s Increasingly Global 2026 Lineup. Just days after ZHU released his ambitiously atmospheric new album *BLACK MIDAS*, the Grammy-nominated producer will now take the stage at Pacha New York in an announcement that expands the forthcoming nightclub’s opening lineup into an even more culturally diverse and global roster. Pacha New York opens over the weekend of June 20-21 with the two-night debut featuring a double header of British DJ-producer Michael Bibi on June 20 and legendary South African house pioneer Black Coffee on the 21st. Pacha New York’s current calendar extends into October, with upcoming bookings from Belgium’s Lost Frequencies, Brazil’s Vintage Culture, and Black Coffee, who appears four times. See the Pacha New York lineup as of press time below. ## Pacha New York 2026 Lineup (So Far):. * Sunday, June 21 | Opening Weekend with Black Coffee ***– SOLD OUT***.",
-      "published_at": "Wed, 29 Apr 2026 00:30:56 GMT",
-      "collected_at": "2026-04-29 04:10:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於ZHU加入Pacha New York的2026年演出陣容，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 39,
-    "report_date": "2026-05-01",
-    "total_articles": 10,
+    "id": 40,
+    "report_date": "2026-05-02",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
-    "daily_summary": "今日搜集到的新聞內容中，並未發現任何與華語天王周杰倫直接相關的報導或焦點事件。所有新聞主要集中於其他國際娛樂圈動態，例如麥可傑克森傳記電影《Michael》的票房表現與各界評價，該片首週開出亮眼成績，但也引發部分爭議。此外，還有布魯諾馬斯專輯熱賣、饒舌歌手Jay-Z的最新訪談、珍娜傑克森獲葛萊美名人堂肯定，以及多位歐美歌手的巡演資訊與獎項消息。其他報導則涵蓋體育賽事、名人戀情及法律案件等。因此，今日周杰倫並無新的娛樂新聞動態被提及。",
+    "neutral_count": 9,
+    "daily_summary": "今日搜集的娛樂新聞中，未發現任何與周杰倫相關的報導或焦點事件。主要新聞集中於麥可傑克森傳記電影《Michael》的亮眼票房、多位歐美歌手的新專輯發行與巡演動態，以及其他名人八卦與體育賽事等。",
     "key_events": [
-      "無周杰倫事件",
-      "無相關報導",
-      "今日無焦點"
+      "無周杰倫相關新聞",
+      " ",
+      " "
     ],
-    "created_at": "2026-05-01 04:38:07"
+    "created_at": "2026-05-02 04:01:51"
   },
   "recentReports": [
+    {
+      "id": 40,
+      "report_date": "2026-05-02",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集的娛樂新聞中，未發現任何與周杰倫相關的報導或焦點事件。主要新聞集中於麥可傑克森傳記電影《Michael》的亮眼票房、多位歐美歌手的新專輯發行與巡演動態，以及其他名人八卦與體育賽事等。",
+      "key_events": [
+        "無周杰倫相關新聞",
+        " ",
+        " "
+      ],
+      "created_at": "2026-05-02 04:01:51"
+    },
     {
       "id": 39,
       "report_date": "2026-05-01",
@@ -661,21 +676,6 @@
         "MJ傳記電影熱映"
       ],
       "created_at": "2026-04-26 04:05:56"
-    },
-    {
-      "id": 33,
-      "report_date": "2026-04-25",
-      "total_articles": 15,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 14,
-      "daily_summary": "今日搜集到的新聞中，未有任何關於周杰倫的報導或焦點。主要娛樂新聞集中於歌手Kehlani發行新專輯，以及麥可傑克森傳記電影《Michael》的票房表現、評價與相關爭議。其他報導則涵蓋了Coachella音樂節、Time 100晚宴及肯伊威斯特演唱會延期等娛樂界動態。",
-      "key_events": [
-        "無周杰倫相關報導",
-        "今日無周董動態",
-        "娛樂版面未提及"
-      ],
-      "created_at": "2026-04-25 03:43:15"
     }
   ]
 }
