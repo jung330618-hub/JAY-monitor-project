@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1090,
+    "total": 1095,
     "positive": 338,
     "negative": 46,
-    "neutral": 706,
+    "neutral": 711,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-18",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-19",
       "total": 12,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-03",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1091,
+      "title": "‘Michael’ May Be ‘Family-Friendly,’ but It Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger - Variety",
+      "link": "https://variety.com/2026/film/columns/michael-taps-michael-jacksons-most-powerful-fuel-his-anger-1236730812/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# ‘Michael’ May Be ‘Family-Friendly,’ but It Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger. You might think the reason it’s going to make a jillion dollars is that a lot of people are only too happy to revel in a Michael Jackson biopic that’s all greatest-hits cues and nostalgic high points: a two-hour hologram of Michael mania. The film tells a very particular story, and what that story is about is the very source of Michael Jackson’s creative power. But the underlying story that “Michael” tells, in tracing Michael’s war with his father, is the saga of Michael Jackson’s anger. We think of Michael Jackson as a “family-friendly” performer, because that’s the image he crafted for himself, and he was indeed that thing, yet he also worked in the tradition of pop musicians who expressed a volcanic wrath that had no other outlet but song.",
+      "published_at": "Sun, 26 Apr 2026 18:09:51 GMT",
+      "collected_at": "2026-05-03 04:29:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導分析了麥可傑克森傳記電影《Michael》如何探討他以憤怒為創作燃料的深層原因。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1092,
+      "title": "R&B/Hip-Hop Fresh Picks of the Week: Durand Bernarr, Jai’Len Josey, Girlfriend & More - Billboard",
+      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-durand-bernarr-jailen-josey/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Durand Bernarr, Jai’Len Josey, Girlfriend & More. From relationship drama to landmark album anniversaries, the worlds of R&B and hip-hop were particularly active this weekend. On Saturday (April 25), Megan Thee Stallion set social media timelines on fire when she announced that she and Dallas Mavericks shooting guard Klay Thompson were no longer together, citing infidelity and “horrible mood swings.” The former hip-hop/sports power couple began dating last year, with the rapper spending the holidays with the basketball star’s family. Kehlani, Billboard Women in Music’s Impact Award honoree, topped off a wonderful weekend for R&B with the release of her highly anticipated self-titled album. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from new Girlfriend-Jaymin duet to Durand Bernarr’s funky new single. Written by Girlfriend alongside Jaymin and Jamaal Cole II, with production from the latter, “All U Need” blends smooth R&B with honest, grounded perspectives.",
+      "published_at": "Mon, 27 Apr 2026 17:01:05 GMT",
+      "collected_at": "2026-05-03 04:29:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要介紹R&B/Hip-Hop領域的最新音樂動態，並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1093,
+      "title": "Keke Palmer Performs 'Text Message Unsent' - Billboard",
+      "link": "https://www.billboard.com/video/keke-palmer-performs-text-message-unsent/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "## Video. Host Keke Palmer performs “Text Message Unsent” at Billboard Women In Music 2026. # Keke Palmer Performs ‘Text Message Unsent’ | Billboard Women In Music 2026. Billboard Women in Music 2026. At the Hollywood Palladium on Wednesday night (April 29), Billboard Women in Music 2026 is honoring EJAE, REI AMI, AUDREY NUNA, Kehlani, Teyana Taylor, Ella Langley, Thalia, Zara Larsson, Laufey and Tate McRae. ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. // This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. Billboard is a part of Penske Media Corporation. Powered by WordPress.com VIP. ## optional screen reader.",
+      "published_at": "Thu, 30 Apr 2026 22:32:22 GMT",
+      "collected_at": "2026-05-03 04:29:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Keke Palmer在2026年Billboard女性音樂獎上表演，並提及了其他獲獎藝人。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1094,
+      "title": "Ciara Presents Kehlani With the Impact Award - Billboard",
+      "link": "https://www.billboard.com/video/ciara-presents-kehlani-with-the-impact-award/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "## Video. Billboard Women in Music 2026. # Ciara Presents Kehlani With the Impact Award | Billboard Women In Music 2026. Ciara presents Kehlani With the Impact Award at Billboard Women In Music 2026. At the Hollywood Palladium on Wednesday night (April 29), Billboard Women in Music 2026 is honoring EJAE, REI AMI, AUDREY NUNA, Kehlani, Teyana Taylor, Ella Langley, Thalia, Zara Larsson, Laufey and Tate McRae. ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. // This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. Billboard is a part of Penske Media Corporation. Powered by WordPress.com VIP. ## optional screen reader.",
+      "published_at": "Thu, 30 Apr 2026 11:10:51 GMT",
+      "collected_at": "2026-05-03 04:29:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Ciara在2026年Billboard音樂界女性頒獎典禮上，將影響力獎頒發給Kehlani，並提及了其他獲獎藝人，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1095,
+      "title": "Isaia Huron Is Billboard’s Up-and-Coming R&B Artist of the Month for April 2026 - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/isaia-huron-april-2026-rb-artist-up-and-coming-1236232338/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Released April 10 via RCA Records, *Mr. Lovebomb* stretches beyond Huron’s creative boundaries, as he lays out a 10-song story about a fictional character who doubles down on love and heartbreak with every new woman he encounters. *Billboard* spoke to April’s R&B Up and Comer of the Month, Isaia Huron, about the creation of *Mr. Lovebomb*, dating in 2026, and why he finds beauty in recording at home over a traditional studio setup. I don’t think about it like that, you know? Kanye has this song on *Watch the Throne* [called] “I Can’t Stop” where he’s like, “I heard she f–ked the doorman, well it’s cool, I f–ked the waitress” and that was in my mind and I think that’s how it kind of found its way inside of the story. I think I’m too in it to be able to say, “This is what’s new from me.” It’s coming from the same person who made the story a couple months before.",
+      "published_at": "Mon, 27 Apr 2026 19:53:42 GMT",
+      "collected_at": "2026-05-03 04:29:58",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹R&B新星Isaia Huron的新專輯《Mr. Lovebomb》及其創作過程，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1082,
       "title": "‘Michael’ moonwalks into a big box office debut - Los Angeles Times",
@@ -484,94 +554,39 @@
       "summary": "此新聞報導主要關於美國饒舌歌手Jay-Z在採訪中分享他創作的心路歷程、對碧昂絲的看法以及為Dr. Dre寫歌的經驗。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1067,
-      "title": "A Full List of Current 2026 K-Pop Concerts (Updating) - Billboard",
-      "link": "https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "* Share on Facebook&sdk=joey&display=popup&ref=plugin&src=share_button&app_id=966242223397117&href=https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/). * Share on Whats App%20-%20https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/). * Send an Email&body=https://www.billboard.com/culture/product-recommendations/current-k-pop-concerts-1236234463/%20-%20A%20Full%20List%20of%20Current%202026%20K-Pop%20Concerts (Updating)). * **Oct. 15**: Monsta X X : NEXUS World Tour in Irving, Texas (Buy tickets here or here). * **May 23, 24, 27 and 28**: BTS Arirang World Tour in Las Vegas (Buy tickets here or here). * **Aug. 15 and 16**: BTS Arirang World Tour in Arlington, Texas (Buy tickets here or here). * **Aug. 27 and 28**: BTS Arirang World Tour in Chicago (Buy tickets here or here). * **Oct. 6**: Monsta X X : NEXUS World Tour in New York, NY (Buy tickets here or here). 1, 2, 5 and 6**: BTS Arirang World Tour in Los Angeles (Buy tickets here or here). * **Aug. 4**: IVE SHOW WHAT I AM World Tour in Oakland, Calif (Buy tickets here or here). * **Aug. 1**: IVE SHOW WHAT I AM World Tour in Los Angeles (Buy tickets here or here).",
-      "published_at": "Wed, 29 Apr 2026 20:50:46 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容為Billboard發布的2026年K-Pop演唱會列表，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1068,
-      "title": "Kid Cudi Shows Love to Ye While Performing ‘Kids See Ghosts’ Song at Tour Kickoff: ‘We Gotta Sing This Loud’ - Billboard Canada",
-      "link": "https://ca.billboard.com/music/rb-hip-hop/kid-cudi-kanye-west-kids-see-ghosts-song-tour-first-show-1236234189/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "# Kid Cudi Shows Love to Ye While Performing ‘Kids See Ghosts’ Song at Tour Kickoff: ‘We Gotta Sing This Loud’. ## Music Biz Headlines: The Weeknd Tops All-Time Spotify List, More Reactions to Ticketmaster's Resale Cap. Also this week: the world premiere of a Tragically Hip-inspired musical, *Michael*'s box office record, Canadian music industry pays tribute to Donald K. ## Music Biz Headlines: The Weeknd Tops All-Time Spotify List, More Reactions to Ticketmaster's Resale Cap. Diljit Dosanjh also grabbed headlines this week via his appearance on *The Tonight Show* and the start of his North American tour at Vancouver's BC Place, the site of multiple record-breaking concerts for the Punjabi star. Read more more music biz headlines of the week from Canada and beyond. Extraordinary New Show Does Poetic Justice to The Tragically Hip. The world premiere of It’s a Good Life If You Don’t Weaken at Theatre Aquarius celebrates the music of Canada’s band, woven into a new and original story.",
-      "published_at": "Wed, 29 Apr 2026 15:57:50 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導Kid Cudi、The Weeknd、Diljit Dosanjh等藝人的音樂活動與業界新聞，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1069,
-      "title": "Janet Jackson to Appear at 2026 Grammy Hall of Fame Gala as Her ‘Rhythm Nation 1814’ Is Inducted - Billboard",
-      "link": "https://www.billboard.com/music/awards/janet-jackson-2026-grammy-hall-of-fame-gala-1236234028/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "Janet Jackson isn’t even mentioned in *Michael*, the hit biopic about her brother Michael Jackson, but she will be front and center at the 2026 Grammy Hall of Fame Gala next week, as her 1989 album, *Janet Jackson’s Rhythm Nation 1814*, is inducted. * Father-daughter duo Fyütch & Aura V, who won a Grammy in February for best children’s music album for *Harmony*, will perform Ella Jenkins’ 1966 children’s classic “You’ll Sing a Song and I’ll Sing a Song.” Aura V set a new record as the youngest individually credited Grammy winner in history. * Taylor Hanson, who achieved fame, a Hot 100-topping single and a Grammy nod for record of the year as a member of the brother trio Hanson, will perform a tribute to Nick Drake’s 1972 album, *Pink Moon.* It was the English musician’s third and final studio album, and the only one of his studio albums to be released in North America during his lifetime.",
-      "published_at": "Wed, 29 Apr 2026 13:00:00 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於珍娜·傑克森入選葛萊美名人堂，以及其他藝人的表演資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1070,
-      "title": "Kacey Musgraves Is Going to ‘See You In the Middle of Nowhere’ on Her Tour: Here Are the Dates - Billboard",
-      "link": "https://www.billboard.com/music/country/kacey-musgraves-2026-tour-middle-of-nowhere-tour-1236234195/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Kacey Musgraves Is Going to ‘See You In the Middle of Nowhere’ on Her Tour: Here Are the Dates. The trek will launch Aug. 21 in Chicago, and will visit states including Colorado, Texas, Tennessee and North Carolina, and will wrap Oct. 27 at Seattle’s Climate Pledge Arena. * Aug. 24: Toronto @ Scotiabank Arena. * Aug. 31: New York @ Madison Square Garden. * Oct. 5: Houston @ Toyota Center. * Oct. 7: Austin, Texas @ Moody Center. * Oct. 10: Dallas @ American Airlines Center. * Oct. 13: Denver @ Ball Arena. * Oct. 15: Salt Lake City @ Delta Center. * Oct. 17: Phoenix @ Mortgage Matchup Center. * Oct. 18: Los Angeles @ Crypto.com Arena. * Oct. 19: Los Angeles @ Crypto.com Arena. * Oct. 26: Seattle @ Climate Pledge Arena. * Oct. 27: Seattle @ Climate Pledge Arena. ### Want to know what everyone in the music business is talking about? Visit Billboard Pro for music business news.",
-      "published_at": "Wed, 29 Apr 2026 16:24:33 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導了美國歌手Kacey Musgraves即將舉行的巡迴演唱會日期與地點，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1071,
-      "title": "Keke Palmer Really Excited About Hosting Billboard Women in Music 2026 - Billboard",
-      "link": "https://www.billboard.com/music/awards/keke-palmer-excited-hosting-2026-billboard-women-in-music-kimmel-1236234112/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Keke Palmer Is Really Excited About Hosting Billboard Women in Music 2026 and Performing New Single’Text Message Unsent’. In addition to hosting, Palmer is hyped to perform on the show, where she will be rolling out her new single, “Text Message Unsent,” which she collaborated on with the director of her upcoming all-star film, *I Love* *Boosters* (May 22), Boots Riley, and his daughter, Alina Kanin. “I get to perform one of the songs — ‘Text Message Unsent’ — which is on the soundtrack EP for the movie,” she said of the mini album from the film starring Palmer, Demi Moore, Naomi Ackie, Don Cheadle, Alexa Demie, Taylour Paige, Poppy Liu and LaKeith Stanfield. When Kimmel asked her to explain the song’s title, Palmer said, “It’s like when you want to say the things to this person that you love but you just know it’s never gonna go anywhere, so it just stays in a text message unsent.”.",
-      "published_at": "Wed, 29 Apr 2026 12:51:13 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Keke Palmer主持Billboard Women in Music 2026並表演新歌，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 40,
-    "report_date": "2026-05-02",
-    "total_articles": 9,
+    "id": 41,
+    "report_date": "2026-05-03",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "今日搜集的娛樂新聞中，未發現任何與周杰倫相關的報導或焦點事件。主要新聞集中於麥可傑克森傳記電影《Michael》的亮眼票房、多位歐美歌手的新專輯發行與巡演動態，以及其他名人八卦與體育賽事等。",
+    "neutral_count": 5,
+    "daily_summary": "今日搜集到的娛樂新聞中，經過仔細篩選，並未發現任何與華語天王周杰倫相關的最新報導或活動焦點。所有新聞主要集中於西方樂壇動態，例如麥可傑克森傳記電影的票房表現、多位R&B與流行歌手的新作發布，以及其他歐美娛樂圈的事件。因此，今日無周杰倫的相關新聞摘要可提供。",
     "key_events": [
-      "無周杰倫相關新聞",
-      " ",
-      " "
+      "無周杰倫新聞",
+      "無相關報導",
+      "今日無焦點"
     ],
-    "created_at": "2026-05-02 04:01:51"
+    "created_at": "2026-05-03 04:30:21"
   },
   "recentReports": [
+    {
+      "id": 41,
+      "report_date": "2026-05-03",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集到的娛樂新聞中，經過仔細篩選，並未發現任何與華語天王周杰倫相關的最新報導或活動焦點。所有新聞主要集中於西方樂壇動態，例如麥可傑克森傳記電影的票房表現、多位R&B與流行歌手的新作發布，以及其他歐美娛樂圈的事件。因此，今日無周杰倫的相關新聞摘要可提供。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-03 04:30:21"
+    },
     {
       "id": 40,
       "report_date": "2026-05-02",
@@ -661,21 +676,6 @@
         "Kehlani發行新專輯"
       ],
       "created_at": "2026-04-27 04:10:48"
-    },
-    {
-      "id": 34,
-      "report_date": "2026-04-26",
-      "total_articles": 15,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 15,
-      "daily_summary": "今日搜集的新聞中，未發現周杰倫相關報導。主要娛樂焦點集中於Kehlani發行新專輯、Michael Jackson傳記電影上映與票房，以及Time100慈善晚會眾星雲集。此外，Demi Lovato、Selena Gomez與Joe Jonas因懷舊重聚，Klay Thompson傳出緋聞。整體娛樂新聞涵蓋音樂、電影及名人動態。",
-      "key_events": [
-        "無周杰倫新聞",
-        "Kehlani發新專輯",
-        "MJ傳記電影熱映"
-      ],
-      "created_at": "2026-04-26 04:05:56"
     }
   ]
 }
