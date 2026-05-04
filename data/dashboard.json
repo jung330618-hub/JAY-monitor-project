@@ -6,21 +6,13 @@
     "neutral": 5
   },
   "allTimeStats": {
-    "total": 1095,
+    "total": 1100,
     "positive": 338,
     "negative": 46,
-    "neutral": 711,
+    "neutral": 716,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-19",
-      "total": 12,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.57
-    },
     {
       "date": "2026-04-20",
       "total": 7,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-04",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1096,
+      "title": "‘Michael’ Electrifies the Box Office: 5 Reasons Bad Reviews Couldn’t Derail the Michael Jackson Biopic - Variety",
+      "link": "https://variety.com/2026/film/box-office/why-michael-beat-box-office-expectations-bad-reviews-1236730917/",
+      "source": "Tavily (variety.com)",
+      "snippet": "“Michael,” an origin story about Michael Jackson, electrified the box office with $97 million domestically and $217 million globally in its first weekend of release. Directed by Antoine Fuqua, “Michael” stars Jaafar Jackson (the singer’s nephew in his acting debut) and chronicles the performer’s journey from the Jackson 5 to his status as the King of Pop. Negative reviews and costly behind-the-scenes headaches didn’t tarnish the excitement for “Michael,” which box office watchers predict will remain a major draw into the summer season. Much like “Bohemian Rhapsody” and “Elvis,” the film about Jackson became a crowd-pleaser by leaning heavily on recreations of iconic performances of “Billie Jean,” “Thriller” and “Beat It.” Cinema-goers opted to watch those thrilling sequences on the biggest and brightest screens. The singer’s estate, a producer on the film, was encouraged by several successful productions, including the profitable Broadway musical “MJ” (one of only four new shows since the pandemic that’s still running), the Cirque du Soleil show “One” and the 2009 concert film “This Is It.” None of those projects deal with allegations against Jackson.",
+      "published_at": "Mon, 27 Apr 2026 15:19:31 GMT",
+      "collected_at": "2026-05-04 04:29:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導麥可傑克森傳記電影《Michael》的票房成功，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1097,
+      "title": "Jessica Alba Celebrates 45th Birthday With Kids and Danny Ramirez - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/jessica-alba-celebrates-45th-birthday-with-kids-and-danny-ramirez-11895412",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Jessica Alba Celebrates 45th Birthday With Kids and Danny Ramirez. Jessica Alba is ringing in her 45th birthday with her children and boyfriend Danny Ramirez. The actress marked the milestone with a message of gratitude alongside a series of photos shared on Instagram. In one snapshot, Alba can be seen celebrating with Ramirez, 33, and her children, Honor, 17; Haven, 14; and Hayes, 8, whom she shares with ex-husband Cash Warren. Alba shared that she is “walking into this next year with more grace, more joy, more gratitude, and a deeper love for the people who make my life mine.\". “Wishing you a beautiful and blessed new year of life!” Ava DuVernay wrote while Gal Gadot shared, “Happy birthday sunshine! As for Ramirez, he shared a sweet message to Alba, who he was first spotted with in May 2025, on his Instagram Story. \"Happy birthday, mi amor,\" he shared alongside a photo of him kissing Alba’s cheek.",
+      "published_at": "Wed, 29 Apr 2026 20:06:00 GMT",
+      "collected_at": "2026-05-04 04:29:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了潔西卡·艾芭與孩子和男友丹尼·拉米雷斯慶祝45歲生日的喜悅時刻，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1098,
+      "title": "Here Are the First Week Numbers for Kehlani's Self-Titled LP - Complex",
+      "link": "https://www.complex.com/music/a/treyalston/first-week-numbers-kehlani-self-titled-lp",
+      "source": "Tavily (www.complex.com)",
+      "snippet": "## It sold 69,000 album-equivalent units in its first week. Kehlani’s new self-titled album has debuted at No 4 on the *Billboard 200.*. The singer’s new project, which marks her fourth top 10-charting album on the *Billboard* 200, sold 69,000 album-equivalent units in its first week. This makes it the biggest debut from a female R&B singer this year. The project is supported by her extremely popular single, “Folded,” which won her the Grammy Awards for Best R&B Performance and Best R&B Song at this year’s ceremony. The singer previously told us about her creative process for making *Kehlani*, explaining that she recalled some emotions that she needed to work through. “I went and locked myself in the room, and I started randomly processing a bunch of things from 2020,” she revealed. The R&B singer said she's been in treatment for and it's helped her \"really shift\" her life around.",
+      "published_at": "Sun, 03 May 2026 21:38:29 GMT",
+      "collected_at": "2026-05-04 04:29:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了歌手Kehlani新專輯的首週銷售成績與Billboard排名，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1099,
+      "title": "Kehlani Releases Self Titled Album “Kehlani” (Stream) - YouKnowIGotSoul.com",
+      "link": "https://youknowigotsoul.com/kehlani-releases-self-titled-album-kehlani-stream",
+      "source": "Tavily (youknowigotsoul.com)",
+      "snippet": "# Kehlani Releases Self Titled Album “Kehlani” (Stream). Two-time GRAMMY® Award winner Kehlani has released her fifth studio album, the self-titled KEHLANI. The album arrives on the heels of a massive promotional cycle anchored by the commercial juggernaut “Folded.” The single has emerged as one of the decade’s most successful R&B records, amassing over 800 million global streams and peaking at #6 on the Billboard Hot 100. The track’s 43-week chart run included 10 weeks at #1 on Urban radio and earned Kehlani two GRAMMY® Awards for Best R&B Song and Best R&B Performance. “Folded Homage Pack”: A cultural crossover project featuring reinterpretations of her hit by R&B legends including Toni Braxton, Brandy, and Ne-Yo. Beyond the studio, Kehlani has maintained a heavy cultural presence in 2026, including a surprise appearance during Giveon’s Coachella set and a performance at Revolve Festival. The self-titled album is now available worldwide on all major streaming services via Atlantic Records.",
+      "published_at": "Mon, 27 Apr 2026 11:46:13 GMT",
+      "collected_at": "2026-05-04 04:29:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了歌手Kehlani發行同名專輯，並詳細介紹了她的音樂成就和宣傳活動。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1100,
+      "title": "This week’s emerging and self-releasing artists - Music News",
+      "link": "https://www.music-news.com/news/Underground/188666/This-week-s-emerging-and-self-releasing-artists",
+      "source": "Tavily (www.music-news.com)",
+      "snippet": "# This week’s emerging and self-releasing artists. Every week, Music News and Liberty Music look at the best new releases from emerging and self-releasing artists. Erica-Cody returns with ‘last man standing’, a confident pop and R&B release that explores the tension between romantic idealism and reality within modern dating. Kadri Voorand shares ‘Let Me Hold You’, a gentle and intimate release that pairs delicate piano with deeply personal vocals, offering a sense of comfort and emotional closeness. Charlie McDonald introduces his debut EP ‘Things I’ve Never Said’, a soulful and introspective release that blends pop and R&B influences into a deeply personal yet relatable listening experience. Led by the single ‘Don’t Worry’, the project captures themes of vulnerability and self-reflection, offering a message of reassurance and emotional connection. Heavy Set Woman return with ‘Highway One’, a dynamic country-rock release that blends blues, rock, and theatrical flair into a free-flowing, genre-crossing sound.",
+      "published_at": "Thu, 30 Apr 2026 15:45:09 GMT",
+      "collected_at": "2026-05-04 04:29:18",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導介紹本週新興獨立發行藝人及其作品，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1091,
       "title": "‘Michael’ May Be ‘Family-Friendly,’ but It Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger - Variety",
@@ -484,94 +554,39 @@
       "summary": "此新聞內容主要關於麥可傑克森傳記電影的選角與演員相似度，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1062,
-      "title": "Jenning Leung's homecoming spark shines in tough Macau Black Knights PBA debut - ESPN",
-      "link": "https://www.espn.com/basketball/pba/story/_/id/48626941/jenning-leung-homecoming-spark-shines-tough-macau-black-knights-pba-debut",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "Jenning Leung's homecoming spark shines in tough Macau PBA debut. # Jenning Leung's homecoming spark shines in tough Macau Black Knights PBA debut. The standard for guest teams in the PBA has quietly been raised over the past few seasons. With a 2-8 record through ten games in the PBA Season 50 Commissioner's Cup, Macau has already fallen out of playoff contention, struggling to keep up with the league's physicality, depth, and nightly adjustments. From the first game of the guest team, the 30-year old Leung has established himself as their best local scorer. However, in the two wins of the Black Knights, Leung has served as the main catalyst, erupting for 31 points and five assists on an efficient 11-for-17 shooting from deep -- a clear sign of how much his shot-making dictates Macau's chances of staying competitive. For Leung, playing in the Philippines is not just another professional opportunity -- it is something deeply personal, rooted in his history of growing up in the country and attending school here with Brent International School long before his pro career began.",
-      "published_at": "Wed, 29 Apr 2026 12:45:00 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導Jenning Leung在澳門黑騎士PBA首秀的表現。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1063,
-      "title": "Ye Loses Bid To Delay May 4 'Donda' Copyright Trial - Law360",
-      "link": "https://www.law360.com/media/articles/2471136/ye-loses-bid-to-delay-may-4-donda-copyright-trial",
-      "source": "Tavily (www.law360.com)",
-      "snippet": "# Law360. ## The Practice of Law. # Law360 Pulse. ## Business of Law. # Law360 Authority. ## Insurance Authority. ## Global Coverage. ## Law360 UK. # Law360 | The Practice of Law. # Law360 Authority | Deep News & Analysis. # Insurance Authority. # Law360 UK. # Law360 Canada. # Law360 Pulse | The Business of Law. # Mealeys. Mealey's California Section 17200. Click here to take the Law360 survey. By Lauren Berg ( April 28, 2026, 10:28 PM EDT) -- The artist formerly known as Kanye West cannot delay next week's trial in a copyright lawsuit alleging he used a song by DJ Khalil and other artists on his album \"Donda,\" a California federal judge ruled, saying concert schedules and attorney deadlines in other cases do not justify such a delay. ### Law360 is on it, so you are, too. ### Law Firms. * 3Atty In 'Maya' Case Isn't Owed $10M In Fees, Judge Told.",
-      "published_at": "Wed, 29 Apr 2026 02:28:00 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於肯伊·威斯特（Kanye West）專輯《Donda》的版權訴訟，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1064,
-      "title": "Ray J claims he’s slept with 12,500 women — as many as 10 a day, — but can only do another 1,000 - Entertainment Weekly",
-      "link": "https://ew.com/ray-j-claims-he-slept-with-12500-women-while-on-tour-11960860",
-      "source": "Tavily (ew.com)",
-      "snippet": "Toward the end of the 3-hour interview, after discussing everything from his sex tape with Kim Kardashian to OJ Simpson and aliens, Ray J was asked about his recent claim that he had slept with 11,500 women. Newton was skeptical of the astronomical figure and pushed the singer on his math skills, resulting in a confusing conversation rivaling Abbott & Costello’s \"Who’s on First,\" as Ray J attempted to explain that when he surpassed the 10,000 mark, he celebrated with a “booby trap” party attended by 400 to 500 of his sexual conquests. Judge denies Kim Kardashian’s request to seal alleged $6 million sex-tape settlement with Ray J. In an attempt to understand how 12,500 sexual partners was possible, Newton asked the singer about his “average.” But the question seemed to confuse Ray J, who has been in public relationships with Kardashian, Whitney Houston, and former wife Princess Love. Alleged $6 million sex tape settlement between Kim Kardashian and Ray J surfaces after renewed drama. Kim Kardashian and Kris Jenner blast Ray J's 'disgusting' claims that 2007 sex tape was intentionally leaked.",
-      "published_at": "Wed, 29 Apr 2026 02:07:08 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於歌手Ray J的個人爭議與性關係相關言論，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1065,
-      "title": "Megan Thee Stallion Exiting 'Moulin Rouge' Early on Heels of Breakup - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/video/megan-thee-stallion-exiting-moulin-rouge-early-breakup-klay-thompson-video/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "Subscribe for full access to The Hollywood Reporter. See My Options  Sign Up. See My Options  Sign Up. ## Video. ## optional screen reader. # Megan Thee Stallion Exiting ‘Moulin Rouge’ Early on Heels of Breakup With NBA Star Klay Thompson | THR News Video. ## Related Videos. * ### Jon Stewart Blasts RFK Jr. for Abandoning Cheryl Hines During White House Dinner Shooting | THR News Video. * ### Megan Thee Stallion Exiting 'Moulin Rouge' Early on Heels of Breakup With NBA Star Klay Thompson | THR News Video. * ### Bravo Launches Investigation Into Leaked 'Summer House' Reunion Audio | THR News Video. Jordan, Austin Butler to Lead Joseph Kosinski's 'Miami Vice' Film | THR News Video. * ### Kat Graham Confirms Role as Diana Ross in Michael Jackson Biopic Was Cut Due to \"Legal Considerations\" | THR News Video. © 2026 The Hollywood Reporter, LLC. THE HOLLYWOOD REPORTER is a registered trademark of The Hollywood Reporter, LLC.",
-      "published_at": "Tue, 28 Apr 2026 16:21:22 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Megan Thee Stallion退出《紅磨坊》以及其他好萊塢娛樂消息，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1066,
-      "title": "7 Things We Learned From Jay-Z’s ‘New York Times’ Interview - Billboard",
-      "link": "https://www.billboard.com/lists/jay-z-interview-new-york-times-things-we-learned/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "“The first time I wrote a rhyme that I thought I could do it was, ‘I’m the king of hip-hop/ Renewed like Reebok/ The key and the lock with words/ So provocative as long as I live.’ When I caught that pocket, I was like, ‘Oh, I got this,'” Jay recalled about the first time he felt he could master his craft. Jay-Z called Beyoncé an “underrated songwriter,” but he believes she actually prefers producing over writing. “And I never really thought about that, but I’m pretty sure she likes songwriting, but she loves producing.”. Jay-Z also reflected on getting into Dr. Dre’s psyche when penning “Still D.R.E.” for Dr. Dre and Snoop Dogg. He’s like, ‘I’m leaving this place and I want to mature.’ It was just natural to get in his psyche,” Jay said. “I would be thinking, ‘I have to remind people that I’m Dr. Dre.’ That’s where ‘Still D.R.E.’ comes.”.",
-      "published_at": "Tue, 28 Apr 2026 20:21:43 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於美國饒舌歌手Jay-Z在採訪中分享他創作的心路歷程、對碧昂絲的看法以及為Dr. Dre寫歌的經驗。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 41,
-    "report_date": "2026-05-03",
+    "id": 42,
+    "report_date": "2026-05-04",
     "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 5,
-    "daily_summary": "今日搜集到的娛樂新聞中，經過仔細篩選，並未發現任何與華語天王周杰倫相關的最新報導或活動焦點。所有新聞主要集中於西方樂壇動態，例如麥可傑克森傳記電影的票房表現、多位R&B與流行歌手的新作發布，以及其他歐美娛樂圈的事件。因此，今日無周杰倫的相關新聞摘要可提供。",
+    "daily_summary": "根據今日搜集到的新聞，未發現任何與周杰倫直接相關的報導或焦點事件。今日娛樂新聞主要圍繞麥可傑克森傳記電影的票房表現、多位R&B/嘻哈歌手的新專輯發行及獎項，以及其他藝人的動態。因此，本日無周杰倫的相關摘要。",
     "key_events": [
       "無周杰倫新聞",
-      "無相關報導",
-      "今日無焦點"
+      "今日無相關報導",
+      "無重要事件發生"
     ],
-    "created_at": "2026-05-03 04:30:21"
+    "created_at": "2026-05-04 04:29:42"
   },
   "recentReports": [
+    {
+      "id": 42,
+      "report_date": "2026-05-04",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "根據今日搜集到的新聞，未發現任何與周杰倫直接相關的報導或焦點事件。今日娛樂新聞主要圍繞麥可傑克森傳記電影的票房表現、多位R&B/嘻哈歌手的新專輯發行及獎項，以及其他藝人的動態。因此，本日無周杰倫的相關摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "無重要事件發生"
+      ],
+      "created_at": "2026-05-04 04:29:42"
+    },
     {
       "id": 41,
       "report_date": "2026-05-03",
@@ -661,21 +676,6 @@
         "無重要事件"
       ],
       "created_at": "2026-04-28 04:24:23"
-    },
-    {
-      "id": 35,
-      "report_date": "2026-04-27",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日新聞中未包含任何關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影《Michael》的亮眼票房表現、圍繞其內容的爭議，以及歌手Kehlani發行全新同名專輯並舉行宣傳活動等娛樂界動態。",
-      "key_events": [
-        "《Michael》票房告捷",
-        "《Michael》引發爭議",
-        "Kehlani發行新專輯"
-      ],
-      "created_at": "2026-04-27 04:10:48"
     }
   ]
 }
