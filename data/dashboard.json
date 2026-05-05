@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 11,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 11
   },
   "allTimeStats": {
-    "total": 1100,
+    "total": 1111,
     "positive": 338,
     "negative": 46,
-    "neutral": 716,
+    "neutral": 727,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-04-20",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-21",
       "total": 10,
@@ -132,9 +124,171 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-05",
+      "total": 11,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 11,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1101,
+      "title": "Cameron Diaz and Benji Madden welcome baby No. 3: ‘We love life with our family’ - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-05-04/cameron-diaz-baby-benji-madden-nautas",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "# Cameron Diaz and Benji Madden welcome baby No. 3: ‘We love life with our family’. This is read by an automated voice. Cameron Diaz and Benji Madden have added one more piece to their family: another baby. “Charlie’s Angels” star Diaz, 53, and Good Charlotte co-founder Madden, 47, are now the parents to a third child, the musician announced Sunday. Madden, a “One Piece” fan and trading card enthusiast, channeled those interests to announce the arrival of Nautas. The singer-songwriter shared an illustration of a personalized trading card bearing the baby boy’s name and a grand pirate ship sailing across rocky waters — in an art style mimicking Eiichiro Oda‘s beloved and long-running pirate manga-turned-anime series. “Cameron and I are Happy, Excited, and feeling so BLESSED to announce the birth of our third Child, Nautas Madden. Singer Chris Brown and Jada Wallace are growing a family of their own, with the arrival of their baby boy.",
+      "published_at": "Mon, 04 May 2026 17:33:47 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於卡麥蓉狄亞與班吉麥登喜迎第三胎，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1102,
+      "title": "5 Reasons Why Michael Ruled The Box Office - SlashFilm",
+      "link": "https://www.slashfilm.com/2158372/michael-2026-movie-box-office-success-reasons/",
+      "source": "Tavily (www.slashfilm.com)",
+      "snippet": "Lionsgate, director Antoine Fuqua, and Michael Jackson's estate have successfully weathered a lot of turmoil to deliver one of the biggest hits of the year so far. \"Michael,\" a biopic covering the King of Pop's rise to superstardom, defied expectations at the box office, posting a massive global opening. We're going to look at the biggest reasons why \"Michael\" ruled the box office on its opening weekend. This was a movie geared towards adults, particularly those who grew up loving Michael Jackson's music. ## Few people have ever been more famous than Michael Jackson. It may seem simple, but the not-so-secret sauce when it comes to the success of \"Michael\" is the fact that Michael Jackson is one of the most famous people to ever walk on planet Earth. This film, in some ways, is the closest a lot of people will get to a prime Michael Jackson concert, with a side of \"Behind the Music\" to go with it.",
+      "published_at": "Tue, 28 Apr 2026 14:08:02 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森傳記電影《Michael》的票房成功，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1103,
+      "title": "Jaafar Jackson’s Used His 2026 Met Gala Look to “Push the Narrative Forward” - Vogue",
+      "link": "https://www.vogue.com/article/jaafar-jackson-met-gala-2026-ralph-lauren",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "Met Gala 2026 Red Carpet Arrivals. # Jaafar Jackson’s Used His 2026 Met Gala Look to “Push the Narrative Forward”. After coming off a whirlwind press tour for the hit biopic *Michael,* Jaafar Jackson—the singer and actor who portrays his moonwalking, single-gloved uncle in the film—is heading from one media frenzy straight into another: the 2026 Met Gala. “It was a bit last-minute for me, given everything going on with *Michael,* so I wasn’t able to start from scratch,” the 29-year-old said. “But I wanted to approach it in a way that felt true to me, of course, not just visually striking, but intentional. It didn’t feel like I was wearing a costume, it felt like an extension of me, just elevated for the moment.”. And while he wanted to make sure and honor the night’s dress code—“Fashion Is Art”—his Ralph Lauren look is, in part, a way to make him feel grounded during a chaotic moment. * See Every Look from the Met Gala 2026 Red Carpet.",
+      "published_at": "Tue, 05 May 2026 00:57:45 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Jaafar Jackson在2026年Met Gala的造型，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1104,
+      "title": "NCT’s Taeyong To Release First Full-Length Album, ‘WYLD,’ On May 18 - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/music/articles/nct-taeyong-release-first-full-202134277.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "# NCT’s Taeyong To Release First Full-Length Album, ‘WYLD,’ On May 18. NCT’s Taeyong is set to release his first full-length album, *WYLD*, on May 18, a defining moment in his solo career. With NCT’s 10th anniversary this year, Taeyong is defining his solo artist identity with *WYLD*, evolving and growing since his 2016 debut (he debuted as a solo artist in 2023). Best known as the leader of global K-pop supergroup NCT and its popular sub-unit NCT 127 (Also NCT U and SuperM), Taeyong is known for his distinct style and versatile performances. In 2024, he performed two back-to-back sold-out solo concerts, 2024  TAEYONG CONCERT, at Seoul’s Olympic Hall. NCT-127 is headlining Day 1, Friday’s MC Countdown concert, and Taeyong will perform as “Taeyong of NCT” on Saturday, Day 2, of the KCON concert at the Crypto.com Arena, alongside ZEROBASEONE, ILLIT, and P1Harmony. Fans, known as NCTzen or Czennie, can expect him to play his new album during his solo performance.",
+      "published_at": "Tue, 28 Apr 2026 20:21:34 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導NCT成員泰容將發行首張個人正規專輯《WYLD》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1105,
+      "title": "Kehlani’s Self-Titled Fifth Studio Album Debuts at No. 4 on Billboard 200 - Oh No They Didn't! — LiveJournal",
+      "link": "https://ohnotheydidnt.livejournal.com/132295050.html",
+      "source": "Tavily (ohnotheydidnt.livejournal.com)",
+      "snippet": "### Suivez nous :. ### Applications. ### COMPANY. ### PRODUCTS. ### COMMUNITY. ### Choisir la langue. #### Log in. # Kehlani’s Self-Titled Fifth Studio Album Debuts at No. 4 on Billboard 200. > ‘KEHLANI’ by Kehlani debuts at #4 on the Billboard 200 with 69K units (24K pure sales). > It becomes her fourth top 10 album. > — Pop Crave (@PopCrave) May 3, 2026. **Kehlani** earns their fourth top 10-charted album on the Billboard 200 as their self-titled set debuts at No. 4 with 69,000 equivalent album units earned — the biggest debut for an R b and soul)ratings / charts - billboard. ## LJ Video.",
+      "published_at": "Mon, 04 May 2026 00:22:29 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了歌手Kehlani的同名第五張錄音室專輯在Billboard 200排行榜上首次亮相即獲得第四名。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1106,
+      "title": "Vic Mensa Signs With ColorCreative (EXCLUSIVE) - Deadline",
+      "link": "https://deadline.com/2026/05/vic-mensa-signs-colorcreative-1236879786/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### AEG Presents Sets Strategic Partnership With Comedy Promoter Outback Presents. # Vic Mensa Signs With ColorCreative. **EXCLUSIVE:** ColorCreative has signed musician, actor, and filmmaker Vic Mensa for management. ### Boris Kodjoe Signs With ColorCreative](https://deadline.com/2026/02/boris-kodjoe-signs-colorcreative-1236715231/). In music, Mensa rose to prominence with early projects like *Innanetape* and his 2017 debut album *The Autobiography*, which he followed up with *Victor* (2023) and the independent EP *sundiata* (2025). He has collaborated with artists including Kanye West, Jay-Z, Pharrell Williams, and Pusha T, earning nominations from the Grammys, NAACP Image Awards, and mtvU Woodie Awards. Alongside his music career, Mensa has built an acting resume with roles on Showtime’s *The Chi*, HBO’s *South Side*, and Peacock’s *Bel-Air*. Mensa will continue to be represented by Buchwald. ## Must Read Stories. * ### ‘Prada 2’ Steps Out With $233M+ WW Bow; ‘Michael’ At $424M. * ### Fiennes, Farrell & Moura Set For Fernando Meirelles Comedy ‘Art’. ## Read More About:. ## Site.",
+      "published_at": "Mon, 04 May 2026 16:21:40 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞主要報導Vic Mensa簽約ColorCreative，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1107,
+      "title": "Freedom Capital's Jay Woods on Applied Digital: Selloff presents a buying opportunity - CNBC",
+      "link": "https://www.cnbc.com/video/2026/04/28/freedom-capitals-jay-woods-on-applied-digital-selloff-presents-a-buying-opportunity.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Market Navigator. # Freedom Capital's Jay Woods on Applied Digital: Selloff presents a buying opportunity. Jay Woods, Freedom Capital Markets, joins 'Power Lunch' to discuss Woods' favorite AI stock that could be gearing up for upside.",
+      "published_at": "Tue, 28 Apr 2026 19:18:07 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Freedom Capital的Jay Woods討論Applied Digital的股票投資機會，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1108,
+      "title": "Jay Powell vows to keep ‘low profile’ as Federal Reserve governor - Financial Times",
+      "link": "https://www.ft.com/content/47ee4a2b-21c7-41f1-a2f7-6729e6a3ee49",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "* Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on x (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on facebook (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on linkedin (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on whatsapp (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on x (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on facebook (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on linkedin (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on whatsapp (opens in a new window). Powell vows to remain on Fed board as he warns over attacks by Trump.",
+      "published_at": "Thu, 30 Apr 2026 13:00:06 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國聯準會主席Jay Powell，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1109,
+      "title": "On the hunt for spring ephemerals in northern Illinois - Northern Public Radio",
+      "link": "https://www.northernpublicradio.org/illinois/2026-05-01/on-the-hunt-for-spring-ephemerals-in-northern-illinois",
+      "source": "Tavily (www.northernpublicradio.org)",
+      "snippet": "# On the hunt for spring ephemerals in northern Illinois. Northern Public Radio | By Jay Weichun. Spring ephemerals are woodland plants found throughout the Upper Midwest. Since 2022, the Forest Preserve District of Kane County has used the iNaturalist app to help educate the public on the various ephemeral species that can be found in our region. Users can upload photos to the app and help create a record of when and where the plants bloom. Gingrich says plant signage and the iNaturalist app help participants identify plants and learn about plant habitat and characteristics. \"The community of users also helps with identifying plants and can suggest identifications when the original poster may have gotten it wrong.”. Users are invited to submit photos of the Kane County spring 2026 ephemerals through the app until May 31, 2026. Jay Weichun is a correspondent with WNIJ's Community Corps. See stories by Jay Weichun.",
+      "published_at": "Fri, 01 May 2026 20:27:52 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於北伊利諾伊州春季植物的追蹤活動，與歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1110,
+      "title": "Parliament-Funkadelic, Jimmie Vaughan, Chaparelle, and Other Reviews From Austin Blues Festival - The Austin Chronicle",
+      "link": "https://www.austinchronicle.com/music/live-shots/parliament-funkadelic-jimmie-vaughan-chaparelle-and-other-reviews-from-austin-blues-festival/",
+      "source": "Tavily (www.austinchronicle.com)",
+      "snippet": "I’m so glad that they’re so open-minded to bring this music as part of Austin Blues Festival music,” he then added sincerely. ### Jimmie Vaughan and Special Guests Craft Love Letter to Blues, Soul, and Austin Music. Guest Soul Man Sam jokingly pointed out that he just turned 78 with no such recognition, then locked in the audience with Gospel-like preaching and a raucous “Let the Good Times Roll.” Tomar Williams followed, showing off on powerful renditions of the Vaughan Brothers’ “Tick Tock” and Eddie Floyd’s “Knock on Wood.” After much anticipation, Gary Clark Jr. joined the band, singing on “Oh, Pretty Woman (Can’t Make You Love Me)” and trading solos with Vaughan on “I Like It Like That” and “Wine, Wine, Wine.” The collaborative marathon set couldn’t have captured the ethos of the Austin Blues Festival any better.",
+      "published_at": "Thu, 30 Apr 2026 05:00:00 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導奧斯汀藍調音樂節，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1111,
+      "title": "Kehlani Unveils Her Most Personal Work Yet with New Self-Titled Album - When In Manila",
+      "link": "https://www.wheninmanila.com/kehlani-most-personal-work-self-titled-album/",
+      "source": "Tavily (www.wheninmanila.com)",
+      "snippet": "2x GRAMMY® Award-winning R&B powerhouse Kehlani released her highly anticipated self-titled fifth studio album, *KEHLANI*, on her birthday, April 24, 2026. The project captures her at her most honest, blending soul-baring storytelling with the lush, genre-bending sound that has made her one of modern R&B’s most influential voices. The album was anchored by a trio of defining singles, beginning with “Folded,” a breakout anthem that has become one of the defining R&B records of the decade. “Folded” delivered major award recognition, including 2x GRAMMY® wins for Best R&B Song and Best R&B Performance, an iHeartRadio Music Award for R&B Song of the Year (where she made her debut award show performance), NAACP Image Awards nominations, and three American Music Award nominations, including Song of the Year. Kehlani will also be honored with the Impact Award at the upcoming Billboard Women in Music, where she will deliver a special performance in celebration of her influence on music and culture.",
+      "published_at": "Mon, 04 May 2026 06:30:09 GMT",
+      "collected_at": "2026-05-05 03:57:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "美國R&B歌手Kehlani發行了她的第五張錄音室專輯《KEHLANI》，並憑藉其主打單曲獲得多項大獎。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1096,
       "title": "‘Michael’ Electrifies the Box Office: 5 Reasons Bad Reviews Couldn’t Derail the Michael Jackson Biopic - Variety",
@@ -400,178 +554,39 @@
       "summary": "此新聞報導西方歌手的新音樂發行，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1072,
-      "title": "Michael’s a Sensational Experience - Splice Today",
-      "link": "https://www.splicetoday.com/moving-pictures/michael-s-a-sensational-experience",
-      "source": "Tavily (www.splicetoday.com)",
-      "snippet": "Bad news: the Michael Jackson movie’s kind of a blast. Most of the movie is made up of these flash cards, with the exception being the titanic set pieces featuring Michael in performance. The concert sequences are what sell the movie, and Jaafar Jackson (Jermaine’s son, Michael’s portrayer in the film) does them justice with a fine duplication of his uncle’s brilliance. That crisis was supposed to be the frame for the movie, with the fast trot coming in as a series of flashbacks before Michael resolved the crisis and the movie wrapped up. Luckily for the moviemakers, the story of Michael Jackson remains remarkable no matter what. But as long as we’re not being honest, *Michael*’s about the best Michael Jackson movie possible. Jaafar Jackson’s good as Michael speaking and very good as him dancing. The boys shift a lot on the sofa; Mr. Jackson lays into little Michael, and the boys bite their lips and shake their heads.",
-      "published_at": "Tue, 28 Apr 2026 10:32:51 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要內容為關於麥可傑克森傳記電影《Michael》的評論。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1073,
-      "title": "Who’s Who in ‘Michael’: A Guide to the Characters - The New York Times",
-      "link": "https://www.nytimes.com/2026/04/24/movies/michael-jackson-movie-cast-characters.html",
-      "source": "Tavily (www.nytimes.com)",
-      "snippet": "# Who’s Who in ‘Michael’: A Guide to the Characters - The New York Times. Movies|Who’s Who in ‘Michael’: A Guide to the Characters. # Who’s Who in ‘Michael’: A Guide to the Characters. A new Michael Jackson biopic, with the star’s nephew Jaafar Jackson in the title role, is packed with famous musical figures. Miles Teller as John Branca, Michael Jackson’s lawyer and a co-executor of his estate.Credit...Lionsgate. The new Michael Jackson biopic, “Michael,” is filled with music-world royalty. The film also stars Colman Domingo (“Euphoria”) as Michael Jackson’s father, Joe Jackson; Miles Teller (“Whiplash”), who plays John Branca, Jackson’s lawyer and manager; and Nia Long (“Boyz N the Hood”) as the pop legend’s mother, Katherine. It was Berry Gordy, who, while leading the Motown Records label he’d founded, plucked Michael and four of his brothers from obscurity and went on to mentor them to stardom as the Jackson 5.",
-      "published_at": "Fri, 24 Apr 2026 09:00:06 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞介紹了即將上映的麥可傑克森傳記電影《Michael》中的主要角色及其演員陣容，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1074,
-      "title": "The inescapable unease of the Michael Jackson biopic - Salon.com",
-      "link": "https://www.salon.com/2026/04/25/michael-review-michael-jackson-biopic-is-distinctly-uneasy/",
-      "source": "Tavily (www.salon.com)",
-      "snippet": "(Lionsgate) Jaafar Jackson as Michael Jackson in “Michael”. No matter how sanitized and safe the movie may be — and rest assured, it’s as sterile as possible — there was no way Fuqua’s film wasn’t going to unearth mountains of readily available information and firsthand quotes from Jackson himself that cast a sickly spotlight over the singer. Audience members clapped and sang along to “Thriller” and “Wanna Be Startin’ Somethin’,” and whooped every time Michael — played with admittedly impressive accuracy by Jackson’s nephew, Jaafar — hit a spin or kick. It appears that these scenes were scattered heavily throughout “Michael” so that the film could use them to convince viewers that Jackson never did anything wrong. “Michael” still ends on a high note — one of Jackson’s last — as the singer readies the release of 1988’s “Bad.” Ironically, it’s the time when Jackson’s music and personal affairs started to become bad, too.",
-      "published_at": "Sat, 25 Apr 2026 16:00:27 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要討論麥可傑克森傳記電影的爭議性呈現。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1075,
-      "title": "Bruno Mars Scores Another Hit Album Weeks After Dropping ‘The Romantic’ - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/bruno-mars-scores-another-hit-133000466.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# Bruno Mars Scores Another Hit Album Weeks After Dropping ‘The Romantic’. The Grammy winner is known to space his projects apart by several years, and Mars made fans wait an entire decade between his two most recent solo collections, *24K Magic* and *The Romantic*. Less than two months after dropping *The Romantic*, Mars collects a new top 10 album on multiple *Billboard* charts – though the music featured on his latest release will be familiar to not only his diehard followers, but anyone who’s tuned into top 40 radio in the past decade. ## Bruno Mars’s *Collaborations* Debuts Inside Top 10. ## Bruno Mars’s *Collaborations* Lands on Two Charts. Mars earns his fourth top 10 on the Vinyl Albums chart, which is centered entirely around the country’s bestselling releases on wax. ## Bruno Mars Has Collected a Pair of Sales No. 1s.",
-      "published_at": "Thu, 30 Apr 2026 13:30:00 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於火星人布魯諾（Bruno Mars）的新專輯《Collaborations》在多個排行榜上取得成功，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1076,
-      "title": "RZA on writing and directing new film and induction into Rock & Roll Hall of Fame - Modern Ghana",
-      "link": "https://www.modernghana.com/amp/videonews/642480",
-      "source": "Tavily (www.modernghana.com)",
-      "snippet": "Wu-Tang Clan co-founder RZA tells ABC News' Linsey Davis about writing and directing his new film \"One Spoon of Chocolate,\" and his soon-to-be induction into the Rock & Roll Hall of Fame. ––– Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” —–– Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
-      "published_at": "Thu, 30 Apr 2026 07:20:00 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於RZA的新電影與入選搖滾名人堂，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1077,
-      "title": "What to do in Chicago: Demi Lovato, Asian American Arts Festival and a boat birthday party - Chicago Tribune",
-      "link": "https://www.chicagotribune.com/2026/04/30/what-to-do-chicago-may2/",
-      "source": "Tavily (www.chicagotribune.com)",
-      "snippet": "# What to do in Chicago: Demi Lovato, Asian American Arts Festival and a boat birthday party. Just after dropping eight new tracks on an expanded version of her latest album, “It’s Not That Deep,” Demi Lovato stages a dance party in the United Center. 8 p.m. May 1 at United Center, 1901 W. 7 p.m. May 2 at the Chicago Theatre, 175 N. Maybe you know him as Earn’s uncle on “Atlanta” — a guest role for which Williams won an Emmy — or Money Mike in “Friday After Next.” Get the behind-the-scenes stories in his forthcoming memoir, due out this fall, “Nine Lives, No Wives, and 69 Concubines.” 8 p.m. May 2 at United Center, 1901 W. 7 p.m. May 3 at The Chicago Theatre, 175 N. 8 p.m. May 2 at Rosemont Theatre, 5400 N. Michigan Ave.; and 7:30 p.m. May 10 in Nichols Concert Hall, Music Institute of Chicago, 1490 Chicago Ave., Evanston; tickets from $15 at orionensemble.org.",
-      "published_at": "Thu, 30 Apr 2026 18:21:36 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導芝加哥的活動資訊，包括黛咪·洛瓦托的演出和亞洲裔美國人藝術節等，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1078,
-      "title": "ASCAP Screen Awards Honor 'Wicked,' 'Palm Royale,' 'Pluribus' Composers - Variety",
-      "link": "https://variety.com/2026/film/news/ascap-screen-music-awards-wicked-palm-royale-composers-1236733085/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# ASCAP Screen Music Awards Honor Composers for ‘Wicked,’ ‘Palm Royale,’ ‘Pluribus’ and ‘Stranger Things’; David Vanacore Gets Lifetime Honor. At the annual ASCAP Screen Music Awards Tuesday night, the performing rights organization announced the winners of its Composers Choice Awards, a set of honors voted upon by members, with trophies going to the scorers for “Wicked: For Good,” “Palm Royale,” “Stranger Things,” “Pluribus” and the latest “Star Wars” video game, among other projects. Documentary film score of the year went to Blair Mowat for “The Age of Disclosure.” Amanda Jones picked up the documentary series score of the year award for “Hurricane Katrina: Rage Against Time.”. * ### CBS Says It Will Develop New Late Night Concepts After Axing Stephen Colbert, but ‘Immediate Profitability’ Is the Focus With New Byron Allen Deal. * ### ‘Marshals’ Most-Watched New TV Show of the Season, as CBS Touts Its Broadcast and Streaming Strength Against Competitors.",
-      "published_at": "Wed, 29 Apr 2026 14:39:24 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於ASCAP螢幕音樂獎的得獎者，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1079,
-      "title": "Monica Lewinsky Jokes About Bill Clinton Affair on Video - TMZ",
-      "link": "https://www.tmz.com/2026/04/24/monica-lewinsky-jokes-about-bill-clinton-affair/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Monica Lewinsky Jokes About Bill Clinton Affair on Video. ## Monica Lewinsky on Clinton Affair You Gotta Be Able to Laugh at Yourself!!! Video: Monica Lewinsky Jokes About Bill Clinton Affair on Video. **Monica Lewinsky** is able to laugh at her infamous past with **Bill Clinton** ... As you know, Lewinsky and Clinton were involved in a scandalous affair when she was 22 --and he was 49 and married, and president -- in the 1990s. Video: Monica Lewinsky Slams Jay Leno, Says She Was His Top Target on His Show | TMZ Live. #### Jay Leno Denies He Targeted Monica Lewinsky, Says She Was Fair Game. #### Monica Lewinsky Slams Jay Leno, Says She Was His Top Target on His Show. #### Monica Lewinsky Says Bill Clinton Should Apologize But She Doesn't Need It. #### Monica Lewinsky Had Suicidal Thoughts During Clinton Affair Scandal. Monica Lewinsky   Bill Clinton   Jay Leno   Celebrity News   Relationships   Scandals   Politics   Exclusive.",
-      "published_at": "Fri, 24 Apr 2026 13:23:58 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要關於Monica Lewinsky對與Bill Clinton緋聞的自嘲，以及她與Jay Leno的爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1080,
-      "title": "11 Best Moments From 2026 Billboard Women in Music - Billboard Canada",
-      "link": "https://ca.billboard.com/music/awards/11-best-moments-from-2026-billboard-women-in-music",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "In a night all about women supporting women, Zara Larsson took the Billboard Women in Music mission statement literally on Wednesday night (April 29) at the Hollywood Palladium, with the Swedish pop star being held aloft by her four backup dancers as she flawlessly performed her Grammy-nominated song “Midnight Sun.”. In presenting the 2026 Billboard Women in Music Impact award to Kehlani, Ciara said she’s especially pleased “when I get to celebrate an artist whose music keeps climbing the charts and whose compassion [for helping others] is off charts.”. The Live Nation-promoted tour promoting the album due out on June 12 will find the “Good 4 U” singer doubling-up for shows in Pittsburgh, Washington, D.C., Charlotte, N.C., Chicago, Boston, Montreal, Toronto, Columbus, Philadelphia, Atlanta, Orlando, Sunrise, Fl., Nashville, Vancouver, Seattle, Oakland, Sacramento and Las Vegas, with four shows planned at the Intuit Dome in Los Angeles and four more at the Barclays Center in Brooklyn in February 2027 before moving on to Europe and the U.K. The tour, which will feature support on select dates from Wolf Alice, Devon Again, The Last Dinner Party, Grace Ives and Die Spitz, is slated to wrap up on May 2 with the second of two stops at Palau Sant Jordi in Barcelona, Spain on the follow-up to the singer’s 2024-2025 Guts world tour, which played 95 sold-out shows to over 1.4 million fans.",
-      "published_at": "Thu, 30 Apr 2026 14:04:20 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於2026年Billboard女性音樂獎及其他藝人的巡演資訊，內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1081,
-      "title": "Tickets for dozens of Bay Area concerts are $30, from Santana to TLC - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/live-nation-concerts-22232459.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "Bay Area music lovers can purchase tickets to some of the summer’s hottest shows for just $30 as part of Live Nation’s latest fan initiative. The promoter’s new Summer of Live program is offering a limited number of discounted tickets to more than 4,000 shows across North America through Tuesday, May 5. The Bay Area is hosting a slate of Summer of Live shows from May through November, with concerts including Machine Gun Kelly at Wheatland’s Toyota Amphitheatre on May 15; Kesha (May 27), Lil Wayne (July 31) and TLC and Salt-N-Pepa (Oct. 11) at Toyota Pavilion at Concord;  Luke Bryan (Aug. 14), Santana and the Doobie Brothers (Aug. 9) and John Mellencamp (Aug. 12) at Shoreline Amphitheatre in Mountain View; and Zayn (Sept. The offer is similar to Live Nation’s annual Concert Week initiative, which usually runs in May. In 2024, it offered $25 tickets to 90 Bay Area concerts, including Peso Pluma, Maxwell and Missy Elliott. Review: ‘Exit 8’ is a mind-bending Japanese thriller stuck in an endless loop.",
-      "published_at": "Wed, 29 Apr 2026 22:36:30 GMT",
-      "collected_at": "2026-05-01 04:37:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Live Nation在舊金山灣區推出多場演唱會的優惠票價活動，但內容並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1061,
-      "title": "Michael Jackson Biopic Cast Looks Shockingly Like The Real People They Play - HuffPost",
-      "link": "https://www.huffpost.com/entry/michael-jackson-biopic-cast-transformation-real-people_n_69ea643fe4b0cc34aae505c4?origin=home-whats-happening-unit",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "# Michael Jackson Biopic Cast Looks Shockingly Like The Real People They Play. ## The highly-anticipated \"Michael\" film, about the life and early career of Michael Jackson, hits theaters this weekend — and talk about what the film gets right and wrong has already reached a fever pitch. ## MJ is played by his nephew, Jaafar Jackson, and there are moments in the film when it's truly hard to tell them apart. ## With so much buzz circling Michael, let's take a look at some side-by-side comparisons of the actors and the real people they're portraying in the film. ## First up, there's Jaafar Jackson as Michael. Jaafar is the son of Jermaine Jackson, and makes a real splash of a debut in Michael. Universal Pictures | Michael Ochs Archives / Getty Images. From left to right: Rhyan Hill as Tito Jackson, Tre' Horton as Marlon Jackson, Jaafar as Michael, Joseph David-Jones as Jackie Jackson, and Jamal Henderson as Jermaine Jackson.",
-      "published_at": "Thu, 23 Apr 2026 23:31:24 GMT",
-      "collected_at": "2026-04-30 04:22:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於麥可傑克森傳記電影的選角與演員相似度，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 42,
-    "report_date": "2026-05-04",
-    "total_articles": 5,
+    "id": 43,
+    "report_date": "2026-05-05",
+    "total_articles": 11,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "根據今日搜集到的新聞，未發現任何與周杰倫直接相關的報導或焦點事件。今日娛樂新聞主要圍繞麥可傑克森傳記電影的票房表現、多位R&B/嘻哈歌手的新專輯發行及獎項，以及其他藝人的動態。因此，本日無周杰倫的相關摘要。",
+    "neutral_count": 11,
+    "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導或焦點事件。所有提及『Jay』的內容皆與其他人物相關，例如Jay Woods、Jay Powell或Jay-Z，並非周杰倫本人。因此，今日無周杰倫的最新娛樂新聞可供摘要。",
     "key_events": [
       "無周杰倫新聞",
-      "今日無相關報導",
-      "無重要事件發生"
+      "無重要事件",
+      "今日無焦點"
     ],
-    "created_at": "2026-05-04 04:29:42"
+    "created_at": "2026-05-05 03:58:28"
   },
   "recentReports": [
+    {
+      "id": 43,
+      "report_date": "2026-05-05",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 11,
+      "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導或焦點事件。所有提及『Jay』的內容皆與其他人物相關，例如Jay Woods、Jay Powell或Jay-Z，並非周杰倫本人。因此，今日無周杰倫的最新娛樂新聞可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無重要事件",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-05 03:58:28"
+    },
     {
       "id": 42,
       "report_date": "2026-05-04",
@@ -661,21 +676,6 @@
         "嘻哈歌手謀殺案認罪"
       ],
       "created_at": "2026-04-29 04:11:14"
-    },
-    {
-      "id": 36,
-      "report_date": "2026-04-28",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 11,
-      "daily_summary": "今日搜集到的新聞中，沒有任何關於周杰倫的報導。因此，無法提供周杰倫相關的焦點摘要。",
-      "key_events": [
-        "無周杰倫報導",
-        "無相關焦點",
-        "無重要事件"
-      ],
-      "created_at": "2026-04-28 04:24:23"
     }
   ]
 }
