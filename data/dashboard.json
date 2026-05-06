@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 11,
+    "total": 12,
     "positive": 0,
     "negative": 0,
-    "neutral": 11
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 1111,
+    "total": 1123,
     "positive": 338,
     "negative": 46,
-    "neutral": 727,
-    "avg_score": 0.62
+    "neutral": 739,
+    "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-21",
-      "total": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-22",
       "total": 8,
@@ -132,9 +124,185 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-06",
+      "total": 12,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 12,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1112,
+      "title": "Ye’s daughter North West follows in dad’s footsteps, rapping about money and Lambos on debut EP - Entertainment Weekly",
+      "link": "https://ew.com/north-west-12-follows-in-ye-footsteps-on-debut-ep-11964574",
+      "source": "Tavily (ew.com)",
+      "snippet": "* 'Scarpetta' star Jamie Lee Curtis talks adapting the novels for TV. * JFK Jr.'s cousin speaks out on Daryl Hannah's 'Love Story' portrayal. f33l” (“How Should I Feel”), samples “Monster” by Meg & Dia, sisters who scored a one-hit wonder back in 2006, years before North was a twinkle in her father’s eye. “Know it’s been a hard time for me lately / I’ve been deep in the dark you can’t save me,” she admits on title track “#N0rth4evr.”. As models walked the runway at her father’s Yeezy show, North stood onstage with a microphone performing an original song. Joey Fatone says woman once claimed he fathered her child as part of paternity scam: 'My career is over'. Michael Jackson's son Prince felt 'emotional shock' seeing cousin Jaafar as his father for first time for biopic. Olivia Rodrigo tears apart *SNL* dressing room looking for secret note from Jack White ahead of hosting debut. Drew Barrymore and Zayn Malik get tattoos on her talk show: 'It's something I really need'.",
+      "published_at": "Fri, 01 May 2026 23:34:17 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導North West的音樂出道及其他歐美娛樂消息，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1113,
+      "title": "Sting won’t leave fortune to his children, says not making them work is ‘a form of abuse’ - Fox News",
+      "link": "https://www.foxnews.com/entertainment/sting-wont-leave-fortune-his-children-says-not-making-them-work-a-form-abuse",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "* #### Kim Kardashian, Beyonce and Blake Lively steal the show at the 2026 Met Gala. * #### Blake Lively and Justin Baldoni reach a settlement in 'It Ends With Us' retaliation lawsuit. * #### 'Storage Wars' star's son breaks silence after father's death by suicide at 67. In a recent sit down with \"CBS Sunday Morning,\" the 74-year-old musician spoke about his philosophy when it comes to an inheritance, noting he thinks \"the worst thing you can do to a kid is to say, 'You don't have to work.'\". \"I think that's a form of abuse that I hope I'm never guilty of,\" he shared. > \"I think the worst thing you can do to a kid is to say, 'You don't have to work.' I think that's a form of abuse that I hope I'm never guilty of.\".",
+      "published_at": "Tue, 05 May 2026 21:58:56 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導音樂家Sting關於不將財產留給子女的繼承觀念，認為不讓孩子工作是一種虐待，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1114,
+      "title": "How Much Did Michael Jackson’s Streams Increase Following the Release of ‘Michael’ Biopic? - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/michael-jackson-streams-double-biopic-trending-up-1236234374/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "This week: Michael Jackson’s catalog sees massive gains in the wake of the successful first weekend for the* Michael *biopic, Prince and Beyoncé *fans commemorate two very different kinds of 10th anniversaries*, Death Cab for Cutie still packs a TV-synching punch and more.*. Jackson’s song streams have soared in the wake of his biopic *Michael*, more than doubling in the immediate days after the film’s wide release on April 24. Preliminary reports have The Jackson 5’s catalog at 3.4 million streams from April 24-26, up 89% from the corresponding days in the prior week. Based on those three days of activity, the first post-*Michael* week is well positioned to give Jackson his biggest U.S. streaming week ever, in terms of official on-demand streams for his solo work. As anticipation for *Michael* swelled in recent weeks, Jackson’s catalog set new personal bests in streaming for the last two weeks – with 50.6 million clicks in the April 10-16 period and 55.3 million April 17-23.",
+      "published_at": "Wed, 29 Apr 2026 19:24:59 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導麥可傑克森傳記電影上映後，其歌曲串流播放量大幅增長，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1115,
+      "title": "Chris Brown Reveals GloRilla, YoungBoy Never Broke Again & More to Appear on His New Album ‘Brown’ - Billboard",
+      "link": "https://www.billboard.com/music/rb-hip-hop/chris-brown-new-album-brown-glorilla-youngboy-nba-1236239330/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Chris Brown Reveals GloRilla, YoungBoy Never Broke Again & More to Appear on His New Album ‘Brown’. Chris Brown’s 12th studio album, *Brown*, is set to arrive Friday (May 8), and CB revealed the star-studded cast that’s joining him on the LP on Tuesday (May 5), which serves as the singer’s 37th birthday. ### Chris Brown. The Virginia legend took it back to 1966 for a vintage black-and-white trailer revealing his loaded guest list by turning his features into classic R&B singers who are part of the lineup for “A Night of Soul” at the “House of Brown.”. YoungBoy Never Broke Again, GloRilla, Vybz Kartel, Leon Thomas, Bryson Tiller, Tank, Fridayy,Sexyy Red and Lucky Daye are set to join C. Fans seemed to be hyped that Chris Brown and Lucky Daye were teaming up for a collab. It’s been a busy rollout for Chris Brown leading up to the LP, even outside the studio. ### Get in the know on.",
+      "published_at": "Tue, 05 May 2026 17:05:08 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國歌手Chris Brown新專輯的合作陣容，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1116,
+      "title": "JayDon Is Building His Moment One Sold-Out Show at a Time - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/music/jaydon-building-his-moment-interview-11884931",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# JayDon Is Building His Moment One Sold-Out Show at a Time. It’s the product of family, faith, and years spent sharpening his craft long before the spotlight widened to include his own headlining tour. Despite his youth, McCrary has already cemented himself as one of the rising names in entertainment. Deep into his current run of sold-out shows on the Flamed Up Tour, the young actor and singer spoke to *Newsweek* about his journey, Usher's tutelage, and maintaining a level head amid it all. McCrary describes himself as someone who was “born into this,” with music acting as a source of calm even before he could articulate it. “Even when I was still in diapers, that’s the only thing that would calm me down,” he says with a laugh. That was the first time I really fell in love with dancing.”. “I feel like I have more of a foundation when it comes to entertainment as a whole.",
+      "published_at": "Tue, 05 May 2026 19:58:00 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於藝人JayDon McCrary的演藝事業成功與成長，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1117,
+      "title": "JayDon On Evolution And Musical Growth - Newsweek",
+      "link": "https://www.newsweek.com/videos/jaydon-on-evolution-and-musical-growth-2",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "JayDon On Evolution And Musical Growth. Actor and singer JayDon discusses his musical inspiration and his journey through the entertainment industry. ## Be Warned: Anti-Semitism Is Never Actually About the Jews | THE JOSH HAMMER SHOW. ## Enough Is Enough: Finish the Job Against Iran | THE JOSH HAMMER SHOW. ## The Ex-Journalist Declaring War on AI Slop | The 1600. ## King Charles Gambled the Monarchy on Trump—Only He Could Pull it Off. 163K VIEWS • 4 days ago. ## GOP Tops Dems at Their Own Redistricting Game | THE JOSH HAMMER SHOW. ## A Huge SCOTUS Win, the King’s Visit & Charlie Kirk’s Real Legacy | THE JOSH HAMMER SHOW. ## Kara Swisher On Billionaire CEOs: 'Their Brokenness Is Hurting The Rest Of Us'. ## What Sharon McMahon Would Have Said At UVU Commencement Before Charlie Kirk Cancellation | The 1600. ## Defiant Left Doubles Down & the Case Against Birthright Citizenship THE JOSH HAMMER SHOW.",
+      "published_at": "Tue, 05 May 2026 17:32:43 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，內容主要討論歌手JayDon的音樂發展與演藝生涯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1118,
+      "title": "8 Celebrities Who Love Motorcycles With A Passion - Jalopnik",
+      "link": "https://www.jalopnik.com/2161672/celebrities-you-didnt-know-love-motorcycles/",
+      "source": "Tavily (www.jalopnik.com)",
+      "snippet": "It's an escape, and in some cases, a way of life. We're not here to say who has the largest or priciest two-wheeled fleet, but to talk about celebrities with an itch only a motorcycle can scratch. It should come as no surprise that the man with one of the most enviable garages in the world loves motorcycles. That man is Jay Leno, a TV host-turned-collector with an exquisite 180-plus car collection featuring some of the most expensive cars in the world, complemented by a fleet of over 160 motorbikes. So it's odd to hear that some of Reeves' early film contracts banned him from riding, but it's not too shocking given the risks of a motorcycle crash to such a valuable star. In fact, he once told Esquire that riding is \"the best feeling in the world.\" It's a passion rooted so deeply that it drove the Scottish actor — and his friend, Charley Boorman — to ride from London to New York in April 2004 for the TV series \"Long Way Round.\" The duo did so astride a 1,130cc flat-twin BMW R1150GS, covering 22,345 miles across Europe, Asia, and North America.",
+      "published_at": "Tue, 05 May 2026 12:45:00 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞摘要主要討論其他名人對摩托車的熱愛，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1119,
+      "title": "JayDon on evolution and musical growth - Newsweek",
+      "link": "https://www.newsweek.com/videos/jaydon-on-evolution-and-musical-growth",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "Russia-UkraineMiddle EastChina And AsiaLive BlogBetter PlanetAll World News. JayDon On Evolution And Musical Growth. Actor and singer JayDon discusses his musical inspiration and his journey through the entertainment industry. ## Enough Is Enough: Finish the Job Against Iran | THE JOSH HAMMER SHOW. 97K VIEWS • 1 day ago. ## The Ex-Journalist Declaring War on AI Slop | The 1600. ## King Charles Gambled the Monarchy on Trump—Only He Could Pull it Off. 163K VIEWS • 3 days ago. ## GOP Tops Dems at Their Own Redistricting Game | THE JOSH HAMMER SHOW. ## A Huge SCOTUS Win, the King’s Visit & Charlie Kirk’s Real Legacy | THE JOSH HAMMER SHOW. ## Kara Swisher On Billionaire CEOs: 'Their Brokenness Is Hurting The Rest Of Us'. ## How to Earn the King's Trust? ## What Sharon McMahon Would Have Said At UVU Commencement Before Charlie Kirk Cancellation | The 1600. ## Defiant Left Doubles Down & the Case Against Birthright Citizenship THE JOSH HAMMER SHOW.",
+      "published_at": "Tue, 05 May 2026 15:53:13 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於歌手JayDon的音樂發展與演藝歷程，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1120,
+      "title": "Passage cuts 75% of workforce after FDA trial design request - BioSpace",
+      "link": "https://www.biospace.com/job-trends/passage-cuts-75-of-workforce-after-fda-trial-design-request",
+      "source": "Tavily (www.biospace.com)",
+      "snippet": "# Passage cuts 75% of workforce after FDA trial design request. ## Passage Bio, which has been working toward a registrational trial for a drug candidate whose indications include frontotemporal dementia, is exploring strategic alternatives in addition to cutting staff. Shortly after announcing that the FDA will require a specific registrational trial design for its lead drug candidate in one target indication, Passage Bio has disclosed it will cut about 75% of its workforce to reduce operating expenses. On April 20, Passage announced the outcome of a recent Type C meeting with the FDA regarding design of a future registrational trial for PBFT02 for the treatment of frontotemporal dementia with granulin mutations (FTD-GRN). Will Chou, the company’s president and CEO, said the agency did not support a single-arm trial design and instead will require a randomized controlled trial. The company noted that to maximize shareholder value, it is exploring strategic alternatives that could include a merger or acquisition, a sale of assets and licensing opportunities.",
+      "published_at": "Mon, 04 May 2026 15:51:30 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於生物科技公司Passage Bio因FDA要求調整藥物試驗設計而裁員75%，其執行長名為Will Chou，但內容與華語歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1121,
+      "title": "Beyoncé and Jay-Z are parents of 3: What to know about their kids - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/GMA/Family/beyonce-jay-z-kids/story?id=107178279",
+      "source": "Tavily (abcnews.com)",
+      "snippet": "# Beyoncé and Jay-Z are parents of 3: What to know about their kids. Beyoncé and Jay-Z are not just music royalty, they're also the parents of three children. The superstar couple attended the 2026 Met Gala on Monday, May 4 with their eldest child, daughter Blue Ivy Carter. Earlier this year, Blue Ivy and her younger sister Rumi Carter joined Jay-Z on the sidelines of Super Bowl LX on Feb. 8 at Levi Stadium in Santa Clara, California. Last year, Jay-Z stepped out with Rumi and Blue Ivy at the 2025 Super Bowl on Feb. 9 in New Orleans. Jay-Z and Blue Ivy were by Beyoncé's side at the 2025 Grammys, where she won album of the year and best country album for her 2024 smash record, \"Cowboy Carter.\". When Beyoncé went to the stage to accept the album of the year award -- her first-ever win in that category -- Blue Ivy was by her side.",
+      "published_at": "Tue, 05 May 2026 17:59:15 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導碧昂絲與Jay-Z的家庭生活及其子女。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1122,
+      "title": "Marihiko Hara on His Artistic Vision & Its Culmination in 'KOKUHO’ - Billboard",
+      "link": "https://www.billboard.com/music/music-news/marihiko-hara-interview-kokuho-japan-monthly-feature-1236235999/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Billboard Japan spoke with composer Marihiko Hara, the composer of the score for the film *KOKUHO*, for its MONTHLY FEATURE series spotlighting artists and works currently worthy of note. At the 49th Japan Academy Film Prize held in March 2026, it swept 10 awards including Picture of the Year, with Hara himself taking home prizes in the Outstanding Achievement in Music and Theme Song categories. You won in the Outstanding Achievement in Music and Theme Song categories at the Japan Academy Film Prize — how are you feeling now?**. Yes. The music I’d listened to over the years, like Toru Takemitsu and Ryuichi Sakamoto, naturally included instruments from outside the Western tradition, so my ear was already attuned to them. Director Lee heard it and said, “This is really good, but it’s not possible to sustain three hours on just this, so we’ll need melody that works as film music, too.” I understood that, of course, but needed to present what I felt was the essential core of the sound first.",
+      "published_at": "Thu, 30 Apr 2026 18:03:50 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導作曲家原摩利彥為電影《KOKUHO》配樂的藝術理念與獲獎成就，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1123,
+      "title": "AMC Theatres Launching New Live Concert Experience With Arena One - Deadline",
+      "link": "https://deadline.com/2026/05/amc-entertainment-new-live-concert-experience-arena-one-1236881931/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### ‘Devil Wears Prada 2’ Very Chic With $233M+ WW, ‘Michael’ Dances The Weekend Away To Near $424M Cume; ‘Super Mario Galaxy’ Nears $900M – Global Box Office Update. # AMC Theatres Launching New Live Concert Experience With Arena One. AMC, the world’s largest exhibitor, and new live entertainment company Arena One have set a June launch for a live concert venture that will beam events in real time to more than 300 AMC locations nationwide. Arena One At AMC will debut with performances from Bebe Rexha (June 17), Paris Hilton (June 18) and Maren Morris (June 20). The format expands access for fans while giving artists a way to reach audiences without the limitations of traditional touring, the partners said. Live concerts and concert films from Taylor Swift to BTS to Beyoncé have become a staple of the domestic box office. ## Must Read Stories. ## Read More About:. ## Site.",
+      "published_at": "Tue, 05 May 2026 21:26:40 GMT",
+      "collected_at": "2026-05-06 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於AMC戲院與Arena One合作推出新的現場演唱會體驗，但內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1101,
       "title": "Cameron Diaz and Benji Madden welcome baby No. 3: ‘We love life with our family’ - Los Angeles Times",
@@ -386,192 +554,39 @@
       "summary": "此新聞內容主要介紹R&B/Hip-Hop領域的最新音樂動態，並未提及周杰倫相關資訊。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1093,
-      "title": "Keke Palmer Performs 'Text Message Unsent' - Billboard",
-      "link": "https://www.billboard.com/video/keke-palmer-performs-text-message-unsent/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "## Video. Host Keke Palmer performs “Text Message Unsent” at Billboard Women In Music 2026. # Keke Palmer Performs ‘Text Message Unsent’ | Billboard Women In Music 2026. Billboard Women in Music 2026. At the Hollywood Palladium on Wednesday night (April 29), Billboard Women in Music 2026 is honoring EJAE, REI AMI, AUDREY NUNA, Kehlani, Teyana Taylor, Ella Langley, Thalia, Zara Larsson, Laufey and Tate McRae. ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. // This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. Billboard is a part of Penske Media Corporation. Powered by WordPress.com VIP. ## optional screen reader.",
-      "published_at": "Thu, 30 Apr 2026 22:32:22 GMT",
-      "collected_at": "2026-05-03 04:29:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Keke Palmer在2026年Billboard女性音樂獎上表演，並提及了其他獲獎藝人。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1094,
-      "title": "Ciara Presents Kehlani With the Impact Award - Billboard",
-      "link": "https://www.billboard.com/video/ciara-presents-kehlani-with-the-impact-award/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "## Video. Billboard Women in Music 2026. # Ciara Presents Kehlani With the Impact Award | Billboard Women In Music 2026. Ciara presents Kehlani With the Impact Award at Billboard Women In Music 2026. At the Hollywood Palladium on Wednesday night (April 29), Billboard Women in Music 2026 is honoring EJAE, REI AMI, AUDREY NUNA, Kehlani, Teyana Taylor, Ella Langley, Thalia, Zara Larsson, Laufey and Tate McRae. ### The Daily. A daily briefing on what matters in the music industry. By providing your information, you agree to our Terms of Use and our Privacy Policy. We use vendors that may also process your information to help provide our services. // This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and Terms of Service apply. Billboard is a part of Penske Media Corporation. Powered by WordPress.com VIP. ## optional screen reader.",
-      "published_at": "Thu, 30 Apr 2026 11:10:51 GMT",
-      "collected_at": "2026-05-03 04:29:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Ciara在2026年Billboard音樂界女性頒獎典禮上，將影響力獎頒發給Kehlani，並提及了其他獲獎藝人，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1095,
-      "title": "Isaia Huron Is Billboard’s Up-and-Coming R&B Artist of the Month for April 2026 - Billboard",
-      "link": "https://www.billboard.com/music/rb-hip-hop/isaia-huron-april-2026-rb-artist-up-and-coming-1236232338/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "Released April 10 via RCA Records, *Mr. Lovebomb* stretches beyond Huron’s creative boundaries, as he lays out a 10-song story about a fictional character who doubles down on love and heartbreak with every new woman he encounters. *Billboard* spoke to April’s R&B Up and Comer of the Month, Isaia Huron, about the creation of *Mr. Lovebomb*, dating in 2026, and why he finds beauty in recording at home over a traditional studio setup. I don’t think about it like that, you know? Kanye has this song on *Watch the Throne* [called] “I Can’t Stop” where he’s like, “I heard she f–ked the doorman, well it’s cool, I f–ked the waitress” and that was in my mind and I think that’s how it kind of found its way inside of the story. I think I’m too in it to be able to say, “This is what’s new from me.” It’s coming from the same person who made the story a couple months before.",
-      "published_at": "Mon, 27 Apr 2026 19:53:42 GMT",
-      "collected_at": "2026-05-03 04:29:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要介紹R&B新星Isaia Huron的新專輯《Mr. Lovebomb》及其創作過程，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1082,
-      "title": "‘Michael’ moonwalks into a big box office debut - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/business/story/2026-04-26/michael-box-office-ticket-sales-totals",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "“Michael,” the Michael Jackson biopic from Lionsgate, had a massive opening weekend with a box office haul of $97 million in the U.S. and Canada. The film, which stars Jackson’s nephew, Jaafar Jackson, as the late singer, beat studio expectations of a $65 million to $70 million debut. Many noted the plot sidesteps the child sexual abuse allegations against Jackson and said the film presents a more one-dimensional view of the singer. ### ‘Michael’ drama: Which Jacksons said ‘no thanks’ and why the film cut the sexual abuse claims. “Michael” chronicles Jackson’s life through the rise of The Jackson 5 and his budding solo career before ending in 1988 while he’s on tour for his hit album, “Bad.” The film stars Colman Domingo as the late singer’s father, Joe Jackson, and Nia Long as his mother, Katherine. ### Why the new Michael Jackson biopic is on track to break box office records.",
-      "published_at": "Sun, 26 Apr 2026 17:53:42 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》的票房表現與內容爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1083,
-      "title": "Jackson family eager to cash in after $217M opening weekend for 'Michael' - New York Post",
-      "link": "https://nypost.com/2026/05/01/entertainment/jackson-family-eager-to-cash-in-after-217m-opening-weekend-for-michael/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Jackson family eager to cash in after $217M opening weekend for ‘Michael’ —with talks of ‘Thriller’ tour and movie sequels. “The success of this movie didn’t just bring Michael back,” one family source told The Post. Renewed discussions about a Jackson family tour are already underway, with efforts to include Michael’s younger sister, Janet, as headliner. “[Studio] Lionsgate and the Jackson Estate haven’t made a definitive decision yet, but the family is supportive as long as the project is executed properly and the false allegations against Michael are not given excessive attention,” said a source. By most accounts, the first film already leaned heavily on Michael’s most powerful music catalog — the Jackson 5 years through his 1988 “Thriller” album. Sources say the next film is also expected to lean heavily into Michael’s personal life — including his marriages to Elvis Presley’s only daughter, Lisa Marie, and later to his nurse, Debbie Rowe, who gave birth to Michael’s oldest son, Prince, and his only daughter, Paris.",
-      "published_at": "Fri, 01 May 2026 10:00:00 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導麥可傑克森電影成功後，其家族積極規劃後續商業活動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1084,
-      "title": "‘Owning Manhattan' Jade Shenker Fought Dad's Guardian Over Home Before Death - TMZ",
-      "link": "https://www.tmz.com/2026/04/30/jade-shenker-fought-late-fathers-guardian-over-home/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# ‘Owning Manhattan' Jade Shenker Fought Dad's Guardian Over Home Before Death. ## 'Owning Manhattan' Star Jade Shenker Fought Late Dad's Guardian ... According to court docs obtained by TMZ, Jade took issue with the guardian, **Bonnie Stevens**, refusing to provide her with certain financial documents related to her dad's home in New York. The guardian claimed Jade was not entitled to all the information she was seeking, but the reality star insisted she had a right to get the info and to participate in her dad's guardianship case. In court docs filed months before his death, Jade was fighting the guardian's attempt to get authorization to sell her dad's New York home, arguing that the guardian's \"mismanagement of the property and failure to properly seek refinancing options created the very circumstances the guardian now claims necessitate the property's sale.\". Jade believed a refinance could cover all expenses for her dad, while the guardian was seeking to sell to cover Marc's expenses and the professional fees for the guardianship.",
-      "published_at": "Thu, 30 Apr 2026 08:00:49 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞與周杰倫無關，主要報導《Owning Manhattan》明星Jade Shenker與其父親監護人之間關於房產的法律糾紛。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1085,
-      "title": "Carlos Vives Drops New Album ‘El Último Disco,’ But Assures He Has ‘No Plans to Retire’ - Billboard",
-      "link": "https://www.billboard.com/music/latin/carlos-vives-new-album-el-ultimo-disco-not-retiring-1236236872/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Carlos Vives Drops New Album ‘El Último Disco,’ But Assures He Has ‘No Plans to Retire’. Carlos Vives has unleashed his new studio album, *El Último Disco, Vol. 1*, a 10-track set that includes collaborations with Juan Luis Guerra, Nina Pastori, Sergio George and Josemi Carmona. It was recorded live in the studio, alongside musicians of exceptional caliber who are unafraid to sing of beautiful love and of their people.”. Crafted with the traditional rock-infused cumbia and vallenato sounds that made Vives a global powerhouse, *El Último Disco* is also charged with romantic lyrics about wooing someone like in the old days as heard in opening track “Te Dedico.”. The song also marks the final recording by Vives’ longtime and late accordionist Egidio Cuadrado, who passed away in 2024. But contrary to the album’s title, which translates to “the last album,” Vives is not going anywhere. “I have no plans to retire; on the contrary, I want to continue singing about beautiful love and for my people,” he assures.",
-      "published_at": "Fri, 01 May 2026 17:19:41 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於拉丁歌手Carlos Vives發行新專輯並澄清無意退休，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1086,
-      "title": "&TEAM Earn Best Sales Week As ‘We On Fire’ Moves 1.2 Million Copies - Forbes",
-      "link": "https://www.forbes.com/sites/jeffbenjamin/2026/04/29/team-earn-best-sales-week-as-we-on-fire-moves-12-million-copies/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "After making new sales history for Japanese artists by earning one-million-plus in album sales in both Korea and Japan, &TEAM proves their selling power was no fluke with another massive haul for their latest EP. Forbes&TEAM’s Debut Korean Album Sells Over 1 Million Copies In 1 DayBy Jeff Benjamin. In a week’s time, the EP also sold nearly 1.24 million copies worldwide, surpassing &TEAM’s previous first-week sales record of 1.22 million set by the breakaway success of their debut Korean EP, *Back to Life*, released last October. Maki, &TEAM’s youngest member, also shared how “another big goal is to one day release some English songs that we can perform in front of our global fans. *The new &TEAM EP* We on Fire *is available globally now and will be released physically in the U.S. on Friday, May 15.*.",
-      "published_at": "Wed, 29 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要報導團體&TEAM的專輯銷售佳績，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1087,
-      "title": "Dame Dash Says Ye Has A Better Catalog Than Jay-Z: ‘Kanye Destroys Jay’ - billboard.com",
-      "link": "https://www.billboard.com/music/rb-hip-hop/dame-dash-kanye-west-jay-z-catalog-1236237450/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Dame Dash Says Ye Has A Better Catalog Than Jay-Z: ‘Kanye Destroys Jay’. Dame Dash sat down with *Art of Dialogue* recently to talked about a variety of topics, one being the discographies of his former business partner Jay-Z (two co-founded Roc-A-Fella with Kareem Burke in 1994) and Ye (formerly known as Kanye West.). “Kanye destroys Jay,” he continued. Jay’s not an artist…I would say Jay’s just more of a — he’s cunning, and he doesn’t mind playing with the devil.”. When asked to elaborate on what he meant by “cunning,” Dame continued by saying “[Jay-Z] will make you believe he’s your brother when he really hates you. Why you think I gave it away,” he said referring to New York State auctioning off Dash’s Roc-A-Fella Inc. shares to collect on his back taxes. ### Want to know what everyone in the music business is talking about? ### Get in the know on. Visit Billboard Pro for music business news.",
-      "published_at": "Fri, 01 May 2026 22:00:03 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要討論Dame Dash對Kanye West與Jay-Z音樂作品的比較。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1088,
-      "title": "Zayn Cancels Multiple Konnakol Tour Dates, Including Entire U.S. Leg: ‘Been at Home Recovering’ - Billboard",
-      "link": "https://www.billboard.com/music/music-news/zayn-cancels-2026-us-tour-dates-1236236954/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Zayn Cancels Multiple Konnakol Tour Dates, Including Entire U.S. Leg: ‘Been at Home Recovering’. Zayn has announced major changes to his upcoming Konnakol Tour. ### Zayn Malik Reveals He’s Been Hospitalized on Day of New Album’s Release: ‘Still Unexpectedly Recovering’. ### Zayn Kicks Back With ‘Konnakol’: Stream It Now. The former One Direction announced the cancellation of 21 previously scheduled shows, including the trek’s entire U.S. leg, in an Instagram Story on Friday (May 1). “I’ve had to take another look at my schedule for the months ahead and have to reduce the number of shows on the Konnakol Tour,” he wrote. Zayn initially announced a 31-date Konnakol Tour on Feb. 5. Now, the entire U.S. leg of the tour and the first two U.K. shows have been canceled, with one rescheduled for May 24 at AO Arena in Manchester. Check out the remaining slate of dates for Zayn’s 2026 KONNAKOL tour below. ### Want to know what everyone in the music business is talking about?",
-      "published_at": "Fri, 01 May 2026 16:29:40 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞與周杰倫無關，主要報導Zayn Malik因健康問題取消多場巡演，包括整個美國站。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1089,
-      "title": "Madonna & Sabrina Carpenter, Kacey Musgraves & More: Which Is Your Favorite New Music Release This Week? Vote! - Billboard",
-      "link": "https://www.billboard.com/music/music-news/best-new-music-poll-kacey-musgraves-madonna-1236237124/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Madonna & Sabrina Carpenter, Kacey Musgraves & More: Which Is Your Favorite New Music Release This Week? This week also saw saw new music from Jessie Reyez, Lizzo, Sienna Spiro and more. The pop (and country!) girls are out in full force for this New Music Friday (May 1). ### Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson & More: New Music Friday Guide. In addition to Gaga’s three new songs, the *Devil Wears Prada 2* soundtrack also boasts a new track from Sienna Spiro titled “Material Lover.” “Build a B—h” singer Bella Poarch also shared her new “Ribcage” single. This New Music Friday also includes new songs from Labrinth (“Prostitute”), Lizzo (“Bitch”), Bella Kay (“Promise?”), Vince Staples (“Blackberry Marmalade”), Bryson Tiller (“It’s OK”), Maroon 5 (“Heroine”), Jessie Reyez and Muni Long (“Ain’t You Tired?”), Bleachers (“I’m Not Joking”) and DaBaby, Yung Miami, YKNIECE and GloRilal (“Pop Dat Thang” remix). Vote — or share your own pick — in *Billboard*‘s New Music Friday poll below:.",
-      "published_at": "Fri, 01 May 2026 18:22:10 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導本週歐美樂壇新發行音樂，未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1090,
-      "title": "Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson & More: New Music Friday Guide - Billboard",
-      "link": "https://www.billboard.com/music/pop/madonna-sabrina-carpenter-new-music-friday-guide-1236236591/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Madonna and Sabrina Carpenter, Kacey Musgraves, Zara Larsson   Kacey Musgraves releases her anticipated album *Middle of Nowhere*; and Sienna Spiro appears on the star-studded *Devil Wears Prada 2* soundtrack, which is out now… plus much more. Kacey Musgraves has said her new album was largely inspired by the Mexican community, which you can hear across its tracks — including the buzzy “Horses and Divorces.” The duet made headlines long before it arrived thanks to its unexpected feature from country icon Miranda Lambert. Released as a disc two to her 2025 album *Midnight Sun*, this girl-powered new edition features 10 fresh takes on the original 10 tracks.",
-      "published_at": "Fri, 01 May 2026 05:19:34 GMT",
-      "collected_at": "2026-05-02 04:01:06",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導西方歌手的新音樂發行，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 43,
-    "report_date": "2026-05-05",
-    "total_articles": 11,
+    "id": 44,
+    "report_date": "2026-05-06",
+    "total_articles": 12,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導或焦點事件。所有提及『Jay』的內容皆與其他人物相關，例如Jay Woods、Jay Powell或Jay-Z，並非周杰倫本人。因此，今日無周杰倫的最新娛樂新聞可供摘要。",
+    "neutral_count": 12,
+    "daily_summary": "今日搜集到的娛樂新聞中，並無直接提及周杰倫的相關報導。所有新聞主要圍繞其他藝人如Michael Jackson傳記電影的票房表現、Kehlani新專輯的發行與榜單成績，以及Beyoncé和Jay-Z的家庭生活等。周杰倫今天未有公開活動或新聞焦點。",
     "key_events": [
       "無周杰倫新聞",
-      "無重要事件",
-      "今日無焦點"
+      "無周杰倫新聞",
+      "無周杰倫新聞"
     ],
-    "created_at": "2026-05-05 03:58:28"
+    "created_at": "2026-05-06 04:24:44"
   },
   "recentReports": [
+    {
+      "id": 44,
+      "report_date": "2026-05-06",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "今日搜集到的娛樂新聞中，並無直接提及周杰倫的相關報導。所有新聞主要圍繞其他藝人如Michael Jackson傳記電影的票房表現、Kehlani新專輯的發行與榜單成績，以及Beyoncé和Jay-Z的家庭生活等。周杰倫今天未有公開活動或新聞焦點。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無周杰倫新聞",
+        "無周杰倫新聞"
+      ],
+      "created_at": "2026-05-06 04:24:44"
+    },
     {
       "id": 43,
       "report_date": "2026-05-05",
@@ -661,21 +676,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-04-30 04:22:49"
-    },
-    {
-      "id": 37,
-      "report_date": "2026-04-29",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 10,
-      "daily_summary": "今日搜集的新聞中，沒有關於周杰倫的報導。主要焦點集中在麥可傑克森傳記電影的票房表現、其家族成員的性侵訴訟，以及其他藝人的新專輯發行與巡演動態。",
-      "key_events": [
-        "麥可傑克森傳記電影大賣",
-        "麥可家族性侵訴訟",
-        "嘻哈歌手謀殺案認罪"
-      ],
-      "created_at": "2026-04-29 04:11:14"
     }
   ]
 }
