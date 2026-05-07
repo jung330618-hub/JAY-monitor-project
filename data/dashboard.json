@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 12
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1123,
+    "total": 1130,
     "positive": 338,
     "negative": 46,
-    "neutral": 739,
+    "neutral": 746,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-22",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-23",
       "total": 6,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-07",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1124,
+      "title": "Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalog Floods Charts - billboard.com",
+      "link": "https://www.billboard.com/music/chart-beat/michael-jackson-best-streaming-week-after-michael-movie-1236240552/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalog Floods Charts. The late icon more than doubles his previous best total, as *Thriller* and \"Billie Jean\" lead his albums and songs' returns. Confirming projections reported in late April, Michael Jackson obliterates his personal-best domestic streaming week following the release of the *Michael* biopic. The King of Pop’s solo song catalog registered a collective 137.5 million official on-demand streams for the week of April 24-30 in the United States, according to Luminate, up 146% and more than doubling his previous career high. ### Michael Jackson’s Top 50 Hit Songs on the Billboard Hot 100. Before his nine-digit streaming haul, Jackson’s solo catalog achieved a new personal benchmark last week at 55.9 million song clicks. *Thriller* classic “Billie Jean” leads the song recap, as it repeats its usual standing as the catalog’s most streamed song (9.4 million) and returns to the Billboard Hot 100 at No. 38.",
+      "published_at": "Wed, 06 May 2026 17:41:27 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森因傳記電影上映而創下串流新高，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1125,
+      "title": "Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalogue Floods Charts - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/michael-jackson-best-streaming-week-after-michael-movie-1236240552/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "The late icon more than doubles his previous best total, as *Thriller* and \"Billie Jean\" lead his albums and songs' returns. Confirming projections reported in late April, Michael Jackson obliterates his personal-best domestic streaming week following the release of the *Michael* biopic. The King of Pop’s solo song catalogue registered a collective 137.5 million official on-demand streams for the week of April 24-30 in the United States, according to Luminate, up 146% and more than doubling his previous career high. Prior to the *Michael* era, the late icon, who died in 2009, recorded a high of 53.7 million for the week of Oct. 25-31, 2019, spurred by the now-annual Halloween resurgence for “Thriller.”. *Michael* covers Jackson’s life from 1966 to 1988, including time with both The Jackson 5 and The Jacksons groups with his brothers. *Thriller* classic “Billie Jean” leads the song recap, as it repeats its usual standing as the catalogue’s most streamed song (9.4 million) and returns to the Billboard Hot 100 at No. 38.",
+      "published_at": "Wed, 06 May 2026 17:41:27 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導指出，麥可·傑克森的傳記電影上映後，其歌曲串流播放量大幅飆升，創下個人新高。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1126,
+      "title": "SEVENTEEN’s JOSHUA Takes Us Out and Reveals How John Mayer Inspired Him, Love for Justin Bieber - billboard.com",
+      "link": "https://www.billboard.com/music/music-news/seventeen-joshua-john-mayer-inspired-him-takes-us-out-video-1236239990/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# SEVENTEEN’s JOSHUA Takes Us Out and Reveals How John Mayer Inspired Him, Love for Justin Bieber. In this episode of *Billboard*‘s *Takes Us Out*, JOSHUA speaks with host Tetris Kelly about touring with the full SEVENTEEN unit, wanting to do Coachella, getting into acting and much more over a meal of Korean seafood at Noryangjin Fisheries Wholesale Market, a 24-hour fish market in Seoul. The K-pop idol shares that he is producing solo music, and with that, he is getting into songwriting, something he historically did not have time to do before. The singer also talks about what kind of music he wants to put out as a solo act: “I want to show acoustic music because that’s what I grew up on and that’s how I got into music, so I want to show more of that side of myself to me fans.”.",
+      "published_at": "Wed, 06 May 2026 16:00:00 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導SEVENTEEN成員JOSHUA的音樂啟發與個人發展。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1127,
+      "title": "‘Australia Punches Over its Playing Weight’: Primary Wave CEO Larry Mestel Talks Local Music Industry (EXCLUSIVE) - Variety Australia",
+      "link": "https://au.variety.com/2026/music/features/larry-mestel-primary-wave-inxs-interview-36086/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "We are, right now, the largest independent music company I think in the world in terms of legacy artists. Most importantly, we’re in the legacy protection business and we think it’s a win-win for artists and our company and fans, by the way, to the extent that we’re successful in protecting that legacy by growing new revenue streams for the band, you know? We want to make sure that we’re working with pop culture artists like Kendrick, like Bruno, that like the idea of sampling, and using some of our legacy music. They’re thinking, ‘Oh my God, my life’s gonna go on forever’, and then 20 years later, when the same artists are in their 80s, maybe it’s time to estate plan, right? Maybe it’s time to bring on a partner, to think about legacy protection… it’s a great market right now for that.",
+      "published_at": "Thu, 30 Apr 2026 22:14:54 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討Primary Wave公司保護與發展傳奇藝人音樂版權的策略，並未直接提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1128,
+      "title": "“Frantic” Clip Of Jay‑Z And Blue Ivy At Met Gala 2026 Is Going Viral, And Fans Can’t Stop Talking About It - AOL.com",
+      "link": "https://www.aol.com/articles/frantic-clip-jay-z-blue-100921444.html",
+      "source": "Tavily (www.aol.com)",
+      "snippet": "# “Frantic” Clip Of Jay‑Z And Blue Ivy At Met Gala 2026 Is Going Viral, And Fans Can’t Stop Talking About It. She holds the record of winning the most **Grammys** in history, and he is one of the most famous rap artists on the planet. But even **Beyoncé** and **Jay-Z** can’t always get their teenager to listen. While posing for the cameras, the teenager ignored Jay-Z’s instructions and gave the internet one of the most relatable father-daughter moments. ### Even **Beyoncé** and **Jay-Z** can’t always get their teenage daughter to listen. 14-year-old Blue Ivy, the oldest of the power couple’s three children, was dressed in a billowy Balenciaga dress and a matching bomber jacket at the 2026 Met Gala. ### **Beyoncé** said it was “incredible” to attend the 2026 Met Gala with her daughter Blue Ivy. It’s incredible to be able to share it with her, and I think she looks so incredible,” said the proud mama.",
+      "published_at": "Wed, 06 May 2026 10:21:48 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於Jay-Z與Blue Ivy出席Met Gala 2026，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1129,
+      "title": "Beyoncé stuns wearing skeletal gown at Met Gala with Jay-Z, Blue Ivy - usatoday.com",
+      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/05/04/beyonce-jay-z-met-gala-blue-ivy/89873191007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Beyoncé stuns wearing skeletal gown at Met Gala with Jay-Z, Blue Ivy. Updated May 4, 2026, 10:53 p.m. ET. Beyoncé has arrived at the 2026 Met Gala, making a grand entrance with husband Jay-Z and daughter Blue Ivy Carter. The Grammy-winning singer graced the red carpet with her family at the Metropolitan Museum of Art's 2026 spring exhibition on May 4, where the theme was \"Costume Art\" and the dress code was \"Fashion Is Art.\". Jay-Z opted for a classic black tuxedo with a vest. This year marks Beyoncé's first Met Gala appearance in a decade. She last appeared in 2016 for the \"Manus x Machina\" gala, donning a nude-colored Givenchy Haute Couture dress. This is the first time Beyoncé's daughter has appeared at the Met Gala. ## Beyoncé and Jay-Z last appeared at the Met Gala together in 2015. Jay-Z last appeared at the Met Gala in 2015 alongside Beyoncé for the \"China: Through the Looking Glass\" Costume Institute Benefit Gala.",
+      "published_at": "Tue, 05 May 2026 02:53:00 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了碧昂絲、Jay-Z和女兒Blue Ivy出席2026年Met Gala，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1130,
+      "title": "Louis C.K. Gets Standing Ovation at Raunchy Comeback Show During Netflix Comedy Festival - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/news/general-news/louis-ck-standing-ovation-comeback-show-netflix-festival-1236587621/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "After slowly rebuilding his career following 2017's sexual misconduct allegations, the comedian headlined the Hollywood Bowl as part of Netflix is a Joke fest. Cut to 2026, and he headlined a show at the Hollywood Bowl as part of the Netflix is a Joke comedy festival. C.K. took the stage in L.A. on Tuesday night, the show serving as the final stop of the worldwide “Ridiculous” tour he’s been on for the last year. It’s not his only gig with Netflix either, as in addition to the comedy festival, the streamer will premiere C.K.’s upcoming comedy special, *Ridiculous*, on the platform this summer. In an email to his newsletter subscribers when the Netflix is a Joke appearance was first announced, C.K. called the Hollywood Bowl set “the very last show of this tour which has taken me around the world and will likely be my last full-scale comedy headline type show for a looong time.” He added, “I hope you can make it.”.",
+      "published_at": "Wed, 06 May 2026 07:28:38 GMT",
+      "collected_at": "2026-05-07 04:23:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於喜劇演員Louis C.K.在Netflix喜劇節上的復出表演及其全球巡演和即將推出的喜劇特輯，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1112,
       "title": "Ye’s daughter North West follows in dad’s footsteps, rapping about money and Lambos on debut EP - Entertainment Weekly",
@@ -456,122 +554,39 @@
       "summary": "美國R&B歌手Kehlani發行了她的第五張錄音室專輯《KEHLANI》，並憑藉其主打單曲獲得多項大獎。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1096,
-      "title": "‘Michael’ Electrifies the Box Office: 5 Reasons Bad Reviews Couldn’t Derail the Michael Jackson Biopic - Variety",
-      "link": "https://variety.com/2026/film/box-office/why-michael-beat-box-office-expectations-bad-reviews-1236730917/",
-      "source": "Tavily (variety.com)",
-      "snippet": "“Michael,” an origin story about Michael Jackson, electrified the box office with $97 million domestically and $217 million globally in its first weekend of release. Directed by Antoine Fuqua, “Michael” stars Jaafar Jackson (the singer’s nephew in his acting debut) and chronicles the performer’s journey from the Jackson 5 to his status as the King of Pop. Negative reviews and costly behind-the-scenes headaches didn’t tarnish the excitement for “Michael,” which box office watchers predict will remain a major draw into the summer season. Much like “Bohemian Rhapsody” and “Elvis,” the film about Jackson became a crowd-pleaser by leaning heavily on recreations of iconic performances of “Billie Jean,” “Thriller” and “Beat It.” Cinema-goers opted to watch those thrilling sequences on the biggest and brightest screens. The singer’s estate, a producer on the film, was encouraged by several successful productions, including the profitable Broadway musical “MJ” (one of only four new shows since the pandemic that’s still running), the Cirque du Soleil show “One” and the 2009 concert film “This Is It.” None of those projects deal with allegations against Jackson.",
-      "published_at": "Mon, 27 Apr 2026 15:19:31 GMT",
-      "collected_at": "2026-05-04 04:29:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導麥可傑克森傳記電影《Michael》的票房成功，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1097,
-      "title": "Jessica Alba Celebrates 45th Birthday With Kids and Danny Ramirez - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/jessica-alba-celebrates-45th-birthday-with-kids-and-danny-ramirez-11895412",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# Jessica Alba Celebrates 45th Birthday With Kids and Danny Ramirez. Jessica Alba is ringing in her 45th birthday with her children and boyfriend Danny Ramirez. The actress marked the milestone with a message of gratitude alongside a series of photos shared on Instagram. In one snapshot, Alba can be seen celebrating with Ramirez, 33, and her children, Honor, 17; Haven, 14; and Hayes, 8, whom she shares with ex-husband Cash Warren. Alba shared that she is “walking into this next year with more grace, more joy, more gratitude, and a deeper love for the people who make my life mine.\". “Wishing you a beautiful and blessed new year of life!” Ava DuVernay wrote while Gal Gadot shared, “Happy birthday sunshine! As for Ramirez, he shared a sweet message to Alba, who he was first spotted with in May 2025, on his Instagram Story. \"Happy birthday, mi amor,\" he shared alongside a photo of him kissing Alba’s cheek.",
-      "published_at": "Wed, 29 Apr 2026 20:06:00 GMT",
-      "collected_at": "2026-05-04 04:29:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了潔西卡·艾芭與孩子和男友丹尼·拉米雷斯慶祝45歲生日的喜悅時刻，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1098,
-      "title": "Here Are the First Week Numbers for Kehlani's Self-Titled LP - Complex",
-      "link": "https://www.complex.com/music/a/treyalston/first-week-numbers-kehlani-self-titled-lp",
-      "source": "Tavily (www.complex.com)",
-      "snippet": "## It sold 69,000 album-equivalent units in its first week. Kehlani’s new self-titled album has debuted at No 4 on the *Billboard 200.*. The singer’s new project, which marks her fourth top 10-charting album on the *Billboard* 200, sold 69,000 album-equivalent units in its first week. This makes it the biggest debut from a female R&B singer this year. The project is supported by her extremely popular single, “Folded,” which won her the Grammy Awards for Best R&B Performance and Best R&B Song at this year’s ceremony. The singer previously told us about her creative process for making *Kehlani*, explaining that she recalled some emotions that she needed to work through. “I went and locked myself in the room, and I started randomly processing a bunch of things from 2020,” she revealed. The R&B singer said she's been in treatment for and it's helped her \"really shift\" her life around.",
-      "published_at": "Sun, 03 May 2026 21:38:29 GMT",
-      "collected_at": "2026-05-04 04:29:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了歌手Kehlani新專輯的首週銷售成績與Billboard排名，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1099,
-      "title": "Kehlani Releases Self Titled Album “Kehlani” (Stream) - YouKnowIGotSoul.com",
-      "link": "https://youknowigotsoul.com/kehlani-releases-self-titled-album-kehlani-stream",
-      "source": "Tavily (youknowigotsoul.com)",
-      "snippet": "# Kehlani Releases Self Titled Album “Kehlani” (Stream). Two-time GRAMMY® Award winner Kehlani has released her fifth studio album, the self-titled KEHLANI. The album arrives on the heels of a massive promotional cycle anchored by the commercial juggernaut “Folded.” The single has emerged as one of the decade’s most successful R&B records, amassing over 800 million global streams and peaking at #6 on the Billboard Hot 100. The track’s 43-week chart run included 10 weeks at #1 on Urban radio and earned Kehlani two GRAMMY® Awards for Best R&B Song and Best R&B Performance. “Folded Homage Pack”: A cultural crossover project featuring reinterpretations of her hit by R&B legends including Toni Braxton, Brandy, and Ne-Yo. Beyond the studio, Kehlani has maintained a heavy cultural presence in 2026, including a surprise appearance during Giveon’s Coachella set and a performance at Revolve Festival. The self-titled album is now available worldwide on all major streaming services via Atlantic Records.",
-      "published_at": "Mon, 27 Apr 2026 11:46:13 GMT",
-      "collected_at": "2026-05-04 04:29:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了歌手Kehlani發行同名專輯，並詳細介紹了她的音樂成就和宣傳活動。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1100,
-      "title": "This week’s emerging and self-releasing artists - Music News",
-      "link": "https://www.music-news.com/news/Underground/188666/This-week-s-emerging-and-self-releasing-artists",
-      "source": "Tavily (www.music-news.com)",
-      "snippet": "# This week’s emerging and self-releasing artists. Every week, Music News and Liberty Music look at the best new releases from emerging and self-releasing artists. Erica-Cody returns with ‘last man standing’, a confident pop and R&B release that explores the tension between romantic idealism and reality within modern dating. Kadri Voorand shares ‘Let Me Hold You’, a gentle and intimate release that pairs delicate piano with deeply personal vocals, offering a sense of comfort and emotional closeness. Charlie McDonald introduces his debut EP ‘Things I’ve Never Said’, a soulful and introspective release that blends pop and R&B influences into a deeply personal yet relatable listening experience. Led by the single ‘Don’t Worry’, the project captures themes of vulnerability and self-reflection, offering a message of reassurance and emotional connection. Heavy Set Woman return with ‘Highway One’, a dynamic country-rock release that blends blues, rock, and theatrical flair into a free-flowing, genre-crossing sound.",
-      "published_at": "Thu, 30 Apr 2026 15:45:09 GMT",
-      "collected_at": "2026-05-04 04:29:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導介紹本週新興獨立發行藝人及其作品，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1091,
-      "title": "‘Michael’ May Be ‘Family-Friendly,’ but It Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger - Variety",
-      "link": "https://variety.com/2026/film/columns/michael-taps-michael-jacksons-most-powerful-fuel-his-anger-1236730812/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# ‘Michael’ May Be ‘Family-Friendly,’ but It Taps Into Michael Jackson’s Most Powerful Creative Fuel — His Anger. You might think the reason it’s going to make a jillion dollars is that a lot of people are only too happy to revel in a Michael Jackson biopic that’s all greatest-hits cues and nostalgic high points: a two-hour hologram of Michael mania. The film tells a very particular story, and what that story is about is the very source of Michael Jackson’s creative power. But the underlying story that “Michael” tells, in tracing Michael’s war with his father, is the saga of Michael Jackson’s anger. We think of Michael Jackson as a “family-friendly” performer, because that’s the image he crafted for himself, and he was indeed that thing, yet he also worked in the tradition of pop musicians who expressed a volcanic wrath that had no other outlet but song.",
-      "published_at": "Sun, 26 Apr 2026 18:09:51 GMT",
-      "collected_at": "2026-05-03 04:29:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導分析了麥可傑克森傳記電影《Michael》如何探討他以憤怒為創作燃料的深層原因。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1092,
-      "title": "R&B/Hip-Hop Fresh Picks of the Week: Durand Bernarr, Jai’Len Josey, Girlfriend & More - Billboard",
-      "link": "https://www.billboard.com/lists/rb-hip-hop-fresh-picks-durand-bernarr-jailen-josey/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# R&B/Hip-Hop Fresh Picks of the Week: Durand Bernarr, Jai’Len Josey, Girlfriend & More. From relationship drama to landmark album anniversaries, the worlds of R&B and hip-hop were particularly active this weekend. On Saturday (April 25), Megan Thee Stallion set social media timelines on fire when she announced that she and Dallas Mavericks shooting guard Klay Thompson were no longer together, citing infidelity and “horrible mood swings.” The former hip-hop/sports power couple began dating last year, with the rapper spending the holidays with the basketball star’s family. Kehlani, Billboard Women in Music’s Impact Award honoree, topped off a wonderful weekend for R&B with the release of her highly anticipated self-titled album. With Fresh Picks, *Billboard* aims to highlight some of the best and most interesting new sounds across R&B and hip-hop — from new Girlfriend-Jaymin duet to Durand Bernarr’s funky new single. Written by Girlfriend alongside Jaymin and Jamaal Cole II, with production from the latter, “All U Need” blends smooth R&B with honest, grounded perspectives.",
-      "published_at": "Mon, 27 Apr 2026 17:01:05 GMT",
-      "collected_at": "2026-05-03 04:29:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要介紹R&B/Hip-Hop領域的最新音樂動態，並未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 44,
-    "report_date": "2026-05-06",
-    "total_articles": 12,
+    "id": 45,
+    "report_date": "2026-05-07",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 12,
-    "daily_summary": "今日搜集到的娛樂新聞中，並無直接提及周杰倫的相關報導。所有新聞主要圍繞其他藝人如Michael Jackson傳記電影的票房表現、Kehlani新專輯的發行與榜單成績，以及Beyoncé和Jay-Z的家庭生活等。周杰倫今天未有公開活動或新聞焦點。",
+    "neutral_count": 7,
+    "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導。主要焦點集中於麥可傑克森傳記電影上映後串流數據飆升，以及多位國際歌手如Kehlani發行新專輯、Jay-Z與碧昂絲出席活動等娛樂圈動態。",
     "key_events": [
-      "無周杰倫新聞",
-      "無周杰倫新聞",
-      "無周杰倫新聞"
+      "無周杰倫報導",
+      "麥可傑克森傳記熱議",
+      "國際歌手新動態"
     ],
-    "created_at": "2026-05-06 04:24:44"
+    "created_at": "2026-05-07 04:24:19"
   },
   "recentReports": [
+    {
+      "id": 45,
+      "report_date": "2026-05-07",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導。主要焦點集中於麥可傑克森傳記電影上映後串流數據飆升，以及多位國際歌手如Kehlani發行新專輯、Jay-Z與碧昂絲出席活動等娛樂圈動態。",
+      "key_events": [
+        "無周杰倫報導",
+        "麥可傑克森傳記熱議",
+        "國際歌手新動態"
+      ],
+      "created_at": "2026-05-07 04:24:19"
+    },
     {
       "id": 44,
       "report_date": "2026-05-06",
@@ -661,21 +676,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-01 04:38:07"
-    },
-    {
-      "id": 38,
-      "report_date": "2026-04-30",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 11,
-      "daily_summary": "今日搜集到的娛樂新聞中，並未包含任何關於周杰倫的最新報導或焦點事件。本日娛樂頭條主要圍繞在Michael Jackson傳記電影的亮眼票房表現、多位國際藝人的個人生活動態，以及音樂界新專輯發行與巡迴演唱會的相關消息。整體而言，周杰倫今日並無公開活動或新聞曝光。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-04-30 04:22:49"
     }
   ]
 }
