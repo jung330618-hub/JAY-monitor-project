@@ -6,21 +6,13 @@
     "neutral": 7
   },
   "allTimeStats": {
-    "total": 1130,
+    "total": 1137,
     "positive": 338,
     "negative": 46,
-    "neutral": 746,
+    "neutral": 753,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-23",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-24",
       "total": 16,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-08",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1131,
+      "title": "Shakey Graves' very best Austin day - Axios",
+      "link": "https://amp.axios.com/shakey-graves-very-best-austin-day-84c9c2de-84cd-4cc0-838d-3474916da2ce.html",
+      "source": "Tavily (amp.axios.com)",
+      "snippet": "# Shakey Graves' very best Austin day. **Why it matters:** Nearly 40 years old, he leads a new generation of Austin musicians even as he is a father to a young child. * His new album, \"Fondness, etc.,\" will be released May 15, he's performing this weekend at KUT Fest, and he and his wife, musician Stephanie Hunt, look after their 2-year-old daughter at their home in Buda. **We caught up** recently with Graves — born Alejandro Rose-Garcia — as part of our running series, his ideal Austin day. It's all made around and after the birth of my daughter — an old style with new themes. I try to balance the guilt of having to leave and sometimes tour — I kind of luckily make the rules, where they can come and travel with us on the road.\". * \"Or after pickup, I'll take my daughter to the Austin Nature and Science Center. ## More Austin stories.",
+      "published_at": "Fri, 01 May 2026 11:18:04 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導美國音樂人Shakey Graves的新專輯發行、演出及家庭生活。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1132,
+      "title": "KJ Apa Calls Out Mr Fantasy After 'Do Me Right' Music Video, Says He Stole His Image & Ruined His Reputation - Just Jared",
+      "link": "https://www.justjared.com/2026/05/06/kj-apa-calls-out-mr-fantasy-after-do-me-right-music-video-says-he-stole-his-image-ruined-his-reputation/",
+      "source": "Tavily (www.justjared.com)",
+      "snippet": "# KJ Apa Calls Out Mr Fantasy After ‘Do Me Right’ Music Video, Says He Stole His Image & Ruined His Reputation. However, after **Fantasy**‘s new “Do Me Right” music video, which features cameos from many of the actor’s friends, **KJ** has had it. “So, there has been something going on for a long time that I haven’t addressed because I didn’t think it was even worth addressing, but now because of how it’s impacting my life personally, I feel like I have to talk about it,” **KJ** started out his video. “I don’t usually do this, take things here to talk about, but I have to do it now because it’s hurting me and my career. “I don’t know what to do about it other than bring it here and do everything that I can to protect myself because it’s completely f-cking disrespectful and completely wrong to do that.”.",
+      "published_at": "Thu, 07 May 2026 00:51:19 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫，主要報導演員KJ Apa指控一位名為'Mr Fantasy'的藝人盜用其形象並損害名譽。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1133,
+      "title": "Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - WUKY",
+      "link": "https://www.wuky.org/npr-news/2026-05-07/noah-kahan-gets-a-no-1-album-at-last-while-michael-jackson-reenters-the-top-10",
+      "source": "Tavily (www.wuky.org)",
+      "snippet": "# Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10. Noah Kahan's coronation as an A-list superstar is complete, as *The Great Divide* debuts atop the *Billboard* 200 albums chart — and all of its songs land on this week's Hot 100. That record has sat on the *Billboard* 200 albums chart for more than three years — and in 2024, its title track became his first top 10 hit. But it's never taken him all the way to the top of the albums chart, until now. Consider this: On the day of *The Great Divide*'s release, Kahan's label dropped a deluxe edition (*The Great Divide: The Last of the Bugs*) on streaming services, expanding the album from 17 songs to 21. If you dream of one day landing a top 10 hit on the *Billboard* Hot 100, consider this pro tip: It's a great time to be named either Ella or Olivia.",
+      "published_at": "Thu, 07 May 2026 19:08:08 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞主要報導Noah Kahan的專輯首次登上告示牌200強榜首，以及麥可傑克森重回前十名，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1134,
+      "title": "Who is Machine Gun Kelly, the performer blending rap and rock? - Numéro",
+      "link": "https://numero.com/en/culture-en/music/machine-gun-kelly-focus-rap-rock-musician/",
+      "source": "Tavily (numero.com)",
+      "snippet": "# Who is Machine Gun Kelly, the performer blending rap and rock? Virtually unknown in France, Machine Gun Kelly is a huge hit in the United States. The daring rocker and rapper has just become engaged to actress Megan Fox, walked the runway for Dolce & Gabbana and launched his own brand of genderless nail polish. Portrait of an artist who embodies the rise of a very noughties pop-punk aesthetic. **Machine Gun Kelly** is one of those artists who are first and foremost a phenomenon in their home country. In France, his name often comes up in the news as the new fiancé of American actress and model **Megan Fox**. The duo is reminiscent of **Angelina Jolie** and **Billy Bob Thornton** in the 2000s, or of **Pamela Anderson**‘s and **Tommy Lee**‘s wild romance. In 2018, he created a buzz by writing a diss track in response to **Eminem**’s insults. Machine Gun Kelly is also known for his acting skills.",
+      "published_at": "Thu, 07 May 2026 11:28:40 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要介紹了美國藝人Machine Gun Kelly的音樂風格、與Megan Fox的戀情、時尚活動以及他與Eminem的爭議，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1135,
+      "title": "Billie Eilish 'Hit Me Hard and Soft: The Tour' Film: Inside LA Premiere - Billboard",
+      "link": "https://www.billboard.com/culture/tv-film/billie-eilish-hit-me-hard-soft-tour-film-premiere-inside-1236242311/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Inside Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ L.A. Premiere: From Her Red-Carpet Debut With Nat Wolff to Moviegoers Creating Their Own Pit. The 3-D concert film hits theaters on Friday. Billie Eilish premiered her concert film *Hit Me Hard and Soft: The Tour (Live in 3D)* on Wednesday night (May 6) at L.A.’s Fox Westwood Theater, hitting the red carpet with co-director James Cameron, her parents and her brother Finneas. *Hit Me Hard and Soft: The Tour (Live in 3D)* is Eilish’s third concert film and first with fellow Oscar winner Cameron. The concert film brings fans the experience of seeing Eilish on her epic arena tour in support of her 2024 album *Hit Me Hard and Soft* as well as behind-the-scenes looks at the setup for the show. *Hit Me Hard and Soft*: *The Tour (Live in 3D)* ends with Eilish in her happy place: with puppies.",
+      "published_at": "Fri, 08 May 2026 00:23:00 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Billie Eilish的演唱會電影《Hit Me Hard and Soft: The Tour》在洛杉磯的首映會，內容主要聚焦於電影本身及其製作細節，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1136,
+      "title": "Busta Rhymes, Ty Dolla $ign and More at Richie Akiva's Met Gala After Party [PHOTOS] - WWD",
+      "link": "https://wwd.com/eye/parties/gallery/busta-rhymes-ty-dolla-sign-richie-akiva-met-gala-after-party-1238943000/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "* ## Richie Akiva Met Gala Afterparty at The Box. Ty Dolla $ign, Leon Thomas III, Busta Rhymes and Kaytranada. * ## Richie Akiva Met Gala Afterparty at The Box. Ty Dolla $ign, Leon Thomas III, Kaytranada and Von Ford. * ## Richie Akiva Met Gala Afterparty at The Box. Leon Thomas III and Kaytranada. * ## Richie Akiva Met Gala Afterparty at The Box.",
+      "published_at": "Tue, 05 May 2026 15:57:13 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Met Gala會後派對，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1137,
+      "title": "Brice goes the Mixtape route - Country Standard Time",
+      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=15909",
+      "source": "Tavily (www.countrystandardtime.com)",
+      "snippet": "**Friday, May 1, 2026** – Lee Brice released his latest summertime love anthem, \"Truck Bed Mixtape,\" out now. \"Truck Bed Mixtape\" will be featured on Brice's forthcoming album,\" Sunriser,\" and its deluxe edition, \"Sunriser (All Nighter).,\" coming in October. ### More news for Lee Brice. * 04/22/26: Brice plans \"Truck Bed Mixtape,\" delays record release, but adds deluxe version. * 02/20/26: Brice is \"Country Nowadays,\" announces new record. * 07/03/25: Brice releases \"Said No Country Boy Ever\" with friends. ### CD reviews for Lee Brice. The cover of \"I Don't Dance\" features a glam shot of Lee Brice standing in a spotlight, looking more like a pop artist than a country singer. The success of his sophomore release emboldened Lee Brice. Lee Brice had a dream run of success with his debut, \"Love Like Crazy\" - the title track became the most-played song on country radio in 2010. ©Country Standard Time • Jeffrey B. About • Copyright • Newsletter • Our sister publication Standard Time.",
+      "published_at": "Fri, 01 May 2026 20:30:39 GMT",
+      "collected_at": "2026-05-08 03:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於美國鄉村歌手Lee Brice的新歌發行與專輯計畫，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1124,
       "title": "Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalog Floods Charts - billboard.com",
@@ -456,122 +554,31 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導NCT成員泰容將發行首張個人正規專輯《WYLD》。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1105,
-      "title": "Kehlani’s Self-Titled Fifth Studio Album Debuts at No. 4 on Billboard 200 - Oh No They Didn't! — LiveJournal",
-      "link": "https://ohnotheydidnt.livejournal.com/132295050.html",
-      "source": "Tavily (ohnotheydidnt.livejournal.com)",
-      "snippet": "### Suivez nous :. ### Applications. ### COMPANY. ### PRODUCTS. ### COMMUNITY. ### Choisir la langue. #### Log in. # Kehlani’s Self-Titled Fifth Studio Album Debuts at No. 4 on Billboard 200. > ‘KEHLANI’ by Kehlani debuts at #4 on the Billboard 200 with 69K units (24K pure sales). > It becomes her fourth top 10 album. > — Pop Crave (@PopCrave) May 3, 2026. **Kehlani** earns their fourth top 10-charted album on the Billboard 200 as their self-titled set debuts at No. 4 with 69,000 equivalent album units earned — the biggest debut for an R b and soul)ratings / charts - billboard. ## LJ Video.",
-      "published_at": "Mon, 04 May 2026 00:22:29 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了歌手Kehlani的同名第五張錄音室專輯在Billboard 200排行榜上首次亮相即獲得第四名。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1106,
-      "title": "Vic Mensa Signs With ColorCreative (EXCLUSIVE) - Deadline",
-      "link": "https://deadline.com/2026/05/vic-mensa-signs-colorcreative-1236879786/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "## site categories. ### AEG Presents Sets Strategic Partnership With Comedy Promoter Outback Presents. # Vic Mensa Signs With ColorCreative. **EXCLUSIVE:** ColorCreative has signed musician, actor, and filmmaker Vic Mensa for management. ### Boris Kodjoe Signs With ColorCreative](https://deadline.com/2026/02/boris-kodjoe-signs-colorcreative-1236715231/). In music, Mensa rose to prominence with early projects like *Innanetape* and his 2017 debut album *The Autobiography*, which he followed up with *Victor* (2023) and the independent EP *sundiata* (2025). He has collaborated with artists including Kanye West, Jay-Z, Pharrell Williams, and Pusha T, earning nominations from the Grammys, NAACP Image Awards, and mtvU Woodie Awards. Alongside his music career, Mensa has built an acting resume with roles on Showtime’s *The Chi*, HBO’s *South Side*, and Peacock’s *Bel-Air*. Mensa will continue to be represented by Buchwald. ## Must Read Stories. * ### ‘Prada 2’ Steps Out With $233M+ WW Bow; ‘Michael’ At $424M. * ### Fiennes, Farrell & Moura Set For Fernando Meirelles Comedy ‘Art’. ## Read More About:. ## Site.",
-      "published_at": "Mon, 04 May 2026 16:21:40 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導Vic Mensa簽約ColorCreative，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1107,
-      "title": "Freedom Capital's Jay Woods on Applied Digital: Selloff presents a buying opportunity - CNBC",
-      "link": "https://www.cnbc.com/video/2026/04/28/freedom-capitals-jay-woods-on-applied-digital-selloff-presents-a-buying-opportunity.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Market Navigator. # Freedom Capital's Jay Woods on Applied Digital: Selloff presents a buying opportunity. Jay Woods, Freedom Capital Markets, joins 'Power Lunch' to discuss Woods' favorite AI stock that could be gearing up for upside.",
-      "published_at": "Tue, 28 Apr 2026 19:18:07 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Freedom Capital的Jay Woods討論Applied Digital的股票投資機會，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1108,
-      "title": "Jay Powell vows to keep ‘low profile’ as Federal Reserve governor - Financial Times",
-      "link": "https://www.ft.com/content/47ee4a2b-21c7-41f1-a2f7-6729e6a3ee49",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "* Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on x (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on facebook (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on linkedin (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on whatsapp (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on x (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on facebook (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on linkedin (opens in a new window). * Jay Powell vows to keep ‘low profile’ as Federal Reserve governor on whatsapp (opens in a new window). Powell vows to remain on Fed board as he warns over attacks by Trump.",
-      "published_at": "Thu, 30 Apr 2026 13:00:06 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於美國聯準會主席Jay Powell，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1109,
-      "title": "On the hunt for spring ephemerals in northern Illinois - Northern Public Radio",
-      "link": "https://www.northernpublicradio.org/illinois/2026-05-01/on-the-hunt-for-spring-ephemerals-in-northern-illinois",
-      "source": "Tavily (www.northernpublicradio.org)",
-      "snippet": "# On the hunt for spring ephemerals in northern Illinois. Northern Public Radio | By Jay Weichun. Spring ephemerals are woodland plants found throughout the Upper Midwest. Since 2022, the Forest Preserve District of Kane County has used the iNaturalist app to help educate the public on the various ephemeral species that can be found in our region. Users can upload photos to the app and help create a record of when and where the plants bloom. Gingrich says plant signage and the iNaturalist app help participants identify plants and learn about plant habitat and characteristics. \"The community of users also helps with identifying plants and can suggest identifications when the original poster may have gotten it wrong.”. Users are invited to submit photos of the Kane County spring 2026 ephemerals through the app until May 31, 2026. Jay Weichun is a correspondent with WNIJ's Community Corps. See stories by Jay Weichun.",
-      "published_at": "Fri, 01 May 2026 20:27:52 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於北伊利諾伊州春季植物的追蹤活動，與歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1110,
-      "title": "Parliament-Funkadelic, Jimmie Vaughan, Chaparelle, and Other Reviews From Austin Blues Festival - The Austin Chronicle",
-      "link": "https://www.austinchronicle.com/music/live-shots/parliament-funkadelic-jimmie-vaughan-chaparelle-and-other-reviews-from-austin-blues-festival/",
-      "source": "Tavily (www.austinchronicle.com)",
-      "snippet": "I’m so glad that they’re so open-minded to bring this music as part of Austin Blues Festival music,” he then added sincerely. ### Jimmie Vaughan and Special Guests Craft Love Letter to Blues, Soul, and Austin Music. Guest Soul Man Sam jokingly pointed out that he just turned 78 with no such recognition, then locked in the audience with Gospel-like preaching and a raucous “Let the Good Times Roll.” Tomar Williams followed, showing off on powerful renditions of the Vaughan Brothers’ “Tick Tock” and Eddie Floyd’s “Knock on Wood.” After much anticipation, Gary Clark Jr. joined the band, singing on “Oh, Pretty Woman (Can’t Make You Love Me)” and trading solos with Vaughan on “I Like It Like That” and “Wine, Wine, Wine.” The collaborative marathon set couldn’t have captured the ethos of the Austin Blues Festival any better.",
-      "published_at": "Thu, 30 Apr 2026 05:00:00 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導奧斯汀藍調音樂節，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1111,
-      "title": "Kehlani Unveils Her Most Personal Work Yet with New Self-Titled Album - When In Manila",
-      "link": "https://www.wheninmanila.com/kehlani-most-personal-work-self-titled-album/",
-      "source": "Tavily (www.wheninmanila.com)",
-      "snippet": "2x GRAMMY® Award-winning R&B powerhouse Kehlani released her highly anticipated self-titled fifth studio album, *KEHLANI*, on her birthday, April 24, 2026. The project captures her at her most honest, blending soul-baring storytelling with the lush, genre-bending sound that has made her one of modern R&B’s most influential voices. The album was anchored by a trio of defining singles, beginning with “Folded,” a breakout anthem that has become one of the defining R&B records of the decade. “Folded” delivered major award recognition, including 2x GRAMMY® wins for Best R&B Song and Best R&B Performance, an iHeartRadio Music Award for R&B Song of the Year (where she made her debut award show performance), NAACP Image Awards nominations, and three American Music Award nominations, including Song of the Year. Kehlani will also be honored with the Impact Award at the upcoming Billboard Women in Music, where she will deliver a special performance in celebration of her influence on music and culture.",
-      "published_at": "Mon, 04 May 2026 06:30:09 GMT",
-      "collected_at": "2026-05-05 03:57:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "美國R&B歌手Kehlani發行了她的第五張錄音室專輯《KEHLANI》，並憑藉其主打單曲獲得多項大獎。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 45,
-    "report_date": "2026-05-07",
+    "id": 46,
+    "report_date": "2026-05-08",
     "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 7,
-    "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導。主要焦點集中於麥可傑克森傳記電影上映後串流數據飆升，以及多位國際歌手如Kehlani發行新專輯、Jay-Z與碧昂絲出席活動等娛樂圈動態。",
-    "key_events": [
-      "無周杰倫報導",
-      "麥可傑克森傳記熱議",
-      "國際歌手新動態"
-    ],
-    "created_at": "2026-05-07 04:24:19"
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Shakey Graves' very best Austin day - Axios、KJ Apa Calls Out Mr Fantasy After 'Do Me Right' Music Video, Says He Stole His Image & Ruined His Reputation - Just Jared、Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - WUKY",
+    "created_at": "2026-05-08 04:00:25"
   },
   "recentReports": [
+    {
+      "id": 46,
+      "report_date": "2026-05-08",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Shakey Graves' very best Austin day - Axios、KJ Apa Calls Out Mr Fantasy After 'Do Me Right' Music Video, Says He Stole His Image & Ruined His Reputation - Just Jared、Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - WUKY",
+      "created_at": "2026-05-08 04:00:25"
+    },
     {
       "id": 45,
       "report_date": "2026-05-07",
@@ -661,21 +668,6 @@
         " "
       ],
       "created_at": "2026-05-02 04:01:51"
-    },
-    {
-      "id": 39,
-      "report_date": "2026-05-01",
-      "total_articles": 10,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 10,
-      "daily_summary": "今日搜集到的新聞內容中，並未發現任何與華語天王周杰倫直接相關的報導或焦點事件。所有新聞主要集中於其他國際娛樂圈動態，例如麥可傑克森傳記電影《Michael》的票房表現與各界評價，該片首週開出亮眼成績，但也引發部分爭議。此外，還有布魯諾馬斯專輯熱賣、饒舌歌手Jay-Z的最新訪談、珍娜傑克森獲葛萊美名人堂肯定，以及多位歐美歌手的巡演資訊與獎項消息。其他報導則涵蓋體育賽事、名人戀情及法律案件等。因此，今日周杰倫並無新的娛樂新聞動態被提及。",
-      "key_events": [
-        "無周杰倫事件",
-        "無相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-01 04:38:07"
     }
   ]
 }
