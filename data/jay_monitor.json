@@ -16015,6 +16015,34 @@
       "summary": "此新聞內容未提及周杰倫相關資訊。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1145,
+      "title": "Caden Bodine's three-hit performance - MLB.com",
+      "link": "https://www.mlb.com/video/caden-bodine-s-three-hit-performance?t=mlb-pipeline",
+      "source": "Tavily (www.mlb.com)",
+      "snippet": "Opens in a new window Opens an external website Opens an external website in a new window. We and our third-party partners process your information and how you use our services, including through cookies, pixels, and similar technologies, as described in our Privacy Policy, including to provide, analyze, and improve our services and personalize your experience and ads. To learn more, view the following link:   Privacy Policy. 美杜莎的笑声 法 埃莱娜·西苏 上海人民出版社 2023. ## Uploaded by. You are on page 1. 《美杜莎的笑声》埃莱娜·西苏【文字版 PDF电子书 雅书】. 恐怖的权力 论卑贱 by 朱莉娅·克里斯蒂瓦. (The Madwoman in the Attic). 享受你的症状！ 好莱坞内外的拉康 (斯拉沃热·齐泽克) (Z-Library). 文学回忆录 (套装共2册) (木心, 陈丹青) (Z-Library). 苏鲁支语录 尼采 著 徐梵澄 译. 眼与心·世界的散文（梅洛-庞蒂文集 第8卷） (梅洛-庞蒂（Maurice Merleau-Ponty）著；杨大春 译) (Z-Library). 康德著作全集 第3卷：纯粹理性批判 （第二版） (李秋零 主编) (Z-Library). 呼啸山庄 (译文名著典藏) 【文字版】 (艾米莉·勃朗特 (Emily Bronte) ) (Z-library.sk, 1lib.sk, Z-lib.sk). 沉思录 ( (古罗马) 马可·奥勒留) (Z-Library). ## Share this document. * Share on Facebook, opens a new window. * Share on LinkedIn, opens a new window. Millions of documents at your fingertips, ad-free Subscribe with a free trial.",
+      "published_at": "Sun, 10 May 2026 01:39:02 GMT",
+      "collected_at": "2026-05-10 04:33:49",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要關於棒球選手表現及書籍列表。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1146,
+      "title": "Jessica Sula Joins Fox Drama Series ‘The Interrogator’ - Deadline",
+      "link": "https://deadline.com/2026/05/jessica-sula-fox-drama-series-the-interrogator-1236880503/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "# Jessica Sula Joins Fox Drama Series ‘The Interrogator’. **EXCLUSIVE:** Welsh-born Jessica Sula (*Michael*) is set as a series regular opposite Stephen Fry in *The Interrogator*, Fox‘s upcoming drama series. *The Interrogator,* from Lionsgate Television and Fox Entertainment Studios, received a 12-episode straight-to-series order for the 2026-27 season earlier this year. - Reality TV Summit](https://deadline.com/2026/05/reality-shows-filmed-in-us-abroad-jay-pharoah-1236880499/). ### 'The Quiz With Balls' Jay Pharoah On Hosting The Wettest Game Show On TV - Reality TV Summit](https://deadline.com/2026/05/the-quiz-with-balls-jay-pharoah-wettest-game-show-on-tv-1236880171/). Sula’s Astrid is a criminal psychologist, who’s sharp, funny and idealistic, and though a novice to the spy game, a natural. She’s the somewhat estranged daughter to Henry, and it’s clear she inherited her father’s natural ability to read people as well as his gift for guile – she could have been a successful con artist. She can also be seen in a series regular role on *Panic* for Amazon as well as starring in the Welcome Villain reboot of *The Last Shift, Malum*.",
+      "published_at": "Mon, 04 May 2026 23:20:00 GMT",
+      "collected_at": "2026-05-10 04:33:49",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導演員Jessica Sula加入Fox新劇《The Interrogator》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -16672,6 +16700,21 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-05-09 04:05:42"
+    },
+    {
+      "id": 48,
+      "report_date": "2026-05-10",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的音樂發行、電影傳記、頒獎活動及個人生活動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及多位歌手發布新專輯等。周杰倫方面今日無新消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無周杰倫新聞",
+        "無周杰倫新聞"
+      ],
+      "created_at": "2026-05-10 04:34:01"
     }
   ],
   "notification_logs": [
@@ -17416,11 +17459,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-05-09 04:05:43"
+    },
+    {
+      "id": 107,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-10 04:34:01"
+    },
+    {
+      "id": 108,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-10 04:34:02"
     }
   ],
   "_meta": {
-    "nextArticleId": 1145,
-    "nextReportId": 48,
-    "nextLogId": 107
+    "nextArticleId": 1147,
+    "nextReportId": 49,
+    "nextLogId": 109
   }
 }

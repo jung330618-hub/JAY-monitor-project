@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 2
   },
   "allTimeStats": {
-    "total": 1144,
+    "total": 1146,
     "positive": 338,
     "negative": 46,
-    "neutral": 760,
+    "neutral": 762,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-25",
-      "total": 15,
-      "positive": 1,
-      "negative": 0,
-      "neutral": 14,
-      "avg_score": 0.53
-    },
     {
       "date": "2026-04-26",
       "total": 15,
@@ -132,9 +124,45 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-10",
+      "total": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1145,
+      "title": "Caden Bodine's three-hit performance - MLB.com",
+      "link": "https://www.mlb.com/video/caden-bodine-s-three-hit-performance?t=mlb-pipeline",
+      "source": "Tavily (www.mlb.com)",
+      "snippet": "Opens in a new window Opens an external website Opens an external website in a new window. We and our third-party partners process your information and how you use our services, including through cookies, pixels, and similar technologies, as described in our Privacy Policy, including to provide, analyze, and improve our services and personalize your experience and ads. To learn more, view the following link:   Privacy Policy. 美杜莎的笑声 法 埃莱娜·西苏 上海人民出版社 2023. ## Uploaded by. You are on page 1. 《美杜莎的笑声》埃莱娜·西苏【文字版 PDF电子书 雅书】. 恐怖的权力 论卑贱 by 朱莉娅·克里斯蒂瓦. (The Madwoman in the Attic). 享受你的症状！ 好莱坞内外的拉康 (斯拉沃热·齐泽克) (Z-Library). 文学回忆录 (套装共2册) (木心, 陈丹青) (Z-Library). 苏鲁支语录 尼采 著 徐梵澄 译. 眼与心·世界的散文（梅洛-庞蒂文集 第8卷） (梅洛-庞蒂（Maurice Merleau-Ponty）著；杨大春 译) (Z-Library). 康德著作全集 第3卷：纯粹理性批判 （第二版） (李秋零 主编) (Z-Library). 呼啸山庄 (译文名著典藏) 【文字版】 (艾米莉·勃朗特 (Emily Bronte) ) (Z-library.sk, 1lib.sk, Z-lib.sk). 沉思录 ( (古罗马) 马可·奥勒留) (Z-Library). ## Share this document. * Share on Facebook, opens a new window. * Share on LinkedIn, opens a new window. Millions of documents at your fingertips, ad-free Subscribe with a free trial.",
+      "published_at": "Sun, 10 May 2026 01:39:02 GMT",
+      "collected_at": "2026-05-10 04:33:49",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要關於棒球選手表現及書籍列表。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1146,
+      "title": "Jessica Sula Joins Fox Drama Series ‘The Interrogator’ - Deadline",
+      "link": "https://deadline.com/2026/05/jessica-sula-fox-drama-series-the-interrogator-1236880503/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "# Jessica Sula Joins Fox Drama Series ‘The Interrogator’. **EXCLUSIVE:** Welsh-born Jessica Sula (*Michael*) is set as a series regular opposite Stephen Fry in *The Interrogator*, Fox‘s upcoming drama series. *The Interrogator,* from Lionsgate Television and Fox Entertainment Studios, received a 12-episode straight-to-series order for the 2026-27 season earlier this year. - Reality TV Summit](https://deadline.com/2026/05/reality-shows-filmed-in-us-abroad-jay-pharoah-1236880499/). ### 'The Quiz With Balls' Jay Pharoah On Hosting The Wettest Game Show On TV - Reality TV Summit](https://deadline.com/2026/05/the-quiz-with-balls-jay-pharoah-wettest-game-show-on-tv-1236880171/). Sula’s Astrid is a criminal psychologist, who’s sharp, funny and idealistic, and though a novice to the spy game, a natural. She’s the somewhat estranged daughter to Henry, and it’s clear she inherited her father’s natural ability to read people as well as his gift for guile – she could have been a successful con artist. She can also be seen in a series regular role on *Panic* for Amazon as well as starring in the Welcome Villain reboot of *The Last Shift, Malum*.",
+      "published_at": "Mon, 04 May 2026 23:20:00 GMT",
+      "collected_at": "2026-05-10 04:33:49",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導演員Jessica Sula加入Fox新劇《The Interrogator》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1138,
       "title": "Chris Brown Releases New Album ‘Brown’ Featuring NBA YoungBoy, GloRilla & More: Stream It Now - Billboard",
@@ -526,52 +554,39 @@
       "summary": "此新聞摘要主要討論其他名人對摩托車的熱愛，並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1119,
-      "title": "JayDon on evolution and musical growth - Newsweek",
-      "link": "https://www.newsweek.com/videos/jaydon-on-evolution-and-musical-growth",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "Russia-UkraineMiddle EastChina And AsiaLive BlogBetter PlanetAll World News. JayDon On Evolution And Musical Growth. Actor and singer JayDon discusses his musical inspiration and his journey through the entertainment industry. ## Enough Is Enough: Finish the Job Against Iran | THE JOSH HAMMER SHOW. 97K VIEWS • 1 day ago. ## The Ex-Journalist Declaring War on AI Slop | The 1600. ## King Charles Gambled the Monarchy on Trump—Only He Could Pull it Off. 163K VIEWS • 3 days ago. ## GOP Tops Dems at Their Own Redistricting Game | THE JOSH HAMMER SHOW. ## A Huge SCOTUS Win, the King’s Visit & Charlie Kirk’s Real Legacy | THE JOSH HAMMER SHOW. ## Kara Swisher On Billionaire CEOs: 'Their Brokenness Is Hurting The Rest Of Us'. ## How to Earn the King's Trust? ## What Sharon McMahon Would Have Said At UVU Commencement Before Charlie Kirk Cancellation | The 1600. ## Defiant Left Doubles Down & the Case Against Birthright Citizenship THE JOSH HAMMER SHOW.",
-      "published_at": "Tue, 05 May 2026 15:53:13 GMT",
-      "collected_at": "2026-05-06 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於歌手JayDon的音樂發展與演藝歷程，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1120,
-      "title": "Passage cuts 75% of workforce after FDA trial design request - BioSpace",
-      "link": "https://www.biospace.com/job-trends/passage-cuts-75-of-workforce-after-fda-trial-design-request",
-      "source": "Tavily (www.biospace.com)",
-      "snippet": "# Passage cuts 75% of workforce after FDA trial design request. ## Passage Bio, which has been working toward a registrational trial for a drug candidate whose indications include frontotemporal dementia, is exploring strategic alternatives in addition to cutting staff. Shortly after announcing that the FDA will require a specific registrational trial design for its lead drug candidate in one target indication, Passage Bio has disclosed it will cut about 75% of its workforce to reduce operating expenses. On April 20, Passage announced the outcome of a recent Type C meeting with the FDA regarding design of a future registrational trial for PBFT02 for the treatment of frontotemporal dementia with granulin mutations (FTD-GRN). Will Chou, the company’s president and CEO, said the agency did not support a single-arm trial design and instead will require a randomized controlled trial. The company noted that to maximize shareholder value, it is exploring strategic alternatives that could include a merger or acquisition, a sale of assets and licensing opportunities.",
-      "published_at": "Mon, 04 May 2026 15:51:30 GMT",
-      "collected_at": "2026-05-06 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於生物科技公司Passage Bio因FDA要求調整藥物試驗設計而裁員75%，其執行長名為Will Chou，但內容與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 47,
-    "report_date": "2026-05-09",
-    "total_articles": 7,
+    "id": 48,
+    "report_date": "2026-05-10",
+    "total_articles": 2,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要娛樂焦點集中在Michael Jackson傳記電影的票房表現、Chris Brown新專輯發布、以及多位藝人的新音樂動態。目前周杰倫並無最新公開活動或作品消息。",
+    "neutral_count": 2,
+    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的音樂發行、電影傳記、頒獎活動及個人生活動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及多位歌手發布新專輯等。周杰倫方面今日無新消息。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫新聞",
+      "無周杰倫新聞",
+      "無周杰倫新聞"
     ],
-    "created_at": "2026-05-09 04:05:42"
+    "created_at": "2026-05-10 04:34:01"
   },
   "recentReports": [
+    {
+      "id": 48,
+      "report_date": "2026-05-10",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的音樂發行、電影傳記、頒獎活動及個人生活動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及多位歌手發布新專輯等。周杰倫方面今日無新消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無周杰倫新聞",
+        "無周杰倫新聞"
+      ],
+      "created_at": "2026-05-10 04:34:01"
+    },
     {
       "id": 47,
       "report_date": "2026-05-09",
@@ -657,21 +672,6 @@
         "無重要事件發生"
       ],
       "created_at": "2026-05-04 04:29:42"
-    },
-    {
-      "id": 41,
-      "report_date": "2026-05-03",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日搜集到的娛樂新聞中，經過仔細篩選，並未發現任何與華語天王周杰倫相關的最新報導或活動焦點。所有新聞主要集中於西方樂壇動態，例如麥可傑克森傳記電影的票房表現、多位R&B與流行歌手的新作發布，以及其他歐美娛樂圈的事件。因此，今日無周杰倫的相關新聞摘要可提供。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-03 04:30:21"
     }
   ]
 }
