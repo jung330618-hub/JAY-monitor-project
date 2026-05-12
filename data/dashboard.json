@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1151,
+    "total": 1158,
     "positive": 338,
     "negative": 46,
-    "neutral": 767,
+    "neutral": 774,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-27",
-      "total": 12,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-28",
       "total": 11,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-12",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1152,
+      "title": "Kes Teases New Album; Talks Tiny Desk Debut & Hopping On Di Genius’ ‘Hill & Gully’ Riddim: ‘Nobody Expected That!’ - Billboard",
+      "link": "https://www.billboard.com/music/music-news/kes-new-album-tiny-desk-hill-gully-riddim-soca-music-1236244059/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Kes Teases New Album; Talks Tiny Desk Debut & Hopping On Di Genius’ ‘Hill & Gully’ Riddim: ‘Nobody Expected That!’. The Kes the Band frontman checks in with *Billboard* at the 2026 Saint Lucia Jazz & Arts Festival. There were still two more days of this year’s Saint Lucia Jazz & Arts Festival following Kes the Band’s terrific Friday night headlining set (May 8) — and the soca group cleared all the competition. Fronted by Kees Dieffenthaller, who also goes by Kes, the band delivered an hour of high-energy renditions of contemporary soca bangers like “Wotless,” “Savannah Grass” and “Cocoa Tea.” The festival stop is just the latest in a string of hectic periods for the band — including a pair of Jazz @ Lincoln Center shows in January and the forthcoming North American leg of its Roots, Rock, Soca Tour. “When I was coming down on the plane, I had the chance to have a one-on-one with Billy Ocean, who’s also from Trinidad.",
+      "published_at": "Mon, 11 May 2026 15:04:28 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Kes the Band的新專輯和演出活動，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1153,
+      "title": "All of Chris Brown’s Solo Albums Ranked From Worst to Best: Critics’ Picks - Billboard",
+      "link": "https://www.billboard.com/lists/chris-brown-albums-ranked/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# All of Chris Brown’s Solo Albums Ranked From Worst to Best: Critics’ Picks. Despite receiving mixed reviews online — including a response from the singer himself — the Virginia native remains in a favorable position as one of R&B’s lead anchors and enduring pillars of continuity. For over two decades, Brown has carved out a lane that now allows him to headline stadium tours — including his upcoming jaunt with Usher — while still hoisting a fistful of Top 40 bangers like “With You,” “Yo (Excuse Me Miss)” and “No Guidance.”. Brown’s last studio album, 2023’s *11:11*, earned him his second Grammy at the 2025 ceremony and spawned a top 40 Billboard Hot 100 hit with “Residuals,” proving he can still carve out classic records and memorable moments when the occasion calls for it. As the follow-up to the massively successful *Exclusive*, the album had a different kind of pressure around it, but it still debuted at No. 7 on the Billboard 200, giving him his third consecutive top-10 album in the United States.",
+      "published_at": "Mon, 11 May 2026 16:46:45 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於克里斯小子（Chris Brown）的專輯排名與音樂成就，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1154,
+      "title": "Watch Blue Ivy, 14, ignore dad Jay Z’s one repeated request on Met Gala red carpet - Page Six",
+      "link": "https://pagesix.com/2026/05/05/parents/blue-ivy-ignores-requests-to-remove-sunglasses-at-met-gala/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Watch Blue Ivy, 14, ignore dad Jay Z’s one repeated request on Met Gala red carpet. Blue Ivy’s Met Gala debut didn’t go off quite as smoothly as it appeared, as dad Jay-Z seemingly pleaded with her to remove her sunglasses on the red carpet. In a clip obtained by the Daily Mail, the 14-year-old daughter of Beyoncé and Jay-Z modeled her billowy cream Balenciaga dress and matching bomber jacket alongside her mother as they made their way up the famous Met Gala staircase. The publicist turned to ask Beyoncé to instruct the teen to remove the shades, and stylist Ty Hunter got involved as well before a tuxedo-clad Jay-Z made the same request. Blue Ivy was seemingly unmoved, ignoring the instructions and leaving the sunglasses in place as cameras flashed around her. “It feels surreal [to be back] because my daughter’s here,” Beyoncé told Vogue at the event, acknowledging her 10-year absence from the Met Gala.",
+      "published_at": "Wed, 06 May 2026 02:17:47 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於碧昂絲與Jay-Z的女兒Blue Ivy在Met Gala紅毯上拒絕摘下太陽眼鏡的事件，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1155,
+      "title": "Chelsea: Jay Bothroyd: Why would Iraola want to join 'toxic' Chelsea? - Sky Sports",
+      "link": "https://www.skysports.com/football/video/30998/13541483/chelsea-jay-bothroyd-why-would-iraola-want-to-join-toxic-chelsea",
+      "source": "Tavily (www.skysports.com)",
+      "snippet": "# Chelsea: Jay Bothroyd: Why would Iraola want to join 'toxic' Chelsea? Jay Bothroyd questions whether any manager would want to join 'toxic' Chelsea. ### Who makes Neville's longlist for the Commonwealth Games? ### 'My full focus is on Rangers' | Röhl on Ibrox future amid Bundesliga links. ### Explained: Middlesbrough's accusations of Saints staff spying ahead of play-offs. ### 'Nothing is done in the first leg' | Hull boss likens play-offs to UCL knockout ties. ### 'It's been my best season' | Crama reacts to TOTS selection & play-off tie at Hull. ### Palace make history to reach ECL Final | The Verdict. ### 'Madrid is in CHAOS!' | Spanish papers react to Real's dressing room crisis. ### The Verdict | Villa cruise to Europa League final over Forest. ### McCarty putts his way to HISTORY at Quail Hollow on day one! ### Who will make the difference for Bolton and Bradford? ### Are these the closest League Two play-offs ever?",
+      "published_at": "Fri, 08 May 2026 11:17:22 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要討論足球評論員Jay Bothroyd對切爾西足球俱樂部教練人選的看法。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1156,
+      "title": "The Best Of Netflix’s Kevin Hart Roast: Lizzo, Teyana Taylor, Katt Williams, Venus & Serena, The Rock & More - Deadline",
+      "link": "https://deadline.com/2026/05/kevin-hart-roast-netflix-recap-best-moments-katt-williams-1236889835/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "# The Best Of Netflix’s Kevin Hart Roast: Lizzo, Teyana Taylor, Katt Williams, Venus & Serena, The Rock & More. Despite the “batch of bullshit” that was on the dais, according to The Plastic Cup Boyz member and longtime Kevin Hart writer Na’im Lynn, the stars were out this Mother’s Day — on and off the stage — at the Kia Forum for Netflix‘s *Roast of Kevin Hart*. Gillis kicked off the evening in Inglewood by thanking Netflix for “choosing me to host this celebration of Black excellence” before Usher, backed by The Roots, introduced the show with a performance of “Caught Up,” eventually transitioning to a musical roast of Hart. “You’re like Martha Stewart but without the respect of the Black community,” he said, before launching into a hilarious recollection about how Hart’s remarks at the Brady roast spurred him to get a colonoscopy screening, detect his cancer and be able to make it to tonight’s event to “shit all over you.”.",
+      "published_at": "Mon, 11 May 2026 04:28:41 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Netflix的Kevin Hart脫口秀，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1157,
+      "title": "Ella Mai Teases Upcoming Do You Still Love Me Tour: ‘We Want to Step It Up a Bit’ - Billboard",
+      "link": "https://www.billboard.com/music/music-news/ella-mai-teases-do-you-still-love-me-tour-saint-lucia-jazz-1236244063/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Ella Mai Teases Upcoming Do You Still Love Me Tour: ‘We Want to Step It Up a Bit’. *Billboard* caught up with R  we want to step it up a bit,” she tells *Billboard* backstage after her performance. We’re gonna basically bring that to life on the tour, and I’m excited to get on stage and sing new music and have people sing it back to me. I get it — I love ’90s and 2000s R&B, and it’s nostalgic for us because we grew up on it, but there’s a real R&B resurgence going on *right now*.",
+      "published_at": "Mon, 11 May 2026 08:20:26 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此報導主要關於歌手Ella Mai即將舉行的巡迴演唱會及其新音樂，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1158,
+      "title": "Sony Publishing to Acquire Recognition: Fleetwood Mac, Beyonce Songs - Variety",
+      "link": "https://variety.com/2026/music/news/sony-publishing-acquire-recognition-fleetwood-mac-beyonce-1236744574/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal, Including Songs by Fleetwood Mac, Beyonce, Lady Gaga. As expected, Sony Music Publishing has announced an agreement to acquire the complete music rights portfolio of Recognition Music Group from funds managed by Blackstone, subject to customary closing conditions. The deal will see Sony Music Publishing acquiring Recognition’s entire catalog of works, which includes shares in more than 45,000 songs, among them Journey’s “Don’t Stop Believin’,” Red Hot Chili Peppers’ “Under the Bridge,” Fleetwood Mac’s “Go Your Own Way,” Beyoncé’s “Single Ladies (Put A Ring On It),” Bruno Mars’ “Locked Out of Heaven,” Leonard Cohen’s “Hallelujah,” Chic’s “Good Times,” Soundgarden’s “Black Hole Sun,” Lady Gaga’s “Bad Romance,” Bon Jovi’s “Livin’ On A Prayer,” Rihanna’s “Umbrella,” Eurythmics’ “Sweet Dreams (Are Made Of This),” Shakira’s “Whenever, Wherever,” Steve Winwood’s “Higher Love” and Mariah Carey’s “All I Want For Christmas Is You,” among many others.",
+      "published_at": "Mon, 11 May 2026 12:32:32 GMT",
+      "collected_at": "2026-05-12 04:25:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Sony Music Publishing收購Recognition Music Group的音樂版權，其中包含多位西方知名藝人的歌曲，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1147,
       "title": "A Thriller of a Biopic - M-A Chronicle",
@@ -456,122 +554,39 @@
       "summary": "這篇報導指出，麥可·傑克森的傳記電影上映後，其歌曲串流播放量大幅飆升，創下個人新高。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1126,
-      "title": "SEVENTEEN’s JOSHUA Takes Us Out and Reveals How John Mayer Inspired Him, Love for Justin Bieber - billboard.com",
-      "link": "https://www.billboard.com/music/music-news/seventeen-joshua-john-mayer-inspired-him-takes-us-out-video-1236239990/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# SEVENTEEN’s JOSHUA Takes Us Out and Reveals How John Mayer Inspired Him, Love for Justin Bieber. In this episode of *Billboard*‘s *Takes Us Out*, JOSHUA speaks with host Tetris Kelly about touring with the full SEVENTEEN unit, wanting to do Coachella, getting into acting and much more over a meal of Korean seafood at Noryangjin Fisheries Wholesale Market, a 24-hour fish market in Seoul. The K-pop idol shares that he is producing solo music, and with that, he is getting into songwriting, something he historically did not have time to do before. The singer also talks about what kind of music he wants to put out as a solo act: “I want to show acoustic music because that’s what I grew up on and that’s how I got into music, so I want to show more of that side of myself to me fans.”.",
-      "published_at": "Wed, 06 May 2026 16:00:00 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導SEVENTEEN成員JOSHUA的音樂啟發與個人發展。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1127,
-      "title": "‘Australia Punches Over its Playing Weight’: Primary Wave CEO Larry Mestel Talks Local Music Industry (EXCLUSIVE) - Variety Australia",
-      "link": "https://au.variety.com/2026/music/features/larry-mestel-primary-wave-inxs-interview-36086/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "We are, right now, the largest independent music company I think in the world in terms of legacy artists. Most importantly, we’re in the legacy protection business and we think it’s a win-win for artists and our company and fans, by the way, to the extent that we’re successful in protecting that legacy by growing new revenue streams for the band, you know? We want to make sure that we’re working with pop culture artists like Kendrick, like Bruno, that like the idea of sampling, and using some of our legacy music. They’re thinking, ‘Oh my God, my life’s gonna go on forever’, and then 20 years later, when the same artists are in their 80s, maybe it’s time to estate plan, right? Maybe it’s time to bring on a partner, to think about legacy protection… it’s a great market right now for that.",
-      "published_at": "Thu, 30 Apr 2026 22:14:54 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要探討Primary Wave公司保護與發展傳奇藝人音樂版權的策略，並未直接提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1128,
-      "title": "“Frantic” Clip Of Jay‑Z And Blue Ivy At Met Gala 2026 Is Going Viral, And Fans Can’t Stop Talking About It - AOL.com",
-      "link": "https://www.aol.com/articles/frantic-clip-jay-z-blue-100921444.html",
-      "source": "Tavily (www.aol.com)",
-      "snippet": "# “Frantic” Clip Of Jay‑Z And Blue Ivy At Met Gala 2026 Is Going Viral, And Fans Can’t Stop Talking About It. She holds the record of winning the most **Grammys** in history, and he is one of the most famous rap artists on the planet. But even **Beyoncé** and **Jay-Z** can’t always get their teenager to listen. While posing for the cameras, the teenager ignored Jay-Z’s instructions and gave the internet one of the most relatable father-daughter moments. ### Even **Beyoncé** and **Jay-Z** can’t always get their teenage daughter to listen. 14-year-old Blue Ivy, the oldest of the power couple’s three children, was dressed in a billowy Balenciaga dress and a matching bomber jacket at the 2026 Met Gala. ### **Beyoncé** said it was “incredible” to attend the 2026 Met Gala with her daughter Blue Ivy. It’s incredible to be able to share it with her, and I think she looks so incredible,” said the proud mama.",
-      "published_at": "Wed, 06 May 2026 10:21:48 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於Jay-Z與Blue Ivy出席Met Gala 2026，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1129,
-      "title": "Beyoncé stuns wearing skeletal gown at Met Gala with Jay-Z, Blue Ivy - usatoday.com",
-      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/05/04/beyonce-jay-z-met-gala-blue-ivy/89873191007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "# Beyoncé stuns wearing skeletal gown at Met Gala with Jay-Z, Blue Ivy. Updated May 4, 2026, 10:53 p.m. ET. Beyoncé has arrived at the 2026 Met Gala, making a grand entrance with husband Jay-Z and daughter Blue Ivy Carter. The Grammy-winning singer graced the red carpet with her family at the Metropolitan Museum of Art's 2026 spring exhibition on May 4, where the theme was \"Costume Art\" and the dress code was \"Fashion Is Art.\". Jay-Z opted for a classic black tuxedo with a vest. This year marks Beyoncé's first Met Gala appearance in a decade. She last appeared in 2016 for the \"Manus x Machina\" gala, donning a nude-colored Givenchy Haute Couture dress. This is the first time Beyoncé's daughter has appeared at the Met Gala. ## Beyoncé and Jay-Z last appeared at the Met Gala together in 2015. Jay-Z last appeared at the Met Gala in 2015 alongside Beyoncé for the \"China: Through the Looking Glass\" Costume Institute Benefit Gala.",
-      "published_at": "Tue, 05 May 2026 02:53:00 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了碧昂絲、Jay-Z和女兒Blue Ivy出席2026年Met Gala，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1130,
-      "title": "Louis C.K. Gets Standing Ovation at Raunchy Comeback Show During Netflix Comedy Festival - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/news/general-news/louis-ck-standing-ovation-comeback-show-netflix-festival-1236587621/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "After slowly rebuilding his career following 2017's sexual misconduct allegations, the comedian headlined the Hollywood Bowl as part of Netflix is a Joke fest. Cut to 2026, and he headlined a show at the Hollywood Bowl as part of the Netflix is a Joke comedy festival. C.K. took the stage in L.A. on Tuesday night, the show serving as the final stop of the worldwide “Ridiculous” tour he’s been on for the last year. It’s not his only gig with Netflix either, as in addition to the comedy festival, the streamer will premiere C.K.’s upcoming comedy special, *Ridiculous*, on the platform this summer. In an email to his newsletter subscribers when the Netflix is a Joke appearance was first announced, C.K. called the Hollywood Bowl set “the very last show of this tour which has taken me around the world and will likely be my last full-scale comedy headline type show for a looong time.” He added, “I hope you can make it.”.",
-      "published_at": "Wed, 06 May 2026 07:28:38 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要關於喜劇演員Louis C.K.在Netflix喜劇節上的復出表演及其全球巡演和即將推出的喜劇特輯，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1112,
-      "title": "Ye’s daughter North West follows in dad’s footsteps, rapping about money and Lambos on debut EP - Entertainment Weekly",
-      "link": "https://ew.com/north-west-12-follows-in-ye-footsteps-on-debut-ep-11964574",
-      "source": "Tavily (ew.com)",
-      "snippet": "* 'Scarpetta' star Jamie Lee Curtis talks adapting the novels for TV. * JFK Jr.'s cousin speaks out on Daryl Hannah's 'Love Story' portrayal. f33l” (“How Should I Feel”), samples “Monster” by Meg & Dia, sisters who scored a one-hit wonder back in 2006, years before North was a twinkle in her father’s eye. “Know it’s been a hard time for me lately / I’ve been deep in the dark you can’t save me,” she admits on title track “#N0rth4evr.”. As models walked the runway at her father’s Yeezy show, North stood onstage with a microphone performing an original song. Joey Fatone says woman once claimed he fathered her child as part of paternity scam: 'My career is over'. Michael Jackson's son Prince felt 'emotional shock' seeing cousin Jaafar as his father for first time for biopic. Olivia Rodrigo tears apart *SNL* dressing room looking for secret note from Jack White ahead of hosting debut. Drew Barrymore and Zayn Malik get tattoos on her talk show: 'It's something I really need'.",
-      "published_at": "Fri, 01 May 2026 23:34:17 GMT",
-      "collected_at": "2026-05-06 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導North West的音樂出道及其他歐美娛樂消息，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1113,
-      "title": "Sting won’t leave fortune to his children, says not making them work is ‘a form of abuse’ - Fox News",
-      "link": "https://www.foxnews.com/entertainment/sting-wont-leave-fortune-his-children-says-not-making-them-work-a-form-abuse",
-      "source": "Tavily (www.foxnews.com)",
-      "snippet": "* #### Kim Kardashian, Beyonce and Blake Lively steal the show at the 2026 Met Gala. * #### Blake Lively and Justin Baldoni reach a settlement in 'It Ends With Us' retaliation lawsuit. * #### 'Storage Wars' star's son breaks silence after father's death by suicide at 67. In a recent sit down with \"CBS Sunday Morning,\" the 74-year-old musician spoke about his philosophy when it comes to an inheritance, noting he thinks \"the worst thing you can do to a kid is to say, 'You don't have to work.'\". \"I think that's a form of abuse that I hope I'm never guilty of,\" he shared. > \"I think the worst thing you can do to a kid is to say, 'You don't have to work.' I think that's a form of abuse that I hope I'm never guilty of.\".",
-      "published_at": "Tue, 05 May 2026 21:58:56 GMT",
-      "collected_at": "2026-05-06 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導音樂家Sting關於不將財產留給子女的繼承觀念，認為不讓孩子工作是一種虐待，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 49,
-    "report_date": "2026-05-11",
-    "total_articles": 5,
+    "id": 50,
+    "report_date": "2026-05-12",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日新聞中未發現任何與周杰倫直接相關的報導或焦點事件。多數新聞聚焦於其他國際藝人的音樂發行、巡演、獎項提名及傳記電影等動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及賈斯汀比伯和克里斯布朗等歌手的新作品。周杰倫今日並未出現在任何主要娛樂新聞頭條中。",
+    "neutral_count": 7,
+    "daily_summary": "今日搜集到的新聞中，未發現任何與華語流行天王周杰倫直接相關的報導。多數提及「Jay」的內容均指向其他西方藝人或人物，例如Jay Z、Jay Bothroyd或JayDon等，並非周杰倫本人。因此，今日無周杰倫的焦點新聞。",
     "key_events": [
       "無周杰倫新聞",
-      "無周杰倫動態",
-      "無相關報導"
+      "無相關報導",
+      "今日無焦點"
     ],
-    "created_at": "2026-05-11 04:45:52"
+    "created_at": "2026-05-12 04:25:47"
   },
   "recentReports": [
+    {
+      "id": 50,
+      "report_date": "2026-05-12",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與華語流行天王周杰倫直接相關的報導。多數提及「Jay」的內容均指向其他西方藝人或人物，例如Jay Z、Jay Bothroyd或JayDon等，並非周杰倫本人。因此，今日無周杰倫的焦點新聞。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-12 04:25:47"
+    },
     {
       "id": 49,
       "report_date": "2026-05-11",
@@ -657,21 +672,6 @@
         "無周杰倫新聞"
       ],
       "created_at": "2026-05-06 04:24:44"
-    },
-    {
-      "id": 43,
-      "report_date": "2026-05-05",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 11,
-      "daily_summary": "今日搜集到的新聞中，未有關於周杰倫的相關報導或焦點事件。所有提及『Jay』的內容皆與其他人物相關，例如Jay Woods、Jay Powell或Jay-Z，並非周杰倫本人。因此，今日無周杰倫的最新娛樂新聞可供摘要。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無重要事件",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-05 03:58:28"
     }
   ]
 }
