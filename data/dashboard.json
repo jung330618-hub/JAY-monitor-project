@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1158,
+    "total": 1167,
     "positive": 338,
     "negative": 46,
-    "neutral": 774,
+    "neutral": 783,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-28",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-04-29",
       "total": 11,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-13",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1159,
+      "title": "Blxst Sets June 12 Release for Self-Produced Album ‘Labor of Love’ - foxy99.com",
+      "link": "https://foxy99.com/2026/05/12/blxst-sets-june-12-release-for-self-produced-album-labor-of-love/",
+      "source": "Tavily (foxy99.com)",
+      "snippet": "# Blxst Sets June 12 Release for Self-Produced Album ‘Labor of Love’. ## GRAMMY-nominated West Coast artist Blxst has announced his new album, Labor of Love, set for release June 12 via EMPIRE and International BLXST. Fully self-produced, the project marks a deliberate…. Fully self-produced, the project marks a deliberate departure from the character-driven, concept-heavy approach of his 2024 album, *I'll Always Come Find You*, shifting instead toward raw, unfiltered storytelling rooted in his real life. \"But for who and whatever you got love for, just make sure you show up committed. *Labor of Love* is a story of discipline, sacrifice, and the daily work of balancing a high-profile music career with fatherhood. To celebrate the announcement, Blxst hosted a community pop-up at Harun Coffee in Leimert Park in Los Angeles, offering free coffee to mothers as a labor of love. If you a mom yourself or you know a mom, make sure you pull up on Sunday from 12 to 2.",
+      "published_at": "Wed, 13 May 2026 00:14:32 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要報導藝人Blxst將發行新專輯《Labor of Love》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1160,
+      "title": "Jeff Ross on 'The Roast of Kevin Hart' and His Favorite Cut Joke - Variety",
+      "link": "https://variety.com/2026/tv/news/jeff-ross-roast-kevin-kart-cut-joke-1236745425/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Jeff Ross on the ‘Real Tension’ Behind the ‘Roast of Kevin Hart,’ His Favorite Cut Joke and Who He Wants to Skewer Next (EXCLUSIVE). It wouldn’t be a roast without the Roastmaster General. Jeff Ross came out guns blazing at Netflix’s live skewering of Kevin Hart, the second installment in a series of “GOAT” roasts that was hosted by Shane Gillis. Dressed in a replica of Eddie Murphy’s red leather getup from “Delirious,” Ross needled Hart about going to a Diddy party, his “pieces of shit” movies and his upbringing. An admittedly hungover Ross called up *Variety* to break down the edgiest moments of the three-hour broadcast, the joke that didn’t make it to air and who he wants to roast next. When somebody says, “You look like the inside of a clam,” do you think about that when you’re brushing your teeth at night? ##### You were in the bathroom when Kevin was roasting you.",
+      "published_at": "Tue, 12 May 2026 01:02:25 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於Jeff Ross參與Kevin Hart的喜劇脫口秀，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1161,
+      "title": "Ferragamo Names Chinese Actor Johnny Huang Global Brand Ambassador - wwd.com",
+      "link": "https://wwd.com/fashion-news/fashion-scoops/actor-johnny-huang-named-ferragamo-global-ambassador-1238949752/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "### Chanel Gives Color-filled Read of Its Signs and Symbols in New High Jewelry Collection. # Ferragamo Names Chinese Actor Johnny Huang Global Brand Ambassador. Huang, who boasts 20 million followers on Weibo, will soon appear in the Chinese drama “Our Dazzling Days” and the third chapter of the drama movie “Pegasus 3.”. * Share this article on Facebook. * Share this article on X. * Share this article on Flipboard. * Share this article on Talk. He gained international fame in 2018 thanks to his role in the action movie “Operation Red Sea.”  The same year he was bestowed with the “Best Newcomer” prize at the 13th Asian Film Awards and “Best Actor in a Chinese Contemporary TV Series” at the 24th Huading Awards. The men’s roster of ambassadors at Ferragamo also includes Italian ski champion Alberto Tomba, who fronted the first chapter of Ferragamo’s “Legends, Reimagined” project, and NCT member Jeno Lee as its first global male brand ambassador.",
+      "published_at": "Mon, 11 May 2026 16:54:30 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Ferragamo宣布中國演員黃景瑜擔任其全球品牌大使，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1162,
+      "title": "These Billionaires Were Raised By Single Mothers - Forbes",
+      "link": "https://www.forbes.com/sites/gigizamora/2026/05/10/mothers-of-success-these-single-moms-raised-billionaires/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "## From Elon Musk to Jay-Z, these members of the Forbes list have an extra reason to be thankful for this Mother’s Day. In the case of these billionaires, it was actually a great mother who helped them defy the odds to join the three-comma club. Meanwhile two of the most famous self-made women billionaires on the planet got their starts as single moms: Diane Hendricks, who got pregnant as a teen, divorced her baby’s father young and went on to support her son by becoming a Playboy Bunny and working in real estate before remarrying, while single mom JK Rowling was on welfare when she wrote the *Harry Potter* series. After his father walked out on the family, Jay-Z’s mother, Gloria Carter, worked for the city of New York and as a security guard to bring up the rap legend in Brooklyn’s Marcy projects.",
+      "published_at": "Sun, 10 May 2026 00:00:00 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此文章討論由單親母親撫養長大的億萬富翁，但內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1163,
+      "title": "Hayden Panettiere Details ‘Shocking’ Moment She Was Put in Bed at 18 with an ‘Undressed’ and ‘Very Famous’ Man on a Boat - AOL.com",
+      "link": "https://www.aol.com/articles/hayden-panettiere-details-shocking-moment-165708005.html",
+      "source": "Tavily (www.aol.com)",
+      "snippet": "# Hayden Panettiere Details ‘Shocking’ Moment She Was Put in Bed at 18 with an ‘Undressed’ and ‘Very Famous’ Man on a Boat. * Hayden Panettiere said she was “quite literally out to sea” when she realized she was “in danger” during the encounter. * The actress recalled being led into a small room and placed in a bed next to an “undressed” and “very famous” man. During the Monday, May 11 episode of Jay Shetty’s podcast, *On Purpose with Jay Shetty*, the actress, 36, discussed a chapter from her upcoming memoir, *This Is Me: A Reckoning*, in which she recounts being placed in an uncomfortable and frightening situation aboard a boat when she was 18. “She physically put me in the bed next to this undressed man who was very famous,” Panettiere said, adding that he appeared to behave “like this was just an average day for him.”.",
+      "published_at": "Mon, 11 May 2026 16:57:08 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於女演員Hayden Panettiere分享其不愉快經歷，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1164,
+      "title": "Stephen Colbert Answers Questions From Jay Leno, Jimmy Kimmel, Seth Meyers & More Late-Night Hosts | THR Video - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/video/stephen-colbert-answers-questions-from-jay-leno-jimmy-kimmel-seth-meyers-more-late-night-hosts/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "Subscribe for full access to The Hollywood Reporter. ## Video. # Stephen Colbert Answers Questions From Jay Leno, Jimmy Kimmel, Seth Meyers & More Late-Night Hosts | THR Video. Ahead of the end of *The Late Show*, host Stephen Colbert sat down to answer questions from his fellow current and former late-night hosts, including Jay Leno, Jimmy Fallon, Jimmy Kimmel, Seth Meyers, Conan O’Brien, James Corden and Trevor Noah on set of his *The Hollywood Reporter* cover shoot. * ### Richard Gadd on the Inspiration for 'Half Man,' 'Baby Reindeer' Success, What Makes Him Laugh & More | THR Video. * ### THR Power Stylists: The Pros Behind Kate Hudson, Chase Infiniti & More Stars' Iconic Looks | THR Video. * ### THR Power Stylists: Kate Hudson With Stylist Sophie Lopez | THR Video. The Hollywood Reporter is a part of Penske Media Corporation. © 2026 The Hollywood Reporter, LLC. THE HOLLYWOOD REPORTER is a registered trademark of The Hollywood Reporter, LLC.",
+      "published_at": "Wed, 06 May 2026 13:00:00 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Stephen Colbert接受其他深夜節目主持人提問的內容，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1165,
+      "title": "Jamie Foxx, Kevin Hart Surprise Crowd During Ludacris Set at Carbone Beach Event in Miami - billboard.com",
+      "link": "https://www.billboard.com/culture/product-recommendations/jamie-foxx-kevin-hart-ludacris-carbone-beach-miami-1236239833/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jamie Foxx, Kevin Hart Surprise Crowd During Ludacris Set at Carbone Beach Event in Miami. Ludacris surprised a star-studded crowd in Miami over the weekend as American Express and Carbone returned for the fifth year of their “Carbone Beach” dinner series on the sand. “I’ve got some surprises,” the rapper teased midway through his set, before bringing out Fat Joe to perform “Lean Back” and “All the Way Up.” The cameos continued as Wyclef Jean appeared on stage to perform the Fugees’ hit, “Ready or Not,” while Miami local DJ Khaled joined Ludacris later on for the remix to their 2010 collab, “All I Do Is Win.”. The biggest surprise came toward the end of night as Ludacris spotted dinner guest Jamie Foxx in the audience and playfully goaded the actor into coming on stage to perform his song “Unpredictable,” which features a Ludacris rap verse.",
+      "published_at": "Wed, 06 May 2026 17:11:13 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Jamie Foxx和Kevin Hart在Ludacris的邁阿密Carbone Beach活動中驚喜現身，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1166,
+      "title": "Whitmire inks with MCA - Country Standard Time",
+      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=15939",
+      "source": "Tavily (www.countrystandardtime.com)",
+      "snippet": "**Monday, May 11, 2026** – Country traditionalist Kenny Whitmire signed with MCA, unveiled the song \"One Foot In The Grave\" and announced his debut EP, \"Fool In A King Size Bed,\" arriving June 12. Whitmire also released a video for the song. \"Signing with MCA is one of those moments you dream about as a kid,\" Whitmire said. \"To finally be here, putting out 'One Foot In The Grave' and announcing 'Fool In A King Size Bed,' it means a lot. Whitmire released \"Thought Twice About Loving You,\" the ballad \"You're Getting Colder,\" \"I Gave Her The Moon\" and \"Me Being Me\" earlier this year. \"'One Foot In The Grave' is simply about my love for country music,\" Whitmire said. \"My version of a 'Prop Me Up Beside The Jukebox' type song. I'm happy to have a song like this to put on my debut EP 'Fool In A King Size Bed'. Fool In A King Size Bed (Kenny Whitmire, Rhett Akins, Kat Higgins).",
+      "published_at": "Tue, 12 May 2026 03:07:21 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要報導鄉村歌手Kenny Whitmire簽約MCA並發行新歌與EP。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1167,
+      "title": "Sony Music Publishing Acquires Recognition Music Group - The Hollywood Reporter",
+      "link": "https://www.hollywoodreporter.com/music/music-industry-news/sony-music-publishing-acquires-recognition-music-1236592285/",
+      "source": "Tavily (www.hollywoodreporter.com)",
+      "snippet": "The deal gives Sony rights to 45,000 songs including hits from the likes of Red Hot Chili Peppers, Fleetwood Mac and Justin Bieber among others. Sony Music Publishing has officially acquired Recognition Music Group from Blackstone, the companies announced on Monday, giving Sony ownership of publishing catalogs from the likes of Justin Timberlake, Justin Bieber and the Red Hot Chili Peppers among many others. The company had been a major player in the catalog acquisition boom of the early 2020s, making deals with many hit songwriters and producers along with recording artists including a $200 million deal for Bieber’s publishing catalog and over $140 million for the Chili Peppers’. “Our investment in this extraordinary catalog reflects our belief in the enduring power of great music – a belief that resonates deeply throughout Sony Music Group and is shared by our partners at GIC,” Sony Music Publishing CEO Jon Platt said in a statement.",
+      "published_at": "Mon, 11 May 2026 16:17:45 GMT",
+      "collected_at": "2026-05-13 04:31:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Sony Music Publishing收購Recognition Music Group，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1152,
       "title": "Kes Teases New Album; Talks Tiny Desk Debut & Hopping On Di Genius’ ‘Hill & Gully’ Riddim: ‘Nobody Expected That!’ - Billboard",
@@ -428,150 +554,39 @@
       "summary": "此新聞內容未提及周杰倫相關資訊。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1131,
-      "title": "Shakey Graves' very best Austin day - Axios",
-      "link": "https://amp.axios.com/shakey-graves-very-best-austin-day-84c9c2de-84cd-4cc0-838d-3474916da2ce.html",
-      "source": "Tavily (amp.axios.com)",
-      "snippet": "# Shakey Graves' very best Austin day. **Why it matters:** Nearly 40 years old, he leads a new generation of Austin musicians even as he is a father to a young child. * His new album, \"Fondness, etc.,\" will be released May 15, he's performing this weekend at KUT Fest, and he and his wife, musician Stephanie Hunt, look after their 2-year-old daughter at their home in Buda. **We caught up** recently with Graves — born Alejandro Rose-Garcia — as part of our running series, his ideal Austin day. It's all made around and after the birth of my daughter — an old style with new themes. I try to balance the guilt of having to leave and sometimes tour — I kind of luckily make the rules, where they can come and travel with us on the road.\". * \"Or after pickup, I'll take my daughter to the Austin Nature and Science Center. ## More Austin stories.",
-      "published_at": "Fri, 01 May 2026 11:18:04 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導美國音樂人Shakey Graves的新專輯發行、演出及家庭生活。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1132,
-      "title": "KJ Apa Calls Out Mr Fantasy After 'Do Me Right' Music Video, Says He Stole His Image & Ruined His Reputation - Just Jared",
-      "link": "https://www.justjared.com/2026/05/06/kj-apa-calls-out-mr-fantasy-after-do-me-right-music-video-says-he-stole-his-image-ruined-his-reputation/",
-      "source": "Tavily (www.justjared.com)",
-      "snippet": "# KJ Apa Calls Out Mr Fantasy After ‘Do Me Right’ Music Video, Says He Stole His Image & Ruined His Reputation. However, after **Fantasy**‘s new “Do Me Right” music video, which features cameos from many of the actor’s friends, **KJ** has had it. “So, there has been something going on for a long time that I haven’t addressed because I didn’t think it was even worth addressing, but now because of how it’s impacting my life personally, I feel like I have to talk about it,” **KJ** started out his video. “I don’t usually do this, take things here to talk about, but I have to do it now because it’s hurting me and my career. “I don’t know what to do about it other than bring it here and do everything that I can to protect myself because it’s completely f-cking disrespectful and completely wrong to do that.”.",
-      "published_at": "Thu, 07 May 2026 00:51:19 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容未提及周杰倫，主要報導演員KJ Apa指控一位名為'Mr Fantasy'的藝人盜用其形象並損害名譽。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1133,
-      "title": "Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - WUKY",
-      "link": "https://www.wuky.org/npr-news/2026-05-07/noah-kahan-gets-a-no-1-album-at-last-while-michael-jackson-reenters-the-top-10",
-      "source": "Tavily (www.wuky.org)",
-      "snippet": "# Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10. Noah Kahan's coronation as an A-list superstar is complete, as *The Great Divide* debuts atop the *Billboard* 200 albums chart — and all of its songs land on this week's Hot 100. That record has sat on the *Billboard* 200 albums chart for more than three years — and in 2024, its title track became his first top 10 hit. But it's never taken him all the way to the top of the albums chart, until now. Consider this: On the day of *The Great Divide*'s release, Kahan's label dropped a deluxe edition (*The Great Divide: The Last of the Bugs*) on streaming services, expanding the album from 17 songs to 21. If you dream of one day landing a top 10 hit on the *Billboard* Hot 100, consider this pro tip: It's a great time to be named either Ella or Olivia.",
-      "published_at": "Thu, 07 May 2026 19:08:08 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導Noah Kahan的專輯首次登上告示牌200強榜首，以及麥可傑克森重回前十名，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1134,
-      "title": "Who is Machine Gun Kelly, the performer blending rap and rock? - Numéro",
-      "link": "https://numero.com/en/culture-en/music/machine-gun-kelly-focus-rap-rock-musician/",
-      "source": "Tavily (numero.com)",
-      "snippet": "# Who is Machine Gun Kelly, the performer blending rap and rock? Virtually unknown in France, Machine Gun Kelly is a huge hit in the United States. The daring rocker and rapper has just become engaged to actress Megan Fox, walked the runway for Dolce & Gabbana and launched his own brand of genderless nail polish. Portrait of an artist who embodies the rise of a very noughties pop-punk aesthetic. **Machine Gun Kelly** is one of those artists who are first and foremost a phenomenon in their home country. In France, his name often comes up in the news as the new fiancé of American actress and model **Megan Fox**. The duo is reminiscent of **Angelina Jolie** and **Billy Bob Thornton** in the 2000s, or of **Pamela Anderson**‘s and **Tommy Lee**‘s wild romance. In 2018, he created a buzz by writing a diss track in response to **Eminem**’s insults. Machine Gun Kelly is also known for his acting skills.",
-      "published_at": "Thu, 07 May 2026 11:28:40 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要介紹了美國藝人Machine Gun Kelly的音樂風格、與Megan Fox的戀情、時尚活動以及他與Eminem的爭議，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1135,
-      "title": "Billie Eilish 'Hit Me Hard and Soft: The Tour' Film: Inside LA Premiere - Billboard",
-      "link": "https://www.billboard.com/culture/tv-film/billie-eilish-hit-me-hard-soft-tour-film-premiere-inside-1236242311/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Inside Billie Eilish’s ‘Hit Me Hard and Soft: The Tour’ L.A. Premiere: From Her Red-Carpet Debut With Nat Wolff to Moviegoers Creating Their Own Pit. The 3-D concert film hits theaters on Friday. Billie Eilish premiered her concert film *Hit Me Hard and Soft: The Tour (Live in 3D)* on Wednesday night (May 6) at L.A.’s Fox Westwood Theater, hitting the red carpet with co-director James Cameron, her parents and her brother Finneas. *Hit Me Hard and Soft: The Tour (Live in 3D)* is Eilish’s third concert film and first with fellow Oscar winner Cameron. The concert film brings fans the experience of seeing Eilish on her epic arena tour in support of her 2024 album *Hit Me Hard and Soft* as well as behind-the-scenes looks at the setup for the show. *Hit Me Hard and Soft*: *The Tour (Live in 3D)* ends with Eilish in her happy place: with puppies.",
-      "published_at": "Fri, 08 May 2026 00:23:00 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Billie Eilish的演唱會電影《Hit Me Hard and Soft: The Tour》在洛杉磯的首映會，內容主要聚焦於電影本身及其製作細節，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1136,
-      "title": "Busta Rhymes, Ty Dolla $ign and More at Richie Akiva's Met Gala After Party [PHOTOS] - WWD",
-      "link": "https://wwd.com/eye/parties/gallery/busta-rhymes-ty-dolla-sign-richie-akiva-met-gala-after-party-1238943000/",
-      "source": "Tavily (wwd.com)",
-      "snippet": "* ## Richie Akiva Met Gala Afterparty at The Box. Ty Dolla $ign, Leon Thomas III, Busta Rhymes and Kaytranada. * ## Richie Akiva Met Gala Afterparty at The Box. Ty Dolla $ign, Leon Thomas III, Kaytranada and Von Ford. * ## Richie Akiva Met Gala Afterparty at The Box. Leon Thomas III and Kaytranada. * ## Richie Akiva Met Gala Afterparty at The Box.",
-      "published_at": "Tue, 05 May 2026 15:57:13 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Met Gala會後派對，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1137,
-      "title": "Brice goes the Mixtape route - Country Standard Time",
-      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=15909",
-      "source": "Tavily (www.countrystandardtime.com)",
-      "snippet": "**Friday, May 1, 2026** – Lee Brice released his latest summertime love anthem, \"Truck Bed Mixtape,\" out now. \"Truck Bed Mixtape\" will be featured on Brice's forthcoming album,\" Sunriser,\" and its deluxe edition, \"Sunriser (All Nighter).,\" coming in October. ### More news for Lee Brice. * 04/22/26: Brice plans \"Truck Bed Mixtape,\" delays record release, but adds deluxe version. * 02/20/26: Brice is \"Country Nowadays,\" announces new record. * 07/03/25: Brice releases \"Said No Country Boy Ever\" with friends. ### CD reviews for Lee Brice. The cover of \"I Don't Dance\" features a glam shot of Lee Brice standing in a spotlight, looking more like a pop artist than a country singer. The success of his sophomore release emboldened Lee Brice. Lee Brice had a dream run of success with his debut, \"Love Like Crazy\" - the title track became the most-played song on country radio in 2010. ©Country Standard Time • Jeffrey B. About • Copyright • Newsletter • Our sister publication Standard Time.",
-      "published_at": "Fri, 01 May 2026 20:30:39 GMT",
-      "collected_at": "2026-05-08 03:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於美國鄉村歌手Lee Brice的新歌發行與專輯計畫，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1124,
-      "title": "Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalog Floods Charts - billboard.com",
-      "link": "https://www.billboard.com/music/chart-beat/michael-jackson-best-streaming-week-after-michael-movie-1236240552/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalog Floods Charts. The late icon more than doubles his previous best total, as *Thriller* and \"Billie Jean\" lead his albums and songs' returns. Confirming projections reported in late April, Michael Jackson obliterates his personal-best domestic streaming week following the release of the *Michael* biopic. The King of Pop’s solo song catalog registered a collective 137.5 million official on-demand streams for the week of April 24-30 in the United States, according to Luminate, up 146% and more than doubling his previous career high. ### Michael Jackson’s Top 50 Hit Songs on the Billboard Hot 100. Before his nine-digit streaming haul, Jackson’s solo catalog achieved a new personal benchmark last week at 55.9 million song clicks. *Thriller* classic “Billie Jean” leads the song recap, as it repeats its usual standing as the catalog’s most streamed song (9.4 million) and returns to the Billboard Hot 100 at No. 38.",
-      "published_at": "Wed, 06 May 2026 17:41:27 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森因傳記電影上映而創下串流新高，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1125,
-      "title": "Michael Jackson Shatters His Best Streaming Week Total After Biopic Release, as Catalogue Floods Charts - Billboard Canada",
-      "link": "https://ca.billboard.com/music/chart-beat/michael-jackson-best-streaming-week-after-michael-movie-1236240552/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "The late icon more than doubles his previous best total, as *Thriller* and \"Billie Jean\" lead his albums and songs' returns. Confirming projections reported in late April, Michael Jackson obliterates his personal-best domestic streaming week following the release of the *Michael* biopic. The King of Pop’s solo song catalogue registered a collective 137.5 million official on-demand streams for the week of April 24-30 in the United States, according to Luminate, up 146% and more than doubling his previous career high. Prior to the *Michael* era, the late icon, who died in 2009, recorded a high of 53.7 million for the week of Oct. 25-31, 2019, spurred by the now-annual Halloween resurgence for “Thriller.”. *Michael* covers Jackson’s life from 1966 to 1988, including time with both The Jackson 5 and The Jacksons groups with his brothers. *Thriller* classic “Billie Jean” leads the song recap, as it repeats its usual standing as the catalogue’s most streamed song (9.4 million) and returns to the Billboard Hot 100 at No. 38.",
-      "published_at": "Wed, 06 May 2026 17:41:27 GMT",
-      "collected_at": "2026-05-07 04:23:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導指出，麥可·傑克森的傳記電影上映後，其歌曲串流播放量大幅飆升，創下個人新高。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 50,
-    "report_date": "2026-05-12",
-    "total_articles": 7,
+    "id": 51,
+    "report_date": "2026-05-13",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "今日搜集到的新聞中，未發現任何與華語流行天王周杰倫直接相關的報導。多數提及「Jay」的內容均指向其他西方藝人或人物，例如Jay Z、Jay Bothroyd或JayDon等，並非周杰倫本人。因此，今日無周杰倫的焦點新聞。",
+    "neutral_count": 9,
+    "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的專輯發行、頒獎典禮、巡演及個人動態，如麥可傑克森的傳記電影效應、克里斯布朗新專輯，以及多位藝人出席時尚活動等。",
     "key_events": [
-      "無周杰倫新聞",
-      "無相關報導",
+      "無周杰倫報導",
+      "未見相關動態",
       "今日無焦點"
     ],
-    "created_at": "2026-05-12 04:25:47"
+    "created_at": "2026-05-13 04:32:09"
   },
   "recentReports": [
+    {
+      "id": 51,
+      "report_date": "2026-05-13",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的專輯發行、頒獎典禮、巡演及個人動態，如麥可傑克森的傳記電影效應、克里斯布朗新專輯，以及多位藝人出席時尚活動等。",
+      "key_events": [
+        "無周杰倫報導",
+        "未見相關動態",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-13 04:32:09"
+    },
     {
       "id": 50,
       "report_date": "2026-05-12",
@@ -657,21 +672,6 @@
         "國際歌手新動態"
       ],
       "created_at": "2026-05-07 04:24:19"
-    },
-    {
-      "id": 44,
-      "report_date": "2026-05-06",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日搜集到的娛樂新聞中，並無直接提及周杰倫的相關報導。所有新聞主要圍繞其他藝人如Michael Jackson傳記電影的票房表現、Kehlani新專輯的發行與榜單成績，以及Beyoncé和Jay-Z的家庭生活等。周杰倫今天未有公開活動或新聞焦點。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無周杰倫新聞",
-        "無周杰倫新聞"
-      ],
-      "created_at": "2026-05-06 04:24:44"
     }
   ]
 }
