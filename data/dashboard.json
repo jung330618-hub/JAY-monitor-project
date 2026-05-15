@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 11,
     "positive": 0,
-    "negative": 0,
-    "neutral": 9
+    "negative": 1,
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 1176,
+    "total": 1187,
     "positive": 338,
-    "negative": 46,
-    "neutral": 792,
+    "negative": 47,
+    "neutral": 802,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-04-30",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-01",
       "total": 10,
@@ -132,9 +124,171 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-15",
+      "total": 11,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 10,
+      "avg_score": 0.47
     }
   ],
   "recentArticles": [
+    {
+      "id": 1177,
+      "title": "Michael Jackson's daughter is proclaiming a big legal victory over the Thriller superstar's estate Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/michael-jacksons-daughter-is-proclaiming-a-big-legal-victory-over-the-thriller-s/1333662705300733/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# Michael Jackson's daughter is... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. Michael Jackson's daughter is proclaiming a big legal victory over the Thriller superstar's estate. Image 1: Wanna Be Repayin’ Somethin’: Paris Jackson Claims “Massive Win” Over Michael Jackson Estate Lawyers’ Big-Bucks Bonuses. Wanna Be Repayin’ Somethin’: Paris Jackson Claims “Massive Win” Over Michael Jackson Estate Lawyers’ Big-Bucks Bonuses.",
+      "published_at": "Thu, 14 May 2026 04:00:10 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了麥可傑克森的女兒派瑞絲傑克森在遺產訴訟中取得重大勝利，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1178,
+      "title": "Michael Jackson's Nephew Says His Father and Jackson Brothers Were Told They Were \"Worthless\" Without Star - Showbiz411",
+      "link": "https://www.showbiz411.com/2026/05/14/michael-jacksons-nephew-says-his-father-and-jackson-brothers-were-told-they-were-worthless-without-star",
+      "source": "Tavily (www.showbiz411.com)",
+      "snippet": "Support independent journalism, free from the trades and other publications that are part of the tinsel town machine. For 12 years, Showbiz411.com has been covering Hollywood, Broadway, the music business and the business of celebrity. # Michael Jackson’s Nephew Says His Father and Jackson Brothers Were Told They Were “Worthless” Without Star. Taj Jackson is one of three sons of the late Tito Jackson, one of Michael’s older brothers. On social media this morning, Taj answered a fan’s question bluntly about how the other brothers grew up with Michael as the star of family. Tito — an accomplished a guitarist — Marlon, Jackie, and Jermaine were the original members of the jackson 5 along with Michael. Despite Jermaine getting a singing part on the group’s hit “I’ll Be There,” he and the others were relegated to status of second class citizen. But Michael was cruel to his brothers when it came to their careers.",
+      "published_at": "Thu, 14 May 2026 15:11:13 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "麥可傑克森的姪子塔吉傑克森透露，麥可的兄弟們曾被告知若沒有麥可這位巨星，他們就「一文不值」，且麥可對他們的事業發展很殘酷。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1179,
+      "title": "Paris Jackson claims 'massive win' in legal battle as Michael Jackson estate executors ordered to return $625,000 - Entertainment Weekly",
+      "link": "https://ew.com/paris-jackson-scores-win-in-legal-battle-with-michael-jackson-estate-executors-11974467",
+      "source": "Tavily (ew.com)",
+      "snippet": "# Paris Jackson scores big win in legal battle with Michael Jackson executors. # Paris Jackson claims 'massive win' in legal battle as Michael Jackson estate executors ordered to return $625,000. Image 3: Paris Jackson; Michael Jackson; John Branca:max_bytes(150000):strip_icc():format(webp)/Paris-Jackson-Michael-Jackson-John-Branca-051326-3839ea0cc9894afbb7d1605e6f484a92.jpg). Paris Jackson, Michael Jackson, and John Branca.Credit:. *   Paris Jackson scored a major win in her ongoing legal battle against the Michael Jackson estate. Paris Jackson has secured a key victory in her ongoing battle against the executors of father Michael Jackson's estate. The late King of Pop's eldest child has been in litigation against John Branca and John McClain, the executors of his sizable estate for years, over allegations that they made unauthorized bonus payments to their attorneys to the tune of several hundreds of thousands of dollars. Michael Jackson's daughter, Paris, suffers a setback in fight against her father’s estate Image 7: Michael Jackson and Paris Jackson:max_bytes(150000):strip_icc():format(webp)/Michael-Jackson-and-Paris-Jackson-111325-ee0378299f1c4fca8263df4ff06372ce.jpg)'Michael' fact vs.",
+      "published_at": "Thu, 14 May 2026 01:57:27 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導了Paris Jackson在與Michael Jackson遺產執行人的法律戰中取得勝利。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1180,
+      "title": "Paris Jackson Wins Fight to Claw Back $625,000 in Bonuses Paid to Estate Lawyers: 'Massive Win' - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/paris-jackson-michael-jackson-estate-bonuses-lawyers-1235562470/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "\"The Jackson family will finally get the transparency and accountability measures Paris has fought for,\" said a spokesperson for the actress and musician. Paris Jackson has won her bid to force three lawyers to return $625,000 in bonuses paid by John Branca, the executor of her father’s estate. In a 23-page ruling, unsealed Tuesday and obtained by *Rolling Stone*, the retired judge, who long presided over Michael Jackson’s probate case and is now serving as a private referee on the complex case, granted Paris’ motion to claw back the 2018 payments. “Paris has always been focused on what’s best for her family, and this ruling is a massive win for them,” the statement said. A spokesperson for the estate issued a statement saying the executors disagreed with the retired judge’s decision but planned to “fully respect it.” The statement noted Beckloff praised the work of the executors, writing in his ruling that “there can be no dispute that under the expertise of the executors, this estate has transformed from teetering on the brink of bankruptcy in June of 2009 when Michael Jackson died to the financial powerhouse that it is today.”.",
+      "published_at": "Thu, 14 May 2026 03:49:05 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森的女兒Paris Jackson贏得一場法律訴訟，成功追回其父親遺產律師所收取的625,000美元獎金。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1181,
+      "title": "Larry Miller, NYU Music Business Professor: Fortt Knox Innovation Lab - CNBC",
+      "link": "https://www.cnbc.com/video/2026/05/09/larry-miller-nyu-music-business-professor-fortt-knox-innovation-lab.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Larry Miller, NYU Music Business Professor: Fortt Knox Innovation Lab. At the Amplify Music Investment Summit, NYU Professor Larry Miller calls streaming the biggest of a century's music disruptions, with catalogs fetching $1.3 billion-plus after peer-to-peer nearly gutted IP. Spotify won on UX where a sued-out Napster could have. China is now the fourth-largest market via ad tiers. Taylor Swift's clockwork releases and $2 billion-plus Eras Tour contrast Jay-Z's portfolio play across media and culture; Bad Bunny's Spanish Super Bowl drove streaming. The American consumer is unbelievably resilient, says Affirm CEO. Strategy CEO on selling bitcoin: When it's better than issuing equity to pay dividends, we'll do it. Underlying jobs market is still very weak despite strong report, says KPMG's Diane Swonk. Intel shares surge 15% on report of preliminary Apple chip deal. Lime files for IPO after years-long road to public markets.",
+      "published_at": "Sat, 09 May 2026 22:01:04 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要探討音樂產業的變革與串流媒體的影響，提及多位藝人與公司，但未包含周杰倫的相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1182,
+      "title": "Nicki Minaj Explained Why She Supports Donald Trump - Vulture",
+      "link": "https://www.vulture.com/article/nicki-minaj-why-donald-trump.html",
+      "source": "Tavily (www.vulture.com)",
+      "snippet": "Find this story in your account’s ‘Saved for Later’ section. In a new *Time*interview, Nicki Minaj says her newfound friendship with Donald Trump is, in part, an extension of her beef with Jay-Z. According to Minaj, Jay’s chumminess with former president Obama alienated a lot of the hip-hop community, herself included. “I think Jay-Z ended up costing Obama a lot, whether he knows it or not,” she says. “Lots of rappers don’t like Jay-Z and were afraid to say it.”. She discusses hiding her true political feelings for fear of turning off either fans or the music business in general. “I felt that way already about him, just that I didn’t dare act like that publicly,” Minaj says. “It’s been ingrained in everyone’s brain in the music business that we are supposed to be a Democratic family. By submitting your email, you agree to our  Terms and Privacy Notice and to receive email correspondence from us.",
+      "published_at": "Thu, 14 May 2026 01:19:18 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Nicki Minaj支持Donald Trump，並批評Jay-Z與Obama的關係疏遠了嘻哈社群，文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1183,
+      "title": "The 2026-27 Disney Upfront was held at the Javits Center in New York City to celebrate the media company's upcoming programming, with stars from its shows in attendance. Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/the-2026-27-disney-upfront-was-held-at-the-javits-center-in-new-york-city-to-cel/1332983388701998/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# The 2026-27 Disney Upfront was held... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. The 2026-27 Disney Upfront was held at the Javits Center in New York City to celebrate the media company's upcoming programming, with stars from its shows in attendance. Image 1: Disney’s 2026 Upfront Red Carpet Photos: Lindsay Lohan, Jay Ellis, Kit Harington, ‘9-1-1’s Ryan Guzman & Oliver Star, ‘Mormon Wives’ Stars & More. Disney’s 2026 Upfront Red Carpet Photos: Lindsay Lohan, Jay Ellis, Kit Harington, ‘9-1-1’s Ryan Guzman & Oliver Star, ‘Mormon Wives’ Stars & More.",
+      "published_at": "Wed, 13 May 2026 08:00:06 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導迪士尼前瞻會活動，並列出多位出席明星，但內容並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1184,
+      "title": "Jay Williams: The 76ers are 'stuck in purgatory' - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/48740669",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Jay Williams: The 76ers are 'stuck in purgatory' - ESPN Video. * Image 2BUF 2 * Image 3MTL 6. * Image 4VGK 3 * Image 5ANA 4. * Image 10WSH 2 * Image 11MIA 5. * Image 12ATH 1 * Image 13BAL 2. * Image 14COL 0 * Image 15PHI 6. * Image 16TB 4 * Image 17BOS 1. * Image 18LAA 6 * Image 19TOR 1. * Image 20HOU 0 * Image 21CIN 5. * Image 26SEA 1 * Image 27CHW 2. * Image 28CHC 0 * Image 29TEX 3. * Image 36STL 2 * Image 37SD 3. * Image 40BAR 2 * Image 41RMA 0. *   Image 104 1:02 ## Jay Williams: The 76ers are 'stuck in purgatory' Jay Williams: The 76ers are 'stuck in purgatory'. # Jay Williams: The 76ers are 'stuck in purgatory'. *   Image 105 1:51 ## Are Cowboys or Giants in a better position to make a statement in Week 1?",
+      "published_at": "Mon, 11 May 2026 12:42:45 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要關於體育評論員Jay Williams對76人隊的分析以及其他體育賽事，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1185,
+      "title": "All the Stars at the New York City Ballet Spring 2026 Gala - Harper's BAZAAR",
+      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71252196/all-the-stars-red-carpet-photos-new-york-city-ballet-spring-2026-gala/",
+      "source": "Tavily (www.harpersbazaar.com)",
+      "snippet": "3. All the Stars at the New York City Ballet Spring 2026 Gala. Mick Jagger, Ashley Graham, Emmy Rossum, and more. Koch theater in Lincoln Center, as stars united for the New York City Ballet’s annual spring gala, titled “Set in Stone: Creation & Preservation.”. And the debut was followed by a special performance of *Diamonds*, the final act of George Balanchine’s 1967 ballet *Jewels,* with costumes made by Karinska. From the audience, stars like Ashley Graham, Emmy Rossum, Olivia Palermo, Fran Drescher, Diane Kruger, Sarah Hoover, and more took it all in. Not to mention, there was a special presentation from the honorary chair of the evening, Mick Jagger, who was joined on stage by surprise guest Jimmy Fallon (who managed to sneak in his best Jagger impression). Ahead, we’ve rounded up all the celebrities in attendance at the New York City Ballet 2026 Spring Gala.",
+      "published_at": "Fri, 08 May 2026 15:30:07 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了紐約市芭蕾舞團的春季晚會及出席的名人，但內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1186,
+      "title": "Katseye Announces ‘Wildworld’ 2026 Tour Dates - Variety",
+      "link": "https://variety.com/2026/music/news/katseye-wildworld-2026-tour-dates-1236747302/",
+      "source": "Tavily (variety.com)",
+      "snippet": "Katseye have announced dates for the “Wildworld” tour, taking the group to North America, the U.K. and Europe this fall. Produced by Live Nation, the run will kick off on September 1 at Dublin’s 3Arena, with North American dates launching October 13 in Miami at Kaseya Center and before wrapping in Mexico City on November 27. Tickets will first be available starting with a Weverse Artist Presale (details below) beginning Wednesday, May 20, at 11:00 AM local time, followed by the Katseye.World Presale at 3:00 PM local time. The Weverse Artist Presale, available to paid Weverse membership holders, will take place on Wednesday, May 20, from 11:00 AM – 2:00 PM local time. The tour will also offer VIP experiences to take your concert experience to the next level, available for purchase via Katseye’s Weverse Shop (EU, UK, MX, CA) and KATSEYE’s Official Store (US), beginning Thursday, May 21. This presale will take place on Wednesday, May 20, from 3:00 PM – 10:00PM local time.",
+      "published_at": "Wed, 13 May 2026 13:27:04 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了女子團體Katseye的「Wildworld」巡迴演唱會日期及售票資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1187,
+      "title": "Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’ - Variety",
+      "link": "https://variety.com/2026/music/news/drake-releases-iceman-habibti-maid-of-honour-albums-1236749401/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Drake Drops 'Iceman' Plus Surprise Albums 'Habibti,' 'Maid of Honour'. *   Plus Icon What To Watch. *   Plus Icon What To Hear. Plus Icon Click to expand the Mega Menu. # Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’. Image 2: TORONTO, ON - OCTOBER 24: Drake poses for a photo in the suite during Game One of the 2025 World Series presented by Capital One between the Los Angeles Dodgers and the Toronto Blue Jays at Rogers Centre on Friday, October 24, 2025 in Toronto, Ontario, Canada. Drake dropped not just one, but three new albums on Friday, releasing “Iceman” as expected at midnight ET, along with “Maid of Honour” and “Habibti.”. But Drake announced that the trio of projects would drop simultaneously as his “Iceman Episode 4” livestream finished, revealing the album titles and the message, “All 3 albums dropping at midnight from the biggest sound.” He then unveiled the album cover images with individual posts on Instagram.",
+      "published_at": "Fri, 15 May 2026 04:02:17 GMT",
+      "collected_at": "2026-05-15 04:36:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於歌手Drake發行三張新專輯，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1168,
       "title": "Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - VPM",
@@ -400,178 +554,39 @@
       "summary": "此新聞報導主要關於Kes the Band的新專輯和演出活動，內容中並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1153,
-      "title": "All of Chris Brown’s Solo Albums Ranked From Worst to Best: Critics’ Picks - Billboard",
-      "link": "https://www.billboard.com/lists/chris-brown-albums-ranked/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# All of Chris Brown’s Solo Albums Ranked From Worst to Best: Critics’ Picks. Despite receiving mixed reviews online — including a response from the singer himself — the Virginia native remains in a favorable position as one of R&B’s lead anchors and enduring pillars of continuity. For over two decades, Brown has carved out a lane that now allows him to headline stadium tours — including his upcoming jaunt with Usher — while still hoisting a fistful of Top 40 bangers like “With You,” “Yo (Excuse Me Miss)” and “No Guidance.”. Brown’s last studio album, 2023’s *11:11*, earned him his second Grammy at the 2025 ceremony and spawned a top 40 Billboard Hot 100 hit with “Residuals,” proving he can still carve out classic records and memorable moments when the occasion calls for it. As the follow-up to the massively successful *Exclusive*, the album had a different kind of pressure around it, but it still debuted at No. 7 on the Billboard 200, giving him his third consecutive top-10 album in the United States.",
-      "published_at": "Mon, 11 May 2026 16:46:45 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於克里斯小子（Chris Brown）的專輯排名與音樂成就，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1154,
-      "title": "Watch Blue Ivy, 14, ignore dad Jay Z’s one repeated request on Met Gala red carpet - Page Six",
-      "link": "https://pagesix.com/2026/05/05/parents/blue-ivy-ignores-requests-to-remove-sunglasses-at-met-gala/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "# Watch Blue Ivy, 14, ignore dad Jay Z’s one repeated request on Met Gala red carpet. Blue Ivy’s Met Gala debut didn’t go off quite as smoothly as it appeared, as dad Jay-Z seemingly pleaded with her to remove her sunglasses on the red carpet. In a clip obtained by the Daily Mail, the 14-year-old daughter of Beyoncé and Jay-Z modeled her billowy cream Balenciaga dress and matching bomber jacket alongside her mother as they made their way up the famous Met Gala staircase. The publicist turned to ask Beyoncé to instruct the teen to remove the shades, and stylist Ty Hunter got involved as well before a tuxedo-clad Jay-Z made the same request. Blue Ivy was seemingly unmoved, ignoring the instructions and leaving the sunglasses in place as cameras flashed around her. “It feels surreal [to be back] because my daughter’s here,” Beyoncé told Vogue at the event, acknowledging her 10-year absence from the Met Gala.",
-      "published_at": "Wed, 06 May 2026 02:17:47 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於碧昂絲與Jay-Z的女兒Blue Ivy在Met Gala紅毯上拒絕摘下太陽眼鏡的事件，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1155,
-      "title": "Chelsea: Jay Bothroyd: Why would Iraola want to join 'toxic' Chelsea? - Sky Sports",
-      "link": "https://www.skysports.com/football/video/30998/13541483/chelsea-jay-bothroyd-why-would-iraola-want-to-join-toxic-chelsea",
-      "source": "Tavily (www.skysports.com)",
-      "snippet": "# Chelsea: Jay Bothroyd: Why would Iraola want to join 'toxic' Chelsea? Jay Bothroyd questions whether any manager would want to join 'toxic' Chelsea. ### Who makes Neville's longlist for the Commonwealth Games? ### 'My full focus is on Rangers' | Röhl on Ibrox future amid Bundesliga links. ### Explained: Middlesbrough's accusations of Saints staff spying ahead of play-offs. ### 'Nothing is done in the first leg' | Hull boss likens play-offs to UCL knockout ties. ### 'It's been my best season' | Crama reacts to TOTS selection & play-off tie at Hull. ### Palace make history to reach ECL Final | The Verdict. ### 'Madrid is in CHAOS!' | Spanish papers react to Real's dressing room crisis. ### The Verdict | Villa cruise to Europa League final over Forest. ### McCarty putts his way to HISTORY at Quail Hollow on day one! ### Who will make the difference for Bolton and Bradford? ### Are these the closest League Two play-offs ever?",
-      "published_at": "Fri, 08 May 2026 11:17:22 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要討論足球評論員Jay Bothroyd對切爾西足球俱樂部教練人選的看法。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1156,
-      "title": "The Best Of Netflix’s Kevin Hart Roast: Lizzo, Teyana Taylor, Katt Williams, Venus & Serena, The Rock & More - Deadline",
-      "link": "https://deadline.com/2026/05/kevin-hart-roast-netflix-recap-best-moments-katt-williams-1236889835/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "# The Best Of Netflix’s Kevin Hart Roast: Lizzo, Teyana Taylor, Katt Williams, Venus & Serena, The Rock & More. Despite the “batch of bullshit” that was on the dais, according to The Plastic Cup Boyz member and longtime Kevin Hart writer Na’im Lynn, the stars were out this Mother’s Day — on and off the stage — at the Kia Forum for Netflix‘s *Roast of Kevin Hart*. Gillis kicked off the evening in Inglewood by thanking Netflix for “choosing me to host this celebration of Black excellence” before Usher, backed by The Roots, introduced the show with a performance of “Caught Up,” eventually transitioning to a musical roast of Hart. “You’re like Martha Stewart but without the respect of the Black community,” he said, before launching into a hilarious recollection about how Hart’s remarks at the Brady roast spurred him to get a colonoscopy screening, detect his cancer and be able to make it to tonight’s event to “shit all over you.”.",
-      "published_at": "Mon, 11 May 2026 04:28:41 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Netflix的Kevin Hart脫口秀，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1157,
-      "title": "Ella Mai Teases Upcoming Do You Still Love Me Tour: ‘We Want to Step It Up a Bit’ - Billboard",
-      "link": "https://www.billboard.com/music/music-news/ella-mai-teases-do-you-still-love-me-tour-saint-lucia-jazz-1236244063/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Ella Mai Teases Upcoming Do You Still Love Me Tour: ‘We Want to Step It Up a Bit’. *Billboard* caught up with R  we want to step it up a bit,” she tells *Billboard* backstage after her performance. We’re gonna basically bring that to life on the tour, and I’m excited to get on stage and sing new music and have people sing it back to me. I get it — I love ’90s and 2000s R&B, and it’s nostalgic for us because we grew up on it, but there’s a real R&B resurgence going on *right now*.",
-      "published_at": "Mon, 11 May 2026 08:20:26 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此報導主要關於歌手Ella Mai即將舉行的巡迴演唱會及其新音樂，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1158,
-      "title": "Sony Publishing to Acquire Recognition: Fleetwood Mac, Beyonce Songs - Variety",
-      "link": "https://variety.com/2026/music/news/sony-publishing-acquire-recognition-fleetwood-mac-beyonce-1236744574/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal, Including Songs by Fleetwood Mac, Beyonce, Lady Gaga. As expected, Sony Music Publishing has announced an agreement to acquire the complete music rights portfolio of Recognition Music Group from funds managed by Blackstone, subject to customary closing conditions. The deal will see Sony Music Publishing acquiring Recognition’s entire catalog of works, which includes shares in more than 45,000 songs, among them Journey’s “Don’t Stop Believin’,” Red Hot Chili Peppers’ “Under the Bridge,” Fleetwood Mac’s “Go Your Own Way,” Beyoncé’s “Single Ladies (Put A Ring On It),” Bruno Mars’ “Locked Out of Heaven,” Leonard Cohen’s “Hallelujah,” Chic’s “Good Times,” Soundgarden’s “Black Hole Sun,” Lady Gaga’s “Bad Romance,” Bon Jovi’s “Livin’ On A Prayer,” Rihanna’s “Umbrella,” Eurythmics’ “Sweet Dreams (Are Made Of This),” Shakira’s “Whenever, Wherever,” Steve Winwood’s “Higher Love” and Mariah Carey’s “All I Want For Christmas Is You,” among many others.",
-      "published_at": "Mon, 11 May 2026 12:32:32 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Sony Music Publishing收購Recognition Music Group的音樂版權，其中包含多位西方知名藝人的歌曲，但未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1147,
-      "title": "A Thriller of a Biopic - M-A Chronicle",
-      "link": "https://machronicle.com/a-thriller-of-a-biopic/",
-      "source": "Tavily (machronicle.com)",
-      "snippet": "Directed by Antoine Fuqua, the movie aims to humanize the experiences of Michael Jackson by showcasing his experiences as a child in the 1960’s all the way up until his “Bad” Tour in 1987-89. The film stars Jaafar Jackson, Michael Jackson’s real-life nephew, as Michael. Joseph Jackson (Colman Domingo), Michael’s father, is the film’s main antagonist, as his physical abuse and desire to push his sons to musical stardom overshadows the well-being of his family members. Though clearly there are still major flaws with the film’s portrayal of the Jackson family, as Janet Jackson, Michael’s famous sister, refused to sign off to be played in the film. The film’s musical moments were created by blending Michael Jackson’s original recordings with live, on-set vocals from his nephew, Jaafar Jackson, and Juliano Valdi, who plays the young Michael. Along with Michael Jackson’s once-in-a-generation vocals, he’s also incredibly famous for his iconic dancing, which Jaafar Jackson and Valdi both emulated flawlessly throughout the film.",
-      "published_at": "Sun, 10 May 2026 20:14:02 GMT",
-      "collected_at": "2026-05-11 04:45:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導詳細介紹了關於麥可傑克森傳記電影的製作細節，包括導演、演員、劇情內容以及音樂和舞蹈的呈現方式，但與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1148,
-      "title": "KJ Apa Goes Nuclear On His All-But-Confirmed Alter Ego Mr. Fantasy: ‘F**king Liar & Thief’ - pedestrian.tv",
-      "link": "https://www.pedestrian.tv/entertainment/kj-apa-calls-out-mr-fantasy-alter-ego/",
-      "source": "Tavily (www.pedestrian.tv)",
-      "snippet": "© 2026 Pedestrian Group Pty Ltd. PEDESTRIAN.TV Entertainment KJ Apa Goes Nuclear On His All-But-Confirmed Alter Ego Mr. Fantasy: ‘F\\*\\*king Liar & Thief’. # KJ Apa Goes Nuclear On His All-But-Confirmed Alter Ego Mr. Fantasy: ‘F\\*\\*king Liar & Thief’. *Riverdale* star **KJ Apa** has scolded what is highly likely to be his musical alter ego **Mr. Fantasy**, calling him a “liar and thief” after KJ’s co-stars appeared in his new music video. KJ, who is all-but confirmed to be the man behind Mr. Fantasy’s wig and fake teeth, took to Instagram today after the release of the singer’s music video for “Do Me Right”, which featured *Riverdale* stars **Lili Reinhart**, **Camila Mendes**, and **Madelaine Petsch**. KJ went on to accuse Mr. Fantasy — who has been linked to him ever since popping up on TikTok in mid-2025 — of “hurting me and my career”, claiming the viral sensation had “lost me a huge job” and prevented him from getting “serious work because people think that I’m a joke because of this guy”.",
-      "published_at": "Thu, 07 May 2026 02:31:01 GMT",
-      "collected_at": "2026-05-11 04:45:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導演員KJ Apa對其音樂分身Mr. Fantasy表達強烈不滿，指控對方是騙子與小偷，並損害了他的演藝事業。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1149,
-      "title": "New Music Friday: The best albums out May 8 - NPR",
-      "link": "https://www.npr.org/2026/05/08/nx-s1-5778471/new-music-friday-best-albums-may-8-2026",
-      "source": "Tavily (www.npr.org)",
-      "snippet": "**Muna, Stephen Sanchez and the best new albums out May 8 : All Songs Considered : NPR Music** **MUNA. Lykke Li. NPR Music's Stephen Thompson chats with Celia Gregory from WNXP in Nashville about their favorite albums out Friday, May 8. Plus, a handful of NPR Music writers and critics offer personal picks in our lightning round. Sample the albums via our New Music Friday playlist and see our Long List of notable releases on NPR.org. # New Music Friday: The best albums out May 8. Welcome to New Music Friday, NPR Music's podcast dedicated to sharing the best albums out each week. The podcast is hosted by NPR Music's Stephen Thompson, and each episode features a member of the NPR Music Network of public radio stations. *New Music Friday is a feature of NPR's All Songs Considered podcast. *Listen to each album's best songs on our New Music Friday playlists on* *Spotify* *and* *Apple**, or* *wherever you stream music**.*.",
-      "published_at": "Fri, 08 May 2026 00:00:00 GMT",
-      "collected_at": "2026-05-11 04:45:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容未提及周杰倫，主要介紹NPR Music於5月8日發布的新音樂專輯及相關節目。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1150,
-      "title": "Justin Bieber Returns to No.1 as Most Listened-to Artist on Spotify - Billboard Canada",
-      "link": "https://ca.billboard.com/business/streaming/justin-bieber-spotify-monthly-listeners",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "# Justin Bieber Returns to No.1 as  Most Listened-to Artist on Spotify. It marks his return to the top spot since 2021, when he reached a record-breaking 83 million listeners. Justin Bieber is the most listened-to artist on Spotify. This marks Bieber’s return to the top spot in nearly five years, when he hit 83 million monthly listeners back in 2021. The record coincided with the release of The Kid LAROI and Bieber’s hit “Stay,” which spent 12 weeks at No. 1 on the Billboard Canadian Hot 100 — the latter’s second-longest song at the top. In January, he scored his newest entry in Spotify’s Billions Club with the Chance the Rapper-featuring “Confident,” from 2013’s **Journals**, which recently landed on the Billboard Canadian Albums chart for the first time, hitting No. 96. On the charts, multiple of his songs and albums re-entered the Canadian Hot 100 and the Canadian Albums rankings after his headlining sets at the music festival.",
-      "published_at": "Mon, 04 May 2026 16:21:52 GMT",
-      "collected_at": "2026-05-11 04:45:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於小賈斯汀（Justin Bieber）在Spotify和Billboard加拿大榜單上的成就，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1151,
-      "title": "MUSIC AWARDS JAPAN 2026 Full Nominee List Revealed - Billboard",
-      "link": "https://www.billboard.com/music/awards/music-awards-japan-2026-nominees-list-1236242434/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "At the nomination announcement event in Tokyo on April 30, this year's MAJ Ambassadors, Kento Nakajima & Mei Hata, took the stage. MUSIC AWARDS JAPAN 2026, Japan’s biggest international music awards show, has unveiled its nominees across 63 categories ahead of the June 13 ceremony. MUSIC AWARDS JAPAN (MAJ) is built around the concept of “Connecting with the world, illuminating the future of music.” Now in its second year, this year’s ceremony spans 77 categories across genres and national borders. In the six major categories — Song of the Year (100 songs), Artist of the Year (100 artists), Album of the Year (100 albums), New Artist of the Year (50 artists), Best Global Hit from Japan (100 songs), and Best Song Asia (21 songs) — five nominees were selected from each category’s entry pool. At the nomination announcement event held in Tokyo on April 30, this year’s MAJ Ambassadors, Kento Nakajima and Mei Hata, took to the stage.",
-      "published_at": "Fri, 08 May 2026 00:53:25 GMT",
-      "collected_at": "2026-05-11 04:45:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "日本國際音樂獎項「MUSIC AWARDS JAPAN 2026」公布了多個類別的提名名單，但新聞內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 52,
-    "report_date": "2026-05-14",
-    "total_articles": 9,
+    "id": 53,
+    "report_date": "2026-05-15",
+    "total_articles": 11,
     "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "今日娛樂新聞主要報導國際藝人動態，如Michael Jackson專輯重回榜單前十、Justin Bieber與Nicki Minaj的最新榜單表現，以及歐美明星的多元活動。然而，在今日搜集到的所有新聞中，並未發現任何與華語天王周杰倫直接相關的報導或最新動態。因此，今日無周杰倫的特別焦點新聞可供摘要。",
+    "negative_count": 1,
+    "neutral_count": 10,
+    "daily_summary": "今日搜集到的新聞報導中，經仔細審閱，並未發現任何與華語流行天王周杰倫直接相關的焦點或事件。儘管娛樂圈今日不乏其他國際巨星的動態，如麥可傑克森家族的法律糾紛、多位歐美歌手發行新專輯、以及各項頒獎典禮與品牌活動的明星亮相，但周杰倫本人或其作品、家庭生活等，皆未在本次提供的資料中被提及。因此，今日針對周杰倫的專屬新聞摘要，將著重於說明本次新聞來源中並無其最新動態。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫相關報導",
+      "今日無周杰倫焦點",
+      "未有周杰倫新動態"
     ],
-    "created_at": "2026-05-14 04:31:25"
+    "created_at": "2026-05-15 04:37:38"
   },
   "recentReports": [
+    {
+      "id": 53,
+      "report_date": "2026-05-15",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 10,
+      "daily_summary": "今日搜集到的新聞報導中，經仔細審閱，並未發現任何與華語流行天王周杰倫直接相關的焦點或事件。儘管娛樂圈今日不乏其他國際巨星的動態，如麥可傑克森家族的法律糾紛、多位歐美歌手發行新專輯、以及各項頒獎典禮與品牌活動的明星亮相，但周杰倫本人或其作品、家庭生活等，皆未在本次提供的資料中被提及。因此，今日針對周杰倫的專屬新聞摘要，將著重於說明本次新聞來源中並無其最新動態。",
+      "key_events": [
+        "無周杰倫相關報導",
+        "今日無周杰倫焦點",
+        "未有周杰倫新動態"
+      ],
+      "created_at": "2026-05-15 04:37:38"
+    },
     {
       "id": 52,
       "report_date": "2026-05-14",
@@ -661,17 +676,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-05-09 04:05:42"
-    },
-    {
-      "id": 46,
-      "report_date": "2026-05-08",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Shakey Graves' very best Austin day - Axios、KJ Apa Calls Out Mr Fantasy After 'Do Me Right' Music Video, Says He Stole His Image & Ruined His Reputation - Just Jared、Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - WUKY",
-      "created_at": "2026-05-08 04:00:25"
     }
   ]
 }
