@@ -2,25 +2,17 @@
   "todayStats": {
     "total": 11,
     "positive": 0,
-    "negative": 1,
-    "neutral": 10
+    "negative": 0,
+    "neutral": 11
   },
   "allTimeStats": {
-    "total": 1187,
+    "total": 1198,
     "positive": 338,
     "negative": 47,
-    "neutral": 802,
+    "neutral": 813,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-01",
-      "total": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-02",
       "total": 9,
@@ -132,9 +124,171 @@
       "negative": 1,
       "neutral": 10,
       "avg_score": 0.47
+    },
+    {
+      "date": "2026-05-16",
+      "total": 11,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 11,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1188,
+      "title": "The Jackson Estate’s war for control continues as ‘Michael’ soars at box office - NBC News",
+      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/michael-jackson-estate-war-paris-legal-win-on-the-lot-newsletter-rcna345221",
+      "source": "Tavily (www.nbcnews.com)",
+      "snippet": "IE 11 is not supported. For an optimal experience visit our site on another browser. # The Jackson Estate’s war for control continues as ‘Michael’ soars at box office. Michael Jackson’s daughter, Paris, claimed a legal win earlier this week in her ongoing dispute against her father’s estate. Jaafar Jackson attends the \"Michael\" premiere in Los Angeles.Savion Washington / Getty Images for Lionsgate. Add NBC News to Google. With Lionsgate’s Michael Jackson biopic set to surpass $600 million at the global box office this weekend, you’d think they’d be popping champagne over at the late music icon’s estate. But a messy dispute between Jackson’s daughter, **Paris**, and his estate’s executors, entertainment lawyer **John Branca** and music executive **John McClain**, has taken some of the fizz out of the celebration. We are getting your experience ready.",
+      "published_at": "Fri, 15 May 2026 19:00:40 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於麥可傑克森遺產的內部爭議，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1189,
+      "title": "15 Albums Out This Week You Should Listen to Now - Pitchfork",
+      "link": "https://pitchfork.com/news/15-new-albums-you-should-listen-to-now-kevin-morby-drake-smerz-and-more/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "# 15 New Albums You Should Listen to Now: Kevin Morby, Drake, Smerz, and More. Also stream new releases from Dua Saleh and Jeff Parker. This week’s batch includes new albums from Kevin Morby, Drake, Smerz, and Jeff Parker. Subscribe to Pitchfork’s* *New Music Friday newsletter* *to get our recommendations in your inbox every week. *Little Wide Open*, Kevin Morby’s eighth solo LP, looks back on his time on the road as an adult, swishing between the freedom it offers, the unknowns that always come knocking, and a new factor: looming fatherhood that puts it all in perspective. *Happy Today*, Jeff Parker’s third album with his ETA quartet, is a spellbinding document of his role at the heart of the Chicago hub where diverse players “have converged to create wildly accessible improvised music,” as Grayson Haver Currin writes in a new profile of Parker.",
+      "published_at": "Fri, 15 May 2026 14:57:01 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Pitchfork文章介紹了本週發行的15張新專輯，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1190,
+      "title": "Watch Every Video From Drake’s New Albums - Pitchfork",
+      "link": "https://pitchfork.com/news/watch-every-video-from-drakes-new-albums/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "A series of visuals from *Iceman*, *Habibti*, and *Maid of Honour*. Drake is back with his first solo album since 2023’s *For All the Dogs*… and his second, and his third. After months of teasing a new LP, *Iceman*, he revealed on a live stream that he had two more albums dropping last night, *Habibti* and *Maid of Honour*. He has also been hard at work shooting a string of music videos: During the show, he premiered several shorts that are largely set in his Toronto hometown, which trickled onto his YouTube page overnight. The short for “Janice STFU”—a song that seemingly interpolates Lykke Li’s “I Follow Rivers”—alternates between opulent restaurant scenes and a garage of vintage luxury cars; “Little Birdie” features a dance sequence by a fully clothed man vamping for the staff of a strip club; and “Burning Bridges” appears to be an excuse for Drake and a few dozen pals to throw a massive, chandelier-lit party.",
+      "published_at": "Fri, 15 May 2026 12:43:29 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了饒舌歌手Drake發行三張新專輯《Iceman》、《Habibti》和《Maid of Honour》，並公開了多支音樂錄影帶的內容。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1191,
+      "title": "Drake Finally Unveils ‘Iceman’ — and Surprise Drops 2 More Albums - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-three-albums-habibti-maid-of-honour-1235563246/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "At the end of the *Iceman* livestream, Drake pulled out three hard drives, and text on the screen revealed: “I made this so that I could make this.” Another display showed the title of two more surprise albums: *Habibti* and *Maid Of Honour*. The back-to-back records arrive with mountains of anticipation, as Drake’s first solo album after his 2024 feud with Kendrick Lamar, whose diss track “Not Like Us” won multiple Grammys and reframed the chart-topping rapper’s public image for the worst. Drake does not mince words about his feelings on Lamar and the earth-rattling diss track “Not Like Us,” which cast Drake as a “Certified Pedophile.” An understandably angered Drake takes multiple opportunities to poke at Kendrick’s public image with lines like “White kids listen to you cuz they feelin’ some guilt,” as well as lines appearing to claim that 100 million streams for Lamar disappeared from the count, contributing to his ongoing claims that UMG engaged in fraudulent bot-ing to boost the song’s popularity.",
+      "published_at": "Fri, 15 May 2026 04:01:42 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Drake發行新專輯並回應與Kendrick Lamar的爭議，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1192,
+      "title": "Avex 2025 Revenues Near $1 Billion on Strength in Live Entertainment - Billboard",
+      "link": "https://www.billboard.com/pro/avex-2025-revenues-near-1-billion/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "The Japanese publishing company reported $971 million in sales for its fiscal year 2025 as revenue from live events grew by 17%. Japanaese publishing company Avex Inc. said on Friday (May 15) the company generated $971 million in revenue in its latest fiscal year, showing double-digit growth from the prior fiscal year delivered higher income from concerts by artists like **XG**. Revenue from Avex’s Music business, which includes Kehlani co-writer Kamal Wilson, Drake co-writer Elkan and Tate McRae co-writer Grant Boutin on its roster, was up 6.8% $810 million driven primarily by 17.4% growth in live-related revenue of $354 million. Revenue from Avex Music’s digital music distribution business also increased by 12.5% to $103 million on increased streaming. The company returned to profitability reversing a $12 million loss in fiscal 2024 to generate $27 million in operating profit in fiscal 2025, as the music group notched momentum-building wins like signing Bruno Mars to a global music publishing administration partnership starting this summer.",
+      "published_at": "Fri, 15 May 2026 16:30:38 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導日本愛貝克思（Avex）公司在2025財年因現場娛樂和數位音樂業務增長而營收接近10億美元並恢復盈利，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1193,
+      "title": "See Chaka Khan up close at this intimate Oakland performance - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/chaka-khan-oakland-kaiser-22255347.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# See Chaka Khan up close at this intimate Oakland performance. But for one night in Oakland, the 10-time Grammy-winning diva is trading arena-sized spectacle for something more intimate. Kaiser Center for the Arts’ Conversations in Music series promises a stripped-down evening of acoustic performance and unscripted storytelling, giving fans a rare chance to hear Khan, born Yvette Marie Stevens, reflect on a career that has shaped generations of R&B, funk and pop. Mariecar Mendoza is the senior arts and entertainment editor for the San Francisco Chronicle, where she manages daily coverage and audience engagement for Datebook and datebook.sfchronicle.com. Prior to The Chronicle, Mariecar was a features digital editor for the Los Angeles News Group, helping cover major pop culture moments in the region like Coachella and Comic-Con to the Emmys and Oscars. Mariecar is a Bay Area native and is glad to be back home.",
+      "published_at": "Wed, 13 May 2026 16:30:16 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於歌手Chaka Khan在奧克蘭的親密演出，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1194,
+      "title": "Lady Gaga Concert Film ‘Mayhem Requiem’ to Premiere on Apple Music and Show for One Night Only in AMC Theaters - Variety",
+      "link": "https://variety.com/2026/music/news/lady-gaga-mayhem-requiem-film-apple-music-amc-theaters-1236745440/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Lady Gaga Concert Film ‘Mayhem Requiem’ to Premiere on Apple Music and Show for One Night Only in AMC Theaters. Lady Gaga has announced that her long-awaited “Apple Music Live: Lady Gaga Mayhem Requiem” will be released on Apple Music on Thursday at 8 p.m. PT/11 p.m. ET, and will also debut at the same time during one-night-only screenings at 15 AMC Theaters in select cities. Directed and produced by Morningview, “Apple Music Live: Lady Gaga Mayhem Requiem” is a filmed live performance of a one-off show that Gaga staged at Los Angeles’ Wiltern on January 14. “Apple Music Live: Lady Gaga Mayhem Requiem” is being billed as the “final chapter of her Mayhem era,” according to a release. For those who can’t attend the screenings, “Apple Music Live: Lady Gaga Mayhem Requiem” will premiere concurrently on Apple Music as a livestream that does not require a subscription.",
+      "published_at": "Tue, 12 May 2026 15:00:00 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於女神卡卡（Lady Gaga）的演唱會電影《Mayhem Requiem》將在Apple Music首播並於AMC影院限時上映，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1195,
+      "title": "Drake Is Back With Three New Albums: 'Iceman,' ‘Maid of Honour’ & ‘Habibti’ | Billboard News - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/videos/drake-back-three-albums-iceman-235926775.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "## Entertainment:. * Drake drops 3 new albums. * Shakira's World Cup song. # Drake Is Back With Three New Albums: 'Iceman,' ‘Maid of Honour’ & ‘Habibti’ | Billboard News. Add Yahoo as a preferred source to see more of our stories on Google. Drake returns by releasing three new albums 'Iceman,' 'Maid of Honour' and 'Habibti,' there are references to BTS, takes shots at DJ Khaled and Lebron James and he reignites his feud with Kendrick Lamar with a new collaboration with Future with \"Run to Atlanta\" off of 'Iceman' and more!",
+      "published_at": "Fri, 15 May 2026 23:59:26 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於饒舌歌手Drake發行三張新專輯，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1196,
+      "title": "Gracie Abrams, Drake, Tove Lo & More: New Music Friday Guide - Billboard",
+      "link": "https://www.billboard.com/music/music-news/gracie-abrams-drake-new-music-friday-guide-1236246816/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Gracie Abrams, Drake, Tove Lo & More: New Music Friday Guide. *Billboard’s* Friday Music Guide serves as a handy guide to New Music Friday’s most essential releases each week — the key music that everyone will be talking about today, and that will be dominating playlists this weekend and beyond. Gracie Abrams’ now longtime collaborator Aaron Dessner wasn’t playing when he spoke about the singer’s upcoming album in an Instagram caption earlier this week: “You’ll hear us expanding our musical vocabulary and pushing into uncharted waters sonically…it feels elevated in every way.” Lead single “Hit the Wall” is an airy and lyrically loaded track, with lines like, “A room full of doctors and an inkblot/ I’m drawn into headlights, have a blind spot” or, “I live in a pattern of breakdowns/ You’ll bend to my silence, it’s so loud.” The track arrives as the perfect connector for where Abrams has been and where she is heading — and proves that if this is her starting point, *Daughter From Hell* is surely going to hurt like hell.",
+      "published_at": "Fri, 15 May 2026 04:40:15 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Billboard文章主要介紹了Gracie Abrams、Drake等多位西方藝人的最新音樂發行，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1197,
+      "title": "Maluma, Drake, Gracie Abrams & More: Which Is Your Favorite New Music Release This Week? Vote! - Billboard",
+      "link": "https://www.billboard.com/music/music-news/new-music-maluma-drake-madonna-best-new-release-poll-1236249170/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Maluma, Drake, Gracie Abrams & More: Which Is Your Favorite New Music Release This Week? This week also saw new music from Madonna, Shaggy, Lucki and more. Drake dominates this New Music Friday with a trio of solo studio albums: *Iceman, Habibti* and *Maid of Honour*. ### Gracie Abrams, Drake, Maluma & More: New Music Friday Guide. ### Drake Returns With Three New Albums as ‘Iceman,’ ‘Maid of Honour’ & ‘Habibti’ Arrive: Stream Them Now. Latin superstar Maluma also shared his new album *Loco X Volver*, sharpening his focus on his family and Colombian roots. Over on the singles side, Madonna and Peggy Gou teamed up for a bouncy remix of the Queen of Pop’s “I Feel So Free” from the upcoming *Confessions II*. Gracie Abrams also delivered with “Hit the Wall,” the lead track from her forthcoming album *Daughter From Hell*. Which new release this week is your favorite?",
+      "published_at": "Fri, 15 May 2026 19:07:56 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要討論Maluma、Drake、Gracie Abrams等藝人的新音樂發行，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1198,
+      "title": "Breaking down Drake’s Temu haul of an album drop - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-15/drake-iceman-maid-of-honour-habibti-breakdown-review",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "After spending the better part of a year teasing his first solo album since 2023 — and his first, more importantly, since losing the epic rap battle that climaxed with Kendrick Lamar’s “Not Like Us” — Drake finally dropped “Iceman” late Thursday along with two *other* albums whose existence took much of the world by surprise: “Maid of Honour” and “Habibti.”. Clearly, the sheer volume and breadth of music here is meant to serve as a kind of shock-and-awe campaign designed to jolt us back to a time when Drake seemed to rule over not just hip-hop but all of pop music. We should say that Drake’s guests on the albums include 21 Savage, Central Cee, Sexyy Red, Popcaan and Future, the last of whom appears on “Iceman” in a song called “Ran to Atlanta” — a clear callback to Kendrick’s line in “Not Like Us” where he accuses Drake of scurrying to the Southern rap capital any time he’s in need of some street cred.",
+      "published_at": "Fri, 15 May 2026 17:30:10 GMT",
+      "collected_at": "2026-05-16 04:10:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於饒舌歌手Drake發行新專輯及其與Kendrick Lamar的饒舌大戰，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1177,
       "title": "Michael Jackson's daughter is proclaiming a big legal victory over the Thriller superstar's estate Read more below. - facebook.com",
@@ -400,178 +554,39 @@
       "summary": "此新聞報導關於John Legend將在2026年林肯表演藝術中心夏季晚會上表演，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1176,
-      "title": "Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal - Variety Australia",
-      "link": "https://au.variety.com/2026/music/news/sony-publishing-acquire-recognition-fleetwood-mac-beyonce-36451/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "# Sony Publishing to Acquire Recognition Music in Billion-Plus Dollar Deal, Including Songs by Fleetwood Mac, Beyonce, Lady Gaga. As expected, Sony Music Publishing has announced an agreement to acquire the complete music rights portfolio of Recognition Music Group from funds managed by Blackstone, subject to customary closing conditions. The deal will see Sony Music Publishing acquiring Recognition’s entire catalog of works, which includes shares in more than 45,000 songs, among them Journey’s “Don’t Stop Believin’,” Red Hot Chili Peppers’ “Under the Bridge,” Fleetwood Mac’s “Go Your Own Way,” Beyoncé’s “Single Ladies (Put A Ring On It),” Bruno Mars’ “Locked Out of Heaven,” Leonard Cohen’s “Hallelujah,” Chic’s “Good Times,” Soundgarden’s “Black Hole Sun,” Lady Gaga’s “Bad Romance,” Bon Jovi’s “Livin’ On A Prayer,” Rihanna’s “Umbrella,” Eurythmics’ “Sweet Dreams (Are Made Of This),” Shakira’s “Whenever, Wherever,” Steve Winwood’s “Higher Love” and Mariah Carey’s “All I Want For Christmas Is You,” among many others. The deal is in partnership with the investment venture announced earlier this year between GIC and Sony Music Group, focused on acquiring music catalog assets across genres and international markets. The transaction follows Sony Music Publishing’s previous acquisition of Hipgnosis Songs Group in 2025, reflecting its continued collaboration with Recognition and Blackstone.",
-      "published_at": "Mon, 11 May 2026 22:12:20 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Sony Music Publishing宣布將收購Recognition Music Group的音樂版權組合，其中包括多位國際知名藝人的歌曲，但與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1159,
-      "title": "Blxst Sets June 12 Release for Self-Produced Album ‘Labor of Love’ - foxy99.com",
-      "link": "https://foxy99.com/2026/05/12/blxst-sets-june-12-release-for-self-produced-album-labor-of-love/",
-      "source": "Tavily (foxy99.com)",
-      "snippet": "# Blxst Sets June 12 Release for Self-Produced Album ‘Labor of Love’. ## GRAMMY-nominated West Coast artist Blxst has announced his new album, Labor of Love, set for release June 12 via EMPIRE and International BLXST. Fully self-produced, the project marks a deliberate…. Fully self-produced, the project marks a deliberate departure from the character-driven, concept-heavy approach of his 2024 album, *I'll Always Come Find You*, shifting instead toward raw, unfiltered storytelling rooted in his real life. \"But for who and whatever you got love for, just make sure you show up committed. *Labor of Love* is a story of discipline, sacrifice, and the daily work of balancing a high-profile music career with fatherhood. To celebrate the announcement, Blxst hosted a community pop-up at Harun Coffee in Leimert Park in Los Angeles, offering free coffee to mothers as a labor of love. If you a mom yourself or you know a mom, make sure you pull up on Sunday from 12 to 2.",
-      "published_at": "Wed, 13 May 2026 00:14:32 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，內容主要報導藝人Blxst將發行新專輯《Labor of Love》。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1160,
-      "title": "Jeff Ross on 'The Roast of Kevin Hart' and His Favorite Cut Joke - Variety",
-      "link": "https://variety.com/2026/tv/news/jeff-ross-roast-kevin-kart-cut-joke-1236745425/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Jeff Ross on the ‘Real Tension’ Behind the ‘Roast of Kevin Hart,’ His Favorite Cut Joke and Who He Wants to Skewer Next (EXCLUSIVE). It wouldn’t be a roast without the Roastmaster General. Jeff Ross came out guns blazing at Netflix’s live skewering of Kevin Hart, the second installment in a series of “GOAT” roasts that was hosted by Shane Gillis. Dressed in a replica of Eddie Murphy’s red leather getup from “Delirious,” Ross needled Hart about going to a Diddy party, his “pieces of shit” movies and his upbringing. An admittedly hungover Ross called up *Variety* to break down the edgiest moments of the three-hour broadcast, the joke that didn’t make it to air and who he wants to roast next. When somebody says, “You look like the inside of a clam,” do you think about that when you’re brushing your teeth at night? ##### You were in the bathroom when Kevin was roasting you.",
-      "published_at": "Tue, 12 May 2026 01:02:25 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於Jeff Ross參與Kevin Hart的喜劇脫口秀，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1161,
-      "title": "Ferragamo Names Chinese Actor Johnny Huang Global Brand Ambassador - wwd.com",
-      "link": "https://wwd.com/fashion-news/fashion-scoops/actor-johnny-huang-named-ferragamo-global-ambassador-1238949752/",
-      "source": "Tavily (wwd.com)",
-      "snippet": "### Chanel Gives Color-filled Read of Its Signs and Symbols in New High Jewelry Collection. # Ferragamo Names Chinese Actor Johnny Huang Global Brand Ambassador. Huang, who boasts 20 million followers on Weibo, will soon appear in the Chinese drama “Our Dazzling Days” and the third chapter of the drama movie “Pegasus 3.”. * Share this article on Facebook. * Share this article on X. * Share this article on Flipboard. * Share this article on Talk. He gained international fame in 2018 thanks to his role in the action movie “Operation Red Sea.”  The same year he was bestowed with the “Best Newcomer” prize at the 13th Asian Film Awards and “Best Actor in a Chinese Contemporary TV Series” at the 24th Huading Awards. The men’s roster of ambassadors at Ferragamo also includes Italian ski champion Alberto Tomba, who fronted the first chapter of Ferragamo’s “Legends, Reimagined” project, and NCT member Jeno Lee as its first global male brand ambassador.",
-      "published_at": "Mon, 11 May 2026 16:54:30 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Ferragamo宣布中國演員黃景瑜擔任其全球品牌大使，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1162,
-      "title": "These Billionaires Were Raised By Single Mothers - Forbes",
-      "link": "https://www.forbes.com/sites/gigizamora/2026/05/10/mothers-of-success-these-single-moms-raised-billionaires/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "## From Elon Musk to Jay-Z, these members of the Forbes list have an extra reason to be thankful for this Mother’s Day. In the case of these billionaires, it was actually a great mother who helped them defy the odds to join the three-comma club. Meanwhile two of the most famous self-made women billionaires on the planet got their starts as single moms: Diane Hendricks, who got pregnant as a teen, divorced her baby’s father young and went on to support her son by becoming a Playboy Bunny and working in real estate before remarrying, while single mom JK Rowling was on welfare when she wrote the *Harry Potter* series. After his father walked out on the family, Jay-Z’s mother, Gloria Carter, worked for the city of New York and as a security guard to bring up the rap legend in Brooklyn’s Marcy projects.",
-      "published_at": "Sun, 10 May 2026 00:00:00 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此文章討論由單親母親撫養長大的億萬富翁，但內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1163,
-      "title": "Hayden Panettiere Details ‘Shocking’ Moment She Was Put in Bed at 18 with an ‘Undressed’ and ‘Very Famous’ Man on a Boat - AOL.com",
-      "link": "https://www.aol.com/articles/hayden-panettiere-details-shocking-moment-165708005.html",
-      "source": "Tavily (www.aol.com)",
-      "snippet": "# Hayden Panettiere Details ‘Shocking’ Moment She Was Put in Bed at 18 with an ‘Undressed’ and ‘Very Famous’ Man on a Boat. * Hayden Panettiere said she was “quite literally out to sea” when she realized she was “in danger” during the encounter. * The actress recalled being led into a small room and placed in a bed next to an “undressed” and “very famous” man. During the Monday, May 11 episode of Jay Shetty’s podcast, *On Purpose with Jay Shetty*, the actress, 36, discussed a chapter from her upcoming memoir, *This Is Me: A Reckoning*, in which she recounts being placed in an uncomfortable and frightening situation aboard a boat when she was 18. “She physically put me in the bed next to this undressed man who was very famous,” Panettiere said, adding that he appeared to behave “like this was just an average day for him.”.",
-      "published_at": "Mon, 11 May 2026 16:57:08 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於女演員Hayden Panettiere分享其不愉快經歷，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1164,
-      "title": "Stephen Colbert Answers Questions From Jay Leno, Jimmy Kimmel, Seth Meyers & More Late-Night Hosts | THR Video - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/video/stephen-colbert-answers-questions-from-jay-leno-jimmy-kimmel-seth-meyers-more-late-night-hosts/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "Subscribe for full access to The Hollywood Reporter. ## Video. # Stephen Colbert Answers Questions From Jay Leno, Jimmy Kimmel, Seth Meyers & More Late-Night Hosts | THR Video. Ahead of the end of *The Late Show*, host Stephen Colbert sat down to answer questions from his fellow current and former late-night hosts, including Jay Leno, Jimmy Fallon, Jimmy Kimmel, Seth Meyers, Conan O’Brien, James Corden and Trevor Noah on set of his *The Hollywood Reporter* cover shoot. * ### Richard Gadd on the Inspiration for 'Half Man,' 'Baby Reindeer' Success, What Makes Him Laugh & More | THR Video. * ### THR Power Stylists: The Pros Behind Kate Hudson, Chase Infiniti & More Stars' Iconic Looks | THR Video. * ### THR Power Stylists: Kate Hudson With Stylist Sophie Lopez | THR Video. The Hollywood Reporter is a part of Penske Media Corporation. © 2026 The Hollywood Reporter, LLC. THE HOLLYWOOD REPORTER is a registered trademark of The Hollywood Reporter, LLC.",
-      "published_at": "Wed, 06 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Stephen Colbert接受其他深夜節目主持人提問的內容，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1165,
-      "title": "Jamie Foxx, Kevin Hart Surprise Crowd During Ludacris Set at Carbone Beach Event in Miami - billboard.com",
-      "link": "https://www.billboard.com/culture/product-recommendations/jamie-foxx-kevin-hart-ludacris-carbone-beach-miami-1236239833/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Jamie Foxx, Kevin Hart Surprise Crowd During Ludacris Set at Carbone Beach Event in Miami. Ludacris surprised a star-studded crowd in Miami over the weekend as American Express and Carbone returned for the fifth year of their “Carbone Beach” dinner series on the sand. “I’ve got some surprises,” the rapper teased midway through his set, before bringing out Fat Joe to perform “Lean Back” and “All the Way Up.” The cameos continued as Wyclef Jean appeared on stage to perform the Fugees’ hit, “Ready or Not,” while Miami local DJ Khaled joined Ludacris later on for the remix to their 2010 collab, “All I Do Is Win.”. The biggest surprise came toward the end of night as Ludacris spotted dinner guest Jamie Foxx in the audience and playfully goaded the actor into coming on stage to perform his song “Unpredictable,” which features a Ludacris rap verse.",
-      "published_at": "Wed, 06 May 2026 17:11:13 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Jamie Foxx和Kevin Hart在Ludacris的邁阿密Carbone Beach活動中驚喜現身，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1166,
-      "title": "Whitmire inks with MCA - Country Standard Time",
-      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=15939",
-      "source": "Tavily (www.countrystandardtime.com)",
-      "snippet": "**Monday, May 11, 2026** – Country traditionalist Kenny Whitmire signed with MCA, unveiled the song \"One Foot In The Grave\" and announced his debut EP, \"Fool In A King Size Bed,\" arriving June 12. Whitmire also released a video for the song. \"Signing with MCA is one of those moments you dream about as a kid,\" Whitmire said. \"To finally be here, putting out 'One Foot In The Grave' and announcing 'Fool In A King Size Bed,' it means a lot. Whitmire released \"Thought Twice About Loving You,\" the ballad \"You're Getting Colder,\" \"I Gave Her The Moon\" and \"Me Being Me\" earlier this year. \"'One Foot In The Grave' is simply about my love for country music,\" Whitmire said. \"My version of a 'Prop Me Up Beside The Jukebox' type song. I'm happy to have a song like this to put on my debut EP 'Fool In A King Size Bed'. Fool In A King Size Bed (Kenny Whitmire, Rhett Akins, Kat Higgins).",
-      "published_at": "Tue, 12 May 2026 03:07:21 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，內容主要報導鄉村歌手Kenny Whitmire簽約MCA並發行新歌與EP。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1167,
-      "title": "Sony Music Publishing Acquires Recognition Music Group - The Hollywood Reporter",
-      "link": "https://www.hollywoodreporter.com/music/music-industry-news/sony-music-publishing-acquires-recognition-music-1236592285/",
-      "source": "Tavily (www.hollywoodreporter.com)",
-      "snippet": "The deal gives Sony rights to 45,000 songs including hits from the likes of Red Hot Chili Peppers, Fleetwood Mac and Justin Bieber among others. Sony Music Publishing has officially acquired Recognition Music Group from Blackstone, the companies announced on Monday, giving Sony ownership of publishing catalogs from the likes of Justin Timberlake, Justin Bieber and the Red Hot Chili Peppers among many others. The company had been a major player in the catalog acquisition boom of the early 2020s, making deals with many hit songwriters and producers along with recording artists including a $200 million deal for Bieber’s publishing catalog and over $140 million for the Chili Peppers’. “Our investment in this extraordinary catalog reflects our belief in the enduring power of great music – a belief that resonates deeply throughout Sony Music Group and is shared by our partners at GIC,” Sony Music Publishing CEO Jon Platt said in a statement.",
-      "published_at": "Mon, 11 May 2026 16:17:45 GMT",
-      "collected_at": "2026-05-13 04:31:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Sony Music Publishing收購Recognition Music Group，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1152,
-      "title": "Kes Teases New Album; Talks Tiny Desk Debut & Hopping On Di Genius’ ‘Hill & Gully’ Riddim: ‘Nobody Expected That!’ - Billboard",
-      "link": "https://www.billboard.com/music/music-news/kes-new-album-tiny-desk-hill-gully-riddim-soca-music-1236244059/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Kes Teases New Album; Talks Tiny Desk Debut & Hopping On Di Genius’ ‘Hill & Gully’ Riddim: ‘Nobody Expected That!’. The Kes the Band frontman checks in with *Billboard* at the 2026 Saint Lucia Jazz & Arts Festival. There were still two more days of this year’s Saint Lucia Jazz & Arts Festival following Kes the Band’s terrific Friday night headlining set (May 8) — and the soca group cleared all the competition. Fronted by Kees Dieffenthaller, who also goes by Kes, the band delivered an hour of high-energy renditions of contemporary soca bangers like “Wotless,” “Savannah Grass” and “Cocoa Tea.” The festival stop is just the latest in a string of hectic periods for the band — including a pair of Jazz @ Lincoln Center shows in January and the forthcoming North American leg of its Roots, Rock, Soca Tour. “When I was coming down on the plane, I had the chance to have a one-on-one with Billy Ocean, who’s also from Trinidad.",
-      "published_at": "Mon, 11 May 2026 15:04:28 GMT",
-      "collected_at": "2026-05-12 04:25:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Kes the Band的新專輯和演出活動，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 53,
-    "report_date": "2026-05-15",
+    "id": 54,
+    "report_date": "2026-05-16",
     "total_articles": 11,
     "positive_count": 0,
-    "negative_count": 1,
-    "neutral_count": 10,
-    "daily_summary": "今日搜集到的新聞報導中，經仔細審閱，並未發現任何與華語流行天王周杰倫直接相關的焦點或事件。儘管娛樂圈今日不乏其他國際巨星的動態，如麥可傑克森家族的法律糾紛、多位歐美歌手發行新專輯、以及各項頒獎典禮與品牌活動的明星亮相，但周杰倫本人或其作品、家庭生活等，皆未在本次提供的資料中被提及。因此，今日針對周杰倫的專屬新聞摘要，將著重於說明本次新聞來源中並無其最新動態。",
+    "negative_count": 0,
+    "neutral_count": 11,
+    "daily_summary": "今日搜集到的娛樂新聞中，未有任何關於華語天王周杰倫的報導。當前業界主要焦點集中於西方樂壇動態，包括多位知名歌手如Drake發行新專輯、Michael Jackson遺產訴訟的最新進展，以及Sony音樂出版公司的大額收購案等，涵蓋了音樂發行、法律事件與商業交易等多個面向。",
     "key_events": [
-      "無周杰倫相關報導",
-      "今日無周杰倫焦點",
-      "未有周杰倫新動態"
+      "無周杰倫新聞",
+      "無相關報導",
+      "無重要事件"
     ],
-    "created_at": "2026-05-15 04:37:38"
+    "created_at": "2026-05-16 04:11:11"
   },
   "recentReports": [
+    {
+      "id": 54,
+      "report_date": "2026-05-16",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 11,
+      "daily_summary": "今日搜集到的娛樂新聞中，未有任何關於華語天王周杰倫的報導。當前業界主要焦點集中於西方樂壇動態，包括多位知名歌手如Drake發行新專輯、Michael Jackson遺產訴訟的最新進展，以及Sony音樂出版公司的大額收購案等，涵蓋了音樂發行、法律事件與商業交易等多個面向。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "無重要事件"
+      ],
+      "created_at": "2026-05-16 04:11:11"
+    },
     {
       "id": 53,
       "report_date": "2026-05-15",
@@ -661,21 +676,6 @@
         "無周杰倫新聞"
       ],
       "created_at": "2026-05-10 04:34:01"
-    },
-    {
-      "id": 47,
-      "report_date": "2026-05-09",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要娛樂焦點集中在Michael Jackson傳記電影的票房表現、Chris Brown新專輯發布、以及多位藝人的新音樂動態。目前周杰倫並無最新公開活動或作品消息。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-05-09 04:05:42"
     }
   ]
 }
