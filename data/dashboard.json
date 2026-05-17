@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 11,
+    "total": 4,
     "positive": 0,
     "negative": 0,
-    "neutral": 11
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 1198,
+    "total": 1202,
     "positive": 338,
     "negative": 47,
-    "neutral": 813,
+    "neutral": 817,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-02",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-03",
       "total": 5,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-17",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1199,
+      "title": "Michael Jackson Holds U.K. Albums Chart Crown as Compilation Scores Second Week at No. 1 - Billboard",
+      "link": "https://www.billboard.com/music/chart-beat/michael-jackson-number-1-uk-album-2026-biopic-1236249781/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Michael Jackson Holds U.K. Albums Chart Crown as Compilation Scores Second Week at No. 1. The singer's return to the top spot on the chart follows the release of the blockbuster biopic. Michael Jackson continues his renewed dominance on the U.K. charts, as *The Essential Michael Jackson* spends a second consecutive week at No. 1 on the Official Albums Chart dated May 15. The hit-packed release becomes the Irish boyband’s 15th top 10 LP in the U.K. Renewed interest in Jackson’s catalogue follows the blockbuster *Michael* biopic, which has fueled strong streaming and physical sales across the singer’s discography in recent weeks. *The Essential* returned to No. 1 for the first time in 17 years on the previous chart frame (May 8) and now extends its reign atop the summit. The record becomes the band’s third U.K. Top 10 entry, following 2007 breakthrough *The State of Things* and 2023 release *Heatwave in the Cold North*. ### Get in the know on.",
+      "published_at": "Sat, 16 May 2026 14:12:31 GMT",
+      "collected_at": "2026-05-17 04:40:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森的專輯在英國排行榜上取得佳績，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1200,
+      "title": "Drake Is Back With Three New Albums: 'Iceman,' ‘Maid of Honour’ & ‘Habibti’ - Billboard",
+      "link": "https://www.billboard.com/video/drake-is-back-with-three-new-albums-iceman-maid-of-honour-and-habibti/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Drake Is Back With Three New Albums: ‘Iceman,’ ‘Maid of Honour’ & ‘Habibti’ | Billboard News. Drake returns by releasing three new albums ‘Iceman,’ ‘Maid of Honour’ and ‘Habibti.’ There are references to BTS and shots at DJ Khaled and LeBron James, and he reignites his feud with Kendrick Lamar through a new collaboration with Future on “Run to Atlanta” from ‘Iceman’ and more! So Drake just released a lot of new music, and besides name-dropping global superstars BTS on the track “Make Them Cry” that has left the fellas and their fans maybe a little confused, he also decided to bring 2024 back and his beef with K-Dot. He dropped a track that features Future, a frequent Drake collaborator who was also on a Kendrick diss track, and of course the title “Ran to Atlanta” references the famous “Not Like Us” lyric.",
+      "published_at": "Sat, 16 May 2026 00:44:05 GMT",
+      "collected_at": "2026-05-17 04:40:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國歌手Drake發行三張新專輯並提及他與Kendrick Lamar的恩怨，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1201,
+      "title": "Jay Fortune's late goal helps Atlanta United earn 1-1 draw with Orlando City - The Washington Post",
+      "link": "https://www.washingtonpost.com/sports/soccer/2026/05/16/atlanta-united-orlando-city-score-mls/fc4ffcc6-5192-11f1-97e7-22c6c29ff0d8_story.html",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# Jay Fortune's late goal helps Atlanta United earn 1-1 draw with Orlando City. Jay Fortune scored late in the second half to rally Atlanta United to a 1-1 draw with Orlando City. — Jay Fortune scored late in the second half to rally Atlanta United to a 1-1 draw with Orlando City on Saturday night. Fortune used assists from defenders Matthew Edwards and Stian Gregersen in the 86th minute to score for the second time this season and the fourth time in 64 career appearances. Both defenders checked into the match in the 68th minute before notching their first assists this season. Subscribe for unlimited access to The Post. Trump’s China summit shows toll of a difficult year for the president. Carolyn Hax chat: I’m 18, and I’m leaving my parents. 5 foods to support strong bones. She was deported without her toddler. Then ICE blamed her for his killing. In northern Ukraine, it was boy vs.",
+      "published_at": "Sun, 17 May 2026 01:52:07 GMT",
+      "collected_at": "2026-05-17 04:40:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於足球員 Jay Fortune 在足球賽中進球，與華語歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1202,
+      "title": "The hottest party in NYC this week was the premiere of a new YouTube show from the 'Subway Takes' creator - Business Insider",
+      "link": "https://www.businessinsider.com/youtube-premiere-kareem-rahma-adam-faze-keep-the-meter-running-2026-5",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "# The hottest party in NYC this week was the premiere of a new YouTube show from the 'Subway Takes' creator. * He premiered it at a theater in New York City. * Let me take you inside the creator-studded night, complete with taxi cabs and a swanky after-party. This week, I headed to a packed movie theater in downtown New York City for the world premiere of \"Keep the Meter Running,\" one of several shows YouTube announced at its star-studded Upfronts presentation. You go home, you sit on your couch, you open the YouTube app, and you watch this television show the same way that you would any other television show,\" Kareem Rahma, the creator and host of \"Keep the Meter Running,\" told the packed theater. \"If this is a web series, then so is every show on Netflix and every show on HBO Max because it's all the internet now,\" said Adam Faze, who produced the show alongside Rahma.",
+      "published_at": "Sat, 16 May 2026 09:11:01 GMT",
+      "collected_at": "2026-05-17 04:40:35",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導與周杰倫無關，主要講述YouTube新節目《Keep the Meter Running》在紐約的首映會。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1188,
       "title": "The Jackson Estate’s war for control continues as ‘Michael’ soars at box office - NBC News",
@@ -498,80 +554,39 @@
       "summary": "這則新聞報導了Paris Jackson在與Michael Jackson遺產執行人的金錢糾紛中獲勝，但內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1172,
-      "title": "Global 200: Justin Bieber and Nicki Minaj Hold the Crown - Live India",
-      "link": "https://liveindia.tv/entertainment/billboard-global-charts-justin-bieber-retains-no-1/",
-      "source": "Tavily (liveindia.tv)",
-      "snippet": "# Billboard Global Charts: Justin Bieber Retains #1; These Are Top Artists. The latest Billboard Global charts (dated May 16, 2026) show a mix of 2010s nostalgia, K-pop dominance, and a massive resurgence for the King of Pop. While **Justin Bieber** continues his global reign, the real story lies in the “biopic boost” currently fueling **Michael Jackson’s** legendary catalog. ## **Global 200: Justin Bieber and Nicki Minaj Hold the Crown**. Justin Bieber’s **“Beauty and a Beat,”** featuring Nicki Minaj, celebrates its second consecutive week at **No. 1** on the Billboard Global 200. * **The Coachella Factor:** The song’s resurgence is largely credited to Bieber’s performance at the **Coachella Valley Music and Arts Festival** in April, reminding global audiences of the 2013 hit. Following the April 24 premiere of the biopic ***Michael***, Jackson’s hits are flooding the charts at levels not seen since the digital era began. * **Historical Context:** These are Jackson’s **first-ever Top 10 hits** on the Global 200 since the chart’s inception in 2020.",
-      "published_at": "Tue, 12 May 2026 05:26:35 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導Justin Bieber、Nicki Minaj和Michael Jackson在Billboard全球榜單上的表現。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1173,
-      "title": "Jay Z, Jimmy Fallon lead NBA playoffs celebrity sightings - ESPN India",
-      "link": "https://www.espn.in/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
-      "source": "Tavily (www.espn.in)",
-      "snippet": "Welcome to ESPN India Edition. Celebrities at the NBA playoffs: Jay Z, Jimmy Fallon and more. NBA playoff takeaways: Thunder handle Lakers in Game 2; Pistons take 2-0 series vs. Latest NBA buzz: Everything we're hearing ahead of the offseason, draft. NBA draft lottery preview: Potential picks and what we're hearing about the top 14 teams. # Jay Z, Jimmy Fallon lead NBA playoffs celebrity sightings. The stars are out at the 2026 NBA playoffs. Given that opening slate of games included two matchups at Madison Square Garden and the Crypto.com Arena, it's no surprise that the NBA playoffs had stars to spare off the bat. > — NBA (@NBA) May 5, 2026. ## Tina Fey, Timothée Chalamet, Kylie Jenner, Ben Stiller. > BIG PAPI 🫶 CELTICS@davidortiz in the building for Game 5! > A post shared by NBA (@nba). > David Robinson and Tim Duncan in the building for Game 1 in San Antonio!",
-      "published_at": "Fri, 08 May 2026 10:19:02 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於NBA季後賽的名人現身，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1174,
-      "title": "Jay Gillian reelected to 5th term as Ocean City, New Jersey mayor - CBS News",
-      "link": "https://www.cbsnews.com/philadelphia/video/jay-gillian-reelected-to-5th-term-as-ocean-city-new-jersey-mayor/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "* Send Us a News Tip. # Jay Gillian reelected to 5th term as Ocean City, New Jersey mayor. It is looking like Jay Gillian will lead Ocean City for a fifth term. He is the projected winner in the city's mayoral election.",
-      "published_at": "Wed, 13 May 2026 11:18:00 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Jay Gillian連任新澤西州海洋城市長，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1175,
-      "title": "John Legend to Play Lincoln Center for the Performing Arts 2026 Summer Gala - Billboard",
-      "link": "https://www.billboard.com/music/music-news/john-legend-lincoln-center-2026-summer-gala-1236246926/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# John Legend to Play Lincoln Center for the Performing Arts 2026 Summer Gala. Lincoln Center for the Performing Arts’ 2026 Summer Gala is set to be legendary. John Legend will help kick off the Summer for the City festival on June 1 with a performance at David Geffen Hall in Manhattan, *Billboard* can exclusively reveal. The EGOT-winning, Billboard Hot 100-topping artist joins the roster of a gala that is set to fete ballet trailblazer Misty Copeland (the first Black woman promoted to principal dancer at the American Ballet Theatre) with the inaugural Lincoln Center luminary award, as well as honor Andreas C. The Summer Gala and public concert raise funds to support Lincoln Center for the Performing Arts (a nonprofit organization) in its mission to provide free and pay-what-you-choose arts programming that’s accessible to everyone. You can get more information about the Summer for the City series of programming at the Lincoln Center’s website.",
-      "published_at": "Wed, 13 May 2026 15:05:13 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於John Legend將在2026年林肯表演藝術中心夏季晚會上表演，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 54,
-    "report_date": "2026-05-16",
-    "total_articles": 11,
+    "id": 55,
+    "report_date": "2026-05-17",
+    "total_articles": 4,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日搜集到的娛樂新聞中，未有任何關於華語天王周杰倫的報導。當前業界主要焦點集中於西方樂壇動態，包括多位知名歌手如Drake發行新專輯、Michael Jackson遺產訴訟的最新進展，以及Sony音樂出版公司的大額收購案等，涵蓋了音樂發行、法律事件與商業交易等多個面向。",
+    "neutral_count": 4,
+    "daily_summary": "今日娛樂新聞搜羅結果顯示，並無關於華語樂壇天王周杰倫的任何相關報導。儘管新聞標題中出現了多位名為「Jay」的人物，例如足球員Jay Fortune、體育評論員Jay Williams、饒舌巨星Jay Z、政治人物Jay Gillian、脫口秀主持人Jay Leno，以及足球運動員Jay Bothroyd等，但這些人物均非周杰倫本人。因此，今日的娛樂焦點並未涵蓋周杰倫的最新動態、作品發行或任何個人事件，整體新聞內容與他無關。今日的娛樂版面主要聚焦於其他國際藝人的專輯發行、法律糾紛及演唱會消息。",
     "key_events": [
       "無周杰倫新聞",
-      "無相關報導",
-      "無重要事件"
+      "今日無焦點",
+      "無相關動態"
     ],
-    "created_at": "2026-05-16 04:11:11"
+    "created_at": "2026-05-17 04:40:53"
   },
   "recentReports": [
+    {
+      "id": 55,
+      "report_date": "2026-05-17",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "今日娛樂新聞搜羅結果顯示，並無關於華語樂壇天王周杰倫的任何相關報導。儘管新聞標題中出現了多位名為「Jay」的人物，例如足球員Jay Fortune、體育評論員Jay Williams、饒舌巨星Jay Z、政治人物Jay Gillian、脫口秀主持人Jay Leno，以及足球運動員Jay Bothroyd等，但這些人物均非周杰倫本人。因此，今日的娛樂焦點並未涵蓋周杰倫的最新動態、作品發行或任何個人事件，整體新聞內容與他無關。今日的娛樂版面主要聚焦於其他國際藝人的專輯發行、法律糾紛及演唱會消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無焦點",
+        "無相關動態"
+      ],
+      "created_at": "2026-05-17 04:40:53"
+    },
     {
       "id": 54,
       "report_date": "2026-05-16",
@@ -661,21 +676,6 @@
         "無相關報導"
       ],
       "created_at": "2026-05-11 04:45:52"
-    },
-    {
-      "id": 48,
-      "report_date": "2026-05-10",
-      "total_articles": 2,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的音樂發行、電影傳記、頒獎活動及個人生活動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及多位歌手發布新專輯等。周杰倫方面今日無新消息。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無周杰倫新聞",
-        "無周杰倫新聞"
-      ],
-      "created_at": "2026-05-10 04:34:01"
     }
   ]
 }
