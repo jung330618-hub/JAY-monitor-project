@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 4,
-    "positive": 0,
+    "total": 6,
+    "positive": 1,
     "negative": 0,
-    "neutral": 4
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1202,
-    "positive": 338,
+    "total": 1208,
+    "positive": 339,
     "negative": 47,
-    "neutral": 817,
+    "neutral": 822,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-03",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-04",
       "total": 5,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-18",
+      "total": 6,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.58
     }
   ],
   "recentArticles": [
+    {
+      "id": 1203,
+      "title": "Paris Jackson scores $625K legal win against lawyers, gains more control over family assets - New York Post",
+      "link": "https://nypost.com/2026/05/14/entertainment/paris-jackson-scores-625k-legal-win-against-lawyers-gains-more-control-over-family-assets/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "The court sustained Paris’ objection to the bonuses paid by executors John Branca and John McClain — who she claims are abusing their positions — to attorneys for the Jackson estate during the second half of 2018, and the judge ruled Paris can seek reasonable attorneys’ fees and costs. “Ms. Jackson’s objection to the $625,000 of bonus payments made in the second six months of 2018 is sustained. After months of engaging in sexist, scorched-earth tactics against a beneficiary, it’s time for John Branca to acknowledge his many missteps and act in the best interest of the family he has a fiduciary duty to protect.”. “And, to be clear, none of the $625,000 in bonuses – which represent only a small fraction of the Estate’s expenses for the period in question —  were paid to the executors, and the court did not in any way say that the executors had made any inappropriate payments to themselves,” the statement continues.",
+      "published_at": "Thu, 14 May 2026 05:00:31 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Paris Jackson在家族資產訴訟中獲勝，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1204,
+      "title": "US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​ - Reuters",
+      "link": "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
+      "source": "Tavily (www.reuters.com)",
+      "snippet": "# US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​ | Reuters. ## Browse World. # US accuses Iraqi man of helping Iran-backed militia's plans for attacks in US, Europe​. Image 2: Jay Clayton, United States Attorney for the Southern District of New York, speaks during a press conference in New York City. Jay Clayton, United States Attorney for the Southern District of New York, speaks during a press conference in New York City, U.S., December 10, 2025. May 15 (Reuters) - An Iraqi national ​accused of involvement in multiple attacks against U.S. interests in Europe has been ‌arrested and brought to the U.S. to face six terrorism-related counts, the U.S. Justice Department said on Friday. Al-Saadi ​is accused of coordinating or supporting nearly 20 attacks and attempted attacks across ⁠Europe and the United States, \"including his efforts to kill on U.S. soil,\" said U.S. ​Attorney Jay Clayton for the Southern District of New York in a statement. *   About Reuters, opens new tab.",
+      "published_at": "Sat, 16 May 2026 03:24:59 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導美國指控一名伊拉克男子協助伊朗支持的民兵策劃在美國和歐洲的襲擊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1205,
+      "title": "‘Michael’ reclaims the top box office spot in its 4th weekend - Bozeman Daily Chronicle",
+      "link": "https://www.bozemandailychronicle.com/ap_news/business/michael-reclaims-the-top-box-office-spot-in-its-4th-weekend/article_45cc4635-c3a3-527d-93f6-7528043b65bc.html",
+      "source": "Tavily (www.bozemandailychronicle.com)",
+      "snippet": "You have permission to edit this article. Jaafar Jackson arrives at the premiere of \"Michael\" on Monday, April 20, 2026, at the Dolby Theatre in Los Angeles. This image released by Amazon Content Services shows Kara Young, left, and Mallori Johnson in a scene from \"Is God Is.\". # ‘Michael’ reclaims the top box office spot in its 4th weekend. ## The Michael Jackson biopic, “Michael,” is reclaiming the top spot in the North American box office. # Let the news come to you. After two weeks trailing “The Devil Wears Prada 2,” the Michael Jackson biopic “Michael” reclaimed the No. 1 spot at the North American box office with $26.1 million in ticket sales, according to studio estimates Sunday. Subscribe now for full access to local reporting, breaking news, and more. An email message containing instructions on how to reset your password has been sent to the email address listed on your account. Your purchase was successful, and you are now logged in.",
+      "published_at": "Sun, 17 May 2026 15:43:52 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可傑克森傳記電影《Michael》重回北美票房冠軍，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1206,
+      "title": "2026 ACM Awards Red Carpet Photos: Kacey Musgraves, Kane Brown & More - Deadline",
+      "link": "https://deadline.com/gallery/academy-of-country-music-awards-2026-red-carpet-photos-amazon-prime-video/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### Sophie Okonedo Says Taking ‘Clarissa’ From Nigeria To Cannes Made Her Cry Tears Of Joy; Directors Arie and Chuko Esiri Are “Very Singular With Their Vision”. # Academy Of Country Music Awards 2026 Red Carpet Photos: Kacey Musgraves, Kane Brown, Shaboozey, Riley Green, Shania Twain, Kelsea Ballerini & More. Hosted by Shania Twain, the MGM Grand Arena in Las Vegas is where it is all taking place, with country stars like Cody Johnson, Kacey Musgraves, Lainey Wilson, Little Big Town, Miranda Lambert, and Riley Green set to perform during the live event. It’s such an honor to be part of this incredible night celebrating Country Music’s biggest stars, especially with so many talented women leading nominations this year. **Scroll through the photos below to see all the looks from the 2026 ACM Awards.**. * ## ACM Awards 2026 Red Carpet Photos. * ### Canal+ Says It Won’t Work With Signatories Of Anti-Bolloré Petition. ## Site.",
+      "published_at": "Sun, 17 May 2026 23:31:34 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於2026年ACM鄉村音樂獎的紅毯照片與表演者，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1207,
+      "title": "Celebrities Front Row at Gucci Cruise 2027 Collection [PHOTOS] - WWD",
+      "link": "https://wwd.com/eye/people/gallery/celebrities-front-row-gucci-cruise-2027-collection-1238956908/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "* ## Front Row at Gucci 2027 Cruise Collection Show. Shawn Mendes, Mariah Carey, Kim Kardashian and Anna Wintour. Cass Bird and Jenna Lyons. Sydney Carlson and Devon Lee Carlson. Inez van Lamsweerde and Vinoodh Matadin. Steven Kolb and Willy Chavarria. Carine Roitfeld and Olivier Zahm.",
+      "published_at": "Sun, 17 May 2026 14:36:05 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導了多位名人出席Gucci 2027早春系列時裝秀，但內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1208,
+      "title": "Harry Styles Makes a Triumphant Comeback in Amsterdam Tour Opener - Rolling Stone",
+      "link": "https://www.rollingstone.com/music/music-live-reviews/harry-styles-triumphant-amsterdam-tour-opener-review-1235563977/",
+      "source": "Tavily (www.rollingstone.com)",
+      "snippet": "“I got older and the stage got bigger,” singer says as his Together, Together Tour kicks off in Amsterdam. It’s an absolute pleasure to be here with you this evening. This is Night One of the Together, Together Tour.” Harry Styles is back, all right. Harry celebrated the start of his massive new Together, Together run with a crowd of 56,000 frenzied fans. If anyone needed proof, one of the countless peaks of this show: “Treat People With Kindness,” a song nobody saw coming, but one that exploded into a jubilant sing-along — the anthem that made the fans on the floor throw their bags and coats in a pile so they could join hands and dance in a witchy circle around it.",
+      "published_at": "Sun, 17 May 2026 13:14:09 GMT",
+      "collected_at": "2026-05-18 04:51:52",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "哈利·史泰爾斯在阿姆斯特丹成功開啟了他的「Together, Together」巡演，現場氣氛熱烈，粉絲反應狂熱。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 1199,
       "title": "Michael Jackson Holds U.K. Albums Chart Crown as Compilation Scores Second Week at No. 1 - Billboard",
@@ -470,108 +554,39 @@
       "summary": "這篇新聞報導了紐約市芭蕾舞團的春季晚會及出席的名人，但內容中並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1186,
-      "title": "Katseye Announces ‘Wildworld’ 2026 Tour Dates - Variety",
-      "link": "https://variety.com/2026/music/news/katseye-wildworld-2026-tour-dates-1236747302/",
-      "source": "Tavily (variety.com)",
-      "snippet": "Katseye have announced dates for the “Wildworld” tour, taking the group to North America, the U.K. and Europe this fall. Produced by Live Nation, the run will kick off on September 1 at Dublin’s 3Arena, with North American dates launching October 13 in Miami at Kaseya Center and before wrapping in Mexico City on November 27. Tickets will first be available starting with a Weverse Artist Presale (details below) beginning Wednesday, May 20, at 11:00 AM local time, followed by the Katseye.World Presale at 3:00 PM local time. The Weverse Artist Presale, available to paid Weverse membership holders, will take place on Wednesday, May 20, from 11:00 AM – 2:00 PM local time. The tour will also offer VIP experiences to take your concert experience to the next level, available for purchase via Katseye’s Weverse Shop (EU, UK, MX, CA) and KATSEYE’s Official Store (US), beginning Thursday, May 21. This presale will take place on Wednesday, May 20, from 3:00 PM – 10:00PM local time.",
-      "published_at": "Wed, 13 May 2026 13:27:04 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了女子團體Katseye的「Wildworld」巡迴演唱會日期及售票資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1187,
-      "title": "Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’ - Variety",
-      "link": "https://variety.com/2026/music/news/drake-releases-iceman-habibti-maid-of-honour-albums-1236749401/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Drake Drops 'Iceman' Plus Surprise Albums 'Habibti,' 'Maid of Honour'. *   Plus Icon What To Watch. *   Plus Icon What To Hear. Plus Icon Click to expand the Mega Menu. # Drake Releases New Album ‘Iceman’ — Plus Two More Surprise Albums, ‘Habibti’ and ‘Maid of Honour’. Image 2: TORONTO, ON - OCTOBER 24: Drake poses for a photo in the suite during Game One of the 2025 World Series presented by Capital One between the Los Angeles Dodgers and the Toronto Blue Jays at Rogers Centre on Friday, October 24, 2025 in Toronto, Ontario, Canada. Drake dropped not just one, but three new albums on Friday, releasing “Iceman” as expected at midnight ET, along with “Maid of Honour” and “Habibti.”. But Drake announced that the trio of projects would drop simultaneously as his “Iceman Episode 4” livestream finished, revealing the album titles and the message, “All 3 albums dropping at midnight from the biggest sound.” He then unveiled the album cover images with individual posts on Instagram.",
-      "published_at": "Fri, 15 May 2026 04:02:17 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於歌手Drake發行三張新專輯，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1168,
-      "title": "Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - VPM",
-      "link": "https://www.vpm.org/npr-news/2026-05-07/noah-kahan-gets-a-no-1-album-at-last-while-michael-jackson-reenters-the-top-10",
-      "source": "Tavily (www.vpm.org)",
-      "snippet": "# Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10. Noah Kahan's coronation as an A-list superstar is complete, as *The Great Divide* debuts atop the *Billboard* 200 albums chart — and all of its songs land on this week's Hot 100. That record has sat on the *Billboard* 200 albums chart for more than three years — and in 2024, its title track became his first top 10 hit. But it's never taken him all the way to the top of the albums chart, until now. His fourth album, *The Great Divide*, debuts at No. 1 this week thanks to blockbuster sales — 175,000 copies sold — and the biggest streaming numbers for any record released this year. Consider this: On the day of *The Great Divide*'s release, Kahan's label dropped a deluxe edition (*The Great Divide: The Last of the Bugs*) on streaming services, expanding the album from 17 songs to 21.",
-      "published_at": "Thu, 07 May 2026 15:09:01 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導Noah Kahan專輯奪冠及Michael Jackson重回榜單，未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1169,
-      "title": "Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10 - Boise State Public Radio",
-      "link": "https://www.boisestatepublicradio.org/music/2026-05-07/noah-kahan-gets-a-no-1-album-at-last-while-michael-jackson-reenters-the-top-10",
-      "source": "Tavily (www.boisestatepublicradio.org)",
-      "snippet": "# Noah Kahan gets a No. 1 album at last, while Michael Jackson reenters the top 10. Noah Kahan's coronation as an A-list superstar is complete, as *The Great Divide* debuts atop the *Billboard* 200 albums chart — and all of its songs land on this week's Hot 100. That record has sat on the *Billboard* 200 albums chart for more than three years — and in 2024, its title track became his first top 10 hit. But it's never taken him all the way to the top of the albums chart, until now. His fourth album, *The Great Divide*, debuts at No. 1 this week thanks to blockbuster sales — 175,000 copies sold — and the biggest streaming numbers for any record released this year. Consider this: On the day of *The Great Divide*'s release, Kahan's label dropped a deluxe edition (*The Great Divide: The Last of the Bugs*) on streaming services, expanding the album from 17 songs to 21.",
-      "published_at": "Thu, 07 May 2026 19:08:08 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導Noah Kahan的專輯首次登上Billboard 200專輯榜冠軍，以及Michael Jackson重回前十名，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1170,
-      "title": "Equinox Gold acquires Orla Mining in $5.1 billion consolidation, backed by Pierre Lassonde - KITCO",
-      "link": "https://www.kitco.com/news/article/2026-05-13/equinox-gold-acquires-orla-mining-51-billion-consolidation-backed-pierre",
-      "source": "Tavily (www.kitco.com)",
-      "snippet": "##### Kitco News The Leading News Source in Precious Metals. Kitco NEWS has a diverse team of journalists reporting on the economy, stock markets, commodities, cryptocurrencies, mining and metals with accuracy and objectivity. Jeremy Szafron joins Kitco News as an anchor and producer from Kitco’s Vancouver bureau. Jeremy began his career in 2006 as a Journalist at CTV (Canada’s largest network), initially engaging audiences as an entertainment reporter before pivoting to business reporting focusing on mining and small-caps. A graduate of Concordia University with a BA in Journalism, Jeremy's academic background laid the foundation for his diverse and dynamic career. Now, as an Anchor at Kitco News, Jeremy will continue to inform a global audience of the latest developments and critical themes in finance and commodities. Kitco Metals Inc. and the author of this article do not accept culpability for losses and/ or damages arising from the use of this publication.",
-      "published_at": "Wed, 13 May 2026 12:40:00 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Kitco News的記者團隊、新主播Jeremy Szafron的背景，以及Equinox Gold收購Orla Mining的金融資訊，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1171,
-      "title": "Paris Jackson Scores Big $$$ Win in Fight With Michael's Estate, Judge Praises Executors - TMZ",
-      "link": "https://www.tmz.com/2026/05/13/paris-jackson-court-victory-over-michael-jackson-estate/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Paris Jackson Scores Big $$$ Win in Fight With Michael's Estate, Judge Praises Executors. **Paris Jackson** scored a major win in her battle over money spent by the executors running her late father **Michael Jackson**'s estate -- while the executors also received praise for their work ... According to court docs, obtained by TMZ, a Los Angeles judge ruled that $625K in bonuses -- paid by executors **John Branca** and **John McClain** to third-party law firms -- will have to be returned to the estate. The rep added, “While the Court has previously approved several other bonuses to outside counsel over the years for their extraordinary services, and this was the first time they were the subject of objections, the Executors have always understood that legal fees are subject to court approval and have always required outside counsel to agree to return any funds to the estate if the payments were not approved.” The rep pointed out the bonuses were not paid to the executors themselves but rather to outside law firms.",
-      "published_at": "Wed, 13 May 2026 15:22:23 GMT",
-      "collected_at": "2026-05-14 04:30:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Paris Jackson在與Michael Jackson遺產執行人的金錢糾紛中獲勝，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 55,
-    "report_date": "2026-05-17",
-    "total_articles": 4,
-    "positive_count": 0,
+    "id": 56,
+    "report_date": "2026-05-18",
+    "total_articles": 6,
+    "positive_count": 1,
     "negative_count": 0,
-    "neutral_count": 4,
-    "daily_summary": "今日娛樂新聞搜羅結果顯示，並無關於華語樂壇天王周杰倫的任何相關報導。儘管新聞標題中出現了多位名為「Jay」的人物，例如足球員Jay Fortune、體育評論員Jay Williams、饒舌巨星Jay Z、政治人物Jay Gillian、脫口秀主持人Jay Leno，以及足球運動員Jay Bothroyd等，但這些人物均非周杰倫本人。因此，今日的娛樂焦點並未涵蓋周杰倫的最新動態、作品發行或任何個人事件，整體新聞內容與他無關。今日的娛樂版面主要聚焦於其他國際藝人的專輯發行、法律糾紛及演唱會消息。",
+    "neutral_count": 5,
+    "daily_summary": "今日搜集的新聞中，未發現與周杰倫直接相關的報導。主要焦點集中在其他國際藝人動態，例如麥可傑克森家族的法律訴訟與電影票房表現，以及饒舌歌手Drake驚喜發布三張新專輯的消息。此外，哈利史泰爾斯在阿姆斯特丹巡演的成功回歸、女神卡卡演唱會電影的發布計畫，以及多位明星出席時尚活動和頒獎典禮等娛樂圈事件也受到關注。整體而言，今日娛樂新聞涵蓋了音樂發行、法律糾紛及名人活動等多元面向，但周杰倫並非其中焦點。",
     "key_events": [
-      "無周杰倫新聞",
-      "今日無焦點",
-      "無相關動態"
+      "無周杰倫相關新聞",
+      "未發現周杰倫動態",
+      "今日無周杰倫焦點"
     ],
-    "created_at": "2026-05-17 04:40:53"
+    "created_at": "2026-05-18 04:52:25"
   },
   "recentReports": [
+    {
+      "id": 56,
+      "report_date": "2026-05-18",
+      "total_articles": 6,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集的新聞中，未發現與周杰倫直接相關的報導。主要焦點集中在其他國際藝人動態，例如麥可傑克森家族的法律訴訟與電影票房表現，以及饒舌歌手Drake驚喜發布三張新專輯的消息。此外，哈利史泰爾斯在阿姆斯特丹巡演的成功回歸、女神卡卡演唱會電影的發布計畫，以及多位明星出席時尚活動和頒獎典禮等娛樂圈事件也受到關注。整體而言，今日娛樂新聞涵蓋了音樂發行、法律糾紛及名人活動等多元面向，但周杰倫並非其中焦點。",
+      "key_events": [
+        "無周杰倫相關新聞",
+        "未發現周杰倫動態",
+        "今日無周杰倫焦點"
+      ],
+      "created_at": "2026-05-18 04:52:25"
+    },
     {
       "id": 55,
       "report_date": "2026-05-17",
@@ -661,21 +676,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-12 04:25:47"
-    },
-    {
-      "id": 49,
-      "report_date": "2026-05-11",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日新聞中未發現任何與周杰倫直接相關的報導或焦點事件。多數新聞聚焦於其他國際藝人的音樂發行、巡演、獎項提名及傳記電影等動態，例如麥可傑克森傳記電影上映後串流數據飆升，以及賈斯汀比伯和克里斯布朗等歌手的新作品。周杰倫今日並未出現在任何主要娛樂新聞頭條中。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無周杰倫動態",
-        "無相關報導"
-      ],
-      "created_at": "2026-05-11 04:45:52"
     }
   ]
 }
