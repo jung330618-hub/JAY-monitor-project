@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
-    "positive": 1,
+    "total": 4,
+    "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 1208,
+    "total": 1212,
     "positive": 339,
     "negative": 47,
-    "neutral": 822,
+    "neutral": 826,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-04",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-05",
       "total": 11,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.58
+    },
+    {
+      "date": "2026-05-19",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1209,
+      "title": "Celtics in no rush to give Jaylen Brown extension? - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/celtics-no-rush-jaylen-brown-204757149.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* The Kevin O'Connor Show. ### Indoor Football League: Vegas Knight Hawks-Orlando Pirates. # Celtics in no rush to give Jaylen Brown extension? > Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown’s trade value in the present even after his standout regular season in 2025-26. Quite simply, there’s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown. That’s not going to be the impetus for Stevens’ next big deal. He’s got bigger decisions to make for the present and making a decision on Brown’s long-term future doesn’t help him on that front. For that reason, don’t expect an extension to be among Stevens’ priorities this summer. *This article originally appeared on Hoops Hype: Celtics in no rush to give Jaylen Brown extension?*.",
+      "published_at": "Mon, 18 May 2026 20:47:57 GMT",
+      "collected_at": "2026-05-19 04:44:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於波士頓塞爾提克隊球員Jaylen Brown的合約延長，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1210,
+      "title": "Paris Jackson Asking For Extra $463K in Battle With Late Dad’s Estate - TMZ",
+      "link": "https://www.tmz.com/2026/05/18/paris-jackson-requesting-more-money-in-michael-jackson-estate-case/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "Last week, a Los Angeles judge sided with Paris when he ruled that $625K in bonuses paid to outside law firms that worked on the estate would have to be returned to the estate. **John Branca** and **John McClain**, the two executors in charge of **Michael Jackson**’s estate since his death in 2009, argued the bonuses paid to the third-party law firms were normal for the music industry ... At the time, the executors’ rep told TMZ, \"We are gratified that the Court itself recognized and praised the work of the Executors and its outside counsel in today's decision.\". The rep added, “While the Court has previously approved several other bonuses to outside counsel over the years for their extraordinary services, and this was the first time they were the subject of objections, the Executors have always understood that legal fees are subject to court approval and have always required outside counsel to agree to return any funds to the estate if the payments were not approved.”.",
+      "published_at": "Mon, 18 May 2026 17:30:52 GMT",
+      "collected_at": "2026-05-19 04:44:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於麥可傑克森遺產爭議，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1211,
+      "title": "Japan’s K2 Pictures Unveils $33M Fund & Slate Additions Including Takashi Miike’s Kabuki Documentary - Deadline",
+      "link": "https://deadline.com/2026/05/japan-k2-pictures-takashi-miike-shunji-iwai-hiroya-oku-1236907901/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### Bulgaria Triumphs At Eurovision Song Contest For First Time In Nation’s History. # Japan’s K2 Pictures Unveils $33M Fund   three are currently in post-production, and five films are scheduled for release between June and December 2026. Miike’s documentary – *Shumei – The Living Legacy of Kabuki* – about Kabuki actor Ichikawa Danjūrō XIII, is set for release in September 2026. K2 Pictures unveiled a trailer for the film at the press event in Cannes. Nagata is known for *Baka’s Identity*, which won Best Actor at last year’s Busan International Film Festival. *UFO Club*, a coming-of-age sci-fi that marks the feature-length debut of director Milena Kaneko and was selected for the projects market of this year’s Udine Far East Film Festival. ## Must Read Stories. ## Read More About:. ## Site.",
+      "published_at": "Sun, 17 May 2026 13:45:00 GMT",
+      "collected_at": "2026-05-19 04:44:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於日本K2 Pictures的3300萬美元基金及新片計畫，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1212,
+      "title": "Webtoon & Warner Bros. Expand Slate With Four New Titles - Deadline",
+      "link": "https://deadline.com/2026/05/webtoon-warner-bros-four-new-animated-projects-1236901355/",
+      "source": "Tavily (deadline.com)",
+      "snippet": "## site categories. ### Wanna Be Repayin’ Somethin’: Paris Jackson Claims “Massive Win” Over Michael Jackson Estate Lawyers’ Big-Bucks Bonuses. ## Breaking News. ### DC Studios   Peter Safran & Sam Register To Host Panel. ### Korean Webtoons Come To Film & TV: Studio N On 'Bloodhounds 2', 'The Legend of Kitchen Soldier' & 'The Remarried Empress'. She is trying to figure out how to stop herself from becoming a werewolf before the full moon. *Vampire Family* by unfins follows Natalia, a vampire desperate for a normal life, and who finally gets to go to school and has to navigate friendship in the human world. She is cursed to die at 19 unless she can find a way to break the spell and lift the deadly curse. * ### Paris Jackson Claims “Massive Win” Over Bonuses To Michael Jackson Estate Lawyers. ## Subscribe to Deadline. ## Site.",
+      "published_at": "Wed, 13 May 2026 22:04:35 GMT",
+      "collected_at": "2026-05-19 04:44:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導Webtoon與華納兄弟擴展新作品，以及其他娛樂新聞，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1203,
       "title": "Paris Jackson scores $625K legal win against lawyers, gains more control over family assets - New York Post",
@@ -498,80 +554,39 @@
       "summary": "此新聞主要探討音樂產業的變革與串流媒體的影響，提及多位藝人與公司，但未包含周杰倫的相關資訊。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1182,
-      "title": "Nicki Minaj Explained Why She Supports Donald Trump - Vulture",
-      "link": "https://www.vulture.com/article/nicki-minaj-why-donald-trump.html",
-      "source": "Tavily (www.vulture.com)",
-      "snippet": "Find this story in your account’s ‘Saved for Later’ section. In a new *Time*interview, Nicki Minaj says her newfound friendship with Donald Trump is, in part, an extension of her beef with Jay-Z. According to Minaj, Jay’s chumminess with former president Obama alienated a lot of the hip-hop community, herself included. “I think Jay-Z ended up costing Obama a lot, whether he knows it or not,” she says. “Lots of rappers don’t like Jay-Z and were afraid to say it.”. She discusses hiding her true political feelings for fear of turning off either fans or the music business in general. “I felt that way already about him, just that I didn’t dare act like that publicly,” Minaj says. “It’s been ingrained in everyone’s brain in the music business that we are supposed to be a Democratic family. By submitting your email, you agree to our  Terms and Privacy Notice and to receive email correspondence from us.",
-      "published_at": "Thu, 14 May 2026 01:19:18 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Nicki Minaj支持Donald Trump，並批評Jay-Z與Obama的關係疏遠了嘻哈社群，文中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1183,
-      "title": "The 2026-27 Disney Upfront was held at the Javits Center in New York City to celebrate the media company's upcoming programming, with stars from its shows in attendance. Read more below. - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/the-2026-27-disney-upfront-was-held-at-the-javits-center-in-new-york-city-to-cel/1332983388701998/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# The 2026-27 Disney Upfront was held... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. The 2026-27 Disney Upfront was held at the Javits Center in New York City to celebrate the media company's upcoming programming, with stars from its shows in attendance. Image 1: Disney’s 2026 Upfront Red Carpet Photos: Lindsay Lohan, Jay Ellis, Kit Harington, ‘9-1-1’s Ryan Guzman & Oliver Star, ‘Mormon Wives’ Stars & More. Disney’s 2026 Upfront Red Carpet Photos: Lindsay Lohan, Jay Ellis, Kit Harington, ‘9-1-1’s Ryan Guzman & Oliver Star, ‘Mormon Wives’ Stars & More.",
-      "published_at": "Wed, 13 May 2026 08:00:06 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導迪士尼前瞻會活動，並列出多位出席明星，但內容並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1184,
-      "title": "Jay Williams: The 76ers are 'stuck in purgatory' - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/48740669",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "# Jay Williams: The 76ers are 'stuck in purgatory' - ESPN Video. * Image 2BUF 2 * Image 3MTL 6. * Image 4VGK 3 * Image 5ANA 4. * Image 10WSH 2 * Image 11MIA 5. * Image 12ATH 1 * Image 13BAL 2. * Image 14COL 0 * Image 15PHI 6. * Image 16TB 4 * Image 17BOS 1. * Image 18LAA 6 * Image 19TOR 1. * Image 20HOU 0 * Image 21CIN 5. * Image 26SEA 1 * Image 27CHW 2. * Image 28CHC 0 * Image 29TEX 3. * Image 36STL 2 * Image 37SD 3. * Image 40BAR 2 * Image 41RMA 0. *   Image 104 1:02 ## Jay Williams: The 76ers are 'stuck in purgatory' Jay Williams: The 76ers are 'stuck in purgatory'. # Jay Williams: The 76ers are 'stuck in purgatory'. *   Image 105 1:51 ## Are Cowboys or Giants in a better position to make a statement in Week 1?",
-      "published_at": "Mon, 11 May 2026 12:42:45 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞內容主要關於體育評論員Jay Williams對76人隊的分析以及其他體育賽事，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1185,
-      "title": "All the Stars at the New York City Ballet Spring 2026 Gala - Harper's BAZAAR",
-      "link": "https://www.harpersbazaar.com/celebrity/red-carpet-dresses/a71252196/all-the-stars-red-carpet-photos-new-york-city-ballet-spring-2026-gala/",
-      "source": "Tavily (www.harpersbazaar.com)",
-      "snippet": "3. All the Stars at the New York City Ballet Spring 2026 Gala. Mick Jagger, Ashley Graham, Emmy Rossum, and more. Koch theater in Lincoln Center, as stars united for the New York City Ballet’s annual spring gala, titled “Set in Stone: Creation & Preservation.”. And the debut was followed by a special performance of *Diamonds*, the final act of George Balanchine’s 1967 ballet *Jewels,* with costumes made by Karinska. From the audience, stars like Ashley Graham, Emmy Rossum, Olivia Palermo, Fran Drescher, Diane Kruger, Sarah Hoover, and more took it all in. Not to mention, there was a special presentation from the honorary chair of the evening, Mick Jagger, who was joined on stage by surprise guest Jimmy Fallon (who managed to sneak in his best Jagger impression). Ahead, we’ve rounded up all the celebrities in attendance at the New York City Ballet 2026 Spring Gala.",
-      "published_at": "Fri, 08 May 2026 15:30:07 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了紐約市芭蕾舞團的春季晚會及出席的名人，但內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 56,
-    "report_date": "2026-05-18",
-    "total_articles": 6,
-    "positive_count": 1,
+    "id": 57,
+    "report_date": "2026-05-19",
+    "total_articles": 4,
+    "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日搜集的新聞中，未發現與周杰倫直接相關的報導。主要焦點集中在其他國際藝人動態，例如麥可傑克森家族的法律訴訟與電影票房表現，以及饒舌歌手Drake驚喜發布三張新專輯的消息。此外，哈利史泰爾斯在阿姆斯特丹巡演的成功回歸、女神卡卡演唱會電影的發布計畫，以及多位明星出席時尚活動和頒獎典禮等娛樂圈事件也受到關注。整體而言，今日娛樂新聞涵蓋了音樂發行、法律糾紛及名人活動等多元面向，但周杰倫並非其中焦點。",
+    "neutral_count": 4,
+    "daily_summary": "今日搜集到的新聞中，並無直接提及周杰倫的相關報導。多數新聞聚焦於其他歐美藝人如Michael Jackson家族的法律爭議、Drake發行新專輯，以及NBA球員和美國政治人物的動態等，周杰倫並非今日娛樂新聞的焦點。",
     "key_events": [
-      "無周杰倫相關新聞",
-      "未發現周杰倫動態",
-      "今日無周杰倫焦點"
+      "未有周杰倫報導",
+      "今日無相關事件",
+      "娛樂焦點非周董"
     ],
-    "created_at": "2026-05-18 04:52:25"
+    "created_at": "2026-05-19 04:44:48"
   },
   "recentReports": [
+    {
+      "id": 57,
+      "report_date": "2026-05-19",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "今日搜集到的新聞中，並無直接提及周杰倫的相關報導。多數新聞聚焦於其他歐美藝人如Michael Jackson家族的法律爭議、Drake發行新專輯，以及NBA球員和美國政治人物的動態等，周杰倫並非今日娛樂新聞的焦點。",
+      "key_events": [
+        "未有周杰倫報導",
+        "今日無相關事件",
+        "娛樂焦點非周董"
+      ],
+      "created_at": "2026-05-19 04:44:48"
+    },
     {
       "id": 56,
       "report_date": "2026-05-18",
@@ -661,21 +676,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-13 04:32:09"
-    },
-    {
-      "id": 50,
-      "report_date": "2026-05-12",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日搜集到的新聞中，未發現任何與華語流行天王周杰倫直接相關的報導。多數提及「Jay」的內容均指向其他西方藝人或人物，例如Jay Z、Jay Bothroyd或JayDon等，並非周杰倫本人。因此，今日無周杰倫的焦點新聞。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-12 04:25:47"
     }
   ]
 }
