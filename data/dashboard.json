@@ -6,21 +6,13 @@
     "neutral": 4
   },
   "allTimeStats": {
-    "total": 1212,
+    "total": 1216,
     "positive": 339,
     "negative": 47,
-    "neutral": 826,
+    "neutral": 830,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-05",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-06",
       "total": 12,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-20",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1213,
+      "title": "BTS Jung Kook's Debut \"CKJK\" Collaboration With Calvin Klein Is Here - Hypebeast",
+      "link": "https://hypebeast.com/2026/5/bts-jung-kook-debut-ckjk-calvin-klein-collaboration-release-info",
+      "source": "Tavily (hypebeast.com)",
+      "snippet": "# BTS Jung Kook's Debut \"CKJK\" Collaboration With Calvin Klein Is Here. ## The BTS superstar is channeling his personal aesthetic into a brand-new capsule collection featuring custom logos, leather jackets, and intimate wear. * BTS member Jung Kook is launching his debut collaborative collection with Calvin Klein, officially titled “CKJK”. * Blending the pop star’s personal aesthetic with the brand’s signature DNA, the collection boasts a distinct, edgy biker theme. * The extensive capsule includes both men’s and women’s apparel, featuring standout pieces like a premium leather jacket, brown denim, crop tops, and exclusive underwear styles. BTS superstar Jung Kook is officially taking his relationship with Calvin Klein to the next level. The highly anticipated collection—appropriately dubbed “CKJK”—merges Calvin Klein’s classic American DNA with Jung Kook’s signature edgy, biker-inspired personal style. Calvin Klein’s iconic underwear gets a highly personalized upgrade in the collection, arriving in new charcoal and cream colorways. ## First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein.",
+      "published_at": "Tue, 19 May 2026 06:18:48 GMT",
+      "collected_at": "2026-05-20 04:48:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於BTS成員Jung Kook與Calvin Klein的聯名系列「CKJK」發布，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1214,
+      "title": "Community news: Jay It Forward Giving Day raises over $300K, and more - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/2026/05/18/community-news-jay-it-forward-giving-day-raises-over-300k-and-more/",
+      "source": "Tavily (www.chicagotribune.com)",
+      "snippet": "Local News |   Community news: Jay It Forward Giving Day…. # Community news: Jay It Forward Giving Day raises over $300K, and more. Jay It Forward Giving Day 2026 at Elmhurst University raised $313,137 during the 24-hour fundraiser, thanks to more than 500 alums, friends and members of the campus community. “Jay It Forward Giving Day demonstrates the strength of the Elmhurst University community and our shared commitment to advancing the University’s future,” Lia Kampman, vice president for Institutional Advancement shared via a news release. The money will go toward athletics for EU’s 21 Division III teams for transportation, training equipment and other needs; the Learning and Success Academy, a post-secondary certificate program for young adults with differing abilities celebrating its 20th anniversary, for textbooks, digital learning tools and other resources; The Annual Fund, which provides student scholarships,program and operational costs and other university needs; and Choose Your Way to Jay It Forward, which supports university programs chosen by the donor, such as the Mill Theatre, Mock Trial program, academic areas, and Bluejay Nest Fund for student emergencies.",
+      "published_at": "Mon, 18 May 2026 15:52:20 GMT",
+      "collected_at": "2026-05-20 04:48:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於艾姆赫斯特大學的「Jay It Forward 捐贈日」籌款活動，與周杰倫本人無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1215,
+      "title": "How Jay Powell steered the Federal Reserve under fire from Donald Trump - Financial Times",
+      "link": "https://www.ft.com/content/b7d91c52-47b6-4bf6-bae9-18a847940c9a",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# How Jay Powell steered the Federal Reserve under fire from Donald Trump. Central bank chair’s tenure was marked by inflation shocks and his battle to protect the institution’s independence. * How Jay Powell steered the Federal Reserve under fire from Donald Trump on x (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on facebook (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on linkedin (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on whatsapp (opens in a new window). It also highlights how Powell, who was the target of a criminal investigation by Trump’s Department of Justice, has become a symbol of resistance to the president’s attacks on US institutions — at one point appearing in an extraordinary video rebuking Trump.",
+      "published_at": "Wed, 20 May 2026 04:00:27 GMT",
+      "collected_at": "2026-05-20 04:48:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "How Jay Powell steered the Federal Reserve under fire from Donald Trump - Financial Times",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1216,
+      "title": "Mobile Lifestyle and Allure of Fast Payouts Have South African Betting Apps Surging - TrendyHipHop",
+      "link": "https://www2.trendyhiphop.com/articles/mobile-lifestyle-and-allure-of-fast-payouts-have-south-african-betting-apps-surging/",
+      "source": "Tavily (www2.trendyhiphop.com)",
+      "snippet": "# Mobile Lifestyle and Allure of Fast Payouts Have South African Betting Apps Surging. ### Johnny Drille – Over The Moon Ft. Tiwa Savagee. ### Johnny Drille – What Is This Love ft. ### Famous Pluto – Work ft. ### Shakira – Dai Dai Ft. Burna Boy. ### DJ Tunez – State Of Mind Ft. Wizkid. ### Victor AD – Only God Ft. Timaya. ### Olamide – Rock Me Gentle. ### Johnny Drille – Colorado Ft. Ayra Starr & Young Jonn. ### Shoday – Come Kulosa Ft. Olamide & Billionboi. ### BNXN – Back Outside Ft. Sarz. ### Ice Prince – High Class Ft. Niniola. ### Asake – Worship ft. ### Asake – BADMAN GANGSTA Ft Tiakola. ### Asake – Skilful. ### Asake – Wa. ### Kuami Eugene – Promise Me Ft. Johnny Drille. ### Ice Prince – Basu Kidi. ### Teni – Zion Ft. Olamide. ### Noskiz – Paro Ft. Boy Muller. ### Asake Drops ‘M$ney’ Album, Takes Over Streaming Charts.",
+      "published_at": "Tue, 19 May 2026 12:48:05 GMT",
+      "collected_at": "2026-05-20 04:48:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導南非博弈應用程式的興起，並列舉了多位嘻哈/Afrobeats歌手及其歌曲，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1209,
       "title": "Celtics in no rush to give Jaylen Brown extension? - Yahoo Sports",
@@ -498,80 +554,39 @@
       "summary": "這則新聞報導了麥可傑克森的女兒派瑞絲傑克森在遺產訴訟中取得重大勝利，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1178,
-      "title": "Michael Jackson's Nephew Says His Father and Jackson Brothers Were Told They Were \"Worthless\" Without Star - Showbiz411",
-      "link": "https://www.showbiz411.com/2026/05/14/michael-jacksons-nephew-says-his-father-and-jackson-brothers-were-told-they-were-worthless-without-star",
-      "source": "Tavily (www.showbiz411.com)",
-      "snippet": "Support independent journalism, free from the trades and other publications that are part of the tinsel town machine. For 12 years, Showbiz411.com has been covering Hollywood, Broadway, the music business and the business of celebrity. # Michael Jackson’s Nephew Says His Father and Jackson Brothers Were Told They Were “Worthless” Without Star. Taj Jackson is one of three sons of the late Tito Jackson, one of Michael’s older brothers. On social media this morning, Taj answered a fan’s question bluntly about how the other brothers grew up with Michael as the star of family. Tito — an accomplished a guitarist — Marlon, Jackie, and Jermaine were the original members of the jackson 5 along with Michael. Despite Jermaine getting a singing part on the group’s hit “I’ll Be There,” he and the others were relegated to status of second class citizen. But Michael was cruel to his brothers when it came to their careers.",
-      "published_at": "Thu, 14 May 2026 15:11:13 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "負面",
-      "sentiment_score": 0.15,
-      "summary": "麥可傑克森的姪子塔吉傑克森透露，麥可的兄弟們曾被告知若沒有麥可這位巨星，他們就「一文不值」，且麥可對他們的事業發展很殘酷。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1179,
-      "title": "Paris Jackson claims 'massive win' in legal battle as Michael Jackson estate executors ordered to return $625,000 - Entertainment Weekly",
-      "link": "https://ew.com/paris-jackson-scores-win-in-legal-battle-with-michael-jackson-estate-executors-11974467",
-      "source": "Tavily (ew.com)",
-      "snippet": "# Paris Jackson scores big win in legal battle with Michael Jackson executors. # Paris Jackson claims 'massive win' in legal battle as Michael Jackson estate executors ordered to return $625,000. Image 3: Paris Jackson; Michael Jackson; John Branca:max_bytes(150000):strip_icc():format(webp)/Paris-Jackson-Michael-Jackson-John-Branca-051326-3839ea0cc9894afbb7d1605e6f484a92.jpg). Paris Jackson, Michael Jackson, and John Branca.Credit:. *   Paris Jackson scored a major win in her ongoing legal battle against the Michael Jackson estate. Paris Jackson has secured a key victory in her ongoing battle against the executors of father Michael Jackson's estate. The late King of Pop's eldest child has been in litigation against John Branca and John McClain, the executors of his sizable estate for years, over allegations that they made unauthorized bonus payments to their attorneys to the tune of several hundreds of thousands of dollars. Michael Jackson's daughter, Paris, suffers a setback in fight against her father’s estate Image 7: Michael Jackson and Paris Jackson:max_bytes(150000):strip_icc():format(webp)/Michael-Jackson-and-Paris-Jackson-111325-ee0378299f1c4fca8263df4ff06372ce.jpg)'Michael' fact vs.",
-      "published_at": "Thu, 14 May 2026 01:57:27 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞與周杰倫無關，主要報導了Paris Jackson在與Michael Jackson遺產執行人的法律戰中取得勝利。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1180,
-      "title": "Paris Jackson Wins Fight to Claw Back $625,000 in Bonuses Paid to Estate Lawyers: 'Massive Win' - Rolling Stone",
-      "link": "https://www.rollingstone.com/music/music-news/paris-jackson-michael-jackson-estate-bonuses-lawyers-1235562470/",
-      "source": "Tavily (www.rollingstone.com)",
-      "snippet": "\"The Jackson family will finally get the transparency and accountability measures Paris has fought for,\" said a spokesperson for the actress and musician. Paris Jackson has won her bid to force three lawyers to return $625,000 in bonuses paid by John Branca, the executor of her father’s estate. In a 23-page ruling, unsealed Tuesday and obtained by *Rolling Stone*, the retired judge, who long presided over Michael Jackson’s probate case and is now serving as a private referee on the complex case, granted Paris’ motion to claw back the 2018 payments. “Paris has always been focused on what’s best for her family, and this ruling is a massive win for them,” the statement said. A spokesperson for the estate issued a statement saying the executors disagreed with the retired judge’s decision but planned to “fully respect it.” The statement noted Beckloff praised the work of the executors, writing in his ruling that “there can be no dispute that under the expertise of the executors, this estate has transformed from teetering on the brink of bankruptcy in June of 2009 when Michael Jackson died to the financial powerhouse that it is today.”.",
-      "published_at": "Thu, 14 May 2026 03:49:05 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森的女兒Paris Jackson贏得一場法律訴訟，成功追回其父親遺產律師所收取的625,000美元獎金。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1181,
-      "title": "Larry Miller, NYU Music Business Professor: Fortt Knox Innovation Lab - CNBC",
-      "link": "https://www.cnbc.com/video/2026/05/09/larry-miller-nyu-music-business-professor-fortt-knox-innovation-lab.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Larry Miller, NYU Music Business Professor: Fortt Knox Innovation Lab. At the Amplify Music Investment Summit, NYU Professor Larry Miller calls streaming the biggest of a century's music disruptions, with catalogs fetching $1.3 billion-plus after peer-to-peer nearly gutted IP. Spotify won on UX where a sued-out Napster could have. China is now the fourth-largest market via ad tiers. Taylor Swift's clockwork releases and $2 billion-plus Eras Tour contrast Jay-Z's portfolio play across media and culture; Bad Bunny's Spanish Super Bowl drove streaming. The American consumer is unbelievably resilient, says Affirm CEO. Strategy CEO on selling bitcoin: When it's better than issuing equity to pay dividends, we'll do it. Underlying jobs market is still very weak despite strong report, says KPMG's Diane Swonk. Intel shares surge 15% on report of preliminary Apple chip deal. Lime files for IPO after years-long road to public markets.",
-      "published_at": "Sat, 09 May 2026 22:01:04 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要探討音樂產業的變革與串流媒體的影響，提及多位藝人與公司，但未包含周杰倫的相關資訊。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 57,
-    "report_date": "2026-05-19",
+    "id": 58,
+    "report_date": "2026-05-20",
     "total_articles": 4,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 4,
-    "daily_summary": "今日搜集到的新聞中，並無直接提及周杰倫的相關報導。多數新聞聚焦於其他歐美藝人如Michael Jackson家族的法律爭議、Drake發行新專輯，以及NBA球員和美國政治人物的動態等，周杰倫並非今日娛樂新聞的焦點。",
+    "daily_summary": "今日新聞搜尋中，並無直接關於周杰倫的報導。所有提及「Jay」的標題皆指向其他人物或事件，例如Jay Powell、Jaylen Brown、Jay Fortune、Jay Williams、Jay Z及Jay Gillian等，與周杰倫無關。",
     "key_events": [
-      "未有周杰倫報導",
-      "今日無相關事件",
-      "娛樂焦點非周董"
+      "無周杰倫新聞",
+      "今日無相關報導",
+      "其他Jay非本人"
     ],
-    "created_at": "2026-05-19 04:44:48"
+    "created_at": "2026-05-20 04:49:22"
   },
   "recentReports": [
+    {
+      "id": 58,
+      "report_date": "2026-05-20",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "今日新聞搜尋中，並無直接關於周杰倫的報導。所有提及「Jay」的標題皆指向其他人物或事件，例如Jay Powell、Jaylen Brown、Jay Fortune、Jay Williams、Jay Z及Jay Gillian等，與周杰倫無關。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "其他Jay非本人"
+      ],
+      "created_at": "2026-05-20 04:49:22"
+    },
     {
       "id": 57,
       "report_date": "2026-05-19",
@@ -661,21 +676,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-05-14 04:31:25"
-    },
-    {
-      "id": 51,
-      "report_date": "2026-05-13",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他國際藝人的專輯發行、頒獎典禮、巡演及個人動態，如麥可傑克森的傳記電影效應、克里斯布朗新專輯，以及多位藝人出席時尚活動等。",
-      "key_events": [
-        "無周杰倫報導",
-        "未見相關動態",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-13 04:32:09"
     }
   ]
 }
