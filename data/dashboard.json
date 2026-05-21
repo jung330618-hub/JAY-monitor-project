@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 4,
+    "total": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 4
+    "neutral": 6
   },
   "allTimeStats": {
-    "total": 1216,
+    "total": 1222,
     "positive": 339,
     "negative": 47,
-    "neutral": 830,
+    "neutral": 836,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-06",
-      "total": 12,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-07",
       "total": 7,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-21",
+      "total": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1217,
+      "title": "Happy 80th Birthday, Cher! See the Icon's Incredible Life and Career in Photos - People.com",
+      "link": "https://people.com/cher-career-life-in-photos-11978588",
+      "source": "Tavily (people.com)",
+      "snippet": "PEOPLE Dives Into Cher's Life and Career amid Her 80th Birthday in a New Special Edition. 17 Vintage Photos of a Young Janet Jackson and Her Famous Family. See the Biggest Accomplishments of Beyoncé and Jay-Z's 14-Year-Old Eldest Daughter. PEOPLE does not endorse the opinions and views shared by readers in our comment sections. By Zoey Lyttle, Stephanie Sengwe, and Brendan Le. See Harvey Keitel's Life in Photos as the Actor Turns 87 Today. Janet Jackson Celebrates Her 60th Birthday with an 'Outpouring of Love' from Friends, Including Sister La Toya. See the Grammy Winner's Cutest Family Pictures with Faith Hill and Their Three Daughters. See The Sweetest Family Photos of Richard Gere with His Wife Alejandra Silva and Their Children. Lizzo Gets a Kiss from Boyfriend Myke Wright in Sweet Moment from Her 38th Birthday Celebrations. Lizzo Celebrates 38th Birthday with Boyfriend Myke Wright at the Chateau Marmont in Los Angeles. Pierce Brosnan Celebrates His 73rd Birthday with Wife Keely Shaye in New Zealand.",
+      "published_at": "Wed, 20 May 2026 11:00:00 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於多位名人的生日慶祝與生活，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1218,
+      "title": "Macro strategist David Hunter warns of 80% market bust, 25% inflation as global debt math breaks - KITCO",
+      "link": "https://www.kitco.com/news/article/2026-05-20/macro-strategist-david-hunter-warns-80-market-bust-25-inflation-global-debt",
+      "source": "Tavily (www.kitco.com)",
+      "snippet": "##### Kitco News The Leading News Source in Precious Metals. Kitco NEWS has a diverse team of journalists reporting on the economy, stock markets, commodities, cryptocurrencies, mining and metals with accuracy and objectivity. Jeremy Szafron joins Kitco News as an anchor and producer from Kitco’s Vancouver bureau. Jeremy began his career in 2006 as a Journalist at CTV (Canada’s largest network), initially engaging audiences as an entertainment reporter before pivoting to business reporting focusing on mining and small-caps. A graduate of Concordia University with a BA in Journalism, Jeremy's academic background laid the foundation for his diverse and dynamic career. Now, as an Anchor at Kitco News, Jeremy will continue to inform a global audience of the latest developments and critical themes in finance and commodities. Kitco Metals Inc. and the author of this article do not accept culpability for losses and/ or damages arising from the use of this publication.",
+      "published_at": "Wed, 20 May 2026 21:42:14 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於宏觀策略師對市場崩潰和通膨的警告，以及Kitco新聞新主播的介紹，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1219,
+      "title": "Bob Baker Marionette Theater unleashes first new show in 40 years - Los Angeles Times",
+      "link": "https://www.latimes.com/0000019e-3c0d-df76-a5de-be4f81930000-123",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "Bob Baker Marionette Theater unleashes first new show in 40 years. The Bob Baker Marionette Theater’s “Choo Choo Revue” arrives at a pivotal time for the troupe, which is in the process of buying its Highland Park home. The show is a statement piece, its first new work in more than 40 years and first to be created without its legendary founder. Todd Martens is a features columnist at the Los Angeles Times who writes about theme parks and West Coast Experiences, among other topics. His weekly newsletter, Mr. Todd’s Wild Ride, covers the ever-changing world of theme parks from SoCal. Martens joined the Los Angeles Times in 2007 and has covered a mix of interactive entertainment as its game critic and pop music as a reporter and editor. Potts is the senior editor for video at the Los Angeles Times. He has created and edited video for DreamWorks, YouTube, Microsoft, Sony and BET.",
+      "published_at": "Wed, 20 May 2026 10:00:00 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於Bob Baker Marionette Theater推出新節目，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1220,
+      "title": "Nicki Minaj Says Her Loathing of Obama & Jay Z Spurred Her MAGA Pivot - TMZ",
+      "link": "https://www.tmz.com/2026/05/14/nicki-minaj-talks-maga-support/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Cardi B Explains Her Angry Outburst at Stefon Diggs Caught on Video. ### Nicki Minaj Says Her Loathing of Obama & Jay Z Spurred Her MAGA Pivot. ## Nicki Minaj I Went Full MAGA ... **Nicki Minaj** is shedding more light on why she turned to the MAGA side ... the mogul who she's accused of trying to sabotage her career. As she tells it, the former president is a huge sticking point for her for two reasons ... Basically, Nicki says she was embraced by the MAGA movement, including the late **Charlie Kirk**, when she began speaking out against Democrats ... and that's pretty much all she needed to go full-on red hat. she recently flaunted her new Trump Gold Card, which she said was gifted to her from the prez and allegedly grants her citizenship. Nicki Minaj   Jay-z   Kamala Harris   Barack Obama   Charlie Kirk   President Trump   Celebrity News   Musicians   Hip Hop   White House   Politics.",
+      "published_at": "Thu, 14 May 2026 13:41:11 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容提及美國饒舌歌手Jay Z，與華語歌手周杰倫無直接相關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1221,
+      "title": "Early 2010s pop star teasing a San Francisco move returns for another Bay Area concert - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/kesha-freedom-tour-concert-concord-22249253.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Early 2010s pop star teasing a San Francisco move returns for another Bay Area concert. Weeks after telling a San Francisco crowd she planned to move to the city, Kesha is heading back to the Bay Area for another performance. The “TiKToK” singer, who performed a pop-up DJ set at the Presidio earlier this month, is scheduled to headline a concert at the Toyota Pavilion at Concord on Wednesday, May 27, as part of her recently-launched Freedom Tour. Through her own label, Kesha Records, the singer has leaned back into the maximalist pop sound that made her a star while embracing a freer, more experimental style. She joined the Chronicle as a summer 2023 intern for the Datebook team. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief. BTS leader RM visited Stanford’s “Crying Tree,” recreating a famous meme by Epik High’s Tablo before the group’s final Bay Area concert.",
+      "published_at": "Wed, 20 May 2026 13:00:00 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於歌手Kesha在舊金山灣區的演唱會資訊，以及BTS成員RM的活動，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1222,
+      "title": "Lola Young returns to headline All Things Go Fest: ‘We have unfinished business' - NBC New York",
+      "link": "https://www.nbcnewyork.com/news/local/all-things-go-featival-lineup-lola-young/6503061/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "# Lola Young returns to headline All Things Go Fest: ‘We have unfinished business'. ## The British singer joins fellow headliners Zara Larsson, Brandi Carlile and MUNA. Lola Young has \"unfinished business\" with All Things Go Festival. The British singer and recent Grammy winner announced she will return to headline the annual fall music festival in Forest Hills, Queens. Young is not only back for the second year in a row, but she returns to headline the opening night of the festival on Sept. Thank you for having me back,\" Young said in a statement announcing this year's lineup. The rest of the festival lineup was announced Monday as well, including fellow headliners Brandi Carlile, MUNA, and Carly Rae Jepson. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY.",
+      "published_at": "Mon, 18 May 2026 16:49:32 GMT",
+      "collected_at": "2026-05-21 04:55:04",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導英國歌手Lola Young將回歸並領銜All Things Go音樂節，與Zara Larsson、Brandi Carlile和MUNA等藝人一同演出，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1213,
       "title": "BTS Jung Kook's Debut \"CKJK\" Collaboration With Calvin Klein Is Here - Hypebeast",
@@ -470,108 +554,39 @@
       "summary": "此新聞內容主要關於歌手Chaka Khan在奧克蘭的親密演出，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1194,
-      "title": "Lady Gaga Concert Film ‘Mayhem Requiem’ to Premiere on Apple Music and Show for One Night Only in AMC Theaters - Variety",
-      "link": "https://variety.com/2026/music/news/lady-gaga-mayhem-requiem-film-apple-music-amc-theaters-1236745440/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Lady Gaga Concert Film ‘Mayhem Requiem’ to Premiere on Apple Music and Show for One Night Only in AMC Theaters. Lady Gaga has announced that her long-awaited “Apple Music Live: Lady Gaga Mayhem Requiem” will be released on Apple Music on Thursday at 8 p.m. PT/11 p.m. ET, and will also debut at the same time during one-night-only screenings at 15 AMC Theaters in select cities. Directed and produced by Morningview, “Apple Music Live: Lady Gaga Mayhem Requiem” is a filmed live performance of a one-off show that Gaga staged at Los Angeles’ Wiltern on January 14. “Apple Music Live: Lady Gaga Mayhem Requiem” is being billed as the “final chapter of her Mayhem era,” according to a release. For those who can’t attend the screenings, “Apple Music Live: Lady Gaga Mayhem Requiem” will premiere concurrently on Apple Music as a livestream that does not require a subscription.",
-      "published_at": "Tue, 12 May 2026 15:00:00 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於女神卡卡（Lady Gaga）的演唱會電影《Mayhem Requiem》將在Apple Music首播並於AMC影院限時上映，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1195,
-      "title": "Drake Is Back With Three New Albums: 'Iceman,' ‘Maid of Honour’ & ‘Habibti’ | Billboard News - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/videos/drake-back-three-albums-iceman-235926775.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "## Entertainment:. * Drake drops 3 new albums. * Shakira's World Cup song. # Drake Is Back With Three New Albums: 'Iceman,' ‘Maid of Honour’ & ‘Habibti’ | Billboard News. Add Yahoo as a preferred source to see more of our stories on Google. Drake returns by releasing three new albums 'Iceman,' 'Maid of Honour' and 'Habibti,' there are references to BTS, takes shots at DJ Khaled and Lebron James and he reignites his feud with Kendrick Lamar with a new collaboration with Future with \"Run to Atlanta\" off of 'Iceman' and more!",
-      "published_at": "Fri, 15 May 2026 23:59:26 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於饒舌歌手Drake發行三張新專輯，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1196,
-      "title": "Gracie Abrams, Drake, Tove Lo & More: New Music Friday Guide - Billboard",
-      "link": "https://www.billboard.com/music/music-news/gracie-abrams-drake-new-music-friday-guide-1236246816/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Gracie Abrams, Drake, Tove Lo & More: New Music Friday Guide. *Billboard’s* Friday Music Guide serves as a handy guide to New Music Friday’s most essential releases each week — the key music that everyone will be talking about today, and that will be dominating playlists this weekend and beyond. Gracie Abrams’ now longtime collaborator Aaron Dessner wasn’t playing when he spoke about the singer’s upcoming album in an Instagram caption earlier this week: “You’ll hear us expanding our musical vocabulary and pushing into uncharted waters sonically…it feels elevated in every way.” Lead single “Hit the Wall” is an airy and lyrically loaded track, with lines like, “A room full of doctors and an inkblot/ I’m drawn into headlights, have a blind spot” or, “I live in a pattern of breakdowns/ You’ll bend to my silence, it’s so loud.” The track arrives as the perfect connector for where Abrams has been and where she is heading — and proves that if this is her starting point, *Daughter From Hell* is surely going to hurt like hell.",
-      "published_at": "Fri, 15 May 2026 04:40:15 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇Billboard文章主要介紹了Gracie Abrams、Drake等多位西方藝人的最新音樂發行，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1197,
-      "title": "Maluma, Drake, Gracie Abrams & More: Which Is Your Favorite New Music Release This Week? Vote! - Billboard",
-      "link": "https://www.billboard.com/music/music-news/new-music-maluma-drake-madonna-best-new-release-poll-1236249170/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Maluma, Drake, Gracie Abrams & More: Which Is Your Favorite New Music Release This Week? This week also saw new music from Madonna, Shaggy, Lucki and more. Drake dominates this New Music Friday with a trio of solo studio albums: *Iceman, Habibti* and *Maid of Honour*. ### Gracie Abrams, Drake, Maluma & More: New Music Friday Guide. ### Drake Returns With Three New Albums as ‘Iceman,’ ‘Maid of Honour’ & ‘Habibti’ Arrive: Stream Them Now. Latin superstar Maluma also shared his new album *Loco X Volver*, sharpening his focus on his family and Colombian roots. Over on the singles side, Madonna and Peggy Gou teamed up for a bouncy remix of the Queen of Pop’s “I Feel So Free” from the upcoming *Confessions II*. Gracie Abrams also delivered with “Hit the Wall,” the lead track from her forthcoming album *Daughter From Hell*. Which new release this week is your favorite?",
-      "published_at": "Fri, 15 May 2026 19:07:56 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要討論Maluma、Drake、Gracie Abrams等藝人的新音樂發行，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1198,
-      "title": "Breaking down Drake’s Temu haul of an album drop - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-15/drake-iceman-maid-of-honour-habibti-breakdown-review",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "After spending the better part of a year teasing his first solo album since 2023 — and his first, more importantly, since losing the epic rap battle that climaxed with Kendrick Lamar’s “Not Like Us” — Drake finally dropped “Iceman” late Thursday along with two *other* albums whose existence took much of the world by surprise: “Maid of Honour” and “Habibti.”. Clearly, the sheer volume and breadth of music here is meant to serve as a kind of shock-and-awe campaign designed to jolt us back to a time when Drake seemed to rule over not just hip-hop but all of pop music. We should say that Drake’s guests on the albums include 21 Savage, Central Cee, Sexyy Red, Popcaan and Future, the last of whom appears on “Iceman” in a song called “Ran to Atlanta” — a clear callback to Kendrick’s line in “Not Like Us” where he accuses Drake of scurrying to the Southern rap capital any time he’s in need of some street cred.",
-      "published_at": "Fri, 15 May 2026 17:30:10 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於饒舌歌手Drake發行新專輯及其與Kendrick Lamar的饒舌大戰，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1177,
-      "title": "Michael Jackson's daughter is proclaiming a big legal victory over the Thriller superstar's estate Read more below. - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/michael-jacksons-daughter-is-proclaiming-a-big-legal-victory-over-the-thriller-s/1333662705300733/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# Michael Jackson's daughter is... ## Deadline Hollywood's Post. ### **Deadline Hollywood**. Michael Jackson's daughter is proclaiming a big legal victory over the Thriller superstar's estate. Image 1: Wanna Be Repayin’ Somethin’: Paris Jackson Claims “Massive Win” Over Michael Jackson Estate Lawyers’ Big-Bucks Bonuses. Wanna Be Repayin’ Somethin’: Paris Jackson Claims “Massive Win” Over Michael Jackson Estate Lawyers’ Big-Bucks Bonuses.",
-      "published_at": "Thu, 14 May 2026 04:00:10 GMT",
-      "collected_at": "2026-05-15 04:36:52",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了麥可傑克森的女兒派瑞絲傑克森在遺產訴訟中取得重大勝利，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 58,
-    "report_date": "2026-05-20",
-    "total_articles": 4,
+    "id": 59,
+    "report_date": "2026-05-21",
+    "total_articles": 6,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 4,
-    "daily_summary": "今日新聞搜尋中，並無直接關於周杰倫的報導。所有提及「Jay」的標題皆指向其他人物或事件，例如Jay Powell、Jaylen Brown、Jay Fortune、Jay Williams、Jay Z及Jay Gillian等，與周杰倫無關。",
+    "neutral_count": 6,
+    "daily_summary": "今日搜集到的新聞中，未發現任何與華語天王周杰倫相關的報導或活動。所有新聞提及的「Jay」均為不同人物，例如美國饒舌歌手Jay Z、聯準會主席Jay Powell、NBA球員Jaylen Brown，以及其他同名人士。因此，今日沒有周杰倫的焦點新聞。",
     "key_events": [
       "無周杰倫新聞",
-      "今日無相關報導",
-      "其他Jay非本人"
+      "無相關報導",
+      "今日無焦點"
     ],
-    "created_at": "2026-05-20 04:49:22"
+    "created_at": "2026-05-21 04:55:30"
   },
   "recentReports": [
+    {
+      "id": 59,
+      "report_date": "2026-05-21",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與華語天王周杰倫相關的報導或活動。所有新聞提及的「Jay」均為不同人物，例如美國饒舌歌手Jay Z、聯準會主席Jay Powell、NBA球員Jaylen Brown，以及其他同名人士。因此，今日沒有周杰倫的焦點新聞。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "今日無焦點"
+      ],
+      "created_at": "2026-05-21 04:55:30"
+    },
     {
       "id": 58,
       "report_date": "2026-05-20",
@@ -661,21 +676,6 @@
         "未有周杰倫新動態"
       ],
       "created_at": "2026-05-15 04:37:38"
-    },
-    {
-      "id": 52,
-      "report_date": "2026-05-14",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日娛樂新聞主要報導國際藝人動態，如Michael Jackson專輯重回榜單前十、Justin Bieber與Nicki Minaj的最新榜單表現，以及歐美明星的多元活動。然而，在今日搜集到的所有新聞中，並未發現任何與華語天王周杰倫直接相關的報導或最新動態。因此，今日無周杰倫的特別焦點新聞可供摘要。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-05-14 04:31:25"
     }
   ]
 }
