@@ -6,21 +6,13 @@
     "neutral": 6
   },
   "allTimeStats": {
-    "total": 1222,
+    "total": 1228,
     "positive": 339,
     "negative": 47,
-    "neutral": 836,
-    "avg_score": 0.61
+    "neutral": 842,
+    "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-07",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-08",
       "total": 7,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 6,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-22",
+      "total": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1223,
+      "title": "They Don’t Make Celebrities Like Michael Jackson Anymore - The Atlantic",
+      "link": "https://www.theatlantic.com/culture/2026/05/michael-movie-box-office-success/687186/",
+      "source": "Tavily (www.theatlantic.com)",
+      "snippet": "The success of *Michael* suggests that audiences are nostalgic for a universal kind of fame that’s rare today. In the 1980s, the former Los Angeles Lakers superstar invited Jackson to a Lakers game, an invitation the singer was initially hesitant to accept because he was worried that his presence would create too much of a frenzy. He existed on a truly singular plane of stardom—and nearly 20 years after his death, he still inspires a unique level of obsession, devotion, and curiosity from fans, even those who weren’t alive to see him in the flesh. The enormous success of *Michael*, the recently released biopic about Jackson’s life, is a testament to that staying power. As I watched *Michael* in the theater, I was flooded by my own memories of Jackson.",
+      "published_at": "Sat, 16 May 2026 12:00:00 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討麥可傑克森的普遍性名氣與當代名人現象，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1224,
+      "title": "Jung Kook Collaborates With Calvin Klein on a Limited-edition Capsule - WWD",
+      "link": "https://wwd.com/fashion-news/sportswear/calvin-klein-partners-jung-kook-limited-edition-capsule-iconic-designs-rebellious-style-1238955625/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "# EXCLUSIVE: Calvin Klein Partners With Jung Kook on Limited-edition Capsule, Blending Iconic Designs and Rebellious Style. The 20-style capsule reimagines the brand's essentials with Jung Kook's edgy, biker-inspired aesthetic. * Share this article on Talk. Calvin Klein Inc., part of PVH Corp., will launch Jung Kook for Calvin Klein, a limited-edition men’s and women’s capsule in partnership with global brand ambassador Jung Kook, marking his first fashion collaboration. Building on the brand’s long-standing ambassadorship with the artist, the men’s and women’s 20-style capsule reimagines Calvin Klein’s essentials through the lens of Jung Kook’s rebellious and edgy style, blending biker attitude with Calvin Klein’s storied design codes. Discussing why he thinks a Jung Kook by Calvin Klein capsule will resonate with his customers, and whether he believes it will attract new customers to the brand, Savman told WWD, “Jung Kook has been a global ambassador for Calvin Klein for years, and we’ve seen the powerful connection he has with his audience globally.",
+      "published_at": "Mon, 18 May 2026 11:30:00 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Jung Kook與Calvin Klein的聯名膠囊系列，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1225,
+      "title": "Drake surprise drops three albums and mentions rapper feud - BBC",
+      "link": "https://www.bbc.com/news/articles/cwy2843z094o",
+      "source": "Tavily (www.bbc.com)",
+      "snippet": "# Drake surprise drops three albums and mentions the Kendrick Lamar beef. The rapper's dropped his anticipated solo record, Iceman, plus two more - Habibti and Maid of Honour - with 43 songs in total. They arethe first albums the Canadian has dropped since his beef with US rapper Kendrick Lamar escalated in 2024. And, yes, he does bring it up on the new record. The big question about the heavily hyped new release was whether Drake would use his new music to reignite his bitter feud with Lamar. And on Iceman album opener, Make Them Cry, it looks like Drake has given a glimpse into his feelings at the height of the rap beef. Most critics have yet to share reviews of Iceman and Drake's two other new releases, but reports suggest that streaming services were hit with crashes and slowdowns as fans rushed to hear his new music. Drake has been building excitement for his new album with a series of Iceman livestreams.",
+      "published_at": "Fri, 15 May 2026 09:48:01 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Drake surprise drops three albums and mentions rapper feud - BBC",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1226,
+      "title": "Waymo service in Atlanta still suspended after self-driving car stuck in Midtown floodwaters - Atlanta News First",
+      "link": "https://www.atlantanewsfirst.com/2026/05/22/waymo-service-atlanta-still-suspended-after-self-driving-car-stuck-midtown-floodwaters/",
+      "source": "Tavily (www.atlantanewsfirst.com)",
+      "snippet": "# Waymo service in Atlanta still suspended after self-driving car stuck in Midtown floodwaters. (Atlanta News First) — Waymo’s self-driving ride-hailing service in Atlanta remained suspended after one of the company’s autonomous vehicles became stuck in floodwaters on a Midtown street Wednesday night. No one was inside the car at the time, according to Waymo. Georgia Tech researchers said the incident highlights a known challenge for autonomous vehicles: judging the depth of water on flooded streets. That can be really a problem for flooding,” said Georgia Tech professor Glen Chou on LIDAR and radar. Chou described the situation as a relatively small issue that can be addressed as autonomous vehicle systems continue to collect data. Dr. Srinivas Peeta, who leads the Autonomous and Connected Transportation Lab at Georgia Tech, said incidents like this can be surprising for the public. Peeta said the vehicles are safe under normal conditions and that safety should improve over time as the technology advances.",
+      "published_at": "Fri, 22 May 2026 00:04:34 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Waymo自駕車在亞特蘭大遭遇洪水受困，並提及喬治亞理工學院教授Glen Chou，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1227,
+      "title": "Lieutenant Governor Jay Collins Visits Northbridge University to Highlight Workforce Training and Career Education in Florida - Positively Osceola",
+      "link": "https://www.positivelyosceola.com/lieutenant-governor-jay-collins-visits-northbridge-university-to-highlight-workforce-training-and-career-education-in-florida/",
+      "source": "Tavily (www.positivelyosceola.com)",
+      "snippet": "# Lieutenant Governor Jay Collins Visits Northbridge University to Highlight Workforce Training and Career Education in Florida. — Florida Lieutenant Governor Jay Collins visited Northbridge University on Wednesday afternoon for a workforce development roundtable and campus tour focused on strengthening Florida’s skilled labor pipeline and expanding career-focused education opportunities. The visit brought together university leadership, elected officials, economic development leaders, business executives, and community stakeholders for discussions centered on workforce readiness, healthcare education, skilled trades training, and employer-driven academic pathways designed to meet Florida’s growing labor demands. **“We were honored to welcome Lieutenant Governor Collins to our Kissimmee campus for a meaningful conversation about the future of higher education and workforce development in Florida,” said Dr. James Michael Burkett, president of U.S. operations for Northbridge University. — El vicegobernador de Florida, Jay Collins, visitó el miércoles el campus de Northbridge University para participar en una mesa redonda sobre desarrollo laboral y realizar un recorrido por las instalaciones enfocadas en la capacitación de la futura fuerza laboral del estado.",
+      "published_at": "Thu, 21 May 2026 05:24:01 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於佛羅里達州副州長Jay Collins參訪大學討論勞動力培訓與職業教育，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1228,
+      "title": "Harry Styles Team Addresses Fan Complaints About Obstructed Views - Stereogum",
+      "link": "https://stereogum.com/2499419/harry-styles-team-addresses-fan-complaints-about-obstructed-views/news",
+      "source": "Tavily (stereogum.com)",
+      "snippet": "Following a special one-off Manchester gig in March, Harry Styles has officially commenced his tour in support of his recent album *Kiss All The Time. So far he's played two nights in Amsterdam, with setlists that include almost all of his new songs, a decent selection of his old songs, and little nods to Talking Heads, Underworld, and Paul Simon. But the setlist isn't what's been getting people talking about Styles' tour; his stage setup is. That's no problem if you're in the stadium seats, but for fans who paid hundreds of euros for GA tickets and spent hours queuing outside the venue, they're being met with some pretty severely obstructed views at certain points of the set. \"The floor concept was designed to give fans freedom of movement and the ability to experience the show from different positions, rather than being confined to one fixed viewing angle,\" a rep told TMZ.",
+      "published_at": "Tue, 19 May 2026 19:53:29 GMT",
+      "collected_at": "2026-05-22 04:46:50",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於哈利·史泰爾斯（Harry Styles）演唱會因舞台設計導致部分粉絲視線受阻引發抱怨，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1217,
       "title": "Happy 80th Birthday, Cher! See the Icon's Incredible Life and Career in Photos - People.com",
@@ -470,108 +554,39 @@
       "summary": "此新聞報導與周杰倫無關，主要講述YouTube新節目《Keep the Meter Running》在紐約的首映會。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1188,
-      "title": "The Jackson Estate’s war for control continues as ‘Michael’ soars at box office - NBC News",
-      "link": "https://www.nbcnews.com/pop-culture/pop-culture-news/michael-jackson-estate-war-paris-legal-win-on-the-lot-newsletter-rcna345221",
-      "source": "Tavily (www.nbcnews.com)",
-      "snippet": "IE 11 is not supported. For an optimal experience visit our site on another browser. # The Jackson Estate’s war for control continues as ‘Michael’ soars at box office. Michael Jackson’s daughter, Paris, claimed a legal win earlier this week in her ongoing dispute against her father’s estate. Jaafar Jackson attends the \"Michael\" premiere in Los Angeles.Savion Washington / Getty Images for Lionsgate. Add NBC News to Google. With Lionsgate’s Michael Jackson biopic set to surpass $600 million at the global box office this weekend, you’d think they’d be popping champagne over at the late music icon’s estate. But a messy dispute between Jackson’s daughter, **Paris**, and his estate’s executors, entertainment lawyer **John Branca** and music executive **John McClain**, has taken some of the fizz out of the celebration. We are getting your experience ready.",
-      "published_at": "Fri, 15 May 2026 19:00:40 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於麥可傑克森遺產的內部爭議，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1189,
-      "title": "15 Albums Out This Week You Should Listen to Now - Pitchfork",
-      "link": "https://pitchfork.com/news/15-new-albums-you-should-listen-to-now-kevin-morby-drake-smerz-and-more/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "# 15 New Albums You Should Listen to Now: Kevin Morby, Drake, Smerz, and More. Also stream new releases from Dua Saleh and Jeff Parker. This week’s batch includes new albums from Kevin Morby, Drake, Smerz, and Jeff Parker. Subscribe to Pitchfork’s* *New Music Friday newsletter* *to get our recommendations in your inbox every week. *Little Wide Open*, Kevin Morby’s eighth solo LP, looks back on his time on the road as an adult, swishing between the freedom it offers, the unknowns that always come knocking, and a new factor: looming fatherhood that puts it all in perspective. *Happy Today*, Jeff Parker’s third album with his ETA quartet, is a spellbinding document of his role at the heart of the Chicago hub where diverse players “have converged to create wildly accessible improvised music,” as Grayson Haver Currin writes in a new profile of Parker.",
-      "published_at": "Fri, 15 May 2026 14:57:01 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇Pitchfork文章介紹了本週發行的15張新專輯，但內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1190,
-      "title": "Watch Every Video From Drake’s New Albums - Pitchfork",
-      "link": "https://pitchfork.com/news/watch-every-video-from-drakes-new-albums/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "A series of visuals from *Iceman*, *Habibti*, and *Maid of Honour*. Drake is back with his first solo album since 2023’s *For All the Dogs*… and his second, and his third. After months of teasing a new LP, *Iceman*, he revealed on a live stream that he had two more albums dropping last night, *Habibti* and *Maid of Honour*. He has also been hard at work shooting a string of music videos: During the show, he premiered several shorts that are largely set in his Toronto hometown, which trickled onto his YouTube page overnight. The short for “Janice STFU”—a song that seemingly interpolates Lykke Li’s “I Follow Rivers”—alternates between opulent restaurant scenes and a garage of vintage luxury cars; “Little Birdie” features a dance sequence by a fully clothed man vamping for the staff of a strip club; and “Burning Bridges” appears to be an excuse for Drake and a few dozen pals to throw a massive, chandelier-lit party.",
-      "published_at": "Fri, 15 May 2026 12:43:29 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了饒舌歌手Drake發行三張新專輯《Iceman》、《Habibti》和《Maid of Honour》，並公開了多支音樂錄影帶的內容。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1191,
-      "title": "Drake Finally Unveils ‘Iceman’ — and Surprise Drops 2 More Albums - Rolling Stone",
-      "link": "https://www.rollingstone.com/music/music-news/drake-iceman-three-albums-habibti-maid-of-honour-1235563246/",
-      "source": "Tavily (www.rollingstone.com)",
-      "snippet": "At the end of the *Iceman* livestream, Drake pulled out three hard drives, and text on the screen revealed: “I made this so that I could make this.” Another display showed the title of two more surprise albums: *Habibti* and *Maid Of Honour*. The back-to-back records arrive with mountains of anticipation, as Drake’s first solo album after his 2024 feud with Kendrick Lamar, whose diss track “Not Like Us” won multiple Grammys and reframed the chart-topping rapper’s public image for the worst. Drake does not mince words about his feelings on Lamar and the earth-rattling diss track “Not Like Us,” which cast Drake as a “Certified Pedophile.” An understandably angered Drake takes multiple opportunities to poke at Kendrick’s public image with lines like “White kids listen to you cuz they feelin’ some guilt,” as well as lines appearing to claim that 100 million streams for Lamar disappeared from the count, contributing to his ongoing claims that UMG engaged in fraudulent bot-ing to boost the song’s popularity.",
-      "published_at": "Fri, 15 May 2026 04:01:42 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國饒舌歌手Drake發行新專輯並回應與Kendrick Lamar的爭議，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1192,
-      "title": "Avex 2025 Revenues Near $1 Billion on Strength in Live Entertainment - Billboard",
-      "link": "https://www.billboard.com/pro/avex-2025-revenues-near-1-billion/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "The Japanese publishing company reported $971 million in sales for its fiscal year 2025 as revenue from live events grew by 17%. Japanaese publishing company Avex Inc. said on Friday (May 15) the company generated $971 million in revenue in its latest fiscal year, showing double-digit growth from the prior fiscal year delivered higher income from concerts by artists like **XG**. Revenue from Avex’s Music business, which includes Kehlani co-writer Kamal Wilson, Drake co-writer Elkan and Tate McRae co-writer Grant Boutin on its roster, was up 6.8% $810 million driven primarily by 17.4% growth in live-related revenue of $354 million. Revenue from Avex Music’s digital music distribution business also increased by 12.5% to $103 million on increased streaming. The company returned to profitability reversing a $12 million loss in fiscal 2024 to generate $27 million in operating profit in fiscal 2025, as the music group notched momentum-building wins like signing Bruno Mars to a global music publishing administration partnership starting this summer.",
-      "published_at": "Fri, 15 May 2026 16:30:38 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導日本愛貝克思（Avex）公司在2025財年因現場娛樂和數位音樂業務增長而營收接近10億美元並恢復盈利，但內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1193,
-      "title": "See Chaka Khan up close at this intimate Oakland performance - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/chaka-khan-oakland-kaiser-22255347.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# See Chaka Khan up close at this intimate Oakland performance. But for one night in Oakland, the 10-time Grammy-winning diva is trading arena-sized spectacle for something more intimate. Kaiser Center for the Arts’ Conversations in Music series promises a stripped-down evening of acoustic performance and unscripted storytelling, giving fans a rare chance to hear Khan, born Yvette Marie Stevens, reflect on a career that has shaped generations of R&B, funk and pop. Mariecar Mendoza is the senior arts and entertainment editor for the San Francisco Chronicle, where she manages daily coverage and audience engagement for Datebook and datebook.sfchronicle.com. Prior to The Chronicle, Mariecar was a features digital editor for the Los Angeles News Group, helping cover major pop culture moments in the region like Coachella and Comic-Con to the Emmys and Oscars. Mariecar is a Bay Area native and is glad to be back home.",
-      "published_at": "Wed, 13 May 2026 16:30:16 GMT",
-      "collected_at": "2026-05-16 04:10:23",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於歌手Chaka Khan在奧克蘭的親密演出，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 59,
-    "report_date": "2026-05-21",
+    "id": 60,
+    "report_date": "2026-05-22",
     "total_articles": 6,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 6,
-    "daily_summary": "今日搜集到的新聞中，未發現任何與華語天王周杰倫相關的報導或活動。所有新聞提及的「Jay」均為不同人物，例如美國饒舌歌手Jay Z、聯準會主席Jay Powell、NBA球員Jaylen Brown，以及其他同名人士。因此，今日沒有周杰倫的焦點新聞。",
+    "daily_summary": "今日搜集到的娛樂新聞中，未發現任何直接提及華語天王周杰倫的相關報導或焦點事件。新聞列表雖包含多個以「Jay」開頭的名稱，如Jay Z、Jay Powell、Jaylen Brown等，但經確認，這些均指向其他公眾人物或議題，與周杰倫本人無關。因此，今日無周杰倫的最新動態可供摘要。",
     "key_events": [
-      "無周杰倫新聞",
-      "無相關報導",
-      "今日無焦點"
+      "今日無周杰倫動態",
+      "今日無周杰倫消息",
+      "今日無周杰倫報導"
     ],
-    "created_at": "2026-05-21 04:55:30"
+    "created_at": "2026-05-22 04:47:23"
   },
   "recentReports": [
+    {
+      "id": 60,
+      "report_date": "2026-05-22",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日搜集到的娛樂新聞中，未發現任何直接提及華語天王周杰倫的相關報導或焦點事件。新聞列表雖包含多個以「Jay」開頭的名稱，如Jay Z、Jay Powell、Jaylen Brown等，但經確認，這些均指向其他公眾人物或議題，與周杰倫本人無關。因此，今日無周杰倫的最新動態可供摘要。",
+      "key_events": [
+        "今日無周杰倫動態",
+        "今日無周杰倫消息",
+        "今日無周杰倫報導"
+      ],
+      "created_at": "2026-05-22 04:47:23"
+    },
     {
       "id": 59,
       "report_date": "2026-05-21",
@@ -661,21 +676,6 @@
         "無重要事件"
       ],
       "created_at": "2026-05-16 04:11:11"
-    },
-    {
-      "id": 53,
-      "report_date": "2026-05-15",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 10,
-      "daily_summary": "今日搜集到的新聞報導中，經仔細審閱，並未發現任何與華語流行天王周杰倫直接相關的焦點或事件。儘管娛樂圈今日不乏其他國際巨星的動態，如麥可傑克森家族的法律糾紛、多位歐美歌手發行新專輯、以及各項頒獎典禮與品牌活動的明星亮相，但周杰倫本人或其作品、家庭生活等，皆未在本次提供的資料中被提及。因此，今日針對周杰倫的專屬新聞摘要，將著重於說明本次新聞來源中並無其最新動態。",
-      "key_events": [
-        "無周杰倫相關報導",
-        "今日無周杰倫焦點",
-        "未有周杰倫新動態"
-      ],
-      "created_at": "2026-05-15 04:37:38"
     }
   ]
 }
