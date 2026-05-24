@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
+    "total": 3,
     "positive": 0,
     "negative": 0,
-    "neutral": 12
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 1240,
+    "total": 1243,
     "positive": 339,
     "negative": 47,
-    "neutral": 854,
+    "neutral": 857,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-09",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-10",
       "total": 2,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-24",
+      "total": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1241,
+      "title": "First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein - Hypebeast",
+      "link": "https://hypebeast.com/2026/5/bts-jung-kook-calvin-klein-debut-collaboration-release-info-first-look",
+      "source": "Tavily (hypebeast.com)",
+      "snippet": "# First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein. ## Featuring approximately 20 items co-designed by the global icon, the highly anticipated capsule collection officially arrives this month. * Calvin Klein has announced its first-ever collaborative apparel collection with global brand ambassador and BTS member, Jung Kook. * The capsule features approximately 20 distinct items, with Jung Kook personally involved in the design process. * An exclusive online pre-sale for “My Calvins” members will take place on the morning of May 20. The partnership between Calvin Klein and global pop icon Jung Kook is reaching an exciting new milestone. Calvin Klein has announced its very first collaborative collection with Jung Kook, offering fans a unique opportunity to wear pieces directly influenced by his personal aesthetic and creative vision. To celebrate the monumental launch of the collection, Calvin Klein will also debut a brand-new promotional campaign showcasing Jung Kook’s new creative direction.",
+      "published_at": "Sun, 17 May 2026 08:10:01 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於防彈少年團成員Jung Kook與Calvin Klein的首次聯名合作系列，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1242,
+      "title": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
+      "link": "https://artthreat.net/36222-46294-keke-palmer-hosted-billboard-women-in-music-2026-in-los-angeles/",
+      "source": "Tavily (artthreat.net)",
+      "snippet": "**Keke Palmer** brought star power and infectious energy to the **Billboard Women in Music 2026 Awards** on **April 29** at the iconic **Hollywood Palladium** in **Los Angeles**. The multi-Emmy Award-winning actress, producer, and music artist hosted the star-studded ceremony celebrating the most influential women in the music industry, while also taking the stage to perform her new single **“Text Message Unsent.”** The event honored groundbreaking female artists across multiple award categories, from emerging talent to established powerhouses reshaping the landscape. * **Keke Palmer hosted and performed at the Billboard Women in Music 2026 Awards**. Known for her work across television, film, music, and digital platforms, **Palmer has built a diverse career spanning from “Akeelah and the Bee” to her podcast “Baby, This is Keke Palmer.”** Her role combined hosting duties with her own performance moment, where she delivered an energetic rendition of **“Text Message Unsent,”** a track from the soundtrack EP tied to her recent film project.",
+      "published_at": "Fri, 22 May 2026 12:06:38 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1243,
+      "title": "Drake Is A Sore Loser On 'Iceman.' Sounds Like Someone Else We Know. - HuffPost",
+      "link": "https://www.huffpost.com/entry/drake-iceman-review-trump_n_6a0c8193e4b0d1a142e15450/amp",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "In 43 songs, one of the most successful rappers of the century shows us he just can't move on. Here are the other bright spots: Drake is doing something interesting sonically on tracks like “Janice STFU” and displaying his knack for hit-making on “Shabang.” And while it is not a personal favorite, the West Coast-sounding “2 Hard 4 The Radio” shows a defiant Drake when it comes to not being limited to the regional sounds he chooses to jump on. Drake also continues to be salty with A$AP Rocky, seemingly taunting the rapper-actor with “Where she at?/Where she go” on “Burning Bridges.” Drake seemingly never got over Rihanna daring to move on from him and create a family with Rocky, so in Drake’s mind, pointing out that the mother of his children didn’t post about his single is worth highlighting.",
+      "published_at": "Sat, 23 May 2026 18:02:24 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要探討饒舌歌手Drake的音樂作品與個人爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1229,
       "title": "Khris Riddick-Tynes Is Building for Legacy - Newsweek",
@@ -512,66 +554,39 @@
       "summary": "How Jay Powell steered the Federal Reserve under fire from Donald Trump - Financial Times",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1216,
-      "title": "Mobile Lifestyle and Allure of Fast Payouts Have South African Betting Apps Surging - TrendyHipHop",
-      "link": "https://www2.trendyhiphop.com/articles/mobile-lifestyle-and-allure-of-fast-payouts-have-south-african-betting-apps-surging/",
-      "source": "Tavily (www2.trendyhiphop.com)",
-      "snippet": "# Mobile Lifestyle and Allure of Fast Payouts Have South African Betting Apps Surging. ### Johnny Drille – Over The Moon Ft. Tiwa Savagee. ### Johnny Drille – What Is This Love ft. ### Famous Pluto – Work ft. ### Shakira – Dai Dai Ft. Burna Boy. ### DJ Tunez – State Of Mind Ft. Wizkid. ### Victor AD – Only God Ft. Timaya. ### Olamide – Rock Me Gentle. ### Johnny Drille – Colorado Ft. Ayra Starr & Young Jonn. ### Shoday – Come Kulosa Ft. Olamide & Billionboi. ### BNXN – Back Outside Ft. Sarz. ### Ice Prince – High Class Ft. Niniola. ### Asake – Worship ft. ### Asake – BADMAN GANGSTA Ft Tiakola. ### Asake – Skilful. ### Asake – Wa. ### Kuami Eugene – Promise Me Ft. Johnny Drille. ### Ice Prince – Basu Kidi. ### Teni – Zion Ft. Olamide. ### Noskiz – Paro Ft. Boy Muller. ### Asake Drops ‘M$ney’ Album, Takes Over Streaming Charts.",
-      "published_at": "Tue, 19 May 2026 12:48:05 GMT",
-      "collected_at": "2026-05-20 04:48:59",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導南非博弈應用程式的興起，並列舉了多位嘻哈/Afrobeats歌手及其歌曲，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1209,
-      "title": "Celtics in no rush to give Jaylen Brown extension? - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/celtics-no-rush-jaylen-brown-204757149.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* The Kevin O'Connor Show. ### Indoor Football League: Vegas Knight Hawks-Orlando Pirates. # Celtics in no rush to give Jaylen Brown extension? > Brad Stevens is no stranger to extensions but giving out that type of money to a 33-year-old is far from a no brainer. Adding that type of long-term commitment is more likely to hurt than help Brown’s trade value in the present even after his standout regular season in 2025-26. Quite simply, there’s no sense of urgency here from a Celtics standpoint to do an extension now beyond just appeasing Brown. That’s not going to be the impetus for Stevens’ next big deal. He’s got bigger decisions to make for the present and making a decision on Brown’s long-term future doesn’t help him on that front. For that reason, don’t expect an extension to be among Stevens’ priorities this summer. *This article originally appeared on Hoops Hype: Celtics in no rush to give Jaylen Brown extension?*.",
-      "published_at": "Mon, 18 May 2026 20:47:57 GMT",
-      "collected_at": "2026-05-19 04:44:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於波士頓塞爾提克隊球員Jaylen Brown的合約延長，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1210,
-      "title": "Paris Jackson Asking For Extra $463K in Battle With Late Dad’s Estate - TMZ",
-      "link": "https://www.tmz.com/2026/05/18/paris-jackson-requesting-more-money-in-michael-jackson-estate-case/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "Last week, a Los Angeles judge sided with Paris when he ruled that $625K in bonuses paid to outside law firms that worked on the estate would have to be returned to the estate. **John Branca** and **John McClain**, the two executors in charge of **Michael Jackson**’s estate since his death in 2009, argued the bonuses paid to the third-party law firms were normal for the music industry ... At the time, the executors’ rep told TMZ, \"We are gratified that the Court itself recognized and praised the work of the Executors and its outside counsel in today's decision.\". The rep added, “While the Court has previously approved several other bonuses to outside counsel over the years for their extraordinary services, and this was the first time they were the subject of objections, the Executors have always understood that legal fees are subject to court approval and have always required outside counsel to agree to return any funds to the estate if the payments were not approved.”.",
-      "published_at": "Mon, 18 May 2026 17:30:52 GMT",
-      "collected_at": "2026-05-19 04:44:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於麥可傑克森遺產爭議，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 61,
-    "report_date": "2026-05-23",
-    "total_articles": 12,
+    "id": 62,
+    "report_date": "2026-05-24",
+    "total_articles": 3,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 12,
-    "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語流行天王周杰倫的最新報導或焦點事件。所有新聞皆聚焦於其他國際藝人動態，例如Michael Jackson、Drake、Harry Styles等。因此，今日周杰倫方面沒有值得特別摘要的最新動態，粉絲們可能需要等待後續報導。",
+    "neutral_count": 3,
+    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他藝人如BTS Jung Kook、Drake、Michael Jackson等人的新作品或動態，以及音樂產業的發展。",
     "key_events": [
-      "無相關報導",
-      "無重要事件",
-      "今日無焦點"
+      "無周杰倫新聞",
+      "今日焦點在他人",
+      "無相關活動"
     ],
-    "created_at": "2026-05-23 04:27:41"
+    "created_at": "2026-05-24 04:49:31"
   },
   "recentReports": [
+    {
+      "id": 62,
+      "report_date": "2026-05-24",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他藝人如BTS Jung Kook、Drake、Michael Jackson等人的新作品或動態，以及音樂產業的發展。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日焦點在他人",
+        "無相關活動"
+      ],
+      "created_at": "2026-05-24 04:49:31"
+    },
     {
       "id": 61,
       "report_date": "2026-05-23",
@@ -661,21 +676,6 @@
         "今日無周杰倫焦點"
       ],
       "created_at": "2026-05-18 04:52:25"
-    },
-    {
-      "id": 55,
-      "report_date": "2026-05-17",
-      "total_articles": 4,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 4,
-      "daily_summary": "今日娛樂新聞搜羅結果顯示，並無關於華語樂壇天王周杰倫的任何相關報導。儘管新聞標題中出現了多位名為「Jay」的人物，例如足球員Jay Fortune、體育評論員Jay Williams、饒舌巨星Jay Z、政治人物Jay Gillian、脫口秀主持人Jay Leno，以及足球運動員Jay Bothroyd等，但這些人物均非周杰倫本人。因此，今日的娛樂焦點並未涵蓋周杰倫的最新動態、作品發行或任何個人事件，整體新聞內容與他無關。今日的娛樂版面主要聚焦於其他國際藝人的專輯發行、法律糾紛及演唱會消息。",
-      "key_events": [
-        "無周杰倫新聞",
-        "今日無焦點",
-        "無相關動態"
-      ],
-      "created_at": "2026-05-17 04:40:53"
     }
   ]
 }

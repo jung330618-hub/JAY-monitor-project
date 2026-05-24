@@ -17359,6 +17359,48 @@
       "summary": "此新聞報導關於Drake新專輯《Habibti》的歌曲排名與評價，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1241,
+      "title": "First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein - Hypebeast",
+      "link": "https://hypebeast.com/2026/5/bts-jung-kook-calvin-klein-debut-collaboration-release-info-first-look",
+      "source": "Tavily (hypebeast.com)",
+      "snippet": "# First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein. ## Featuring approximately 20 items co-designed by the global icon, the highly anticipated capsule collection officially arrives this month. * Calvin Klein has announced its first-ever collaborative apparel collection with global brand ambassador and BTS member, Jung Kook. * The capsule features approximately 20 distinct items, with Jung Kook personally involved in the design process. * An exclusive online pre-sale for “My Calvins” members will take place on the morning of May 20. The partnership between Calvin Klein and global pop icon Jung Kook is reaching an exciting new milestone. Calvin Klein has announced its very first collaborative collection with Jung Kook, offering fans a unique opportunity to wear pieces directly influenced by his personal aesthetic and creative vision. To celebrate the monumental launch of the collection, Calvin Klein will also debut a brand-new promotional campaign showcasing Jung Kook’s new creative direction.",
+      "published_at": "Sun, 17 May 2026 08:10:01 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於防彈少年團成員Jung Kook與Calvin Klein的首次聯名合作系列，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1242,
+      "title": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
+      "link": "https://artthreat.net/36222-46294-keke-palmer-hosted-billboard-women-in-music-2026-in-los-angeles/",
+      "source": "Tavily (artthreat.net)",
+      "snippet": "**Keke Palmer** brought star power and infectious energy to the **Billboard Women in Music 2026 Awards** on **April 29** at the iconic **Hollywood Palladium** in **Los Angeles**. The multi-Emmy Award-winning actress, producer, and music artist hosted the star-studded ceremony celebrating the most influential women in the music industry, while also taking the stage to perform her new single **“Text Message Unsent.”** The event honored groundbreaking female artists across multiple award categories, from emerging talent to established powerhouses reshaping the landscape. * **Keke Palmer hosted and performed at the Billboard Women in Music 2026 Awards**. Known for her work across television, film, music, and digital platforms, **Palmer has built a diverse career spanning from “Akeelah and the Bee” to her podcast “Baby, This is Keke Palmer.”** Her role combined hosting duties with her own performance moment, where she delivered an energetic rendition of **“Text Message Unsent,”** a track from the soundtrack EP tied to her recent film project.",
+      "published_at": "Fri, 22 May 2026 12:06:38 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1243,
+      "title": "Drake Is A Sore Loser On 'Iceman.' Sounds Like Someone Else We Know. - HuffPost",
+      "link": "https://www.huffpost.com/entry/drake-iceman-review-trump_n_6a0c8193e4b0d1a142e15450/amp",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "In 43 songs, one of the most successful rappers of the century shows us he just can't move on. Here are the other bright spots: Drake is doing something interesting sonically on tracks like “Janice STFU” and displaying his knack for hit-making on “Shabang.” And while it is not a personal favorite, the West Coast-sounding “2 Hard 4 The Radio” shows a defiant Drake when it comes to not being limited to the regional sounds he chooses to jump on. Drake also continues to be salty with A$AP Rocky, seemingly taunting the rapper-actor with “Where she at?/Where she go” on “Burning Bridges.” Drake seemingly never got over Rihanna daring to move on from him and create a family with Rocky, so in Drake’s mind, pointing out that the mother of his children didn’t post about his single is worth highlighting.",
+      "published_at": "Sat, 23 May 2026 18:02:24 GMT",
+      "collected_at": "2026-05-24 04:48:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要探討饒舌歌手Drake的音樂作品與個人爭議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -18226,6 +18268,21 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-23 04:27:41"
+    },
+    {
+      "id": 62,
+      "report_date": "2026-05-24",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他藝人如BTS Jung Kook、Drake、Michael Jackson等人的新作品或動態，以及音樂產業的發展。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日焦點在他人",
+        "無相關活動"
+      ],
+      "created_at": "2026-05-24 04:49:31"
     }
   ],
   "notification_logs": [
@@ -19166,11 +19223,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-05-23 04:27:42"
+    },
+    {
+      "id": 135,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-24 04:49:32"
+    },
+    {
+      "id": 136,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-24 04:49:33"
     }
   ],
   "_meta": {
-    "nextArticleId": 1241,
-    "nextReportId": 62,
-    "nextLogId": 135
+    "nextArticleId": 1244,
+    "nextReportId": 63,
+    "nextLogId": 137
   }
 }
