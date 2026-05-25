@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 3
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1243,
+    "total": 1250,
     "positive": 339,
     "negative": 47,
-    "neutral": 857,
+    "neutral": 864,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-10",
-      "total": 2,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 2,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-11",
       "total": 5,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-25",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1244,
+      "title": "Michael Jackson Biopic Hits Unprecedented Box Office Milestone In Week 5 - ScreenRant",
+      "link": "https://screenrant.com/michael-2026-movie-box-office-300-million-domestic-milestone/",
+      "source": "Tavily (screenrant.com)",
+      "snippet": "# Michael Jackson Biopic Hits Unprecedented Box Office Milestone In Week 5. The controversial biopic *Michael*, which tells the story of King of Pop Michael Jackson without directly addressing his allegations of child sexual abuse, was directed by Antoine Fuqua and stars the music icon's real-life nephew Jaafar Jackson in the title role opposite a star-studded ensemble cast that includes Colman Domingo, Miles Teller, Nia Long, Laura Harrier, and Mike Myers. Per *Lionsgate*, as of **Sunday** morning, *Michael* is projected to earn a 3-day total of **$20 million** by the end of its fifth weekend at the domestic box office and a 4-day total of **$25.7 million** over the Memorial Day holiday weekend. Quincy Jones — Michael met him on the set of The Wiz (1978), and Jones went on to produce the trio of albums that defined Michael's solo career: Off the Wall (1979), Thriller (1982) and Bad (1987).",
+      "published_at": "Sat, 23 May 2026 16:11:34 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了麥可傑克森的傳記電影《Michael》在上映第五週的票房表現，預計將達到可觀的收入。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1245,
+      "title": "Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos - TMZ",
+      "link": "https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "Email Or Call (888) 847-9869. ### Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video. ### Queen Latifah Is Serving Ageless Beauty — Good Genes or Good Docs?! ### Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident. but the mild L.A. temperatures certainly didn’t crimp her usual naked style -- at least, from the waist down. **Kanye West** strolling out of a studio after doing a photoshoot ... We’re told Bianca climbed inside a Mercedes-Maybach before the model was driven away by her chauffeur. ICYW, Kanye was nowhere in sight. However, the couple was photographed **heading to an L.A. theater** to watch a screening of “**Michael**” during a Friday night date. In those pics, Bianca was basically naked from the waist up with her lower body covered. #### Bianca Censori Wears See-Though Shirt While Walking Out of L.A. Spa. Kanye West   Bianca Censori   Michael Jackson   Hot Bodies   Hip Hop   Fashion   Exclusive   Models   Culture.",
+      "published_at": "Sun, 24 May 2026 13:43:06 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Bianca Censori和Kanye West的穿著與活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1246,
+      "title": "Rory Culkin Welcomes First Child With Kate Arizmendi - TMZ",
+      "link": "https://www.tmz.com/2026/05/24/rory-culkin-welcomes-baby-girl-with-kate-arizmendi/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Queen Latifah Is Serving Ageless Beauty — Good Genes or Good Docs?! # Rory Culkin Welcomes First Child With Kate Arizmendi. ## Rory Culkin It's Easy to See the 'Signs' ... **Rory Culkin**'s officially a father ... with his girlfriend **Kate Arizmendi** announcing the birth of their first child on Instagram. Arizmendi shared a pic of their newborn daughter sleeping ... Arizmendi revealed their daughter's name on the photo ... She was born on Saturday -- and Kate says she and Rory love her deeply. Kate announced she was pregnant earlier this year ... and their family threw them a baby shower earlier this month. While this is Rory's first child, he's got a lot of practice with his nieces and nephews. His brothers -- **Macaulay** and **Kieran Culkin** -- have 2 and 3 kids, respectively ... and that's just counting his family members *in* the public eye. #### Brenda Song Good Genes or Good Docs?!",
+      "published_at": "Sun, 24 May 2026 21:30:03 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Rory Culkin迎來他的第一個孩子，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1247,
+      "title": "Drake Becomes First Artist to Hold Top Three Billboard 200 Spots - Pitchfork",
+      "link": "https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "Earlier this month, Drake turned a long-teased album drop into a three album bonanza, releasing the new LPs *Iceman,* *Habibti*, and *Maid of Honour* at once on May 15. Now, *Billboard* reports that he has become the first artist to hold the No. 1, 2, and 3 spots on its Billboard 200 chart in the same week since it began publishing on a consistent weekly schedule in 1956. *Iceman,* *Habibti*, and *Maid of Honour* marked Drake’s first new solo albums since 2023’s *For All the Dogs.* (Crucially, it’s also his first LP drop since the Kendrick Lamar beef that became so ubiquitous it reached the Super Bowl LIX halftime show and led Drake to sue his own label, UMG, a legal dispute he references multiple times across his latest trio of LPs. The suit was dismissed in October 2025.) He also released a joint album with longtime collaborator and fellow Canadian PartyNextDoor, *$ome $exy $ongs 4 U*, in 2025.",
+      "published_at": "Sun, 24 May 2026 21:34:46 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國歌手Drake創下告示牌專輯榜前三名的紀錄，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1248,
+      "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round - CNBC",
+      "link": "https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Startup backed by American Eagle CEO reaches unicorn status in latest funding round. * Radar, a startup backed by American Eagle CEO Jay Schottenstein that helps retailers reduce theft, is now valued at over $1 billion. * The company, which works with American Eagle and Gap's Old Navy, raised $170 million at a valuation of over $1 billion in its series B funding round. * Radar helps address one of the most challenging aspects of running a retail business: inventory management. Radar, a startup backed by American Eagle CEO Jay Schottenstein that helps retailers manage in-store inventory and cut back on theft and lost merchandise, reached unicorn status with its latest funding round, CNBC has learned. The company, founded in 2013 by Spencer Hewett, raised $170 million at a valuation of over $1 billion in its series B funding round, which was co-led by Gideon Strategic Partners and Nimble Partners with participation from Align Ventures.",
+      "published_at": "Tue, 19 May 2026 11:00:01 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與華語歌手周杰倫無關，而是關於美國鷹牌CEO Jay Schottenstein支持的一家新創公司Radar達到獨角獸地位。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1249,
+      "title": "John Summit announces ‘CTRL Escape Tour,’ Barclays show. Get tickets - New York Post",
+      "link": "https://nypost.com/2026/05/22/ticket-sales/john-summit-announces-ctrl-escape-tour-barclays-show-get-tickets/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# John Summit announces ‘CTRL Escape Tour,’ Barclays show. That includes a stop at Brooklyn’s Barclays Center on Saturday, Nov. 28. “It’s time to bring the world of CTRL ESCAPE to life.”. For the uninitiated, “CTRL ESCAPE” is Summit’s second studio album that hit shelves on April 15. “This is a kind of a crazy, artistic journey, and I love to be able to share my story of breaking out of the matrix that is the corporate life and really try to push boundaries as best I can in electronic music,” Summit explained. As of now, there’s no word on who the special guests joining Summit on the ‘CTRL Escape’ run are. Ahead of the fall outing, the “Where You Are” DJ is putting on his second Experts Only Festival at NYC’s Randall’s Island on Sept. | Aug. 7 at the Up In The Sky Festival in Aspen, CO *Single-day passes* |. 19 at Experts Only in New York, NY *Single-day passes* |.",
+      "published_at": "Fri, 22 May 2026 18:55:10 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了DJ John Summit即將展開的「CTRL Escape Tour」巡演，包括在Barclays Center的演出，並介紹了他的第二張錄音室專輯及其電子音樂理念，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1250,
+      "title": "Trump Says He Is in No Rush for an Iran Deal That Is Far From Finished - Moomoo",
+      "link": "https://www.moomoo.com/hans/news/post/70489130/trump-says-he-is-in-no-rush-for-an-iran",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* Trump Says He Is in No Rush for an Iran Deal That Is Far From Finished. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本内容仅用作提供信息及教育之目的，不构成对任何特定证券或投资策略的推荐或认可。本内容中的信息仅用于说明目的，可能不适用于所有投资者。本内容未考虑任何特定人士的投资目标、财务状况或需求，并不应被视作个人投资建议。建议您在做出任何投资于任何资本市场产品的决定之前，应考虑您的个人情况判断信息的适当性。过去的投资表现不能保证未来的结果。投资涉及风险和损失本金的可能性。moomoo对上述内容的真实性、完整性、准确性或对任何特定目的的时效性不做任何陈述或保证。. 在美国，moomoo上的投资产品和服务由Moomoo Financial Inc.提供，一家受美国证券交易委员会（SEC）监管的持牌主体。 Moomoo Financial Inc.是金融业监管局（FINRA）和证券投资者保护公司（SIPC）的成员。. 在新加坡，moomoo上的投资产品和服务是通过Moomoo Financial Singapore Pte. Ltd.提供，该公司受新加坡金融管理局（MAS）监管(牌照号码︰CMS101000) ，持有资本市场服务牌照 (CMS) ，持有财务顾问豁免（Exempt Financial Adviser）资质。本内容未经新加坡金融管理局的审查。. 在澳大利亚，moomoo上的金融产品和服务是通过Moomoo Securities Australia Limited提供，该公司是受澳大利亚证券和投资委员会(ASIC)监管的澳大利亚金融服务许可机构（AFSL No. 224663）。请阅读并理解我们的《金融服务指南》、《条款与条件》、《隐私政策》和其他披露文件，这些文件可在我们的网站 https://www.moomoo.com/au中获取。. 在加拿大，通过moomoo应用提供的仅限订单执行的券商服务由Moomoo Financial Canada Inc.提供，并受加拿大投资监管机构（CIRO）监管。. 在马来西亚，moomoo上的投资产品和服务是通过Moomoo Securities Malaysia Sdn. Bhd. 提供，该公司受马来西亚证券监督委员会（SC）监管(牌照号码︰eCMSL/A0397/2024) ，持有资本市场服务牌照 (CMSL) 。本内容未经马来西亚证券监督委员会的审查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd., Moomoo Securities Australia Limited, Moomoo Financial Canada Inc.,和Moomoo Securities Malaysia Sdn. Bhd.是关联公司。. * Atlas Arteria Previously Said IFM's Hostile Offer Is Too Low. * Kevin Warsh Walks Into a Trap Where the Fed Can't Cut Rates Even If It Wants to. * ASX前瞻：受美伊谈判不确定性影响，澳洲股市料将走低；Charter Hall集团上调2026财年经营利润指引. *赞**大爱**笑哭**社会社会**Emm**心碎**怒*. 明星科技股是在股票市场上受到广泛关注、具有显著行业影响力、市场表现活跃且市值规模较大的科技公司股票。这些公司往往在科技创新、市场份额、品牌知名度、盈利能力等方面表现出色，是各自所属行业的领军者，对整个股市，特别是科技行业板块乃至全球经济具有显著影响。  明星科技股是在股票市场上受到广泛关注、具有显著行业影响力、市场表现活跃且市值规模较大的科技公司股票。这些公司往往在科技创新、市场份额、品牌知名度、盈利能力等方面表现出色，是各自所属行业的领军者，对整个股市，特别是科技行业板块乃至全球经济具有显著影响。. 巴菲特的持股是伯克希尔·哈撒韦公司发布的最新持股组合。他被视为最成功的投资者之一，买卖动作常向市场发出信号，影响整个行业。  巴菲特的持股是伯克希尔·哈撒韦公司发布的最新持股组合。他被视为最成功的投资者之一，买卖动作常向市场发出信号，影响整个行业。.",
+      "published_at": "Sun, 24 May 2026 23:42:30 GMT",
+      "collected_at": "2026-05-25 05:08:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於美國政治、科技公司財報及股市分析，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1241,
       "title": "First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein - Hypebeast",
@@ -456,122 +554,39 @@
       "summary": "此新聞報導主要關於宏觀策略師對市場崩潰和通膨的警告，以及Kitco新聞新主播的介紹，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1219,
-      "title": "Bob Baker Marionette Theater unleashes first new show in 40 years - Los Angeles Times",
-      "link": "https://www.latimes.com/0000019e-3c0d-df76-a5de-be4f81930000-123",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "Bob Baker Marionette Theater unleashes first new show in 40 years. The Bob Baker Marionette Theater’s “Choo Choo Revue” arrives at a pivotal time for the troupe, which is in the process of buying its Highland Park home. The show is a statement piece, its first new work in more than 40 years and first to be created without its legendary founder. Todd Martens is a features columnist at the Los Angeles Times who writes about theme parks and West Coast Experiences, among other topics. His weekly newsletter, Mr. Todd’s Wild Ride, covers the ever-changing world of theme parks from SoCal. Martens joined the Los Angeles Times in 2007 and has covered a mix of interactive entertainment as its game critic and pop music as a reporter and editor. Potts is the senior editor for video at the Los Angeles Times. He has created and edited video for DreamWorks, YouTube, Microsoft, Sony and BET.",
-      "published_at": "Wed, 20 May 2026 10:00:00 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於Bob Baker Marionette Theater推出新節目，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1220,
-      "title": "Nicki Minaj Says Her Loathing of Obama & Jay Z Spurred Her MAGA Pivot - TMZ",
-      "link": "https://www.tmz.com/2026/05/14/nicki-minaj-talks-maga-support/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Cardi B Explains Her Angry Outburst at Stefon Diggs Caught on Video. ### Nicki Minaj Says Her Loathing of Obama & Jay Z Spurred Her MAGA Pivot. ## Nicki Minaj I Went Full MAGA ... **Nicki Minaj** is shedding more light on why she turned to the MAGA side ... the mogul who she's accused of trying to sabotage her career. As she tells it, the former president is a huge sticking point for her for two reasons ... Basically, Nicki says she was embraced by the MAGA movement, including the late **Charlie Kirk**, when she began speaking out against Democrats ... and that's pretty much all she needed to go full-on red hat. she recently flaunted her new Trump Gold Card, which she said was gifted to her from the prez and allegedly grants her citizenship. Nicki Minaj   Jay-z   Kamala Harris   Barack Obama   Charlie Kirk   President Trump   Celebrity News   Musicians   Hip Hop   White House   Politics.",
-      "published_at": "Thu, 14 May 2026 13:41:11 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容提及美國饒舌歌手Jay Z，與華語歌手周杰倫無直接相關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1221,
-      "title": "Early 2010s pop star teasing a San Francisco move returns for another Bay Area concert - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/kesha-freedom-tour-concert-concord-22249253.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# Early 2010s pop star teasing a San Francisco move returns for another Bay Area concert. Weeks after telling a San Francisco crowd she planned to move to the city, Kesha is heading back to the Bay Area for another performance. The “TiKToK” singer, who performed a pop-up DJ set at the Presidio earlier this month, is scheduled to headline a concert at the Toyota Pavilion at Concord on Wednesday, May 27, as part of her recently-launched Freedom Tour. Through her own label, Kesha Records, the singer has leaned back into the maximalist pop sound that made her a star while embracing a freer, more experimental style. She joined the Chronicle as a summer 2023 intern for the Datebook team. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief. BTS leader RM visited Stanford’s “Crying Tree,” recreating a famous meme by Epik High’s Tablo before the group’s final Bay Area concert.",
-      "published_at": "Wed, 20 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於歌手Kesha在舊金山灣區的演唱會資訊，以及BTS成員RM的活動，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1222,
-      "title": "Lola Young returns to headline All Things Go Fest: ‘We have unfinished business' - NBC New York",
-      "link": "https://www.nbcnewyork.com/news/local/all-things-go-featival-lineup-lola-young/6503061/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "# Lola Young returns to headline All Things Go Fest: ‘We have unfinished business'. ## The British singer joins fellow headliners Zara Larsson, Brandi Carlile and MUNA. Lola Young has \"unfinished business\" with All Things Go Festival. The British singer and recent Grammy winner announced she will return to headline the annual fall music festival in Forest Hills, Queens. Young is not only back for the second year in a row, but she returns to headline the opening night of the festival on Sept. Thank you for having me back,\" Young said in a statement announcing this year's lineup. The rest of the festival lineup was announced Monday as well, including fellow headliners Brandi Carlile, MUNA, and Carly Rae Jepson. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY.",
-      "published_at": "Mon, 18 May 2026 16:49:32 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導英國歌手Lola Young將回歸並領銜All Things Go音樂節，與Zara Larsson、Brandi Carlile和MUNA等藝人一同演出，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1213,
-      "title": "BTS Jung Kook's Debut \"CKJK\" Collaboration With Calvin Klein Is Here - Hypebeast",
-      "link": "https://hypebeast.com/2026/5/bts-jung-kook-debut-ckjk-calvin-klein-collaboration-release-info",
-      "source": "Tavily (hypebeast.com)",
-      "snippet": "# BTS Jung Kook's Debut \"CKJK\" Collaboration With Calvin Klein Is Here. ## The BTS superstar is channeling his personal aesthetic into a brand-new capsule collection featuring custom logos, leather jackets, and intimate wear. * BTS member Jung Kook is launching his debut collaborative collection with Calvin Klein, officially titled “CKJK”. * Blending the pop star’s personal aesthetic with the brand’s signature DNA, the collection boasts a distinct, edgy biker theme. * The extensive capsule includes both men’s and women’s apparel, featuring standout pieces like a premium leather jacket, brown denim, crop tops, and exclusive underwear styles. BTS superstar Jung Kook is officially taking his relationship with Calvin Klein to the next level. The highly anticipated collection—appropriately dubbed “CKJK”—merges Calvin Klein’s classic American DNA with Jung Kook’s signature edgy, biker-inspired personal style. Calvin Klein’s iconic underwear gets a highly personalized upgrade in the collection, arriving in new charcoal and cream colorways. ## First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein.",
-      "published_at": "Tue, 19 May 2026 06:18:48 GMT",
-      "collected_at": "2026-05-20 04:48:59",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於BTS成員Jung Kook與Calvin Klein的聯名系列「CKJK」發布，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1214,
-      "title": "Community news: Jay It Forward Giving Day raises over $300K, and more - Chicago Tribune",
-      "link": "https://www.chicagotribune.com/2026/05/18/community-news-jay-it-forward-giving-day-raises-over-300k-and-more/",
-      "source": "Tavily (www.chicagotribune.com)",
-      "snippet": "Local News |   Community news: Jay It Forward Giving Day…. # Community news: Jay It Forward Giving Day raises over $300K, and more. Jay It Forward Giving Day 2026 at Elmhurst University raised $313,137 during the 24-hour fundraiser, thanks to more than 500 alums, friends and members of the campus community. “Jay It Forward Giving Day demonstrates the strength of the Elmhurst University community and our shared commitment to advancing the University’s future,” Lia Kampman, vice president for Institutional Advancement shared via a news release. The money will go toward athletics for EU’s 21 Division III teams for transportation, training equipment and other needs; the Learning and Success Academy, a post-secondary certificate program for young adults with differing abilities celebrating its 20th anniversary, for textbooks, digital learning tools and other resources; The Annual Fund, which provides student scholarships,program and operational costs and other university needs; and Choose Your Way to Jay It Forward, which supports university programs chosen by the donor, such as the Mill Theatre, Mock Trial program, academic areas, and Bluejay Nest Fund for student emergencies.",
-      "published_at": "Mon, 18 May 2026 15:52:20 GMT",
-      "collected_at": "2026-05-20 04:48:59",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於艾姆赫斯特大學的「Jay It Forward 捐贈日」籌款活動，與周杰倫本人無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1215,
-      "title": "How Jay Powell steered the Federal Reserve under fire from Donald Trump - Financial Times",
-      "link": "https://www.ft.com/content/b7d91c52-47b6-4bf6-bae9-18a847940c9a",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# How Jay Powell steered the Federal Reserve under fire from Donald Trump. Central bank chair’s tenure was marked by inflation shocks and his battle to protect the institution’s independence. * How Jay Powell steered the Federal Reserve under fire from Donald Trump on x (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on facebook (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on linkedin (opens in a new window). * How Jay Powell steered the Federal Reserve under fire from Donald Trump on whatsapp (opens in a new window). It also highlights how Powell, who was the target of a criminal investigation by Trump’s Department of Justice, has become a symbol of resistance to the president’s attacks on US institutions — at one point appearing in an extraordinary video rebuking Trump.",
-      "published_at": "Wed, 20 May 2026 04:00:27 GMT",
-      "collected_at": "2026-05-20 04:48:59",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "How Jay Powell steered the Federal Reserve under fire from Donald Trump - Financial Times",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 62,
-    "report_date": "2026-05-24",
-    "total_articles": 3,
+    "id": 63,
+    "report_date": "2026-05-25",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 3,
-    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他藝人如BTS Jung Kook、Drake、Michael Jackson等人的新作品或動態，以及音樂產業的發展。",
+    "neutral_count": 7,
+    "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。所有報導皆聚焦於其他國際娛樂界動態、商業新聞及社會事件，例如Michael Jackson傳記電影票房表現、Drake新專輯發行與排行成績，以及BTS Jung Kook與Calvin Klein的合作等。",
     "key_events": [
-      "無周杰倫新聞",
-      "今日焦點在他人",
-      "無相關活動"
+      "無周杰倫相關事件",
+      "無周杰倫相關事件",
+      "無周杰倫相關事件"
     ],
-    "created_at": "2026-05-24 04:49:31"
+    "created_at": "2026-05-25 05:08:32"
   },
   "recentReports": [
+    {
+      "id": 63,
+      "report_date": "2026-05-25",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。所有報導皆聚焦於其他國際娛樂界動態、商業新聞及社會事件，例如Michael Jackson傳記電影票房表現、Drake新專輯發行與排行成績，以及BTS Jung Kook與Calvin Klein的合作等。",
+      "key_events": [
+        "無周杰倫相關事件",
+        "無周杰倫相關事件",
+        "無周杰倫相關事件"
+      ],
+      "created_at": "2026-05-25 05:08:32"
+    },
     {
       "id": 62,
       "report_date": "2026-05-24",
@@ -661,21 +676,6 @@
         "娛樂焦點非周董"
       ],
       "created_at": "2026-05-19 04:44:48"
-    },
-    {
-      "id": 56,
-      "report_date": "2026-05-18",
-      "total_articles": 6,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日搜集的新聞中，未發現與周杰倫直接相關的報導。主要焦點集中在其他國際藝人動態，例如麥可傑克森家族的法律訴訟與電影票房表現，以及饒舌歌手Drake驚喜發布三張新專輯的消息。此外，哈利史泰爾斯在阿姆斯特丹巡演的成功回歸、女神卡卡演唱會電影的發布計畫，以及多位明星出席時尚活動和頒獎典禮等娛樂圈事件也受到關注。整體而言，今日娛樂新聞涵蓋了音樂發行、法律糾紛及名人活動等多元面向，但周杰倫並非其中焦點。",
-      "key_events": [
-        "無周杰倫相關新聞",
-        "未發現周杰倫動態",
-        "今日無周杰倫焦點"
-      ],
-      "created_at": "2026-05-18 04:52:25"
     }
   ]
 }
