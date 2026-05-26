@@ -17499,6 +17499,48 @@
       "summary": "此新聞內容主要關於美國政治、科技公司財報及股市分析，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1251,
+      "title": "Jack Osbourne fires back at body shamers calling him 'grossly underweight' - Fox News",
+      "link": "https://www.foxnews.com/entertainment/jack-osbourne-fires-back-body-shamers-calling-grossly-underweight",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "* #### ‘Grey’s Anatomy’ star Sarah Drew reveals pastor father’s advice that transformed her life. * #### Prince William says he's 'hoping' for an invite to Taylor Swift and Travis Kelce's wedding. * #### Ken Jennings on the 'Jeopardy!' prep trick he swears by and the category that made even him sweat. ## The 40-year-old says he's been the same weight for 6 months and the only change was swapping his beard for a mustache. He later added that he has been \"brutalized by the press about being overweight\" his entire life and cannot believe that even though he got \"down to a healthy weight,\" he has been \"criticized even more,\" telling the journalists and other body shamers that they can \"get f--ked.\". Jack is not the only Osbourne who has dealt with people commenting on their body, as his sister, Kelly Osbourne, received backlash after her appearance at the BRIT Awards.",
+      "published_at": "Sun, 24 May 2026 01:25:52 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Jack Osbourne反擊身材羞辱者，以及其他歐美娛樂資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1252,
+      "title": "Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite - TMZ",
+      "link": "https://www.tmz.com/2026/05/25/bam-margera-not-going-to-jackass-movie-premiere/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite. ## Bam Margera Not Attending 'Jackass' Premiere Despite Invite. The Hollywood premiere of \"Jackass: Best and Last\" is quickly approaching ... **Bam Margera** got a ticket to the big event for the final 'Jackass' film dropping next month ... We're also told that he's not quite ready for a reunion after a bitter fallout with the cast, specifically **Johnny Knoxville** and director **Jeff Tremaine** ... but he's for sure rooting for the flick to be a giant success, like all the others have been. Bam might not be at the premiere ... Bam **made a deal** earlier this year that allowed producers to use old, never-before-seen footage of him in 'Best and Last,' which will be a mix of newly shot stunts and unseen OG footage. Bam has a super bitter fallout with the 'Jackass' fam and Paramount after he was **fired from the last film** for allegedly breaking his contract, which included a stipulation that he had to stay sober.",
+      "published_at": "Mon, 25 May 2026 08:00:10 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Bam Margera未出席《Jackass: Best and Last》首映會，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1253,
+      "title": "Bruno Mars Matches Taylor Swift With A New Top 10 Smash - Forbes",
+      "link": "https://www.forbes.com/sites/hughmcintyre/2026/05/24/bruno-mars-matches-taylor-swift-with-a-new-top-10-smash/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Bruno Mars Matches Taylor Swift With A New Top 10 Smash. Throughout 2026, \"I Just Might,\" the lead single from his recently released album *The Romantic*, has been a winner, and that cut is once again counted as the most-played tune in the nation. ## Bruno Mars Pushes \"Risk It All\" Into the Top 10. Mars pushes \"Risk It All,\" the second single from *The Romantic*, into the Radio Songs chart's top 10 for the first time. The tune pushes from No. 11 to No. 9, cracking the uppermost region in only its eighth frame on the ranking of the cuts that reach the largest total audiences across all radio formats in the U.S. ## Bruno Mars Matches Taylor Swift’s Top 10 Count. Thanks to the fast ascent of \"Risk It All,\" Mars has now claimed 22 top 10 smashes on the Radio Songs chart. With a twenty-second top 10-charter to his name, Mars matches Taylor Swift for the fourth-most appearances between Nos. 1 and 10 of all time.",
+      "published_at": "Sun, 24 May 2026 00:00:00 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Bruno Mars與Taylor Swift的音樂成就，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -18396,6 +18438,21 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-05-25 05:08:32"
+    },
+    {
+      "id": 64,
+      "report_date": "2026-05-26",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他藝人、名人或產業動態，因此今日無周杰倫的最新動態可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "無重要事件"
+      ],
+      "created_at": "2026-05-26 04:46:45"
     }
   ],
   "notification_logs": [
@@ -19364,11 +19421,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-05-25 05:08:33"
+    },
+    {
+      "id": 139,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-26 04:46:45"
+    },
+    {
+      "id": 140,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-05-26 04:46:46"
     }
   ],
   "_meta": {
-    "nextArticleId": 1251,
-    "nextReportId": 64,
-    "nextLogId": 139
+    "nextArticleId": 1254,
+    "nextReportId": 65,
+    "nextLogId": 141
   }
 }

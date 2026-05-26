@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 3,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 1250,
+    "total": 1253,
     "positive": 339,
     "negative": 47,
-    "neutral": 864,
+    "neutral": 867,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-11",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-12",
       "total": 7,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-26",
+      "total": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1251,
+      "title": "Jack Osbourne fires back at body shamers calling him 'grossly underweight' - Fox News",
+      "link": "https://www.foxnews.com/entertainment/jack-osbourne-fires-back-body-shamers-calling-grossly-underweight",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "* #### ‘Grey’s Anatomy’ star Sarah Drew reveals pastor father’s advice that transformed her life. * #### Prince William says he's 'hoping' for an invite to Taylor Swift and Travis Kelce's wedding. * #### Ken Jennings on the 'Jeopardy!' prep trick he swears by and the category that made even him sweat. ## The 40-year-old says he's been the same weight for 6 months and the only change was swapping his beard for a mustache. He later added that he has been \"brutalized by the press about being overweight\" his entire life and cannot believe that even though he got \"down to a healthy weight,\" he has been \"criticized even more,\" telling the journalists and other body shamers that they can \"get f--ked.\". Jack is not the only Osbourne who has dealt with people commenting on their body, as his sister, Kelly Osbourne, received backlash after her appearance at the BRIT Awards.",
+      "published_at": "Sun, 24 May 2026 01:25:52 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Jack Osbourne反擊身材羞辱者，以及其他歐美娛樂資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1252,
+      "title": "Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite - TMZ",
+      "link": "https://www.tmz.com/2026/05/25/bam-margera-not-going-to-jackass-movie-premiere/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite. ## Bam Margera Not Attending 'Jackass' Premiere Despite Invite. The Hollywood premiere of \"Jackass: Best and Last\" is quickly approaching ... **Bam Margera** got a ticket to the big event for the final 'Jackass' film dropping next month ... We're also told that he's not quite ready for a reunion after a bitter fallout with the cast, specifically **Johnny Knoxville** and director **Jeff Tremaine** ... but he's for sure rooting for the flick to be a giant success, like all the others have been. Bam might not be at the premiere ... Bam **made a deal** earlier this year that allowed producers to use old, never-before-seen footage of him in 'Best and Last,' which will be a mix of newly shot stunts and unseen OG footage. Bam has a super bitter fallout with the 'Jackass' fam and Paramount after he was **fired from the last film** for allegedly breaking his contract, which included a stipulation that he had to stay sober.",
+      "published_at": "Mon, 25 May 2026 08:00:10 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Bam Margera未出席《Jackass: Best and Last》首映會，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1253,
+      "title": "Bruno Mars Matches Taylor Swift With A New Top 10 Smash - Forbes",
+      "link": "https://www.forbes.com/sites/hughmcintyre/2026/05/24/bruno-mars-matches-taylor-swift-with-a-new-top-10-smash/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Bruno Mars Matches Taylor Swift With A New Top 10 Smash. Throughout 2026, \"I Just Might,\" the lead single from his recently released album *The Romantic*, has been a winner, and that cut is once again counted as the most-played tune in the nation. ## Bruno Mars Pushes \"Risk It All\" Into the Top 10. Mars pushes \"Risk It All,\" the second single from *The Romantic*, into the Radio Songs chart's top 10 for the first time. The tune pushes from No. 11 to No. 9, cracking the uppermost region in only its eighth frame on the ranking of the cuts that reach the largest total audiences across all radio formats in the U.S. ## Bruno Mars Matches Taylor Swift’s Top 10 Count. Thanks to the fast ascent of \"Risk It All,\" Mars has now claimed 22 top 10 smashes on the Radio Songs chart. With a twenty-second top 10-charter to his name, Mars matches Taylor Swift for the fourth-most appearances between Nos. 1 and 10 of all time.",
+      "published_at": "Sun, 24 May 2026 00:00:00 GMT",
+      "collected_at": "2026-05-26 04:46:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Bruno Mars與Taylor Swift的音樂成就，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1244,
       "title": "Michael Jackson Biopic Hits Unprecedented Box Office Milestone In Week 5 - ScreenRant",
@@ -512,66 +554,39 @@
       "summary": "這篇新聞報導關於佛羅里達州副州長Jay Collins參訪大學討論勞動力培訓與職業教育，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1228,
-      "title": "Harry Styles Team Addresses Fan Complaints About Obstructed Views - Stereogum",
-      "link": "https://stereogum.com/2499419/harry-styles-team-addresses-fan-complaints-about-obstructed-views/news",
-      "source": "Tavily (stereogum.com)",
-      "snippet": "Following a special one-off Manchester gig in March, Harry Styles has officially commenced his tour in support of his recent album *Kiss All The Time. So far he's played two nights in Amsterdam, with setlists that include almost all of his new songs, a decent selection of his old songs, and little nods to Talking Heads, Underworld, and Paul Simon. But the setlist isn't what's been getting people talking about Styles' tour; his stage setup is. That's no problem if you're in the stadium seats, but for fans who paid hundreds of euros for GA tickets and spent hours queuing outside the venue, they're being met with some pretty severely obstructed views at certain points of the set. \"The floor concept was designed to give fans freedom of movement and the ability to experience the show from different positions, rather than being confined to one fixed viewing angle,\" a rep told TMZ.",
-      "published_at": "Tue, 19 May 2026 19:53:29 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於哈利·史泰爾斯（Harry Styles）演唱會因舞台設計導致部分粉絲視線受阻引發抱怨，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1217,
-      "title": "Happy 80th Birthday, Cher! See the Icon's Incredible Life and Career in Photos - People.com",
-      "link": "https://people.com/cher-career-life-in-photos-11978588",
-      "source": "Tavily (people.com)",
-      "snippet": "PEOPLE Dives Into Cher's Life and Career amid Her 80th Birthday in a New Special Edition. 17 Vintage Photos of a Young Janet Jackson and Her Famous Family. See the Biggest Accomplishments of Beyoncé and Jay-Z's 14-Year-Old Eldest Daughter. PEOPLE does not endorse the opinions and views shared by readers in our comment sections. By Zoey Lyttle, Stephanie Sengwe, and Brendan Le. See Harvey Keitel's Life in Photos as the Actor Turns 87 Today. Janet Jackson Celebrates Her 60th Birthday with an 'Outpouring of Love' from Friends, Including Sister La Toya. See the Grammy Winner's Cutest Family Pictures with Faith Hill and Their Three Daughters. See The Sweetest Family Photos of Richard Gere with His Wife Alejandra Silva and Their Children. Lizzo Gets a Kiss from Boyfriend Myke Wright in Sweet Moment from Her 38th Birthday Celebrations. Lizzo Celebrates 38th Birthday with Boyfriend Myke Wright at the Chateau Marmont in Los Angeles. Pierce Brosnan Celebrates His 73rd Birthday with Wife Keely Shaye in New Zealand.",
-      "published_at": "Wed, 20 May 2026 11:00:00 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要關於多位名人的生日慶祝與生活，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1218,
-      "title": "Macro strategist David Hunter warns of 80% market bust, 25% inflation as global debt math breaks - KITCO",
-      "link": "https://www.kitco.com/news/article/2026-05-20/macro-strategist-david-hunter-warns-80-market-bust-25-inflation-global-debt",
-      "source": "Tavily (www.kitco.com)",
-      "snippet": "##### Kitco News The Leading News Source in Precious Metals. Kitco NEWS has a diverse team of journalists reporting on the economy, stock markets, commodities, cryptocurrencies, mining and metals with accuracy and objectivity. Jeremy Szafron joins Kitco News as an anchor and producer from Kitco’s Vancouver bureau. Jeremy began his career in 2006 as a Journalist at CTV (Canada’s largest network), initially engaging audiences as an entertainment reporter before pivoting to business reporting focusing on mining and small-caps. A graduate of Concordia University with a BA in Journalism, Jeremy's academic background laid the foundation for his diverse and dynamic career. Now, as an Anchor at Kitco News, Jeremy will continue to inform a global audience of the latest developments and critical themes in finance and commodities. Kitco Metals Inc. and the author of this article do not accept culpability for losses and/ or damages arising from the use of this publication.",
-      "published_at": "Wed, 20 May 2026 21:42:14 GMT",
-      "collected_at": "2026-05-21 04:55:04",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於宏觀策略師對市場崩潰和通膨的警告，以及Kitco新聞新主播的介紹，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 63,
-    "report_date": "2026-05-25",
-    "total_articles": 7,
+    "id": 64,
+    "report_date": "2026-05-26",
+    "total_articles": 3,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。所有報導皆聚焦於其他國際娛樂界動態、商業新聞及社會事件，例如Michael Jackson傳記電影票房表現、Drake新專輯發行與排行成績，以及BTS Jung Kook與Calvin Klein的合作等。",
+    "neutral_count": 3,
+    "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他藝人、名人或產業動態，因此今日無周杰倫的最新動態可供摘要。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫新聞",
+      "無相關報導",
+      "無重要事件"
     ],
-    "created_at": "2026-05-25 05:08:32"
+    "created_at": "2026-05-26 04:46:45"
   },
   "recentReports": [
+    {
+      "id": 64,
+      "report_date": "2026-05-26",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他藝人、名人或產業動態，因此今日無周杰倫的最新動態可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關報導",
+        "無重要事件"
+      ],
+      "created_at": "2026-05-26 04:46:45"
+    },
     {
       "id": 63,
       "report_date": "2026-05-25",
@@ -661,21 +676,6 @@
         "其他Jay非本人"
       ],
       "created_at": "2026-05-20 04:49:22"
-    },
-    {
-      "id": 57,
-      "report_date": "2026-05-19",
-      "total_articles": 4,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 4,
-      "daily_summary": "今日搜集到的新聞中，並無直接提及周杰倫的相關報導。多數新聞聚焦於其他歐美藝人如Michael Jackson家族的法律爭議、Drake發行新專輯，以及NBA球員和美國政治人物的動態等，周杰倫並非今日娛樂新聞的焦點。",
-      "key_events": [
-        "未有周杰倫報導",
-        "今日無相關事件",
-        "娛樂焦點非周董"
-      ],
-      "created_at": "2026-05-19 04:44:48"
     }
   ]
 }
