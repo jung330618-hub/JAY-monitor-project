@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 3
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 1253,
+    "total": 1261,
     "positive": 339,
     "negative": 47,
-    "neutral": 867,
+    "neutral": 875,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-12",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-13",
       "total": 9,
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-27",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1254,
+      "title": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-25/miles-davis-centennial-musicians-carlos-santana-wyclef-jean-flea-chuck-d-ron-carter",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "# Miles Davis at 100: Musicians explain why he is the GOAT. * Beyond his trumpet, Davis’ style, swagger and uncompromising attitude made him a model of artistic courage, with admirers saying he created a new language — and a blueprint for fearless reinvention. Still possessor of the biggest-selling jazz record in history, “Kind of Blue,” Davis casts a huge influence over the whole music world for his uncompromising artistic vision, constant evolution, style and more. In honor of Davis’ centennial, The Times spoke to an array of notable artists from all walks of music, some who knew and played with him, some fans of the man, but all agreed, Miles Davis was and is a singular force in music, an artist like no other in his vision, passion and feeling for the music. **Bilal, singer:** If you play the music you’ve got to look the part, and it was almost like he got into a movie role or something like that.",
+      "published_at": "Mon, 25 May 2026 10:00:00 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要探討爵士樂傳奇人物Miles Davis的音樂影響力與藝術成就，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1255,
+      "title": "Justice Department deletes press releases on charges against Jan. 6 rioters - MSN",
+      "link": "https://www.msn.com/en-us/news/politics/justice-department-deletes-press-releases-on-charges-against-jan-6-rioters/ar-AA23R5Ad?ocid=entnewsntp",
+      "source": "Tavily (www.msn.com)",
+      "snippet": "* 発表済 本決算：2026/04/09. 株価：15分ディレイ 財務データ：2026/05/25 更新. # 今期業績進捗状況. ### 直近実績 (百万円). ### 今期経常利益進捗状況. ### 経常利益四半期進捗 (百万円). | コンセンサス予想 | 2,267 | -- | -- | 10,770 |. | 前期  2026 02  進捗結果 | (07/10) 2,088  -- % | (10/15) 4,144  -- % | (01/14) 6,217  -- % | (04/09) 9,087  -- % |. # 業績推移. | 決算期 | 売上高 | 営業利益 | 経常利益 | 当期利益 |. | 202702 予  I | 34,300 (10.8 %) | 10,600 (17.9 %) | -- (-- %) | 7,420 (14.2 %) |. * ※「S」：米国会計基準、「I」：国際会計基準(IFRS)、未記載：日本会計基準. * ※2021年4月から「新収益認識基準」が強制適用となったことにより、対前年で売上高が見かけ上著しく減少するケースが発生しています。ご留意の上、企業発表の決算短信等も併せてご参照ください。. # 業績予想修正履歴. ### 経常利益修正履歴. | 決算期 | 日付 | 予・実 | 売上高 | | 営業利益 | | 経常利益 | | 当期利益 | |.",
+      "published_at": "Mon, 25 May 2026 07:48:46 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞標題關於美國司法部刪除1月6日暴動相關新聞稿，而內容摘要則為日本企業的財務數據與業績預測，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1256,
+      "title": "Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
+      "link": "https://www.ign.com/videos/jackass-best-and-last-stars-are-coming-to-ign-live-2026",
+      "source": "Tavily (www.ign.com)",
+      "snippet": "Jackass: Best and Last Stars Are Coming to IGN Live 2026. It's official: Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper are coming to IGN Live 2026 to promote Jackass: Best and Last! ### Did you enjoy this video? ### In This Video. Initial Release: Jun 26, 2026. ### Where to Watch. Not yet available for streaming. ### Related. The First Trailer for Jackass: Best and Last is Exactly What You'd Expect. Jackass: Best and Last - Official Trailer.",
+      "published_at": "Tue, 26 May 2026 21:15:54 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於《Jackass: Best and Last》的明星將出席IGN Live 2026活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1257,
+      "title": "Bianca Censori Rocks Revealing Top on Date With Kanye - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/videos/bianca-censori-rocks-revealing-top-164243606.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "## Entertainment:. * Nic Cage debunks Graceland rumor. * Colbert revisits old hosting gig. * Cannes Palme d'Or winner. * Shakira drops 'Dai Dai' video. * Miley Cyrus's Hollywood star. * Olivia Rodrigo's new single. * Colbert's final 'Late Show'. # Bianca Censori Rocks Revealing Top on Date With Kanye. Add Yahoo as a preferred source to see more of our stories on Google. Bianca Censori put on a \"Thriller\" display with her most recent fashion choice ... showing off her chest in a low-cut top while watching \"Michael\" with Kanye West.",
+      "published_at": "Sat, 23 May 2026 16:42:43 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Bianca Censori Rocks Revealing Top on Date With Kanye - Yahoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1258,
+      "title": "Jay Woods is watching two beaten-down software stocks into earnings this week - CNBC",
+      "link": "https://www.cnbc.com/2026/05/26/jay-woods-is-watching-two-software-stocks-into-earnings-this-week.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Woods is watching two beaten-down software stocks into earnings this week. See the full discussion above.) NYSE insider Jay Woods is keeping an eye on two beaten-down software stocks — Salesforce and Snowflake — as they report earnings this week. Woods, chief market strategist at Freedom Capital Markets, believes that there is \"a nice double bottom forming\" in the stock — a chart pattern that could suggest a bullish reversal. While Salesforce is still \"in a major downtrend,\" Woods believes that the $167 level provides key support. On a run, look for $202 — again, that 200-day moving average — we get a lot of stocks under that average go back, mean revert, and give you a nice near-term gain. (Watch full video above.) Veteran trader Woods also touches on the following in his video: The key level to watch on the S & P 500 to see if the index can take another leg higher.",
+      "published_at": "Tue, 26 May 2026 17:26:07 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay Woods is watching two beaten-down software stocks into earnings this week - CNBC",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1259,
+      "title": "Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets 05/21/2026 - MediaPost",
+      "link": "https://www.mediapost.com/publications/article/415245/sources-wonder-if-jay-penske-will-buy-some-of-vox.html",
+      "source": "Tavily (www.mediapost.com)",
+      "snippet": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. # Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets. Vox Media’s remaining assets after the $300 million sale of the Vox Media Podcast Network and *New York*magazine  to James Murdoch’s Lupa may be followed by the. sale of the remaining Vox assets, AdWeek writes. Jay Penske, who owns 20% of Vox Media’s stock at Penske Media is likely to acquire one or more of the remaining brands, sources speculate. Read the whole story at Adweek ». More from *Around the Net In Media*. * Talking Biz News, Wednesday, May 20, 2026 9:04 AM. Reuters has been accused of unfair labor practices by the NewsGuild of New York after it allegedly cut ties with podcast producer Evan Jacoby over comments he made questioning Reuters’. Read the whole story at Talking Biz News ».",
+      "published_at": "Thu, 21 May 2026 02:03:05 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets 05/21/2026 - MediaPost",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1260,
+      "title": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it - The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# A Louisiana state senator helped secure Meta’s largest datacenter. Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter. For more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish. He cosponsored two bills that enabled the land deal between Meta and the state. Now, a Floodlight investigation has found that while Morris used his political position to advance the project, he and his business partners were buying and selling the land around it over the past 15 months. As recently as February, Morris and his partners sold hundreds of acres to utility giant Entergy for a methane-burning power plant to provide electricity for the datacenter. He said his land-holdings are public record and that the tax breaks he voted for applied to all datacenters – not just the Meta project.",
+      "published_at": "Mon, 25 May 2026 12:00:25 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it - The Guardian",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1261,
+      "title": "Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour - Billboard",
+      "link": "https://www.billboard.com/music/latin/arcangel-us-tour-dates-la-8va-maravilla-20-aniversario-tour-1236256921/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour. The trek is in support of his latest studio album of the same name and a celebration of his 20th career anniversary. Arcángel continues to celebrate his two-decade trajectory by announcing the U.S. leg of his La 8va Maravilla 20 Aniversario tour on Tuesday (May 26). ### Ziggy Marley Is Looking on the 'Brightside' for His First Proper Solo Album in Eight Years: 'I Listen to This Album As If I Didn't Make It'. Arcángel’s world tour that kicked off in May with two dates in Spain will continue from July to September with dates across Latin America, including Mexico, Argentina and Colombia. The tour is in support of his latest studio album, *La 8va Maravilla*, an experimental set that navigates merengue, Afro house, *banda*, Jersey club, pop and his signature R&B and reggaetón sound, and has collaborations with Ricky Martin, Daddy Yankee, Grupo Firme and more.",
+      "published_at": "Tue, 26 May 2026 20:04:43 GMT",
+      "collected_at": "2026-05-27 04:59:57",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour - Billboard",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1251,
       "title": "Jack Osbourne fires back at body shamers calling him 'grossly underweight' - Fox News",
@@ -442,136 +554,31 @@
       "summary": "此新聞資訊主要關於麥可·傑克森的歌曲與AI音樂在排行榜上的表現，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1238,
-      "title": "This Bay Area fashion gala ends with soup, cake and Fantastic Negrito - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/arts-exhibits/article/creative-growth-beyond-trend-berkeley-22247081.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# This Bay Area fashion gala ends with soup, cake and Fantastic Negrito. One of the most joyful fashion and art events in the Bay Area returns with a brand-new award and a performance by a three-time Grammy winner. The Oakland art center for artists with developmental disabilities Creative Growth hosts its Beyond Trend fashion show and gala this year at the Ciel Creative Space in Berkeley. Here’s where to watch in the Bay Area. Tony Bravo is the San Francisco Chronicle’s Arts & Culture columnist. Bravo joined the Chronicle staff in 2015 as a reporter for the Style section and also wrote the relationship column “Connectivity.” He is the host of the live interview series “Show & Tell” every month at Four One Nine and created the VoiceMap Chronicle LGBTQ audio tour “Over the Rainbow in the Castro” available for download on the app.",
-      "published_at": "Wed, 20 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "This Bay Area fashion gala ends with soup, cake and Fantastic Negrito - San Francisco Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1239,
-      "title": "Kia MVP Ladder: Myriad of changes mark start of 2019 - NBA",
-      "link": "https://www.nba.com/news/kia-mvp-ladder-week-12-2018-19",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "### Kia MVP Ladder. LeBron James recently said he thinks he’s the greatest player of all time and would indeed relish adding a fifth Kia MVP to his trophy case in his first season with the Los Angeles Lakers. He’s been playing like it, as the Houston Rockets have taken off over the past three weeks with Harden leading the way. Meanwhile, Giannis Antetokounmpo — the upstart in this season’s MVP chase — is authoring a rather compelling case of his own in Milwaukee. And we didn’t mention the other legit MVP candidates — Kawhi Leonard in Toronto, Stephen Curry and Kevin Durant in Oakland, Joel Embiid in Philadelphia — who are sure to keep this debate rolling as the 2018-19 season rolls on. There’s a new No. 1 in this week’s Kia Race to the MVP Ladder, and for good reason. *The top five this week in the **2018-19 Kia Race to the MVP Ladder:***.",
-      "published_at": "Fri, 22 May 2026 12:17:23 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導2018-19賽季NBA MVP的競賽情況，提及多位籃球明星。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1240,
-      "title": "Drake’s ‘Habibti’ Album: All 11 Tracks Ranked - Billboard",
-      "link": "https://www.billboard.com/lists/drakes-habibti-tracks-ranked/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "Drake delivers an R&B collection of songs on 'Habibti,' one of three new LPs he just released. He has always been committed to two things: making melodic, R&B music for women and giving people bars on his rap records. We were introduced to him as Heartbreak Drake in his early days, and he was a lover boy before officially dubbing himself that in the lead-up to his 2021 LP *Certified Loverboy*. In the past, he dedicated an entire side of an album to R&B, with the B-side of *Scorpion* in 2018. It felt long overdue for Drake to lock in solely on R&B, and while the joint effort was successful, there was the question of whether he would ever do one on his own. It has a very good beat, and Drake’s flow is cool, but it doesn’t necessarily hit another gear like some of the best songs on *Habibti* do. “White Bone” is one of the best vocal performances by Drake on this album, and he maintains that throughout the first half of the song.",
-      "published_at": "Sat, 16 May 2026 22:38:16 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Drake新專輯《Habibti》的歌曲排名與評價，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1223,
-      "title": "They Don’t Make Celebrities Like Michael Jackson Anymore - The Atlantic",
-      "link": "https://www.theatlantic.com/culture/2026/05/michael-movie-box-office-success/687186/",
-      "source": "Tavily (www.theatlantic.com)",
-      "snippet": "The success of *Michael* suggests that audiences are nostalgic for a universal kind of fame that’s rare today. In the 1980s, the former Los Angeles Lakers superstar invited Jackson to a Lakers game, an invitation the singer was initially hesitant to accept because he was worried that his presence would create too much of a frenzy. He existed on a truly singular plane of stardom—and nearly 20 years after his death, he still inspires a unique level of obsession, devotion, and curiosity from fans, even those who weren’t alive to see him in the flesh. The enormous success of *Michael*, the recently released biopic about Jackson’s life, is a testament to that staying power. As I watched *Michael* in the theater, I was flooded by my own memories of Jackson.",
-      "published_at": "Sat, 16 May 2026 12:00:00 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要探討麥可傑克森的普遍性名氣與當代名人現象，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1224,
-      "title": "Jung Kook Collaborates With Calvin Klein on a Limited-edition Capsule - WWD",
-      "link": "https://wwd.com/fashion-news/sportswear/calvin-klein-partners-jung-kook-limited-edition-capsule-iconic-designs-rebellious-style-1238955625/",
-      "source": "Tavily (wwd.com)",
-      "snippet": "# EXCLUSIVE: Calvin Klein Partners With Jung Kook on Limited-edition Capsule, Blending Iconic Designs and Rebellious Style. The 20-style capsule reimagines the brand's essentials with Jung Kook's edgy, biker-inspired aesthetic. * Share this article on Talk. Calvin Klein Inc., part of PVH Corp., will launch Jung Kook for Calvin Klein, a limited-edition men’s and women’s capsule in partnership with global brand ambassador Jung Kook, marking his first fashion collaboration. Building on the brand’s long-standing ambassadorship with the artist, the men’s and women’s 20-style capsule reimagines Calvin Klein’s essentials through the lens of Jung Kook’s rebellious and edgy style, blending biker attitude with Calvin Klein’s storied design codes. Discussing why he thinks a Jung Kook by Calvin Klein capsule will resonate with his customers, and whether he believes it will attract new customers to the brand, Savman told WWD, “Jung Kook has been a global ambassador for Calvin Klein for years, and we’ve seen the powerful connection he has with his audience globally.",
-      "published_at": "Mon, 18 May 2026 11:30:00 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Jung Kook與Calvin Klein的聯名膠囊系列，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1225,
-      "title": "Drake surprise drops three albums and mentions rapper feud - BBC",
-      "link": "https://www.bbc.com/news/articles/cwy2843z094o",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "# Drake surprise drops three albums and mentions the Kendrick Lamar beef. The rapper's dropped his anticipated solo record, Iceman, plus two more - Habibti and Maid of Honour - with 43 songs in total. They arethe first albums the Canadian has dropped since his beef with US rapper Kendrick Lamar escalated in 2024. And, yes, he does bring it up on the new record. The big question about the heavily hyped new release was whether Drake would use his new music to reignite his bitter feud with Lamar. And on Iceman album opener, Make Them Cry, it looks like Drake has given a glimpse into his feelings at the height of the rap beef. Most critics have yet to share reviews of Iceman and Drake's two other new releases, but reports suggest that streaming services were hit with crashes and slowdowns as fans rushed to hear his new music. Drake has been building excitement for his new album with a series of Iceman livestreams.",
-      "published_at": "Fri, 15 May 2026 09:48:01 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Drake surprise drops three albums and mentions rapper feud - BBC",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1226,
-      "title": "Waymo service in Atlanta still suspended after self-driving car stuck in Midtown floodwaters - Atlanta News First",
-      "link": "https://www.atlantanewsfirst.com/2026/05/22/waymo-service-atlanta-still-suspended-after-self-driving-car-stuck-midtown-floodwaters/",
-      "source": "Tavily (www.atlantanewsfirst.com)",
-      "snippet": "# Waymo service in Atlanta still suspended after self-driving car stuck in Midtown floodwaters. (Atlanta News First) — Waymo’s self-driving ride-hailing service in Atlanta remained suspended after one of the company’s autonomous vehicles became stuck in floodwaters on a Midtown street Wednesday night. No one was inside the car at the time, according to Waymo. Georgia Tech researchers said the incident highlights a known challenge for autonomous vehicles: judging the depth of water on flooded streets. That can be really a problem for flooding,” said Georgia Tech professor Glen Chou on LIDAR and radar. Chou described the situation as a relatively small issue that can be addressed as autonomous vehicle systems continue to collect data. Dr. Srinivas Peeta, who leads the Autonomous and Connected Transportation Lab at Georgia Tech, said incidents like this can be surprising for the public. Peeta said the vehicles are safe under normal conditions and that safety should improve over time as the technology advances.",
-      "published_at": "Fri, 22 May 2026 00:04:34 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Waymo自駕車在亞特蘭大遭遇洪水受困，並提及喬治亞理工學院教授Glen Chou，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1227,
-      "title": "Lieutenant Governor Jay Collins Visits Northbridge University to Highlight Workforce Training and Career Education in Florida - Positively Osceola",
-      "link": "https://www.positivelyosceola.com/lieutenant-governor-jay-collins-visits-northbridge-university-to-highlight-workforce-training-and-career-education-in-florida/",
-      "source": "Tavily (www.positivelyosceola.com)",
-      "snippet": "# Lieutenant Governor Jay Collins Visits Northbridge University to Highlight Workforce Training and Career Education in Florida. — Florida Lieutenant Governor Jay Collins visited Northbridge University on Wednesday afternoon for a workforce development roundtable and campus tour focused on strengthening Florida’s skilled labor pipeline and expanding career-focused education opportunities. The visit brought together university leadership, elected officials, economic development leaders, business executives, and community stakeholders for discussions centered on workforce readiness, healthcare education, skilled trades training, and employer-driven academic pathways designed to meet Florida’s growing labor demands. **“We were honored to welcome Lieutenant Governor Collins to our Kissimmee campus for a meaningful conversation about the future of higher education and workforce development in Florida,” said Dr. James Michael Burkett, president of U.S. operations for Northbridge University. — El vicegobernador de Florida, Jay Collins, visitó el miércoles el campus de Northbridge University para participar en una mesa redonda sobre desarrollo laboral y realizar un recorrido por las instalaciones enfocadas en la capacitación de la futura fuerza laboral del estado.",
-      "published_at": "Thu, 21 May 2026 05:24:01 GMT",
-      "collected_at": "2026-05-22 04:46:50",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於佛羅里達州副州長Jay Collins參訪大學討論勞動力培訓與職業教育，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 64,
-    "report_date": "2026-05-26",
-    "total_articles": 3,
+    "id": 65,
+    "report_date": "2026-05-27",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 3,
-    "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他藝人、名人或產業動態，因此今日無周杰倫的最新動態可供摘要。",
-    "key_events": [
-      "無周杰倫新聞",
-      "無相關報導",
-      "無重要事件"
-    ],
-    "created_at": "2026-05-26 04:46:45"
+    "neutral_count": 8,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times、Justice Department deletes press releases on charges against Jan. 6 rioters - MSN、Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
+    "created_at": "2026-05-27 05:00:35"
   },
   "recentReports": [
+    {
+      "id": 65,
+      "report_date": "2026-05-27",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times、Justice Department deletes press releases on charges against Jan. 6 rioters - MSN、Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
+      "created_at": "2026-05-27 05:00:35"
+    },
     {
       "id": 64,
       "report_date": "2026-05-26",
@@ -661,21 +668,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-21 04:55:30"
-    },
-    {
-      "id": 58,
-      "report_date": "2026-05-20",
-      "total_articles": 4,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 4,
-      "daily_summary": "今日新聞搜尋中，並無直接關於周杰倫的報導。所有提及「Jay」的標題皆指向其他人物或事件，例如Jay Powell、Jaylen Brown、Jay Fortune、Jay Williams、Jay Z及Jay Gillian等，與周杰倫無關。",
-      "key_events": [
-        "無周杰倫新聞",
-        "今日無相關報導",
-        "其他Jay非本人"
-      ],
-      "created_at": "2026-05-20 04:49:22"
     }
   ]
 }
