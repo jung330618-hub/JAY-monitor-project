@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 8
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1261,
+    "total": 1268,
     "positive": 339,
     "negative": 47,
-    "neutral": 875,
+    "neutral": 882,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-13",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-14",
       "total": 9,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-28",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1262,
+      "title": "Sonny Rollins, saxophonist and restless genius of jazz, dead at 95 - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/2026/05/26/sonny-rollins-jazz-saxophonist-dies/",
+      "source": "Tavily (www.chicagotribune.com)",
+      "snippet": "News Obituaries |   Sonny Rollins, saxophonist and restless genius…. # Sonny Rollins, saxophonist and restless genius of jazz, dead at 95. NEW YORK — Sonny Rollins, the tenor saxophonist and restless genius whose bold, distinctive tone and constant experimentation kept him on the cutting edge of jazz for more than 50 years, died Monday at age 95. From his early days as a teen phenom to his more measured solo work and experimentation with free jazz, Rollins was revered for his improvisational skill. He was one of the last living greats of the bebop era and — along with John Coltrane and Charlie Parker — one of the most influential saxophonists of his time. While his early bebop work was the most popular with his fans, Rollins never looked back, saying he found it “excruciating” to even listen to the flaws in his older recordings. “I played a couple of concerts early on where I was out in the open in the afternoon,” He told the New York Times in 2020.",
+      "published_at": "Tue, 26 May 2026 10:50:13 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導傳奇爵士薩克斯風手Sonny Rollins逝世，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1263,
+      "title": "John McClain, co-executor of Michael Jackson estate, dies at 71 - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-27/john-mcclain-michael-jackson-co-executor-dead",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "John McClain, a musician and record executive who helped power Janet Jackson’s ascent to pop stardom before serving as a co-executor of the estate of Jackson’s brother Michael, died Tuesday in Los Angeles. In a statement, he described McClain as “one of the great innovators in the world of music and music marketing” and said “it is difficult to imagine a world without him.”. Named to their posts in Michael Jackson’s will, McClain and Branca steered Jackson’s estate from financial and reputational ruin at the time of the pop star’s death in 2009 — much of it due to the multiple allegations of child sexual abuse against the singer — to the enormous success of posthumous projects including the concert film “This Is It,” the Cirque du Soleil production “Michael Jackson One,” the Broadway show “MJ: The Musical” and the Hollywood biopic “Michael,” which opened in movie theaters last month and is already among the highest-grossing biopics ever made.",
+      "published_at": "Wed, 27 May 2026 23:47:07 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森遺產共同執行人John McClain的逝世，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1264,
+      "title": "From ‘Scream’ to stream: Jamie Kennedy reveals how Hollywood lost its way and why he won't give up on LA - Fox News",
+      "link": "https://www.foxnews.com/culture/from-scream-stream-jamie-kennedy-reveals-how-hollywood-lost-its-way-why-he-wont-give-up-la",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "# From ‘Scream’ to stream: Jamie Kennedy reveals how Hollywood lost its way and why he won't give up on LA. ## 'Scream' star says social media 'gave everybody a voice' but 'a lot of people should have laryngitis'. #### Comedian Jamie Kennedy speaks on the 'tail-end' of 'the great wokeness'. Comedian Jamie Kennedy spoke to Fox News Digital about the state of comedy amid a highly polarized political landscape. He told Fox News Digital in an exclusive interview that he was encouraged by what he sees as a return to center for Hollywood, or at least for comedy. Jamie Kennedy sat down with Fox News Digital for an exclusive interview in Los Angeles on May 7, 2026. \"We're on the tail and of everyone being upset, so I think the people just don't care anymore, and I think the people are going to come back again,\" Kennedy said.",
+      "published_at": "Sat, 23 May 2026 10:00:27 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要探討喜劇演員Jamie Kennedy對好萊塢現狀和喜劇未來的看法。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1265,
+      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026 - IGN Southeast Asia",
+      "link": "https://sea.ign.com/jackass-5/243202/jackass-best-and-last-stars-confirmed-to-attend-ign-live-2026",
+      "source": "Tavily (sea.ign.com)",
+      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ### Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT.",
+      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導《蠢蛋搞怪秀》成員將出席IGN Live 2026宣傳新電影，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1266,
+      "title": "Jay Chaudhry, Zscaler CEO: Fortt Knox Earnings - CNBC",
+      "link": "https://www.cnbc.com/video/2026/05/27/jay-chaudhry-zscaler-ceo-fortt-knox-earnings.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Chaudhry, Zscaler CEO: Fortt Knox Earnings. Zscaler CEO Jay Chaudhry told Jon Fortt the stock's ~30% post-earnings plunge is a buying opportunity, defending a Q3 that beat: revenue and ARR each up 25%, a record 23% operating margin, ARR near $3.5B. He called the softer guidance 'prudent' after two sales leaders departed, and said Zscaler is pulling memory and datacenter purchases forward in an AI-driven supply crunch to secure billions of coming AI agents – pressuring free cash flow. Memory stocks can go higher but Nvidia may be a warning sign for Micron: Deepwater's Gene Munster. Consumers are being 'highly selective' on what they want, says TD Cowen’s Oliver Chen. Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition. Watch CNBC's full interview with former CFTC Chair Gary Gensler. Former CFTC Chair Gary Gensler on regulating prediction markets.",
+      "published_at": "Wed, 27 May 2026 17:14:04 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於資安公司Zscaler執行長Jay Chaudhry的財報分析，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1267,
+      "title": "Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/celebrity/articles/self-help-podcaster-jay-shetty-153759660.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "## Entertainment:. * Behind the scenes at the AMAs. * Gen Z icon Geena Davis. * Sonny Rollins dies at 95. * Cannes Palme d'Or winner. # Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix. Add Yahoo as a preferred source to see more of our stories on Google. ## Topline. Spotify and Netflix struck a deal reportedly worth $100 million for exclusive rights to the video version of “On Purpose,” a self-help podcast hosted by wellness influencer Jay Shetty, a rare nine-figure podcasting contract that is one of Spotify’s biggest since it first signed with Joe Rogan in 2020. ## Key Facts. *This is a developing story. *This article was originally published on Forbes.com*.",
+      "published_at": "Wed, 27 May 2026 15:37:59 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導知名自我成長播客Jay Shetty與Spotify和Netflix簽下價值一億美元的獨家合作協議，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1268,
+      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026 - IGN Africa",
+      "link": "https://za.ign.com/jackass-best-and-last/233070/jackass-best-and-last-stars-confirmed-to-attend-ign-live-2026",
+      "source": "Tavily (za.ign.com)",
+      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ### Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT. ## Jackass: Best and Last.",
+      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
+      "collected_at": "2026-05-28 04:52:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於《蠢蛋搞怪秀：最佳與最終》電影明星將出席IGN Live 2026活動，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1254,
       "title": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times",
@@ -456,118 +554,39 @@
       "summary": "此新聞內容主要關於中國國家主席習近平就衛生與健康發展道路及健康中國建設的講話，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1231,
-      "title": "11 Cool New Gadgets to Keep on Your Radar - Gear Patrol",
-      "link": "https://www.gearpatrol.com/audio/best-new-tech-releases-5-17-26/",
-      "source": "Tavily (www.gearpatrol.com)",
-      "snippet": "Catching you up on the past week’s most notable product releases. This past week, Wrensilva introduced its most compact modern record console to date, Sony revealed a new flagship mirrorless camera, and Garmin announced two entry-level running watches. Below, we’ve rounded up all the most interesting new releases and announcements you might have missed from the past week. Wharfedale’s Denton 1S are new, reimagined versions of the company’s original Denton 1 bookshelf speakers, which were released in 1974. Wrensilva’s Studio is a modern record console that’s essentially a smaller (and more affordable) version of the company’s previous record consoles, including the $19,000 M1 and $15,000 The Standard. The Sony A7R VI is the company’s highest-resolution mirrorless camera to date. The Audio-Technica AT-VM95EBK is the newest addition to the brand’s VM95 series of entry-level phono cartridges. The Shanling EC Play is a new-age Discman built in the same vein as the brand’s other portable speakers.",
-      "published_at": "Sun, 17 May 2026 12:00:00 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了過去一週發布的各種新科技產品，包括唱片機、相機和運動手錶等，但內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1232,
-      "title": "mgk & Wiz Khalifa Head Back to 2010 for Nostalgic ‘Blog Era Boyz’ Mixtape: Stream It Now - Billboard Canada",
-      "link": "https://ca.billboard.com/music/rb-hip-hop/mgk-wiz-khalifa-blog-era-boyz-mixtape-1236253711/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "# mgk & Wiz Khalifa Head Back to 2010 for Nostalgic ‘Blog Era Boyz’ Mixtape: Stream It Now. The duo is currently on tour together. Mgk and Wiz Khalifa emerged as stars at the turn of the 2010s, and they’re paying homage to their breakthrough era with the *Blog Era Boyz* joint mixtape, which hit streaming services on Friday (May 22). Wiz joined Kels for his Lost Americana Tour, which kicked off a second leg in California on May 15 and will be heading to Austin, Dallas, Atlanta, St. Louis, Toronto, Kansas City and Vancouver, B.C., before closing up shop in Ridgefield, Wash., on July 1 with a final date. * mgk & Wiz Khalifa Announce ‘Blog Era Boyz’ Mixtape & Drop Star-Studded, Rebellious ‘Everything Tatted’ Video ›. ## mgk & Wiz Khalifa Head Back to 2010 for Nostalgic ‘Blog Era Boyz’ Mixtape: Stream It Now. RBC Amphitheatre is here, and it marks a promising new era for live music in Toronto.",
-      "published_at": "Fri, 22 May 2026 04:03:40 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於mgk與Wiz Khalifa發行新專輯並展開巡演，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1233,
-      "title": "Forget the Friendship Bracelets—Kaia Gerber and Jake Shane Prefer Matching Chanel Bags - Vogue",
-      "link": "https://www.vogue.com/article/kaia-gerber-jake-shane-matching-chanel-bags",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "Your All-Access Pass to Vogue. # Forget the Friendship Bracelets—Kaia Gerber and Jake Shane Prefer Matching Chanel Bags. It’s not uncommon when a couple starts dating that they experience the fashion mind-meld of dressing alike, but never underestimate the power of #twinning with your bestie—just ask Kaia Gerber and Jake Shane. Yesterday, the pair went for sushi at trendy hotspot Matsuhisa in Beverly Hills and, with their matching outfits and clasped hands, the model-Internet personality duo telegraphed to the world that they’re totally in sync. But the most telling sign of their friendship wasn’t the coordinating outfits or Shane’s supportive headwear, but the duo’s matching bags. For Kaia Gerber and Jake Shane, friendship bracelets are a thing of the past—it’s all about the bestie bag now. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion.",
-      "published_at": "Tue, 19 May 2026 14:48:36 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要關注名模Kaia Gerber與好友Jake Shane以搭配的香奈兒包包展現深厚友誼，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1234,
-      "title": "Executive Turntable: ZaZa Kazadi Elevated at Sony Music Publishing, Guitar Center Adds to Board - Billboard",
-      "link": "https://www.billboard.com/lists/executive-turntable-zaza-kazadi-sony-music-publishing/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "Music industry new hires and promotions took place at AEG Presents U.K., Activist Artist Management and more. Sony Music Publishing has promoted **ZaZa Kazadi** to senior director of A&R, U.K. and Europe. He will remain based in the company’s London office. In his new role, Kazadi will be responsible for expanding opportunities for songwriters in the U.K. and Europe with a focus on hip-hop, rap, R&B and Afro genres. “I’m incredibly honored to step into this new role,” Kazadi said in a statement. “It’s a privilege to be part of such a forward-thinking and supportive team. His roles at Sony Music Publishing included serving as senior A&R manager and director of A&R, UK. **Sarah Gabrielli**, head of A&R, Sony Music Publishing UK, said, “ZaZa is one of the sharpest A&R’s I’ve worked with — his judgement, clarity of vision and determination consistently set him apart. **David Kalt**, has been appointed to the board of directors at Guitar Center.",
-      "published_at": "Fri, 22 May 2026 17:23:42 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導索尼音樂出版和Guitar Center的人事異動。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1235,
-      "title": "For Calvin Klein and Maxfield, a Very L.A. Love Story - Vogue",
-      "link": "https://www.vogue.com/slideshow/calvin-klein-collection-maxfield-los-angeles-dinner",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "# For Calvin Klein and Maxfield, a Very L.A. Love Story. To mark the month-long partnership between Calvin Klein Collection and Maxfield, the party called for cocktails and dinner at Chateau Marmont’s beloved Bungalow 1. Guests including Tracee Ellis Ross, Jodie Turner-Smith, Michelle Randolph, and an expectant Gia Coppola and Honor Titus settled in for a meal of Mediterranean branzino and steak frites at a long candlelit table laden with purple spider orchids; a notable departure from the founding designer’s famed penchant for white flowers only. The collection at the root of the celebration was very much in the spotlight: Ellis Ross wore the oversized pom-pom number with aplomb, Turner-Smith opted for a peekaboo bra underneath a scoop-neck blazer, while Coppola went for the green kimono jacket. Whether she planned for it or not, she is the beneficiary of the *Love Story* effect, as the show’s portrayal of Carolyn Bessette Kennedy’s formative years spent working at Calvin Klein has sent an entirely new audience back to the archives—and straight to Maxfield too.",
-      "published_at": "Wed, 20 May 2026 23:38:05 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊未提及周杰倫，主要報導Calvin Klein與Maxfield在洛杉磯舉辦的合作派對及新系列。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1236,
-      "title": "Michael Jackson Blocks One Of R&B’s Biggest Stars From A New No. 1 Album - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/michael-jackson-blocks-one-r-123000333.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# Michael Jackson Blocks One Of R&B’s Biggest Stars From A New No. 1 Album. For several weeks now, Michael Jackson has appeared at No. 1 on a variety of *Billboard* charts. Jackson occupies the loftiest two spots on a pair of similarly-composed albums registers, and as his collections refuse to budge, he blocks one of the biggest names in R&B from returning to No. 1 with his latest project. Jackson currently sits at Nos. 1 and 2 on both the Top R&B/Hip-Hop Albums and Top R&B Albums charts. ## Michael Jackson Blocks Chris Brown from No. 1. Highlighting just how successful Brown has been on *Billboard*'s ranking of the most-consumed EPs and albums that fall under the hip-hop, rap and R&B genre labels, *Brown* is now tied as one of his worst performers, even as it becomes a top three winner. In addition to both the Top R&B/Hip-Hop Albums and Top R&B Albums tallies, the Grammy winner for Album of the Year returns to the summit on the Vinyl Albums roster, leaping from third place.",
-      "published_at": "Fri, 22 May 2026 12:30:00 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Michael Jackson在Billboard榜單上阻擋了R&B歌手Chris Brown的新專輯登上冠軍，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1237,
-      "title": "Michael Jackson Blocked From A New No. 1 Hit — By AI - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/michael-jackson-blocked-no-1-120000304.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# Michael Jackson Blocked From A New No. 1 Hit — By AI. This time around, Jackson's \"Billie Jean\" dances to new peak positions on a handful of tallies, and it nearly reaches the No. 1 space on a pair of charts – but the classic is held back from ruling, not by another superstar, but by a musical act that is, essentially, not even real. \"Billie Jean\" ascends one rung on both the R&B/Hip-Hop Digital Song Sales and R&B Digital Song Sales charts, pushing from No. 3 to No. 2. ## Michael Jackson Trails Eddie Dalton, An AI Musical Act. Steady at the summit on the R&B/Hip-Hop Digital Song Sales and R&B Digital Song Sales charts this week is \"Somewhere Along the Way\" by Eddie Dalton. While \"Billie Jean\" may not rank as the top-selling track on either of the aforementioned lists, Jackson's single does climb to No. 1 for the first time on another, more competitive rundown.",
-      "published_at": "Thu, 21 May 2026 12:00:00 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於麥可·傑克森的歌曲與AI音樂在排行榜上的表現，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 65,
-    "report_date": "2026-05-27",
-    "total_articles": 8,
+    "id": 66,
+    "report_date": "2026-05-28",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 8,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times、Justice Department deletes press releases on charges against Jan. 6 rioters - MSN、Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
-    "created_at": "2026-05-27 05:00:35"
+    "neutral_count": 7,
+    "daily_summary": "根據今日搜集到的新聞列表，未發現任何與華語流行天王周杰倫直接相關的報導。所有提及「Jay」的內容均指向其他公眾人物或商業領袖，例如Jay Chaudhry、Jay Shetty等。今日新聞焦點主要集中在西方娛樂圈、商業動態及社會事件，周杰倫今日並無公開活動或新聞曝光。",
+    "key_events": [
+      "無周杰倫新聞",
+      "今日無相關報導",
+      "焦點非周杰倫"
+    ],
+    "created_at": "2026-05-28 04:53:20"
   },
   "recentReports": [
+    {
+      "id": 66,
+      "report_date": "2026-05-28",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "根據今日搜集到的新聞列表，未發現任何與華語流行天王周杰倫直接相關的報導。所有提及「Jay」的內容均指向其他公眾人物或商業領袖，例如Jay Chaudhry、Jay Shetty等。今日新聞焦點主要集中在西方娛樂圈、商業動態及社會事件，周杰倫今日並無公開活動或新聞曝光。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "焦點非周杰倫"
+      ],
+      "created_at": "2026-05-28 04:53:20"
+    },
     {
       "id": 65,
       "report_date": "2026-05-27",
@@ -653,21 +672,6 @@
         "今日無周杰倫報導"
       ],
       "created_at": "2026-05-22 04:47:23"
-    },
-    {
-      "id": 59,
-      "report_date": "2026-05-21",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日搜集到的新聞中，未發現任何與華語天王周杰倫相關的報導或活動。所有新聞提及的「Jay」均為不同人物，例如美國饒舌歌手Jay Z、聯準會主席Jay Powell、NBA球員Jaylen Brown，以及其他同名人士。因此，今日沒有周杰倫的焦點新聞。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-21 04:55:30"
     }
   ]
 }
