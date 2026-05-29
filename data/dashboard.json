@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1268,
+    "total": 1273,
     "positive": 339,
     "negative": 47,
-    "neutral": 882,
+    "neutral": 887,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-14",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-15",
       "total": 11,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-29",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1269,
+      "title": "\"One Last Shopping Cart Ride\": The Stars of Jackass: Best and Last Are Bringing Their Final Film's Stunts and Stupidity to IGN Live 2026 - IGN",
+      "link": "https://www.ign.com/articles/jackass-best-and-last-ign-live-2026",
+      "source": "Tavily (www.ign.com)",
+      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ## Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. Jackass: Best and Last opens in theaters on June 26. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT.",
+      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
+      "collected_at": "2026-05-29 04:55:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於《Jackass: Best and Last》電影及其演員將出席IGN Live 2026的宣傳活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1270,
+      "title": "Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía - Vogue",
+      "link": "https://www.vogue.com/article/harry-styles-and-rosalia-ivor-novello-awards",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía. Peer-judged, it’s a night where some of the buzziest emerging and most formidable established artists come together. Styles hopped over the English Channel from his multi-night Together, Together tour residency in Amsterdam for the occasion—already, a history-making, record-breaking event. Styles was a surprise guest, and presented Radiohead frontman Thom Yorke with the highest accolade of the night, the Academy Fellowship. On tour, Harry Styles—styled by Harry Lambert—has been sporting a variety of custom looks in primary colors with fun accessories: a bow-adorned Valentino blazer by his friend Alessandro Michele, a custom blue, orange, yellow combo from Prada and Cartier, and a groovy floral neck-tie and sculptural pants care of Celine. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion.",
+      "published_at": "Fri, 22 May 2026 09:58:43 GMT",
+      "collected_at": "2026-05-29 04:55:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Harry Styles的時尚穿搭與活動，未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1271,
+      "title": "Scooter Braun vs. the World - The Free Press",
+      "link": "https://www.thefp.com/p/scooter-braun-vs-the-world",
+      "source": "Tavily (www.thefp.com)",
+      "snippet": "EXCLUSIVE: Scooter Braun Tells His Side of the Taylor Swift Masters War. I spoke to the former mega-manager about working with Kanye West, how management is like parenting, and about being cast as the villain in Taylor Swift’s fairy tale: ‘I legitimately don’t know her.’. ***In case you missed the news, The Free Press has a new culture podcast. It’s called “Second Thought,” and it’s hosted by Suzy Weiss. You might know him as the guy who discovered Justin Bieber, or as the superagent cast as a villain by Taylor Swift, or as Sydney Sweeney’s new squeeze. Braun, who I recently interviewed in Los Angeles for my podcast *Second Thought*, told me he saw explosive talent in the young Bieber—“He was charismatic, he was brave”—and envisioned him as the 21st century’s answer to a young Michael Jackson; a kid, soulfully singing love songs for the masses.",
+      "published_at": "Thu, 28 May 2026 18:41:29 GMT",
+      "collected_at": "2026-05-29 04:55:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導Scooter Braun與Taylor Swift的爭議，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1272,
+      "title": "Early 2000s star brings first solo album in more than a decade to Oakland - sfchronicle.com",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/juvenile-oakland-concert-22259926.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Early 2000s star brings first solo album in more than a decade to Oakland. Juvenile is bringing Oakland back to the early 2000s with his forthcoming concert at the Fox Theater. The New Orleans rapper, whose real name is Terius Gray, rose to fame in the late 1990s with hits such as “Slow Motion,” “Back That Azz Up” and “Ha.” He’s widely regarded as a pioneer of Southern hip-hop and contributed to the rise of Cash Money Records, with which he worked both as a solo artist and as part of the collective Hot Boys. Returning to the stage with his first full-length solo project in more than a decade, “Boiling Point,” the musician performs in Oakland on June 5. Zara Irshad is the Chronicle's Arts & Entertainment Engagement Reporter. She joined the Chronicle as a summer 2023 intern for the Datebook team. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief.",
+      "published_at": "Thu, 28 May 2026 11:00:00 GMT",
+      "collected_at": "2026-05-29 04:55:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於饒舌歌手Juvenile的演唱會與新專輯，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1273,
+      "title": "Gracie Abrams announces The Look At My Life Tour - The Music Universe",
+      "link": "https://themusicuniverse.com/gracie-abrams-announces-the-look-at-my-life-tour/",
+      "source": "Tavily (themusicuniverse.com)",
+      "snippet": "# Gracie Abrams announces The Look At My Life Tour. Grammy-nominated singer-songwriter, Gracie Abrams, announces her North American and European/UK arena tour, The Look at My Life Tour, with the North American dates presented by Capital One. Promoted by Live Nation, the 64-date tour kicks off in Denver, CO on December 2nd and will hit major cities across North America, including Boston, Chicago, Nashville, Toronto and Los Angeles with four nights at the Kia Forum before wrapping with four nights at the Barclays Center in Brooklyn, NY on March 20th. Gracie will then embark on the European/UK leg beginning April 8th, with three nights in Paris, FR, and will play cities across Europe, including Amsterdam, Dublin, Manchester, and Milan, before wrapping in Barcelona, ES on May 28th. Gracie will also be playing four nights at the iconic O2 in London. Earlier this month, Gracie ushered in a new era with her single “Hit the Wall.” Along with the single release, Abrams also shared the official video directed by Renell Medrano.",
+      "published_at": "Thu, 28 May 2026 14:09:46 GMT",
+      "collected_at": "2026-05-29 04:55:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導葛蕾西·亞布拉姆斯（Gracie Abrams）宣布其北美與歐洲巡迴演唱會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1262,
       "title": "Sonny Rollins, saxophonist and restless genius of jazz, dead at 95 - Chicago Tribune",
@@ -484,94 +554,39 @@
       "summary": "此新聞內容主要關於美國政治、科技公司財報及股市分析，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1241,
-      "title": "First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein - Hypebeast",
-      "link": "https://hypebeast.com/2026/5/bts-jung-kook-calvin-klein-debut-collaboration-release-info-first-look",
-      "source": "Tavily (hypebeast.com)",
-      "snippet": "# First Look at BTS Jung Kook's Debut Collaboration With Calvin Klein. ## Featuring approximately 20 items co-designed by the global icon, the highly anticipated capsule collection officially arrives this month. * Calvin Klein has announced its first-ever collaborative apparel collection with global brand ambassador and BTS member, Jung Kook. * The capsule features approximately 20 distinct items, with Jung Kook personally involved in the design process. * An exclusive online pre-sale for “My Calvins” members will take place on the morning of May 20. The partnership between Calvin Klein and global pop icon Jung Kook is reaching an exciting new milestone. Calvin Klein has announced its very first collaborative collection with Jung Kook, offering fans a unique opportunity to wear pieces directly influenced by his personal aesthetic and creative vision. To celebrate the monumental launch of the collection, Calvin Klein will also debut a brand-new promotional campaign showcasing Jung Kook’s new creative direction.",
-      "published_at": "Sun, 17 May 2026 08:10:01 GMT",
-      "collected_at": "2026-05-24 04:48:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於防彈少年團成員Jung Kook與Calvin Klein的首次聯名合作系列，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1242,
-      "title": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
-      "link": "https://artthreat.net/36222-46294-keke-palmer-hosted-billboard-women-in-music-2026-in-los-angeles/",
-      "source": "Tavily (artthreat.net)",
-      "snippet": "**Keke Palmer** brought star power and infectious energy to the **Billboard Women in Music 2026 Awards** on **April 29** at the iconic **Hollywood Palladium** in **Los Angeles**. The multi-Emmy Award-winning actress, producer, and music artist hosted the star-studded ceremony celebrating the most influential women in the music industry, while also taking the stage to perform her new single **“Text Message Unsent.”** The event honored groundbreaking female artists across multiple award categories, from emerging talent to established powerhouses reshaping the landscape. * **Keke Palmer hosted and performed at the Billboard Women in Music 2026 Awards**. Known for her work across television, film, music, and digital platforms, **Palmer has built a diverse career spanning from “Akeelah and the Bee” to her podcast “Baby, This is Keke Palmer.”** Her role combined hosting duties with her own performance moment, where she delivered an energetic rendition of **“Text Message Unsent,”** a track from the soundtrack EP tied to her recent film project.",
-      "published_at": "Fri, 22 May 2026 12:06:38 GMT",
-      "collected_at": "2026-05-24 04:48:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Keke Palmer hosted Billboard Women in Music 2026 in Los Angeles - artthreat.net",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1243,
-      "title": "Drake Is A Sore Loser On 'Iceman.' Sounds Like Someone Else We Know. - HuffPost",
-      "link": "https://www.huffpost.com/entry/drake-iceman-review-trump_n_6a0c8193e4b0d1a142e15450/amp",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "In 43 songs, one of the most successful rappers of the century shows us he just can't move on. Here are the other bright spots: Drake is doing something interesting sonically on tracks like “Janice STFU” and displaying his knack for hit-making on “Shabang.” And while it is not a personal favorite, the West Coast-sounding “2 Hard 4 The Radio” shows a defiant Drake when it comes to not being limited to the regional sounds he chooses to jump on. Drake also continues to be salty with A$AP Rocky, seemingly taunting the rapper-actor with “Where she at?/Where she go” on “Burning Bridges.” Drake seemingly never got over Rihanna daring to move on from him and create a family with Rocky, so in Drake’s mind, pointing out that the mother of his children didn’t post about his single is worth highlighting.",
-      "published_at": "Sat, 23 May 2026 18:02:24 GMT",
-      "collected_at": "2026-05-24 04:48:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要探討饒舌歌手Drake的音樂作品與個人爭議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1229,
-      "title": "Khris Riddick-Tynes Is Building for Legacy - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/music/khris-riddick-tynes-is-building-for-legacy-interview-11958018",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# Khris Riddick-Tynes Is Building for Legacy. The multihyphenate co-wrote and co-produced SZA’s “Snooze,” the 2024 Grammy-winning Best R&B Song and one of the most-streamed R&B records of the decade, as well as Kehlani’s “Folded,” her biggest solo chart moment to date. Not only is Riddick-Tynes an acclaimed producer with a wealth of credits under his belt, ranging from Kehlani and SZA to Drake and Ariana Grande, but he also earned his J.D. while producing some of the biggest songs in the world and formerly working as an executive, as SVP and co-head of Arista Records. By the time the project arrived as her fifth studio album, that long-view approach had paid off: the album marked a major moment in her catalog and was widely framed as a statement release, with Riddick-Tynes helping guide its sound and direction from the inside out. \"I think the first thing is, you know, intention, do we have the same intention, which is to make timeless music, right, and to make music that people feel, and also to win?\" Riddick-Tynes says.",
-      "published_at": "Thu, 21 May 2026 21:00:00 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於知名製作人Khris Riddick-Tynes的音樂成就與職涯發展，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1230,
-      "title": "VIDEO: Europe rPET looking less volatile in June, but still room for price moves - ICIS",
-      "link": "https://www.icis.com/explore/resources/news/2026/05/22/11210526/video-europe-rpet-looking-less-volatile-in-june-but-still-room-for-price-moves",
-      "source": "Tavily (www.icis.com)",
-      "snippet": "#### 搜索过于频繁，请输入验证码. ### 重大新闻. ## [新华社] 习近平：坚定不移走中国特色卫生与健康发展道路 推动“十五五”时期健康中国建设取得决定性进展. 中共中央总书记、国家主席、中央军委主席习近平6日下午看望了参加全国政协十四届四次会议的农工党、九三学社、医药卫生界、社会福利和社会保障界委员，并参加联组会，听取意见和建议。他强调，到2035年建成健康中国是中共中央作出的一项战略决策，“十五五”是实现这一目标的关键时期，必须统筹谋划、加紧推进，力求取得决定性进展。. 在“三八”国际劳动妇女节即将到来之际，习近平代表中共中央，向参加全国两会的女代表、女委员、女工作人员，向全国各族各界妇女，向香港特别行政区、澳门特别行政区、台湾地区的女同胞和海外女侨胞，致以节日祝福和美好祝愿。. 联组会上，王路、马秀珍、卢柯、蒋建东、巴桑卓玛、刘启芳等6位委员，分别就实施健康优先发展战略、提升基层医疗服务水平、加强材料技术攻关、推进创新药研发、做好高原病防治、发展公益慈善事业等作了发言。. 在听取大家发言后，习近平发表重要讲话。他表示，很高兴同大家一起讨论，听取意见建议。他代表中共中央，向在座各位委员，并向农工党、九三学社成员，向医药卫生界、社会福利和社会保障界人士，向广大政协委员，致以诚挚问候。. 习近平指出，过去一年，人民政协认真履职尽责，围绕谋划“十五五”等方面建言献策，为党和国家事业发展作出了新贡献。农工党、九三学社各级组织和广大成员积极参政议政、开展社会服务，各项工作取得新成效。医药卫生界、社会福利和社会保障界人士自觉投身建设健康中国、增进民生福祉的生动实践，展现了新作为。. 习近平强调，我国是社会主义国家，是人口规模巨大、城乡区域差距仍然较大的发展中国家。建设健康中国，必须坚持从我国国情出发，坚定不移走中国特色卫生与健康发展道路，坚定不移贯彻新时代卫生与健康工作方针。随着形势发展变化，卫生与健康工作需要优化完善一些具体政策举措，但在根本问题上必须始终头脑清醒、保持战略定力。. 习近平指出，建设健康中国是一项系统工程。面对人民群众日益增长的多元化卫生健康需求，必须突出重点，紧紧抓住那些惠及面广、牵一发而动全身的工作，在健全公共卫生体系、建设优质高效医疗服务体系、倡导健康文明生活方式等方面集中力量和资源、采取有效措施加以推动，不断取得新的成效。. 习近平强调，要健全党委统一领导、党政齐抓共管的工作格局，完善健康促进政策制度体系，为健康中国建设提供有力保障。进一步深化改革，完善医疗、医保、医药协同发展和治理机制。推动科技创新成果转化运用，推进全民健康数智化建设。加强卫生健康行业党建工作，调动广大医务人员的积极性主动性创造性，加大人才培养力度，弘扬优良医德医风，着力营造风清气正的行业环境。. 习近平指出，建设健康中国，需要全社会共同努力。人民政协要发挥专门协商机构作用，聚焦相关理论和实践问题深入调查研究，提出务实管用的对策建议。农工党、九三学社成员，医药卫生界、社会福利和社会保障界人士，要用好专业优势，积极贡献智慧和力量。. 石泰峰、何维、武维华、邵鸿、王东峰、杨震等参加联组会。. 原文链接：https://www.nhc.gov.cn/wjw/mtbd/202603/9f96267d3b84408d940c741eb784f2a5.shtml). ### 相关文章. ### 用户登录.",
-      "published_at": "Fri, 22 May 2026 14:00:15 GMT",
-      "collected_at": "2026-05-23 04:26:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於中國國家主席習近平就衛生與健康發展道路及健康中國建設的講話，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 66,
-    "report_date": "2026-05-28",
-    "total_articles": 7,
+    "id": 67,
+    "report_date": "2026-05-29",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "根據今日搜集到的新聞列表，未發現任何與華語流行天王周杰倫直接相關的報導。所有提及「Jay」的內容均指向其他公眾人物或商業領袖，例如Jay Chaudhry、Jay Shetty等。今日新聞焦點主要集中在西方娛樂圈、商業動態及社會事件，周杰倫今日並無公開活動或新聞曝光。",
+    "neutral_count": 5,
+    "daily_summary": "今日搜集的新聞列表中，未發現任何直接與華語天王周杰倫相關的報導。雖然部分新聞提及了「Jay」這個名字，但均為其他領域人士，如企業家、播客主持人或政治人物，與周杰倫的娛樂動態無關。因此，今日無周杰倫的娛樂焦點。",
     "key_events": [
-      "無周杰倫新聞",
       "今日無相關報導",
-      "焦點非周杰倫"
+      "無周杰倫動態",
+      "未有娛樂焦點"
     ],
-    "created_at": "2026-05-28 04:53:20"
+    "created_at": "2026-05-29 04:55:42"
   },
   "recentReports": [
+    {
+      "id": 67,
+      "report_date": "2026-05-29",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集的新聞列表中，未發現任何直接與華語天王周杰倫相關的報導。雖然部分新聞提及了「Jay」這個名字，但均為其他領域人士，如企業家、播客主持人或政治人物，與周杰倫的娛樂動態無關。因此，今日無周杰倫的娛樂焦點。",
+      "key_events": [
+        "今日無相關報導",
+        "無周杰倫動態",
+        "未有娛樂焦點"
+      ],
+      "created_at": "2026-05-29 04:55:42"
+    },
     {
       "id": 66,
       "report_date": "2026-05-28",
@@ -657,21 +672,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-05-23 04:27:41"
-    },
-    {
-      "id": 60,
-      "report_date": "2026-05-22",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日搜集到的娛樂新聞中，未發現任何直接提及華語天王周杰倫的相關報導或焦點事件。新聞列表雖包含多個以「Jay」開頭的名稱，如Jay Z、Jay Powell、Jaylen Brown等，但經確認，這些均指向其他公眾人物或議題，與周杰倫本人無關。因此，今日無周杰倫的最新動態可供摘要。",
-      "key_events": [
-        "今日無周杰倫動態",
-        "今日無周杰倫消息",
-        "今日無周杰倫報導"
-      ],
-      "created_at": "2026-05-22 04:47:23"
     }
   ]
 }
