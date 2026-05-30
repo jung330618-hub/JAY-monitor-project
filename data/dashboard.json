@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1273,
+    "total": 1282,
     "positive": 339,
     "negative": 47,
-    "neutral": 887,
+    "neutral": 896,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-15",
-      "total": 11,
-      "positive": 0,
-      "negative": 1,
-      "neutral": 10,
-      "avg_score": 0.47
-    },
     {
       "date": "2026-05-16",
       "total": 11,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-30",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1274,
+      "title": "Paul McCartney’s New Solo Album Is Worth the Wait — Review - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/music/paul-mccartneys-new-solo-album-is-worth-the-wait-review-12009878",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# Paul McCartney’s New Solo Album Is Worth the Wait — Review. Paul McCartney is back with his first solo album in five years, and it's packed with rock goodness. The release, called \"The Boys of Dungeon Lane,\" features a collection of tracks that play as very personal to the Beatles legend. \"'The Boys of Dungeon Lane' is not only the first new solo album from Paul McCartney in over five years; it is a revealing collection of never-before shared stories, personal memories and some newly inspired love songs, from one of the most culturally significant figures of our time,\" a press statement says of the release. The album is arguably his most personal and introspective to date, untold stories that transport the listener back to where it all began.\". ## Album Review — Paul McCartney, 'The Boys of Dungeon Lane'. In honor of the set being out, record stores across the country are hosting \"The Boys of Dungeon Lane\" indie release parties from May 29 to 31.",
+      "published_at": "Fri, 29 May 2026 17:25:00 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於保羅·麥卡尼的新專輯發行與評價，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1275,
+      "title": "Jae Stephens Says Her New Single \"Attaboy!\" Will \"Kick You in the Teeth\" - Teen Vogue",
+      "link": "https://www.teenvogue.com/story/jae-stephens-says-her-new-single-attaboy-will-kick-you-in-the-teeth",
+      "source": "Tavily (www.teenvogue.com)",
+      "snippet": "The 27-year-old artist talks to Teen Vogue about how the track came to life, managing her growing fame, and leveling up from her self-described \"Sellout era.\". Fresh off the wave of her viral hit “Afterbody,” the 27-year-old pop and R&B singer is leveling up and introducing her fans, aptly called JaeBaes, to a new era with her single “Attaboy!”. “Literally, all I'm doing after this is going to Goodwill, and then I’m making homemade merch,” Stephens tells *Teen Vogue* at the start of our interview. What new world “Attaboy!” signals for the artist has yet to be revealed, but if this newly created (and high-key cryptic) Instagram account welcoming fans to “Auda City” tells us anything, it’s that she is going all-in on the next phase of Jae Stephens––and inviting listeners into the center of her universe. Ahead of the release of \"Attaboy!\", *Teen Vogue* spoke with Stephens about how the track came together, her internet presence, and how she’s cultivating her growing pop stardom.",
+      "published_at": "Fri, 29 May 2026 18:08:50 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於歌手Jae Stephens的新單曲《Attaboy!》及其演藝事業發展，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1276,
+      "title": "Jesse McCartney to perform at senior prom in Bucks County - CBS News",
+      "link": "https://www.cbsnews.com/philadelphia/video/jesse-mccartney-to-perform-at-senior-prom-in-bucks-county/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "* Send Us a News Tip. # Jesse McCartney to perform at senior prom in Bucks County. 2000s pop singer Jesse McCartney will perform at the senior prom at Pennsbury High School in Fairless Hills, Bucks County this weekend, continuing a tradition of a major headliner taking the stage at what is called \"The Best Prom in America.\".",
+      "published_at": "Fri, 29 May 2026 13:20:00 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導美國歌手Jesse McCartney將在高中舞會表演，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1277,
+      "title": "Jenny Hagel gives ‘Advice No One Asked For' - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/jenny-hagel-gives-advice-no-one-asked-for/6506963/?amp",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "New York Live 2 hours ago. # Jenny Hagel gives ‘Advice No One Asked For'. “Late Night” writer Jenny Hagel tells Ashley Bellman all about her new book, “Advice No One Asked For.”. ## Local. #### Close out National Pet Month with an adoption! #### Tony winner John Gallagher Jr. talks new EP. #### Are you ready for Hyrox training? #### Why this hot spot's Caribbean creations top restaurant rankings. #### Want to see ‘Heated Rivalry' on stage? These Broadway vets star in a new musical parody. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Fri, 29 May 2026 17:05:56 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Jenny Hagel的新書及NBC紐約的本地新聞，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1278,
+      "title": "Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix - Forbes",
+      "link": "https://www.forbes.com/sites/conormurray/2026/05/27/self-help-podcaster-jay-shetty-strikes-major-100-million-deal-with-spotify-and-netflix/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix. Murray is a Forbes news reporter covering entertainment trends. ## Topline. Spotify and Netflix struck a deal reportedly worth $100 million for exclusive rights to the video version of “On Purpose,” a self-help podcast hosted by wellness influencer Jay Shetty, a rare nine-figure podcasting contract that is one of Spotify’s biggest since it first signed with Joe Rogan in 2020. ## Key Facts. *This is a developing story. Share confidential information with Forbes.",
+      "published_at": "Wed, 27 May 2026 00:00:00 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了自助播客主持人Jay Shetty與Spotify和Netflix達成了一項價值1億美元的獨家播客協議，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1279,
+      "title": "Jay McKee Named Hamilton Hammers Head Coach - NHL.com",
+      "link": "https://www.nhl.com/islanders/news/jay-mckee-named-hamilton-hammers-head-coach",
+      "source": "Tavily (www.nhl.com)",
+      "snippet": "# Jay McKee Named Hamilton Hammers Head Coach. The Islanders announced that Jay McKee has been named Head Coach of the Hamilton Hammers, the Islanders' new AHL affiliate. The New York Islanders announced today that Jay McKee has been named Head Coach of the Hamilton Hammers, the Islanders new American Hockey League affiliate. McKee, 48, takes over as the first Head Coach in Hamilton’s history. He has spent the past three years as Head Coach of the Brantford Bulldogs of the Ontario Hockey League. Last season, McKee led the Brantford to the best record in the OHL (48-10-8-2). Prior to his time in with the Bulldogs organization, McKee spent four seasons (2016-17 through 2019-20) as Head Coach of the Kitchener Rangers and the 2015-16 season as Associate Coach in Kitchener. He spent the 2014-15 season as an Assistant Coach with the Erie Otters (OHL), the 2011-12 season as an Assistant Coach of the Rochester Americans (AHL), and the 2010-11 season as an Assistant Coach at Niagara University (NCAA).",
+      "published_at": "Fri, 29 May 2026 13:01:21 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導關於冰球教練Jay McKee被任命為Hamilton Hammers隊的總教練，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1280,
+      "title": "Kanye West Set to Kick Off Tour in Istanbul, With Fans Expected to Flock From Countries Where He’s Been Banned - Variety Australia",
+      "link": "https://au.variety.com/2026/music/global/kanye-west-tour-istanbul-uk-france-ban-37096/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# Kanye West Set to Kick Off Tour in Istanbul, With Fans Expected to Flock From Countries Where He’s Been Banned. Kanye West is set to hold a massive concert on Saturday at Istanbul’s Atatürk Olympic Stadium, which will kick off his tour following cancellations in the U.K., France, Switzerland and Poland due to the rapper’s antisemitic remarks. Though the U.K. government blocked Ye from entering the country and several other European nations followed, fans are now travelling to Istanbul from the U.K., the U.S., Germany, Poland, Russia and Kazakhstan to catch the concert, according to organiser Erdem Karahan. Besides several Turkish artists who will open the evening — including Sena Sener, Motive, Lvbel C5, Yener Cevik, Mavi, and Pera — Karahan told Turkish media he expects U.S. rapper Travis Scott to be on stage to perform the pair’s collaborative track “Father” from West’s latest album, “Bully.” North West, Kanye West’s daughter with ex-wife Kim Kardashian, is also expected to perform.",
+      "published_at": "Fri, 29 May 2026 21:47:35 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於肯伊·威斯特（Kanye West）在伊斯坦堡舉辦巡迴演唱會，吸引了來自多國的粉絲，並預計有Travis Scott和North West作為嘉賓演出，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1281,
+      "title": "Gracie Abrams announces ‘Look at My Life Tour,’ four NYC shows. Get tickets - New York Post",
+      "link": "https://nypost.com/2026/05/29/ticket-sales/get-gracie-abrams-look-at-my-life-tour-tickets-today/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Gracie Abrams announces ‘Look at My Life Tour,’ four NYC shows. Gracie Abrams just announced her ‘Look at My Life Tour’ that will send her to arenas all over North America from December 2026 through March 2027. That includes not one, not two, not three but four (!) concerts at Brooklyn’s Barclays Center with special guest The Japanese House accompanying her on all dates. **Tuesday, March 16, 2027***8 p.m.*. **Wednesday, March 17, 2027***8 p.m.*. **Friday, March 19, 2027***8 p.m.*. **Saturday, March 20, 2027***8 p.m.*. Rachel Chinouriri, Holly Humberstone, Del Water Gap, Charlotte Lawrence, Grace Ives, Bella Kay and Jensen McRae will provide support at other U.S. and Canada ‘Look at My Life Tour’ gigs. Notable tracks to make the cut include “That’s So True,” “I Love You, I’m Sorry,” “I miss you, I’m sorry,” “Risk” and “Close To You.”. | Feb. 18 at the Scotiabank Arena in Toronto, ON, CA |.",
+      "published_at": "Fri, 29 May 2026 16:40:27 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於Gracie Abrams的巡迴演唱會資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1282,
+      "title": "2026-05-30 - Billboard Canada",
+      "link": "https://ca.billboard.com/charts/canada-country/2026-05-30",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. ## Le jeune auteur-compositeur-interprète Alex Sampson fait son entrée dans le palmarès radio de Billboard Canada avec son titre « Misery ». Cette semaine, la jeune auteure-compositrice-interprète canadienne fait son entrée à la 35e place du palmarès radio de Billboard Canada CHR/Top 40 avec son titre « Misery », daté du 23 mai. L'an dernier, l'artiste signé chez Warner Music Canada a fait son entrée dans les palmarès radio avec « Pretty Baby », une ballade aux accents des années 50. Sans doute le titre phare de **Swag II de Bieber —** qui fait suite à son album à succès **Swag** — la chanson s'ouvre sur une mélodie de guitare entraînante et une instrumentation influencée par le hip-hop, pour se transformer en un morceau lumineux et funky où Bieber déborde de confiance et d'ambition.",
+      "published_at": "Wed, 27 May 2026 23:28:56 GMT",
+      "collected_at": "2026-05-30 04:36:41",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導Alex Sampson及Justin Bieber的音樂成就，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1269,
       "title": "\"One Last Shopping Cart Ride\": The Stars of Jackass: Best and Last Are Bringing Their Final Film's Stunts and Stupidity to IGN Live 2026 - IGN",
@@ -428,150 +554,39 @@
       "summary": "此新聞報導主要關於Jack Osbourne反擊身材羞辱者，以及其他歐美娛樂資訊，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1252,
-      "title": "Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite - TMZ",
-      "link": "https://www.tmz.com/2026/05/25/bam-margera-not-going-to-jackass-movie-premiere/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Bam Margera Not Going To 'Jackass: Best and Last' Premiere Despite Invite. ## Bam Margera Not Attending 'Jackass' Premiere Despite Invite. The Hollywood premiere of \"Jackass: Best and Last\" is quickly approaching ... **Bam Margera** got a ticket to the big event for the final 'Jackass' film dropping next month ... We're also told that he's not quite ready for a reunion after a bitter fallout with the cast, specifically **Johnny Knoxville** and director **Jeff Tremaine** ... but he's for sure rooting for the flick to be a giant success, like all the others have been. Bam might not be at the premiere ... Bam **made a deal** earlier this year that allowed producers to use old, never-before-seen footage of him in 'Best and Last,' which will be a mix of newly shot stunts and unseen OG footage. Bam has a super bitter fallout with the 'Jackass' fam and Paramount after he was **fired from the last film** for allegedly breaking his contract, which included a stipulation that he had to stay sober.",
-      "published_at": "Mon, 25 May 2026 08:00:10 GMT",
-      "collected_at": "2026-05-26 04:46:32",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Bam Margera未出席《Jackass: Best and Last》首映會，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1253,
-      "title": "Bruno Mars Matches Taylor Swift With A New Top 10 Smash - Forbes",
-      "link": "https://www.forbes.com/sites/hughmcintyre/2026/05/24/bruno-mars-matches-taylor-swift-with-a-new-top-10-smash/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Bruno Mars Matches Taylor Swift With A New Top 10 Smash. Throughout 2026, \"I Just Might,\" the lead single from his recently released album *The Romantic*, has been a winner, and that cut is once again counted as the most-played tune in the nation. ## Bruno Mars Pushes \"Risk It All\" Into the Top 10. Mars pushes \"Risk It All,\" the second single from *The Romantic*, into the Radio Songs chart's top 10 for the first time. The tune pushes from No. 11 to No. 9, cracking the uppermost region in only its eighth frame on the ranking of the cuts that reach the largest total audiences across all radio formats in the U.S. ## Bruno Mars Matches Taylor Swift’s Top 10 Count. Thanks to the fast ascent of \"Risk It All,\" Mars has now claimed 22 top 10 smashes on the Radio Songs chart. With a twenty-second top 10-charter to his name, Mars matches Taylor Swift for the fourth-most appearances between Nos. 1 and 10 of all time.",
-      "published_at": "Sun, 24 May 2026 00:00:00 GMT",
-      "collected_at": "2026-05-26 04:46:32",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Bruno Mars與Taylor Swift的音樂成就，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1244,
-      "title": "Michael Jackson Biopic Hits Unprecedented Box Office Milestone In Week 5 - ScreenRant",
-      "link": "https://screenrant.com/michael-2026-movie-box-office-300-million-domestic-milestone/",
-      "source": "Tavily (screenrant.com)",
-      "snippet": "# Michael Jackson Biopic Hits Unprecedented Box Office Milestone In Week 5. The controversial biopic *Michael*, which tells the story of King of Pop Michael Jackson without directly addressing his allegations of child sexual abuse, was directed by Antoine Fuqua and stars the music icon's real-life nephew Jaafar Jackson in the title role opposite a star-studded ensemble cast that includes Colman Domingo, Miles Teller, Nia Long, Laura Harrier, and Mike Myers. Per *Lionsgate*, as of **Sunday** morning, *Michael* is projected to earn a 3-day total of **$20 million** by the end of its fifth weekend at the domestic box office and a 4-day total of **$25.7 million** over the Memorial Day holiday weekend. Quincy Jones — Michael met him on the set of The Wiz (1978), and Jones went on to produce the trio of albums that defined Michael's solo career: Off the Wall (1979), Thriller (1982) and Bad (1987).",
-      "published_at": "Sat, 23 May 2026 16:11:34 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了麥可傑克森的傳記電影《Michael》在上映第五週的票房表現，預計將達到可觀的收入。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1245,
-      "title": "Bianca Censori Covers Her Chest But Not The Rest In Sexy New Photos - TMZ",
-      "link": "https://www.tmz.com/2026/05/24/bianca-censori-leaving-los-angeles-photoshoot/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "Email Or Call (888) 847-9869. ### Ray J Knocked Out in the Second Round by Supa Hot Fire, Watch the Video. ### Queen Latifah Is Serving Ageless Beauty — Good Genes or Good Docs?! ### Comedian Laura Clery Crushed by 600-Pound Fridge in Freak Accident. but the mild L.A. temperatures certainly didn’t crimp her usual naked style -- at least, from the waist down. **Kanye West** strolling out of a studio after doing a photoshoot ... We’re told Bianca climbed inside a Mercedes-Maybach before the model was driven away by her chauffeur. ICYW, Kanye was nowhere in sight. However, the couple was photographed **heading to an L.A. theater** to watch a screening of “**Michael**” during a Friday night date. In those pics, Bianca was basically naked from the waist up with her lower body covered. #### Bianca Censori Wears See-Though Shirt While Walking Out of L.A. Spa. Kanye West   Bianca Censori   Michael Jackson   Hot Bodies   Hip Hop   Fashion   Exclusive   Models   Culture.",
-      "published_at": "Sun, 24 May 2026 13:43:06 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Bianca Censori和Kanye West的穿著與活動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1246,
-      "title": "Rory Culkin Welcomes First Child With Kate Arizmendi - TMZ",
-      "link": "https://www.tmz.com/2026/05/24/rory-culkin-welcomes-baby-girl-with-kate-arizmendi/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Queen Latifah Is Serving Ageless Beauty — Good Genes or Good Docs?! # Rory Culkin Welcomes First Child With Kate Arizmendi. ## Rory Culkin It's Easy to See the 'Signs' ... **Rory Culkin**'s officially a father ... with his girlfriend **Kate Arizmendi** announcing the birth of their first child on Instagram. Arizmendi shared a pic of their newborn daughter sleeping ... Arizmendi revealed their daughter's name on the photo ... She was born on Saturday -- and Kate says she and Rory love her deeply. Kate announced she was pregnant earlier this year ... and their family threw them a baby shower earlier this month. While this is Rory's first child, he's got a lot of practice with his nieces and nephews. His brothers -- **Macaulay** and **Kieran Culkin** -- have 2 and 3 kids, respectively ... and that's just counting his family members *in* the public eye. #### Brenda Song Good Genes or Good Docs?!",
-      "published_at": "Sun, 24 May 2026 21:30:03 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Rory Culkin迎來他的第一個孩子，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1247,
-      "title": "Drake Becomes First Artist to Hold Top Three Billboard 200 Spots - Pitchfork",
-      "link": "https://pitchfork.com/news/drake-becomes-first-artist-to-hold-top-three-billboard-hot-200-spots/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "Earlier this month, Drake turned a long-teased album drop into a three album bonanza, releasing the new LPs *Iceman,* *Habibti*, and *Maid of Honour* at once on May 15. Now, *Billboard* reports that he has become the first artist to hold the No. 1, 2, and 3 spots on its Billboard 200 chart in the same week since it began publishing on a consistent weekly schedule in 1956. *Iceman,* *Habibti*, and *Maid of Honour* marked Drake’s first new solo albums since 2023’s *For All the Dogs.* (Crucially, it’s also his first LP drop since the Kendrick Lamar beef that became so ubiquitous it reached the Super Bowl LIX halftime show and led Drake to sue his own label, UMG, a legal dispute he references multiple times across his latest trio of LPs. The suit was dismissed in October 2025.) He also released a joint album with longtime collaborator and fellow Canadian PartyNextDoor, *$ome $exy $ongs 4 U*, in 2025.",
-      "published_at": "Sun, 24 May 2026 21:34:46 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國歌手Drake創下告示牌專輯榜前三名的紀錄，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1248,
-      "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round - CNBC",
-      "link": "https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Startup backed by American Eagle CEO reaches unicorn status in latest funding round. * Radar, a startup backed by American Eagle CEO Jay Schottenstein that helps retailers reduce theft, is now valued at over $1 billion. * The company, which works with American Eagle and Gap's Old Navy, raised $170 million at a valuation of over $1 billion in its series B funding round. * Radar helps address one of the most challenging aspects of running a retail business: inventory management. Radar, a startup backed by American Eagle CEO Jay Schottenstein that helps retailers manage in-store inventory and cut back on theft and lost merchandise, reached unicorn status with its latest funding round, CNBC has learned. The company, founded in 2013 by Spencer Hewett, raised $170 million at a valuation of over $1 billion in its series B funding round, which was co-led by Gideon Strategic Partners and Nimble Partners with participation from Align Ventures.",
-      "published_at": "Tue, 19 May 2026 11:00:01 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與華語歌手周杰倫無關，而是關於美國鷹牌CEO Jay Schottenstein支持的一家新創公司Radar達到獨角獸地位。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1249,
-      "title": "John Summit announces ‘CTRL Escape Tour,’ Barclays show. Get tickets - New York Post",
-      "link": "https://nypost.com/2026/05/22/ticket-sales/john-summit-announces-ctrl-escape-tour-barclays-show-get-tickets/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# John Summit announces ‘CTRL Escape Tour,’ Barclays show. That includes a stop at Brooklyn’s Barclays Center on Saturday, Nov. 28. “It’s time to bring the world of CTRL ESCAPE to life.”. For the uninitiated, “CTRL ESCAPE” is Summit’s second studio album that hit shelves on April 15. “This is a kind of a crazy, artistic journey, and I love to be able to share my story of breaking out of the matrix that is the corporate life and really try to push boundaries as best I can in electronic music,” Summit explained. As of now, there’s no word on who the special guests joining Summit on the ‘CTRL Escape’ run are. Ahead of the fall outing, the “Where You Are” DJ is putting on his second Experts Only Festival at NYC’s Randall’s Island on Sept. | Aug. 7 at the Up In The Sky Festival in Aspen, CO *Single-day passes* |. 19 at Experts Only in New York, NY *Single-day passes* |.",
-      "published_at": "Fri, 22 May 2026 18:55:10 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了DJ John Summit即將展開的「CTRL Escape Tour」巡演，包括在Barclays Center的演出，並介紹了他的第二張錄音室專輯及其電子音樂理念，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1250,
-      "title": "Trump Says He Is in No Rush for an Iran Deal That Is Far From Finished - Moomoo",
-      "link": "https://www.moomoo.com/hans/news/post/70489130/trump-says-he-is-in-no-rush-for-an-iran",
-      "source": "Tavily (www.moomoo.com)",
-      "snippet": "* Trump Says He Is in No Rush for an Iran Deal That Is Far From Finished. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本内容仅用作提供信息及教育之目的，不构成对任何特定证券或投资策略的推荐或认可。本内容中的信息仅用于说明目的，可能不适用于所有投资者。本内容未考虑任何特定人士的投资目标、财务状况或需求，并不应被视作个人投资建议。建议您在做出任何投资于任何资本市场产品的决定之前，应考虑您的个人情况判断信息的适当性。过去的投资表现不能保证未来的结果。投资涉及风险和损失本金的可能性。moomoo对上述内容的真实性、完整性、准确性或对任何特定目的的时效性不做任何陈述或保证。. 在美国，moomoo上的投资产品和服务由Moomoo Financial Inc.提供，一家受美国证券交易委员会（SEC）监管的持牌主体。 Moomoo Financial Inc.是金融业监管局（FINRA）和证券投资者保护公司（SIPC）的成员。. 在新加坡，moomoo上的投资产品和服务是通过Moomoo Financial Singapore Pte. Ltd.提供，该公司受新加坡金融管理局（MAS）监管(牌照号码︰CMS101000) ，持有资本市场服务牌照 (CMS) ，持有财务顾问豁免（Exempt Financial Adviser）资质。本内容未经新加坡金融管理局的审查。. 在澳大利亚，moomoo上的金融产品和服务是通过Moomoo Securities Australia Limited提供，该公司是受澳大利亚证券和投资委员会(ASIC)监管的澳大利亚金融服务许可机构（AFSL No. 224663）。请阅读并理解我们的《金融服务指南》、《条款与条件》、《隐私政策》和其他披露文件，这些文件可在我们的网站 https://www.moomoo.com/au中获取。. 在加拿大，通过moomoo应用提供的仅限订单执行的券商服务由Moomoo Financial Canada Inc.提供，并受加拿大投资监管机构（CIRO）监管。. 在马来西亚，moomoo上的投资产品和服务是通过Moomoo Securities Malaysia Sdn. Bhd. 提供，该公司受马来西亚证券监督委员会（SC）监管(牌照号码︰eCMSL/A0397/2024) ，持有资本市场服务牌照 (CMSL) 。本内容未经马来西亚证券监督委员会的审查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd., Moomoo Securities Australia Limited, Moomoo Financial Canada Inc.,和Moomoo Securities Malaysia Sdn. Bhd.是关联公司。. * Atlas Arteria Previously Said IFM's Hostile Offer Is Too Low. * Kevin Warsh Walks Into a Trap Where the Fed Can't Cut Rates Even If It Wants to. * ASX前瞻：受美伊谈判不确定性影响，澳洲股市料将走低；Charter Hall集团上调2026财年经营利润指引. *赞**大爱**笑哭**社会社会**Emm**心碎**怒*. 明星科技股是在股票市场上受到广泛关注、具有显著行业影响力、市场表现活跃且市值规模较大的科技公司股票。这些公司往往在科技创新、市场份额、品牌知名度、盈利能力等方面表现出色，是各自所属行业的领军者，对整个股市，特别是科技行业板块乃至全球经济具有显著影响。  明星科技股是在股票市场上受到广泛关注、具有显著行业影响力、市场表现活跃且市值规模较大的科技公司股票。这些公司往往在科技创新、市场份额、品牌知名度、盈利能力等方面表现出色，是各自所属行业的领军者，对整个股市，特别是科技行业板块乃至全球经济具有显著影响。. 巴菲特的持股是伯克希尔·哈撒韦公司发布的最新持股组合。他被视为最成功的投资者之一，买卖动作常向市场发出信号，影响整个行业。  巴菲特的持股是伯克希尔·哈撒韦公司发布的最新持股组合。他被视为最成功的投资者之一，买卖动作常向市场发出信号，影响整个行业。.",
-      "published_at": "Sun, 24 May 2026 23:42:30 GMT",
-      "collected_at": "2026-05-25 05:08:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於美國政治、科技公司財報及股市分析，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 67,
-    "report_date": "2026-05-29",
-    "total_articles": 5,
+    "id": 68,
+    "report_date": "2026-05-30",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日搜集的新聞列表中，未發現任何直接與華語天王周杰倫相關的報導。雖然部分新聞提及了「Jay」這個名字，但均為其他領域人士，如企業家、播客主持人或政治人物，與周杰倫的娛樂動態無關。因此，今日無周杰倫的娛樂焦點。",
+    "neutral_count": 9,
+    "daily_summary": "根據今日搜集到的所有新聞資料，並未發現任何與華語樂壇天王周杰倫相關的報導或重要事件。新聞中提及的「Jay」或「McCartney」等名字，均為其他藝人或公眾人物，如Jay Shetty、Jay McKee、Jesse McCartney等，與周杰倫無關。因此，今日無周杰倫的最新動態或焦點新聞可供整理與摘要。",
     "key_events": [
-      "今日無相關報導",
-      "無周杰倫動態",
-      "未有娛樂焦點"
+      "無相關事件",
+      "無相關事件",
+      "無相關事件"
     ],
-    "created_at": "2026-05-29 04:55:42"
+    "created_at": "2026-05-30 04:37:17"
   },
   "recentReports": [
+    {
+      "id": 68,
+      "report_date": "2026-05-30",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "根據今日搜集到的所有新聞資料，並未發現任何與華語樂壇天王周杰倫相關的報導或重要事件。新聞中提及的「Jay」或「McCartney」等名字，均為其他藝人或公眾人物，如Jay Shetty、Jay McKee、Jesse McCartney等，與周杰倫無關。因此，今日無周杰倫的最新動態或焦點新聞可供整理與摘要。",
+      "key_events": [
+        "無相關事件",
+        "無相關事件",
+        "無相關事件"
+      ],
+      "created_at": "2026-05-30 04:37:17"
+    },
     {
       "id": 67,
       "report_date": "2026-05-29",
@@ -657,21 +672,6 @@
         "無相關活動"
       ],
       "created_at": "2026-05-24 04:49:31"
-    },
-    {
-      "id": 61,
-      "report_date": "2026-05-23",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語流行天王周杰倫的最新報導或焦點事件。所有新聞皆聚焦於其他國際藝人動態，例如Michael Jackson、Drake、Harry Styles等。因此，今日周杰倫方面沒有值得特別摘要的最新動態，粉絲們可能需要等待後續報導。",
-      "key_events": [
-        "無相關報導",
-        "無重要事件",
-        "今日無焦點"
-      ],
-      "created_at": "2026-05-23 04:27:41"
     }
   ]
 }
