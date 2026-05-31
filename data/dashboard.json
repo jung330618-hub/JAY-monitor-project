@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 6
   },
   "allTimeStats": {
-    "total": 1282,
+    "total": 1288,
     "positive": 339,
     "negative": 47,
-    "neutral": 896,
+    "neutral": 902,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-16",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-17",
       "total": 4,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-05-31",
+      "total": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1283,
+      "title": "Jimmy Kimmel Cries and Calls Adam Carolla His 'Life Partner' at Hollywood Walk of Fame Ceremony - Variety Australia",
+      "link": "https://au.variety.com/2026/tv/news/jimmy-kimmel-adam-carolla-hollywood-walk-of-fame-ceremony-37049/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# Jimmy Kimmel Cries and Calls Adam Carolla His ‘Life Partner’ at Hollywood Walk of Fame Ceremony: ‘If That Sounds Gay to You, It Was and It Is’. Kimmel began his speech by remembering his first introduction to Carolla, which came in 1994 when the late-night star was working on “Kevin and Bean,” a Los Angeles radio show. The first time Carolla was put on the air, Kimmel recalled his roast; “Adam told ‘Kevin and Bean,’ ‘Jimmy is 160 pounds of pure chiseled steel. And if that sounds gay to you, it was and it is,” he said, to laughter from the audience. “Adam and I, as you probably know, don’t agree much when it comes to politics, but I love him dearly,” said Kimmel. I am proud of him … this is a guy who worked his way up from nothing to become, literally, a millionaire, and if you don’t believe it you’ll hear him say it every single show.”.",
+      "published_at": "Thu, 28 May 2026 00:14:39 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導Jimmy Kimmel在好萊塢星光大道儀式上對Adam Carolla的感性致詞，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1284,
+      "title": "Drake Beats Michael Jackson's Record for No. 1 Hits - Newser",
+      "link": "https://www.newser.com/story/389862/drake-beats-michael-jacksons-record-for-no-1-hits.html",
+      "source": "Tavily (www.newser.com)",
+      "snippet": "# Drake Beats Michael Jackson's Record for No. 1 Hits. Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 46: Drake Beats Michael Jackson's Record for No. 1 Hits. With \"Janice STFU\" debuting at No. 1 on the Billboard Hot 100, Drake now holds the mark for the most chart-topping singles by a solo male artist, _Variety_ reports. *    Fueled by three new albums released May 15—_Iceman_, _Maid of Honour_, and _Habibti_—Drake also sets a new record for most Hot 100 entries in a single week, landing 42 songs on the chart and surpassing Morgan Wallen's previous high of 37. *    On the albums chart, _Iceman_, _Habibti_, and _Maid of Honour_ opened at Nos. 1, 2, and 3, respectively, with _Iceman_ becoming his 15th No. 1 album and giving him the male solo artist record in that category as well, breaking Jay-Z's record.",
+      "published_at": "Wed, 27 May 2026 01:28:00 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Drake打破了Michael Jackson和Jay-Z的紀錄，成為擁有最多冠軍單曲和專輯的男歌手，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1285,
+      "title": "Music Mogul Clive Davis Hospitalized in New York - TMZ",
+      "link": "https://www.tmz.com/2026/05/29/clive-davis-hospitalized/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Mackenzie Shirilla and Mom Joke About Her 'Bumping Booty' On Jail Call. # Music Mogul Clive Davis Hospitalized in New York. ## Clive Davis Hospitalized in NYC. **Clive Davis** -- the music mogul who molded the careers of **Whitney Houston**, **Aretha Franklin**, **Kelly Clarkson** -- is hospitalized ... A spokesperson for Clive tells TMZ ... he was admitted to a New York City hospital Friday evening. We're told he is suffering from an upper respiratory infection and out of an abundance of caution he was admitted to the hospital. His spokesperson says he is expected to be released in the next 24 hours. Clive, who is famous for his Grammy parties, has battled health issues before ... in February 2021 he was diagnosed with Bell's Palsy. Clive is a HUGE deal in the music biz. Clive was also inducted into the Rock and Roll Hall of Fame in 2000 in the non-performers category ... Clive Davis   Celebrity News   Exclusive.",
+      "published_at": "Sat, 30 May 2026 02:11:27 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導音樂大亨克萊夫·戴維斯因上呼吸道感染住院，預計24小時內出院，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1286,
+      "title": "Trending pop news: Summer House reunion and Kehlani tour - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/656214",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "# Trending pop news: Summer House reunion and Kehlani tour. ABC News' Rocsi Diaz breaks down trending stories, including Gayle King's podcast interview and a rare public appearance by 90-year-old Julie Andrews. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Wed, 27 May 2026 23:10:00 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導美國流行文化趨勢，包括真人秀重聚、歌手巡演及名人訪談，未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1287,
+      "title": "Drake Breaks Records for Most No. 1s Ever on the Billboard Canadian Hot 100 and Canadian Albums Charts - Billboard Canada",
+      "link": "https://ca.billboard.com/music/chart-beat/drake-iceman-billboard-canada-chart-records",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "The Toronto rapper has passed Justin Bieber and Taylor Swift for most ever No. 1 hits on the Canadian Hot 100 with \"Janice STFU,\" while he surpasses Swift and Céline Dion for most No. 1s ever on the Canadian Albums chart. Drake's blockbuster *Iceman* release has broken multiple Billboard Canadian chart records. The same week that he beat Michael Jackson's record for most No. 1s in the U.S. Drake's \"Janice STFU\" is his 14th No. 1 song on the Billboard Canadian Hot 100 dated May 30. That marks Drake's 14th chart-topping song since the chart’s inception in 2007, and it breaks a tie with Justin Bieber and Taylor Swift for the most No. 1 songs in Canadian Hot 100 history. **Drake’s 14 Canadian Hot 100 No. 1s**. On the Canadian Albums chart, The Boy has debuted at No. 1 *and* No. 2 this week with **Iceman** and **Maid of Honour*.* His other new album, **Habibti*,* ranks at No. 4.",
+      "published_at": "Wed, 27 May 2026 19:40:59 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導加拿大歌手Drake打破多項Billboard加拿大榜單紀錄，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1288,
+      "title": "Global Commodities Roundup: Market Talk - Moomoo",
+      "link": "https://www.moomoo.com/hant/news/post/70806711/global-commodities-roundup-market-talk",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* Global Commodities Roundup: Market Talk. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 在美國，moomoo上的投資產品和服務由Moomoo Financial Inc.提供，一家受美國證券交易委員會（SEC）監管的持牌主體。 Moomoo Financial Inc.是金融業監管局（FINRA）和證券投資者保護公司（SIPC）的成員。. 在新加坡，moomoo上的投資產品和服務是通過Moomoo Financial Singapore Pte. Ltd.提供，該公司受新加坡金融管理局（MAS）監管(牌照號碼︰CMS101000) ，持有資本市場服務牌照 (CMS) ，持有財務顧問豁免（Exempt Financial Adviser）資質。本內容未經新加坡金融管理局的審查。. 在澳大利亞，moomoo上的金融產品和服務是通過Moomoo Securities Australia Limited提供，該公司是受澳大利亞證券和投資委員會(ASIC)監管的澳大利亞金融服務許可機構（AFSL No. 224663）。請閱讀並理解我們的《金融服務指南》、《條款與條件》、《隱私政策》和其他披露文件，這些文件可在我們的網站 https://www.moomoo.com/au中獲取。. 在加拿大，透過moomoo應用程式提供的僅限訂單執行的券商服務由Moomoo Financial Canada Inc.提供，並受加拿大投資監管機構（CIRO）監管。. 在馬來西亞，moomoo上的投資產品和服務是透過Moomoo Securities Malaysia Sdn. Bhd. 提供，該公司受馬來西亞證券監督委員會（SC）監管(牌照號碼︰eCMSL/A0397/2024) ，持有資本市場服務牌照 (CMSL) 。本內容未經馬來西亞證券監督委員會的審查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd.，Moomoo Securities Australia Limited, Moomoo Financial Canada Inc和Moomoo Securities Malaysia Sdn. Bhd., 是關聯公司。. * How Replimune's Drug Got Third Chance After White House Intervention -- WSJ. * Press Release: FCPT Announces Agreement to Acquire up to 102 Mission Pet Health Veterinary Properties for $268 Million. * Oil Prices Tumble Nearly 20% in May - the Biggest Monthly Drop Since 2020.",
+      "published_at": "Sat, 30 May 2026 04:15:41 GMT",
+      "collected_at": "2026-05-31 05:06:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導主要關於全球大宗商品市場、Moomoo平台的財經資訊以及幾家公司的財報與併購消息，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1274,
       "title": "Paul McCartney’s New Solo Album Is Worth the Wait — Review - Newsweek",
@@ -470,108 +554,39 @@
       "summary": "此新聞報導關於《Jackass: Best and Last》的明星將出席IGN Live 2026活動，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1257,
-      "title": "Bianca Censori Rocks Revealing Top on Date With Kanye - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/videos/bianca-censori-rocks-revealing-top-164243606.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "## Entertainment:. * Nic Cage debunks Graceland rumor. * Colbert revisits old hosting gig. * Cannes Palme d'Or winner. * Shakira drops 'Dai Dai' video. * Miley Cyrus's Hollywood star. * Olivia Rodrigo's new single. * Colbert's final 'Late Show'. # Bianca Censori Rocks Revealing Top on Date With Kanye. Add Yahoo as a preferred source to see more of our stories on Google. Bianca Censori put on a \"Thriller\" display with her most recent fashion choice ... showing off her chest in a low-cut top while watching \"Michael\" with Kanye West.",
-      "published_at": "Sat, 23 May 2026 16:42:43 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Bianca Censori Rocks Revealing Top on Date With Kanye - Yahoo",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1258,
-      "title": "Jay Woods is watching two beaten-down software stocks into earnings this week - CNBC",
-      "link": "https://www.cnbc.com/2026/05/26/jay-woods-is-watching-two-software-stocks-into-earnings-this-week.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Jay Woods is watching two beaten-down software stocks into earnings this week. See the full discussion above.) NYSE insider Jay Woods is keeping an eye on two beaten-down software stocks — Salesforce and Snowflake — as they report earnings this week. Woods, chief market strategist at Freedom Capital Markets, believes that there is \"a nice double bottom forming\" in the stock — a chart pattern that could suggest a bullish reversal. While Salesforce is still \"in a major downtrend,\" Woods believes that the $167 level provides key support. On a run, look for $202 — again, that 200-day moving average — we get a lot of stocks under that average go back, mean revert, and give you a nice near-term gain. (Watch full video above.) Veteran trader Woods also touches on the following in his video: The key level to watch on the S & P 500 to see if the index can take another leg higher.",
-      "published_at": "Tue, 26 May 2026 17:26:07 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay Woods is watching two beaten-down software stocks into earnings this week - CNBC",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1259,
-      "title": "Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets 05/21/2026 - MediaPost",
-      "link": "https://www.mediapost.com/publications/article/415245/sources-wonder-if-jay-penske-will-buy-some-of-vox.html",
-      "source": "Tavily (www.mediapost.com)",
-      "snippet": "Subscribe today to gain access to every *Research Intelligencer* article we publish as well as the exclusive daily newsletter, full access to *The MediaPost Cases*, first-look research and daily insights from Joe Mandese, Editor in Chief. # Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets. Vox Media’s remaining assets after the $300 million sale of the Vox Media Podcast Network and *New York*magazine  to James Murdoch’s Lupa may be followed by the. sale of the remaining Vox assets, AdWeek writes. Jay Penske, who owns 20% of Vox Media’s stock at Penske Media is likely to acquire one or more of the remaining brands, sources speculate. Read the whole story at Adweek ». More from *Around the Net In Media*. * Talking Biz News, Wednesday, May 20, 2026 9:04 AM. Reuters has been accused of unfair labor practices by the NewsGuild of New York after it allegedly cut ties with podcast producer Evan Jacoby over comments he made questioning Reuters’. Read the whole story at Talking Biz News ».",
-      "published_at": "Thu, 21 May 2026 02:03:05 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Sources Wonder If Jay Penske Will Buy Some Of Vox Media's Remaining Assets 05/21/2026 - MediaPost",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1260,
-      "title": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it - The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
-      "source": "Tavily (www.theguardian.com)",
-      "snippet": "# A Louisiana state senator helped secure Meta’s largest datacenter. Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter. For more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish. He cosponsored two bills that enabled the land deal between Meta and the state. Now, a Floodlight investigation has found that while Morris used his political position to advance the project, he and his business partners were buying and selling the land around it over the past 15 months. As recently as February, Morris and his partners sold hundreds of acres to utility giant Entergy for a methane-burning power plant to provide electricity for the datacenter. He said his land-holdings are public record and that the tax breaks he voted for applied to all datacenters – not just the Meta project.",
-      "published_at": "Mon, 25 May 2026 12:00:25 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it - The Guardian",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1261,
-      "title": "Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour - Billboard",
-      "link": "https://www.billboard.com/music/latin/arcangel-us-tour-dates-la-8va-maravilla-20-aniversario-tour-1236256921/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour. The trek is in support of his latest studio album of the same name and a celebration of his 20th career anniversary. Arcángel continues to celebrate his two-decade trajectory by announcing the U.S. leg of his La 8va Maravilla 20 Aniversario tour on Tuesday (May 26). ### Ziggy Marley Is Looking on the 'Brightside' for His First Proper Solo Album in Eight Years: 'I Listen to This Album As If I Didn't Make It'. Arcángel’s world tour that kicked off in May with two dates in Spain will continue from July to September with dates across Latin America, including Mexico, Argentina and Colombia. The tour is in support of his latest studio album, *La 8va Maravilla*, an experimental set that navigates merengue, Afro house, *banda*, Jersey club, pop and his signature R&B and reggaetón sound, and has collaborations with Ricky Martin, Daddy Yankee, Grupo Firme and more.",
-      "published_at": "Tue, 26 May 2026 20:04:43 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Arcángel Unveils U.S. Dates for La 8va Maravilla 20 Aniversario Tour - Billboard",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1251,
-      "title": "Jack Osbourne fires back at body shamers calling him 'grossly underweight' - Fox News",
-      "link": "https://www.foxnews.com/entertainment/jack-osbourne-fires-back-body-shamers-calling-grossly-underweight",
-      "source": "Tavily (www.foxnews.com)",
-      "snippet": "* #### ‘Grey’s Anatomy’ star Sarah Drew reveals pastor father’s advice that transformed her life. * #### Prince William says he's 'hoping' for an invite to Taylor Swift and Travis Kelce's wedding. * #### Ken Jennings on the 'Jeopardy!' prep trick he swears by and the category that made even him sweat. ## The 40-year-old says he's been the same weight for 6 months and the only change was swapping his beard for a mustache. He later added that he has been \"brutalized by the press about being overweight\" his entire life and cannot believe that even though he got \"down to a healthy weight,\" he has been \"criticized even more,\" telling the journalists and other body shamers that they can \"get f--ked.\". Jack is not the only Osbourne who has dealt with people commenting on their body, as his sister, Kelly Osbourne, received backlash after her appearance at the BRIT Awards.",
-      "published_at": "Sun, 24 May 2026 01:25:52 GMT",
-      "collected_at": "2026-05-26 04:46:32",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Jack Osbourne反擊身材羞辱者，以及其他歐美娛樂資訊，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 68,
-    "report_date": "2026-05-30",
-    "total_articles": 9,
+    "id": 69,
+    "report_date": "2026-05-31",
+    "total_articles": 6,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "根據今日搜集到的所有新聞資料，並未發現任何與華語樂壇天王周杰倫相關的報導或重要事件。新聞中提及的「Jay」或「McCartney」等名字，均為其他藝人或公眾人物，如Jay Shetty、Jay McKee、Jesse McCartney等，與周杰倫無關。因此，今日無周杰倫的最新動態或焦點新聞可供整理與摘要。",
+    "neutral_count": 6,
+    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有提及的『Jay』均為其他公眾人物，與歌手周杰倫無關。",
     "key_events": [
-      "無相關事件",
-      "無相關事件",
-      "無相關事件"
+      "今日無相關報導",
+      "今日無相關報導",
+      "今日無相關報導"
     ],
-    "created_at": "2026-05-30 04:37:17"
+    "created_at": "2026-05-31 05:06:56"
   },
   "recentReports": [
+    {
+      "id": 69,
+      "report_date": "2026-05-31",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有提及的『Jay』均為其他公眾人物，與歌手周杰倫無關。",
+      "key_events": [
+        "今日無相關報導",
+        "今日無相關報導",
+        "今日無相關報導"
+      ],
+      "created_at": "2026-05-31 05:06:56"
+    },
     {
       "id": 68,
       "report_date": "2026-05-30",
@@ -657,21 +672,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-05-25 05:08:32"
-    },
-    {
-      "id": 62,
-      "report_date": "2026-05-24",
-      "total_articles": 3,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。主要焦點集中在其他藝人如BTS Jung Kook、Drake、Michael Jackson等人的新作品或動態，以及音樂產業的發展。",
-      "key_events": [
-        "無周杰倫新聞",
-        "今日焦點在他人",
-        "無相關活動"
-      ],
-      "created_at": "2026-05-24 04:49:31"
     }
   ]
 }
