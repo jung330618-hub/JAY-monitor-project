@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
+    "total": 11,
     "positive": 0,
     "negative": 0,
-    "neutral": 6
+    "neutral": 11
   },
   "allTimeStats": {
-    "total": 1288,
+    "total": 1299,
     "positive": 339,
     "negative": 47,
-    "neutral": 902,
+    "neutral": 913,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-17",
-      "total": 4,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 4,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-18",
       "total": 6,
@@ -132,9 +124,171 @@
       "negative": 0,
       "neutral": 6,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-01",
+      "total": 11,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 11,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1289,
+      "title": "Machine Gun Kelly Shares Adorable Video Montage of His and Megan Fox's Daughter Saga During Tour Opener: 'Wish I Was With Mine Right Now' - AOL.com",
+      "link": "https://www.aol.com/articles/machine-gun-kelly-shares-adorable-222530000.html",
+      "source": "Tavily (www.aol.com)",
+      "snippet": "# Machine Gun Kelly Shares Adorable Video Montage of His and Megan Fox's Daughter Saga During Tour Opener: 'Wish I Was With Mine Right Now'. Machine Gun Kelly played a sweet video with daughter Saga onstage during his \"Lost Americana\" summer tour opener Friday, May 15 at Toyota Amphitheatre in Wheatland, Calif. \"Pretty girl right there, is that your dad?\" the rocker, who shares the little girl with ex Megan Fox, said as he addressed the audience in the clip posted on a fan's Instagram on Sunday, May 17. I wish I was with mine right now, that's amazing. He launched into the sentimental \"Play This When I'm Gone,\" singing, \"Sending you this message just so I can stay that I love you. ## Clips of MGK With Daughter Saga Played. During the clips, MGK is seen dancing with his daughter, and flying a paper airplane with his pink pajama-clad little girl, who is holding onto her dad while he laughs.",
+      "published_at": "Sun, 31 May 2026 19:21:38 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要報導Machine Gun Kelly在演唱會上分享與女兒的溫馨影片。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1290,
+      "title": "Magic, mastery and magisterial power: 10 of Sonny Rollins’ greatest recordings - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/may/26/sonny-rollins-greatest-recordings-jazz",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "A 30-year-old Sonny Rollins had already made his unique mark with Miles Davis and Thelonious Monk by the time this 1956 session was cut, just a year after bebop sax revolutionary Charlie Parker’s death – but hooking up with his contemporary and admirer John Coltrane happened by chance on the two-tenor blues chase of this album’s title. In a vivacious set with the Miles Davis rhythm section of the time (Red Garland on piano, Paul Chambers on bass, Philly Joe Jones on drums), the leader’s already unquenchable inventiveness is in full flow on Paul’s Pal, and The Most Beautiful Girl in the World. This writer’s first connection with Sonny Rollins’ music was occasioned not by music but words: poetic New Yorker writer Whitney Balliett’s evocative review of Sonny Rollins’ 1957 Saxophone Colossus, in which he referred to the saxophonist’s guffawing, haranguing improvisational style as springing from a jazz imagination to equal Charlie Parker’s.",
+      "published_at": "Tue, 26 May 2026 17:26:40 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於爵士樂手Sonny Rollins的音樂成就與錄音作品，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1291,
+      "title": "Why Hollywood And The Creator Economy Are Trading Places - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/why-hollywood-creator-economy-trading-031840565.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "The big story in entertainment right now is creators going Hollywood. The bigger story is mainstream talent quietly going the other way. In a few days A24 is releasing Backrooms, the debut of 20-year-old YouTuber Kane Parsons, which is tracking to open above $25 million. KJ Apa, an actor known for a leading role in Riverdale, is in the middle of one of the year’s wildest creator-economy stunts. It is exactly the asset the rest of mainstream entertainment is quietly trying to build. This isn't the same story, it's two different groups chasing two different things in opposite directions. For the last nine years he has worked with both superstar YouTubers and traditional entertainment celebrities, which makes him one of the only people watching both sides of this migration from the same chair. But right now it’s a touring magician with 100 million monthly views, it’s a 26-year-old YouTuber being handed a horror franchise and it's an established actor pretending to be a TikTok pop star.",
+      "published_at": "Wed, 27 May 2026 03:18:00 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞探討好萊塢與創作者經濟之間的趨勢轉變，內容並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1292,
+      "title": "Here’s What Went Down at Jay-Z’s Headlining Roots Picnic Show - Pitchfork",
+      "link": "https://pitchfork.com/news/heres-what-went-down-at-jay-zs-headlining-roots-picnic-show/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "From a diss-laden freestyle to a State Property reunion, the rapper lit up his first top-billed solo performance in over five years. Jay-Z headlined Philadelphia’s annual Roots Picnic on Saturday (March 30), marking his first solo headlining show in over five years. Over the course of the 90-minute set, Jay-Z performed 30-plus songs from across catalog, showing love to big hits (“Dirt Off Your Shoulders,” “Empire State of Mind,” “Run This Town,” “N\\*gga’s In Paris”) and deeper cuts (“Can I Live,” “Marcy Me”) alike. The show also featured an unofficial State Property reunion, with Beanie Sigel, Freeway, Peedi Crakk, Memphis Bleek, and Young Gunz all hopping on the mic at various intervals. I’ll really get under ya skin (stab).” (Despite the shade, Jay-Z still performed multiple songs from his and West’s joint album *Watch the Throne*, including “No Church in the Wild” and “Gotta Have It.”).",
+      "published_at": "Sun, 31 May 2026 16:38:53 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導是關於美國饒舌歌手Jay-Z在Roots Picnic音樂節的頭條演出，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1293,
+      "title": "Jay-Z Drops Kanye West, Drake, and Nicki Minaj Disses in Fiery Roots Picnic Freestyle - bet.com",
+      "link": "https://www.bet.com/article/ym9w7e/jay-z-drops-kanye-west-drake-and-nicki-minaj-disses-in-fiery-roots-picnic-freestyle",
+      "source": "Tavily (www.bet.com)",
+      "snippet": "Tyler Perry's The Oval. Tyler Perry's House Of Payne. Hov broke six years of solo concert silence Saturday night at the Roots Picnic in Philadelphia with a four-minute freestyle aimed at his rivals and former friends. The 56-year-old rap mogul, born **Shawn Carter**, broke six years of solo concert silence Saturday night at the Roots Picnic in Philadelphia with a four-minute freestyle aimed at **Kanye West**, **Drake**, **Nicki Minaj**, **Dame Dash**, and singer **Jaguar Wright**. Per Consequence, the most quoted line of the night appeared to be a direct response to Drake's recent \"Iceman\" track \"Janice STFU,\" on which Drake rapped, \"the jig is up\" in reference to Jay-Z. Hov fired back: \"The jig is up, n\\*\\*\\*a I'm up 10, wrong chart champ, n\\*\\*\\*as looked up to Hov, I never looked up to them.\". Her Ken can't even pick they kid, enough of them.\" He also called out his former Roc-A-Fella partner Dame Dash and **Questlove**'s old introduction to Jaguar Wright, who has spent years publicly criticizing Hov and Beyoncé.",
+      "published_at": "Sun, 31 May 2026 14:08:55 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Jay-Z在Roots Picnic演唱會上發表了一段針對Kanye West、Drake等多位藝人的饒舌diss。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1294,
+      "title": "may the force be with cool #comiccon #am730 - facebook.com",
+      "link": "https://www.facebook.com/am730hk/posts/may-the-force-be-with-coolcomiccon-am730/1479257394241858/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# may the force be with cool #comiccon #am730 | am730 | Facebook. # Video. may the force be with cool #comiccon #am730. may the force be with cool…. ## Comments. ## Related Reels. Image 12 am730 6.2K. ## Related videos. Image 16: Video thumbnail 2:05. 馮德倫原創動漫IP「BUCKET MAN」於「香港Comic Con 2026」登場， 因電影對白「我要驗牌」而爆紅的「法國賭神」Declan Wong亦激罕現身，兩大高手上演「Show Hand」巔峰對決！ #馮德倫 #法國賭神 #ComicCon #am730. 車上1名乘客不適送院 #車Cam #灣仔 #的士 #am730. 請您睇戲《新劇場版 銀魂 -吉原大炎上-》🎬！ 🎟️即睇領取方法▶️https://bit.ly/4dQFaOH 為慶祝日本超人氣漫畫《銀魂》連載20週年，人氣篇章「吉原炎上篇」將重新編劇及以最新技術重製，推出長篇動畫電影《新劇場版 銀魂 -吉原大炎上-》。 「吉原炎上篇」刊載於漫畫第210至229話，並在電視動畫第139至146集播映。故事講述在江戶經營「萬事屋」的坂田銀時，結識了尋找失散母親的少年晴太。為幫助晴太，銀時聯同新八、神樂勇闖龐大地下城「吉原」，展開一場拯救花魁日輪的熱血冒險。本次劇場版以此經典篇章為基礎，從劇本、畫面到動作演出皆進行徹底重製。新劇場版還加入真選組、桂小太郎、艾利撒比斯等漫畫與TV動畫未出現過的角色，為觀眾帶來前所未見、全新的銀魂體驗。即使未接觸過銀魂的觀眾都可輕易了解電影劇情，享受大銀幕刺激及爆笑一番！ 上映日期: 6月4日（日語原聲）/ 6月11日（粵語配音） am730 APP會員可免費兌換電影換票證！仲未成為會員？立即下載APP登記並完成簡單任務儲積分換獎賞啦！新會員仲有限定迎新任務𠻹～ 📲立即下載am730 APP▶️ https://bit.ly/45grw4k ================ * 圖片只供參考｜數量有限，先到先得｜須受條款及細則約束。 #amJetso #am730 #amFUN #著數優惠 #積分獎賞 #好戲賞 #請睇戲 #送戲飛 #銀魂 #amFun積分獎賞. 樂琳今屆撐阿根廷衛冕，原因唔難估。咁佢心目中世界盃金球，大家又估唔估到？ @1oklam @viutv.fcw #樂琳 #螢花 #世界盃 #NowTV #NowELT #am730. 好靚呀😍 #菲律賓 #馬榮火山 #流星 #am730. Scan the QR code and confirm the codes match to log in.",
+      "published_at": "Sun, 31 May 2026 11:19:11 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊未提及周杰倫相關內容，主要報導香港Comic Con、動漫電影宣傳及其他生活資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1295,
+      "title": "Jay-Z reunites with Beanie Sigel, Freeway on first night of Roots Picnic in Philadelphia - CBS News",
+      "link": "https://www.cbsnews.com/philadelphia/video/jay-z-reunites-with-beanie-sigel-freeway-on-first-night-of-roots-picnic-in-philadelphia/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "* Send Us a News Tip. # Jay-Z reunites with Beanie Sigel, Freeway on first night of Roots Picnic in Philadelphia. Jay-Z brought out Philadelphia stars Meek Mill, Beanie Sigel and Freeway on the first night of the Roots Picnic.",
+      "published_at": "Sun, 31 May 2026 20:32:00 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Jay-Z在Roots Picnic音樂節上與其他藝人重聚演出。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1296,
+      "title": "The Scottish Waltz with Two Lives – Ashoken Farewell - The Times of Israel",
+      "link": "https://blogs.timesofisrael.com/the-scottish-waltz-with-two-lives-ashoken-farewell/",
+      "source": "Tavily (blogs.timesofisrael.com)",
+      "snippet": "* You will receive email alerts from this author. You will no longer receive email alerts from this author. # The Scottish Waltz with Two Lives – Ashoken Farewell. *Ashoken  Farewel*l was composed by Jay Ungar, an American Folk Musician and Composer. Ungar observed, “*Ashokan Farewell* was written in the style of a Scottish lament. I sometimes introduce it as, ‘a Scottish lament written by a Jewish guy from the Bronx.’ I lived in the Bronx until the age of sixteen.”. And a love that will always remain in my heart.*. Jay, and his life partner and fellow Folk Musician and Composer, Molly Mason, close their annual Ashoken Center season with *Ashoken Farewell*. The Ashoken Center is a very important part of Jay and Molly’s lives. The Scottish Waltz, *Ashoken Farewell*, composed by Jay Ungar, the nice Jewish boy from the Bronx, truly has two enduring lives.",
+      "published_at": "Sun, 31 May 2026 04:27:00 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容提及的是美國民謠音樂家Jay Ungar，而非華語歌手周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1297,
+      "title": "Kanye West Performs For 118,000 In Turkey—Despite Cancellations Over Antisemitic Behavior - Forbes",
+      "link": "https://www.forbes.com/sites/tylerroush/2026/05/31/kanye-west-performs-for-118000-in-turkey-despite-cancellations-over-antisemitic-behavior/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "Kanye West performed to a stadium crowd of more than 100,000 fans in Turkey on Saturday, his first performance in Europe in more than a decade, as the rapper attempts a comeback following immense backlash to his long history of virulent antisemitic remarks, which derailed his career. His concert follows the cancellation of a tour stop in Marseille, France, in April after Marseille Mayor Benoît Payan refused to have the city serve as a “showcase for those who promote hatred and unapologetic Nazism,” and the cancellation of the U.K.’s Wireless Festival after it picked West as a headlining act. West reportedly claimed during his performance in Istanbul that his concert was the “largest stadium performance of all time.” It’s not immediately clear whether West set a new record: Zach Bryan set the record for the largest ticketed audience in U.S. history with just over 112,000 people in attendance for a concert in 2025.",
+      "published_at": "Sun, 31 May 2026 00:00:00 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導描述Kanye West在土耳其舉辦演唱會，試圖在反猶言論爭議後復出，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1298,
+      "title": "Kanye West performs in Istanbul for first time before mammoth crowd of 118,000 - Anadolu Ajansı",
+      "link": "https://www.aa.com.tr/en/world/kanye-west-performs-in-istanbul-for-first-time-before-mammoth-crowd-of-118-000/3952178",
+      "source": "Tavily (www.aa.com.tr)",
+      "snippet": "Kanye West performs in Istanbul for first time before mammoth crowd of 118,000. Stadium was at full capacity hours before show as fans gathered to watch Grammy-winning rapper. World-renowned rapper Kanye West performed in Istanbul for the first time on Saturday, drawing a mammoth crowd of some 118,000 fans to Ataturk Olympic Stadium in one of the year’s biggest music events. The concert, organized in cooperation with NTRteam, attracted thousands of visitors from Türkiye as well as the United Kingdom, Germany, France, the Netherlands, Italy, Russia, Poland, and countries across the Middle East. The stadium reached capacity hours before the show as fans gathered to watch the Grammy-winning artist’s long-awaited debut performance in Türkiye. West opened the concert with his song Father and closed the nearly two-hour set with Stronger. Fans joined in throughout the performance, singing along and dancing as applause and chants echoed around the stadium. One of the concert’s most striking features was its stage design, inspired by West’s performances at Los Angeles’ SoFi Stadium.",
+      "published_at": "Sun, 31 May 2026 11:15:39 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導Kanye West在伊斯坦堡舉辦了一場吸引11.8萬人次的盛大演唱會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1299,
+      "title": "Michael Jackson Defies The Odds And Sends Several Songs To New Peaks - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/michael-jackson-defies-odds-sends-133000525.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Michael Jackson Defies The Odds And Sends Several Songs To New Peaks. It's a tough week for every artist on the *Billboard* charts not named Drake. The hip-hop superstar breaks several records thanks to his surge of new music, and those cuts that don’t have his moniker attached that manage to hold on drop from where they sat last week, with only a very small number of hits either keeping steady, or, in the case of Michael Jackson, rising. They not only rise on one of the *Billboard’s* two worldwide tallies, but establish new peaks. 15 tunes by Jackson appear on this week’s Billboard Global Excl. While both \"Billie Jean\" and \"Chicago\" climb to new peak positions on the current edition of the Billboard Global Excl. As both \"Billie Jean\" and \"Chicago\" push to exciting peaks, Jackson's 13 other tracks that can be found on the Billboard Global Excl. Here is where all of Michael Jackson's songs rank on this week's Billboard Global Excl.",
+      "published_at": "Sun, 31 May 2026 13:30:00 GMT",
+      "collected_at": "2026-06-01 05:27:10",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於麥可·傑克森（Michael Jackson）的歌曲在Billboard榜單上達到新高峰，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1283,
       "title": "Jimmy Kimmel Cries and Calls Adam Carolla His 'Life Partner' at Hollywood Walk of Fame Ceremony - Variety Australia",
@@ -400,178 +554,39 @@
       "summary": "這則新聞是關於饒舌歌手Juvenile的演唱會與新專輯，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1273,
-      "title": "Gracie Abrams announces The Look At My Life Tour - The Music Universe",
-      "link": "https://themusicuniverse.com/gracie-abrams-announces-the-look-at-my-life-tour/",
-      "source": "Tavily (themusicuniverse.com)",
-      "snippet": "# Gracie Abrams announces The Look At My Life Tour. Grammy-nominated singer-songwriter, Gracie Abrams, announces her North American and European/UK arena tour, The Look at My Life Tour, with the North American dates presented by Capital One. Promoted by Live Nation, the 64-date tour kicks off in Denver, CO on December 2nd and will hit major cities across North America, including Boston, Chicago, Nashville, Toronto and Los Angeles with four nights at the Kia Forum before wrapping with four nights at the Barclays Center in Brooklyn, NY on March 20th. Gracie will then embark on the European/UK leg beginning April 8th, with three nights in Paris, FR, and will play cities across Europe, including Amsterdam, Dublin, Manchester, and Milan, before wrapping in Barcelona, ES on May 28th. Gracie will also be playing four nights at the iconic O2 in London. Earlier this month, Gracie ushered in a new era with her single “Hit the Wall.” Along with the single release, Abrams also shared the official video directed by Renell Medrano.",
-      "published_at": "Thu, 28 May 2026 14:09:46 GMT",
-      "collected_at": "2026-05-29 04:55:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導葛蕾西·亞布拉姆斯（Gracie Abrams）宣布其北美與歐洲巡迴演唱會，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1262,
-      "title": "Sonny Rollins, saxophonist and restless genius of jazz, dead at 95 - Chicago Tribune",
-      "link": "https://www.chicagotribune.com/2026/05/26/sonny-rollins-jazz-saxophonist-dies/",
-      "source": "Tavily (www.chicagotribune.com)",
-      "snippet": "News Obituaries |   Sonny Rollins, saxophonist and restless genius…. # Sonny Rollins, saxophonist and restless genius of jazz, dead at 95. NEW YORK — Sonny Rollins, the tenor saxophonist and restless genius whose bold, distinctive tone and constant experimentation kept him on the cutting edge of jazz for more than 50 years, died Monday at age 95. From his early days as a teen phenom to his more measured solo work and experimentation with free jazz, Rollins was revered for his improvisational skill. He was one of the last living greats of the bebop era and — along with John Coltrane and Charlie Parker — one of the most influential saxophonists of his time. While his early bebop work was the most popular with his fans, Rollins never looked back, saying he found it “excruciating” to even listen to the flaws in his older recordings. “I played a couple of concerts early on where I was out in the open in the afternoon,” He told the New York Times in 2020.",
-      "published_at": "Tue, 26 May 2026 10:50:13 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導傳奇爵士薩克斯風手Sonny Rollins逝世，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1263,
-      "title": "John McClain, co-executor of Michael Jackson estate, dies at 71 - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-27/john-mcclain-michael-jackson-co-executor-dead",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "John McClain, a musician and record executive who helped power Janet Jackson’s ascent to pop stardom before serving as a co-executor of the estate of Jackson’s brother Michael, died Tuesday in Los Angeles. In a statement, he described McClain as “one of the great innovators in the world of music and music marketing” and said “it is difficult to imagine a world without him.”. Named to their posts in Michael Jackson’s will, McClain and Branca steered Jackson’s estate from financial and reputational ruin at the time of the pop star’s death in 2009 — much of it due to the multiple allegations of child sexual abuse against the singer — to the enormous success of posthumous projects including the concert film “This Is It,” the Cirque du Soleil production “Michael Jackson One,” the Broadway show “MJ: The Musical” and the Hollywood biopic “Michael,” which opened in movie theaters last month and is already among the highest-grossing biopics ever made.",
-      "published_at": "Wed, 27 May 2026 23:47:07 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森遺產共同執行人John McClain的逝世，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1264,
-      "title": "From ‘Scream’ to stream: Jamie Kennedy reveals how Hollywood lost its way and why he won't give up on LA - Fox News",
-      "link": "https://www.foxnews.com/culture/from-scream-stream-jamie-kennedy-reveals-how-hollywood-lost-its-way-why-he-wont-give-up-la",
-      "source": "Tavily (www.foxnews.com)",
-      "snippet": "# From ‘Scream’ to stream: Jamie Kennedy reveals how Hollywood lost its way and why he won't give up on LA. ## 'Scream' star says social media 'gave everybody a voice' but 'a lot of people should have laryngitis'. #### Comedian Jamie Kennedy speaks on the 'tail-end' of 'the great wokeness'. Comedian Jamie Kennedy spoke to Fox News Digital about the state of comedy amid a highly polarized political landscape. He told Fox News Digital in an exclusive interview that he was encouraged by what he sees as a return to center for Hollywood, or at least for comedy. Jamie Kennedy sat down with Fox News Digital for an exclusive interview in Los Angeles on May 7, 2026. \"We're on the tail and of everyone being upset, so I think the people just don't care anymore, and I think the people are going to come back again,\" Kennedy said.",
-      "published_at": "Sat, 23 May 2026 10:00:27 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要探討喜劇演員Jamie Kennedy對好萊塢現狀和喜劇未來的看法。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1265,
-      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026 - IGN Southeast Asia",
-      "link": "https://sea.ign.com/jackass-5/243202/jackass-best-and-last-stars-confirmed-to-attend-ign-live-2026",
-      "source": "Tavily (sea.ign.com)",
-      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ### Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT.",
-      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導《蠢蛋搞怪秀》成員將出席IGN Live 2026宣傳新電影，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1266,
-      "title": "Jay Chaudhry, Zscaler CEO: Fortt Knox Earnings - CNBC",
-      "link": "https://www.cnbc.com/video/2026/05/27/jay-chaudhry-zscaler-ceo-fortt-knox-earnings.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Jay Chaudhry, Zscaler CEO: Fortt Knox Earnings. Zscaler CEO Jay Chaudhry told Jon Fortt the stock's ~30% post-earnings plunge is a buying opportunity, defending a Q3 that beat: revenue and ARR each up 25%, a record 23% operating margin, ARR near $3.5B. He called the softer guidance 'prudent' after two sales leaders departed, and said Zscaler is pulling memory and datacenter purchases forward in an AI-driven supply crunch to secure billions of coming AI agents – pressuring free cash flow. Memory stocks can go higher but Nvidia may be a warning sign for Micron: Deepwater's Gene Munster. Consumers are being 'highly selective' on what they want, says TD Cowen’s Oliver Chen. Jamie Dimon says JPMorgan Chase could spend $20 billion on acquisition. Watch CNBC's full interview with former CFTC Chair Gary Gensler. Former CFTC Chair Gary Gensler on regulating prediction markets.",
-      "published_at": "Wed, 27 May 2026 17:14:04 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於資安公司Zscaler執行長Jay Chaudhry的財報分析，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1267,
-      "title": "Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/self-help-podcaster-jay-shetty-153759660.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "## Entertainment:. * Behind the scenes at the AMAs. * Gen Z icon Geena Davis. * Sonny Rollins dies at 95. * Cannes Palme d'Or winner. # Self-Help Podcaster Jay Shetty Strikes Major $100 Million Deal With Spotify And Netflix. Add Yahoo as a preferred source to see more of our stories on Google. ## Topline. Spotify and Netflix struck a deal reportedly worth $100 million for exclusive rights to the video version of “On Purpose,” a self-help podcast hosted by wellness influencer Jay Shetty, a rare nine-figure podcasting contract that is one of Spotify’s biggest since it first signed with Joe Rogan in 2020. ## Key Facts. *This is a developing story. *This article was originally published on Forbes.com*.",
-      "published_at": "Wed, 27 May 2026 15:37:59 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導知名自我成長播客Jay Shetty與Spotify和Netflix簽下價值一億美元的獨家合作協議，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1268,
-      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026 - IGN Africa",
-      "link": "https://za.ign.com/jackass-best-and-last/233070/jackass-best-and-last-stars-confirmed-to-attend-ign-live-2026",
-      "source": "Tavily (za.ign.com)",
-      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ### Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT. ## Jackass: Best and Last.",
-      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-28 04:52:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於《蠢蛋搞怪秀：最佳與最終》電影明星將出席IGN Live 2026活動，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1254,
-      "title": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-05-25/miles-davis-centennial-musicians-carlos-santana-wyclef-jean-flea-chuck-d-ron-carter",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "# Miles Davis at 100: Musicians explain why he is the GOAT. * Beyond his trumpet, Davis’ style, swagger and uncompromising attitude made him a model of artistic courage, with admirers saying he created a new language — and a blueprint for fearless reinvention. Still possessor of the biggest-selling jazz record in history, “Kind of Blue,” Davis casts a huge influence over the whole music world for his uncompromising artistic vision, constant evolution, style and more. In honor of Davis’ centennial, The Times spoke to an array of notable artists from all walks of music, some who knew and played with him, some fans of the man, but all agreed, Miles Davis was and is a singular force in music, an artist like no other in his vision, passion and feeling for the music. **Bilal, singer:** If you play the music you’ve got to look the part, and it was almost like he got into a movie role or something like that.",
-      "published_at": "Mon, 25 May 2026 10:00:00 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要探討爵士樂傳奇人物Miles Davis的音樂影響力與藝術成就，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1255,
-      "title": "Justice Department deletes press releases on charges against Jan. 6 rioters - MSN",
-      "link": "https://www.msn.com/en-us/news/politics/justice-department-deletes-press-releases-on-charges-against-jan-6-rioters/ar-AA23R5Ad?ocid=entnewsntp",
-      "source": "Tavily (www.msn.com)",
-      "snippet": "* 発表済 本決算：2026/04/09. 株価：15分ディレイ 財務データ：2026/05/25 更新. # 今期業績進捗状況. ### 直近実績 (百万円). ### 今期経常利益進捗状況. ### 経常利益四半期進捗 (百万円). | コンセンサス予想 | 2,267 | -- | -- | 10,770 |. | 前期  2026 02  進捗結果 | (07/10) 2,088  -- % | (10/15) 4,144  -- % | (01/14) 6,217  -- % | (04/09) 9,087  -- % |. # 業績推移. | 決算期 | 売上高 | 営業利益 | 経常利益 | 当期利益 |. | 202702 予  I | 34,300 (10.8 %) | 10,600 (17.9 %) | -- (-- %) | 7,420 (14.2 %) |. * ※「S」：米国会計基準、「I」：国際会計基準(IFRS)、未記載：日本会計基準. * ※2021年4月から「新収益認識基準」が強制適用となったことにより、対前年で売上高が見かけ上著しく減少するケースが発生しています。ご留意の上、企業発表の決算短信等も併せてご参照ください。. # 業績予想修正履歴. ### 経常利益修正履歴. | 決算期 | 日付 | 予・実 | 売上高 | | 営業利益 | | 経常利益 | | 当期利益 | |.",
-      "published_at": "Mon, 25 May 2026 07:48:46 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞標題關於美國司法部刪除1月6日暴動相關新聞稿，而內容摘要則為日本企業的財務數據與業績預測，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1256,
-      "title": "Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
-      "link": "https://www.ign.com/videos/jackass-best-and-last-stars-are-coming-to-ign-live-2026",
-      "source": "Tavily (www.ign.com)",
-      "snippet": "Jackass: Best and Last Stars Are Coming to IGN Live 2026. It's official: Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper are coming to IGN Live 2026 to promote Jackass: Best and Last! ### Did you enjoy this video? ### In This Video. Initial Release: Jun 26, 2026. ### Where to Watch. Not yet available for streaming. ### Related. The First Trailer for Jackass: Best and Last is Exactly What You'd Expect. Jackass: Best and Last - Official Trailer.",
-      "published_at": "Tue, 26 May 2026 21:15:54 GMT",
-      "collected_at": "2026-05-27 04:59:57",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於《Jackass: Best and Last》的明星將出席IGN Live 2026活動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 69,
-    "report_date": "2026-05-31",
-    "total_articles": 6,
+    "id": 70,
+    "report_date": "2026-06-01",
+    "total_articles": 11,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 6,
-    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有提及的『Jay』均為其他公眾人物，與歌手周杰倫無關。",
+    "neutral_count": 11,
+    "daily_summary": "今日搜集到的新聞中，並無任何關於周杰倫的相關報導。主要焦點集中在其他歐美藝人，如Jay-Z在Roots Picnic的演出、Kanye West在伊斯坦堡的演唱會，以及Drake打破Michael Jackson的紀錄等。此外，還有Jesse McCartney將在高中舞會表演，以及多位藝人的巡演消息。",
     "key_events": [
-      "今日無相關報導",
-      "今日無相關報導",
-      "今日無相關報導"
+      "Jay-Z Roots Picnic",
+      "Kanye West伊斯坦堡開唱",
+      "Drake破紀錄奪冠"
     ],
-    "created_at": "2026-05-31 05:06:56"
+    "created_at": "2026-06-01 05:28:09"
   },
   "recentReports": [
+    {
+      "id": 70,
+      "report_date": "2026-06-01",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 11,
+      "daily_summary": "今日搜集到的新聞中，並無任何關於周杰倫的相關報導。主要焦點集中在其他歐美藝人，如Jay-Z在Roots Picnic的演出、Kanye West在伊斯坦堡的演唱會，以及Drake打破Michael Jackson的紀錄等。此外，還有Jesse McCartney將在高中舞會表演，以及多位藝人的巡演消息。",
+      "key_events": [
+        "Jay-Z Roots Picnic",
+        "Kanye West伊斯坦堡開唱",
+        "Drake破紀錄奪冠"
+      ],
+      "created_at": "2026-06-01 05:28:09"
+    },
     {
       "id": 69,
       "report_date": "2026-05-31",
@@ -657,21 +672,6 @@
         "無重要事件"
       ],
       "created_at": "2026-05-26 04:46:45"
-    },
-    {
-      "id": 63,
-      "report_date": "2026-05-25",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫直接相關的報導。所有報導皆聚焦於其他國際娛樂界動態、商業新聞及社會事件，例如Michael Jackson傳記電影票房表現、Drake新專輯發行與排行成績，以及BTS Jung Kook與Calvin Klein的合作等。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-05-25 05:08:32"
     }
   ]
 }
