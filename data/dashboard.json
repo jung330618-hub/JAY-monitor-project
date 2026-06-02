@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 11,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 11
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 1299,
+    "total": 1307,
     "positive": 339,
     "negative": 47,
-    "neutral": 913,
+    "neutral": 921,
     "avg_score": 0.6
   },
   "trend": [
-    {
-      "date": "2026-05-18",
-      "total": 6,
-      "positive": 1,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.58
-    },
     {
       "date": "2026-05-19",
       "total": 4,
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-02",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1300,
+      "title": "Wyclef Jean on Owning the Future of the Creator Economy - ADWEEK",
+      "link": "https://www.adweek.com/brand-marketing/wyclef-jean-on-owning-the-future-of-the-creator-economy/",
+      "source": "Tavily (www.adweek.com)",
+      "snippet": "# Wyclef Jean on Owning the Future of the Creator Economy. In this episode of Adspeak by ADWEEK, host Madeline Nelson sits down with Wyclef Jean and Jaeson Ma for a live conversation from Brandweek about the future of the creator economy. The discussion explores how OpenWav is helping artists break free from streaming algorithms and traditional gatekeepers by enabling direct ownership of fan relationships, data, and revenue. Wyclef and Jaeson explain why smaller, highly engaged communities are becoming more valuable than mass audiences, and how independent creators can build sustainable businesses through exclusive content, merchandise, and direct-to-fan experiences. The episode also examines what this shift means for brands seeking more authentic partnerships with creators and niche communities in 2026. Jaeson Ma is the CEO at OpenWav and a tech investor and entrepreneur who founded ADA Rising, one of the fastest-growing independent digital music labels, and serves as a key architect behind OpenWav, a platform designed to empower artists through direct fan engagement and commerce.",
+      "published_at": "Mon, 01 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1301,
+      "title": "Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026 - IGN",
+      "link": "https://me.ign.com/en/jackass-5/244538/jackass-best-and-last-stars-confirmed-to-attend-ign-live-2026",
+      "source": "Tavily (me.ign.com)",
+      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ### Plus, check out this exclusive new poster for the gang's final movie. Updated: May 26, 2026, 5 p.m. Related reads:Jackass: Best and Last Trailer Features New Creatively Painful Stunts and a Brief Look at Bam Margera in Previously Unseen Footage. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT.",
+      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國節目《Jackass》成員將出席IGN Live 2026宣傳新電影，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1302,
+      "title": "Power Check: Marvell, Small caps and South Korea - CNBC",
+      "link": "https://www.cnbc.com/video/2026/05/27/power-check-marvell-small-caps-and-south-korea.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Power Check: Marvell, Small caps and South Korea. Jeff Kilburg, KKM Financial CEO, joins 'Power Lunch' to discuss Kilburg's investing take on several market sectors. Watch CNBC's full interview with Morgan Stanley's Mike Wilson. Watch CNBC's full interview with VanEck's David Schassler. Watch CNBC's full interview with Applied Digital CEO Wes Cummins. Watch CNBC’s full discussion with the ‘Squawk on the Street’ crew. Watch CNBC's full interview with Rockefeller Capital Management president and CEO Greg Fleming.",
+      "published_at": "Wed, 27 May 2026 18:55:14 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導主要討論金融市場分析與投資策略，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1303,
+      "title": "Jay-Z tears into Ye, Nicki Minaj, and Drake during freestyle at Roots Picnic - Entertainment Weekly",
+      "link": "https://ew.com/jay-z-tears-into-ye-nicki-minaj-and-drake-during-freestyle-at-roots-picnic-11987577",
+      "source": "Tavily (ew.com)",
+      "snippet": "# Jay-Z tears into Ye, Nicki Minaj, and Drake during freestyle at Roots Picnic. Image 3: Jay-Z tears into Ye, Nicki Minaj, and Drake during freestyle at Roots Picnic:max_bytes(150000):strip_icc():format(webp)/Jay-Z-at-Roots-Picnic-053126-2-047f63c8e0b04aa38945cac052826384.jpg). Jay-Z performing at Roots Picnic in Philadelphia on May 30.Credit:. *   Jay-Z delivered a stunning comeback performance at the 2026 Roots Picnic in Philadelphia on Saturday. *   The legendary rapper delivered cinematic renditions of some of his biggest hits, like \"Hovi Baby\" and \"No Church in the wild.\". But Saturday's performance at the Belmont Plateau in Philadelphia has garnered even more wide-eyed attention for the new material Jay-Z tested out, much of it riven with cutting barbs for the likes of Ye, Nicki Minaj, and Drake — all of whom he's collaborated with in the past. Image 9: Jay-Z tears into Ye, Nicki Minaj, and Drake during freestyle at Roots Picnic:max_bytes(150000):strip_icc():format(webp)/Jay-Z-at-Roots-Picnic-053126-3-edb5d553ecdd4ceb8ab2ffa052cdab58.jpg). Jay-Z performing at Roots Picnic in Philadelphia in 2026.",
+      "published_at": "Mon, 01 Jun 2026 02:47:44 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導描述了Jay-Z在Roots Picnic音樂節上的表演，其中他以自由饒舌方式批評了Ye、Nicki Minaj和Drake，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1304,
+      "title": "Jay-Z’s headline-making Roots Picnic set includes fiery Drake, Ye disses - USA Today",
+      "link": "https://www.usatoday.com/picture-gallery/entertainment/music/2026/06/01/jay-z-roots-picnic-photos/90352387007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Image 1: Jay-Z takes the stage at Roots Picnic on Saturday, May 30, in Philadelphia, in his first solo headlining performance in years while marking the 30th anniversary of his debut album, \"Reasonable Doubt.\". Jay-Z takes the stage at Roots Picnic on Saturday, May 30, in Philadelphia, in his first solo headlining performance in years while marking the 30th anniversary of his debut album, \"Reasonable Doubt.\". Courtesy Of Roc NationImage 2: During Jay-Z’s performance, the MC set aside time to share his thoughts on recent apparent spats with a few fellow rappers in a new freestyle. Jay-Z takes the stage at Roots Picnic on Saturday, May 30, in Philadelphia. Courtesy Of Roc NationImage 3: Jay-Z takes the stage at Roots Picnic on Saturday, May 30, in Philadelphia. Courtesy Of Roc NationImage 5: Jay-Z takes the stage with Beanie Sigel and Freeway at Roots Picnic on Saturday, May 30, in Philadelphia. Jay-Z takes the stage with Beanie Sigel and Freeway at Roots Picnic on Saturday, May 30, in Philadelphia.",
+      "published_at": "Mon, 01 Jun 2026 14:52:16 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Jay-Z在Roots Picnic演唱會上的演出及其對其他饒舌歌手的言論。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1305,
+      "title": "Jay-Z Stuns Fans With Unexpected New Look At Roots Picnic - The Root",
+      "link": "https://www.theroot.com/jay-z-stuns-fans-with-unexpected-new-look-at-roots-picn-2000108400",
+      "source": "Tavily (www.theroot.com)",
+      "snippet": "# Jay-Z Stuns Fans With Unexpected New Look At Roots Picnic. Debuting at The Roots Picnic, Hov broke the internet with a shocking new hairstyle. We love a good surprise moment, but nothing could have prepared us for Jay-Z’s new look. The reveal was so good that it sent the internet into a frenzy among fans both in the audience and online. That’s So Raven Dad Pleads For Donations From Hospital Bed. Every year, the annual Roots Picnic always delivers on unforgettable moments, and this year’s festival at its new home, Philadelphia’s Belmont Plateau, is no exception. This night was definitely one to remember as Hov came on stage, debuting his fully combed-out afro, closing out the freeform loc era. This transformation is a massive shift for Jay-Z’s look. Ahead of the festival’s official kickoff, videos of Jay-Z performing his classic records at a private event already began to make their rounds online, with fans speculating about what he had planned for his highly anticipated performance.",
+      "published_at": "Sun, 31 May 2026 14:23:59 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國歌手Jay-Z在Roots Picnic音樂節上的新造型，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1306,
+      "title": "Live music: 12 can't-miss concerts in Charlotte, including Chris Stapleton - Axios",
+      "link": "https://www.axios.com/local/charlotte/2026/06/01/live-music-12-cant-miss-concerts-in-charlotte-june-2026",
+      "source": "Tavily (www.axios.com)",
+      "snippet": "# Live music: 12 can't-miss concerts in Charlotte, including Chris Stapleton. June is packed with live music this month, from DaBaby's new festival to a long list of concerts that you won't want to miss, including Chris Stapleton. If you've seen the contemporary R&B and Neo-soul artist at a previous Dreamville Festival, then you'll know she'll bring souful vibes as she performs songs from her latest album \"Vacancy.\". The youngest singer from the Jonas Brothers band will be performing pop and pop-rock music we know and love. Rock out to \"The Up Up Down Down Tour\" that will feature supporting performances from New Found Glory and Plain White T's. The new hip-hop festival will feature a lineup of artists including DaBaby, 50 Cent, Busta Rhymes, Waka Flocka and about a dozen more artists. The pop and R&B artist will be singing songs from past albums in addition to hits from his latest album, \"After The Sun Goes Down,\" with special guest Lauv.",
+      "published_at": "Mon, 01 Jun 2026 09:30:04 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導列舉了夏洛特地區的多場演唱會資訊，但內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1307,
+      "title": "Horror film breaks box office records, Dua Lipa’s wedding and more - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/658508",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Ike Ejiochi, ABC News correspondent, on the A24 film “Backrooms” breakout debut, the “Euphoria” finale reaction, Dua Lipa's wedding and Jay-Z's return to the stage. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Mon, 01 Jun 2026 23:30:00 GMT",
+      "collected_at": "2026-06-02 05:13:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要報導了恐怖電影票房、Dua Lipa的婚禮以及Jay-Z的復出，但並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1289,
       "title": "Machine Gun Kelly Shares Adorable Video Montage of His and Megan Fox's Daughter Saga During Tour Opener: 'Wish I Was With Mine Right Now' - AOL.com",
@@ -442,136 +554,39 @@
       "summary": "這則新聞報導了自助播客主持人Jay Shetty與Spotify和Netflix達成了一項價值1億美元的獨家播客協議，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1279,
-      "title": "Jay McKee Named Hamilton Hammers Head Coach - NHL.com",
-      "link": "https://www.nhl.com/islanders/news/jay-mckee-named-hamilton-hammers-head-coach",
-      "source": "Tavily (www.nhl.com)",
-      "snippet": "# Jay McKee Named Hamilton Hammers Head Coach. The Islanders announced that Jay McKee has been named Head Coach of the Hamilton Hammers, the Islanders' new AHL affiliate. The New York Islanders announced today that Jay McKee has been named Head Coach of the Hamilton Hammers, the Islanders new American Hockey League affiliate. McKee, 48, takes over as the first Head Coach in Hamilton’s history. He has spent the past three years as Head Coach of the Brantford Bulldogs of the Ontario Hockey League. Last season, McKee led the Brantford to the best record in the OHL (48-10-8-2). Prior to his time in with the Bulldogs organization, McKee spent four seasons (2016-17 through 2019-20) as Head Coach of the Kitchener Rangers and the 2015-16 season as Associate Coach in Kitchener. He spent the 2014-15 season as an Assistant Coach with the Erie Otters (OHL), the 2011-12 season as an Assistant Coach of the Rochester Americans (AHL), and the 2010-11 season as an Assistant Coach at Niagara University (NCAA).",
-      "published_at": "Fri, 29 May 2026 13:01:21 GMT",
-      "collected_at": "2026-05-30 04:36:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導關於冰球教練Jay McKee被任命為Hamilton Hammers隊的總教練，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1280,
-      "title": "Kanye West Set to Kick Off Tour in Istanbul, With Fans Expected to Flock From Countries Where He’s Been Banned - Variety Australia",
-      "link": "https://au.variety.com/2026/music/global/kanye-west-tour-istanbul-uk-france-ban-37096/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "# Kanye West Set to Kick Off Tour in Istanbul, With Fans Expected to Flock From Countries Where He’s Been Banned. Kanye West is set to hold a massive concert on Saturday at Istanbul’s Atatürk Olympic Stadium, which will kick off his tour following cancellations in the U.K., France, Switzerland and Poland due to the rapper’s antisemitic remarks. Though the U.K. government blocked Ye from entering the country and several other European nations followed, fans are now travelling to Istanbul from the U.K., the U.S., Germany, Poland, Russia and Kazakhstan to catch the concert, according to organiser Erdem Karahan. Besides several Turkish artists who will open the evening — including Sena Sener, Motive, Lvbel C5, Yener Cevik, Mavi, and Pera — Karahan told Turkish media he expects U.S. rapper Travis Scott to be on stage to perform the pair’s collaborative track “Father” from West’s latest album, “Bully.” North West, Kanye West’s daughter with ex-wife Kim Kardashian, is also expected to perform.",
-      "published_at": "Fri, 29 May 2026 21:47:35 GMT",
-      "collected_at": "2026-05-30 04:36:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要關於肯伊·威斯特（Kanye West）在伊斯坦堡舉辦巡迴演唱會，吸引了來自多國的粉絲，並預計有Travis Scott和North West作為嘉賓演出，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1281,
-      "title": "Gracie Abrams announces ‘Look at My Life Tour,’ four NYC shows. Get tickets - New York Post",
-      "link": "https://nypost.com/2026/05/29/ticket-sales/get-gracie-abrams-look-at-my-life-tour-tickets-today/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Gracie Abrams announces ‘Look at My Life Tour,’ four NYC shows. Gracie Abrams just announced her ‘Look at My Life Tour’ that will send her to arenas all over North America from December 2026 through March 2027. That includes not one, not two, not three but four (!) concerts at Brooklyn’s Barclays Center with special guest The Japanese House accompanying her on all dates. **Tuesday, March 16, 2027***8 p.m.*. **Wednesday, March 17, 2027***8 p.m.*. **Friday, March 19, 2027***8 p.m.*. **Saturday, March 20, 2027***8 p.m.*. Rachel Chinouriri, Holly Humberstone, Del Water Gap, Charlotte Lawrence, Grace Ives, Bella Kay and Jensen McRae will provide support at other U.S. and Canada ‘Look at My Life Tour’ gigs. Notable tracks to make the cut include “That’s So True,” “I Love You, I’m Sorry,” “I miss you, I’m sorry,” “Risk” and “Close To You.”. | Feb. 18 at the Scotiabank Arena in Toronto, ON, CA |.",
-      "published_at": "Fri, 29 May 2026 16:40:27 GMT",
-      "collected_at": "2026-05-30 04:36:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於Gracie Abrams的巡迴演唱會資訊，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1282,
-      "title": "2026-05-30 - Billboard Canada",
-      "link": "https://ca.billboard.com/charts/canada-country/2026-05-30",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. ## Le jeune auteur-compositeur-interprète Alex Sampson fait son entrée dans le palmarès radio de Billboard Canada avec son titre « Misery ». Cette semaine, la jeune auteure-compositrice-interprète canadienne fait son entrée à la 35e place du palmarès radio de Billboard Canada CHR/Top 40 avec son titre « Misery », daté du 23 mai. L'an dernier, l'artiste signé chez Warner Music Canada a fait son entrée dans les palmarès radio avec « Pretty Baby », une ballade aux accents des années 50. Sans doute le titre phare de **Swag II de Bieber —** qui fait suite à son album à succès **Swag** — la chanson s'ouvre sur une mélodie de guitare entraînante et une instrumentation influencée par le hip-hop, pour se transformer en un morceau lumineux et funky où Bieber déborde de confiance et d'ambition.",
-      "published_at": "Wed, 27 May 2026 23:28:56 GMT",
-      "collected_at": "2026-05-30 04:36:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導Alex Sampson及Justin Bieber的音樂成就，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1269,
-      "title": "\"One Last Shopping Cart Ride\": The Stars of Jackass: Best and Last Are Bringing Their Final Film's Stunts and Stupidity to IGN Live 2026 - IGN",
-      "link": "https://www.ign.com/articles/jackass-best-and-last-ign-live-2026",
-      "source": "Tavily (www.ign.com)",
-      "snippet": "# Jackass: Best and Last Stars Confirmed to Attend IGN Live 2026. ## Plus, check out this exclusive new poster for the gang's final movie. The Jackass gang is coming to IGN Live 2026! Steve-O, Wee Man (Jason Acuña), Poopies (Sean McInerney), and Jasper will attend IGN Live on Saturday, June 6th to promote their new movie, Jackass: Best and Last. In addition to this announcement, IGN can also exclusively reveal the new poster for Jackass: Best and Last, which can be seen below. Jackass: Best and Last marks Johnny Knoxville and the gang’s “final fling at the big screen,” according to the movie’s official synopsis:. Jackass: Best and Last opens in theaters on June 26. IGN Live 2026 is a multi-day celebration of video games and entertainment that will take place at the Magic Box @ The Reef in downtown Los Angeles on June 6 - 7 from 9 am - 5 pm PT.",
-      "published_at": "Tue, 26 May 2026 13:00:00 GMT",
-      "collected_at": "2026-05-29 04:55:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於《Jackass: Best and Last》電影及其演員將出席IGN Live 2026的宣傳活動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1270,
-      "title": "Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía - Vogue",
-      "link": "https://www.vogue.com/article/harry-styles-and-rosalia-ivor-novello-awards",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "# Harry Styles Wears a Zoë Kravitz Fave for a Night Out With Rosalía. Peer-judged, it’s a night where some of the buzziest emerging and most formidable established artists come together. Styles hopped over the English Channel from his multi-night Together, Together tour residency in Amsterdam for the occasion—already, a history-making, record-breaking event. Styles was a surprise guest, and presented Radiohead frontman Thom Yorke with the highest accolade of the night, the Academy Fellowship. On tour, Harry Styles—styled by Harry Lambert—has been sporting a variety of custom looks in primary colors with fun accessories: a bow-adorned Valentino blazer by his friend Alessandro Michele, a custom blue, orange, yellow combo from Prada and Cartier, and a groovy floral neck-tie and sculptural pants care of Celine. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion.",
-      "published_at": "Fri, 22 May 2026 09:58:43 GMT",
-      "collected_at": "2026-05-29 04:55:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Harry Styles的時尚穿搭與活動，未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1271,
-      "title": "Scooter Braun vs. the World - The Free Press",
-      "link": "https://www.thefp.com/p/scooter-braun-vs-the-world",
-      "source": "Tavily (www.thefp.com)",
-      "snippet": "EXCLUSIVE: Scooter Braun Tells His Side of the Taylor Swift Masters War. I spoke to the former mega-manager about working with Kanye West, how management is like parenting, and about being cast as the villain in Taylor Swift’s fairy tale: ‘I legitimately don’t know her.’. ***In case you missed the news, The Free Press has a new culture podcast. It’s called “Second Thought,” and it’s hosted by Suzy Weiss. You might know him as the guy who discovered Justin Bieber, or as the superagent cast as a villain by Taylor Swift, or as Sydney Sweeney’s new squeeze. Braun, who I recently interviewed in Los Angeles for my podcast *Second Thought*, told me he saw explosive talent in the young Bieber—“He was charismatic, he was brave”—and envisioned him as the 21st century’s answer to a young Michael Jackson; a kid, soulfully singing love songs for the masses.",
-      "published_at": "Thu, 28 May 2026 18:41:29 GMT",
-      "collected_at": "2026-05-29 04:55:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導Scooter Braun與Taylor Swift的爭議，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1272,
-      "title": "Early 2000s star brings first solo album in more than a decade to Oakland - sfchronicle.com",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/juvenile-oakland-concert-22259926.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# Early 2000s star brings first solo album in more than a decade to Oakland. Juvenile is bringing Oakland back to the early 2000s with his forthcoming concert at the Fox Theater. The New Orleans rapper, whose real name is Terius Gray, rose to fame in the late 1990s with hits such as “Slow Motion,” “Back That Azz Up” and “Ha.” He’s widely regarded as a pioneer of Southern hip-hop and contributed to the rise of Cash Money Records, with which he worked both as a solo artist and as part of the collective Hot Boys. Returning to the stage with his first full-length solo project in more than a decade, “Boiling Point,” the musician performs in Oakland on June 5. Zara Irshad is the Chronicle's Arts & Entertainment Engagement Reporter. She joined the Chronicle as a summer 2023 intern for the Datebook team. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief.",
-      "published_at": "Thu, 28 May 2026 11:00:00 GMT",
-      "collected_at": "2026-05-29 04:55:08",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於饒舌歌手Juvenile的演唱會與新專輯，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 70,
-    "report_date": "2026-06-01",
-    "total_articles": 11,
+    "id": 71,
+    "report_date": "2026-06-02",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日搜集到的新聞中，並無任何關於周杰倫的相關報導。主要焦點集中在其他歐美藝人，如Jay-Z在Roots Picnic的演出、Kanye West在伊斯坦堡的演唱會，以及Drake打破Michael Jackson的紀錄等。此外，還有Jesse McCartney將在高中舞會表演，以及多位藝人的巡演消息。",
+    "neutral_count": 8,
+    "daily_summary": "根據今日搜集到的新聞，未發現任何關於華語巨星周杰倫的相關報導。今日娛樂新聞焦點主要集中在歐美樂壇，包括Jay-Z在Roots Picnic上的精彩演出與對其他藝人的評論，Kanye West在土耳其的大型演唱會，以及Drake打破Michael Jackson紀錄等重大事件。整體而言，周杰倫今日並無媒體曝光或新動態。",
     "key_events": [
-      "Jay-Z Roots Picnic",
-      "Kanye West伊斯坦堡開唱",
-      "Drake破紀錄奪冠"
+      "周杰倫無報導",
+      "今日無新動態",
+      "焦點在歐美樂壇"
     ],
-    "created_at": "2026-06-01 05:28:09"
+    "created_at": "2026-06-02 05:14:16"
   },
   "recentReports": [
+    {
+      "id": 71,
+      "report_date": "2026-06-02",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "根據今日搜集到的新聞，未發現任何關於華語巨星周杰倫的相關報導。今日娛樂新聞焦點主要集中在歐美樂壇，包括Jay-Z在Roots Picnic上的精彩演出與對其他藝人的評論，Kanye West在土耳其的大型演唱會，以及Drake打破Michael Jackson紀錄等重大事件。整體而言，周杰倫今日並無媒體曝光或新動態。",
+      "key_events": [
+        "周杰倫無報導",
+        "今日無新動態",
+        "焦點在歐美樂壇"
+      ],
+      "created_at": "2026-06-02 05:14:16"
+    },
     {
       "id": 70,
       "report_date": "2026-06-01",
@@ -657,21 +672,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Miles Davis at 100: Musicians explain why he is the GOAT - Los Angeles Times、Justice Department deletes press releases on charges against Jan. 6 rioters - MSN、Jackass: Best and Last Stars Are Coming to IGN Live 2026 - IGN",
       "created_at": "2026-05-27 05:00:35"
-    },
-    {
-      "id": 64,
-      "report_date": "2026-05-26",
-      "total_articles": 3,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日搜集到的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有新聞皆圍繞其他藝人、名人或產業動態，因此今日無周杰倫的最新動態可供摘要。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關報導",
-        "無重要事件"
-      ],
-      "created_at": "2026-05-26 04:46:45"
     }
   ]
 }
