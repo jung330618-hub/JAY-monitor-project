@@ -2,25 +2,17 @@
   "todayStats": {
     "total": 13,
     "positive": 0,
-    "negative": 0,
-    "neutral": 13
+    "negative": 1,
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 1367,
-    "positive": 372,
-    "negative": 48,
-    "neutral": 947,
-    "avg_score": 0.6
+    "total": 1397,
+    "positive": 386,
+    "negative": 49,
+    "neutral": 962,
+    "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-21",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-22",
       "total": 6,
@@ -120,10 +112,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 33,
+      "positive": 47,
       "negative": 1,
-      "neutral": 13,
-      "avg_score": 0.78
+      "neutral": 16,
+      "avg_score": 0.79
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,199 @@
       "negative": 0,
       "neutral": 13,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-05",
+      "total": 13,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 12,
+      "avg_score": 0.47
     }
   ],
   "recentArticles": [
+    {
+      "id": 1650,
+      "title": "‘Michael’ Gets New Digital Release Date – How to Stream - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/movies/michael-gets-new-digital-release-date-how-to-stream-12025038",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# ‘Michael’ Gets New Digital Release Date – How to Stream. Starring Michael Jackson's nephew, son of Jermaine Jackson, Jaafar Jackson, \"Michael\" follows the titular star from the early rise of The Jackson 5, through to Michael pursuing his solo career and breaking away from the band. The film is now heading for its home release, starting June 9 when it becomes available to rent and buy across Video on Demand platforms. It will then be available to purchase on physical media such as DVD, Blu-ray, and 4K Ultra HD from July 14. \"Michael\" will be available to watch digitally from June 9, 2026. \"Michael\" will be available to rent and buy across Video on Demand platforms such as Prime Video, Apple TV, and Fandango at Home from June 9. \"Michael\" does not yet have a streaming release set, but it will be available to rent and buy across Premium Digital and Premium Video on Demand platforms from June 9. + In the Mirror: Joe Jackson Time-lapse.",
+      "published_at": "Wed, 03 Jun 2026 14:00:00 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》的數位發行日期與串流平台資訊，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1651,
+      "title": "6LACK on Presence, Purpose and His New Album, ‘Love is the New Gangsta’ - Newsweek",
+      "link": "https://www.newsweek.com/entertainment/6lack-on-presence-purpose-and-his-new-album-love-is-the-new-gangsta-12017613",
+      "source": "Tavily (www.newsweek.com)",
+      "snippet": "# 6LACK on Presence, Purpose and His New Album, ‘Love is the New Gangsta’. “It’s time to really just let things go,” chart-topping R&B artist 6LACK says about the new chapter of life he explores on his latest album *Love is the New Gangsta*. The album arrives at a moment of visible transition for the Atlanta artist, who approaches this release with a clearer sense of purpose shaped by fatherhood, hard conversations and a renewed commitment to being present. A new baby was on the way. “This album was a turning point for me to just know I refuse to be like a shell of myself.”. Much of *Love is the New Gangsta* is rooted in what 6LACK learned by slowing down. “I was at every doctor’s appointment, I was in the midwife classes, I was in the doula classes,” he says. On *Love is the New Gangsta*, growth is presented as a daily practice—something expressed at home, in community, in music and within the self.",
+      "published_at": "Thu, 04 Jun 2026 18:49:00 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於R&B歌手6LACK的新專輯《Love is the New Gangsta》及其個人成長與為人父的經歷，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1652,
+      "title": "As Drake rules the charts, the 'song of the summer' race heats up - WYSO Public Radio",
+      "link": "https://www.wyso.org/npr-news/2026-06-04/as-drake-rules-the-charts-the-song-of-the-summer-race-heats-up",
+      "source": "Tavily (www.wyso.org)",
+      "snippet": "Drake's *ICEMAN* holds at No. 1 in its second week on the *Billboard* 200 albums chart, and the rapper still has four songs in this week's top 10, led by \"Janice STFU\" at No. 1. The only song in this week's top 20 that *doesn't* qualify for Songs of the Summer in 2026 is Michael Jackson's \"Billie Jean,\" which climbs to No. 19 on the Hot 100 thanks to renewed interest sparked by the horrendous Jackson biopic *Michael*. But the number is bound to drop in the coming weeks, as *ICEMAN* streaming subsides and major new releases enter the conversation: Olivia Rodrigo's new album, *you seem pretty sad for a girl so in love*, drops on June 12 — its latest single, \"The Cure,\" debuts on both the Hot 100 and Songs of the Summer at No. 5 — while Ariana Grande readies a new record, *Petal*, for release on July 31.",
+      "published_at": "Thu, 04 Jun 2026 19:47:41 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "As Drake rules the charts, the 'song of the summer' race heats up - WYSO Public Radio",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1653,
+      "title": "Ateez fills 14th EP with self-written songs - The Korea Herald",
+      "link": "https://www.koreaherald.com/article/10764393",
+      "source": "Tavily (www.koreaherald.com)",
+      "snippet": "Ateez posted the full tracklist for its 14th mini album, “Golden Hour: Part 5,” on Friday via agency KQ Entertainment. The upcoming set will comprise five tracks, including the lead single “Bad.” Hongjoong and Mingi participated in writing lyrics for all songs that underline the range of the eight-member act’s music spectrum. The EP will be released on June 26, about four months after the previous EP, which hit the Billboard 200 at No. 3 and sold over 1.5 million copies in one week. Two days after the album drop, the group will perform at British Summer Time Hyde Park in London as a headliner. From June 17-19, it will host a fan meetup in Seoul, under the title “Atiny’s Voyage: Tiny Mystery.”. Nvidia founder and CEO Jensen Huang is set to touch down in Seoul on Friday afternoon, kicking off a four-day trip focused on deepening ties with South Korea’s tech, manufacturing and AI industries.",
+      "published_at": "Fri, 05 Jun 2026 02:49:35 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於韓國團體Ateez發行新專輯及活動，並提及Nvidia執行長黃仁勳訪問首爾，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1654,
+      "title": "Blackout Jack - Kotaku",
+      "link": "https://kotaku.com/games/blackout-jack/gallery/10",
+      "source": "Tavily (kotaku.com)",
+      "snippet": "# Blackout Jack - Kotaku. # Blackout Jack. # Dev Diary. We may earn a commission when you buy through links on our sites. About Cookies on this Site. We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising. Visit our **privacy policy** for more information on our data collection practices and to exercise your consumer rights.",
+      "published_at": "Thu, 04 Jun 2026 07:01:57 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於遊戲開發主題「Blackout Jack」及網站隱私政策，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1655,
+      "title": "The Association: Josh Hart 1-on-1 with Chris Haynes - NBA.com",
+      "link": "https://www.nba.com/watch/video/the-association-josh-hart-1-on-1-with-chris-haynes",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## The Association: Josh Hart 1-on-1 with Chris Haynes. Josh Hart speaks with Chris Haynes about the Game 1 victory over the San Antonio Spurs. # Playlist.",
+      "published_at": "Fri, 05 Jun 2026 02:54:34 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Josh Hart與Chris Haynes的訪談，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1656,
+      "title": "Dame Dash Responds to Jay-Z’s Roots Picnic Diss, Claims Drake Could Beat Hov in a Rap Battle: ‘I Know That for a Fact’ - Billboard Canada",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/dame-dash-reacts-jay-z-diss-drake-beat-hov-rap-battle-1236263064/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "\"I just felt kinda embarrassed for him,\" he said of the rap legend returning to the stage. Dame sat down with *T**he Art of Dialogue* on Tuesday (June 2), which saw him unleash on Jay’s “terrible” freestyle, new Afro hairstyle and more. “And I felt bad because I was like, ‘It must be embarrassing for him to now have to be on that stage, not the same version of himself, and still have to work at that age because he has to,'” Dame began. “For him to have to come out 20 years later, I just felt kinda embarrassed for him.”. The Canadian government is stepping in to support Canadian music and media amidst debates around the Online Streaming Act. This morning (June 3), the government announced that it will offer immediate financial support for music, audio and audiovisual media with a $600 million yearly investment.",
+      "published_at": "Wed, 03 Jun 2026 16:21:26 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Jay-Z與Dame Dash的爭議，與周杰倫無關，因此無法進行周杰倫相關的情緒分析。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1657,
+      "title": "“Flower Drum Song” – A Culturally Powerful Production - ladancechronicle.com",
+      "link": "https://www.ladancechronicle.com/flower-drum-song-a-culturally-powerful-production/",
+      "source": "Tavily (www.ladancechronicle.com)",
+      "snippet": "Presented by East West Players and the Japanese American Cultural and Community Center, this was a newly revised version of **David Henry Hwang’s 2002 production** which was revised from the 1958 original with **music by Richard Rogers** and **lyrics by Oscar Hammerstein II.** The plot centers on Mei-Li, a refugee from China who makes a dramatic journey to the U.S. and joins the family of a friend of her fathers’ who is struggling with his Chinese Opera house while his son is set on a Western-style nightclub. Krista Marie Yu in Rogers and Hammerstein’s FLOWER DRUM SONG – Photo by Mike Palma. This is the 60th Anniversary of East West Players and they wanted to end on a special note which Hwang supplied by way of this new version of *“Flower Drum Song”.* In it there was an effort to update the power of the female leads which read very well.",
+      "published_at": "Thu, 04 Jun 2026 14:01:12 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於音樂劇《花鼓歌》的最新版本，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1658,
+      "title": "After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/james-blake-trying-times-berkeley-22272392.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley. Bay Area audiences had a recent reminder of his range during San Francisco Ballet’s “The Blake Works,” a William Forsythe program set to the British musician’s tracks, which opened Feb. 27, at the War Memorial Opera House. Now fans can hear Blake perform live when he brings his touring show behind his latest album, “Trying Times,” to the Greek Theatre on Thursday-Friday, June 11-12. Jameela Jamil (“The Good Place”), Blake’s longtime partner, is credited as executive producer and A&R on the album, with production credits on several tracks. She joined the Chronicle as a summer 2023 intern for the Datebook team. She is a recent graduate of UC San Diego, where she studied communications. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief.",
+      "published_at": "Thu, 04 Jun 2026 13:00:00 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley - San Francisco Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1659,
+      "title": "Grammy-winning singer Peabo Bryson suffers stroke - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/06/01/peabo-bryson-health-stroke-songs-beauty-and-the-beast-singer/90351127007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Grammy-winning singer Peabo Bryson suffers stroke. Peabo Bryson, the Grammy Award-winning singer behind multiple R&B and Disney hits, has suffered a stroke. The South Carolina native is best known for the Disney hit duets \"Beauty and the Beast\" with Celine Dion and \"A Whole New World\" with singer-songwriter Regina Belle from the \"Aladdin\" soundtrack, which won back-to-back Grammys for best pop performance by a duo or group with vocals in 1993 and 1994, respectively. Bryson also had a string of hit singles with the late Roberta Flack, including \"Tonight, I Celebrate My Love\" and \"You're Looking Like Love to Me\" from the 1983 duet album \"Born To Love,\" as well as \"As Long as There's Christmas.\". He is also known for several hit solo ballads, including \"If Ever You're in My Arms Again\" and \"Can You Stop the Rain.\" \"Can You Stop the Rain\" was nominated for best R&B vocal performance in 1992.",
+      "published_at": "Tue, 02 Jun 2026 15:21:00 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "負面",
+      "sentiment_score": 0.1,
+      "summary": "葛萊美獎得主Peabo Bryson中風，其健康狀況引發關注。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1660,
+      "title": "Jay Leno offers car collection tour in auction to benefit UMass Lowell - CBS News",
+      "link": "https://www.cbsnews.com/boston/video/jay-leno-offers-car-collection-tour-in-auction-to-benefit-umass-lowell/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Jay Leno offers car collection tour in auction to benefit UMass Lowell. Comedian Jay Leno is auctioning off a tour of his famous garage to benefit a UMass Lowell scholarship fund.",
+      "published_at": "Thu, 04 Jun 2026 13:05:00 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞關於喜劇演員Jay Leno拍賣其車庫導覽以資助獎學金，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1661,
+      "title": "Former NY Knick Steve Novak says ‘sleep is for losers' - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/former-ny-knick-steve-novak-says-sleep-is-for-losers/6509111/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 FIFA 2026 World Cup Knicks Trump Administration Immigration New York Live Send Photos/Videos Open House. ### Entertainment. # Former NY Knick Steve Novak says ‘sleep is for losers'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Thu, 04 Jun 2026 19:04:22 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於前NBA球員Steve Novak的言論及NBC紐約的節目資訊，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1662,
+      "title": "A new Swedish candy shop is now open in the West Village! - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/a-new-swedish-candy-shop-is-now-open-in-the-west-village/6509108/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "New York Live 2 hours ago. # A new Swedish candy shop is now open in the West Village! Dahiana Pérez gets the scoop on Vännest, a new Swedish candy store in the West Village. ## Local. #### Elisse Junior St. Preux & Naturi Naughton-Lewis talk new Tribeca Festival movie. #### Zach Woods, Susan Sarandon, & Everly Carganilla on new Tribeca Festival movie. #### Former NY Knick Steve Novak says ‘sleep is for losers'. #### From swag to sweets, get ready to cheer on the Knicks! NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Thu, 04 Jun 2026 18:59:51 GMT",
+      "collected_at": "2026-06-05 05:00:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於紐約西村新開的瑞典糖果店及翠貝卡電影節等當地資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1637,
       "title": "The most explosive revelations from Netflix's new Michael Jackson doc - USA Today",
@@ -372,206 +554,39 @@
       "summary": "周杰倫〈太陽之子〉MV因其將30幅名畫融入吸血鬼懸案的創意概念，被選為致敬名畫的傑出作品之一。",
       "category": "影視",
       "analyzed": 1
-    },
-    {
-      "id": 1312,
-      "title": "歌王周杰倫24日舉辦新歌「太陽之子」MV發布會，MV在巴黎跟台北拍攝，由曾參與好萊塢大片製作公司操刀，耗資近新台幣1億元。 周杰倫表示，每個人心中可能都有些恐慌、緊張的負能量，「之前演唱會有這種問題，有發生2次，非常恐怖，不要再提了。」因此讓他更深刻 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wdBVV95cUxQR3VkQndqOXh5TGdnc2VILXAtaTlvZEt6UUwwUUhmVmFaMHdfa3hTc2kwZVVLZDd4SE9tM3VmV0tWZ0wwME45SVRiN2dKazVyLVJEbDNLWFRjWjZjSHF3TlNudE9la2szOTU3cEg5NWdiWU1RUDJycjU5cFdlSjN3SDQ0ZWo4OEdsMTNOMGtSeGlDSUwxQldyRXFneTNXMlNrMmpLbUFoYkhpUW9OaldNRFFHWG91bXFXUG0ybEZ2ZldHOTFEcEV1TkNsaU92bllfcnBuRGdsUzEwaGVrSEh3WjV3aFpGRXItUWxlSm1iUzM2OW0wWGFOcUoxeTRIdUY5cjc5allaVUw5Vlg2bVVMX21hWk9HUDd0Tm1tQ0phWXVSd3VER1QxenY5VUJ3Y2ZWQUVBeGRNQVpwYjE0M2pQaHROOEJCZU5iZ2ZhYVkzVEVzM21UU0tiYlVsdUhvRnNXcFRTRk1ZU21kaEFPSk5lZWU3NUUtd2hSNGVUZ0Z3TXpKSHZ5T1FmR0hPTzZPSWpwWVlpZUF2eFc0cTdsdDJYTW1IS1FoV3pnMGpiRTg0Nnhwb2tlVXdVM2MtOU5EZmVqMjVmSHdGTTQ5RTVmV2NXUndRQnZVcjhjWGdUbUdFZlFPblBqU25JUmNXV3owMW9NZHRMQkozbV9yQVZOZUFzMGw2NEMxUGQxZVJWVk41WXhoemJScE9TSFJEOHZoMGVBcWx3ZHp3WTI1VFh0YmNVY0JGcVRWSDIzTDF6WmxGTHV3VHdrRVhKV3Ryby1ELWpIcWE2MVBDcTg1RmFsQklzUXUxc2ZNWU0wNW5Yc1lxbVJFZENmOU5ZWFVfN1BhVzNxc0drdlUxdUwtWDAwYno4NDhIOHZpRzgxeDhHSDdSOTV1QzIxR2VBekUtS3lJNk9Cd2JvSXRGSmV2MnNfdGhKU1J0Y0ZpbEZib1VLUk5lSTdBbndhYkhIUEhURDBGcDA0YldUcXRZamFRSXdGNGRCQl9kV2U2S1VaQVNHQVNsbmV1QTFrSXQxdm9TSXVLaWVLbmVka3BLQVZqSHo3dTdzb0lQQjJraUFjYlhVdVFxZnRVeEo2YjlmT08tZGZlZkZtYzF0SjdHM2lDVlN1RkhrZWtmRUdDS01vYUJCdEYxbVJxZEd2OHh4bXVGa0Jsa3NlSWZSODVzOC1JRGJ5LVN4LVpFdW5QX3ZlWXVxck5iMkthQ1pCUV80MzZBSnBDOUNscmNqbm8zN2hhU1l5b29JNmNvZFJjQjFBdFFPT0puRnlBUDlKYk5ic0hKbHJNRVQzTW0ydWtxRTVGcGxpcHl3TmtVeVhCZjQ?oc=5",
-      "source": "Google News",
-      "snippet": "歌王周杰倫24日舉辦新歌「太陽之子」MV發布會，MV在巴黎跟台北拍攝，由曾參與好萊塢大片製作公司操刀，耗資近新台幣1億元。 周杰倫表示，每個人心中可能都有些恐慌、緊張的負能量，「之前演唱會有這種問題，有發生2次，非常恐怖，不要再提了。」因此讓他更深刻  facebook.com",
-      "published_at": "2026-03-24T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫舉辦新歌「太陽之子」MV發布會，MV耗資近億元並由好萊塢團隊操刀，他同時分享了對負能量的深刻體會。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1313,
-      "title": "周杰倫《太陽之子》才上線3天！賣破250萬張 狂吸4.6億元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNemtlQzhLbklaR1NYNzF6VllETXRKeVBTdk1ieUcyYk9FMXNRUlJhZ3g0enBfZFh3WGtLNGpNNW1YY3JreUhtdDBJY1o4RHVSX0tXQjVabEJ2NWEyRVNrWWZ3MWdEYVNpQmRTaklac0VsdElMSkxyODNrZGpSRTd2U18yMEtPdnZpckoyeTVDTjh0Z2Y3eHY0UHJ6Vl8yYmpqZkdJUHR3T3JWaHdEa0hHT0hJbW5zSUliWGFkNWVXNVNuMEZ0ZTJkcWFiaF9RQzluQmxvWmdTbE1fdTF2LVRKenlrSWNNRVRaSTRtOEpTR0E3cmJJaWxlLWU3MEJvN1FMRUlLeUZuSGI1bkJEMDZULXUySzBTbWk1U3QzWHduRGZMZGtjMFFlSmk1TjJWdGxMN3JVU1hFRjc1VVJoNXRIVXZZM1U1RFN5bFVXUmJVRV9idkw4VUtmTXJ2VnphVEtSaFZuUA?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫《太陽之子》才上線3天！賣破250萬張 狂吸4.6億元  Yahoo新聞",
-      "published_at": "2026-03-27T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新歌《太陽之子》上線三天即創下250萬張銷售與4.6億元營收的驚人佳績。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1314,
-      "title": "影／不是AI！周杰倫〈太陽之子〉MV花絮曝光 「超狂選角」讓導演驚嘆：驚動時空警察！ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZWd4YzRXd3dORG1FOEN4b0pzNzZ2dFNqVk1NMjMtNGVlZGlpMzBuclZMcXIwUG1zTndqa05aaExhT1VtM3otYV9WUXdMTzJzTFJ1aXlMbnQ2UlRvU0xKQ3psbHBpeFItVzFYU1BMQXctUVBPaXFuVS1ZZWlEeWNtUjNPMGRpSXYtdHdhTG81VnUtTkotZk9qSEFxWUxtNW1wQ3huU085SG1WSHg3elNQaHlSNDljUjk4TmtoUkkyOXlaYm9aZ2RQX2t2S0pYVzRWdElwakhlNTFFVE5ydm8tYzdydDhHS204a0w3aWtueHZOdUdZMWlwdnpUSWZWd2xGNHZvWldR?oc=5",
-      "source": "Google News",
-      "snippet": "影／不是AI！周杰倫〈太陽之子〉MV花絮曝光 「超狂選角」讓導演驚嘆：驚動時空警察！  Yahoo新聞",
-      "published_at": "2026-04-09T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫新歌〈太陽之子〉MV花絮曝光，其非AI製作與「超狂選角」引發導演驚嘆，展現高度期待。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1315,
-      "title": "盤點周杰倫〈太陽之子〉MV名畫！集結克林姆、霍普、梵谷等30幅大師畫作，打造吸血鬼懸疑故事 - 設計美學",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WWFFZVNRaFQxelNxRUs1TEwwNVFiZmxoVFhZSDk2Vko0Si1kRmFGVF92anV5S2RFX08tT2VfbVBtUGRqUTQ5STVnbE85OE1hdjZFeA?oc=5",
-      "source": "Google News",
-      "snippet": "盤點周杰倫〈太陽之子〉MV名畫！集結克林姆、霍普、梵谷等30幅大師畫作，打造吸血鬼懸疑故事  設計美學",
-      "published_at": "2026-03-26T00:39:56.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫新歌〈太陽之子〉MV集結30幅大師名畫，打造吸血鬼懸疑故事，展現高水準設計美學。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1316,
-      "title": "在「不像以前」與「太像以前」之間，我們該如何評價周杰倫《太陽之子》？ - TNL The News Lens 關鍵評論網",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEUzdTSnBCOEJJNktRRDRNMTk2cDJaMG5TYU1pRVhTWFRYRm5sbUpDa3FUNFRBRFVfZjFzQ2ZWRDNRYUtlMlZxUXVqTTNxTjhnUy1hOA?oc=5",
-      "source": "Google News",
-      "snippet": "在「不像以前」與「太像以前」之間，我們該如何評價周杰倫《太陽之子》？  TNL The News Lens 關鍵評論網",
-      "published_at": "2026-03-29T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "文章探討了如何評價周杰倫新歌《太陽之子》，並分析了其風格在『不像以前』與『太像以前』之間的爭議。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1317,
-      "title": "周杰倫《太陽之子》CD哪裡預購？3大通路連結、簡易流程一目了然 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5uckJoMTFGWFdmclBJQ3lyeUhVZmdyMXQzNURuU1VFNEhtb09xNHdqUHVsekhrMkFTU2ZMTS1UaklvdlRLb3YtR3FMcWPSAVJBVV95cUxQMGhzanJma3RQblpXQ3lHa1pvUVd4ZW1rakFvdHBYWUw0amZYMDR3ZW5hQ2V1Tm5IekZWR0VfekdYc1lCRldsMkNEeHBRNE03bk1n?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫《太陽之子》CD哪裡預購？3大通路連結、簡易流程一目了然  NOWnews今日新聞",
-      "published_at": "2026-03-28T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "這則新聞提供周杰倫新專輯《太陽之子》CD的預購通路與流程資訊。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1318,
-      "title": "周杰倫砸一億元打造〈太陽之子〉MV　創下MV製作費天花板 - 鏡週刊Mirror Media",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03V2R0ZDZGeThXSGRzdS16TDhrLXFYTElkeEdMeHgwVjhmdTNiZlRndmp0c2JZbmw3SmZ4anNmZ2JCNGNLRTA5Q3BQdjRDc2NvLXBFTDJEVVVFeUHSAWBBVV95cUxNWG55RkYzc0tzeVFaYXlnM01nSk54Y1M4LTZFR0JINEZBbEo4ampWbU1aNjBoaExQRmZQOUNXMUtuUUVpRWl4NlZtTmZ3UFg1aEs0b2ZWcE9WLTE0LW9HQU0?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫砸一億元打造〈太陽之子〉MV　創下MV製作費天花板  鏡週刊Mirror Media",
-      "published_at": "2026-03-21T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫為新歌〈太陽之子〉MV投入一億元製作費，創下華語樂壇MV製作成本的新紀錄。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1319,
-      "title": "拒用AI！廖人帥解密周杰倫《太陽之子》燒腦內幕 揭密30幅經典名單1網紅連演2角 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPWlF6WU0wdGFKMEswd3loNDJ5b2syRW5KaGJ0ME42RnJYSXlycl81cGdXdC1iVXRHUV9fdExuZGhndEZSMVBlcmRvLVlhU0RzOTRTMGE4UGMzZ3pFcnlpTXdYZ3hUUnhFRWZjcnRiWGlaQjB2LXJoSHRxYUM0aG5IZE90UEFnZVMwU0swUnVqdVJQdllCY21ERjkyZGE4YkFwdDE2cmVVUWJiSTR4YWRPaVJLUmJXVDhfMGE0YzFBM2pOdkJUT3lOVXNnakZKRnBBX09fU2RXUnpLcW9yZnFTZ1UyZFlsRzBaRzkwOTNEaDNqYUFoSl9sVGlWdWkxamllRnMzelRDaGtPX01qemJKSUtybjFwT3h0a0tnUkQ2VGlDYU45Tmp3UzlncDJGb2JPMzA4VmM4QU8wa3lLZUtJNDUyc1hNZDk2dUY5MEkzaUxaRHJOcG9mNjZSb05rbmlRbEJaQXIyNHVrUVpGNUdIdFk1dWRzeFd1S2FUaEVNOVA3TlE5M2E3MU5HOXotdlFYTFd5R1RJODgtWHV6V1lHUnhqblI?oc=5",
-      "source": "Google News",
-      "snippet": "拒用AI！廖人帥解密周杰倫《太陽之子》燒腦內幕 揭密30幅經典名單1網紅連演2角  Yahoo新聞",
-      "published_at": "2026-03-28T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "廖人帥揭露周杰倫《太陽之子》MV製作過程拒用AI，展現其燒腦的創意與對經典的致敬。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1320,
-      "title": "周杰倫新專輯《太陽之子》好聽嗎？網嗨喊「找回早期感動」，卻因1關鍵被酸「兩極評價一次看」 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxQTFVb0JCZUVQb0s1bWEtbWgyOEo1bHVKNUJydmV3UmxNWVA1R3RqM3pLcWxqUFpyREUtM0h2ZDV0LWNBcF9pVHlIOW1RUkZz?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫新專輯《太陽之子》好聽嗎？網嗨喊「找回早期感動」，卻因1關鍵被酸「兩極評價一次看」  風傳媒",
-      "published_at": "2026-03-25T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫新專輯《太陽之子》引發兩極評價，部分粉絲讚譽找回早期感動，但也有關鍵因素導致負面評論。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1321,
-      "title": "周杰倫砸億元拍〈太陽之子〉MV 致敬世界名畫創華語新紀錄 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOMXJFenliMmlBaThHUEZybURTUkZXRHBvekdVeF9QOV9yLWRQamdNSF8yUjNoVTVNa0VHeXBhY1J2dkhLbFpaZjZ3ZWlMMWtWclQ5YzZWS1ZvOV9WZnRTQ2JhX3Jhb0Q5bEJ0TkFubWVoTDdZWTlnTnFCamhNYWkyR1RsUEZzUmZKNlpJaUhNNWJFM3VFNmdUb3FPbjFhUTBmWmh1WnVkb3pPUDMyS2ZydDhfUV9kcUhFMkt4eHBrRGhLUjlwX3lQTzRodFAzdzhvaTZCU2F3WGxWejdzVzlMSWdvamdvUll5Tll6MktlWXNSYjlZcUJmYlJ2NjF6bnQyZjEyZEZ2elBtaDUxaEJnZjRYR1pjZ1M0TzdTX0wyMlhOWkItUXlsUFVNRkxjM0Vnc0owNDhMUElPN0t6MkprcTRETWh6VTVveWFKcHVVWFlGQlc1YXl4bXVQOFp4VzZGbmt0QlhBY0hfR0lKbXc?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫砸億元拍〈太陽之子〉MV 致敬世界名畫創華語新紀錄  Yahoo新聞",
-      "published_at": "2026-03-20T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫砸億元拍〈太陽之子〉MV 致敬世界名畫創華語新紀錄 - Yahoo新聞",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1322,
-      "title": "【一週脆報】本週Threads 紅什麼：周杰倫睽違四年推出全新專輯《太陽之子》霸氣回歸！演唱會冷知識：進場前要吃麻糬？ - GQ Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPY01PUnJDWlkybl91amRLRUR2Qlo0TzFOOUtwNnpDTkdjQ1RuVzdkLTJrVXJETmFVLWNjR1E0ZUl0ekZQY004U2hjRFVTMzNKdkZISUg2ODRUTDdsOWJyN3Q5SEd2NnNBelBpUG82TnU3dktlVGwtMVRuVXJ4UFg4dkRiSzZLRTkySjlUaENxVnM0b0tEM2dlU01EYW1kc2hUamthNjZTRWlnTTVLY3FDQV85clRIT0duS2hBekxSTTFiNGdadFFjR0d1Rk5Ka2pJXzFINnNPSFdlM21pWnlCUVRoREN5NVBCOTV0MS1EeEFzdjBIcDhXU0d6Y2hDaUJqQVVKaEszaw?oc=5",
-      "source": "Google News",
-      "snippet": "【一週脆報】本週Threads 紅什麼：周杰倫睽違四年推出全新專輯《太陽之子》霸氣回歸！演唱會冷知識：進場前要吃麻糬？  GQ Taiwan",
-      "published_at": "2026-03-29T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫睽違四年推出全新專輯《太陽之子》霸氣回歸，新聞中也提及演唱會相關冷知識。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1323,
-      "title": "周杰倫好狂！「太陽之子」賣250萬張4.6億入袋 新曲神呼應神級經典！ - 噓！星聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XYUhjbFl6Z2sxZmhMbE85S0RHcVZOdDZ1NEo3cU50bWlGYVM5VFZON3h4aERzQXF5d0lYbDJscHJ4QkNXWDE0VFdVM2tMU0gyQ3JkXy04RnpVUdIBX0FVX3lxTE14NUxEdHF4OWZJTGZDNW9XWnp3emQ5c1lZNjZWR2dVWENieHBMbDBxXzFLdm55d0RlOFRDR05iSkpDTGZrSFRNaDhZc1I2MXBPY0F1TWpnSDN3MGE4WFY0?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫好狂！「太陽之子」賣250萬張4.6億入袋 新曲神呼應神級經典！  噓！星聞",
-      "published_at": "2026-03-28T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫好狂！「太陽之子」賣250萬張4.6億入袋 新曲神呼應神級經典！ - 噓！星聞",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1324,
-      "title": "周杰倫《太陽之子》太震撼！春風驚掉下巴：整張都滿扯 網評價兩極 - 緯來新聞網",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFBZNXptOG9DRFo3T21VREZnYWQwTmk3VWVyOFdvRkhid19SR3R6NVNLYi1ReGtmNHhlcVNhMFhYdWROLUZZWVBIMjAyX3Nid1NZdjR0eXQtWmRGVUwxS0FGRHNoSWh5dzFfVm0yZEZhVHhuTVBvMEhibElYNDlGOWViT1ltUQ?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫《太陽之子》太震撼！春風驚掉下巴：整張都滿扯 網評價兩極  緯來新聞網",
-      "published_at": "2026-03-25T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.55,
-      "summary": "周杰倫的歌曲《太陽之子》因其震撼力引發藝人春風的驚訝，並在網路上獲得兩極化的評價。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 73,
-    "report_date": "2026-06-04",
+    "id": 74,
+    "report_date": "2026-06-05",
     "total_articles": 13,
     "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 13,
-    "daily_summary": "周杰倫近期推出新專輯首波主打歌〈太陽之子〉，引發廣泛關注。這支耗資近新台幣一億元打造的MV，不僅在巴黎及台北取景，更巧妙融合了梵谷、克林姆等30幅世界名畫，以吸血鬼懸案故事呈現，並強調拒絕使用AI技術。專輯上線短短三天，數位銷量便突破250萬張，狂吸超過4.6億元，展現驚人吸金實力，並登上iRadio金曲排行榜冠軍。儘管銷售成績亮眼，歌曲評價卻呈現兩極化，部分粉絲讚譽找回早期感動，但也有網友認為「不像以前」或「太像以前」，引發熱烈討論。MV發布會亦吸引萬人觀看，顯示其超高人氣。",
+    "negative_count": 1,
+    "neutral_count": 12,
+    "daily_summary": "周杰倫新專輯《太陽之子》及同名主打歌MV近期成為焦點。MV耗資近億元，結合30幅世界名畫，打造吸血鬼懸疑故事，並強調未使用AI製作。專輯發行三天已賣破250萬張，狂吸4.6億元。儘管評價兩極，但其製作規模與藝術性仍引發熱議。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "億元MV致敬名畫",
-      "數位銷量破250萬張"
+      "MV耗資億元致敬名畫",
+      "專輯熱銷破250萬張"
     ],
-    "created_at": "2026-06-04 05:26:49"
+    "created_at": "2026-06-05 05:02:26"
   },
   "recentReports": [
+    {
+      "id": 74,
+      "report_date": "2026-06-05",
+      "total_articles": 13,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 12,
+      "daily_summary": "周杰倫新專輯《太陽之子》及同名主打歌MV近期成為焦點。MV耗資近億元，結合30幅世界名畫，打造吸血鬼懸疑故事，並強調未使用AI製作。專輯發行三天已賣破250萬張，狂吸4.6億元。儘管評價兩極，但其製作規模與藝術性仍引發熱議。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "MV耗資億元致敬名畫",
+        "專輯熱銷破250萬張"
+      ],
+      "created_at": "2026-06-05 05:02:26"
+    },
     {
       "id": 73,
       "report_date": "2026-06-04",
@@ -661,21 +676,6 @@
         "無相關事件"
       ],
       "created_at": "2026-05-30 04:37:17"
-    },
-    {
-      "id": 67,
-      "report_date": "2026-05-29",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日搜集的新聞列表中，未發現任何直接與華語天王周杰倫相關的報導。雖然部分新聞提及了「Jay」這個名字，但均為其他領域人士，如企業家、播客主持人或政治人物，與周杰倫的娛樂動態無關。因此，今日無周杰倫的娛樂焦點。",
-      "key_events": [
-        "今日無相關報導",
-        "無周杰倫動態",
-        "未有娛樂焦點"
-      ],
-      "created_at": "2026-05-29 04:55:42"
     }
   ]
 }
