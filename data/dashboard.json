@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 13,
+    "total": 8,
     "positive": 0,
-    "negative": 1,
-    "neutral": 12
+    "negative": 0,
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 1397,
-    "positive": 386,
+    "total": 1427,
+    "positive": 406,
     "negative": 49,
-    "neutral": 962,
+    "neutral": 972,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-22",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-23",
       "total": 12,
@@ -112,10 +104,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 47,
+      "positive": 67,
       "negative": 1,
-      "neutral": 16,
-      "avg_score": 0.79
+      "neutral": 18,
+      "avg_score": 0.81
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,129 @@
       "negative": 1,
       "neutral": 12,
       "avg_score": 0.47
+    },
+    {
+      "date": "2026-06-06",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1663,
+      "title": "Jeezy Focuses on Self-Love With Solo Date Nights - foxy99.com",
+      "link": "https://foxy99.com/2026/06/05/jeezy-focuses-on-self-love-with-solo-date-nights/",
+      "source": "Tavily (foxy99.com)",
+      "snippet": "# Jeezy Focuses on Self-Love With Solo Date Nights. Jeezy may be one of hip-hop’s biggest stars, but these days, his favorite date night companion is himself. The rapper and author recently shared that he isn’t rushing back into…. The rapper and author recently shared that he isn't rushing back into the dating scene. Instead, he's spending time focusing on self-love and enjoying solo outings. Rather than looking for a new relationship, Jeezy said he's taking time to focus on himself. \"I’m dating myself right now and I feel like, as a man, you should always take time to be with yourself,\" Jeezy shared. One way he does that is with a weekly solo sushi date. \"And I go out and I have a bottle of sake, a bottle of wine and my favorite sushi and date myself. Kayla is the midday host on Detroit’s 105.1 The Bounce.",
+      "published_at": "Fri, 05 Jun 2026 17:48:38 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導與周杰倫無關，內容主要關於饒舌歌手 Jeezy 專注於自我關愛，享受個人約會之夜。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1664,
+      "title": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - Greenwich Time",
+      "link": "https://www.greenwichtime.com/entertainment/article/what-to-stream-michael-olivia-rodrigo-and-22292871.php",
+      "source": "Tavily (www.greenwichtime.com)",
+      "snippet": "The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists: the new season of “Sweet Magnolias,” a new YA series “Every Year After” and the survival game “Solarpunk.”. ## New movies to stream from June 8-14. — The Michael Jackson biopic “Michael” is still moonwalking its way to $900 million in theaters, but it’s also going to be available to watch at home — for $24.99 — starting June 9 on major platforms like Apple TV, Prime Video and YouTube. In his review for The Associated Press, film writer Jake Coyle wrote that the movie “slides a sequin glove over the pop star’s tarnished legacy, shrouding Michael Jackson’s complications with a conventional biopic that, if you cover your ears, sounds great.”.",
+      "published_at": "Fri, 05 Jun 2026 16:18:33 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要介紹新上架的串流影視內容與音樂專輯，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1665,
+      "title": "NXNE Spotlight: Canadian Electronic Artist Frank Walker Finds His 'Oasis' in Crossing Genres - Billboard Canada",
+      "link": "https://ca.billboard.com/music/frank-walker-nxne-oasis",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "After hitting the top 10 on the Billboard Canada Airplay charts with his country-EDM Josh Ross and Norma Jean Martine collab \"Lay It On Me,\" the Toronto producer will play his new sophomore album in full for fans at an exclusive Billboard Canada LIVE DJ set and Q&A during NXNE at SOUNDSTAGE on June 11. \"It’s more of a creative oasis for me, finding that sanctuary where I have this cool sound that people know me for, but I'm also experimenting in other directions, whether it's different tempos, sounds and percussion, or collaborating with other producers.\". The single became a hit on *Billboard Canada's* Airplay charts and reached the top 10 of the Canadian CHR/Top 40 chart in March after debuting in October, and it's still charting on both the Canada AC and Hot AC charts this week. The Toronto DJ cherishes that special connection between fans and music and is eager to bring that atmosphere to life onstage during his intimate Billboard Canada LIVE performance and Q&A on June 11 at SOUNDSTAGE, where he plans to play *Oasis* in full.",
+      "published_at": "Fri, 05 Jun 2026 13:00:02 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導加拿大電子音樂藝術家Frank Walker的新專輯《Oasis》及其在NXNE的演出。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1666,
+      "title": "Karl-Anthony Towns with a couple tough buckets - NBA.com",
+      "link": "https://www.nba.com/watch/video/karl-anthony-towns-with-a-couple-tough-buckets?plsrc=nba&collection=2026-nba-finals-video",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba finals video. ## Karl-Anthony Towns with a couple tough buckets. # Playlist.",
+      "published_at": "Sat, 06 Jun 2026 01:47:16 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Karl-Anthony Towns的比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1667,
+      "title": "Madonna Sends Her New Single Straight To No. 1 - Forbes",
+      "link": "https://www.forbes.com/sites/hughmcintyre/2026/06/05/madonna-sends-her-new-single-straight-to-no-1/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Madonna Sends Her New Single Straight To No. 1. She sang several songs from her Grammy-winning album *Confessions on a Dance Floor*, including singles \"Hung Up,\" \"Get Together\" and, of course, \"I Love New York,\" but that wasn't the purpose of the event. Madonna's \"Love Sensation\" sits atop the iTunes Top Songs chart in the U.K. It's the beginning of a new tracking period, and Fridays are often the most competitive moment to share new music. As one version of \"Love Sensation\" sits at No. 1, the radio edit appears at No. 17. Both tunes that the pop icon has delivered this year – \"Bring Your Love\" with Sabrina Carpenter and \"I Feel So Free\" – also rank among the 100 bestselling on iTunes in the U.K. The collaboration appears at No. 57, while \"I Feel So Free\" sits at No. 79. The top 10 on the U.K.'s iTunes Top Songs list is packed with exciting new releases at the moment.",
+      "published_at": "Fri, 05 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於瑪丹娜新單曲登上排行榜冠軍，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1668,
+      "title": "Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/film-made-in-the-chaoshan-dialect-has-become-the-second-highest-grossing-release/1352355900098080/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "## Deadline Hollywood's Post. ### **Deadline Hollywood**. Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Damai Entertainment Sets Int'l Release For $223M Hit ‘Dear You’.",
+      "published_at": "Fri, 05 Jun 2026 14:00:11 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導一部潮汕方言電影在中國取得高票房並將進行國際發行，但內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1669,
+      "title": "‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language” - Vogue",
+      "link": "https://www.vogue.com/article/ryan-beatty-secret-language-music-video-interview",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# ‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language”. In the video for Ryan Beatty’s new single, “Secret Language”—released today as the first single off his fourth album, *Sweet Fortune*, arriving later this month—the musician stands against a Hockney blue California sky, throwing a paper plane into the air. You can feel that confidence on “Secret Language,” which captures, with Beatty’s signature precision, that overwhelming feeling of standing on the precipice of falling in love: “I love you, I say it in a secret language / Did you hear what my words couldn’t tell?” he croons on the final chorus, as horns begin to swell around him to a euphoric climax. What I love about it is that the lyrics are about saying it in a secret language, but the song itself feels so big, and there’s nothing secret about it.” Beatty recorded a demo of an earlier version of the track with his longtime musical collaborator, Ethan Gruska, and had the song lying around for a bit before finishing it in his boyfriend’s apartment in Boston.",
+      "published_at": "Fri, 05 Jun 2026 19:47:18 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國歌手Ryan Beatty發行新單曲《Secret Language》及其新專輯《Sweet Fortune》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1670,
+      "title": "SEAHAVEN – NEW SELF TITLED ALBUM OUT NOW - rocknloadmag.com",
+      "link": "https://rocknloadmag.com/seahaven-new-self-titled-album-out-now/",
+      "source": "Tavily (rocknloadmag.com)",
+      "snippet": "* SEAHAVEN - NEW SELF TITLED ALBUM OUT NOW. | |  | | --- | | NEW SELF TITLED ALBUM OUT NOW  STREAM AND PURCHASE  WATCH THE NEW MUSIC VIDEO FOR ‘MILLION WAYS’ | |. | |  | | --- | | **Seahaven**has released their long awaited new, **self-titled album**, out now **via Pure Noise Records**. **Watch the ‘Million Ways’ Music Video below**  Self-produced, engineered by **Alex Estrada** at Pale Moon Ranch in Juniper Hills, CA, and mixed and mastered by Grammy Award-winning producer **Will Yip**, Seahaven finds the Torrance, CA band delivering what may be their most defining statement to date. “This album takes elements from all of our previous releases and rolls them into one,” says Soto. Companion  **SEAHAVEN’S  SELF-TITLED ALBUM OUT NOW VIA PURE NOISE RECORDS – HERE** | |.",
+      "published_at": "Fri, 05 Jun 2026 22:00:41 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了樂團Seahaven發行新專輯《Seahaven》的消息，並非關於周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1650,
       "title": "‘Michael’ Gets New Digital Release Date – How to Stream - Newsweek",
@@ -442,136 +554,39 @@
       "summary": "JAY-Z Disses Drake, Kanye, and Nicki Minaj During Comeback Show at Roots Picnic - consequence.net",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1646,
-      "title": "Not ‘2 Hard 4 the Radio’: Drake Becomes First Artist With 100 Career Hits on Radio Songs Chart - Billboard Canada",
-      "link": "https://ca.billboard.com/music/chart-beat/drake-first-artist-100-hits-radio-songs-chart-1236263164/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "# Not ‘2 Hard 4 the Radio’: Drake Becomes First Artist With 100 Career Hits on Radio Songs Chart. The 6 God commands with the most entries ever on the Hot 100, Streaming Songs and Radio Songs. It becomes the first newly released track from his trio of new albums to reach *Billboard*’s all-format Radio Songs chart — and makes him the first artist to accumulate 100 career entries on the ranking. A week earlier, thanks to the set, *HABIBTI* and *MAID OF HONOUR*, he became the first artist ever to rank at Nos. 1, 2 and 3 simultaneously on the Billboard 200. With the entrance of “2 Hard 4 the Radio,” Drake swells his total to 100 career entries on Radio Songs. Drake, thus, boasts the most career entries on the Billboard Hot 100 (402) and two of the three charts whose metrics feed the Hot 100: Streaming Songs (309) and Radio Songs. ## Drake Reigns at No. 1 on the Billboard Canada Charts for a Second Week with 'Janice STFU' and 'Iceman'.",
-      "published_at": "Wed, 03 Jun 2026 16:27:51 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於歌手Drake在Billboard電台歌曲榜上取得100首職業熱門歌曲的里程碑，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1647,
-      "title": "Sauce Walka Says Drake Dissed Him On “Janice STFU,” Calls Out Adam22 - HotNewHipHop",
-      "link": "https://www.hotnewhiphop.com/997211-sauce-walka-drake-janice-stfu-adam22-diss",
-      "source": "Tavily (www.hotnewhiphop.com)",
-      "snippet": "Sauce Walka offers a response to the drama involving Drake and his baby mama. Okay, we have to be real: the Drake stimulus is still effective, and Sauce Walka is the latest to benefit from it. In a recent Instagram Post, he addressed the recent audio clips, rumors of “Janice STFU,” and what triggered the threats he sent toward Drake. “This is how much dough I got out the hoe from OVO,” Sauce Walka said as he stepped out of his Maybach. “The man just dropped a whole new album, and every song was about *me, me, babyyy, had the hoe going deep sea, baby.* Yeah, man, I’m the n\\*\\*\\*a that he talking about on the song that was putting the bone on the b\\*tch in the home that he was paying for. Sauce Walka is making the most of the situation, unleashing his new single, “Baby Mama Drama” on DSPs. It seems unlikely that we’ll get a response from Drake anytime soon, but we recently heard from OVO Chubbs, who doesn’t seem concerned about Sauce Walka’s threats.",
-      "published_at": "Wed, 03 Jun 2026 14:08:39 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導饒舌歌手Drake與Sauce Walka之間的爭議，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1648,
-      "title": "Megan Thee Stallion teases new song about Klay Thompson split - sportingnews.com",
-      "link": "https://www.sportingnews.com/us/culture/relationships/news/megan-thee-stallion-teases-new-song-about-klay-thompson-split/72ce330fe5709c053755257e",
-      "source": "Tavily (www.sportingnews.com)",
-      "snippet": "# Megan Thee Stallion teases new song about Klay Thompson split. Megan Thee Stallion is back outside and is ready to address her split with Klay Thompson in her music. The three-time Grammy-winning rapper shared a snippet of her new song as she dances on a yacht with some friends. “All that wifey s–t is dead/ Put that to bed/ I’ma make ’em beg when I want some head,” she raps in the video. This is not the only song that fans believe is about her split from Thompson. The rapper spoke about infidelity in her verse, which has fans convinced that she is dissing her ex, Klay Thompson. “I ain't goin' through no phones, that s\\*\\*t stupid/If I catch a n\\*\\*\\*a cheatin' on me, it's deuces,” she raps, adding, “S\\*\\*t strict over here, I’m a rich b\\*\\*\\*h/Thought he did his big one ‘til he met the biggest.”. The song follows Megan's split from the Dallas Mavericks star back in April after she accused him of cheating on her. Autumn Hawkins is a freelance writer with The Sporting News.",
-      "published_at": "Wed, 03 Jun 2026 21:33:52 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於歌手Megan Thee Stallion發布新歌，內容疑似影射她與Klay Thompson分手及男方出軌的事件，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1649,
-      "title": "Michael Jackson's shadow of doubt - Northern Public Radio",
-      "link": "https://www.northernpublicradio.org/2026-06-03/michael-jacksons-shadow-of-doubt",
-      "source": "Tavily (www.northernpublicradio.org)",
-      "snippet": "# Michael Jackson's shadow of doubt. The comment, recently posted under the music video for \"Billie Jean,\" jumped out at me after watching it on YouTube, where it's amassed two billion-plus views, including mine, since it was uploaded 16 years ago. Like a lot of metrics, it's proof that we're still spellbound by Michael Jackson's tragic magic. Decades after topping the charts around the globe, \"Billie Jean\" once again stood as \"the biggest song in the world,\" by *Billboard*'s count, when it reached No. 1 on the Global 200 last month. Because three decades after he paid an estimated $20 million to settle a child sex abuse civil suit (despite denying culpability), and two decades after a jury had to deliberate for seven days before acquitting him in one of the biggest celebrity trials of the century, and nearly a decade after *Leaving Neverland* featured two of his alleged victims recounting as adults what they say it was like to \"have sex\" with Michael when they were minors, the whole world is seemingly ready to forgive.",
-      "published_at": "Wed, 03 Jun 2026 18:00:00 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要探討麥可傑克森的爭議與其音樂作品的持續影響力。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1308,
-      "title": "周杰倫新專輯〈太陽之子〉解析：當十字架刺穿吸血鬼 原歌名「我就是光」 - 基督教今日報",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXS0dzTW5KMnZBTWphYUltWmtfcmF2M0t4d3ZENmd0NVNOdWdQV3FuQkJLbDU0bUxROGMtV1RYVDRpQ1oyX0ZXOGUyZWtMZw?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫新專輯〈太陽之子〉解析：當十字架刺穿吸血鬼 原歌名「我就是光」  基督教今日報",
-      "published_at": "2026-03-27T07:27:50.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.75,
-      "summary": "這則新聞解析了周杰倫新專輯歌曲〈太陽之子〉（原歌名「我就是光」）的深層意涵，探討其光明與信仰的象徵。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1309,
-      "title": "周杰倫新專輯《太陽之子》3/25發行 - 青年日報",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01LTRKOVBfUjdMX19PLTVLOVhLZER5S2ZmdlNFUXd3SkpjcmIwWWpPWDBjSEZnZF9tdVRFOEI1UUs5Ukd0aFctYTFzNklkc0ptcTFDRmZJblpEWU42NV9aMWFXc19wLXRTVzBRc05R?oc=5",
-      "source": "Google News",
-      "snippet": "周杰倫新專輯《太陽之子》3/25發行  青年日報",
-      "published_at": "2026-03-22T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫宣布將於3月25日發行他的新專輯《太陽之子》。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1310,
-      "title": "「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？ - 換日線 Crossing",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZTVAtMW0tS0drTVlaTUg1VkYtRk1pbVViVGxfeVl6SUgtRnRzenRFYjYwbXpMUWYxNnhYc21JR1ZRR1hISU9iZ21PY3VnVmtHNWc?oc=5",
-      "source": "Google News",
-      "snippet": "「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？  換日線 Crossing",
-      "published_at": "2026-04-10T02:01:25.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.55,
-      "summary": "該文章探討周杰倫〈太陽之子〉MV中名畫轉譯的手法，並討論其是藝術翻玩還是經典簡化。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1311,
-      "title": "盤點 10 支致敬名畫 MV！周杰倫〈太陽之子〉30 幅畫串起吸血鬼懸案、MISAMO 化身真人版藝術畫作 - ShoppingDesign",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qMlJ2bmtqVzhHWS1ZQ1RHZWw3eERnNWg1c20wMTc2RmYzSGJyX2pENzNXV0pqLXREUjZSbnpfN2wwYjV1ajdtZ2hqSk5GRWlGeVhxUGhESzZzR2lXNnc?oc=5",
-      "source": "Google News",
-      "snippet": "盤點 10 支致敬名畫 MV！周杰倫〈太陽之子〉30 幅畫串起吸血鬼懸案、MISAMO 化身真人版藝術畫作  ShoppingDesign",
-      "published_at": "2026-03-28T07:00:00.000Z",
-      "collected_at": "2026-06-03 05:29:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫〈太陽之子〉MV因其將30幅名畫融入吸血鬼懸案的創意概念，被選為致敬名畫的傑出作品之一。",
-      "category": "影視",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 74,
-    "report_date": "2026-06-05",
-    "total_articles": 13,
+    "id": 75,
+    "report_date": "2026-06-06",
+    "total_articles": 8,
     "positive_count": 0,
-    "negative_count": 1,
-    "neutral_count": 12,
-    "daily_summary": "周杰倫新專輯《太陽之子》及同名主打歌MV近期成為焦點。MV耗資近億元，結合30幅世界名畫，打造吸血鬼懸疑故事，並強調未使用AI製作。專輯發行三天已賣破250萬張，狂吸4.6億元。儘管評價兩極，但其製作規模與藝術性仍引發熱議。",
+    "negative_count": 0,
+    "neutral_count": 8,
+    "daily_summary": "周杰倫新專輯《太陽之子》3月25日發行，MV耗資近1億台幣，由好萊塢團隊製作，巧妙融入30幅世界名畫，打造吸血鬼懸疑故事。專輯上線三天狂賣逾250萬張，吸金4.6億元，創華語MV製作費新高。周杰倫透露靈感源於恐慌經驗，雖評價兩極，但許多粉絲讚其找回早期感動。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "MV耗資億元致敬名畫",
-      "專輯熱銷破250萬張"
+      "MV耗資1億融入名畫",
+      "三天銷售破250萬張"
     ],
-    "created_at": "2026-06-05 05:02:26"
+    "created_at": "2026-06-06 04:41:06"
   },
   "recentReports": [
+    {
+      "id": 75,
+      "report_date": "2026-06-06",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "周杰倫新專輯《太陽之子》3月25日發行，MV耗資近1億台幣，由好萊塢團隊製作，巧妙融入30幅世界名畫，打造吸血鬼懸疑故事。專輯上線三天狂賣逾250萬張，吸金4.6億元，創華語MV製作費新高。周杰倫透露靈感源於恐慌經驗，雖評價兩極，但許多粉絲讚其找回早期感動。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "MV耗資1億融入名畫",
+        "三天銷售破250萬張"
+      ],
+      "created_at": "2026-06-06 04:41:06"
+    },
     {
       "id": 74,
       "report_date": "2026-06-05",
@@ -661,21 +676,6 @@
         "今日無相關報導"
       ],
       "created_at": "2026-05-31 05:06:56"
-    },
-    {
-      "id": 68,
-      "report_date": "2026-05-30",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "根據今日搜集到的所有新聞資料，並未發現任何與華語樂壇天王周杰倫相關的報導或重要事件。新聞中提及的「Jay」或「McCartney」等名字，均為其他藝人或公眾人物，如Jay Shetty、Jay McKee、Jesse McCartney等，與周杰倫無關。因此，今日無周杰倫的最新動態或焦點新聞可供整理與摘要。",
-      "key_events": [
-        "無相關事件",
-        "無相關事件",
-        "無相關事件"
-      ],
-      "created_at": "2026-05-30 04:37:17"
     }
   ]
 }

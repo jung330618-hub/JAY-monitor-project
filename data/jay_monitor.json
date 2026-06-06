@@ -19202,11 +19202,11 @@
       "snippet": "周杰倫躍上時代廣場 《太陽之子》橫掃全球紀錄曝光  自由娛樂",
       "published_at": "2026-03-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫因其作品《太陽之子》躍上美國時代廣場，並曝光了其橫掃全球的亮眼紀錄。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1373,
@@ -19216,11 +19216,11 @@
       "snippet": "周杰倫《太陽之子》登時代廣場看板！他喊話全球歌迷：記得標記我  NOWnews今日新聞",
       "published_at": "2026-03-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫的歌曲《太陽之子》登上紐約時代廣場看板，他呼籲全球歌迷標記他。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1374,
@@ -19230,11 +19230,11 @@
       "snippet": "周董回來了！周杰倫出新專輯與Spotify合作，準備讓粉絲耳朵再次懷孕！  Yahoo - 汽機車",
       "published_at": "2026-05-30T07:11:35.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發行新專輯並與Spotify合作，讓粉絲們對其新作品充滿期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1375,
@@ -19244,11 +19244,11 @@
       "snippet": "周杰倫新專輯上線3天吸金4.6億 暗示下一支MV「滿多人喜歡這首」  Yahoo新聞",
       "published_at": "2026-03-27T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯上線三天吸金4.6億，並暗示將推出一首廣受喜愛歌曲的MV，顯示其商業與人氣雙重成功。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1376,
@@ -19258,11 +19258,11 @@
       "snippet": "睽違4年周杰倫新專輯終於來了! 親自發布名稱 選在這1天： 你們等著  MSN",
       "published_at": "2026-05-07T09:58:18.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫睽違四年終於親自宣布新專輯即將發行，並預告粉絲「你們等著」。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1377,
@@ -19272,11 +19272,11 @@
       "snippet": "周杰倫新專輯賣破5.91億台幣　新歌〈鄉間的路〉MV邀來昆凌叔叔跨刀  鏡週刊Mirror Media",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯銷售額突破5.91億台幣，且新歌〈鄉間的路〉MV邀請昆凌叔叔參與拍攝。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1378,
@@ -19286,11 +19286,11 @@
       "snippet": "周杰倫新專輯評價兩極！派偉俊公開製作內幕 天王「破天荒做1事」  Yahoo新聞",
       "published_at": "2026-03-30T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫新專輯評價兩極，派偉俊公開製作內幕並透露天王在製作過程中「破天荒」做了一件事。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1379,
@@ -19300,11 +19300,11 @@
       "snippet": "周杰倫新專輯開賣36小時！官方公布驚人銷量曝光 加碼爆料MV先拍才寫歌  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫新專輯在開賣36小時內創下驚人銷量，並透露了MV先拍才寫歌的趣聞。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1380,
@@ -19314,11 +19314,11 @@
       "snippet": "520送粉絲最浪漫的禮物 周杰倫新專輯MV再+1  緯來新聞網",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在520發布新專輯MV，被視為送給粉絲的浪漫禮物。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1381,
@@ -19328,11 +19328,11 @@
       "snippet": "小心手滑1／20年老粉評價周杰倫新專輯 張震嶽被抓包收藏尷尬了  Yahoo新聞",
       "published_at": "2026-04-06T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "資深粉絲評價周杰倫新專輯的文章被張震嶽收藏，導致張震嶽感到尷尬。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1382,
@@ -19342,11 +19342,11 @@
       "snippet": "周杰倫新專輯成績太狂 新歌《淘金小鎮》竟「先拍MV再寫歌」  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯成績斐然，其中新歌《淘金小鎮》更以「先拍MV再寫歌」的獨特方式完成，引發話題。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1383,
@@ -19356,11 +19356,11 @@
       "snippet": "影/周董新專輯太洗腦！陸多地文旅局搶配美景蹭「打歌」  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯因其洗腦的旋律廣受歡迎，甚至吸引中國多地文旅局將其音樂與美景結合，藉此宣傳觀光。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1384,
@@ -19370,11 +19370,11 @@
       "snippet": "周杰倫新專輯終於來了 名稱竟與張學友有關  三立娛樂星聞",
       "published_at": "2026-03-18T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫終於推出新專輯，其名稱竟與張學友有所關聯，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1385,
@@ -19384,11 +19384,11 @@
       "snippet": "周杰倫新專輯7彩蛋曝光！ 48個看板登全球「連紐約時代廣場都有」 | ETtoday星光雲  LINE TODAY",
       "published_at": "2026-03-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯在全球48個看板（包含紐約時代廣場）進行大規模宣傳，並曝光了7個彩蛋。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1386,
@@ -19398,11 +19398,11 @@
       "snippet": "萬眾矚目！周杰倫新專輯來了 「太陽之子」竟是歌神張學友命名  中時新聞網",
       "published_at": "2026-03-18T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫備受期待的新專輯即將發行，其中一首歌名「太陽之子」由歌神張學友命名。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1387,
@@ -19412,11 +19412,11 @@
       "snippet": "周杰倫新專輯真的來了！ 拋震撼彈「開放100歌迷參加發片記者會」 | ETtoday星光雲  LINE TODAY",
       "published_at": "2026-03-17T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫即將發行新專輯，並將開放100名歌迷參與發片記者會，引發高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1388,
@@ -19426,11 +19426,11 @@
       "snippet": "千呼萬喚　周杰倫新專輯《太陽之子》終於誕生了  鏡週刊Mirror Media",
       "published_at": "2026-03-18T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫備受期待的新專輯《太陽之子》終於發行了。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1389,
@@ -19440,11 +19440,11 @@
       "snippet": "周杰倫半夜發新專輯預告吊胃口昆凌心疼粉絲出手了- 娛樂  中時新聞網",
       "published_at": "2026-03-21T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫半夜發布新專輯預告，引起粉絲熱烈期待，昆凌也因心疼粉絲而有所行動。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1390,
@@ -19454,11 +19454,11 @@
       "snippet": "周杰倫寵女狂魔！為3歲愛女Jacinda一句話 寫出新專輯「專屬情歌」  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫因愛女Jacinda一句話，為其新專輯創作了一首專屬情歌，展現寵女狂魔的一面。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1391,
@@ -19468,11 +19468,11 @@
       "snippet": "攜愛妻驚喜現身鄰居韋禮安演唱會 蘇震洋推首張專輯邀方文山打造新歌  緯來新聞網",
       "published_at": "2026-06-01T08:04:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫攜愛妻昆凌驚喜現身韋禮安演唱會，展現其支持與生活面貌。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1392,
@@ -19482,11 +19482,11 @@
       "snippet": "周杰倫《太陽之子》登排行榜首 數位銷量狂賣218萬張  緯來新聞網",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌《太陽之子》數位銷量狂賣218萬張，成功登上排行榜冠軍。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1393,
@@ -19496,11 +19496,11 @@
       "snippet": "周杰倫新專輯開賣36小時！官方公布驚人銷量曝光　加碼爆料MV先拍才寫歌  三立娛樂星聞",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯開賣36小時即創下驚人銷量，並爆料其MV先拍才寫歌的獨特創作方式。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1394,
@@ -23267,6 +23267,118 @@
       "summary": "此新聞內容主要關於紐約西村新開的瑞典糖果店及翠貝卡電影節等當地資訊，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1663,
+      "title": "Jeezy Focuses on Self-Love With Solo Date Nights - foxy99.com",
+      "link": "https://foxy99.com/2026/06/05/jeezy-focuses-on-self-love-with-solo-date-nights/",
+      "source": "Tavily (foxy99.com)",
+      "snippet": "# Jeezy Focuses on Self-Love With Solo Date Nights. Jeezy may be one of hip-hop’s biggest stars, but these days, his favorite date night companion is himself. The rapper and author recently shared that he isn’t rushing back into…. The rapper and author recently shared that he isn't rushing back into the dating scene. Instead, he's spending time focusing on self-love and enjoying solo outings. Rather than looking for a new relationship, Jeezy said he's taking time to focus on himself. \"I’m dating myself right now and I feel like, as a man, you should always take time to be with yourself,\" Jeezy shared. One way he does that is with a weekly solo sushi date. \"And I go out and I have a bottle of sake, a bottle of wine and my favorite sushi and date myself. Kayla is the midday host on Detroit’s 105.1 The Bounce.",
+      "published_at": "Fri, 05 Jun 2026 17:48:38 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導與周杰倫無關，內容主要關於饒舌歌手 Jeezy 專注於自我關愛，享受個人約會之夜。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1664,
+      "title": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - Greenwich Time",
+      "link": "https://www.greenwichtime.com/entertainment/article/what-to-stream-michael-olivia-rodrigo-and-22292871.php",
+      "source": "Tavily (www.greenwichtime.com)",
+      "snippet": "The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists: the new season of “Sweet Magnolias,” a new YA series “Every Year After” and the survival game “Solarpunk.”. ## New movies to stream from June 8-14. — The Michael Jackson biopic “Michael” is still moonwalking its way to $900 million in theaters, but it’s also going to be available to watch at home — for $24.99 — starting June 9 on major platforms like Apple TV, Prime Video and YouTube. In his review for The Associated Press, film writer Jake Coyle wrote that the movie “slides a sequin glove over the pop star’s tarnished legacy, shrouding Michael Jackson’s complications with a conventional biopic that, if you cover your ears, sounds great.”.",
+      "published_at": "Fri, 05 Jun 2026 16:18:33 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要介紹新上架的串流影視內容與音樂專輯，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1665,
+      "title": "NXNE Spotlight: Canadian Electronic Artist Frank Walker Finds His 'Oasis' in Crossing Genres - Billboard Canada",
+      "link": "https://ca.billboard.com/music/frank-walker-nxne-oasis",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "After hitting the top 10 on the Billboard Canada Airplay charts with his country-EDM Josh Ross and Norma Jean Martine collab \"Lay It On Me,\" the Toronto producer will play his new sophomore album in full for fans at an exclusive Billboard Canada LIVE DJ set and Q&A during NXNE at SOUNDSTAGE on June 11. \"It’s more of a creative oasis for me, finding that sanctuary where I have this cool sound that people know me for, but I'm also experimenting in other directions, whether it's different tempos, sounds and percussion, or collaborating with other producers.\". The single became a hit on *Billboard Canada's* Airplay charts and reached the top 10 of the Canadian CHR/Top 40 chart in March after debuting in October, and it's still charting on both the Canada AC and Hot AC charts this week. The Toronto DJ cherishes that special connection between fans and music and is eager to bring that atmosphere to life onstage during his intimate Billboard Canada LIVE performance and Q&A on June 11 at SOUNDSTAGE, where he plans to play *Oasis* in full.",
+      "published_at": "Fri, 05 Jun 2026 13:00:02 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導加拿大電子音樂藝術家Frank Walker的新專輯《Oasis》及其在NXNE的演出。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1666,
+      "title": "Karl-Anthony Towns with a couple tough buckets - NBA.com",
+      "link": "https://www.nba.com/watch/video/karl-anthony-towns-with-a-couple-tough-buckets?plsrc=nba&collection=2026-nba-finals-video",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba finals video. ## Karl-Anthony Towns with a couple tough buckets. # Playlist.",
+      "published_at": "Sat, 06 Jun 2026 01:47:16 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Karl-Anthony Towns的比賽表現，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1667,
+      "title": "Madonna Sends Her New Single Straight To No. 1 - Forbes",
+      "link": "https://www.forbes.com/sites/hughmcintyre/2026/06/05/madonna-sends-her-new-single-straight-to-no-1/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Madonna Sends Her New Single Straight To No. 1. She sang several songs from her Grammy-winning album *Confessions on a Dance Floor*, including singles \"Hung Up,\" \"Get Together\" and, of course, \"I Love New York,\" but that wasn't the purpose of the event. Madonna's \"Love Sensation\" sits atop the iTunes Top Songs chart in the U.K. It's the beginning of a new tracking period, and Fridays are often the most competitive moment to share new music. As one version of \"Love Sensation\" sits at No. 1, the radio edit appears at No. 17. Both tunes that the pop icon has delivered this year – \"Bring Your Love\" with Sabrina Carpenter and \"I Feel So Free\" – also rank among the 100 bestselling on iTunes in the U.K. The collaboration appears at No. 57, while \"I Feel So Free\" sits at No. 79. The top 10 on the U.K.'s iTunes Top Songs list is packed with exciting new releases at the moment.",
+      "published_at": "Fri, 05 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於瑪丹娜新單曲登上排行榜冠軍，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1668,
+      "title": "Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Read more below. - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/film-made-in-the-chaoshan-dialect-has-become-the-second-highest-grossing-release/1352355900098080/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "## Deadline Hollywood's Post. ### **Deadline Hollywood**. Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Damai Entertainment Sets Int'l Release For $223M Hit ‘Dear You’.",
+      "published_at": "Fri, 05 Jun 2026 14:00:11 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導一部潮汕方言電影在中國取得高票房並將進行國際發行，但內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1669,
+      "title": "‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language” - Vogue",
+      "link": "https://www.vogue.com/article/ryan-beatty-secret-language-music-video-interview",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# ‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language”. In the video for Ryan Beatty’s new single, “Secret Language”—released today as the first single off his fourth album, *Sweet Fortune*, arriving later this month—the musician stands against a Hockney blue California sky, throwing a paper plane into the air. You can feel that confidence on “Secret Language,” which captures, with Beatty’s signature precision, that overwhelming feeling of standing on the precipice of falling in love: “I love you, I say it in a secret language / Did you hear what my words couldn’t tell?” he croons on the final chorus, as horns begin to swell around him to a euphoric climax. What I love about it is that the lyrics are about saying it in a secret language, but the song itself feels so big, and there’s nothing secret about it.” Beatty recorded a demo of an earlier version of the track with his longtime musical collaborator, Ethan Gruska, and had the song lying around for a bit before finishing it in his boyfriend’s apartment in Boston.",
+      "published_at": "Fri, 05 Jun 2026 19:47:18 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國歌手Ryan Beatty發行新單曲《Secret Language》及其新專輯《Sweet Fortune》，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1670,
+      "title": "SEAHAVEN – NEW SELF TITLED ALBUM OUT NOW - rocknloadmag.com",
+      "link": "https://rocknloadmag.com/seahaven-new-self-titled-album-out-now/",
+      "source": "Tavily (rocknloadmag.com)",
+      "snippet": "* SEAHAVEN - NEW SELF TITLED ALBUM OUT NOW. | |  | | --- | | NEW SELF TITLED ALBUM OUT NOW  STREAM AND PURCHASE  WATCH THE NEW MUSIC VIDEO FOR ‘MILLION WAYS’ | |. | |  | | --- | | **Seahaven**has released their long awaited new, **self-titled album**, out now **via Pure Noise Records**. **Watch the ‘Million Ways’ Music Video below**  Self-produced, engineered by **Alex Estrada** at Pale Moon Ranch in Juniper Hills, CA, and mixed and mastered by Grammy Award-winning producer **Will Yip**, Seahaven finds the Torrance, CA band delivering what may be their most defining statement to date. “This album takes elements from all of our previous releases and rolls them into one,” says Soto. Companion  **SEAHAVEN’S  SELF-TITLED ALBUM OUT NOW VIA PURE NOISE RECORDS – HERE** | |.",
+      "published_at": "Fri, 05 Jun 2026 22:00:41 GMT",
+      "collected_at": "2026-06-06 04:39:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了樂團Seahaven發行新專輯《Seahaven》的消息，並非關於周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -24325,6 +24437,21 @@
         "專輯熱銷破250萬張"
       ],
       "created_at": "2026-06-05 05:02:26"
+    },
+    {
+      "id": 75,
+      "report_date": "2026-06-06",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "周杰倫新專輯《太陽之子》3月25日發行，MV耗資近1億台幣，由好萊塢團隊製作，巧妙融入30幅世界名畫，打造吸血鬼懸疑故事。專輯上線三天狂賣逾250萬張，吸金4.6億元，創華語MV製作費新高。周杰倫透露靈感源於恐慌經驗，雖評價兩極，但許多粉絲讚其找回早期感動。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "MV耗資1億融入名畫",
+        "三天銷售破250萬張"
+      ],
+      "created_at": "2026-06-06 04:41:06"
     }
   ],
   "notification_logs": [
@@ -25447,11 +25574,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-05 05:02:28"
+    },
+    {
+      "id": 161,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-06 04:41:07"
+    },
+    {
+      "id": 162,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-06 04:41:07"
     }
   ],
   "_meta": {
-    "nextArticleId": 1663,
-    "nextReportId": 75,
-    "nextLogId": 161
+    "nextArticleId": 1671,
+    "nextReportId": 76,
+    "nextLogId": 163
   }
 }
