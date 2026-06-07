@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
+    "total": 9,
     "positive": 0,
-    "negative": 0,
+    "negative": 1,
     "neutral": 8
   },
   "allTimeStats": {
-    "total": 1427,
-    "positive": 406,
-    "negative": 49,
-    "neutral": 972,
+    "total": 1457,
+    "positive": 414,
+    "negative": 51,
+    "neutral": 992,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-23",
-      "total": 12,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-24",
       "total": 3,
@@ -104,10 +96,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 67,
-      "negative": 1,
-      "neutral": 18,
-      "avg_score": 0.81
+      "positive": 75,
+      "negative": 2,
+      "neutral": 30,
+      "avg_score": 0.78
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-07",
+      "total": 9,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 8,
+      "avg_score": 0.45
     }
   ],
   "recentArticles": [
+    {
+      "id": 1671,
+      "title": "‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record - Forbes",
+      "link": "https://www.forbes.com/sites/timlammers/2026/06/06/michael-arrives-on-streaming-this-week-as-michael-jackson-movie-eyes-music-biopic-record/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# ‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record. The Michael Jackson biopic *Michael*, starring Jaafar Jackson, is set to debut on digital streaming this week as the film pushes toward the record set by the 2018 biopic about Queen and its late lead singer Freddie Mercury. That film, of course, is *Bohemian Rhapsody*, which currently holds the all-time box office record as the highest grossing music biopic of all time with a worldwide box office tally of $911 million. Now, six years after the film’s triumph at the global box office and the Oscars, Michael is not only steadily approaching *Bohemian Rhapsody’s* record box office take, the actor who plays Michael Jackson — his nephew Jaafar — is arguably already a contender for a Best Actor Oscar. Given the King of Pop’s enormous popularity in Japan — the documentary *Michael Jackson’s This Is It* made $57 million in the country in 2009 — industry trade publication *Deadline* projects that *Michael* will seize the all-time global box office record from *Bohemian Rhapsody* after it opens in Japan on July 12.",
+      "published_at": "Sat, 06 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導麥可傑克森傳記電影《Michael》即將上線串流平台，並有望打破《波希米亞狂想曲》的票房紀錄，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1672,
+      "title": "‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/michael-arrives-streaming-week-michael-090000290.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# ‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record. The Michael Jackson biopic *Michael*, starring Jaafar Jackson, is set to debut on digital streaming this week as the film pushes toward the record set by the 2018 biopic about Queen and its late lead singer Freddie Mercury. That film, of course, is *Bohemian Rhapsody*, which currently holds the all-time box office record as the highest grossing music biopic of all time with a worldwide box office tally of $911 million. Now, six years after the film's triumph at the global box office and the Oscars, Michael is not only steadily approaching *Bohemian Rhapsody's* record box office take, the actor who plays Michael Jackson — his nephew Jaafar — is arguably already a contender for a Best Actor Oscar. And while it's true that $51 million seems like a lot of money to make as the film enters its seventh weekend in theaters, there are a couple of big reasons to believe Michael can still reach the box office pinnacle set by *Bohemian Rhapsody*.",
+      "published_at": "Sat, 06 Jun 2026 09:00:00 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》即將上線串流平台，並有望打破《波希米亞狂想曲》的音樂傳記電影票房紀錄。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1673,
+      "title": "Maximum Pleasure Guaranteed Exclusive Clip - IGN Live 2026 - IGN Southeast Asia",
+      "link": "https://sea.ign.com/ign-misc/243828/maximum-pleasure-guaranteed-exclusive-clip-ign-live-2026",
+      "source": "Tavily (sea.ign.com)",
+      "snippet": "# Maximum Pleasure Guaranteed Exclusive Clip - IGN Live 2026. Maximum Pleasure Guaranteed is the new highly anticipated darkly comedic thriller from creator and showrunner David J. Hailing from Apple Studios and Counterpart Studios, the series is written and executive produced by creator and showrunner David J. Rosen (“Sugar,” “Hunters”), and directed and executive produced by David Gordon Green (“Nutcrackers,” “Mythic Quest,” “The Righteous Gemstones”). The series is also developed by and executive produced by Simon Kinberg and Audrey Chon for Genre Films and Bard Dorros for Anonymous Content. ### Why Ro Laren Was Perfect for Star Trek's New Horror Game - IGN Live 2026. ### Godzilla Destroy All Monsters Melee: Remastered Official Announce Trailer - IGN Live 2026. ### HAEX - Official Announcement Trailer | IGN Summer of Gaming 2026. ### gen Atlas - Official Gameplay Trailer | IGN Summer of Gaming. ### Theos: Cities of Myth - Official Reveal Trailer | The MIX Summer Game Showcase 2026.",
+      "published_at": "Sun, 07 Jun 2026 00:01:08 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導IGN Live 2026及其他遊戲和影視作品的預告與資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1674,
+      "title": "The Association: New York Knicks NBA Finals Run - NBA.com",
+      "link": "https://www.nba.com/watch/video/the-association-new-york-knicks-nba-finals-run?plsrc=nba&collection=the-association-segments",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# the association segments. ## The Association: New York Knicks NBA Finals Run. The Association: New York Knicks NBA Finals Run. # Playlist.",
+      "published_at": "Sun, 07 Jun 2026 02:23:51 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了紐約尼克隊在NBA總決賽的表現，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1675,
+      "title": "The Association: Mikal Bridges - NBA.com",
+      "link": "https://www.nba.com/watch/video/the-association-mikal-bridges-2?plsrc=nba&collection=the-association-segments",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# the association segments. ## The Association: Mikal Bridges. # Playlist.",
+      "published_at": "Sun, 07 Jun 2026 02:23:51 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於NBA球員Mikal Bridges，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1676,
+      "title": "Trump’s outbursts rattle Gulf allies - Financial Times",
+      "link": "https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Sun, 07 Jun 2026 04:00:02 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要關於金融時報（Financial Times）的訂閱方案介紹，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1677,
+      "title": "Jay Silva, former UFC fighter, dead at 45 - New York Post",
+      "link": "https://nypost.com/2026/06/03/sports/jay-silva-former-ufc-fighter-dead-at-45/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Jay Silva, former UFC fighter, dead at 45. Jay Silva, a longtime MMA fighter who competed in the UFC, died Sunday, according to Polish MMA promotion FAME. The cause of death has yet to be released. “It is with deep sadness that we announce the passing of FAME fighter Jay Silva. Through his performances, Jay brought a great smile, positive energy, and the professionalism of a true athlete,” FAME MMA wrote on social media. Silva’s two UFC bouts were against CB Dollaway at UFC Fight Night 19 in 2009 and Chris Leben at UFC Fight Night 20 in 2010. The former nightclub bouncer in New York developed his love for MMA after he watched the first season of the UFC’s “The Ultimate Fighter” television series in 2005. The native of Luanda, Angola, spent most of his career in cage fighting, competing in Superior Cage Combat, Bellator, and kickboxing competitions. “I want to be remembered as the greatest fighter the world has ever seen.",
+      "published_at": "Wed, 03 Jun 2026 17:48:45 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "負面",
+      "sentiment_score": 0.05,
+      "summary": "前UFC格鬥選手Jay Silva於45歲逝世，死因尚未公布。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1678,
+      "title": "Everybody’s Talkin’ — the plaintive cover that outshone the original - Financial Times",
+      "link": "https://www.ft.com/content/19b36728-24fb-4349-9f5e-4cdd5ab68299",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Everybody’s Talkin’ — the plaintive cover that outshone the original. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Sun, 07 Jun 2026 04:00:03 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇資訊主要介紹《金融時報》的訂閱方案和其提供的服務，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1679,
+      "title": "Shohei Ohtani's HR caps Dodgers' 9-run first inning - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/48988764/shohei-ohtani-hr-caps-dodgers-9-run-first-inning",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "## Tennis (M). ## LPGA Tour. ## Women's International Friendly. #### U Dec. Video is not available in your country. # Shohei Ohtani's HR caps Dodgers' 9-run first inning. ### You may also like. * ## Hayden Federico snags awesome out for Ole Miss. * ## Judd Utermark's RBI double ties the score for Ole Miss. ### The Latest. * ## Auburn loses challenge as Ole Miss advances to the CWS. * ## Ole Miss smashes back-to-back homers to pad lead late. * ## Troy Trojans advances to first ever Men's College World Series. * ## Jason Decaro completes the shutout as UNC keeps season alive. * ## What will Baker Mayfield's next contract look like? * ## Wilbon: Jalen Brunson's toughness is underrated. * ## Is there any chance the Bears don't move to Indiana? * ## Pat McAfee fired up after Sean Smith's 3-run homer for WVU. ## Zverev happy to be back on Grand Slam final stage.",
+      "published_at": "Sun, 07 Jun 2026 04:00:10 GMT",
+      "collected_at": "2026-06-07 05:09:45",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導美國職棒大谷翔平的全壘打及其他體育賽事，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1663,
       "title": "Jeezy Focuses on Self-Love With Solo Date Nights - foxy99.com",
@@ -428,150 +554,39 @@
       "summary": "此新聞內容主要關於紐約西村新開的瑞典糖果店及翠貝卡電影節等當地資訊，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1637,
-      "title": "The most explosive revelations from Netflix's new Michael Jackson doc - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/tv/2026/06/03/michael-jackson-netflix-documentary-2026/90352376007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "The most explosive revelations from Netflix's new Michael Jackson doc. ## From allegations of child pornography and lewd nicknames, here is what we learned about the pop star's 2005 trial in \"Michael Jackson: The Verdict.\". Four siblings, formerly friends of the Jackson family, have sued the Michael Jackson estate for alleged child sex trafficking. As Michael Jackson’s biopic continues to ignite the box office, an unnerving new docuseries is revisiting one of the icon’s darkest chapters. “Michael Jackson: The Verdict” (now streaming on Netflix) is a three-episode documentary exploring Jackson’s 2005 criminal trial, when he was accused of molesting 13-year-old Gavin Arvizo. One of the key figures of the docuseries is Vincent Amen, who came to work for Jackson in 2002 and was tasked with looking after the Arvizo family, who had returned to Neverland Ranch to ride out the media storm. … There’s circles around videos with naked children.’ He says, ‘That’s just a phase that Michael and I went through.",
-      "published_at": "Wed, 03 Jun 2026 18:53:00 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導關於Netflix新紀錄片揭露麥可傑克森2005年審判中涉及兒童性侵的爭議內容，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1638,
-      "title": "Sơn Tùng M-TP And Tyga Celebrate Vietnamese Heritage With ‘Come My Way’ - Yahoo News Canada",
-      "link": "https://ca.news.yahoo.com/n-t-ng-m-tp-075022394.html",
-      "source": "Tavily (ca.news.yahoo.com)",
-      "snippet": "# Sơn Tùng M-TP And Tyga Celebrate Vietnamese Heritage With ‘Come My Way’. Vietnamese superstar, Sơn Tùng M-TP, is crossing over with Western artists, teaming up with American rap artist Tyga on their new single, “Come My Way,” released this past weekend on all streaming platforms. The collaboration feels like a perfect fit, as it bridges Sơn Tùng M-TP’s global expansion and American hip-hop, especially with Tyga’s mixed Vietnamese heritage, giving the song a deeper connection to the music and culture. “Working with Sơn Tùng M-TP on this record felt natural because it gave me a chance to reconnect with a side of my heritage that’s always been part of me,” says Tyga. “Growing up half-Vietnamese, I’ve always had pride in that identity, and being able to celebrate it through music on a global record like this just felt right. Sơn Tùng M-TP is standing on a bronze Chim Lạc, an ancient bird of Vietnam, as it floats through the streets of Downtown Los Angeles.",
-      "published_at": "Mon, 01 Jun 2026 07:50:22 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導越南歌手Sơn Tùng M-TP與美國饒舌歌手Tyga合作推出新歌《Come My Way》，慶祝越南文化，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1639,
-      "title": "‘I don’t listen to indie music any more’: Ed O’Brien’s honest playlist - The Guardian",
-      "link": "https://www.theguardian.com/music/2026/may/31/ed-obrien-honest-playlist-smiths-george-michael-scotland-1978-world-cup-squad",
-      "source": "Tavily (www.theguardian.com)",
-      "snippet": "# ‘I don’t listen to indie music any more’: Ed O’Brien’s honest playlist. The Radiohead guitarist once serenaded a girl with the Smiths and thinks George Michael was a genius. **The first song I fell in love with**. When I was 17, I fell in love with a girl called Mary, who was this huge Smiths fan. **The song I do at karaoke**. By 1am, we were wearing prosthetic animal heads, and Mr Inagawa was in floods of tears as Thom sung My Way. I love karaoke when people are so inebriated, they’re like: “I fucking love you, let’s do Copacabana for the third time.”. **The best song to play at a party**. I was at a Halloween party in LA, all a bit cool and timid, when the DJ spun Daft Punk Is Playing at My House by LCD Soundsystem, and I thought: “Fucking hell, here we go.”. **The best to song have sex to**. I don’t listen to indie music any more.",
-      "published_at": "Sun, 31 May 2026 08:00:42 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此篇報導為Radiohead吉他手Ed O’Brien分享他個人音樂品味和播放清單，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1640,
-      "title": "Brunson plays through injury, Knicks overcome 14-point deficit to win Game 1 - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/nba/nba-highlights-knicks-spurs-june-03/6508787/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 2026 World Cup FIFA Trump Administration Knicks New Jersey Immigration New York Live Send Photos/Videos Open House. ### NBA. # Brunson plays through injury, Knicks overcome 14-point deficit to win Game 1. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Thu, 04 Jun 2026 03:35:00 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於NBA尼克隊的比賽結果，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1641,
-      "title": "Camila Cabello Splits From Billionaire Heir Henry Junior Chalhoub - TMZ",
-      "link": "https://www.tmz.com/2026/06/03/camila-cabello-henry-junior-chalhoub-break-up/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Mackenzie Shirilla's Dad's Teaching Contract Not Renewed After Netflix Documentary Backlash. # Camila Cabello Splits From Billionaire Heir Henry Junior Chalhoub. ## Camila Cabello Splits From Billionaire Heir. **Camila Cabello** is flying solo once again ... 'cause TMZ has confirmed the singer and her billionaire heir boyfriend, **Henry Junior Chalhoub**, have called it quits after more than a year together. It's unclear what caused the couple to go their separate ways. Camila and Henry, a Lebanese businessman whose family owns the luxury fashion distribution giant Chalhoub Group, first sparked romance rumors after meeting at an Elie Saab fashion afterparty in Saudi Arabia in late 2024. The couple was frequently spotted vacationing in some of the world's most exclusive destinations during their time together, including romantic trips to St. Barts and Ibiza. Henry's family fortune is estimated at around $1.2 billion. #### Camila Cabello Reacts to Fifth Harmony Reunion at Jonas Brothers Concert. #### Mama June's Daughter Jessica Shannon Splits From Wife Shyann McCant.",
-      "published_at": "Wed, 03 Jun 2026 21:31:10 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導卡蜜拉·卡貝羅與億萬富翁繼承人亨利·朱尼爾·查爾胡布分手。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1642,
-      "title": "Jennifer Lopez and Brett Goldstein Host Speed Dating for Office Romance , Plus Kerry Washington and More - People.com",
-      "link": "https://people.com/star-tracks-tuesday-june-2-2026-new-celebrity-photos-updated-daily-11988542",
-      "source": "Tavily (people.com)",
-      "snippet": "Paul Rudd Attends a Charity Event in Kansas City, Plus Mindy Kaling, Kerry Washington and More. Jennifer Lopez Is a Goddess in a Green Gown, Plus Jean Smart, Kaitlin Olson and More. Brendan Fraser Premieres *Pressure* with His Rarely Seen Sons, Plus Jennifer Lopez and More. Keanu Reeves & Alexandra Grant Attend the 2026 MOCA Gala in L.A., Plus Patrick Mahomes, François Arnaud and More. Timothée Chalamet and Kylie Jenner Cuddle Courtside at the Knicks Game, Plus Teyana Taylor and More. Noah Wyle and Patrick Dempsey Are a Pair of Hot TV Doctors, Plus a *This Is Us* Reunion and More. Neil Patrick Harris and David Burtka Step Out with Their Twins, Plus Kylie Kelce and More. Jenna Ortega & Catherine Zeta-Jones Attend a *Wednesday* Emmys Event in L.A., Plus Adam Brody & Kristen Bell and More. John Krasinski & Emily Blunt Share a Cute Red Carpet Moment in N.Y.C., Plus Jennifer Lopez, Selena Gomez and More.",
-      "published_at": "Tue, 02 Jun 2026 10:00:00 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導多位西方名人出席活動或生活動態，未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1643,
-      "title": "Damon Dash Rips Jay-Z's Roots Picnic Freestyle, Afro - TMZ",
-      "link": "https://www.tmz.com/2026/06/02/damon-dash-slams-jay-z-roots-picnic-diss/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Damon Dash Rips Jay-Z's Roots Picnic Freestyle, Afro. ## Damon Dash To Jay-Z If You're Coming for Me, Look the Part!!! **Damon Dash**is firing back at**Jay-Z**after his former Roc-A-Fella partner dissed him at the Roots Picnic ... and Damon isn't feeling the bars ... Speaking with \"The Art of Dialogue,\" Damon dismissed the **freestyle** as recycled material, claiming Jay was leaning on old jokes and wasn't delivering the sharp lyricism he once brought to the table. Damon didn't stop at the lyrics. He claimed the younger Jay-Z never enjoyed the spotlight and suggested seeing him onstage now felt more \"embarrassing\" than impressive. The most eyebrow-raising comment may have been Damon's claim Jay still brings up his name because it keeps him relevant. Jay-Z got a lot off his chest, also calling out some of the biggest names in hip-hop, from **Nicki Minaj** and **Drake** to **Kanye West**and more. Damon isn't adding that Roots Picnic freestyle to his playlist anytime soon.",
-      "published_at": "Tue, 02 Jun 2026 23:18:55 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導描述了Damon Dash批評Jay-Z在Roots Picnic上的即興饒舌表演和形象，稱其為舊調重彈且令人尷尬。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1644,
-      "title": "Jim Jefferies Unveils All-Star Aussie Support Lineup for Massive Homecoming Tour - Variety Australia",
-      "link": "https://au.variety.com/2026/more/news/jim-jefferies-australian-tour-supports-tickets-dates-37233/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "The supporting lineup for Jim Jefferies biggest Australian comedy shows is here – and it does not disappoint. Jefferies is bringing his acclaimed “Son of a Carpenter” tour across the country this July and August, appearing in Sydney, Gold Coast, Adelaide, Hobart, Geelong, Wollongong, Canberra, and more towns and cities (see full dates below). Fans will be delighted by the likes of Mel Buttle, Mickey D, Chris Wainhouse, Corey White, and Lindsay Webb across the dates. “I’m bringing the cream of the Aussie comedy crop, and some great mates of mine with me out to open for me on the Australian tour,” Jefferies said. Enmore Theatre, Sydney NSW (Early Show). Enmore Theatre, Sydney NSW (Late Show). **Friday, July 10th (SOLD OUT)**. The Star, Gold Coast QLD (Early Show). The Star, Gold Coast QLD (Late Show). Western Sydney Coliseum Theatre, Sydney NSW (Early Show). Western Sydney Coliseum Theatre, Sydney NSW (Late Show). **Saturday, August 1st (SOLD OUT)**.",
-      "published_at": "Wed, 03 Jun 2026 01:06:02 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了喜劇演員Jim Jefferies即將在澳洲舉行的大型巡迴演出及其全明星支持陣容，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1645,
-      "title": "JAY-Z Disses Drake, Kanye, and Nicki Minaj During Comeback Show at Roots Picnic - consequence.net",
-      "link": "https://consequence.net/2026/05/jay-z-roots-picnic-setlist-drake-kanye-diss/",
-      "source": "Tavily (consequence.net)",
-      "snippet": "Hov ran through a 31-song career-spanning set with the backing of The Roots. In a recent interview with *The New York Times*, JAY-Z questioned the role of rap beef in 2026, saying he wasn’t sure whether “battling needs to be part of the culture anymore.” Speaking in the context of Drake and Kendrick Lamar’s recent war of words, Hov noted, “We love the excitement and I love the sparring, but in this day and age, there’s so much negative stuff that comes with it that you almost wish it didn’t happen. He was backed by The Roots and joined by an array of on-stage guests, including Bilal on “No Church in the Wild,” Jazmine Sullivan on “Feelin’ It,” and Freeway and Beanie Sigel on “Roc the Mic” and “What We Do.” Check out the full setlist and fan-captured footage from the show below. > Jay-Z reunited with Beanie Sigel and Freeway at the @rootspicnic to perform “What We Do” pic.twitter.com/YJAhiaqFGa.",
-      "published_at": "Sun, 31 May 2026 13:30:49 GMT",
-      "collected_at": "2026-06-04 05:24:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "JAY-Z Disses Drake, Kanye, and Nicki Minaj During Comeback Show at Roots Picnic - consequence.net",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 75,
-    "report_date": "2026-06-06",
-    "total_articles": 8,
+    "id": 76,
+    "report_date": "2026-06-07",
+    "total_articles": 9,
     "positive_count": 0,
-    "negative_count": 0,
+    "negative_count": 1,
     "neutral_count": 8,
-    "daily_summary": "周杰倫新專輯《太陽之子》3月25日發行，MV耗資近1億台幣，由好萊塢團隊製作，巧妙融入30幅世界名畫，打造吸血鬼懸疑故事。專輯上線三天狂賣逾250萬張，吸金4.6億元，創華語MV製作費新高。周杰倫透露靈感源於恐慌經驗，雖評價兩極，但許多粉絲讚其找回早期感動。",
+    "daily_summary": "周杰倫新專輯《太陽之子》近期備受矚目，已於3月25日發行，短短三天內銷售突破250萬張，狂吸逾4.6億元。同名主打歌MV耗資近億元，由好萊塢團隊在巴黎與台北拍攝，內容巧妙融合30幅世界名畫，以「吸血鬼咬了梵谷」概念呈現，引發藝術與創意討論。周杰倫透露創作靈感來自過去演唱會的負面經歷，MV中的「超狂選角」也令人驚艷。專輯的商業成功與藝術表現，再次彰顯周杰倫的影響力。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "MV耗資1億融入名畫",
-      "三天銷售破250萬張"
+      "MV耗資近億元拍攝",
+      "專輯三天狂賣4.6億"
     ],
-    "created_at": "2026-06-06 04:41:06"
+    "created_at": "2026-06-07 05:11:12"
   },
   "recentReports": [
+    {
+      "id": 76,
+      "report_date": "2026-06-07",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 1,
+      "neutral_count": 8,
+      "daily_summary": "周杰倫新專輯《太陽之子》近期備受矚目，已於3月25日發行，短短三天內銷售突破250萬張，狂吸逾4.6億元。同名主打歌MV耗資近億元，由好萊塢團隊在巴黎與台北拍攝，內容巧妙融合30幅世界名畫，以「吸血鬼咬了梵谷」概念呈現，引發藝術與創意討論。周杰倫透露創作靈感來自過去演唱會的負面經歷，MV中的「超狂選角」也令人驚艷。專輯的商業成功與藝術表現，再次彰顯周杰倫的影響力。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "MV耗資近億元拍攝",
+        "專輯三天狂賣4.6億"
+      ],
+      "created_at": "2026-06-07 05:11:12"
+    },
     {
       "id": 75,
       "report_date": "2026-06-06",
@@ -661,21 +676,6 @@
         "Drake破紀錄奪冠"
       ],
       "created_at": "2026-06-01 05:28:09"
-    },
-    {
-      "id": 69,
-      "report_date": "2026-05-31",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫相關的報導或焦點事件。所有提及的『Jay』均為其他公眾人物，與歌手周杰倫無關。",
-      "key_events": [
-        "今日無相關報導",
-        "今日無相關報導",
-        "今日無相關報導"
-      ],
-      "created_at": "2026-05-31 05:06:56"
     }
   ]
 }
