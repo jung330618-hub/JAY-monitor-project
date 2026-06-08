@@ -2,25 +2,17 @@
   "todayStats": {
     "total": 9,
     "positive": 0,
-    "negative": 1,
-    "neutral": 8
+    "negative": 0,
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1457,
-    "positive": 414,
-    "negative": 51,
-    "neutral": 992,
+    "total": 1487,
+    "positive": 424,
+    "negative": 54,
+    "neutral": 1009,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-24",
-      "total": 3,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-25",
       "total": 7,
@@ -96,10 +88,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 75,
-      "negative": 2,
-      "neutral": 30,
-      "avg_score": 0.78
+      "positive": 85,
+      "negative": 5,
+      "neutral": 38,
+      "avg_score": 0.76
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,143 @@
       "negative": 1,
       "neutral": 8,
       "avg_score": 0.45
+    },
+    {
+      "date": "2026-06-08",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1680,
+      "title": "When Trump Jawbones the Market, Bet Against Him at Your Peril - Moomoo",
+      "link": "https://www.moomoo.com/hant/news/post/71155634/when-trump-jawbones-the-market-bet-against-him-at-your",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* When Trump Jawbones the Market, Bet Against Him at Your Peril. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本內容僅用作提供資訊及教育之目的，不構成對任何特定證券或投資策略的推薦或認可。本內容中的資訊僅用於說明目的，可能不適用於所有投資者。本內容未考慮任何特定人士的投資目標、財務狀況或需求，並不應被視作個人投資建議。建議您在做出任何投資於任何資本市場產品的決定之前，應考慮您的個人情況判斷資訊的適當性。過去的投資表現不能保證未來的結果。投資涉及風險和損失本金的可能性。moomoo對上述內容的真實性、完整性、準確性或對任何特定目的的時效性不作任何陳述或保證。. 在美國，moomoo上的投資產品和服務由Moomoo Financial Inc.提供，一家受美國證券交易委員會（SEC）監管的持牌主體。 Moomoo Financial Inc.是金融業監管局（FINRA）和證券投資者保護公司（SIPC）的成員。. 在新加坡，moomoo上的投資產品和服務是通過Moomoo Financial Singapore Pte. Ltd.提供，該公司受新加坡金融管理局（MAS）監管(牌照號碼︰CMS101000) ，持有資本市場服務牌照 (CMS) ，持有財務顧問豁免（Exempt Financial Adviser）資質。本內容未經新加坡金融管理局的審查。. 在澳大利亞，moomoo上的金融產品和服務是通過Moomoo Securities Australia Limited提供，該公司是受澳大利亞證券和投資委員會(ASIC)監管的澳大利亞金融服務許可機構（AFSL No. 224663）。請閱讀並理解我們的《金融服務指南》、《條款與條件》、《隱私政策》和其他披露文件，這些文件可在我們的網站 https://www.moomoo.com/au中獲取。. 在加拿大，透過moomoo應用程式提供的僅限訂單執行的券商服務由Moomoo Financial Canada Inc.提供，並受加拿大投資監管機構（CIRO）監管。. 在馬來西亞，moomoo上的投資產品和服務是透過Moomoo Securities Malaysia Sdn. Bhd. 提供，該公司受馬來西亞證券監督委員會（SC）監管(牌照號碼︰eCMSL/A0397/2024) ，持有資本市場服務牌照 (CMSL) 。本內容未經馬來西亞證券監督委員會的審查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd.，Moomoo Securities Australia Limited, Moomoo Financial Canada Inc和Moomoo Securities Malaysia Sdn. Bhd., 是關聯公司。. * A New Wave of Weight-loss Therapies Aims to Be Better Than Today's GLP-1s. * The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. * Chamath Palihapitiya表示，企業正在人工智能領域過度支出，因爲更便宜的模型正迅速縮小差距：「正在燒掉巨額預算」. * Miahona將收購Sha's Water Services，交易金額最高達SAR1.03億. * Spirit Airlines不會是最後一家：IATA總裁警告稱，隨着伊朗戰爭推高燃油成本，更多航司可能倒閉. *讚好**勁正**笑哭**社會社會**Emm**惨惨**嬲嬲*.",
+      "published_at": "Sun, 07 Jun 2026 07:39:44 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於金融市場分析、企業財報及投資資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1681,
+      "title": "Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/seventeen-vernon-the8-confirm-unit-205435726.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month. SEVENTEEN's unit era is in full swing. PLEDIS Entertainment officially confirmed that members Vernon and The8 will release their first album as unit V8 on June 29. The announcement comes as the group's five remaining members prepare for military enlistment later this year, making V8 one of several duo units SEVENTEEN has launched to maintain creative output during the hiatus period. The unit name \"V8\" combines the \"V\" from Vernon and the \"8\" from The8. Both members are actively involved in writing and composing the album rather than working from label-directed material, an important point given Vernon's established credentials as a songwriter and The8's track record of producing self-directed solo work. ## Who Vernon And The8 Are. Vernon, born Choi Vernon Hansol, is one of SEVENTEEN's main rappers and one of its most prolific behind-the-scenes contributors. ## V8's Place In SEVENTEEN's Unit History.",
+      "published_at": "Sun, 07 Jun 2026 20:54:35 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於韓國團體SEVENTEEN成員Vernon和The8將以小分隊V8名義發行新專輯，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1682,
+      "title": "Ebola and jihadis threaten Africa’s oldest national park - Financial Times",
+      "link": "https://www.ft.com/content/1560124d-d3fa-4184-873b-c609dae8f00e",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Ebola and jihadis threaten Africa’s oldest national park. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 04:00:14 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞標題提及伊波拉病毒和聖戰士威脅非洲國家公園，但內容主要為金融時報的訂閱方案推廣，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1683,
+      "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting - Financial Times",
+      "link": "https://www.ft.com/content/1a538fdf-a404-4ef6-97f5-92be9176ee2e",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Xi Jinping lands in North Korea for Kim Jong Un meeting. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 03:26:04 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於習近平訪問北韓以及金融時報的訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1684,
+      "title": "Israel launches retaliatory air strikes on Iran - Financial Times",
+      "link": "https://www.ft.com/content/092e2c2a-2f3e-4139-83e8-06e066f76946",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 02:29:37 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於以色列對伊朗的報復性空襲以及金融時報的訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1685,
+      "title": "James Van Der Beek’s Ex-Wife Marries 3 Months After His Death - The Daily Beast",
+      "link": "https://www.thedailybeast.com/james-van-der-beeks-ex-wife-marries-3-months-after-his-death/",
+      "source": "Tavily (www.thedailybeast.com)",
+      "snippet": "* Hollywood Star Tears Into Audience Member for Bad BehaviorCURTAIN CALL CONTROVERSY. She accused the audience member of breaking the bond between the cast and audience. These Low-Dose Mints Are Perfect for Beginners A FRESH TAKE. Batch just launched new THC-infused “micro mints.” Here’s what you need to know. Remarkable’s new Paper Pure is the successor to the brand’s Remarkable 2 tablet. Over a career spanning more than five decades, Bryson has released nearly 20 studio albums, with hits including “If Ever You’re in My Arms Again,” “Can You Stop the Rain,” and “Reaching for the Sky.” He also won two Grammy Awards for *Beauty and the Beast*, recorded with Celine Dion, and “A Whole New World” from *Aladdin*, recorded with Regina Belle. He went on to team up with Roberta Flack for the duet album *Born to Love*, before later scoring hits with Angela Bofill on “For You and I” and again with Belle on several successful collaborations.",
+      "published_at": "Mon, 01 Jun 2026 10:36:00 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導James Van Der Beek前妻再婚、好萊塢爭議以及歌手Bryson的音樂成就。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1686,
+      "title": "Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. - TMZ",
+      "link": "https://www.tmz.com/2026/06/07/justin-and-hailey-bieber-looking-cute-at-concert/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. ## Justin and Hailey Bieber Date Night at Kid Laroi Concert in L.A.!!! **Justin**and **Hailey Bieber** were enjoying a date night out together Friday night, with eagle-eyed fans spotting the couple in the crowd at **The Kid LAROI**'s concert. Several videos circulating on social media appear to show Justin and Hailey watching the show from a VIP area at The Greek Theatre in Los Angeles -- with fans quickly sharing clips online after noticing the famous pair among the crowd. The appearance wouldn't be much of a surprise considering Justin and The Kid LAROI have been friends and collaborators for years, famously teaming up on the hit track \"Stay.\". Fans online were quick to react to the clips, with many commenting that they were excited to see the Biebers out together and supporting one of Justin's longtime friends. #### Justin Bieber Performs Small Show at Troubadour in L.A. Ahead of Coachella Set.",
+      "published_at": "Sun, 07 Jun 2026 12:20:08 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導描述了小賈斯汀和海莉·比伯在洛杉磯觀看The Kid LAROI演唱會的約會之夜，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1687,
+      "title": "An Exclusive Look at the 2026 Tony Awards Red Carpet - Vogue",
+      "link": "https://www.vogue.com/slideshow/2026-tony-awards-red-carpet-hunter-abrams",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "Your All-Access Pass to Vogue. # The 2026 Tony Awards Red Carpet, Through Hunter Abrams’s Lens. For those who couldn’t make the 2026 Tony Awards in person, we’ve got the next best thing: a closer look at the ceremony’s Radio City Music Hall red carpet, as vividly captured by photographer Hunter Abrams. Below, find Abrams’s exclusive shots of many of the night’s biggest winners and most famous faces—from John Lithgow and Lesley Manville to Rose Byrne, Maya Rudolph, and Bowen Yang. + Crying in the Carlyle and Other Secrets of Uptown New York According to Lila Raicek. * Get Your Korean-101 On With a Little Help From BTS. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion. Update to the latest version to see all *Vogue* content, as well as new features like our Runway Genius quiz, Group Chats, and posts from *Vogue* contributors.",
+      "published_at": "Mon, 08 Jun 2026 03:31:17 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於2026年東尼獎紅毯及Vogue雜誌的其他內容，文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1688,
+      "title": "Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ",
+      "link": "https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8",
+      "source": "Tavily (www.wsj.com)",
+      "snippet": "# Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ. https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8. # Japan Rate-Hike Hopes Intact Despite Growth Miss. Image 1: People waiting at a bus stop in Tokyo's Ginza district, with some holding umbrellas for shade. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed. TOKYO-Japan’s economy grew at a slightly slower pace than initially estimated in the first quarter but remained on a recovery track, keeping alive hopes that a rate hike is on the horizon. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed Monday. Image 3: The Cattle Empire That Turned Out to Be a Giant Ponzi Scheme. Image 5: The New College Football Millionaires Spending $80,000 on Their High School Proms. Image 10: The Road to AI State Socialism.",
+      "published_at": "Mon, 08 Jun 2026 02:25:00 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於日本經濟成長與利率政策，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1671,
       "title": "‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record - Forbes",
@@ -428,150 +554,39 @@
       "summary": "此新聞報導主要關於韓國團體Ateez發行新專輯及活動，並提及Nvidia執行長黃仁勳訪問首爾，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1654,
-      "title": "Blackout Jack - Kotaku",
-      "link": "https://kotaku.com/games/blackout-jack/gallery/10",
-      "source": "Tavily (kotaku.com)",
-      "snippet": "# Blackout Jack - Kotaku. # Blackout Jack. # Dev Diary. We may earn a commission when you buy through links on our sites. About Cookies on this Site. We use cookies to personalize and improve your experience on our site and to serve you with relevant advertising. Visit our **privacy policy** for more information on our data collection practices and to exercise your consumer rights.",
-      "published_at": "Thu, 04 Jun 2026 07:01:57 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊關於遊戲開發主題「Blackout Jack」及網站隱私政策，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1655,
-      "title": "The Association: Josh Hart 1-on-1 with Chris Haynes - NBA.com",
-      "link": "https://www.nba.com/watch/video/the-association-josh-hart-1-on-1-with-chris-haynes",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## The Association: Josh Hart 1-on-1 with Chris Haynes. Josh Hart speaks with Chris Haynes about the Game 1 victory over the San Antonio Spurs. # Playlist.",
-      "published_at": "Fri, 05 Jun 2026 02:54:34 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於NBA球員Josh Hart與Chris Haynes的訪談，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1656,
-      "title": "Dame Dash Responds to Jay-Z’s Roots Picnic Diss, Claims Drake Could Beat Hov in a Rap Battle: ‘I Know That for a Fact’ - Billboard Canada",
-      "link": "https://ca.billboard.com/music/rb-hip-hop/dame-dash-reacts-jay-z-diss-drake-beat-hov-rap-battle-1236263064/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "\"I just felt kinda embarrassed for him,\" he said of the rap legend returning to the stage. Dame sat down with *T**he Art of Dialogue* on Tuesday (June 2), which saw him unleash on Jay’s “terrible” freestyle, new Afro hairstyle and more. “And I felt bad because I was like, ‘It must be embarrassing for him to now have to be on that stage, not the same version of himself, and still have to work at that age because he has to,'” Dame began. “For him to have to come out 20 years later, I just felt kinda embarrassed for him.”. The Canadian government is stepping in to support Canadian music and media amidst debates around the Online Streaming Act. This morning (June 3), the government announced that it will offer immediate financial support for music, audio and audiovisual media with a $600 million yearly investment.",
-      "published_at": "Wed, 03 Jun 2026 16:21:26 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Jay-Z與Dame Dash的爭議，與周杰倫無關，因此無法進行周杰倫相關的情緒分析。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1657,
-      "title": "“Flower Drum Song” – A Culturally Powerful Production - ladancechronicle.com",
-      "link": "https://www.ladancechronicle.com/flower-drum-song-a-culturally-powerful-production/",
-      "source": "Tavily (www.ladancechronicle.com)",
-      "snippet": "Presented by East West Players and the Japanese American Cultural and Community Center, this was a newly revised version of **David Henry Hwang’s 2002 production** which was revised from the 1958 original with **music by Richard Rogers** and **lyrics by Oscar Hammerstein II.** The plot centers on Mei-Li, a refugee from China who makes a dramatic journey to the U.S. and joins the family of a friend of her fathers’ who is struggling with his Chinese Opera house while his son is set on a Western-style nightclub. Krista Marie Yu in Rogers and Hammerstein’s FLOWER DRUM SONG – Photo by Mike Palma. This is the 60th Anniversary of East West Players and they wanted to end on a special note which Hwang supplied by way of this new version of *“Flower Drum Song”.* In it there was an effort to update the power of the female leads which read very well.",
-      "published_at": "Thu, 04 Jun 2026 14:01:12 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於音樂劇《花鼓歌》的最新版本，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1658,
-      "title": "After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/james-blake-trying-times-berkeley-22272392.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley. Bay Area audiences had a recent reminder of his range during San Francisco Ballet’s “The Blake Works,” a William Forsythe program set to the British musician’s tracks, which opened Feb. 27, at the War Memorial Opera House. Now fans can hear Blake perform live when he brings his touring show behind his latest album, “Trying Times,” to the Greek Theatre on Thursday-Friday, June 11-12. Jameela Jamil (“The Good Place”), Blake’s longtime partner, is credited as executive producer and A&R on the album, with production credits on several tracks. She joined the Chronicle as a summer 2023 intern for the Datebook team. She is a recent graduate of UC San Diego, where she studied communications. She previously interned for the San Diego Union-Tribune and wrote for her campus newspaper, the Guardian, where she served as editor-in-chief.",
-      "published_at": "Thu, 04 Jun 2026 13:00:00 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "After S.F. Ballet spotlight, this Grammy-winning musician brings new album to Berkeley - San Francisco Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1659,
-      "title": "Grammy-winning singer Peabo Bryson suffers stroke - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/celebrities/2026/06/01/peabo-bryson-health-stroke-songs-beauty-and-the-beast-singer/90351127007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "# Grammy-winning singer Peabo Bryson suffers stroke. Peabo Bryson, the Grammy Award-winning singer behind multiple R&B and Disney hits, has suffered a stroke. The South Carolina native is best known for the Disney hit duets \"Beauty and the Beast\" with Celine Dion and \"A Whole New World\" with singer-songwriter Regina Belle from the \"Aladdin\" soundtrack, which won back-to-back Grammys for best pop performance by a duo or group with vocals in 1993 and 1994, respectively. Bryson also had a string of hit singles with the late Roberta Flack, including \"Tonight, I Celebrate My Love\" and \"You're Looking Like Love to Me\" from the 1983 duet album \"Born To Love,\" as well as \"As Long as There's Christmas.\". He is also known for several hit solo ballads, including \"If Ever You're in My Arms Again\" and \"Can You Stop the Rain.\" \"Can You Stop the Rain\" was nominated for best R&B vocal performance in 1992.",
-      "published_at": "Tue, 02 Jun 2026 15:21:00 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "負面",
-      "sentiment_score": 0.1,
-      "summary": "葛萊美獎得主Peabo Bryson中風，其健康狀況引發關注。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1660,
-      "title": "Jay Leno offers car collection tour in auction to benefit UMass Lowell - CBS News",
-      "link": "https://www.cbsnews.com/boston/video/jay-leno-offers-car-collection-tour-in-auction-to-benefit-umass-lowell/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "# Jay Leno offers car collection tour in auction to benefit UMass Lowell. Comedian Jay Leno is auctioning off a tour of his famous garage to benefit a UMass Lowell scholarship fund.",
-      "published_at": "Thu, 04 Jun 2026 13:05:00 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞關於喜劇演員Jay Leno拍賣其車庫導覽以資助獎學金，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1661,
-      "title": "Former NY Knick Steve Novak says ‘sleep is for losers' - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/former-ny-knick-steve-novak-says-sleep-is-for-losers/6509111/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 FIFA 2026 World Cup Knicks Trump Administration Immigration New York Live Send Photos/Videos Open House. ### Entertainment. # Former NY Knick Steve Novak says ‘sleep is for losers'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Thu, 04 Jun 2026 19:04:22 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於前NBA球員Steve Novak的言論及NBC紐約的節目資訊，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1662,
-      "title": "A new Swedish candy shop is now open in the West Village! - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/a-new-swedish-candy-shop-is-now-open-in-the-west-village/6509108/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "New York Live 2 hours ago. # A new Swedish candy shop is now open in the West Village! Dahiana Pérez gets the scoop on Vännest, a new Swedish candy store in the West Village. ## Local. #### Elisse Junior St. Preux & Naturi Naughton-Lewis talk new Tribeca Festival movie. #### Zach Woods, Susan Sarandon, & Everly Carganilla on new Tribeca Festival movie. #### Former NY Knick Steve Novak says ‘sleep is for losers'. #### From swag to sweets, get ready to cheer on the Knicks! NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Thu, 04 Jun 2026 18:59:51 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於紐約西村新開的瑞典糖果店及翠貝卡電影節等當地資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 76,
-    "report_date": "2026-06-07",
+    "id": 77,
+    "report_date": "2026-06-08",
     "total_articles": 9,
     "positive_count": 0,
-    "negative_count": 1,
-    "neutral_count": 8,
-    "daily_summary": "周杰倫新專輯《太陽之子》近期備受矚目，已於3月25日發行，短短三天內銷售突破250萬張，狂吸逾4.6億元。同名主打歌MV耗資近億元，由好萊塢團隊在巴黎與台北拍攝，內容巧妙融合30幅世界名畫，以「吸血鬼咬了梵谷」概念呈現，引發藝術與創意討論。周杰倫透露創作靈感來自過去演唱會的負面經歷，MV中的「超狂選角」也令人驚艷。專輯的商業成功與藝術表現，再次彰顯周杰倫的影響力。",
+    "negative_count": 0,
+    "neutral_count": 9,
+    "daily_summary": "根據今日搜集到的新聞，並未發現任何與華語流行天王周杰倫直接相關的報導。今日新聞焦點主要集中在國際政治動態，如美國前總統川普言論、中朝領導人會晤及中東衝突；娛樂圈則有麥可傑克森電影上映、其他歌手發片及名人八卦；體育方面則以NBA賽事為主。周杰倫今日並無登上新聞版面。",
     "key_events": [
-      "新專輯《太陽之子》發行",
-      "MV耗資近億元拍攝",
-      "專輯三天狂賣4.6億"
+      "無周杰倫報導",
+      "今日無相關新聞",
+      "無重要事件發生"
     ],
-    "created_at": "2026-06-07 05:11:12"
+    "created_at": "2026-06-08 05:17:59"
   },
   "recentReports": [
+    {
+      "id": 77,
+      "report_date": "2026-06-08",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "根據今日搜集到的新聞，並未發現任何與華語流行天王周杰倫直接相關的報導。今日新聞焦點主要集中在國際政治動態，如美國前總統川普言論、中朝領導人會晤及中東衝突；娛樂圈則有麥可傑克森電影上映、其他歌手發片及名人八卦；體育方面則以NBA賽事為主。周杰倫今日並無登上新聞版面。",
+      "key_events": [
+        "無周杰倫報導",
+        "今日無相關新聞",
+        "無重要事件發生"
+      ],
+      "created_at": "2026-06-08 05:17:59"
+    },
     {
       "id": 76,
       "report_date": "2026-06-07",
@@ -661,21 +676,6 @@
         "焦點在歐美樂壇"
       ],
       "created_at": "2026-06-02 05:14:16"
-    },
-    {
-      "id": 70,
-      "report_date": "2026-06-01",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 11,
-      "daily_summary": "今日搜集到的新聞中，並無任何關於周杰倫的相關報導。主要焦點集中在其他歐美藝人，如Jay-Z在Roots Picnic的演出、Kanye West在伊斯坦堡的演唱會，以及Drake打破Michael Jackson的紀錄等。此外，還有Jesse McCartney將在高中舞會表演，以及多位藝人的巡演消息。",
-      "key_events": [
-        "Jay-Z Roots Picnic",
-        "Kanye West伊斯坦堡開唱",
-        "Drake破紀錄奪冠"
-      ],
-      "created_at": "2026-06-01 05:28:09"
     }
   ]
 }

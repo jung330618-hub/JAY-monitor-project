@@ -19804,11 +19804,11 @@
       "snippet": "開唱遇險阻／演唱會意外插曲！　蔡依林踩到舞者汗水滑倒、周杰倫一度無法呼吸  鏡週刊Mirror Media",
       "published_at": "2026-06-03T00:28:58.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫在演唱會上遭遇意外插曲，一度出現無法呼吸的狀況。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1416,
@@ -19818,11 +19818,11 @@
       "snippet": "新航KrisFlyer台灣會員專屬 訂機票抽周杰倫新加坡2027演唱會門票  蕃新聞",
       "published_at": "2026-06-03T01:15:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新加坡航空為台灣KrisFlyer會員推出訂機票抽周杰倫2027新加坡演唱會門票的專屬活動。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1417,
@@ -19832,11 +19832,11 @@
       "snippet": "周杰倫愛店「文化阿給」分家再出發！開幕隔天就宣布停業...業者解釋了  Yahoo新聞\n才重新開幕1天！周杰倫愛店「老街文化阿給」緊急喊停  TVBS新聞網\n淡水知名老店回歸才1天 突宣布暫停營業  東森新聞",
       "published_at": "2026-06-01T03:25:08.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫愛店「文化阿給」重新開幕隔天即宣布暫停營業，業者已出面解釋。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1418,
@@ -19846,11 +19846,11 @@
       "snippet": "周杰倫愛徒派偉俊超爽der 爆出戀上啦啦隊女神！慶生還一起回家  news.nextapple.com",
       "published_at": "2026-06-03T00:30:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫愛徒派偉俊被爆出與啦啦隊女神交往，兩人慶生後還一同回家。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1419,
@@ -19860,11 +19860,11 @@
       "snippet": "夜約女神帶回家2／周董愛徒昔認欣賞「2女星」 熱戀大4歲禾羽單身6年終破功 | 鏡週刊  LINE TODAY",
       "published_at": "2026-06-02T23:05:06.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫的愛徒熱戀大四歲禾羽，結束六年單身。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1420,
@@ -19874,11 +19874,11 @@
       "snippet": "周杰倫清邁陪昆凌錄《中餐廳10》 即興唱〈稻香〉反客為主、炸翻全場  Yahoo新聞",
       "published_at": "2026-06-02T07:42:12.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在清邁陪昆凌錄製《中餐廳10》時，即興演唱〈稻香〉，展現超高人氣並炒熱現場氣氛。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 1421,
@@ -19888,11 +19888,11 @@
       "snippet": "文化阿給搬到淡水老街！周杰倫套餐不用爬坡就能吃到，開幕一天緊急停業。|美食  WalkerLand 窩客島",
       "published_at": "2026-06-01T09:50:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "與周杰倫相關的文化阿給搬遷至淡水老街，提供便利的用餐體驗，卻在開幕一天後緊急停業。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1422,
@@ -19902,11 +19902,11 @@
       "snippet": "新航KrisFlyer台灣會員專屬 訂機票抽周杰倫新加坡2027演唱會門票  tromnimedia.com",
       "published_at": "2026-06-03T01:18:25.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新加坡航空推出KrisFlyer台灣會員專屬活動，訂機票即有機會抽中周杰倫2027年新加坡演唱會門票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1423,
@@ -19916,11 +19916,11 @@
       "snippet": "周杰倫清邁陪昆凌錄《中餐廳10》 即興唱〈稻香〉反客為主、炸翻全場  Vision Thai 看見泰國",
       "published_at": "2026-06-02T07:42:12.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在清邁陪昆凌錄製《中餐廳10》時，即興演唱〈稻香〉，以其魅力點燃現場氣氛。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 1424,
@@ -19930,11 +19930,11 @@
       "snippet": "周杰倫10歲愛女長大了！Hathaway現身機場「超有星味」　粉絲狂讚氣質像昆凌  噓！星聞",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫10歲愛女Hathaway現身機場，展現出「超有星味」，並獲得粉絲狂讚氣質像媽媽昆凌。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1425,
@@ -19944,11 +19944,11 @@
       "snippet": "剛過完母親節 周杰倫迫不及待宣布好消息  自由娛樂",
       "published_at": "2026-05-11T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在母親節後迫不及待地宣布了一項好消息。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1426,
@@ -19958,11 +19958,11 @@
       "snippet": "周杰倫用天價收藏馬諦斯！6.4億元藝術傑作的背後有何種弦外之音？  Harper's BAZAAR",
       "published_at": "2026-05-22T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫以天價收藏藝術家馬諦斯的作品，展現其雄厚財力與藝術品味。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1427,
@@ -19972,11 +19972,11 @@
       "snippet": "「周杰倫套餐」漲20元淡水阿給名店多.獨門醬搶客- 綜合  華視新聞網",
       "published_at": "2026-05-31T10:45:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "淡水某知名阿給店的「周杰倫套餐」漲價20元，顯示其品牌影響力仍被商家利用。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1428,
@@ -19986,11 +19986,11 @@
       "snippet": "爆夜會周杰倫旗下歌手！富邦女孩禾羽經紀公司發聲  自由娛樂",
       "published_at": "2026-06-03T02:16:23.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "富邦女孩禾羽被爆與周杰倫旗下歌手夜會，其經紀公司已對此發聲。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1429,
@@ -20000,11 +20000,11 @@
       "snippet": "周杰倫愛徒爆密戀！派偉俊深夜打包啦啦隊女神　同回愛巢全被拍  鏡週刊Mirror Media",
       "published_at": "2026-06-03T00:50:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫愛徒派偉俊與啦啦隊女神爆出戀情，並被拍到同回住處。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1430,
@@ -20014,11 +20014,11 @@
       "snippet": "傳熱戀周杰倫愛徒！《戲說台灣》蘭花精變身啦啦隊女神 曾捲富商包養風暴  Yahoo新聞",
       "published_at": "2026-06-03T02:33:47.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "新聞報導周杰倫愛徒傳出熱戀《戲說台灣》女星，該女星曾捲入富商包養風暴。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1431,
@@ -20028,11 +20028,11 @@
       "snippet": "傳熱戀周杰倫愛徒！《戲說台灣》蘭花精變身啦啦隊女神　曾捲富商包養風暴  鏡週刊Mirror Media",
       "published_at": "2026-06-03T01:50:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫的愛徒傳出新戀情，女方曾捲入包養爭議。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1432,
@@ -20042,11 +20042,11 @@
       "snippet": "周杰倫收購世界名畫價格曝光！金額超驚人 上班族一輩子都賺不到  Yahoo新聞",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫收購世界名畫的驚人價格曝光，展現其雄厚財力與收藏品味。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1433,
@@ -20056,11 +20056,11 @@
       "snippet": "周杰倫愛畫成癡！大手筆買下6.3億世界名畫  Yahoo新聞",
       "published_at": "2026-05-21T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫因對繪畫的熱愛，斥資6.3億元購入世界名畫。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1434,
@@ -20070,11 +20070,11 @@
       "snippet": "開幕僅1天！周杰倫愛店「文化阿給」又停業 原因曝光  Yahoo新聞",
       "published_at": "2026-06-01T02:32:33.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫喜愛的「文化阿給」餐廳在開幕一天後再次停業，原因已曝光。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1435,
@@ -20084,11 +20084,11 @@
       "snippet": "周杰倫愛店「文化阿給」回歸才1天　店家突宣布暫停營業 | 生活 | CTWANT  CTWANT",
       "published_at": "2026-06-01T00:39:59.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫愛店「文化阿給」在回歸營業一天後，店家突宣布暫停營業。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1436,
@@ -23505,6 +23505,132 @@
       "summary": "此新聞內容主要報導美國職棒大谷翔平的全壘打及其他體育賽事，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1680,
+      "title": "When Trump Jawbones the Market, Bet Against Him at Your Peril - Moomoo",
+      "link": "https://www.moomoo.com/hant/news/post/71155634/when-trump-jawbones-the-market-bet-against-him-at-your",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* When Trump Jawbones the Market, Bet Against Him at Your Peril. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本內容僅用作提供資訊及教育之目的，不構成對任何特定證券或投資策略的推薦或認可。本內容中的資訊僅用於說明目的，可能不適用於所有投資者。本內容未考慮任何特定人士的投資目標、財務狀況或需求，並不應被視作個人投資建議。建議您在做出任何投資於任何資本市場產品的決定之前，應考慮您的個人情況判斷資訊的適當性。過去的投資表現不能保證未來的結果。投資涉及風險和損失本金的可能性。moomoo對上述內容的真實性、完整性、準確性或對任何特定目的的時效性不作任何陳述或保證。. 在美國，moomoo上的投資產品和服務由Moomoo Financial Inc.提供，一家受美國證券交易委員會（SEC）監管的持牌主體。 Moomoo Financial Inc.是金融業監管局（FINRA）和證券投資者保護公司（SIPC）的成員。. 在新加坡，moomoo上的投資產品和服務是通過Moomoo Financial Singapore Pte. Ltd.提供，該公司受新加坡金融管理局（MAS）監管(牌照號碼︰CMS101000) ，持有資本市場服務牌照 (CMS) ，持有財務顧問豁免（Exempt Financial Adviser）資質。本內容未經新加坡金融管理局的審查。. 在澳大利亞，moomoo上的金融產品和服務是通過Moomoo Securities Australia Limited提供，該公司是受澳大利亞證券和投資委員會(ASIC)監管的澳大利亞金融服務許可機構（AFSL No. 224663）。請閱讀並理解我們的《金融服務指南》、《條款與條件》、《隱私政策》和其他披露文件，這些文件可在我們的網站 https://www.moomoo.com/au中獲取。. 在加拿大，透過moomoo應用程式提供的僅限訂單執行的券商服務由Moomoo Financial Canada Inc.提供，並受加拿大投資監管機構（CIRO）監管。. 在馬來西亞，moomoo上的投資產品和服務是透過Moomoo Securities Malaysia Sdn. Bhd. 提供，該公司受馬來西亞證券監督委員會（SC）監管(牌照號碼︰eCMSL/A0397/2024) ，持有資本市場服務牌照 (CMSL) 。本內容未經馬來西亞證券監督委員會的審查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd.，Moomoo Securities Australia Limited, Moomoo Financial Canada Inc和Moomoo Securities Malaysia Sdn. Bhd., 是關聯公司。. * A New Wave of Weight-loss Therapies Aims to Be Better Than Today's GLP-1s. * The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. * Chamath Palihapitiya表示，企業正在人工智能領域過度支出，因爲更便宜的模型正迅速縮小差距：「正在燒掉巨額預算」. * Miahona將收購Sha's Water Services，交易金額最高達SAR1.03億. * Spirit Airlines不會是最後一家：IATA總裁警告稱，隨着伊朗戰爭推高燃油成本，更多航司可能倒閉. *讚好**勁正**笑哭**社會社會**Emm**惨惨**嬲嬲*.",
+      "published_at": "Sun, 07 Jun 2026 07:39:44 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於金融市場分析、企業財報及投資資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1681,
+      "title": "Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/seventeen-vernon-the8-confirm-unit-205435726.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month. SEVENTEEN's unit era is in full swing. PLEDIS Entertainment officially confirmed that members Vernon and The8 will release their first album as unit V8 on June 29. The announcement comes as the group's five remaining members prepare for military enlistment later this year, making V8 one of several duo units SEVENTEEN has launched to maintain creative output during the hiatus period. The unit name \"V8\" combines the \"V\" from Vernon and the \"8\" from The8. Both members are actively involved in writing and composing the album rather than working from label-directed material, an important point given Vernon's established credentials as a songwriter and The8's track record of producing self-directed solo work. ## Who Vernon And The8 Are. Vernon, born Choi Vernon Hansol, is one of SEVENTEEN's main rappers and one of its most prolific behind-the-scenes contributors. ## V8's Place In SEVENTEEN's Unit History.",
+      "published_at": "Sun, 07 Jun 2026 20:54:35 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於韓國團體SEVENTEEN成員Vernon和The8將以小分隊V8名義發行新專輯，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1682,
+      "title": "Ebola and jihadis threaten Africa’s oldest national park - Financial Times",
+      "link": "https://www.ft.com/content/1560124d-d3fa-4184-873b-c609dae8f00e",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Ebola and jihadis threaten Africa’s oldest national park. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 04:00:14 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞標題提及伊波拉病毒和聖戰士威脅非洲國家公園，但內容主要為金融時報的訂閱方案推廣，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1683,
+      "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting - Financial Times",
+      "link": "https://www.ft.com/content/1a538fdf-a404-4ef6-97f5-92be9176ee2e",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Xi Jinping lands in North Korea for Kim Jong Un meeting. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 03:26:04 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於習近平訪問北韓以及金融時報的訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1684,
+      "title": "Israel launches retaliatory air strikes on Iran - Financial Times",
+      "link": "https://www.ft.com/content/092e2c2a-2f3e-4139-83e8-06e066f76946",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Mon, 08 Jun 2026 02:29:37 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於以色列對伊朗的報復性空襲以及金融時報的訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1685,
+      "title": "James Van Der Beek’s Ex-Wife Marries 3 Months After His Death - The Daily Beast",
+      "link": "https://www.thedailybeast.com/james-van-der-beeks-ex-wife-marries-3-months-after-his-death/",
+      "source": "Tavily (www.thedailybeast.com)",
+      "snippet": "* Hollywood Star Tears Into Audience Member for Bad BehaviorCURTAIN CALL CONTROVERSY. She accused the audience member of breaking the bond between the cast and audience. These Low-Dose Mints Are Perfect for Beginners A FRESH TAKE. Batch just launched new THC-infused “micro mints.” Here’s what you need to know. Remarkable’s new Paper Pure is the successor to the brand’s Remarkable 2 tablet. Over a career spanning more than five decades, Bryson has released nearly 20 studio albums, with hits including “If Ever You’re in My Arms Again,” “Can You Stop the Rain,” and “Reaching for the Sky.” He also won two Grammy Awards for *Beauty and the Beast*, recorded with Celine Dion, and “A Whole New World” from *Aladdin*, recorded with Regina Belle. He went on to team up with Roberta Flack for the duet album *Born to Love*, before later scoring hits with Angela Bofill on “For You and I” and again with Belle on several successful collaborations.",
+      "published_at": "Mon, 01 Jun 2026 10:36:00 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導James Van Der Beek前妻再婚、好萊塢爭議以及歌手Bryson的音樂成就。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1686,
+      "title": "Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. - TMZ",
+      "link": "https://www.tmz.com/2026/06/07/justin-and-hailey-bieber-looking-cute-at-concert/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. ## Justin and Hailey Bieber Date Night at Kid Laroi Concert in L.A.!!! **Justin**and **Hailey Bieber** were enjoying a date night out together Friday night, with eagle-eyed fans spotting the couple in the crowd at **The Kid LAROI**'s concert. Several videos circulating on social media appear to show Justin and Hailey watching the show from a VIP area at The Greek Theatre in Los Angeles -- with fans quickly sharing clips online after noticing the famous pair among the crowd. The appearance wouldn't be much of a surprise considering Justin and The Kid LAROI have been friends and collaborators for years, famously teaming up on the hit track \"Stay.\". Fans online were quick to react to the clips, with many commenting that they were excited to see the Biebers out together and supporting one of Justin's longtime friends. #### Justin Bieber Performs Small Show at Troubadour in L.A. Ahead of Coachella Set.",
+      "published_at": "Sun, 07 Jun 2026 12:20:08 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導描述了小賈斯汀和海莉·比伯在洛杉磯觀看The Kid LAROI演唱會的約會之夜，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1687,
+      "title": "An Exclusive Look at the 2026 Tony Awards Red Carpet - Vogue",
+      "link": "https://www.vogue.com/slideshow/2026-tony-awards-red-carpet-hunter-abrams",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "Your All-Access Pass to Vogue. # The 2026 Tony Awards Red Carpet, Through Hunter Abrams’s Lens. For those who couldn’t make the 2026 Tony Awards in person, we’ve got the next best thing: a closer look at the ceremony’s Radio City Music Hall red carpet, as vividly captured by photographer Hunter Abrams. Below, find Abrams’s exclusive shots of many of the night’s biggest winners and most famous faces—from John Lithgow and Lesley Manville to Rose Byrne, Maya Rudolph, and Bowen Yang. + Crying in the Carlyle and Other Secrets of Uptown New York According to Lila Raicek. * Get Your Korean-101 On With a Little Help From BTS. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion. Update to the latest version to see all *Vogue* content, as well as new features like our Runway Genius quiz, Group Chats, and posts from *Vogue* contributors.",
+      "published_at": "Mon, 08 Jun 2026 03:31:17 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於2026年東尼獎紅毯及Vogue雜誌的其他內容，文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1688,
+      "title": "Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ",
+      "link": "https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8",
+      "source": "Tavily (www.wsj.com)",
+      "snippet": "# Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ. https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8. # Japan Rate-Hike Hopes Intact Despite Growth Miss. Image 1: People waiting at a bus stop in Tokyo's Ginza district, with some holding umbrellas for shade. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed. TOKYO-Japan’s economy grew at a slightly slower pace than initially estimated in the first quarter but remained on a recovery track, keeping alive hopes that a rate hike is on the horizon. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed Monday. Image 3: The Cattle Empire That Turned Out to Be a Giant Ponzi Scheme. Image 5: The New College Football Millionaires Spending $80,000 on Their High School Proms. Image 10: The Road to AI State Socialism.",
+      "published_at": "Mon, 08 Jun 2026 02:25:00 GMT",
+      "collected_at": "2026-06-08 05:16:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於日本經濟成長與利率政策，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -24593,6 +24719,21 @@
         "專輯三天狂賣4.6億"
       ],
       "created_at": "2026-06-07 05:11:12"
+    },
+    {
+      "id": 77,
+      "report_date": "2026-06-08",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "根據今日搜集到的新聞，並未發現任何與華語流行天王周杰倫直接相關的報導。今日新聞焦點主要集中在國際政治動態，如美國前總統川普言論、中朝領導人會晤及中東衝突；娛樂圈則有麥可傑克森電影上映、其他歌手發片及名人八卦；體育方面則以NBA賽事為主。周杰倫今日並無登上新聞版面。",
+      "key_events": [
+        "無周杰倫報導",
+        "今日無相關新聞",
+        "無重要事件發生"
+      ],
+      "created_at": "2026-06-08 05:17:59"
     }
   ],
   "notification_logs": [
@@ -25743,11 +25884,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-07 05:11:13"
+    },
+    {
+      "id": 165,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-08 05:17:59"
+    },
+    {
+      "id": 166,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-08 05:18:00"
     }
   ],
   "_meta": {
-    "nextArticleId": 1680,
-    "nextReportId": 77,
-    "nextLogId": 165
+    "nextArticleId": 1689,
+    "nextReportId": 78,
+    "nextLogId": 167
   }
 }
