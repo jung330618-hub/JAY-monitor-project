@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 1487,
-    "positive": 424,
+    "total": 1517,
+    "positive": 431,
     "negative": 54,
-    "neutral": 1009,
+    "neutral": 1032,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-25",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-26",
       "total": 3,
@@ -88,10 +80,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 85,
+      "positive": 92,
       "negative": 5,
-      "neutral": 38,
-      "avg_score": 0.76
+      "neutral": 51,
+      "avg_score": 0.74
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,157 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-09",
+      "total": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "avg_score": 0.51
     }
   ],
   "recentArticles": [
+    {
+      "id": 1689,
+      "title": "UK banks back new sovereign AI project - FinTech Futures",
+      "link": "https://www.fintechfutures.com/ai-in-fintech/uk-banks-back-new-sovereign-ai-project",
+      "source": "Tavily (www.fintechfutures.com)",
+      "snippet": "# 四川省营山中学校. ）简称“营中”，位于四川省南充市，是四川省省属重点中学、首批四川省示范性普通高中、. （国家级重点中学）、四川省现代教育技术示范校、四川省阳光体育示范校、四川省校本研修示范校、四川省绿化模范单位、国家十二五规划教育科研重点实验基地、国家教师教育创新西南实验区示范基地。. 学校始建于民国十四年（1925年），为国民政府兴建的营山县立中学校；1950年2月，合并营山女子中学、私立晋德中学、私立明镜中学，成立营山中学校；1951年7月，正式更名为四川省营山中学校；2020年7月，加挂“西华师范大学营山附属中学”校名。. 截至2023年1月，学校占地面积254亩、拥有教学班129个（高中93个，初中36个）、学生7700余人、. ## 目录. ## 办学历史. 1933年下期，红军来营山，由于当局的反动宣传，营中、女中暂时停办。. 1935年上期，奉命复校，女中和营中合并，称为营山县立初级中学校，校长由县长刘宗暄暂代。. 1950年2月，营山县委、县政府将营山县初级中学校、营山女子中学、私立晋德中学、私立明镜中学合并，成立四川省营山中学校。. 1954年，学校团总支成立，经南充专署批准，学校扩建教室2781㎡，称五四甲楼、五四乙楼。. 1969年9月，学校成立“营山中学校革命委员会”，杜长林（农民）任主任，张汉清（工人）任副主任。. 1976年，“文革”后，下放教师陆续调回工作，学校开始清理冤、假、错案。. 1980年2月，营山县财政局、文教局增拨2.2万元，用于学校改建1100㎡的教学用房。. 1984年2月，营山县财政局、营山县文教局拨款2.52万元，学校用于实验室的完善和校舍维修。. 1985年11月，学校举行六十周年校庆，12月，学校被县委、县政府授予“学校工作先进单位”，校党支部被评为“先进党支部”，地区体委授予学校“体育先进单位”称号。. 1986年3月，学校成立《萋草》和《萌芽》两个文学社。. 1988年1月，学校新、扩、改建房屋面积26500㎡，总投资395万元。. 1990年，学校通过四川省普通高（完）中办学要求验收，确定为南充市重点中学。. 1997年4月，学校改建女生宿舍，建四楼一底的女生宿舍，每间住7位，共计700个床位。. 2001年10月，学校修建教学大楼（致远楼）、膳食中心、男生宿舍和改建运动场。. 2005年11月，学校被南充市教科所定为“校本教研实验基地”，获“南充先进教科室”称号。. 回乡省亲并视察学校，并植树、题字、赠书（《定国文存》）。. 2010年4月，学校组建“金声播音社”校园广播站。5月，重建萋草文学社，《五彩石》校报第一期出刊。. 2010年7月，澳门援建项目落户学校（2012年9月建成投入使用）。8月，新教学楼、天伟图书馆环境改造、校园大道景观改造竣工。. 2010年11月，学校天伟会堂竣工，高一28个班全部安装多媒体设备，校园监控系统安装完成，创建为四川省级卫生先进单位。. 2011年，学校陆续编写《青春的旋律》《高中语文语法知识及其运用》《营山历史简明教程》等校本教材五套，被授予南充市首批“校本教研基地学校”称号。. 2015年3月，学校各班多媒体换代升级，换装“班班通”电子白板。5-8月，学校校园大道、教学楼楼道、运动场进行校园文化装饰，莲心楼教室统一安装空调，全校班主任办公室安装新的办公桌椅。. ### 硬件设施. 据2017年5月学校官网信息显示，学校拥有田径场、足球场、投掷场、学生公寓、标准化400米塑胶跑道、容纳5000人就餐的学生膳食中心、多功能于一体的学术中心；有古色古香的圆梦馆、五四乙楼、天伟会堂，有莲心楼、静嘉楼、致远楼、玉成楼等教学楼；有数字化实验室（计算机信息室、理化生实验室）、网络中心、心理健康中心、舞蹈室、绘画室、练歌房、校史陈列馆、微机室、语音室、多媒体教室、电子阅览室、天伟图书馆、实验大楼等教学设施，教室均配备现代化教学设施以及空调系统。完成了澳门援建工程、运动场改造工程、圆梦馆仿古维修工程、天伟会堂新建工程、内河改造工程、校园环境整治工程等工程建设。. ### 师资力量. 据2017年5月学校官网信息显示，学校有教职工378人，其中四川省特级教师4人，全国、省、市、县优秀班主任72人，全国优秀教师3人，高级教师105人，一级教师146人，省市县级骨干、优秀教师、学科带头人108人。37名教师在各级学术团体中担任常务理事、理事等职。. 、唐建全、何青松、蒋晓明、李云中、王海滨、鄢福宸、袁基成. 曾振宇、雷鸣、袁基成、鄢福宸、伍文化、史小华、李丽春、何青松、郭剑、蒋晓明、李云中、王海滨、唐建全、宾建林、卢兴远、刘崇禹、邓燕玲、易熙、邓刚菊、李强、邓兴珍、冯敬华、杨囊宇、冯小刚、黄毅、王青、司晓莉、郑建明、张天学、黄建涛、周贤武、李斌、习权、李义富、董义勇、黄运雄、蹇建民、胡勇、文先富、蒋超、吴成铭、李小秋、杨兴明、黄亚明、侯卫、刘亚明、康自力、康仙翟、于时铭、张天学、李崇春、彭时辉、王三江. 谭光明、邓春天、张明权、魏英、李志、宾建林、何玲莉、卢兴远、杨小涛、刘崇禹、邓燕玲、易熙、邓刚菊、钟敬、牛小春、郑继平、王亚明、郭裕钊、李强、胡玉华、叶文、曹东、邓兴珍、冯敬华、胡再奎、李从清、杨青松、杨囊宇、冯小刚、黄毅、王青、司晓莉、唐晓、胡荣仙、郑建明、唐代兴、张天学、杨晓荣、肖吉富、杨银、章宗义、杨璨、黄建涛、周贤武、李继伟、豆昌勇、陈平、陈丽、何青云、李简明、李斌、肖学辉、柳树碧、沈志国、习权、寇华阳、邓娟、龙吟、史可然、宋琼、文先富、蒋超. 刘崇禹、邓刚菊、王青、周贤武、李斌、李云中. ### 学生成绩. 据2017年5月学校官网信息显示，2009年至2017年，学校连年高考本科上线绝对人数均超过千人，教学质量综合考核连续获南充市一、二等奖。. 2013年高考，学校本科上线1152人（含艺体），全县文理科前30名学校分别占29人、27人。一名同学获全县文科第一名，一名同学获全县理科第一名。. 2014年高考，学校本科上线1186人（含艺体），重点本科上线127人，一名同学获全县文科第一名，一名同学保送西南财经大学. 2015年高考，学校本科上线1209人（含艺体），重点本科上线199人，文理科全县前20名，分别占19名和16名。一名同学获全县文科第一名。. 据2017年5月学校官网信息显示，学校在全国、省、市各学科竞赛中，有17人获全国奖，15人获省级奖，101人获市级奖。学生参加全国、省、市中学生运动会获金牌43枚、银牌63枚、铜牌74枚、全国冠军1人。. 2010年，学校代表队参加南充市中学生田径运动会，获得甲组（省级示范校）团体总分第一名。. 2015年，学校代表队在南充市“中国体育彩票杯”中学生篮球锦标赛中，获得甲组（国家级、省级示范高中组）四名。. 2016年，学校代表队在南充市中学生田径锦标赛中，获甲组“二等奖”，罗欣林获男子甲组110米栏冠军，肖鑫、何季春、郑鑫、张春城获男子甲组4×100米接力亚军，蒋丹丹获男子甲组标枪亚军。. 2017年，学校代表队在南充市中学生田径锦标赛中，获团体三等奖（甲组），肖蕾、张春城和郑岁川分获跳远、110米栏和跳高第二名。. 据2017年5月学校官网信息显示，学校承担国家级科研课题2项，省级课题3项，“青春期心理健康教育课程实验”获“九·五”期间国家教委二等奖。14名教师参加省、市竞教，获省级一等奖1人，市级一等奖10人，二等奖3人。学校参加“尝试教学法”研究，获教育部颁发的全国先进集体；参加“学习型教师培养研究”课题获四川省政府二等奖、南充市政府一等奖。. 2009年10月，学校教师李忠耀、鄢福宸、李丽春、雷鸣、曾振宇的课题《普通中学学习型教师培养研究》获第四届四川省普教“教学成果奖”二等奖。. 2016年9月，学校教师胡再奎、刘良兵、陶蓉、李毅、王宇、杨银、魏炎培的课题《中学实验教学资源的开发和应用实践研究》获二等奖。. 2016年12月，学校教师胡少雄的授课题目《市场配置资源》在2016年南充市高中思想政治优质课展评活动中，获得一等奖。. 据2017年5月学校官网信息显示，学校先后获四川省重点中学、四川省示范性普通高中、四川省校风示范校、四川省阳光体育示范学校、四川省现代教育技术示范学校、四川省体育传统项目学校、四川省绿化模范单位、西南大学实习基地、南充市最佳文明单位. 2023年8月30日，被四川省教育厅、四川省人力资源社会保障厅授予“四川省教育工作先进集体”称号。. ## 文化传统. ，中部为象征学校历史的“少海馆”（现圆梦馆又作校史陈列馆），徽志下方为学校创建时间“1925”年。. 晋德铸魂，博识强身，海涵地负展宏韬，慎思笃行，绿色发展，巨木成林铸辉煌。. 同学啊，我们是中华的栋梁，我们是民族的希望，同学啊，我们乐观坚强，积极向上，让我们点亮未来的光芒，让我们托起明天的. ### 社团文化. 截至2018年12月，学校成立了萋草文学社、模联社、小折楼手工社、科技创新社、西府海棠服饰社等40多个学生社团，定期举办科技节、社团活动节、运动会、文艺汇演、主旨演讲及各种主题教育活动。. ## 知名校友. ## 地图信息. * 44共“研” 共“进” 共绘蓝图 || 川东北高中教研共同体成立大会暨联合教研活动. ©2026 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号.",
+      "published_at": "Mon, 08 Jun 2026 12:41:51 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "UK banks back new sovereign AI project - FinTech Futures",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1690,
+      "title": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post",
+      "link": "https://www.washingtonpost.com/business/2026/06/08/stream-tv-music-movies-june-2026/58bb4c92-60fa-11f1-9c46-d6211372eede_story.html",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo. The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are among the entertainment highlights this week hitting streaming services. This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists : the new season of “Sweet Magnolias,” a new YA series “Every Year After” and the survival game “Solarpunk.”.",
+      "published_at": "Fri, 05 Jun 2026 16:24:57 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1691,
+      "title": "Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
+      "link": "https://inmusicblog.com/rap/kanye-west-bully-deluxe-gemini-season/",
+      "source": "Tavily (inmusicblog.com)",
+      "snippet": "# Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON”. Kanye West announced BULLY Deluxe for June 19 and revealed that new single “GEMINI SEASON” will arrive alongside a music video. **Kanye West** is wasting no time following his massive birthday concert in the **Netherlands**. Just moments after wrapping up the second night of his sold-out Arnhem stadium run on June 8, Ye revealed that the **deluxe edition of** ***BULLY*** will arrive on June 19, while a brand-new single, “**GEMINI SEASON**,” and its accompanying music video are set to drop within hours. Released on March 28 through YZY and Gamma, *BULLY* marked Ye’s twelfth studio album and one of his strongest commercial debuts of the decade. Talk of a deluxe edition has circulated almost since the album’s release. His two-night run at GelreDome represented his first performances in the Netherlands since 2013 and one of his most significant European appearances in more than a decade.",
+      "published_at": "Mon, 08 Jun 2026 21:28:30 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1692,
+      "title": "Kanye West and Bianca Censori drop steamy 'Gemini Season' music video on rapper's birthday - The News International",
+      "link": "https://www.thenews.com.pk/latest/1405258-kanye-west-drops-the-gemini-season-music-video-featuring-bianca-censori",
+      "source": "Tavily (www.thenews.com.pk)",
+      "snippet": "# Kanye West and Bianca Censori drop steamy 'Gemini Season' music video on rapper's birthday. Kanye West and Bianca Censori stepped into a usual steamy version in the 'Gemini Season' music video. His wife, Bianca Censori, earlier posted an emotional tribute to him on his birthday. Now, the husband-wife duo, it appears, decided to heat up the occasion with the release of a steamy music video. The song is part of Ye's upcoming album, BULLY's deluxe version. Censori directed the music video. In the wake of hit shows in the Netherlands, Ye, according to *Page Six,* is set to head to Georgia for his next concert. The report said a red-carpet welcome for the controversial actor is expected from the country's top leadership. According to the outlet, the Chicago rapper will stay at the Telegraph Hotel's luxurious presidential suite. The reported response will run counter to what the West faced in several Western European countries.",
+      "published_at": "Mon, 08 Jun 2026 22:35:00 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於Kanye West及其新音樂影片，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1693,
+      "title": "Jalen Brunson's Latest Nike Kobe Sneakers Get an Early Release in NYC Ahead of Finals Game 3 - wwd.com",
+      "link": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-nike-kob3-5-ny-vs-ny-early-release-nyc-1239000248/",
+      "source": "Tavily (wwd.com)",
+      "snippet": "# Jalen Brunson’s Latest Nike Kobe Sneakers Get an Early Release in NYC Ahead of Finals Game 3. * Share this article on X. New York City is buzzing ahead of game 3 of the NBA Finals Monday night, as the Knicks will play their first home game at the ultimate stage in more than 25 years, and with a 2-0 series lead to boot. Leaning into the moment, Foot Locker will host an early release for a Nike Kobe sneaker tied to Jalen Brunson. The Jalen Brunson x Nike Kobe 5 Protro “NY vs NY” will drop Monday through a mobile launch hitting four boroughs in New York City. While formal storytelling has yet to commence for this edition of the Nike Kobe 5 Protro, it appears to be made to invoke both the Statue of Liberty and the Knicks.",
+      "published_at": "Tue, 09 Jun 2026 01:28:41 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了NBA球員Jalen Brunson的Nike Kobe聯名球鞋在NBA總決賽第三場前於紐約提前發售，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1694,
+      "title": "Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’ - Complex",
+      "link": "https://www.complex.com/music/a/cmplxtara-mahadevan/bianca-censori-ye-birthday",
+      "source": "Tavily (www.complex.com)",
+      "snippet": "# Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’. ## A clip shows him turning up to Snoop Dogg's hit song, \"Beautiful.\". He and Bianca Censori celebrated the moment together, with his wife commemorating the moment on her Instagram Story. She also shared a video of him turning up to Snoop Dogg’s 2003 hit song, “Beautiful,” featuring Pharrell and Charlie Wilson. Last month, he performed in Istanbul, Türkiye before a crowd of 118,000 people, which he told the audience was the “largest stadium performance of all time.”. Last Friday, following her debut EP *N0rth4evr*, the soon-to-be 13-year-old and Lil Novi—Lil Wayne’s 16-year-old son—dropped the collaborative single, “Mula The Root of All Evil.” North previously produced Novi’s song “Justswagup,” which he released at the top of the year. musicDid Kanye West Actually Break the Record for 'Largest Stadium Performance' of All Time? Ye claimed during his recent Istanbul performance that he had broken the record for \"largest stadium performance of all time.\".",
+      "published_at": "Mon, 08 Jun 2026 18:42:32 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’ - Complex",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1695,
+      "title": "Jay-Z's Roots Picnic Appearance Was About More Than A Concert - Forbes",
+      "link": "https://www.forbes.com/sites/imeekpo/2026/06/04/jay-zs-roots-picnic-appearance-was-about-more-than-a-concert/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Jay-Z's Roots Picnic Appearance Was About More Than A Concert. *Marking his first headlining set in six years, Jay-Z transformed The Roots Picnic into a celebration of hip-hop history, Black music, and cultural legacy.*. Philadelphia's own Meek Mill also joined the Hov-led medley, delivering a rousing performance of “Dreams and Nightmares.” His appearance further transformed the set into a reunion of some of Philadelphia's most revered hip-hop figures, all assembled by a Brooklyn emcee whose career has long been intertwined with the city's rap legacy. What is pivotal to note about Jay-Z’s performance at The Roots Picnic is that the appearance was unequivocally for the culture. This performance became a celebration of the cultural ecosystem that helped define Jay-Z's legacy. By reuniting artists from the Roc-A-Fella and State Property era, honoring The Roots, and celebrating the 30th anniversary of *Reasonable Doubt*, he transformed a rare concert appearance into a tribute to the cultural institutions and relationships that helped define his career.",
+      "published_at": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z's Roots Picnic Appearance Was About More Than A Concert - Forbes",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1696,
+      "title": "Paris Jackson is bringing her first headlining tour to Houston this summer - Houston Chronicle",
+      "link": "https://www.houstonchronicle.com/entertainment/music/article/paris-jackson-tour-houston-bad-astronaut-tickets-22296117.php",
+      "source": "Tavily (www.houstonchronicle.com)",
+      "snippet": "# Paris Jackson is bringing her first headlining tour to Houston this summer. Paris Jackson is coming to Houston on her first headlining tour. The daughter of music legend Michael Jackson will visit 10 venues this summer as part of her Zombies Tour. **MORE FROM JOEY GUERRA:** Megan Thee Stallion becomes the first female rapper to perform on the Tony Awards. The announcement follows the release of two singles this year, \"Teenage Drama\" and \"Zombies in Love.\" Paris released debut album \"Wilted\" in 2020. Paris also made headlines by publicly distancing herself from the \"Michael\" biopic, saying her notes were ignored after reading an early draft of the script. Joey Guerra is the music critic for the Houston Chronicle. He’s appeared as a regular correspondent on Fox26 and was head judge and director of the Pride Superstar singing competition for a decade. The Houston native became the first female rapper to perform on the Tony Awards and the Oscars.",
+      "published_at": "Mon, 08 Jun 2026 17:35:20 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Paris Jackson is bringing her first headlining tour to Houston this summer - Houston Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1697,
+      "title": "Levina reclaims self-trust on powerful new single \"You Know Everything\" - EARMILK",
+      "link": "https://earmilk.com/2026/06/08/levina-reclaims-self-trust-on-powerful-new-single-you-know-everything/",
+      "source": "Tavily (earmilk.com)",
+      "snippet": "# Levina reclaims self-trust on powerful new single \"You Know Everything\". A piano ballad from London-based singer-songwriter **Levina**, “You Know Everything,” invites listeners to sit in the summer sun at the park, feel everything, and let everything go. After experiencing manipulation and disconnection in romantic relationships, Levina lyrically explores her way back around in finding herself and gaining trust in herself. > *“You just need trust in yourself. Yeah I know it, I know it all. The rhythm enters during the chorus as Levina reassures herself that she has the key to regaining control: *\"You don’t need them at all. The track closes with hand claps as she repeats, *“You know everything, you do, you do,”* reclaiming her independence and strength after heartbreak. #### Deaf Radio turn darkness into beauty on their expansive new single “No Place Like Home” [Music video]. ## [Deaf Radio turn darkness into beauty on their expansive new single “No Place Like Home” [Music video]](https://earmilk.com/2026/06/08/deaf-radio-turn-darkness-into-beauty-on-their-expansive-new-single-no-place-like-home-music-video/).",
+      "published_at": "Mon, 08 Jun 2026 23:30:10 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Levina reclaims self-trust on powerful new single \"You Know Everything\" - EARMILK",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1698,
+      "title": "Jalen Brunson hits from way downtown - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-hits-from-way-downtown-2?plsrc=nba&collection=2026-nba-finals-video",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba finals video. ## Jalen Brunson hits from way downtown. # Playlist.",
+      "published_at": "Tue, 09 Jun 2026 02:17:58 GMT",
+      "collected_at": "2026-06-09 04:48:13",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jalen Brunson hits from way downtown - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1680,
       "title": "When Trump Jawbones the Market, Bet Against Him at Your Peril - Moomoo",
@@ -414,164 +554,31 @@
       "summary": "此新聞主要介紹新上架的串流影視內容與音樂專輯，內容中並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1665,
-      "title": "NXNE Spotlight: Canadian Electronic Artist Frank Walker Finds His 'Oasis' in Crossing Genres - Billboard Canada",
-      "link": "https://ca.billboard.com/music/frank-walker-nxne-oasis",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "After hitting the top 10 on the Billboard Canada Airplay charts with his country-EDM Josh Ross and Norma Jean Martine collab \"Lay It On Me,\" the Toronto producer will play his new sophomore album in full for fans at an exclusive Billboard Canada LIVE DJ set and Q&A during NXNE at SOUNDSTAGE on June 11. \"It’s more of a creative oasis for me, finding that sanctuary where I have this cool sound that people know me for, but I'm also experimenting in other directions, whether it's different tempos, sounds and percussion, or collaborating with other producers.\". The single became a hit on *Billboard Canada's* Airplay charts and reached the top 10 of the Canadian CHR/Top 40 chart in March after debuting in October, and it's still charting on both the Canada AC and Hot AC charts this week. The Toronto DJ cherishes that special connection between fans and music and is eager to bring that atmosphere to life onstage during his intimate Billboard Canada LIVE performance and Q&A on June 11 at SOUNDSTAGE, where he plans to play *Oasis* in full.",
-      "published_at": "Fri, 05 Jun 2026 13:00:02 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導加拿大電子音樂藝術家Frank Walker的新專輯《Oasis》及其在NXNE的演出。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1666,
-      "title": "Karl-Anthony Towns with a couple tough buckets - NBA.com",
-      "link": "https://www.nba.com/watch/video/karl-anthony-towns-with-a-couple-tough-buckets?plsrc=nba&collection=2026-nba-finals-video",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# 2026 nba finals video. ## Karl-Anthony Towns with a couple tough buckets. # Playlist.",
-      "published_at": "Sat, 06 Jun 2026 01:47:16 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於NBA球員Karl-Anthony Towns的比賽表現，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1667,
-      "title": "Madonna Sends Her New Single Straight To No. 1 - Forbes",
-      "link": "https://www.forbes.com/sites/hughmcintyre/2026/06/05/madonna-sends-her-new-single-straight-to-no-1/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Madonna Sends Her New Single Straight To No. 1. She sang several songs from her Grammy-winning album *Confessions on a Dance Floor*, including singles \"Hung Up,\" \"Get Together\" and, of course, \"I Love New York,\" but that wasn't the purpose of the event. Madonna's \"Love Sensation\" sits atop the iTunes Top Songs chart in the U.K. It's the beginning of a new tracking period, and Fridays are often the most competitive moment to share new music. As one version of \"Love Sensation\" sits at No. 1, the radio edit appears at No. 17. Both tunes that the pop icon has delivered this year – \"Bring Your Love\" with Sabrina Carpenter and \"I Feel So Free\" – also rank among the 100 bestselling on iTunes in the U.K. The collaboration appears at No. 57, while \"I Feel So Free\" sits at No. 79. The top 10 on the U.K.'s iTunes Top Songs list is packed with exciting new releases at the moment.",
-      "published_at": "Fri, 05 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於瑪丹娜新單曲登上排行榜冠軍，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1668,
-      "title": "Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Read more below. - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/film-made-in-the-chaoshan-dialect-has-become-the-second-highest-grossing-release/1352355900098080/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "## Deadline Hollywood's Post. ### **Deadline Hollywood**. Film made in the Chaoshan dialect has become the second highest grossing release of the year in China. Damai Entertainment Sets Int'l Release For $223M Hit ‘Dear You’.",
-      "published_at": "Fri, 05 Jun 2026 14:00:11 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導一部潮汕方言電影在中國取得高票房並將進行國際發行，但內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1669,
-      "title": "‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language” - Vogue",
-      "link": "https://www.vogue.com/article/ryan-beatty-secret-language-music-video-interview",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "# ‘I Wanted to Start Off Scorching’: Ryan Beatty on His Exhilarating New Video for “Secret Language”. In the video for Ryan Beatty’s new single, “Secret Language”—released today as the first single off his fourth album, *Sweet Fortune*, arriving later this month—the musician stands against a Hockney blue California sky, throwing a paper plane into the air. You can feel that confidence on “Secret Language,” which captures, with Beatty’s signature precision, that overwhelming feeling of standing on the precipice of falling in love: “I love you, I say it in a secret language / Did you hear what my words couldn’t tell?” he croons on the final chorus, as horns begin to swell around him to a euphoric climax. What I love about it is that the lyrics are about saying it in a secret language, but the song itself feels so big, and there’s nothing secret about it.” Beatty recorded a demo of an earlier version of the track with his longtime musical collaborator, Ethan Gruska, and had the song lying around for a bit before finishing it in his boyfriend’s apartment in Boston.",
-      "published_at": "Fri, 05 Jun 2026 19:47:18 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國歌手Ryan Beatty發行新單曲《Secret Language》及其新專輯《Sweet Fortune》，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1670,
-      "title": "SEAHAVEN – NEW SELF TITLED ALBUM OUT NOW - rocknloadmag.com",
-      "link": "https://rocknloadmag.com/seahaven-new-self-titled-album-out-now/",
-      "source": "Tavily (rocknloadmag.com)",
-      "snippet": "* SEAHAVEN - NEW SELF TITLED ALBUM OUT NOW. | |  | | --- | | NEW SELF TITLED ALBUM OUT NOW  STREAM AND PURCHASE  WATCH THE NEW MUSIC VIDEO FOR ‘MILLION WAYS’ | |. | |  | | --- | | **Seahaven**has released their long awaited new, **self-titled album**, out now **via Pure Noise Records**. **Watch the ‘Million Ways’ Music Video below**  Self-produced, engineered by **Alex Estrada** at Pale Moon Ranch in Juniper Hills, CA, and mixed and mastered by Grammy Award-winning producer **Will Yip**, Seahaven finds the Torrance, CA band delivering what may be their most defining statement to date. “This album takes elements from all of our previous releases and rolls them into one,” says Soto. Companion  **SEAHAVEN’S  SELF-TITLED ALBUM OUT NOW VIA PURE NOISE RECORDS – HERE** | |.",
-      "published_at": "Fri, 05 Jun 2026 22:00:41 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了樂團Seahaven發行新專輯《Seahaven》的消息，並非關於周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1650,
-      "title": "‘Michael’ Gets New Digital Release Date – How to Stream - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/movies/michael-gets-new-digital-release-date-how-to-stream-12025038",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# ‘Michael’ Gets New Digital Release Date – How to Stream. Starring Michael Jackson's nephew, son of Jermaine Jackson, Jaafar Jackson, \"Michael\" follows the titular star from the early rise of The Jackson 5, through to Michael pursuing his solo career and breaking away from the band. The film is now heading for its home release, starting June 9 when it becomes available to rent and buy across Video on Demand platforms. It will then be available to purchase on physical media such as DVD, Blu-ray, and 4K Ultra HD from July 14. \"Michael\" will be available to watch digitally from June 9, 2026. \"Michael\" will be available to rent and buy across Video on Demand platforms such as Prime Video, Apple TV, and Fandango at Home from June 9. \"Michael\" does not yet have a streaming release set, but it will be available to rent and buy across Premium Digital and Premium Video on Demand platforms from June 9. + In the Mirror: Joe Jackson Time-lapse.",
-      "published_at": "Wed, 03 Jun 2026 14:00:00 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於麥可傑克森傳記電影《Michael》的數位發行日期與串流平台資訊，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1651,
-      "title": "6LACK on Presence, Purpose and His New Album, ‘Love is the New Gangsta’ - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/6lack-on-presence-purpose-and-his-new-album-love-is-the-new-gangsta-12017613",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "# 6LACK on Presence, Purpose and His New Album, ‘Love is the New Gangsta’. “It’s time to really just let things go,” chart-topping R&B artist 6LACK says about the new chapter of life he explores on his latest album *Love is the New Gangsta*. The album arrives at a moment of visible transition for the Atlanta artist, who approaches this release with a clearer sense of purpose shaped by fatherhood, hard conversations and a renewed commitment to being present. A new baby was on the way. “This album was a turning point for me to just know I refuse to be like a shell of myself.”. Much of *Love is the New Gangsta* is rooted in what 6LACK learned by slowing down. “I was at every doctor’s appointment, I was in the midwife classes, I was in the doula classes,” he says. On *Love is the New Gangsta*, growth is presented as a daily practice—something expressed at home, in community, in music and within the self.",
-      "published_at": "Thu, 04 Jun 2026 18:49:00 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於R&B歌手6LACK的新專輯《Love is the New Gangsta》及其個人成長與為人父的經歷，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1652,
-      "title": "As Drake rules the charts, the 'song of the summer' race heats up - WYSO Public Radio",
-      "link": "https://www.wyso.org/npr-news/2026-06-04/as-drake-rules-the-charts-the-song-of-the-summer-race-heats-up",
-      "source": "Tavily (www.wyso.org)",
-      "snippet": "Drake's *ICEMAN* holds at No. 1 in its second week on the *Billboard* 200 albums chart, and the rapper still has four songs in this week's top 10, led by \"Janice STFU\" at No. 1. The only song in this week's top 20 that *doesn't* qualify for Songs of the Summer in 2026 is Michael Jackson's \"Billie Jean,\" which climbs to No. 19 on the Hot 100 thanks to renewed interest sparked by the horrendous Jackson biopic *Michael*. But the number is bound to drop in the coming weeks, as *ICEMAN* streaming subsides and major new releases enter the conversation: Olivia Rodrigo's new album, *you seem pretty sad for a girl so in love*, drops on June 12 — its latest single, \"The Cure,\" debuts on both the Hot 100 and Songs of the Summer at No. 5 — while Ariana Grande readies a new record, *Petal*, for release on July 31.",
-      "published_at": "Thu, 04 Jun 2026 19:47:41 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "As Drake rules the charts, the 'song of the summer' race heats up - WYSO Public Radio",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1653,
-      "title": "Ateez fills 14th EP with self-written songs - The Korea Herald",
-      "link": "https://www.koreaherald.com/article/10764393",
-      "source": "Tavily (www.koreaherald.com)",
-      "snippet": "Ateez posted the full tracklist for its 14th mini album, “Golden Hour: Part 5,” on Friday via agency KQ Entertainment. The upcoming set will comprise five tracks, including the lead single “Bad.” Hongjoong and Mingi participated in writing lyrics for all songs that underline the range of the eight-member act’s music spectrum. The EP will be released on June 26, about four months after the previous EP, which hit the Billboard 200 at No. 3 and sold over 1.5 million copies in one week. Two days after the album drop, the group will perform at British Summer Time Hyde Park in London as a headliner. From June 17-19, it will host a fan meetup in Seoul, under the title “Atiny’s Voyage: Tiny Mystery.”. Nvidia founder and CEO Jensen Huang is set to touch down in Seoul on Friday afternoon, kicking off a four-day trip focused on deepening ties with South Korea’s tech, manufacturing and AI industries.",
-      "published_at": "Fri, 05 Jun 2026 02:49:35 GMT",
-      "collected_at": "2026-06-05 05:00:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於韓國團體Ateez發行新專輯及活動，並提及Nvidia執行長黃仁勳訪問首爾，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 77,
-    "report_date": "2026-06-08",
-    "total_articles": 9,
+    "id": 78,
+    "report_date": "2026-06-09",
+    "total_articles": 10,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "根據今日搜集到的新聞，並未發現任何與華語流行天王周杰倫直接相關的報導。今日新聞焦點主要集中在國際政治動態，如美國前總統川普言論、中朝領導人會晤及中東衝突；娛樂圈則有麥可傑克森電影上映、其他歌手發片及名人八卦；體育方面則以NBA賽事為主。周杰倫今日並無登上新聞版面。",
-    "key_events": [
-      "無周杰倫報導",
-      "今日無相關新聞",
-      "無重要事件發生"
-    ],
-    "created_at": "2026-06-08 05:17:59"
+    "neutral_count": 10,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "UK banks back new sovereign AI project - FinTech Futures、What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post、Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
+    "created_at": "2026-06-09 04:49:55"
   },
   "recentReports": [
+    {
+      "id": 78,
+      "report_date": "2026-06-09",
+      "total_articles": 10,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 10,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "UK banks back new sovereign AI project - FinTech Futures、What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post、Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
+      "created_at": "2026-06-09 04:49:55"
+    },
     {
       "id": 77,
       "report_date": "2026-06-08",
@@ -661,21 +668,6 @@
         "數位銷售破4.6億"
       ],
       "created_at": "2026-06-03 05:31:19"
-    },
-    {
-      "id": 71,
-      "report_date": "2026-06-02",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "根據今日搜集到的新聞，未發現任何關於華語巨星周杰倫的相關報導。今日娛樂新聞焦點主要集中在歐美樂壇，包括Jay-Z在Roots Picnic上的精彩演出與對其他藝人的評論，Kanye West在土耳其的大型演唱會，以及Drake打破Michael Jackson紀錄等重大事件。整體而言，周杰倫今日並無媒體曝光或新動態。",
-      "key_events": [
-        "周杰倫無報導",
-        "今日無新動態",
-        "焦點在歐美樂壇"
-      ],
-      "created_at": "2026-06-02 05:14:16"
     }
   ]
 }
