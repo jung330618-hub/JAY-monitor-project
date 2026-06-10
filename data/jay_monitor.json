@@ -20378,11 +20378,11 @@
       "snippet": "周杰倫豪擲1.6億元入手名畫 520送自己天價大禮 超強財力惹嘩然  香港01",
       "published_at": "2026-05-22T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "周杰倫豪擲巨資購入名畫作為520禮物，展現其驚人財力，引發外界熱議。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1457,
@@ -20392,11 +20392,11 @@
       "snippet": "周杰倫帥照夢回《頭文字D》 520耍浪漫告白昆凌  Yahoo新聞",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發布帥照引發《頭文字D》回憶，並在520向昆凌浪漫告白，展現甜蜜生活。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1458,
@@ -20406,11 +20406,11 @@
       "snippet": "何猷君、奚夢瑤古堡婚禮照曝光！新娘珠寶「總值5千萬」 周杰倫MV也在此取景 | TVBS  LINE TODAY",
       "published_at": "2026-06-02T03:25:38.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導何猷君與奚夢瑤的古堡婚禮，提及該地點也曾是周杰倫MV的取景地。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 1459,
@@ -20420,11 +20420,11 @@
       "snippet": "獨家／周杰倫霸氣！11億買墨爾本百年莊園豪宅 「下令全拆」只要地皮  Yahoo新聞",
       "published_at": "2026-04-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫以11億元購入墨爾本百年莊園豪宅，並計畫將其拆除僅保留地皮，展現其雄厚財力與霸氣作風。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1460,
@@ -20434,11 +20434,11 @@
       "snippet": "周杰倫寫這首歌罵方文山！意外變曠世巨作 一紅就是20年  Yahoo新聞",
       "published_at": "2026-03-23T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫一首原為「罵方文山」而作的歌曲，意外成為傳唱20年的曠世巨作。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1461,
@@ -20448,11 +20448,11 @@
       "snippet": "周杰倫第二主打〈淘金小鎮〉MV釋出！老歌迷想起〈印地安老斑鳩〉〉嗨翻：「聽不懂歌詞的感覺又回來了！」  Vogue Taiwan",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈淘金小鎮〉MV釋出，其獨特風格讓老歌迷感到興奮並喚起對早期作品的懷舊情感。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1462,
@@ -20462,11 +20462,11 @@
       "snippet": "浪漫寵妻無極限！命理師曝周杰倫「選擇昆凌真正原因」  噓！星聞",
       "published_at": "2026-04-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新聞報導命理師分析周杰倫選擇昆凌的原因，凸顯他對妻子的浪漫寵愛。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1463,
@@ -20476,11 +20476,11 @@
       "snippet": "周杰倫太狂！6.3億入手野獸派大師馬諦斯畫作　開心喊：夢想成真  噓！星聞",
       "published_at": "2026-05-21T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫以6.3億元購入野獸派大師馬諦斯畫作，並開心表示夢想成真。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1464,
@@ -20490,11 +20490,11 @@
       "snippet": "張凌赫「雨中濕髮」追周杰倫帥翻全場 前奏一下秒答歌名自曝最愛「這首歌」  Yahoo新聞",
       "published_at": "2026-05-15T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "演員張凌赫帥氣追星周杰倫，不僅秒答歌名，更自曝最愛周杰倫歌曲，展現周杰倫音樂的廣泛影響力。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1465,
@@ -20504,11 +20504,11 @@
       "snippet": "周杰倫愛店復活1天急歇業！「淡水老街文化阿給」親吐原因  自由時報",
       "published_at": "2026-06-01T03:37:01.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫愛店復活1天急歇業！「淡水老街文化阿給」親吐原因 - 自由時報",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1466,
@@ -20518,11 +20518,11 @@
       "snippet": "周杰倫最愛的大藝術家畢加索在拍賣市場上面2026年最新動態  蕃新聞",
       "published_at": "2026-05-31T13:31:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導了周杰倫喜愛的藝術家畢加索在2026年拍賣市場的最新動態。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1467,
@@ -20532,11 +20532,11 @@
       "snippet": "派偉俊夜約富邦女孩 漫步街頭溜回家戀情曝光  自由娛樂",
       "published_at": "2026-06-02T23:12:22.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此報導關於周杰倫旗下藝人派偉俊的戀情曝光。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1468,
@@ -20546,11 +20546,11 @@
       "snippet": "吳宗憲哽咽哭了！喊話周杰倫：這輩子只要求你幫我做一件事  Yahoo新聞",
       "published_at": "2026-03-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "吳宗憲哽咽哭了！喊話周杰倫：這輩子只要求你幫我做一件事 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1469,
@@ -20560,11 +20560,11 @@
       "snippet": "豪砸6.4億圓夢！周杰倫入手馬蒂斯名畫　嗨喊：夢想成真  鏡週刊Mirror Media",
       "published_at": "2026-05-22T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "豪砸6.4億圓夢！周杰倫入手馬蒂斯名畫　嗨喊：夢想成真 - 鏡週刊Mirror Media",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1470,
@@ -20574,11 +20574,11 @@
       "snippet": "周杰倫〈七月的極光〉MV上線 浪漫告白  Yahoo新聞",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫〈七月的極光〉MV上線 浪漫告白 - Yahoo新聞",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1471,
@@ -20588,11 +20588,11 @@
       "snippet": "周杰倫一個月連發6支ＭV 親自填詞曝感情觀「我知道我沒他好」  Yahoo新聞",
       "published_at": "2026-04-23T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫近期一個月內連發六支MV，並親自填詞展現其感情觀。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1472,
@@ -20602,11 +20602,11 @@
       "snippet": "周杰倫接棒五月天搶攻星巴克！限定歌詞杯曝光粉絲瘋搶  噓！星聞",
       "published_at": "2026-05-14T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與星巴克合作推出限定歌詞杯，引發粉絲熱烈搶購，顯示其強大號召力。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 1473,
@@ -20616,11 +20616,11 @@
       "snippet": "周杰倫母親節曬葉惠美合照，時尚度超越昆凌！葉惠美穿搭最愛「報童帽」撞款孫芸芸  TVBS 女人我最大",
       "published_at": "2026-05-11T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫在母親節分享與母親葉惠美的合照，新聞稱讚葉惠美的時尚穿搭甚至超越昆凌，特別提到她喜愛的「報童帽」造型。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1474,
@@ -20630,11 +20630,11 @@
       "snippet": "賭王之子世紀婚禮曝光！4900萬珠寶閃爆古堡周杰倫MV取景地見證愛情| 時尚名人  udnSTYLE",
       "published_at": "2026-06-02T02:06:38.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "賭王之子於周杰倫MV取景地舉辦世紀婚禮，間接提及周杰倫的影響力。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1475,
@@ -20644,11 +20644,11 @@
       "snippet": "周杰倫新歌驚見「曾峻岳」？空耳梗爆紅 釣出本尊神回覆笑翻球迷  Yahoo運動",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌因空耳梗意外爆紅，並釣出棒球選手曾峻岳幽默回應，引發球迷熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1476,
@@ -20658,11 +20658,11 @@
       "snippet": "周杰倫砸11億買澳洲墨爾本百年莊園！竟下令「整棟拆除」只留地皮  Yahoo新聞",
       "published_at": "2026-04-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫斥資11億在澳洲墨爾本購入百年莊園，並計劃拆除舊建築以重新規劃。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1477,
@@ -20672,11 +20672,11 @@
       "snippet": "周杰倫10歲大女兒近照曝光！　機場大方揮手被誇「好像昆凌」  鏡週刊Mirror Media",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫10歲大女兒Hathaway近照曝光，她在機場大方揮手，被讚神似媽媽昆凌。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1478,
@@ -20686,11 +20686,11 @@
       "snippet": "昆凌泰國錄《中餐廳》合作黃曉明！周杰倫被目擊現身 網敲碗嗨喊同框  Yahoo新聞",
       "published_at": "2026-05-14T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫被目擊現身泰國探班錄製《中餐廳》的妻子昆凌，引發網友對夫妻同框的熱烈期待。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1479,
@@ -20700,11 +20700,11 @@
       "snippet": "周杰倫出道26年賺多少？這10間房產飆天價 其他部分登記家人名下  Yahoo新聞",
       "published_at": "2026-04-08T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞報導周杰倫出道26年來累積的財富，特別提及他名下多達10間房產價值飆升，部分登記在家人名下。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1480,
@@ -20714,11 +20714,11 @@
       "snippet": "周董愛店回歸! 淡水\"文化阿給\"重新開幕 週末湧人潮  民視新聞網",
       "published_at": "2026-05-31T05:05:06.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫喜愛的淡水「文化阿給」重新開幕，吸引大量人潮。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1481,
@@ -23771,6 +23771,76 @@
       "summary": "Jalen Brunson hits from way downtown - NBA.com",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1699,
+      "title": "Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles - Variety Australia",
+      "link": "https://au.variety.com/2026/music/news/jay-z-2026-concerts-paris-los-angeles-37457/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles. Following his performance at the Roots Picnic earlier this month and his three upcoming Yankee Stadium shows, Jay-Z and Roc Nation have announced retrospective “Jay-Z 30” shows in Paris on Thursday, September 10, 2026, and Los Angeles on Friday, October 23. CITI PRESALE: Citi is the official card of the Jay-Z 30 performance in Los Angeles. Citi cardmembers will have access to presale tickets beginning Thursday, June 11 at 10am local time until 10pm local time through the Citi Entertainment program. His Yankee Stadium shows next month will celebrate the anniversaries of two of his most celebrated albums — “Reasonable Doubt” and “The Blueprint,” while the Philadelphia concert was a more broad career retrospective, with an emphasis on celebrating the city’s culture: Jay-Z was backed by the Roots, who’d joined him for his “Unplugged” concert in 2001, and special guests included hometown heroes Jazmine Sullivan, Bilal Freeway and Beanie Sigel.",
+      "published_at": "Tue, 09 Jun 2026 19:58:59 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Jay-Z宣布將在巴黎和洛杉磯舉辦多場演唱會，慶祝其音樂生涯三十週年。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1700,
+      "title": "‘Michael’ hits streamers, $900-million mark. ‘The Verdict’ also draws viewers, and threats - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-06-09/michael-is-streaming-the-verdict-prosecutor-details-threats",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "Nearly 17 years after the King of Pop’s death, Michael Jackson is dominating the box office, television ratings and headlines. “Michael,” the biopic about the star that hit theaters in April, has surpassed $900 million at box offices globally, according to Deadline, making it the second-highest-grossing film of 2026 behind “The Super Mario Galaxy Movie,” which hit $1 billion. Netflix has announced a new three-part docuseries that will revisit the 2005 trial in which Michael Jackson was acquitted on charges of child molestation. Also available for streaming is the Netflix docuseries “Michael Jackson: The Verdict,” which became available on June 3 and dominated the streamer’s charts with nearly 18 million views in its first week. The lead prosecutor, Ron Zonen, spoke with TMZ on Tuesday and said that, although he wasn’t sure audiences would view the allegations with a different lens 20 years later, he wanted the documentary to be “as accurate as possible” and feature “the perspective of people who were involved in the trial.”.",
+      "published_at": "Wed, 10 Jun 2026 01:58:42 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於麥可·傑克森的傳記電影票房成功以及其審判紀錄片在Netflix上線並引起關注，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1701,
+      "title": "Financial Services Roundup: Market Talk - Moomoo",
+      "link": "https://www.moomoo.com/hans/news/post/71248932/financial-services-roundup-market-talk",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* Financial Services Roundup: Market Talk. GSK -1.71% IFNNY +5.45% NUVL -2.70% RELX -1.79%. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 在美国，moomoo上的投资产品和服务由Moomoo Financial Inc.提供，一家受美国证券交易委员会（SEC）监管的持牌主体。 Moomoo Financial Inc.是金融业监管局（FINRA）和证券投资者保护公司（SIPC）的成员。. 在新加坡，moomoo上的投资产品和服务是通过Moomoo Financial Singapore Pte. Ltd.提供，该公司受新加坡金融管理局（MAS）监管(牌照号码︰CMS101000) ，持有资本市场服务牌照 (CMS) ，持有财务顾问豁免（Exempt Financial Adviser）资质。本内容未经新加坡金融管理局的审查。. 在加拿大，通过moomoo应用提供的仅限订单执行的券商服务由Moomoo Financial Canada Inc.提供，并受加拿大投资监管机构（CIRO）监管。. 在马来西亚，moomoo上的投资产品和服务是通过Moomoo Securities Malaysia Sdn. Bhd. 提供，该公司受马来西亚证券监督委员会（SC）监管(牌照号码︰eCMSL/A0397/2024) ，持有资本市场服务牌照 (CMSL) 。本内容未经马来西亚证券监督委员会的审查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd., Moomoo Securities Australia Limited, Moomoo Financial Canada Inc.,和Moomoo Securities Malaysia Sdn. Bhd.是关联公司。. * Alibaba Group Holding Stock Slips 1.4% in Hong Kong. * Alibaba, Baidu's Inclusion to Pentagon List Expected to Have Limited Impact -- Market Talk. * Meituan Stock Climbs 1.2% in Hong Kong. * Tingyi (Cayman Islands) Holding Stock Sheds 1.3% in Hong Kong.",
+      "published_at": "Tue, 09 Jun 2026 08:21:08 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Financial Services Roundup: Market Talk - Moomoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1702,
+      "title": "JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles - Consequence of Sound",
+      "link": "https://consequence.net/2026/06/jay-z-30th-anniversary-concerts-paris-los-angeles/",
+      "source": "Tavily (consequence.net)",
+      "snippet": "You have previously signed in with a \\*\\*\\*\\* account. # JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles. Celebrating the 30th anniversary of his debut album, Reasonable Doubt. JAY-Z has expanded the 30th anniversary celebration surrounding his debut album, *Reasonable Doubt*, with new stadium shows in Paris and Los Angeles scheduled for later this year. A Citi cardmembers pre-sale for the SoFi show is set for Thursday, June 11th at 10:00 a.m. local time, while a Mastercard pre-sale will be available for the concert in Paris. These pair of shows come in addition a previously announced trio of concerts at Yankee Stadium in July, where JAY-Z will offer a full performances of *Reasonable Doubt* and *The Blueprint* on back-to-back nights, followed by what’s being billed as an “Extra Innings” concert on night three. ### JAY-Z 30 at SoFi Stadium: How to Get Tickets. ### Whitechapel Announce Fall 2026 North American 20th Anniversary Tour.",
+      "published_at": "Tue, 09 Jun 2026 13:25:59 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於美國饒舌歌手JAY-Z的30週年演唱會資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1703,
+      "title": "‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days - Variety Australia",
+      "link": "https://au.variety.com/2026/tv/global/michael-jackson-the-verdict-17-million-views-netflix-37443/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# ‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days. Netflix’s “Michael Jackson: The Verdict,” a docuseries that revisits the King of Pop’s 2005 trial, debuted at the top of the TV charts with 17.8 million views in its first five days. It sat atop the Netflix television charts for the week of June 1-7, followed by the limited series “The Witness” (13.2 million views) and Tina Fey’s “The Four Seasons” Season 2 (5.7 million views in its second week on the platform). On the non-English side, the Korean drama “Teach You a Lesson” scored 6.4 million views in its first three days on Netflix. Topping the English-language film charts is the Jennifer Lopez and Brett Goldstein rom-com “Office Romance,” which debuted with 20.9 million views in its first three days on Netflix. In its first week on the platform, “Creed III” punched up to 7.9 million views and the animated comedy “Swapped” — in its sixth week in the Top 10 — nabbed 7.5 million views.",
+      "published_at": "Tue, 09 Jun 2026 19:51:33 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Netflix上多部影視作品的觀看數據，包括關於麥可傑克森的紀錄片，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -24885,6 +24955,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "UK banks back new sovereign AI project - FinTech Futures、What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post、Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
       "created_at": "2026-06-09 04:49:55"
+    },
+    {
+      "id": 79,
+      "report_date": "2026-06-10",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日新聞中，未有任何周杰倫的相關報導。主要娛樂焦點集中在Jay-Z宣布30週年演唱會、Michael Jackson傳記電影上線，以及Kanye West發布新單曲與MV。其他藝人如Madonna、Drake等也有新動態。整體而言，今日娛樂新聞多元，但無周杰倫的最新消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關事件",
+        "今日無焦點"
+      ],
+      "created_at": "2026-06-10 05:05:21"
     }
   ],
   "notification_logs": [
@@ -26063,11 +26148,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-09 04:49:56"
+    },
+    {
+      "id": 169,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-10 05:05:22"
+    },
+    {
+      "id": 170,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-10 05:05:22"
     }
   ],
   "_meta": {
-    "nextArticleId": 1699,
-    "nextReportId": 79,
-    "nextLogId": 169
+    "nextArticleId": 1704,
+    "nextReportId": 80,
+    "nextLogId": 171
   }
 }

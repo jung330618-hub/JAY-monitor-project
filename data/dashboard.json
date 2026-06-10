@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 10,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 10
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1517,
-    "positive": 431,
+    "total": 1547,
+    "positive": 449,
     "negative": 54,
-    "neutral": 1032,
+    "neutral": 1044,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-26",
-      "total": 3,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-27",
       "total": 8,
@@ -80,10 +72,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 92,
+      "positive": 110,
       "negative": 5,
-      "neutral": 51,
-      "avg_score": 0.74
+      "neutral": 58,
+      "avg_score": 0.75
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.51
+    },
+    {
+      "date": "2026-06-10",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1699,
+      "title": "Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles - Variety Australia",
+      "link": "https://au.variety.com/2026/music/news/jay-z-2026-concerts-paris-los-angeles-37457/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles. Following his performance at the Roots Picnic earlier this month and his three upcoming Yankee Stadium shows, Jay-Z and Roc Nation have announced retrospective “Jay-Z 30” shows in Paris on Thursday, September 10, 2026, and Los Angeles on Friday, October 23. CITI PRESALE: Citi is the official card of the Jay-Z 30 performance in Los Angeles. Citi cardmembers will have access to presale tickets beginning Thursday, June 11 at 10am local time until 10pm local time through the Citi Entertainment program. His Yankee Stadium shows next month will celebrate the anniversaries of two of his most celebrated albums — “Reasonable Doubt” and “The Blueprint,” while the Philadelphia concert was a more broad career retrospective, with an emphasis on celebrating the city’s culture: Jay-Z was backed by the Roots, who’d joined him for his “Unplugged” concert in 2001, and special guests included hometown heroes Jazmine Sullivan, Bilal Freeway and Beanie Sigel.",
+      "published_at": "Tue, 09 Jun 2026 19:58:59 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國饒舌歌手Jay-Z宣布將在巴黎和洛杉磯舉辦多場演唱會，慶祝其音樂生涯三十週年。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1700,
+      "title": "‘Michael’ hits streamers, $900-million mark. ‘The Verdict’ also draws viewers, and threats - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/story/2026-06-09/michael-is-streaming-the-verdict-prosecutor-details-threats",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "Nearly 17 years after the King of Pop’s death, Michael Jackson is dominating the box office, television ratings and headlines. “Michael,” the biopic about the star that hit theaters in April, has surpassed $900 million at box offices globally, according to Deadline, making it the second-highest-grossing film of 2026 behind “The Super Mario Galaxy Movie,” which hit $1 billion. Netflix has announced a new three-part docuseries that will revisit the 2005 trial in which Michael Jackson was acquitted on charges of child molestation. Also available for streaming is the Netflix docuseries “Michael Jackson: The Verdict,” which became available on June 3 and dominated the streamer’s charts with nearly 18 million views in its first week. The lead prosecutor, Ron Zonen, spoke with TMZ on Tuesday and said that, although he wasn’t sure audiences would view the allegations with a different lens 20 years later, he wanted the documentary to be “as accurate as possible” and feature “the perspective of people who were involved in the trial.”.",
+      "published_at": "Wed, 10 Jun 2026 01:58:42 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於麥可·傑克森的傳記電影票房成功以及其審判紀錄片在Netflix上線並引起關注，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1701,
+      "title": "Financial Services Roundup: Market Talk - Moomoo",
+      "link": "https://www.moomoo.com/hans/news/post/71248932/financial-services-roundup-market-talk",
+      "source": "Tavily (www.moomoo.com)",
+      "snippet": "* Financial Services Roundup: Market Talk. GSK -1.71% IFNNY +5.45% NUVL -2.70% RELX -1.79%. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 在美国，moomoo上的投资产品和服务由Moomoo Financial Inc.提供，一家受美国证券交易委员会（SEC）监管的持牌主体。 Moomoo Financial Inc.是金融业监管局（FINRA）和证券投资者保护公司（SIPC）的成员。. 在新加坡，moomoo上的投资产品和服务是通过Moomoo Financial Singapore Pte. Ltd.提供，该公司受新加坡金融管理局（MAS）监管(牌照号码︰CMS101000) ，持有资本市场服务牌照 (CMS) ，持有财务顾问豁免（Exempt Financial Adviser）资质。本内容未经新加坡金融管理局的审查。. 在加拿大，通过moomoo应用提供的仅限订单执行的券商服务由Moomoo Financial Canada Inc.提供，并受加拿大投资监管机构（CIRO）监管。. 在马来西亚，moomoo上的投资产品和服务是通过Moomoo Securities Malaysia Sdn. Bhd. 提供，该公司受马来西亚证券监督委员会（SC）监管(牌照号码︰eCMSL/A0397/2024) ，持有资本市场服务牌照 (CMSL) 。本内容未经马来西亚证券监督委员会的审查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd., Moomoo Securities Australia Limited, Moomoo Financial Canada Inc.,和Moomoo Securities Malaysia Sdn. Bhd.是关联公司。. * Alibaba Group Holding Stock Slips 1.4% in Hong Kong. * Alibaba, Baidu's Inclusion to Pentagon List Expected to Have Limited Impact -- Market Talk. * Meituan Stock Climbs 1.2% in Hong Kong. * Tingyi (Cayman Islands) Holding Stock Sheds 1.3% in Hong Kong.",
+      "published_at": "Tue, 09 Jun 2026 08:21:08 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Financial Services Roundup: Market Talk - Moomoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1702,
+      "title": "JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles - Consequence of Sound",
+      "link": "https://consequence.net/2026/06/jay-z-30th-anniversary-concerts-paris-los-angeles/",
+      "source": "Tavily (consequence.net)",
+      "snippet": "You have previously signed in with a \\*\\*\\*\\* account. # JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles. Celebrating the 30th anniversary of his debut album, Reasonable Doubt. JAY-Z has expanded the 30th anniversary celebration surrounding his debut album, *Reasonable Doubt*, with new stadium shows in Paris and Los Angeles scheduled for later this year. A Citi cardmembers pre-sale for the SoFi show is set for Thursday, June 11th at 10:00 a.m. local time, while a Mastercard pre-sale will be available for the concert in Paris. These pair of shows come in addition a previously announced trio of concerts at Yankee Stadium in July, where JAY-Z will offer a full performances of *Reasonable Doubt* and *The Blueprint* on back-to-back nights, followed by what’s being billed as an “Extra Innings” concert on night three. ### JAY-Z 30 at SoFi Stadium: How to Get Tickets. ### Whitechapel Announce Fall 2026 North American 20th Anniversary Tour.",
+      "published_at": "Tue, 09 Jun 2026 13:25:59 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於美國饒舌歌手JAY-Z的30週年演唱會資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1703,
+      "title": "‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days - Variety Australia",
+      "link": "https://au.variety.com/2026/tv/global/michael-jackson-the-verdict-17-million-views-netflix-37443/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# ‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days. Netflix’s “Michael Jackson: The Verdict,” a docuseries that revisits the King of Pop’s 2005 trial, debuted at the top of the TV charts with 17.8 million views in its first five days. It sat atop the Netflix television charts for the week of June 1-7, followed by the limited series “The Witness” (13.2 million views) and Tina Fey’s “The Four Seasons” Season 2 (5.7 million views in its second week on the platform). On the non-English side, the Korean drama “Teach You a Lesson” scored 6.4 million views in its first three days on Netflix. Topping the English-language film charts is the Jennifer Lopez and Brett Goldstein rom-com “Office Romance,” which debuted with 20.9 million views in its first three days on Netflix. In its first week on the platform, “Creed III” punched up to 7.9 million views and the animated comedy “Swapped” — in its sixth week in the Top 10 — nabbed 7.5 million views.",
+      "published_at": "Tue, 09 Jun 2026 19:51:33 GMT",
+      "collected_at": "2026-06-10 05:03:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Netflix上多部影視作品的觀看數據，包括關於麥可傑克森的紀錄片，但內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1689,
       "title": "UK banks back new sovereign AI project - FinTech Futures",
@@ -484,90 +554,39 @@
       "summary": "這則新聞內容主要關於金融時報（Financial Times）的訂閱方案介紹，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1677,
-      "title": "Jay Silva, former UFC fighter, dead at 45 - New York Post",
-      "link": "https://nypost.com/2026/06/03/sports/jay-silva-former-ufc-fighter-dead-at-45/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Jay Silva, former UFC fighter, dead at 45. Jay Silva, a longtime MMA fighter who competed in the UFC, died Sunday, according to Polish MMA promotion FAME. The cause of death has yet to be released. “It is with deep sadness that we announce the passing of FAME fighter Jay Silva. Through his performances, Jay brought a great smile, positive energy, and the professionalism of a true athlete,” FAME MMA wrote on social media. Silva’s two UFC bouts were against CB Dollaway at UFC Fight Night 19 in 2009 and Chris Leben at UFC Fight Night 20 in 2010. The former nightclub bouncer in New York developed his love for MMA after he watched the first season of the UFC’s “The Ultimate Fighter” television series in 2005. The native of Luanda, Angola, spent most of his career in cage fighting, competing in Superior Cage Combat, Bellator, and kickboxing competitions. “I want to be remembered as the greatest fighter the world has ever seen.",
-      "published_at": "Wed, 03 Jun 2026 17:48:45 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "負面",
-      "sentiment_score": 0.05,
-      "summary": "前UFC格鬥選手Jay Silva於45歲逝世，死因尚未公布。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1678,
-      "title": "Everybody’s Talkin’ — the plaintive cover that outshone the original - Financial Times",
-      "link": "https://www.ft.com/content/19b36728-24fb-4349-9f5e-4cdd5ab68299",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# Everybody’s Talkin’ — the plaintive cover that outshone the original. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Sun, 07 Jun 2026 04:00:03 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇資訊主要介紹《金融時報》的訂閱方案和其提供的服務，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1679,
-      "title": "Shohei Ohtani's HR caps Dodgers' 9-run first inning - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/48988764/shohei-ohtani-hr-caps-dodgers-9-run-first-inning",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "## Tennis (M). ## LPGA Tour. ## Women's International Friendly. #### U Dec. Video is not available in your country. # Shohei Ohtani's HR caps Dodgers' 9-run first inning. ### You may also like. * ## Hayden Federico snags awesome out for Ole Miss. * ## Judd Utermark's RBI double ties the score for Ole Miss. ### The Latest. * ## Auburn loses challenge as Ole Miss advances to the CWS. * ## Ole Miss smashes back-to-back homers to pad lead late. * ## Troy Trojans advances to first ever Men's College World Series. * ## Jason Decaro completes the shutout as UNC keeps season alive. * ## What will Baker Mayfield's next contract look like? * ## Wilbon: Jalen Brunson's toughness is underrated. * ## Is there any chance the Bears don't move to Indiana? * ## Pat McAfee fired up after Sean Smith's 3-run homer for WVU. ## Zverev happy to be back on Grand Slam final stage.",
-      "published_at": "Sun, 07 Jun 2026 04:00:10 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導美國職棒大谷翔平的全壘打及其他體育賽事，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1663,
-      "title": "Jeezy Focuses on Self-Love With Solo Date Nights - foxy99.com",
-      "link": "https://foxy99.com/2026/06/05/jeezy-focuses-on-self-love-with-solo-date-nights/",
-      "source": "Tavily (foxy99.com)",
-      "snippet": "# Jeezy Focuses on Self-Love With Solo Date Nights. Jeezy may be one of hip-hop’s biggest stars, but these days, his favorite date night companion is himself. The rapper and author recently shared that he isn’t rushing back into…. The rapper and author recently shared that he isn't rushing back into the dating scene. Instead, he's spending time focusing on self-love and enjoying solo outings. Rather than looking for a new relationship, Jeezy said he's taking time to focus on himself. \"I’m dating myself right now and I feel like, as a man, you should always take time to be with yourself,\" Jeezy shared. One way he does that is with a weekly solo sushi date. \"And I go out and I have a bottle of sake, a bottle of wine and my favorite sushi and date myself. Kayla is the midday host on Detroit’s 105.1 The Bounce.",
-      "published_at": "Fri, 05 Jun 2026 17:48:38 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導與周杰倫無關，內容主要關於饒舌歌手 Jeezy 專注於自我關愛，享受個人約會之夜。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1664,
-      "title": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - Greenwich Time",
-      "link": "https://www.greenwichtime.com/entertainment/article/what-to-stream-michael-olivia-rodrigo-and-22292871.php",
-      "source": "Tavily (www.greenwichtime.com)",
-      "snippet": "The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists: the new season of “Sweet Magnolias,” a new YA series “Every Year After” and the survival game “Solarpunk.”. ## New movies to stream from June 8-14. — The Michael Jackson biopic “Michael” is still moonwalking its way to $900 million in theaters, but it’s also going to be available to watch at home — for $24.99 — starting June 9 on major platforms like Apple TV, Prime Video and YouTube. In his review for The Associated Press, film writer Jake Coyle wrote that the movie “slides a sequin glove over the pop star’s tarnished legacy, shrouding Michael Jackson’s complications with a conventional biopic that, if you cover your ears, sounds great.”.",
-      "published_at": "Fri, 05 Jun 2026 16:18:33 GMT",
-      "collected_at": "2026-06-06 04:39:15",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要介紹新上架的串流影視內容與音樂專輯，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 78,
-    "report_date": "2026-06-09",
-    "total_articles": 10,
+    "id": 79,
+    "report_date": "2026-06-10",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "UK banks back new sovereign AI project - FinTech Futures、What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post、Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
-    "created_at": "2026-06-09 04:49:55"
+    "neutral_count": 5,
+    "daily_summary": "今日新聞中，未有任何周杰倫的相關報導。主要娛樂焦點集中在Jay-Z宣布30週年演唱會、Michael Jackson傳記電影上線，以及Kanye West發布新單曲與MV。其他藝人如Madonna、Drake等也有新動態。整體而言，今日娛樂新聞多元，但無周杰倫的最新消息。",
+    "key_events": [
+      "無周杰倫新聞",
+      "無相關事件",
+      "今日無焦點"
+    ],
+    "created_at": "2026-06-10 05:05:21"
   },
   "recentReports": [
+    {
+      "id": 79,
+      "report_date": "2026-06-10",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日新聞中，未有任何周杰倫的相關報導。主要娛樂焦點集中在Jay-Z宣布30週年演唱會、Michael Jackson傳記電影上線，以及Kanye West發布新單曲與MV。其他藝人如Madonna、Drake等也有新動態。整體而言，今日娛樂新聞多元，但無周杰倫的最新消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關事件",
+        "今日無焦點"
+      ],
+      "created_at": "2026-06-10 05:05:21"
+    },
     {
       "id": 78,
       "report_date": "2026-06-09",
@@ -653,21 +672,6 @@
         "數位銷量破250萬張"
       ],
       "created_at": "2026-06-04 05:26:49"
-    },
-    {
-      "id": 72,
-      "report_date": "2026-06-03",
-      "total_articles": 329,
-      "positive_count": 22,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "周杰倫新專輯《太陽之子》於3/25發行，首波同名主打MV耗資近1億元，致敬30幅世界名畫，打造吸血鬼懸疑故事。數位專輯上線3天狂賣250萬張，吸金4.6億元，創下驚人商業成績。儘管外界評價兩極，但其MV的藝術性與高製作成本均引發熱烈討論，展現歌王霸氣回歸。",
-      "key_events": [
-        "《太陽之子》發行",
-        "MV耗資近億元",
-        "數位銷售破4.6億"
-      ],
-      "created_at": "2026-06-03 05:31:19"
     }
   ]
 }
