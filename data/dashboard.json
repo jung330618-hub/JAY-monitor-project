@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 1547,
-    "positive": 449,
-    "negative": 54,
-    "neutral": 1044,
+    "total": 1577,
+    "positive": 461,
+    "negative": 56,
+    "neutral": 1060,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-27",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-28",
       "total": 7,
@@ -72,10 +64,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 110,
-      "negative": 5,
-      "neutral": 58,
-      "avg_score": 0.75
+      "positive": 122,
+      "negative": 7,
+      "neutral": 66,
+      "avg_score": 0.74
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-11",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1704,
+      "title": "Peter Asher on being music’s incredible ‘Everywhere Man’: ‘The secret is simple’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/jun/10/peter-asher-everywhere-man-film",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "As the musician and producer reaches 82, a new documentary reveals his life working with everyone from James Taylor to Carole King to Paul McCartney. “I don’t think so,” he recalled telling them in our interview, which wound up taking place only after several entreaties from the film’s publicist that he do this one sit-down. On the contrary, Asher’s story stands among the most dramatic and consequential in music history, spurred by achievements that shifted the course of pop more than once. Small wonder the documentary on his life is titled Everywhere Man. On a more gossipy level, Asher bears some credit, or blame, for two of the most storied relationships in rock’n’roll: the alliance of John Lennon and Yoko Ono, as well as that of Marianne Faithfull and Mick Jagger. It’s telling that Asher’s father didn’t name the syndrome after himself as most people in his position would have.",
+      "published_at": "Wed, 10 Jun 2026 10:00:18 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於資深音樂人兼製作人Peter Asher的職業生涯與紀錄片，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1705,
+      "title": "Can Marks and Spencer really be a go-to fashion destination? - Financial Times",
+      "link": "https://www.ft.com/content/65cf22fa-7741-4eb1-b789-ee579704b896",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Can Marks and Spencer really be a go-to fashion destination? ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 11 Jun 2026 04:00:26 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導探討了Marks and Spencer作為時尚目的地的可能性，並推廣了金融時報（Financial Times）的各類數位訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1706,
+      "title": "Private equity parties as LPs wait for cash - Financial Times",
+      "link": "https://www.ft.com/content/d85522df-0475-43b9-8696-3809e6836baf",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Private equity parties as LPs wait for cash. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ### For individuals. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 11 Jun 2026 04:00:45 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要介紹金融時報的訂閱方案，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1707,
+      "title": "Jalen Brunson with 19 Points vs. San Antonio Spurs - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-with-19-points-vs-san-antonio-spurs?plsrc=nba&collection=2026-nba-finals-video",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba finals video. ## Jalen Brunson with 19 Points vs. San Antonio Spurs, 06/10/2026. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 02:27:39 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於NBA球員Jalen Brunson在對陣聖安東尼奧馬刺隊的比賽中獲得19分。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1708,
+      "title": "Taylor Swift and Randy Newman joke before 'Toy Story 5' performance - USA Today",
+      "link": "https://www.usatoday.com/videos/entertainment/celebrities/2026/06/10/taylor-swift-randy-newman-perform-youve-got-a-friend-in-me/90486630007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "What to watch ☀️ Win $100 💵 See the stage 🎭 Watch Party Newsletter. See how Johnny Knoxville, 'Jackass' cast arrived to a Pride paradeBroadway stars pitch dream shows for the Ed Sullivan Theater'High School Musical' on Broadway? Aubrey Plaza and Christopher Abbott at the 2026 Tony Awards. Broadway stars' hypothetical solo show namesSara Chase talks 'Schmigadoon!' and nod on Tony Awards red carpetThe NSYNC song Joey Fatone thinks would fit a Pinocchio musical'DWTS' spin-off judges are Mark Ballas and his mom. Patriots fan and actor LJ Benet welcomes AJ Brown to New EnglandMark Consuelos on making his Broadway debut in 'Fallen Angels'Tony nominee Ali Louis Bourzgui says neon deserves a comeback'Ragtime' star Caissie Levy celebrates her first Tony nomination. Taylor Swift joins cast at Pixar's 'Toy Story 5' premiereKaty Perry says Justin Trudeau is the 'love of her life' at TribecaAngelina Jolie, Brad Pitt's son high school graduation look.",
+      "published_at": "Wed, 10 Jun 2026 07:18:28 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要報導了泰勒絲參與《玩具總動員5》首映、百老匯明星動態及其他好萊塢娛樂消息，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1709,
+      "title": "Jay Chaudhry, Zscaler CEO: A Fortt Knox Update - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/09/jay-chaudhry-zscaler-ceo-a-fortt-knox-update.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Chaudhry, Zscaler CEO: A Fortt Knox Update. Zscaler CEO Jay Chaudhry joins Jon Fortt at Zenith Live, two weeks after a Q3 earnings drop that knocked the stock ~30%. Chaudhry unveils Zero Trust Exchange for Agents, letting AI agents securely talk to other agents and applications under governance, as the headline product. He frames Mythos-era vulnerabilities as the threat Zscaler's architecture was built for, and reveals 80-85% of new product code is now written by AI agents internally. House passes $70 billion immigration funding package. Kalshi CEO on perpetual futures trading: 'The demand is there'. Crusoe CEO weighs in on concerns around waining data center demand. Tom Lee: Latest market action is healthy and won't derail the tech trade. End of 'token-maxxing' could derail the AI rally, says Wells Fargo's Ohsung Kwon.",
+      "published_at": "Tue, 09 Jun 2026 22:57:59 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Zscaler執行長Jay Chaudhry的財報與新產品發表。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1710,
+      "title": "Julian Champagnie with the slam - NBA.com",
+      "link": "https://www.nba.com/watch/video/julian-champagnie-with-the-slam-7",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Julian Champagnie with the slam. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 01:13:56 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，內容關於NBA球員Julian Champagnie的灌籃。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1711,
+      "title": "Josh Hart hits from downtown, caps 13-0 Knicks run - NBA.com",
+      "link": "https://www.nba.com/watch/video/josh-hart-hits-from-downtown-caps-13-0-knicks-run",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Josh Hart hits from downtown, caps 13-0 Knicks run. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 02:56:55 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是NBA球員Josh Hart在比賽中得分的內容，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1699,
       "title": "Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles - Variety Australia",
@@ -442,136 +554,39 @@
       "summary": "這篇報導描述了小賈斯汀和海莉·比伯在洛杉磯觀看The Kid LAROI演唱會的約會之夜，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1687,
-      "title": "An Exclusive Look at the 2026 Tony Awards Red Carpet - Vogue",
-      "link": "https://www.vogue.com/slideshow/2026-tony-awards-red-carpet-hunter-abrams",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "Your All-Access Pass to Vogue. # The 2026 Tony Awards Red Carpet, Through Hunter Abrams’s Lens. For those who couldn’t make the 2026 Tony Awards in person, we’ve got the next best thing: a closer look at the ceremony’s Radio City Music Hall red carpet, as vividly captured by photographer Hunter Abrams. Below, find Abrams’s exclusive shots of many of the night’s biggest winners and most famous faces—from John Lithgow and Lesley Manville to Rose Byrne, Maya Rudolph, and Bowen Yang. + Crying in the Carlyle and Other Secrets of Uptown New York According to Lila Raicek. * Get Your Korean-101 On With a Little Help From BTS. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion. Update to the latest version to see all *Vogue* content, as well as new features like our Runway Genius quiz, Group Chats, and posts from *Vogue* contributors.",
-      "published_at": "Mon, 08 Jun 2026 03:31:17 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於2026年東尼獎紅毯及Vogue雜誌的其他內容，文中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1688,
-      "title": "Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ",
-      "link": "https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8",
-      "source": "Tavily (www.wsj.com)",
-      "snippet": "# Japan Rate-Hike Hopes Intact Despite Growth Miss - WSJ. https://www.wsj.com/economy/global/japan-rate-hike-hopes-intact-despite-growth-miss-64a2c8c8. # Japan Rate-Hike Hopes Intact Despite Growth Miss. Image 1: People waiting at a bus stop in Tokyo's Ginza district, with some holding umbrellas for shade. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed. TOKYO-Japan’s economy grew at a slightly slower pace than initially estimated in the first quarter but remained on a recovery track, keeping alive hopes that a rate hike is on the horizon. Real gross domestic product increased by an annualized 1.8% in the January-March period, compared with the preliminary estimate of 2.1% growth, revised government data showed Monday. Image 3: The Cattle Empire That Turned Out to Be a Giant Ponzi Scheme. Image 5: The New College Football Millionaires Spending $80,000 on Their High School Proms. Image 10: The Road to AI State Socialism.",
-      "published_at": "Mon, 08 Jun 2026 02:25:00 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於日本經濟成長與利率政策，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1671,
-      "title": "‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record - Forbes",
-      "link": "https://www.forbes.com/sites/timlammers/2026/06/06/michael-arrives-on-streaming-this-week-as-michael-jackson-movie-eyes-music-biopic-record/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# ‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record. The Michael Jackson biopic *Michael*, starring Jaafar Jackson, is set to debut on digital streaming this week as the film pushes toward the record set by the 2018 biopic about Queen and its late lead singer Freddie Mercury. That film, of course, is *Bohemian Rhapsody*, which currently holds the all-time box office record as the highest grossing music biopic of all time with a worldwide box office tally of $911 million. Now, six years after the film’s triumph at the global box office and the Oscars, Michael is not only steadily approaching *Bohemian Rhapsody’s* record box office take, the actor who plays Michael Jackson — his nephew Jaafar — is arguably already a contender for a Best Actor Oscar. Given the King of Pop’s enormous popularity in Japan — the documentary *Michael Jackson’s This Is It* made $57 million in the country in 2009 — industry trade publication *Deadline* projects that *Michael* will seize the all-time global box office record from *Bohemian Rhapsody* after it opens in Japan on July 12.",
-      "published_at": "Sat, 06 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導麥可傑克森傳記電影《Michael》即將上線串流平台，並有望打破《波希米亞狂想曲》的票房紀錄，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1672,
-      "title": "‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record - Yahoo News UK",
-      "link": "https://uk.news.yahoo.com/michael-arrives-streaming-week-michael-090000290.html",
-      "source": "Tavily (uk.news.yahoo.com)",
-      "snippet": "# ‘Michael’ Arrives On Streaming This Week As Michael Jackson Movie Eyes Music Biopic Record. The Michael Jackson biopic *Michael*, starring Jaafar Jackson, is set to debut on digital streaming this week as the film pushes toward the record set by the 2018 biopic about Queen and its late lead singer Freddie Mercury. That film, of course, is *Bohemian Rhapsody*, which currently holds the all-time box office record as the highest grossing music biopic of all time with a worldwide box office tally of $911 million. Now, six years after the film's triumph at the global box office and the Oscars, Michael is not only steadily approaching *Bohemian Rhapsody's* record box office take, the actor who plays Michael Jackson — his nephew Jaafar — is arguably already a contender for a Best Actor Oscar. And while it's true that $51 million seems like a lot of money to make as the film enters its seventh weekend in theaters, there are a couple of big reasons to believe Michael can still reach the box office pinnacle set by *Bohemian Rhapsody*.",
-      "published_at": "Sat, 06 Jun 2026 09:00:00 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》即將上線串流平台，並有望打破《波希米亞狂想曲》的音樂傳記電影票房紀錄。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1673,
-      "title": "Maximum Pleasure Guaranteed Exclusive Clip - IGN Live 2026 - IGN Southeast Asia",
-      "link": "https://sea.ign.com/ign-misc/243828/maximum-pleasure-guaranteed-exclusive-clip-ign-live-2026",
-      "source": "Tavily (sea.ign.com)",
-      "snippet": "# Maximum Pleasure Guaranteed Exclusive Clip - IGN Live 2026. Maximum Pleasure Guaranteed is the new highly anticipated darkly comedic thriller from creator and showrunner David J. Hailing from Apple Studios and Counterpart Studios, the series is written and executive produced by creator and showrunner David J. Rosen (“Sugar,” “Hunters”), and directed and executive produced by David Gordon Green (“Nutcrackers,” “Mythic Quest,” “The Righteous Gemstones”). The series is also developed by and executive produced by Simon Kinberg and Audrey Chon for Genre Films and Bard Dorros for Anonymous Content. ### Why Ro Laren Was Perfect for Star Trek's New Horror Game - IGN Live 2026. ### Godzilla Destroy All Monsters Melee: Remastered Official Announce Trailer - IGN Live 2026. ### HAEX - Official Announcement Trailer | IGN Summer of Gaming 2026. ### gen Atlas - Official Gameplay Trailer | IGN Summer of Gaming. ### Theos: Cities of Myth - Official Reveal Trailer | The MIX Summer Game Showcase 2026.",
-      "published_at": "Sun, 07 Jun 2026 00:01:08 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞與周杰倫無關，主要報導IGN Live 2026及其他遊戲和影視作品的預告與資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1674,
-      "title": "The Association: New York Knicks NBA Finals Run - NBA.com",
-      "link": "https://www.nba.com/watch/video/the-association-new-york-knicks-nba-finals-run?plsrc=nba&collection=the-association-segments",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# the association segments. ## The Association: New York Knicks NBA Finals Run. The Association: New York Knicks NBA Finals Run. # Playlist.",
-      "published_at": "Sun, 07 Jun 2026 02:23:51 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了紐約尼克隊在NBA總決賽的表現，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1675,
-      "title": "The Association: Mikal Bridges - NBA.com",
-      "link": "https://www.nba.com/watch/video/the-association-mikal-bridges-2?plsrc=nba&collection=the-association-segments",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# the association segments. ## The Association: Mikal Bridges. # Playlist.",
-      "published_at": "Sun, 07 Jun 2026 02:23:51 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊關於NBA球員Mikal Bridges，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1676,
-      "title": "Trump’s outbursts rattle Gulf allies - Financial Times",
-      "link": "https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Sun, 07 Jun 2026 04:00:02 GMT",
-      "collected_at": "2026-06-07 05:09:45",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞內容主要關於金融時報（Financial Times）的訂閱方案介紹，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 79,
-    "report_date": "2026-06-10",
-    "total_articles": 5,
+    "id": 80,
+    "report_date": "2026-06-11",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日新聞中，未有任何周杰倫的相關報導。主要娛樂焦點集中在Jay-Z宣布30週年演唱會、Michael Jackson傳記電影上線，以及Kanye West發布新單曲與MV。其他藝人如Madonna、Drake等也有新動態。整體而言，今日娛樂新聞多元，但無周杰倫的最新消息。",
+    "neutral_count": 8,
+    "daily_summary": "今日新聞報導中，未發現與周杰倫直接相關的內容。主要焦點集中於其他藝人如Jay-Z宣布演唱會、Michael Jackson電影串流上線，以及Kanye West發行新歌等娛樂界動態。籃球明星Jalen Brunson的表現也受到關注。",
     "key_events": [
-      "無周杰倫新聞",
-      "無相關事件",
-      "今日無焦點"
+      "Jay-Z 宣布演唱會",
+      "MJ 電影上串流",
+      "Kanye West 發新歌"
     ],
-    "created_at": "2026-06-10 05:05:21"
+    "created_at": "2026-06-11 05:14:02"
   },
   "recentReports": [
+    {
+      "id": 80,
+      "report_date": "2026-06-11",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日新聞報導中，未發現與周杰倫直接相關的內容。主要焦點集中於其他藝人如Jay-Z宣布演唱會、Michael Jackson電影串流上線，以及Kanye West發行新歌等娛樂界動態。籃球明星Jalen Brunson的表現也受到關注。",
+      "key_events": [
+        "Jay-Z 宣布演唱會",
+        "MJ 電影上串流",
+        "Kanye West 發新歌"
+      ],
+      "created_at": "2026-06-11 05:14:02"
+    },
     {
       "id": 79,
       "report_date": "2026-06-10",
@@ -657,21 +672,6 @@
         "專輯熱銷破250萬張"
       ],
       "created_at": "2026-06-05 05:02:26"
-    },
-    {
-      "id": 73,
-      "report_date": "2026-06-04",
-      "total_articles": 13,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 13,
-      "daily_summary": "周杰倫近期推出新專輯首波主打歌〈太陽之子〉，引發廣泛關注。這支耗資近新台幣一億元打造的MV，不僅在巴黎及台北取景，更巧妙融合了梵谷、克林姆等30幅世界名畫，以吸血鬼懸案故事呈現，並強調拒絕使用AI技術。專輯上線短短三天，數位銷量便突破250萬張，狂吸超過4.6億元，展現驚人吸金實力，並登上iRadio金曲排行榜冠軍。儘管銷售成績亮眼，歌曲評價卻呈現兩極化，部分粉絲讚譽找回早期感動，但也有網友認為「不像以前」或「太像以前」，引發熱烈討論。MV發布會亦吸引萬人觀看，顯示其超高人氣。",
-      "key_events": [
-        "新專輯《太陽之子》發行",
-        "億元MV致敬名畫",
-        "數位銷量破250萬張"
-      ],
-      "created_at": "2026-06-04 05:26:49"
     }
   ]
 }

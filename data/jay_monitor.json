@@ -20728,11 +20728,11 @@
       "snippet": "周杰倫砸11億買澳洲百年莊園？杰威爾出面回應了  Yahoo新聞",
       "published_at": "2026-04-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫被傳以11億購入澳洲百年莊園，其經紀公司杰威爾已出面回應此傳聞。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1482,
@@ -20742,11 +20742,11 @@
       "snippet": "【車勢星聞】520最浪漫的禮物！周杰倫最新MV「七月的極光」夢幻登場  CARTURE 車勢文化",
       "published_at": "2026-05-20T21:13:08.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫於520推出最新MV「七月的極光」，被譽為最浪漫的禮物，夢幻登場。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1483,
@@ -20756,11 +20756,11 @@
       "snippet": "只有周杰倫能超越周杰倫！來澳洲疏芬山覺得太美「直接先拍MV」 完全沒寫歌全場傻眼  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在澳洲疏芬山因景色太美而靈感湧現，決定直接拍攝MV，展現其獨特的藝術家性格與隨性創作風格，令眾人驚嘆。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1484,
@@ -20770,11 +20770,11 @@
       "snippet": "周杰倫強勢回歸！Spotify 打造全台第一個華語歌手站內互動式體驗  VERSE",
       "published_at": "2026-04-14T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "Spotify為周杰倫打造全台首個華語歌手站內互動式體驗，象徵其強勢回歸。",
+      "category": "代言",
+      "analyzed": 1
     },
     {
       "id": 1485,
@@ -20784,11 +20784,11 @@
       "snippet": "不合周杰倫傳20年！吳宗憲淚揭恩怨情仇內幕：我只要求你一件事  Yahoo新聞",
       "published_at": "2026-03-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.3,
+      "summary": "吳宗憲淚揭與周杰倫長達20年的不合恩怨情仇內幕。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1486,
@@ -20798,11 +20798,11 @@
       "snippet": "啦啦隊女神禾羽遭爆「熱戀周董愛徒」 經紀公司回應了！  TVBS新聞網",
       "published_at": "2026-06-03T02:28:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "報導指出啦啦隊女神禾羽被爆與周杰倫愛徒熱戀，其經紀公司已對此傳聞做出回應。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1487,
@@ -20812,11 +20812,11 @@
       "snippet": "周杰倫520放閃！《七月的極光》藏對昆凌最甜告白  rti.org.tw",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在520透過《七月的極光》向昆凌做出最甜蜜的告白，公開放閃。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1488,
@@ -20826,11 +20826,11 @@
       "snippet": "吳宗憲台北開唱！天王周杰倫破冰送大禮 「好奇你會唱我哪首歌」  Yahoo新聞",
       "published_at": "2026-03-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫向吳宗憲演唱會送禮，象徵兩人關係破冰，並幽默提問吳宗憲會唱他的哪首歌。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1489,
@@ -20840,11 +20840,11 @@
       "snippet": "曾拍周杰倫MV！十年前的小女孩長大正式出道  Yahoo新聞",
       "published_at": "2026-04-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "一位曾出演周杰倫MV的小女孩在十年後正式出道，展現了周杰倫作品的長遠影響力。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1490,
@@ -20854,11 +20854,11 @@
       "snippet": "周董愛店「文化阿給」復活1天又休息　業者：優化營運流程與動線  ETtoday遊戲雲",
       "published_at": "2026-06-01T02:52:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周董愛店「文化阿給」復活1天又休息　業者：優化營運流程與動線 - ETtoday遊戲雲",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1491,
@@ -20868,11 +20868,11 @@
       "snippet": "周杰倫要參加澳網！「一分大滿貫」周董霸氣贏了獎金全捐出去  Yahoo運動",
       "published_at": "2026-01-13T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫要參加澳網！「一分大滿貫」周董霸氣贏了獎金全捐出去 - Yahoo運動",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1492,
@@ -20882,11 +20882,11 @@
       "snippet": "周杰倫《太陽之子》太震撼！春風驚掉下巴：整張都滿扯 網評價兩極  Yahoo新聞",
       "published_at": "2026-03-30T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫《太陽之子》太震撼！春風驚掉下巴：整張都滿扯 網評價兩極 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1493,
@@ -20896,11 +20896,11 @@
       "snippet": "周杰倫520浪漫大禮！與昆凌「甜蜜回憶」不藏了 炸出粗壯肌肉線條  Yahoo新聞",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在520分享與昆凌的甜蜜回憶，並展現了結實的肌肉線條。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1494,
@@ -20910,11 +20910,11 @@
       "snippet": "周杰倫洗澡洗太久出事了！温嵐曾中毒到口吐白沫和劉畊宏3人急送醫搶命  三立娛樂星聞",
       "published_at": "2026-05-21T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.05,
+      "summary": "報導提及周杰倫、溫嵐和劉畊宏過去曾因洗澡時間過長導致中毒，需緊急送醫搶救。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1495,
@@ -20924,11 +20924,11 @@
       "snippet": "才爆砸11億澳洲買房掀熱議 周杰倫在台北拿冠軍一特徵變了  自由娛樂",
       "published_at": "2026-04-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫在澳洲買房引發熱議後，又在台北獲得冠軍，且其某項特徵有所改變。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1496,
@@ -20938,11 +20938,11 @@
       "snippet": "影／周杰倫頻亂入昆凌鏡頭！問「有美肌嗎」表情超滿足XD  Yahoo新聞",
       "published_at": "2026-04-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "影／周杰倫頻亂入昆凌鏡頭！問「有美肌嗎」表情超滿足XD - Yahoo新聞",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1497,
@@ -20952,11 +20952,11 @@
       "snippet": "稱霸國樂比賽超狂歷史曝光 蘇震洋親秀口技  噓！星聞",
       "published_at": "2026-06-01T16:13:08.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "稱霸國樂比賽超狂歷史曝光 蘇震洋親秀口技 - 噓！星聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1498,
@@ -20966,11 +20966,11 @@
       "snippet": "TMGM Returns as Presenter Sponsor for Jay Chou Malaysia Concert 2027  Quamnet",
       "published_at": "2026-06-02T03:00:02.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "TMGM Returns as Presenter Sponsor for Jay Chou Malaysia Concert 2027 - Quamnet",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1499,
@@ -20980,11 +20980,11 @@
       "snippet": "Mandopop star Jay Chou releases album after four-year hiatus|English News  僑務電子報",
       "published_at": "2026-03-27T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在睽違四年後發行了新專輯。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1500,
@@ -20994,11 +20994,11 @@
       "snippet": "ETtoday新聞雲. . 周杰倫新歌〈那天下雨了〉 歌詞藏彩蛋..呼應23年前的〈晴天〉！  facebook.com",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈那天下雨了〉歌詞巧妙藏有彩蛋，呼應其23年前的經典歌曲〈晴天〉，引發粉絲熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1501,
@@ -21008,11 +21008,11 @@
       "snippet": "周杰倫強勢回歸登陸時代廣場！ 音樂串流平台打造首個「互動包廂」藏彩蛋引爆Z世代聆聽熱潮  花花日報",
       "published_at": "2026-05-22T16:46:21.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫透過音樂串流平台在時代廣場推出互動包廂，成功吸引Z世代並引發聆聽熱潮。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1502,
@@ -21022,11 +21022,11 @@
       "snippet": "周杰倫 Jay Chou【天涯過客 Passer-by】Official MV  JUKSY 街星",
       "published_at": "2026-05-28T11:57:37.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這則新聞報導了周杰倫歌曲《天涯過客》官方MV的發布。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1503,
@@ -23841,6 +23841,118 @@
       "summary": "這篇新聞報導了Netflix上多部影視作品的觀看數據，包括關於麥可傑克森的紀錄片，但內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1704,
+      "title": "Peter Asher on being music’s incredible ‘Everywhere Man’: ‘The secret is simple’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/jun/10/peter-asher-everywhere-man-film",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "As the musician and producer reaches 82, a new documentary reveals his life working with everyone from James Taylor to Carole King to Paul McCartney. “I don’t think so,” he recalled telling them in our interview, which wound up taking place only after several entreaties from the film’s publicist that he do this one sit-down. On the contrary, Asher’s story stands among the most dramatic and consequential in music history, spurred by achievements that shifted the course of pop more than once. Small wonder the documentary on his life is titled Everywhere Man. On a more gossipy level, Asher bears some credit, or blame, for two of the most storied relationships in rock’n’roll: the alliance of John Lennon and Yoko Ono, as well as that of Marianne Faithfull and Mick Jagger. It’s telling that Asher’s father didn’t name the syndrome after himself as most people in his position would have.",
+      "published_at": "Wed, 10 Jun 2026 10:00:18 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於資深音樂人兼製作人Peter Asher的職業生涯與紀錄片，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1705,
+      "title": "Can Marks and Spencer really be a go-to fashion destination? - Financial Times",
+      "link": "https://www.ft.com/content/65cf22fa-7741-4eb1-b789-ee579704b896",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Can Marks and Spencer really be a go-to fashion destination? ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 11 Jun 2026 04:00:26 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導探討了Marks and Spencer作為時尚目的地的可能性，並推廣了金融時報（Financial Times）的各類數位訂閱方案，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1706,
+      "title": "Private equity parties as LPs wait for cash - Financial Times",
+      "link": "https://www.ft.com/content/d85522df-0475-43b9-8696-3809e6836baf",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Private equity parties as LPs wait for cash. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ### For individuals. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 11 Jun 2026 04:00:45 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要介紹金融時報的訂閱方案，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1707,
+      "title": "Jalen Brunson with 19 Points vs. San Antonio Spurs - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-with-19-points-vs-san-antonio-spurs?plsrc=nba&collection=2026-nba-finals-video",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba finals video. ## Jalen Brunson with 19 Points vs. San Antonio Spurs, 06/10/2026. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 02:27:39 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於NBA球員Jalen Brunson在對陣聖安東尼奧馬刺隊的比賽中獲得19分。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1708,
+      "title": "Taylor Swift and Randy Newman joke before 'Toy Story 5' performance - USA Today",
+      "link": "https://www.usatoday.com/videos/entertainment/celebrities/2026/06/10/taylor-swift-randy-newman-perform-youve-got-a-friend-in-me/90486630007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "What to watch ☀️ Win $100 💵 See the stage 🎭 Watch Party Newsletter. See how Johnny Knoxville, 'Jackass' cast arrived to a Pride paradeBroadway stars pitch dream shows for the Ed Sullivan Theater'High School Musical' on Broadway? Aubrey Plaza and Christopher Abbott at the 2026 Tony Awards. Broadway stars' hypothetical solo show namesSara Chase talks 'Schmigadoon!' and nod on Tony Awards red carpetThe NSYNC song Joey Fatone thinks would fit a Pinocchio musical'DWTS' spin-off judges are Mark Ballas and his mom. Patriots fan and actor LJ Benet welcomes AJ Brown to New EnglandMark Consuelos on making his Broadway debut in 'Fallen Angels'Tony nominee Ali Louis Bourzgui says neon deserves a comeback'Ragtime' star Caissie Levy celebrates her first Tony nomination. Taylor Swift joins cast at Pixar's 'Toy Story 5' premiereKaty Perry says Justin Trudeau is the 'love of her life' at TribecaAngelina Jolie, Brad Pitt's son high school graduation look.",
+      "published_at": "Wed, 10 Jun 2026 07:18:28 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要報導了泰勒絲參與《玩具總動員5》首映、百老匯明星動態及其他好萊塢娛樂消息，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1709,
+      "title": "Jay Chaudhry, Zscaler CEO: A Fortt Knox Update - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/09/jay-chaudhry-zscaler-ceo-a-fortt-knox-update.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Jay Chaudhry, Zscaler CEO: A Fortt Knox Update. Zscaler CEO Jay Chaudhry joins Jon Fortt at Zenith Live, two weeks after a Q3 earnings drop that knocked the stock ~30%. Chaudhry unveils Zero Trust Exchange for Agents, letting AI agents securely talk to other agents and applications under governance, as the headline product. He frames Mythos-era vulnerabilities as the threat Zscaler's architecture was built for, and reveals 80-85% of new product code is now written by AI agents internally. House passes $70 billion immigration funding package. Kalshi CEO on perpetual futures trading: 'The demand is there'. Crusoe CEO weighs in on concerns around waining data center demand. Tom Lee: Latest market action is healthy and won't derail the tech trade. End of 'token-maxxing' could derail the AI rally, says Wells Fargo's Ohsung Kwon.",
+      "published_at": "Tue, 09 Jun 2026 22:57:59 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Zscaler執行長Jay Chaudhry的財報與新產品發表。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1710,
+      "title": "Julian Champagnie with the slam - NBA.com",
+      "link": "https://www.nba.com/watch/video/julian-champagnie-with-the-slam-7",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Julian Champagnie with the slam. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 01:13:56 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，內容關於NBA球員Julian Champagnie的灌籃。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1711,
+      "title": "Josh Hart hits from downtown, caps 13-0 Knicks run - NBA.com",
+      "link": "https://www.nba.com/watch/video/josh-hart-hits-from-downtown-caps-13-0-knicks-run",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Josh Hart hits from downtown, caps 13-0 Knicks run. # Playlist.",
+      "published_at": "Thu, 11 Jun 2026 02:56:55 GMT",
+      "collected_at": "2026-06-11 05:11:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導的是NBA球員Josh Hart在比賽中得分的內容，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -24970,6 +25082,21 @@
         "今日無焦點"
       ],
       "created_at": "2026-06-10 05:05:21"
+    },
+    {
+      "id": 80,
+      "report_date": "2026-06-11",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日新聞報導中，未發現與周杰倫直接相關的內容。主要焦點集中於其他藝人如Jay-Z宣布演唱會、Michael Jackson電影串流上線，以及Kanye West發行新歌等娛樂界動態。籃球明星Jalen Brunson的表現也受到關注。",
+      "key_events": [
+        "Jay-Z 宣布演唱會",
+        "MJ 電影上串流",
+        "Kanye West 發新歌"
+      ],
+      "created_at": "2026-06-11 05:14:02"
     }
   ],
   "notification_logs": [
@@ -26162,11 +26289,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-10 05:05:22"
+    },
+    {
+      "id": 171,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-11 05:14:03"
+    },
+    {
+      "id": 172,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-11 05:14:04"
     }
   ],
   "_meta": {
-    "nextArticleId": 1704,
-    "nextReportId": 80,
-    "nextLogId": 171
+    "nextArticleId": 1712,
+    "nextReportId": 81,
+    "nextLogId": 173
   }
 }
