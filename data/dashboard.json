@@ -6,21 +6,13 @@
     "neutral": 8
   },
   "allTimeStats": {
-    "total": 1577,
-    "positive": 461,
-    "negative": 56,
-    "neutral": 1060,
+    "total": 1607,
+    "positive": 477,
+    "negative": 58,
+    "neutral": 1072,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-28",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-29",
       "total": 5,
@@ -64,9 +56,9 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 122,
-      "negative": 7,
-      "neutral": 66,
+      "positive": 138,
+      "negative": 9,
+      "neutral": 70,
       "avg_score": 0.74
     },
     {
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-12",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1712,
+      "title": "Publishing Briefs: Seeker Enters Global Distribution Partnership With Virgin Music Group - Billboard",
+      "link": "https://www.billboard.com/lists/publishing-briefs-seeker-virgin-music-group-umpg-rebrand/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Seeker Music Group announced a global distribution partnership with Virgin Music Group, which will see Virgin serving as Seeker’s distributor for its catalog recordings and new projects. “This partnership is a game-changer for Seeker in how we elevate our catalog and artists,” **Evan Bogart**, CEO of Seeker Music, said in a statement. “We are so excited about the cultural impact and importance of the records we have the opportunity to support, and Virgin is the best at championing independent catalogs and artists on a global scale. **Steven Melrose**, Seeker’s Chief Creative Officer, added, “We’ve been good friends with, and huge admirers, of Nat, JT, Jacqueline and Cindy for a while now, so it made all the sense in the world for us to team up with them and their great extended global family. Warner Chappell Music Nashville and Cornman Music have signed Luke Stevens to a global publishing deal.",
+      "published_at": "Thu, 11 Jun 2026 20:14:14 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Seeker Music Group與Virgin Music Group的全球發行合作，以及Luke Stevens簽署全球出版協議，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1713,
+      "title": "Nina Dobrev poses in just a Knicks shirt and sleep mask after watching historic game at Madison Square Garden - Fox News",
+      "link": "https://www.foxnews.com/entertainment/nina-dobrev-poses-knicks-shirt-sleep-mask-watching-historic-game-madison-square-garden",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "* #### Brad Pitt fights for survival in 'Heart of the Beast' trailer as fans say he's 'cooler' than younger actors. * #### Carly Pearce says heart condition left her fearing a heart attack: ‘Is my heart OK?’. * #### 'Landman' star Billy Bob Thornton says working people relate to the struggles the characters face. * #### Jessie James Decker is surprised by how much she still loves her husband after more than a decade of marriage. * #### Country star Carly Pearce says heart condition changed her approach to exercise. * #### Country music star Carly Pearce feared she would have a heart attack after heart condition diagnosis. In an Instagram reel posted on Thursday, the 37-year-old actress shared footage of her watching the Knicks game with other stars, including Keke Palmer and Penn Badgley, at Madison Square Garden, and how she celebrated after. Dobrev is still celebrating the Knicks win with footage of her in a Knicks shirt without pants on.",
+      "published_at": "Fri, 12 Jun 2026 01:14:53 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Nina Dobrev觀看尼克隊比賽及其他歐美明星動態。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1714,
+      "title": "‘Michael’ Poised To Break ‘Bohemian Rhapsody’ Record After Crossing $900 Million At Box Office - Forbes",
+      "link": "https://www.forbes.com/sites/timlammers/2026/06/11/michael-poised-to-break-bohemian-rhapsody-record-after-crossing-900-million-at-box-office/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# ‘Michael’ Poised To Break ‘Bohemian Rhapsody’ Record After Crossing $900 Million At Box Office. The Michael Jackson biopic *Michael* has crossed the $900 million mark at the worldwide box office, putting the music biopic record set by *Bohemian Rhapsody* in 2018 within striking distance. After reaching the $900 million global box office milestone, *Michael* now has its eyes on the ultimate prize of being the highest-grossing music biopic of all time, a record currently held by *Bohemian Rhapsody*. ForbesHow To Watch ‘Michael Jackson’s This Is It’ On Streaming After Seeing ‘Michael’ In TheatersBy Tim Lammers. While its taken a while to reach the film’s global box office benchmark, *Michael* beat *Bohemian Rhapsody’s* final domestic tally of $216.3 million in its 16th day of release in North America. Once *Michael* crosses the $911 million box office mark to push *Bohemian Rhapsody* to No. 2 on the highest-grossing music biopic list, it will be the end of one record and the beginning of the other for Graham King, since he produced both films.",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》在全球票房突破9億美元，有望超越《波希米亞狂想曲》成為史上最高票房的音樂傳記片。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1715,
+      "title": "Trump says he will nominate Jay Clayton to top intelligence post - CNN",
+      "link": "https://www.cnn.com/2026/06/11/politics/jay-clayton-director-national-intelligence",
+      "source": "Tavily (www.cnn.com)",
+      "snippet": "# Trump says he will nominate Jay Clayton to top intelligence post. Jay Clayton, the US Attorney for the Southern District of New York, speaks during a press conference in New York, on December 10, 2025. President Donald Trump announced Thursday that he’s nominating Jay Clayton, the US attorney for the Southern District of New York, to be his next director of national intelligence. “Few people anywhere in the Legal Community are respected at the level of Jay,” Trump wrote in a post on Truth Social. “I encourage the United States Senate to confirm Jay as soon as possible.”. The pick comes amid a firestorm on Capitol Hill over Trump’s earlier decision to make top housing official Bill Pulte the acting national intelligence chief following the planned departure of Tulsi Gabbard. The elevation of Pulte, who has no national security background, prompted pushback from both Democratic and Republican lawmakers and has endangered the renewal of critical government surveillance powers. Clayton served as the head of the Securities and Exchange Commission during Trump’s first term.",
+      "published_at": "Thu, 11 Jun 2026 18:17:31 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國總統川普提名Jay Clayton擔任情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1716,
+      "title": "Trump picks Jay Clayton, Manhattan U.S. attorney, to be director of national intelligence - The Washington Post",
+      "link": "https://www.washingtonpost.com/national-security/2026/06/11/trump-picks-jay-clayton-manhattan-us-attorney-be-director-national-intelligence/",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# Trump picks Jay Clayton, Manhattan U.S. attorney, to be director of national intelligence. President Donald Trump chose Clayton less than two weeks after he said he would appoint Bill Pulte, who has no intelligence experience, to be acting director of national intelligence. Make us preferred on Google. Jay Clayton, U.S. attorney for the Southern District of New York. (Michael Nagle/Bloomberg/Getty Images). President Donald Trump said Thursday that he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York, to serve as the next director of national intelligence. “Few people anywhere in the Legal Community are respected at the level of Jay,” Trump wrote on Truth Social. “I encourage the United States Senate to confirm Jay as soon as possible.”.",
+      "published_at": "Thu, 11 Jun 2026 18:28:15 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國總統川普提名Jay Clayton為國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1717,
+      "title": "Trump plans to nominate US Attorney Jay Clayton to be national intelligence director - The Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2026/06/11/jay-clayton-pulte-trump-national-intelligence-director/e09dc6e6-65c1-11f1-bdd4-805ebb99a693_story.html",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# Trump plans to nominate US Attorney Jay Clayton to be national intelligence director. President Donald Trump says he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York and a former Securities and Exchange Commission chairman, as director of national intelligence. WASHINGTON — President Donald Trump said Thursday that he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York and a former Securities and Exchange Commission chairman, as director of national intelligence . Trump announced the nomination on social media amid pressure from Congress to name a permanent replacement for Tulsi Gabbard, who resigned last month . Trump faced intense pushback over his decision to name Bill Pulte , head of the Federal Housing Finance Agency, as acting director.",
+      "published_at": "Thu, 11 Jun 2026 18:21:59 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國總統川普提名Jay Clayton擔任國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1718,
+      "title": "Video Lainey Wilson, NFL records and celebrity moments go viral - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/video/133798967/",
+      "source": "Tavily (abcnews.com)",
+      "snippet": "### Rocsi Diaz breaks down the latest pop culture headlines, including Lainey Wilson’s emotional CMA Fest moment, and a star-packed Knicks playoff crowd featuring Taylor Swift, Kylie Jenner, and more. ### ABC News Live. ### Destructive thunderstorms in the Midwest, dangerous heat for millions from coast-to-coast. ### The military implications of US taking Kharg Island. ### World Cup referee from Somalia denied entry to the US 'due to vetting concerns': CBP. ### Millions on alert for severe storms in Midwest and Heartland. ### Hurricanes, Golden Knights to face off in Game 5 of Stanley Cup Finals. ### Trump's arch construction to run 20 hours a day for 2 to 3 years, documents show. ## ABC News Live Presents. ### All Access with Linsey Davis: Spike Lee. ### All Access with Linsey Davis: Stephen A. ### Glen Powell and Eli Manning: ABC News Live Prime with Linsey Davis. * ### Impact X Nightline: On the Brink. Share a story idea with ABC News Live.",
+      "published_at": "Thu, 11 Jun 2026 21:18:47 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導美國流行文化、體育賽事及時事，並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1719,
+      "title": "New Apple update leads to problems for business: How to fix the iPhone issue - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/new-apple-update-leads-to-problems-for-business-how-to-fix-the-iphone-issue/6512225/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration Immigration New York Live Send Photos/Videos Open House. ### On Air. # New Apple update leads to problems for business: How to fix the iPhone issue. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Thu, 11 Jun 2026 22:52:33 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討Apple更新導致的商業問題，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1704,
       "title": "Peter Asher on being music’s incredible ‘Everywhere Man’: ‘The secret is simple’ - The Guardian",
@@ -442,136 +554,39 @@
       "summary": "Levina reclaims self-trust on powerful new single \"You Know Everything\" - EARMILK",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1698,
-      "title": "Jalen Brunson hits from way downtown - NBA.com",
-      "link": "https://www.nba.com/watch/video/jalen-brunson-hits-from-way-downtown-2?plsrc=nba&collection=2026-nba-finals-video",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# 2026 nba finals video. ## Jalen Brunson hits from way downtown. # Playlist.",
-      "published_at": "Tue, 09 Jun 2026 02:17:58 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jalen Brunson hits from way downtown - NBA.com",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1680,
-      "title": "When Trump Jawbones the Market, Bet Against Him at Your Peril - Moomoo",
-      "link": "https://www.moomoo.com/hant/news/post/71155634/when-trump-jawbones-the-market-bet-against-him-at-your",
-      "source": "Tavily (www.moomoo.com)",
-      "snippet": "* When Trump Jawbones the Market, Bet Against Him at Your Peril. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本內容僅用作提供資訊及教育之目的，不構成對任何特定證券或投資策略的推薦或認可。本內容中的資訊僅用於說明目的，可能不適用於所有投資者。本內容未考慮任何特定人士的投資目標、財務狀況或需求，並不應被視作個人投資建議。建議您在做出任何投資於任何資本市場產品的決定之前，應考慮您的個人情況判斷資訊的適當性。過去的投資表現不能保證未來的結果。投資涉及風險和損失本金的可能性。moomoo對上述內容的真實性、完整性、準確性或對任何特定目的的時效性不作任何陳述或保證。. 在美國，moomoo上的投資產品和服務由Moomoo Financial Inc.提供，一家受美國證券交易委員會（SEC）監管的持牌主體。 Moomoo Financial Inc.是金融業監管局（FINRA）和證券投資者保護公司（SIPC）的成員。. 在新加坡，moomoo上的投資產品和服務是通過Moomoo Financial Singapore Pte. Ltd.提供，該公司受新加坡金融管理局（MAS）監管(牌照號碼︰CMS101000) ，持有資本市場服務牌照 (CMS) ，持有財務顧問豁免（Exempt Financial Adviser）資質。本內容未經新加坡金融管理局的審查。. 在澳大利亞，moomoo上的金融產品和服務是通過Moomoo Securities Australia Limited提供，該公司是受澳大利亞證券和投資委員會(ASIC)監管的澳大利亞金融服務許可機構（AFSL No. 224663）。請閱讀並理解我們的《金融服務指南》、《條款與條件》、《隱私政策》和其他披露文件，這些文件可在我們的網站 https://www.moomoo.com/au中獲取。. 在加拿大，透過moomoo應用程式提供的僅限訂單執行的券商服務由Moomoo Financial Canada Inc.提供，並受加拿大投資監管機構（CIRO）監管。. 在馬來西亞，moomoo上的投資產品和服務是透過Moomoo Securities Malaysia Sdn. Bhd. 提供，該公司受馬來西亞證券監督委員會（SC）監管(牌照號碼︰eCMSL/A0397/2024) ，持有資本市場服務牌照 (CMSL) 。本內容未經馬來西亞證券監督委員會的審查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd.，Moomoo Securities Australia Limited, Moomoo Financial Canada Inc和Moomoo Securities Malaysia Sdn. Bhd., 是關聯公司。. * A New Wave of Weight-loss Therapies Aims to Be Better Than Today's GLP-1s. * The U.S. Needs Mechanics and Electricians. Big Business Is Spending to Create Some. * Chamath Palihapitiya表示，企業正在人工智能領域過度支出，因爲更便宜的模型正迅速縮小差距：「正在燒掉巨額預算」. * Miahona將收購Sha's Water Services，交易金額最高達SAR1.03億. * Spirit Airlines不會是最後一家：IATA總裁警告稱，隨着伊朗戰爭推高燃油成本，更多航司可能倒閉. *讚好**勁正**笑哭**社會社會**Emm**惨惨**嬲嬲*.",
-      "published_at": "Sun, 07 Jun 2026 07:39:44 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於金融市場分析、企業財報及投資資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1681,
-      "title": "Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month - Yahoo News UK",
-      "link": "https://uk.news.yahoo.com/seventeen-vernon-the8-confirm-unit-205435726.html",
-      "source": "Tavily (uk.news.yahoo.com)",
-      "snippet": "# Seventeen’s Vernon And The8 Confirm Unit Album Coming This Month. SEVENTEEN's unit era is in full swing. PLEDIS Entertainment officially confirmed that members Vernon and The8 will release their first album as unit V8 on June 29. The announcement comes as the group's five remaining members prepare for military enlistment later this year, making V8 one of several duo units SEVENTEEN has launched to maintain creative output during the hiatus period. The unit name \"V8\" combines the \"V\" from Vernon and the \"8\" from The8. Both members are actively involved in writing and composing the album rather than working from label-directed material, an important point given Vernon's established credentials as a songwriter and The8's track record of producing self-directed solo work. ## Who Vernon And The8 Are. Vernon, born Choi Vernon Hansol, is one of SEVENTEEN's main rappers and one of its most prolific behind-the-scenes contributors. ## V8's Place In SEVENTEEN's Unit History.",
-      "published_at": "Sun, 07 Jun 2026 20:54:35 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於韓國團體SEVENTEEN成員Vernon和The8將以小分隊V8名義發行新專輯，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1682,
-      "title": "Ebola and jihadis threaten Africa’s oldest national park - Financial Times",
-      "link": "https://www.ft.com/content/1560124d-d3fa-4184-873b-c609dae8f00e",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# Ebola and jihadis threaten Africa’s oldest national park. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 08 Jun 2026 04:00:14 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞標題提及伊波拉病毒和聖戰士威脅非洲國家公園，但內容主要為金融時報的訂閱方案推廣，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1683,
-      "title": "Xi Jinping lands in North Korea for Kim Jong Un meeting - Financial Times",
-      "link": "https://www.ft.com/content/1a538fdf-a404-4ef6-97f5-92be9176ee2e",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# Xi Jinping lands in North Korea for Kim Jong Un meeting. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 08 Jun 2026 03:26:04 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於習近平訪問北韓以及金融時報的訂閱方案，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1684,
-      "title": "Israel launches retaliatory air strikes on Iran - Financial Times",
-      "link": "https://www.ft.com/content/092e2c2a-2f3e-4139-83e8-06e066f76946",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 08 Jun 2026 02:29:37 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於以色列對伊朗的報復性空襲以及金融時報的訂閱方案，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1685,
-      "title": "James Van Der Beek’s Ex-Wife Marries 3 Months After His Death - The Daily Beast",
-      "link": "https://www.thedailybeast.com/james-van-der-beeks-ex-wife-marries-3-months-after-his-death/",
-      "source": "Tavily (www.thedailybeast.com)",
-      "snippet": "* Hollywood Star Tears Into Audience Member for Bad BehaviorCURTAIN CALL CONTROVERSY. She accused the audience member of breaking the bond between the cast and audience. These Low-Dose Mints Are Perfect for Beginners A FRESH TAKE. Batch just launched new THC-infused “micro mints.” Here’s what you need to know. Remarkable’s new Paper Pure is the successor to the brand’s Remarkable 2 tablet. Over a career spanning more than five decades, Bryson has released nearly 20 studio albums, with hits including “If Ever You’re in My Arms Again,” “Can You Stop the Rain,” and “Reaching for the Sky.” He also won two Grammy Awards for *Beauty and the Beast*, recorded with Celine Dion, and “A Whole New World” from *Aladdin*, recorded with Regina Belle. He went on to team up with Roberta Flack for the duet album *Born to Love*, before later scoring hits with Angela Bofill on “For You and I” and again with Belle on several successful collaborations.",
-      "published_at": "Mon, 01 Jun 2026 10:36:00 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導James Van Der Beek前妻再婚、好萊塢爭議以及歌手Bryson的音樂成就。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1686,
-      "title": "Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. - TMZ",
-      "link": "https://www.tmz.com/2026/06/07/justin-and-hailey-bieber-looking-cute-at-concert/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Justin and Hailey Bieber Spotted at The Kid LAROI's Show in L.A. ## Justin and Hailey Bieber Date Night at Kid Laroi Concert in L.A.!!! **Justin**and **Hailey Bieber** were enjoying a date night out together Friday night, with eagle-eyed fans spotting the couple in the crowd at **The Kid LAROI**'s concert. Several videos circulating on social media appear to show Justin and Hailey watching the show from a VIP area at The Greek Theatre in Los Angeles -- with fans quickly sharing clips online after noticing the famous pair among the crowd. The appearance wouldn't be much of a surprise considering Justin and The Kid LAROI have been friends and collaborators for years, famously teaming up on the hit track \"Stay.\". Fans online were quick to react to the clips, with many commenting that they were excited to see the Biebers out together and supporting one of Justin's longtime friends. #### Justin Bieber Performs Small Show at Troubadour in L.A. Ahead of Coachella Set.",
-      "published_at": "Sun, 07 Jun 2026 12:20:08 GMT",
-      "collected_at": "2026-06-08 05:16:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導描述了小賈斯汀和海莉·比伯在洛杉磯觀看The Kid LAROI演唱會的約會之夜，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 80,
-    "report_date": "2026-06-11",
+    "id": 81,
+    "report_date": "2026-06-12",
     "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 8,
-    "daily_summary": "今日新聞報導中，未發現與周杰倫直接相關的內容。主要焦點集中於其他藝人如Jay-Z宣布演唱會、Michael Jackson電影串流上線，以及Kanye West發行新歌等娛樂界動態。籃球明星Jalen Brunson的表現也受到關注。",
+    "daily_summary": "今天搜集到的新聞中，未發現任何與周杰倫相關的報導，因此沒有周杰倫的焦點新聞可供摘要。",
     "key_events": [
-      "Jay-Z 宣布演唱會",
-      "MJ 電影上串流",
-      "Kanye West 發新歌"
+      "無周杰倫新聞",
+      "今日無相關報導",
+      "無焦點事件"
     ],
-    "created_at": "2026-06-11 05:14:02"
+    "created_at": "2026-06-12 05:19:45"
   },
   "recentReports": [
+    {
+      "id": 81,
+      "report_date": "2026-06-12",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今天搜集到的新聞中，未發現任何與周杰倫相關的報導，因此沒有周杰倫的焦點新聞可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "無焦點事件"
+      ],
+      "created_at": "2026-06-12 05:19:45"
+    },
     {
       "id": 80,
       "report_date": "2026-06-11",
@@ -657,21 +672,6 @@
         "三天銷售破250萬張"
       ],
       "created_at": "2026-06-06 04:41:06"
-    },
-    {
-      "id": 74,
-      "report_date": "2026-06-05",
-      "total_articles": 13,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 12,
-      "daily_summary": "周杰倫新專輯《太陽之子》及同名主打歌MV近期成為焦點。MV耗資近億元，結合30幅世界名畫，打造吸血鬼懸疑故事，並強調未使用AI製作。專輯發行三天已賣破250萬張，狂吸4.6億元。儘管評價兩極，但其製作規模與藝術性仍引發熱議。",
-      "key_events": [
-        "新專輯《太陽之子》發行",
-        "MV耗資億元致敬名畫",
-        "專輯熱銷破250萬張"
-      ],
-      "created_at": "2026-06-05 05:02:26"
     }
   ]
 }

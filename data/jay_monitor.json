@@ -21036,11 +21036,11 @@
       "snippet": "周杰倫 Jay Chou【髮如雪 Hair White as Snow】-Official Music Video  JUKSY 街星",
       "published_at": "2026-05-28T11:23:04.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這則資訊是關於周杰倫經典歌曲《髮如雪》官方音樂影片的推廣。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1504,
@@ -21050,11 +21050,11 @@
       "snippet": "周杰倫 Jay Chou【東風破 Dong-Feng-Po】-Official Music Video  JUKSY 街星",
       "published_at": "2026-05-28T11:28:19.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "JUKSY 街星發布了周杰倫經典歌曲《東風破》的官方音樂錄影帶，引發粉絲回憶與好評。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1505,
@@ -21064,11 +21064,11 @@
       "snippet": "Taiwanese pop star Jay Chou drops new album in Taipei  TVBS新聞網",
       "published_at": "2026-03-25T08:53:55.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在台北發行了新專輯。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1506,
@@ -21078,11 +21078,11 @@
       "snippet": "周杰倫公開2014求婚畫面！昆凌穿太醜好出戲 他1暖舉比求婚更加分  NOWnews今日新聞",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫公開2014年向昆凌求婚的珍貴畫面，其中他的一個暖心舉動比求婚本身更受讚賞。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1507,
@@ -21092,11 +21092,11 @@
       "snippet": "周杰倫下跪求婚昆凌超浪漫！新歌〈I do〉MV首度公開古堡寵妻畫面  NOWnews今日新聞",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在新歌〈I do〉MV中首次公開向昆凌求婚的浪漫古堡畫面，展現他寵愛妻子的形象。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1508,
@@ -21106,11 +21106,11 @@
       "snippet": "周杰倫大方分享私生活新歌MV公開求婚昆凌畫面| 娛樂  中央社 CNA",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫大方分享私生活新歌MV公開求婚昆凌畫面| 娛樂 - 中央社 CNA",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1509,
@@ -21120,11 +21120,11 @@
       "snippet": "周杰倫出戰澳網「一分大滿貫」首輪對手曝光！身分是24歲業餘冠軍  NOWnews今日新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫出戰澳網「一分大滿貫」首輪對手曝光！身分是24歲業餘冠軍 - NOWnews今日新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1510,
@@ -21134,11 +21134,11 @@
       "snippet": "周杰倫田馥甄舊日緋聞遭翻炒？周董曬愛妻反擊竟惹狂熱迷崩潰痛罵  香港01",
       "published_at": "2026-03-06T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫因舊日緋聞被翻炒，曬愛妻反擊卻引發部分狂熱粉絲不滿與痛罵。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1511,
@@ -21148,11 +21148,11 @@
       "snippet": "周杰倫 Jay Chou【公主病 Princess Syndrome】Official MV  JUKSY 街星",
       "published_at": "2026-05-29T17:01:58.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫 Jay Chou【公主病 Princess Syndrome】Official MV - JUKSY 街星",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1512,
@@ -21162,11 +21162,11 @@
       "snippet": "周杰倫澳網跨界揮拍圓夢！國籍標示「CHN」非「TPE」引熱議  Yahoo新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫在澳網圓夢揮拍，但其國籍標示「CHN」而非「TPE」引發廣泛爭議。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1513,
@@ -21176,11 +21176,11 @@
       "snippet": "一件 Bar Jacket 有千百種面貌！當羅伯帕丁森與周杰倫穿上同款 Dior 西裝，正式與性感你選哪一邊？  GQ Taiwan",
       "published_at": "2026-03-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "GQ Taiwan 報導周杰倫與羅伯帕丁森穿著同款 Dior 西裝，比較兩人的時尚風格。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1514,
@@ -21190,11 +21190,11 @@
       "snippet": "原來周杰倫還懂設計腕錶? 細數周董日常腕錶穿搭造型  ELLE HK",
       "published_at": "2026-05-25T03:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "這篇報導揭露周杰倫不僅懂設計腕錶，還細數了他日常的腕錶穿搭造型。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1515,
@@ -21204,11 +21204,11 @@
       "snippet": "周杰倫 10 歲女兒小周周機場罕露面！暴風抽高大長腿曝光網驚呼：「根本縮小版昆凌！」  JUKSY 街星",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫10歲女兒小周周在機場罕見露面，因暴風抽高的大長腿和神似昆凌的外貌引發網友驚嘆。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1516,
@@ -21218,11 +21218,11 @@
       "snippet": "周杰倫賞藝術品排解壓力 曝新歡是百年前席勒名畫  ETtoday新聞雲",
       "published_at": "2026-02-10T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫透過欣賞藝術品，特別是百年前的席勒名畫，來排解壓力並展現其個人興趣。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1517,
@@ -21232,11 +21232,11 @@
       "snippet": "周杰倫 Jay Chou (特別演出: 派偉俊)【告白氣球 Love Confession】Official MV  JUKSY 街星",
       "published_at": "2026-05-22T12:10:49.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則新聞主要提及周杰倫經典歌曲《告白氣球》的官方音樂錄影帶，其中派偉俊亦有特別演出。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1518,
@@ -21246,11 +21246,11 @@
       "snippet": "藏了10年！周杰倫求婚昆凌畫面首公開 浪漫煙火前下跪太感人  中天新聞網",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫與昆凌十年前的浪漫求婚畫面首次公開，內容感人。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1519,
@@ -21260,11 +21260,11 @@
       "snippet": "樂壇天王珍藏世紀求婚片首曝光！奢華古堡+百名臨演+震撼煙火秀排場超誇張！  ubeauty.com.hk",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫珍藏的世紀求婚影片首次曝光，展現了奢華古堡、百名臨演和震撼煙火秀的超誇張排場。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1520,
@@ -21274,11 +21274,11 @@
       "snippet": "周杰倫〈那天下雨了〉歌詞神呼應〈晴天〉，粉絲狂讚：「這是 23 年後的續集吧！」  JUKSY 街星",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "粉絲熱烈讚賞周杰倫新歌〈那天下雨了〉的歌詞與經典歌曲〈晴天〉巧妙呼應，視其為23年後的續集。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1521,
@@ -21288,11 +21288,11 @@
       "snippet": "周傑倫澳網跨界揮拍 國籍標示“CHN”  中國評論新聞",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫跨界參與澳網活動，其國籍被標示為「CHN」。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1522,
@@ -21302,11 +21302,11 @@
       "snippet": "周杰倫也有大魔王！3首歌看天王育兒術　從寵娃到崩潰喊去找媽媽  NOWnews今日新聞",
       "published_at": "2026-03-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.65,
+      "summary": "新聞以幽默方式呈現周杰倫的育兒日常，展現他從寵愛孩子到偶爾感到崩潰的真實面貌。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1523,
@@ -21316,11 +21316,11 @@
       "snippet": "周杰倫〈那天下雨了〉撞哏23年前〈晴天〉！網笑瘋：周董抄自己  NOWnews今日新聞",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫新歌〈那天下雨了〉被網友發現與23年前的〈晴天〉有相似之處，引發粉絲幽默表示周董「抄自己」。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1524,
@@ -21330,11 +21330,11 @@
       "snippet": "周杰倫新輯成績亮眼「淘金小鎮」YT點閱破540萬  中央社 CNA",
       "published_at": "2026-03-27T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯表現亮眼，其中歌曲「淘金小鎮」在YouTube上的點閱率已突破540萬。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1525,
@@ -23953,6 +23953,118 @@
       "summary": "這則新聞報導的是NBA球員Josh Hart在比賽中得分的內容，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1712,
+      "title": "Publishing Briefs: Seeker Enters Global Distribution Partnership With Virgin Music Group - Billboard",
+      "link": "https://www.billboard.com/lists/publishing-briefs-seeker-virgin-music-group-umpg-rebrand/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "Seeker Music Group announced a global distribution partnership with Virgin Music Group, which will see Virgin serving as Seeker’s distributor for its catalog recordings and new projects. “This partnership is a game-changer for Seeker in how we elevate our catalog and artists,” **Evan Bogart**, CEO of Seeker Music, said in a statement. “We are so excited about the cultural impact and importance of the records we have the opportunity to support, and Virgin is the best at championing independent catalogs and artists on a global scale. **Steven Melrose**, Seeker’s Chief Creative Officer, added, “We’ve been good friends with, and huge admirers, of Nat, JT, Jacqueline and Cindy for a while now, so it made all the sense in the world for us to team up with them and their great extended global family. Warner Chappell Music Nashville and Cornman Music have signed Luke Stevens to a global publishing deal.",
+      "published_at": "Thu, 11 Jun 2026 20:14:14 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Seeker Music Group與Virgin Music Group的全球發行合作，以及Luke Stevens簽署全球出版協議，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1713,
+      "title": "Nina Dobrev poses in just a Knicks shirt and sleep mask after watching historic game at Madison Square Garden - Fox News",
+      "link": "https://www.foxnews.com/entertainment/nina-dobrev-poses-knicks-shirt-sleep-mask-watching-historic-game-madison-square-garden",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "* #### Brad Pitt fights for survival in 'Heart of the Beast' trailer as fans say he's 'cooler' than younger actors. * #### Carly Pearce says heart condition left her fearing a heart attack: ‘Is my heart OK?’. * #### 'Landman' star Billy Bob Thornton says working people relate to the struggles the characters face. * #### Jessie James Decker is surprised by how much she still loves her husband after more than a decade of marriage. * #### Country star Carly Pearce says heart condition changed her approach to exercise. * #### Country music star Carly Pearce feared she would have a heart attack after heart condition diagnosis. In an Instagram reel posted on Thursday, the 37-year-old actress shared footage of her watching the Knicks game with other stars, including Keke Palmer and Penn Badgley, at Madison Square Garden, and how she celebrated after. Dobrev is still celebrating the Knicks win with footage of her in a Knicks shirt without pants on.",
+      "published_at": "Fri, 12 Jun 2026 01:14:53 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Nina Dobrev觀看尼克隊比賽及其他歐美明星動態。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1714,
+      "title": "‘Michael’ Poised To Break ‘Bohemian Rhapsody’ Record After Crossing $900 Million At Box Office - Forbes",
+      "link": "https://www.forbes.com/sites/timlammers/2026/06/11/michael-poised-to-break-bohemian-rhapsody-record-after-crossing-900-million-at-box-office/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# ‘Michael’ Poised To Break ‘Bohemian Rhapsody’ Record After Crossing $900 Million At Box Office. The Michael Jackson biopic *Michael* has crossed the $900 million mark at the worldwide box office, putting the music biopic record set by *Bohemian Rhapsody* in 2018 within striking distance. After reaching the $900 million global box office milestone, *Michael* now has its eyes on the ultimate prize of being the highest-grossing music biopic of all time, a record currently held by *Bohemian Rhapsody*. ForbesHow To Watch ‘Michael Jackson’s This Is It’ On Streaming After Seeing ‘Michael’ In TheatersBy Tim Lammers. While its taken a while to reach the film’s global box office benchmark, *Michael* beat *Bohemian Rhapsody’s* final domestic tally of $216.3 million in its 16th day of release in North America. Once *Michael* crosses the $911 million box office mark to push *Bohemian Rhapsody* to No. 2 on the highest-grossing music biopic list, it will be the end of one record and the beginning of the other for Graham King, since he produced both films.",
+      "published_at": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》在全球票房突破9億美元，有望超越《波希米亞狂想曲》成為史上最高票房的音樂傳記片。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1715,
+      "title": "Trump says he will nominate Jay Clayton to top intelligence post - CNN",
+      "link": "https://www.cnn.com/2026/06/11/politics/jay-clayton-director-national-intelligence",
+      "source": "Tavily (www.cnn.com)",
+      "snippet": "# Trump says he will nominate Jay Clayton to top intelligence post. Jay Clayton, the US Attorney for the Southern District of New York, speaks during a press conference in New York, on December 10, 2025. President Donald Trump announced Thursday that he’s nominating Jay Clayton, the US attorney for the Southern District of New York, to be his next director of national intelligence. “Few people anywhere in the Legal Community are respected at the level of Jay,” Trump wrote in a post on Truth Social. “I encourage the United States Senate to confirm Jay as soon as possible.”. The pick comes amid a firestorm on Capitol Hill over Trump’s earlier decision to make top housing official Bill Pulte the acting national intelligence chief following the planned departure of Tulsi Gabbard. The elevation of Pulte, who has no national security background, prompted pushback from both Democratic and Republican lawmakers and has endangered the renewal of critical government surveillance powers. Clayton served as the head of the Securities and Exchange Commission during Trump’s first term.",
+      "published_at": "Thu, 11 Jun 2026 18:17:31 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國總統川普提名Jay Clayton擔任情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1716,
+      "title": "Trump picks Jay Clayton, Manhattan U.S. attorney, to be director of national intelligence - The Washington Post",
+      "link": "https://www.washingtonpost.com/national-security/2026/06/11/trump-picks-jay-clayton-manhattan-us-attorney-be-director-national-intelligence/",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# Trump picks Jay Clayton, Manhattan U.S. attorney, to be director of national intelligence. President Donald Trump chose Clayton less than two weeks after he said he would appoint Bill Pulte, who has no intelligence experience, to be acting director of national intelligence. Make us preferred on Google. Jay Clayton, U.S. attorney for the Southern District of New York. (Michael Nagle/Bloomberg/Getty Images). President Donald Trump said Thursday that he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York, to serve as the next director of national intelligence. “Few people anywhere in the Legal Community are respected at the level of Jay,” Trump wrote on Truth Social. “I encourage the United States Senate to confirm Jay as soon as possible.”.",
+      "published_at": "Thu, 11 Jun 2026 18:28:15 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於美國總統川普提名Jay Clayton為國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1717,
+      "title": "Trump plans to nominate US Attorney Jay Clayton to be national intelligence director - The Washington Post",
+      "link": "https://www.washingtonpost.com/politics/2026/06/11/jay-clayton-pulte-trump-national-intelligence-director/e09dc6e6-65c1-11f1-bdd4-805ebb99a693_story.html",
+      "source": "Tavily (www.washingtonpost.com)",
+      "snippet": "# Trump plans to nominate US Attorney Jay Clayton to be national intelligence director. President Donald Trump says he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York and a former Securities and Exchange Commission chairman, as director of national intelligence. WASHINGTON — President Donald Trump said Thursday that he plans to nominate Jay Clayton, the U.S. attorney for the Southern District of New York and a former Securities and Exchange Commission chairman, as director of national intelligence . Trump announced the nomination on social media amid pressure from Congress to name a permanent replacement for Tulsi Gabbard, who resigned last month . Trump faced intense pushback over his decision to name Bill Pulte , head of the Federal Housing Finance Agency, as acting director.",
+      "published_at": "Thu, 11 Jun 2026 18:21:59 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國總統川普提名Jay Clayton擔任國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1718,
+      "title": "Video Lainey Wilson, NFL records and celebrity moments go viral - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://abcnews.com/video/133798967/",
+      "source": "Tavily (abcnews.com)",
+      "snippet": "### Rocsi Diaz breaks down the latest pop culture headlines, including Lainey Wilson’s emotional CMA Fest moment, and a star-packed Knicks playoff crowd featuring Taylor Swift, Kylie Jenner, and more. ### ABC News Live. ### Destructive thunderstorms in the Midwest, dangerous heat for millions from coast-to-coast. ### The military implications of US taking Kharg Island. ### World Cup referee from Somalia denied entry to the US 'due to vetting concerns': CBP. ### Millions on alert for severe storms in Midwest and Heartland. ### Hurricanes, Golden Knights to face off in Game 5 of Stanley Cup Finals. ### Trump's arch construction to run 20 hours a day for 2 to 3 years, documents show. ## ABC News Live Presents. ### All Access with Linsey Davis: Spike Lee. ### All Access with Linsey Davis: Stephen A. ### Glen Powell and Eli Manning: ABC News Live Prime with Linsey Davis. * ### Impact X Nightline: On the Brink. Share a story idea with ABC News Live.",
+      "published_at": "Thu, 11 Jun 2026 21:18:47 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導美國流行文化、體育賽事及時事，並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1719,
+      "title": "New Apple update leads to problems for business: How to fix the iPhone issue - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/new-apple-update-leads-to-problems-for-business-how-to-fix-the-iphone-issue/6512225/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration Immigration New York Live Send Photos/Videos Open House. ### On Air. # New Apple update leads to problems for business: How to fix the iPhone issue. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Thu, 11 Jun 2026 22:52:33 GMT",
+      "collected_at": "2026-06-12 05:17:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討Apple更新導致的商業問題，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25097,6 +25209,21 @@
         "Kanye West 發新歌"
       ],
       "created_at": "2026-06-11 05:14:02"
+    },
+    {
+      "id": 81,
+      "report_date": "2026-06-12",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今天搜集到的新聞中，未發現任何與周杰倫相關的報導，因此沒有周杰倫的焦點新聞可供摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "無焦點事件"
+      ],
+      "created_at": "2026-06-12 05:19:45"
     }
   ],
   "notification_logs": [
@@ -26303,11 +26430,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-11 05:14:04"
+    },
+    {
+      "id": 173,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-12 05:19:46"
+    },
+    {
+      "id": 174,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-12 05:19:47"
     }
   ],
   "_meta": {
-    "nextArticleId": 1712,
-    "nextReportId": 81,
-    "nextLogId": 173
+    "nextArticleId": 1720,
+    "nextReportId": 82,
+    "nextLogId": 175
   }
 }
