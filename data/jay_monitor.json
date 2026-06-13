@@ -21344,11 +21344,11 @@
       "snippet": "太感動！周杰倫私藏11年求婚昆凌影片曝光，如童話故事般超夢幻婚禮全公開  TVBS 女人我最大",
       "published_at": "2026-04-07T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫私藏11年的求婚昆凌影片曝光，展現了如童話般的夢幻婚禮，引發大眾感動。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1526,
@@ -21358,11 +21358,11 @@
       "snippet": "鄧紫棋翻唱周杰倫新歌《愛琴海》 獲本尊轉發大讚：聽起來太棒了  香港01",
       "published_at": "2026-04-23T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "鄧紫棋翻唱周杰倫新歌《愛琴海》獲得周杰倫本人轉發並大加讚賞。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1527,
@@ -21372,11 +21372,11 @@
       "snippet": "周杰倫 Jay Chou【青花瓷 Blue and White Porcelain】-Official Music Video  JUKSY 街星",
       "published_at": "2026-05-28T11:26:07.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫經典歌曲《青花瓷》的官方音樂錄影帶在JUKSY街星發布，引發歌迷回味。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 1528,
@@ -21386,11 +21386,11 @@
       "snippet": "不合周杰倫傳20年！吳宗憲淚揭恩怨情仇內幕：我只要求你一件事  緯來新聞網",
       "published_at": "2026-03-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "吳宗憲淚揭與周杰倫長達20年的不合傳聞內幕，並透露他對周杰倫的唯一要求。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1529,
@@ -21400,11 +21400,11 @@
       "snippet": "NBA》Doncic也愛周杰倫！ 聽《七里香》給滿分好評「像Justin Bieber」  緯來新聞網",
       "published_at": "2026-01-26T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "NBA球星Doncic對周杰倫的歌曲《七里香》給予滿分好評，並將他比作Justin Bieber。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1530,
@@ -21414,11 +21414,11 @@
       "snippet": "ETtoday新聞雲. . 【周杰倫下跪求婚畫面曝光！ 煙火前相擁...好像偶像劇♥ ＃星光雲REELS】 周董真的浪漫到破表！！！連我都暈了！！！😍 (#史蒂芬周) 周董先前在發片記者會上，回憶當初為了向昆凌求婚，特別在英國租了一座古堡，並在裡面憑空打造一間餐廳，所有  facebook.com",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞報導周杰倫在英國古堡向昆凌浪漫求婚的畫面曝光，引發網友熱烈討論與讚嘆。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1531,
@@ -21428,11 +21428,11 @@
       "snippet": "知訊台  新城廣播",
       "published_at": "2026-04-08T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊僅提及『知訊台 新城廣播』，內容過於籠統，無法判斷與周杰倫的具體關聯。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1532,
@@ -21442,11 +21442,11 @@
       "snippet": "周杰倫澳網跨界揮拍圓夢！國籍標示「CHN」非「TPE」引熱議  三立新聞網SETN.com",
       "published_at": "2026-01-14T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫在澳網圓夢揮拍，但其國籍標示為「CHN」而非「TPE」引發熱烈討論。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1533,
@@ -21456,11 +21456,11 @@
       "snippet": "周杰倫寫歌來陰的？吳宗憲首聽周董新歌〈愛情海〉給出真實評價  NOWnews今日新聞",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "吳宗憲首次聆聽周杰倫新歌〈愛情海〉並給出評價，標題則以「寫歌來陰的」製造話題。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1534,
@@ -21470,11 +21470,11 @@
       "snippet": "周杰倫〈鄉間的路〉昆凌叔叔入鏡！帥樣宛如模特　MV破3000萬點擊  NOWnews今日新聞",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈鄉間的路〉MV因昆凌叔叔入鏡且點擊率突破3000萬，獲得廣泛關注與成功。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1535,
@@ -21484,11 +21484,11 @@
       "snippet": "最幸運「J女郎」出現！「周杰倫16包廂」即將開張  自由娛樂",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫相關的「16包廂」即將開幕，並提及一位幸運的「J女郎」。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1536,
@@ -21498,11 +21498,11 @@
       "snippet": "周杰倫杭州演唱會被指「只唱90分鐘」？杰威爾音樂回應了| 娛樂  Newtalk新聞",
       "published_at": "2026-04-10T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.4,
+      "summary": "周杰倫杭州演唱會被指控時長過短，其所屬杰威爾音樂已對此爭議做出回應。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1537,
@@ -21512,11 +21512,11 @@
       "snippet": "周杰倫演唱會湧入89 萬人上線搶票！關於這位華語天王的七大神級事蹟，2022 年唱片銷售居全球冠軍魅力不減！  Bella.tw儂儂",
       "published_at": "2026-03-18T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞報導周杰倫演唱會搶票盛況，並提及他2022年唱片銷售全球冠軍及七大神級事蹟，展現其不減的華語天王魅力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1538,
@@ -21526,11 +21526,11 @@
       "snippet": "天王效應發威！周杰倫杭州演唱會周邊飯店房價大漲6倍  經濟日報",
       "published_at": "2026-04-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "天王效應發威！周杰倫杭州演唱會周邊飯店房價大漲6倍 - 經濟日報",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1539,
@@ -21540,11 +21540,11 @@
       "snippet": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲　震撼場面曝光  三立娛樂星聞",
       "published_at": "2026-04-04T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫演唱會斥資5億打造14米巨型機甲，再創紀錄並呈現震撼場面。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1540,
@@ -21554,11 +21554,11 @@
       "snippet": "周杰倫演唱會遭質疑「划水」！他火力全開做1事…公司回應了？  Yahoo新聞",
       "published_at": "2026-04-09T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫的演唱會因被質疑「划水」而引發討論，但新聞強調他全力以赴並可能獲得公司回應。",
+      "category": "爭議",
+      "analyzed": 1
     },
     {
       "id": 1541,
@@ -21568,11 +21568,11 @@
       "snippet": "獨家／周杰倫杭州演唱會被指「划水」？　案情出現大逆轉  鏡週刊Mirror Media",
       "published_at": "2026-04-10T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫杭州演唱會被指「划水」的爭議出現大逆轉，顯示情況可能對他有利。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1542,
@@ -21582,11 +21582,11 @@
       "snippet": "影／周杰倫演唱會首唱求婚甜曲〈I DO〉 台下秒變「大型求婚現場」超浪漫  Yahoo新聞",
       "published_at": "2026-04-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在演唱會上首次演唱求婚甜曲〈I DO〉，將現場營造成浪漫的「大型求婚現場」，氣氛熱烈。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1543,
@@ -21596,11 +21596,11 @@
       "snippet": "「比周杰倫演唱會票還難訂！」 台中議員指控捐贈復康巴士還要排隊  Yahoo新聞",
       "published_at": "2026-04-09T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "台中議員以「比周杰倫演唱會票還難訂」來比喻捐贈復康巴士的困難，周杰倫在此新聞中僅作為難度比較的參考。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1544,
@@ -21610,11 +21610,11 @@
       "snippet": "周杰倫演唱會遭質疑「划水」！他火力全開做1事…公司回應了？  民視新聞網",
       "published_at": "2026-04-10T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "周杰倫演唱會因被質疑「划水」引發爭議，但他以實際行動回應，公司也對此做出說明。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1545,
@@ -21624,11 +21624,11 @@
       "snippet": "豪砸5億！周杰倫開唱出動14公尺巨型機甲 震撼畫面曝光  自由娛樂",
       "published_at": "2026-04-04T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會斥資五億打造14公尺巨型機甲，呈現震撼視覺效果。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1546,
@@ -21638,11 +21638,11 @@
       "snippet": "昆凌看周杰倫演唱會塞車超崩潰！女兒殿下急哭喊：他說要等我欸  NOWnews今日新聞",
       "published_at": "2026-04-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "昆凌帶女兒去看周杰倫演唱會，因塞車女兒急哭，展現父女情深。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1547,
@@ -21652,11 +21652,11 @@
       "snippet": "吳宗憲演唱會周杰倫站台機率「九成以上」 被拱邀請笑著回應了  Yahoo新聞",
       "published_at": "2026-02-03T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫被拱邀請在吳宗憲演唱會站台，吳宗憲笑著回應，站台機率被評估為「九成以上」。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1548,
@@ -24065,6 +24065,104 @@
       "summary": "此新聞內容主要探討Apple更新導致的商業問題，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1720,
+      "title": "8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More - JamBase",
+      "link": "https://www.jambase.com/article/new-albums-goose-olivia-rodrigo-sublime",
+      "source": "Tavily (www.jambase.com)",
+      "snippet": "# 8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More. Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC also have new releases out today. This week we highlight new albums from Goose, Olivia Rodrigo, Sublime, Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC. _ was described in a press materials as “Goose’s most spacious and deeply considered collection thus far, an all-encompassing musical experience that pushes their signature wit, musical ingenuity, and inimitable vision to the next level and beyond.” The 15-track follow-up to dual 2025 releases _Everything Must Go_ and _Chain Yer Dragon_ is said to feature material that runs the gamut from “heartland rock piano ballads” to “accented orchestral jazz interludes” to “high-octane synth rock.”. Image 5: you seem pretty sad for a girl so in love. Olivia Rodrigo released her highly anticipated third full length album, _you seem pretty sad for a girl so in love_, today through Geffen Records.",
+      "published_at": "Fri, 12 Jun 2026 11:50:21 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Goose、Olivia Rodrigo等多位藝人的新專輯發行，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1721,
+      "title": "Olivia Rodrigo, BTS, Jack White & More: New Music Friday Guide - Billboard",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-bts-jack-white-new-music-friday-guide-1236269845/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Olivia Rodrigo, BTS Lead Week's Best New Music: Friday Music Guide. Click to Expand Search Input. # Olivia Rodrigo, BTS, Jack White   BTS drop a new song on streamers that had previously only been available on a vinyl edition of _ARIRANG_; and Jack White teases his just-announced new album, _Frozen Charlotte_, out next month…plus much more.",
+      "published_at": "Fri, 12 Jun 2026 06:44:13 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹Olivia Rodrigo、BTS和Jack White等藝人的新音樂發行，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1722,
+      "title": "Watch Gracie Abrams Talks New Music and Her Acting Debut | The Run-Through - Vogue",
+      "link": "https://www.vogue.com/video/watch/the-run-through-gracie-abrams",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "After four years of non-stop touring, Gracie Abrams didn’t expect that new music would come to her so quickly, but she is coming back with the new album Daughter From Hell, out July 17, and is Vogue’s June cover star. “You don't realize how your nervous system is kind of like running until you stop,” says Abrams as she discusses her latest album and cover shoot with Senior Features Editor Marley Marius and Global Director of Social Media Samantha Sussman on Vogue’s The Run Through Podcast. This is The Run-Through. I mean, Sam, you were on set. what was it like, what were the vibes? I'd love to and I'll need Gracie's help,. There was a heat wave, so we were all in it together. and realize what it was we were shooting and where,. I'm sure you would agree if that's also what it is. I'm just so excited for LA to have a museum like that.",
+      "published_at": "Fri, 12 Jun 2026 16:07:30 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導葛蕾西·艾布拉姆斯（Gracie Abrams）即將發行新專輯《Daughter From Hell》並登上Vogue封面，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1723,
+      "title": "mgk Blacks Out His Heaviness and Returns to the Blog Era: Cover Story - Billboard Canada",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/mgk-cover-story-interview",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "Hip-hop’s multi-genre king is returning to a more innocent and nostalgic time with his new collaborative mixtape with Wiz Khalifa, **Blog Era Boyz**. Hair by Aaron King, grooming by Sonia Lee. mgk has covered the chaos that’s been written all over him. For nearly two decades, he’s been one of the most restless forces in music. Now, he’s made his long-awaited return to hip-hop, releasing his new **Blog Era Boyz** collaborative mixtape with his Lost Americana tourmate Wiz Khalifa that recaptures the sound and spirit of his 2000s and 2010s come-up as Machine Gun Kelly. “I was looking for a change that wasn't just a sound wave,” he reflects to **Billboard Canada** over the phone from Austin, Texas. He had been inked and then inked back over with different designs, some reminding him of phases in his life he didn’t — or didn’t want to — remember. “I saw death and drugs in all these patterns that I was literally writing on my body,” he says.",
+      "published_at": "Mon, 08 Jun 2026 15:29:34 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此篇報導主要關於饒舌歌手MGK與Wiz Khalifa合作推出新專輯《Blog Era Boyz》，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1724,
+      "title": "Who is Jay Clayton? Trump's DNI Pick Leads New York's Southern District - Military.com",
+      "link": "https://www.military.com/who-is-jay-clayton-trumps-dni-pick-leads-new-yorks-southern-district",
+      "source": "Tavily (www.military.com)",
+      "snippet": "# Who is Jay Clayton? Following widespread criticism about interim Director of National Intelligence (DNI) Bill Pulte taking over the reins, President Donald Trump has announced a new person to take the helm: Jay Clayton. In a Truth Social announcement on Thursday, Trump said that \"few people anywhere in the Legal Community are respected at the level of Jay,” adding that he encourages the GOP-controlled U.S. Senate “to confirm Jay as soon as possible.”. It presents a change from a week-and-a-half ago, when Trump praised Pulte for his \"deep experience managing the most sensitive matters in America, the safety and soundness of the Markets, and over 10 Trillion Dollars at Fannie Mae/Freddie Mac, a substantial increase from where it was just 12 months ago.\" Trump had stated in early June that Pulte would remain in his roles while leading DNI.",
+      "published_at": "Fri, 12 Jun 2026 15:38:26 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於美國總統川普提名Jay Clayton為國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1725,
+      "title": "Get Jay-Z tickets in Los Angeles: How to buy, best prices, dates for 'Jay-Z 30' concerts - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/tickets/news/jay-z-tickets-los-angeles-buy-prices-dates-jay-z-30-concerts/400fd5e754052de56eac024c",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# Get Jay-Z tickets in Los Angeles: How to buy, best prices, dates for 'Jay-Z 30' concerts. Jay-Z has a few more tickets up his sleeve this year. After an East Coast run, including a show in Philly and a trio of performances in New York, Jay-Z will continue a nostalgia run at SoFi stadium in October. **BUY NOW**: Get tickets to Jay-Z concerts on Vivid Seats. His NYC shows may be celebrating his recent albums, but fans can expect to go deeper into Jay-Z's career in Los Angeles as the rapper continues his 30th anniversary celebrations. Here's how to snag your tickets now to see Jay-Z in LA this fall. ## Jay-Z Los Angeles tickets. Tickets to Jay-Z's Los Angeles concert are available now on Vivid Seats! **BUY NOW**: Latest prices, seats to see 'Jay-Z 30' concert at SoFi Stadium. Jay-Z has five concerts on his 2026 schedule, including three in New York, one in Paris and one in Los Angeles.",
+      "published_at": "Fri, 12 Jun 2026 08:30:01 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手Jay-Z在洛杉磯舉辦演唱會的售票資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1726,
+      "title": "Pendley decides to \"Spend My Time Lovin'\" - Country Standard Time",
+      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=16043",
+      "source": "Tavily (www.countrystandardtime.com)",
+      "snippet": "# Pendley decides to \"Spend My Time Lovin'\". **Friday, June 12, 2026** – Trey Pendley is back with a new single, \"Spend My Time Lovin',\" out today via Leo33. The idea of the song is no matter how busy life gets, love is still the most important thing to make time for. This song continues to set the stage for his debut album, \"Signs Of Life,\" slated for release on Aug. 28. Pendley also released a video for the song. \"'Spend My Time Lovin'' came from thinking about how easy it is to get stuck in the everyday grind,\" said Pendley. The accompanying visualizer shows Pendley skipping work to spend time with his wife Lexi fishing and on a picnic eating . ### More news for Trey Pendley. ### CD reviews for Trey Pendley. Trey Pendley's first EP, \"Podunk,\" offers a lively mixture of traditional folk, country and Americana with something more modern thrown in.",
+      "published_at": "Fri, 12 Jun 2026 22:20:33 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導鄉村歌手Trey Pendley發行新單曲「Spend My Time Lovin'」並預告其首張專輯「Signs Of Life」的消息。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25224,6 +25322,21 @@
         "無焦點事件"
       ],
       "created_at": "2026-06-12 05:19:45"
+    },
+    {
+      "id": 82,
+      "report_date": "2026-06-13",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日新聞中未發現任何與周杰倫相關的報導。主要焦點集中在其他娛樂新聞，例如Jay-Z宣布舉辦30週年演唱會，以及Michael Jackson傳記電影《Michael》票房突破9億美元並上架串流平台，還有美國政治人物Jay Clayton獲提名擔任國家情報總監等。",
+      "key_events": [
+        "無周杰倫新聞",
+        "Jay-Z 宣布演唱會",
+        "MJ 電影創紀錄"
+      ],
+      "created_at": "2026-06-13 05:09:19"
     }
   ],
   "notification_logs": [
@@ -26444,11 +26557,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-12 05:19:47"
+    },
+    {
+      "id": 175,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-13 05:09:20"
+    },
+    {
+      "id": 176,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-13 05:09:20"
     }
   ],
   "_meta": {
-    "nextArticleId": 1720,
-    "nextReportId": 82,
-    "nextLogId": 175
+    "nextArticleId": 1727,
+    "nextReportId": 83,
+    "nextLogId": 177
   }
 }

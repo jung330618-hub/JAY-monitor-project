@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 8
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1607,
-    "positive": 477,
-    "negative": 58,
-    "neutral": 1072,
+    "total": 1637,
+    "positive": 491,
+    "negative": 60,
+    "neutral": 1086,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-05-29",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-30",
       "total": 9,
@@ -56,9 +48,9 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 138,
-      "negative": 9,
-      "neutral": 70,
+      "positive": 152,
+      "negative": 11,
+      "neutral": 77,
       "avg_score": 0.74
     },
     {
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-13",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1720,
+      "title": "8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More - JamBase",
+      "link": "https://www.jambase.com/article/new-albums-goose-olivia-rodrigo-sublime",
+      "source": "Tavily (www.jambase.com)",
+      "snippet": "# 8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More. Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC also have new releases out today. This week we highlight new albums from Goose, Olivia Rodrigo, Sublime, Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC. _ was described in a press materials as “Goose’s most spacious and deeply considered collection thus far, an all-encompassing musical experience that pushes their signature wit, musical ingenuity, and inimitable vision to the next level and beyond.” The 15-track follow-up to dual 2025 releases _Everything Must Go_ and _Chain Yer Dragon_ is said to feature material that runs the gamut from “heartland rock piano ballads” to “accented orchestral jazz interludes” to “high-octane synth rock.”. Image 5: you seem pretty sad for a girl so in love. Olivia Rodrigo released her highly anticipated third full length album, _you seem pretty sad for a girl so in love_, today through Geffen Records.",
+      "published_at": "Fri, 12 Jun 2026 11:50:21 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了Goose、Olivia Rodrigo等多位藝人的新專輯發行，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1721,
+      "title": "Olivia Rodrigo, BTS, Jack White & More: New Music Friday Guide - Billboard",
+      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-bts-jack-white-new-music-friday-guide-1236269845/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Olivia Rodrigo, BTS Lead Week's Best New Music: Friday Music Guide. Click to Expand Search Input. # Olivia Rodrigo, BTS, Jack White   BTS drop a new song on streamers that had previously only been available on a vinyl edition of _ARIRANG_; and Jack White teases his just-announced new album, _Frozen Charlotte_, out next month…plus much more.",
+      "published_at": "Fri, 12 Jun 2026 06:44:13 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹Olivia Rodrigo、BTS和Jack White等藝人的新音樂發行，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1722,
+      "title": "Watch Gracie Abrams Talks New Music and Her Acting Debut | The Run-Through - Vogue",
+      "link": "https://www.vogue.com/video/watch/the-run-through-gracie-abrams",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "After four years of non-stop touring, Gracie Abrams didn’t expect that new music would come to her so quickly, but she is coming back with the new album Daughter From Hell, out July 17, and is Vogue’s June cover star. “You don't realize how your nervous system is kind of like running until you stop,” says Abrams as she discusses her latest album and cover shoot with Senior Features Editor Marley Marius and Global Director of Social Media Samantha Sussman on Vogue’s The Run Through Podcast. This is The Run-Through. I mean, Sam, you were on set. what was it like, what were the vibes? I'd love to and I'll need Gracie's help,. There was a heat wave, so we were all in it together. and realize what it was we were shooting and where,. I'm sure you would agree if that's also what it is. I'm just so excited for LA to have a museum like that.",
+      "published_at": "Fri, 12 Jun 2026 16:07:30 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導葛蕾西·艾布拉姆斯（Gracie Abrams）即將發行新專輯《Daughter From Hell》並登上Vogue封面，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1723,
+      "title": "mgk Blacks Out His Heaviness and Returns to the Blog Era: Cover Story - Billboard Canada",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/mgk-cover-story-interview",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "Hip-hop’s multi-genre king is returning to a more innocent and nostalgic time with his new collaborative mixtape with Wiz Khalifa, **Blog Era Boyz**. Hair by Aaron King, grooming by Sonia Lee. mgk has covered the chaos that’s been written all over him. For nearly two decades, he’s been one of the most restless forces in music. Now, he’s made his long-awaited return to hip-hop, releasing his new **Blog Era Boyz** collaborative mixtape with his Lost Americana tourmate Wiz Khalifa that recaptures the sound and spirit of his 2000s and 2010s come-up as Machine Gun Kelly. “I was looking for a change that wasn't just a sound wave,” he reflects to **Billboard Canada** over the phone from Austin, Texas. He had been inked and then inked back over with different designs, some reminding him of phases in his life he didn’t — or didn’t want to — remember. “I saw death and drugs in all these patterns that I was literally writing on my body,” he says.",
+      "published_at": "Mon, 08 Jun 2026 15:29:34 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此篇報導主要關於饒舌歌手MGK與Wiz Khalifa合作推出新專輯《Blog Era Boyz》，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1724,
+      "title": "Who is Jay Clayton? Trump's DNI Pick Leads New York's Southern District - Military.com",
+      "link": "https://www.military.com/who-is-jay-clayton-trumps-dni-pick-leads-new-yorks-southern-district",
+      "source": "Tavily (www.military.com)",
+      "snippet": "# Who is Jay Clayton? Following widespread criticism about interim Director of National Intelligence (DNI) Bill Pulte taking over the reins, President Donald Trump has announced a new person to take the helm: Jay Clayton. In a Truth Social announcement on Thursday, Trump said that \"few people anywhere in the Legal Community are respected at the level of Jay,” adding that he encourages the GOP-controlled U.S. Senate “to confirm Jay as soon as possible.”. It presents a change from a week-and-a-half ago, when Trump praised Pulte for his \"deep experience managing the most sensitive matters in America, the safety and soundness of the Markets, and over 10 Trillion Dollars at Fannie Mae/Freddie Mac, a substantial increase from where it was just 12 months ago.\" Trump had stated in early June that Pulte would remain in his roles while leading DNI.",
+      "published_at": "Fri, 12 Jun 2026 15:38:26 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於美國總統川普提名Jay Clayton為國家情報總監，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1725,
+      "title": "Get Jay-Z tickets in Los Angeles: How to buy, best prices, dates for 'Jay-Z 30' concerts - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/tickets/news/jay-z-tickets-los-angeles-buy-prices-dates-jay-z-30-concerts/400fd5e754052de56eac024c",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# Get Jay-Z tickets in Los Angeles: How to buy, best prices, dates for 'Jay-Z 30' concerts. Jay-Z has a few more tickets up his sleeve this year. After an East Coast run, including a show in Philly and a trio of performances in New York, Jay-Z will continue a nostalgia run at SoFi stadium in October. **BUY NOW**: Get tickets to Jay-Z concerts on Vivid Seats. His NYC shows may be celebrating his recent albums, but fans can expect to go deeper into Jay-Z's career in Los Angeles as the rapper continues his 30th anniversary celebrations. Here's how to snag your tickets now to see Jay-Z in LA this fall. ## Jay-Z Los Angeles tickets. Tickets to Jay-Z's Los Angeles concert are available now on Vivid Seats! **BUY NOW**: Latest prices, seats to see 'Jay-Z 30' concert at SoFi Stadium. Jay-Z has five concerts on his 2026 schedule, including three in New York, one in Paris and one in Los Angeles.",
+      "published_at": "Fri, 12 Jun 2026 08:30:01 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手Jay-Z在洛杉磯舉辦演唱會的售票資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1726,
+      "title": "Pendley decides to \"Spend My Time Lovin'\" - Country Standard Time",
+      "link": "https://www.countrystandardtime.com/news/newsitem.asp?xid=16043",
+      "source": "Tavily (www.countrystandardtime.com)",
+      "snippet": "# Pendley decides to \"Spend My Time Lovin'\". **Friday, June 12, 2026** – Trey Pendley is back with a new single, \"Spend My Time Lovin',\" out today via Leo33. The idea of the song is no matter how busy life gets, love is still the most important thing to make time for. This song continues to set the stage for his debut album, \"Signs Of Life,\" slated for release on Aug. 28. Pendley also released a video for the song. \"'Spend My Time Lovin'' came from thinking about how easy it is to get stuck in the everyday grind,\" said Pendley. The accompanying visualizer shows Pendley skipping work to spend time with his wife Lexi fishing and on a picnic eating . ### More news for Trey Pendley. ### CD reviews for Trey Pendley. Trey Pendley's first EP, \"Podunk,\" offers a lively mixture of traditional folk, country and Americana with something more modern thrown in.",
+      "published_at": "Fri, 12 Jun 2026 22:20:33 GMT",
+      "collected_at": "2026-06-13 05:07:33",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導鄉村歌手Trey Pendley發行新單曲「Spend My Time Lovin'」並預告其首張專輯「Signs Of Life」的消息。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1712,
       "title": "Publishing Briefs: Seeker Enters Global Distribution Partnership With Virgin Music Group - Billboard",
@@ -456,122 +554,39 @@
       "summary": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1691,
-      "title": "Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
-      "link": "https://inmusicblog.com/rap/kanye-west-bully-deluxe-gemini-season/",
-      "source": "Tavily (inmusicblog.com)",
-      "snippet": "# Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON”. Kanye West announced BULLY Deluxe for June 19 and revealed that new single “GEMINI SEASON” will arrive alongside a music video. **Kanye West** is wasting no time following his massive birthday concert in the **Netherlands**. Just moments after wrapping up the second night of his sold-out Arnhem stadium run on June 8, Ye revealed that the **deluxe edition of** ***BULLY*** will arrive on June 19, while a brand-new single, “**GEMINI SEASON**,” and its accompanying music video are set to drop within hours. Released on March 28 through YZY and Gamma, *BULLY* marked Ye’s twelfth studio album and one of his strongest commercial debuts of the decade. Talk of a deluxe edition has circulated almost since the album’s release. His two-night run at GelreDome represented his first performances in the Netherlands since 2013 and one of his most significant European appearances in more than a decade.",
-      "published_at": "Mon, 08 Jun 2026 21:28:30 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1692,
-      "title": "Kanye West and Bianca Censori drop steamy 'Gemini Season' music video on rapper's birthday - The News International",
-      "link": "https://www.thenews.com.pk/latest/1405258-kanye-west-drops-the-gemini-season-music-video-featuring-bianca-censori",
-      "source": "Tavily (www.thenews.com.pk)",
-      "snippet": "# Kanye West and Bianca Censori drop steamy 'Gemini Season' music video on rapper's birthday. Kanye West and Bianca Censori stepped into a usual steamy version in the 'Gemini Season' music video. His wife, Bianca Censori, earlier posted an emotional tribute to him on his birthday. Now, the husband-wife duo, it appears, decided to heat up the occasion with the release of a steamy music video. The song is part of Ye's upcoming album, BULLY's deluxe version. Censori directed the music video. In the wake of hit shows in the Netherlands, Ye, according to *Page Six,* is set to head to Georgia for his next concert. The report said a red-carpet welcome for the controversial actor is expected from the country's top leadership. According to the outlet, the Chicago rapper will stay at the Telegraph Hotel's luxurious presidential suite. The reported response will run counter to what the West faced in several Western European countries.",
-      "published_at": "Mon, 08 Jun 2026 22:35:00 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於Kanye West及其新音樂影片，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1693,
-      "title": "Jalen Brunson's Latest Nike Kobe Sneakers Get an Early Release in NYC Ahead of Finals Game 3 - wwd.com",
-      "link": "https://wwd.com/footwear-news/sneaker-news/jalen-brunson-nike-kob3-5-ny-vs-ny-early-release-nyc-1239000248/",
-      "source": "Tavily (wwd.com)",
-      "snippet": "# Jalen Brunson’s Latest Nike Kobe Sneakers Get an Early Release in NYC Ahead of Finals Game 3. * Share this article on X. New York City is buzzing ahead of game 3 of the NBA Finals Monday night, as the Knicks will play their first home game at the ultimate stage in more than 25 years, and with a 2-0 series lead to boot. Leaning into the moment, Foot Locker will host an early release for a Nike Kobe sneaker tied to Jalen Brunson. The Jalen Brunson x Nike Kobe 5 Protro “NY vs NY” will drop Monday through a mobile launch hitting four boroughs in New York City. While formal storytelling has yet to commence for this edition of the Nike Kobe 5 Protro, it appears to be made to invoke both the Statue of Liberty and the Knicks.",
-      "published_at": "Tue, 09 Jun 2026 01:28:41 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了NBA球員Jalen Brunson的Nike Kobe聯名球鞋在NBA總決賽第三場前於紐約提前發售，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1694,
-      "title": "Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’ - Complex",
-      "link": "https://www.complex.com/music/a/cmplxtara-mahadevan/bianca-censori-ye-birthday",
-      "source": "Tavily (www.complex.com)",
-      "snippet": "# Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’. ## A clip shows him turning up to Snoop Dogg's hit song, \"Beautiful.\". He and Bianca Censori celebrated the moment together, with his wife commemorating the moment on her Instagram Story. She also shared a video of him turning up to Snoop Dogg’s 2003 hit song, “Beautiful,” featuring Pharrell and Charlie Wilson. Last month, he performed in Istanbul, Türkiye before a crowd of 118,000 people, which he told the audience was the “largest stadium performance of all time.”. Last Friday, following her debut EP *N0rth4evr*, the soon-to-be 13-year-old and Lil Novi—Lil Wayne’s 16-year-old son—dropped the collaborative single, “Mula The Root of All Evil.” North previously produced Novi’s song “Justswagup,” which he released at the top of the year. musicDid Kanye West Actually Break the Record for 'Largest Stadium Performance' of All Time? Ye claimed during his recent Istanbul performance that he had broken the record for \"largest stadium performance of all time.\".",
-      "published_at": "Mon, 08 Jun 2026 18:42:32 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Bianca Censori Celebrates Ye's 49th Birthday: ‘I Love You More Than Life’ - Complex",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1695,
-      "title": "Jay-Z's Roots Picnic Appearance Was About More Than A Concert - Forbes",
-      "link": "https://www.forbes.com/sites/imeekpo/2026/06/04/jay-zs-roots-picnic-appearance-was-about-more-than-a-concert/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Jay-Z's Roots Picnic Appearance Was About More Than A Concert. *Marking his first headlining set in six years, Jay-Z transformed The Roots Picnic into a celebration of hip-hop history, Black music, and cultural legacy.*. Philadelphia's own Meek Mill also joined the Hov-led medley, delivering a rousing performance of “Dreams and Nightmares.” His appearance further transformed the set into a reunion of some of Philadelphia's most revered hip-hop figures, all assembled by a Brooklyn emcee whose career has long been intertwined with the city's rap legacy. What is pivotal to note about Jay-Z’s performance at The Roots Picnic is that the appearance was unequivocally for the culture. This performance became a celebration of the cultural ecosystem that helped define Jay-Z's legacy. By reuniting artists from the Roc-A-Fella and State Property era, honoring The Roots, and celebrating the 30th anniversary of *Reasonable Doubt*, he transformed a rare concert appearance into a tribute to the cultural institutions and relationships that helped define his career.",
-      "published_at": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay-Z's Roots Picnic Appearance Was About More Than A Concert - Forbes",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1696,
-      "title": "Paris Jackson is bringing her first headlining tour to Houston this summer - Houston Chronicle",
-      "link": "https://www.houstonchronicle.com/entertainment/music/article/paris-jackson-tour-houston-bad-astronaut-tickets-22296117.php",
-      "source": "Tavily (www.houstonchronicle.com)",
-      "snippet": "# Paris Jackson is bringing her first headlining tour to Houston this summer. Paris Jackson is coming to Houston on her first headlining tour. The daughter of music legend Michael Jackson will visit 10 venues this summer as part of her Zombies Tour. **MORE FROM JOEY GUERRA:** Megan Thee Stallion becomes the first female rapper to perform on the Tony Awards. The announcement follows the release of two singles this year, \"Teenage Drama\" and \"Zombies in Love.\" Paris released debut album \"Wilted\" in 2020. Paris also made headlines by publicly distancing herself from the \"Michael\" biopic, saying her notes were ignored after reading an early draft of the script. Joey Guerra is the music critic for the Houston Chronicle. He’s appeared as a regular correspondent on Fox26 and was head judge and director of the Pride Superstar singing competition for a decade. The Houston native became the first female rapper to perform on the Tony Awards and the Oscars.",
-      "published_at": "Mon, 08 Jun 2026 17:35:20 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Paris Jackson is bringing her first headlining tour to Houston this summer - Houston Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1697,
-      "title": "Levina reclaims self-trust on powerful new single \"You Know Everything\" - EARMILK",
-      "link": "https://earmilk.com/2026/06/08/levina-reclaims-self-trust-on-powerful-new-single-you-know-everything/",
-      "source": "Tavily (earmilk.com)",
-      "snippet": "# Levina reclaims self-trust on powerful new single \"You Know Everything\". A piano ballad from London-based singer-songwriter **Levina**, “You Know Everything,” invites listeners to sit in the summer sun at the park, feel everything, and let everything go. After experiencing manipulation and disconnection in romantic relationships, Levina lyrically explores her way back around in finding herself and gaining trust in herself. > *“You just need trust in yourself. Yeah I know it, I know it all. The rhythm enters during the chorus as Levina reassures herself that she has the key to regaining control: *\"You don’t need them at all. The track closes with hand claps as she repeats, *“You know everything, you do, you do,”* reclaiming her independence and strength after heartbreak. #### Deaf Radio turn darkness into beauty on their expansive new single “No Place Like Home” [Music video]. ## [Deaf Radio turn darkness into beauty on their expansive new single “No Place Like Home” [Music video]](https://earmilk.com/2026/06/08/deaf-radio-turn-darkness-into-beauty-on-their-expansive-new-single-no-place-like-home-music-video/).",
-      "published_at": "Mon, 08 Jun 2026 23:30:10 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Levina reclaims self-trust on powerful new single \"You Know Everything\" - EARMILK",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 81,
-    "report_date": "2026-06-12",
-    "total_articles": 8,
+    "id": 82,
+    "report_date": "2026-06-13",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 8,
-    "daily_summary": "今天搜集到的新聞中，未發現任何與周杰倫相關的報導，因此沒有周杰倫的焦點新聞可供摘要。",
+    "neutral_count": 7,
+    "daily_summary": "今日新聞中未發現任何與周杰倫相關的報導。主要焦點集中在其他娛樂新聞，例如Jay-Z宣布舉辦30週年演唱會，以及Michael Jackson傳記電影《Michael》票房突破9億美元並上架串流平台，還有美國政治人物Jay Clayton獲提名擔任國家情報總監等。",
     "key_events": [
       "無周杰倫新聞",
-      "今日無相關報導",
-      "無焦點事件"
+      "Jay-Z 宣布演唱會",
+      "MJ 電影創紀錄"
     ],
-    "created_at": "2026-06-12 05:19:45"
+    "created_at": "2026-06-13 05:09:19"
   },
   "recentReports": [
+    {
+      "id": 82,
+      "report_date": "2026-06-13",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日新聞中未發現任何與周杰倫相關的報導。主要焦點集中在其他娛樂新聞，例如Jay-Z宣布舉辦30週年演唱會，以及Michael Jackson傳記電影《Michael》票房突破9億美元並上架串流平台，還有美國政治人物Jay Clayton獲提名擔任國家情報總監等。",
+      "key_events": [
+        "無周杰倫新聞",
+        "Jay-Z 宣布演唱會",
+        "MJ 電影創紀錄"
+      ],
+      "created_at": "2026-06-13 05:09:19"
+    },
     {
       "id": 81,
       "report_date": "2026-06-12",
@@ -657,21 +672,6 @@
         "專輯三天狂賣4.6億"
       ],
       "created_at": "2026-06-07 05:11:12"
-    },
-    {
-      "id": 75,
-      "report_date": "2026-06-06",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "周杰倫新專輯《太陽之子》3月25日發行，MV耗資近1億台幣，由好萊塢團隊製作，巧妙融入30幅世界名畫，打造吸血鬼懸疑故事。專輯上線三天狂賣逾250萬張，吸金4.6億元，創華語MV製作費新高。周杰倫透露靈感源於恐慌經驗，雖評價兩極，但許多粉絲讚其找回早期感動。",
-      "key_events": [
-        "新專輯《太陽之子》發行",
-        "MV耗資1億融入名畫",
-        "三天銷售破250萬張"
-      ],
-      "created_at": "2026-06-06 04:41:06"
     }
   ]
 }
