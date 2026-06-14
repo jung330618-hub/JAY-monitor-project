@@ -21666,11 +21666,11 @@
       "snippet": "周杰倫官宣全新巡演！一公佈就開賣粉絲搶翻天 大手筆不同城市不同主題  Yahoo新聞",
       "published_at": "2026-02-12T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫官宣全新巡演，以大手筆製作和不同城市不同主題的特色，引發粉絲熱烈搶購。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1549,
@@ -21680,11 +21680,11 @@
       "snippet": "看周杰倫演唱會卻被文化局當黃牛！歌迷炸鍋  Yahoo新聞",
       "published_at": "2026-01-08T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "歌迷因觀看周杰倫演唱會卻被文化局誤認為黃牛而感到憤怒。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1550,
@@ -21694,11 +21694,11 @@
       "snippet": "影／楊迪現身周杰倫演唱會 比手畫腳點歌笑翻全場  Yahoo新聞",
       "published_at": "2026-04-08T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "楊迪現身周杰倫演唱會，以比手畫腳的方式點歌，逗樂了現場觀眾。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1551,
@@ -21708,11 +21708,11 @@
       "snippet": "大哥拒買票！潛伏16小時「混進周杰倫演唱會」只為賣水 身份曝光網全跪了  Yahoo新聞",
       "published_at": "2025-09-21T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "一名男子潛伏16小時混進周杰倫演唱會只為賣水，其身份曝光後引發網友熱議。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1552,
@@ -21722,11 +21722,11 @@
       "snippet": "Travel Tips｜新加坡航空Starlink高速 Wi-Fi 2027 年上線，KrisFlyer會員還能搶先買周杰倫新加坡演唱會門票  Vogue Taiwan",
       "published_at": "2026-05-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新加坡航空KrisFlyer會員可搶先購買周杰倫新加坡演唱會門票，對粉絲而言是正面消息。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1553,
@@ -21736,11 +21736,11 @@
       "snippet": "周杰倫回歸炸翻！《太陽之子》6大亮點公開，台灣最終場演唱會時間曝光  udn 女子漾",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "新聞報導周杰倫演唱會《太陽之子》的亮點及台灣最終場時間曝光，引發粉絲熱烈期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1554,
@@ -21750,11 +21750,11 @@
       "snippet": "周杰倫6年巡演上海謝幕無預警宣布「全新演唱會」官方證實：明年登場| 音樂  太報 TaiSounds",
       "published_at": "2025-10-12T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在上海結束6年巡演後，無預警宣布將於明年舉辦全新演唱會，令粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1555,
@@ -21764,11 +21764,11 @@
       "snippet": "周杰倫演唱會紀念收藏卡 1/21限量上市！超稀有親簽卡、兌換卡以及獨家花絮卡，趕緊帶回家  崛起新傳媒-",
       "published_at": "2026-01-21T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會紀念收藏卡將於1月21日限量上市，包含稀有親簽卡、兌換卡及獨家花絮卡，吸引粉絲收藏。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1556,
@@ -21778,11 +21778,11 @@
       "snippet": "周杰倫演唱會「女兒殿下」超萌奶音應援| 娛樂速報  NOWnews今日新聞",
       "published_at": "2026-04-07T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫的女兒在演唱會上以超萌奶音為他應援，展現溫馨父女情。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1557,
@@ -21792,11 +21792,11 @@
       "snippet": "周杰倫演唱會 ｜壓軸點歌環節有驚喜 Stanley@MIRROR與周董合唱 ： 無憾  Yahoo",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫演唱會的點歌環節出現驚喜，Stanley@MIRROR與周杰倫合唱，Stanley表示毫無遺憾。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1558,
@@ -21806,11 +21806,11 @@
       "snippet": "吳宗憲鬆口台北演唱會嘉賓 「邀周杰倫來機率九成」 - 娛樂新聞 - PChome Online 新聞  PChome Online 新聞",
       "published_at": "2026-02-04T08:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "吳宗憲透露周杰倫有九成機率擔任其台北演唱會嘉賓，引發粉絲期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1559,
@@ -21820,11 +21820,11 @@
       "snippet": "周杰倫演唱會賣大屏票惹議 網批：明擺著割韭菜？  世界新聞網",
       "published_at": "2025-07-10T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫演唱會因販售「大屏票」引發爭議，遭網友批評為「割韭菜」。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1560,
@@ -21834,11 +21834,11 @@
       "snippet": "演唱會搶票難度排行榜掀熱議 周杰倫屬「地獄級」楊丞琳最易買  香港01",
       "published_at": "2025-07-10T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫的演唱會搶票難度被評為「地獄級」，顯示其極高的人氣與市場號召力。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1561,
@@ -21848,11 +21848,11 @@
       "snippet": "周杰倫演唱會台下驚見「內衣正妹」！外套一脫辣秀G級美胸　身分曝光  三立新聞網SETN.com",
       "published_at": "2025-06-30T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫演唱會台下出現一位穿著清涼的女性，其身分隨後被媒體曝光，成為新聞焦點。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1562,
@@ -21862,11 +21862,11 @@
       "snippet": "周杰倫演唱會台下驚見「內衣正妹」！外套一脫辣秀G級美胸 身分曝光  Yahoo新聞",
       "published_at": "2025-06-29T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "新聞報導周杰倫演唱會台下有辣妹觀眾引起話題，其身分也隨之曝光。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1563,
@@ -21876,11 +21876,11 @@
       "snippet": "2男女賣周杰倫演唱會假飛被捕警檢逾千張同編號假門票- 香港  大公文匯網",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "兩名男女因販售周杰倫演唱會假門票被捕，警方查獲逾千張同編號的假票。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1564,
@@ -21890,11 +21890,11 @@
       "snippet": "演唱會門票超難搶？砸重金搶贊助，揭祕銀行讓卡友升等VIP的盤算  Yahoo新聞",
       "published_at": "2025-07-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞揭示周杰倫演唱會門票供不應求，銀行透過贊助讓卡友升等VIP，凸顯其超高人氣。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1565,
@@ -21904,11 +21904,11 @@
       "snippet": "周杰倫演唱會「送門票」！本人親曝獲得辦法 為一事瘋掉直呼：不管了  噓！星聞",
       "published_at": "2024-10-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫親自透露演唱會門票的獲得辦法，引發粉絲高度關注與期待。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1566,
@@ -21918,11 +21918,11 @@
       "snippet": "周杰倫演唱會2025香港站｜門票票價/購票日期/座位表/搶飛攻略一文睇清  SundayMore",
       "published_at": "2025-06-28T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這篇報導提供了周杰倫2025香港演唱會的詳細資訊，包括門票票價、購票日期、座位表及搶票攻略，對歌迷而言是實用且正面的消息。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1567,
@@ -21932,11 +21932,11 @@
       "snippet": "周杰倫大巨蛋演唱會票價公布 12月5日起連唱4場  Yahoo新聞",
       "published_at": "2024-09-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫宣布將於12月5日起在大巨蛋舉辦連續四場演唱會，並已公布票價。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1568,
@@ -21946,11 +21946,11 @@
       "snippet": "新聞稿-大巨蛋演唱會經濟發威周杰倫演唱會創17億經濟效益北市迎觀光旅宿商機新榮景  tpedoit.gov.taipei",
       "published_at": "2024-12-21T16:36:43.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在大巨蛋的演唱會創造了高達17億元的經濟效益，為台北市的觀光旅宿業帶來了新榮景。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1569,
@@ -21960,11 +21960,11 @@
       "snippet": "周杰倫新歌「七月的極光」MV上架 (圖)  Yahoo新聞",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發布了新歌「七月的極光」的音樂錄影帶。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1570,
@@ -21974,11 +21974,11 @@
       "snippet": "周杰倫520送驚喜！新歌MV炸手臂線條 歌詞藏超寵愛妻心思  中天新聞網",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在520發布新歌MV，不僅展現了健壯的手臂線條，歌詞中更透露出他對妻子昆凌的深厚寵愛，為粉絲帶來驚喜。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1571,
@@ -21988,11 +21988,11 @@
       "snippet": "台灣歌手周杰倫推出新歌MV  hkcna.hk",
       "published_at": "2026-05-21T06:19:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫發布了新的歌曲音樂錄影帶。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1572,
@@ -22002,11 +22002,11 @@
       "snippet": "520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾 大方放閃昆凌：最好的願望留給妳  鏡新聞",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在520無預警發行新歌，內容充滿對昆凌的浪漫承諾與深情告白，展現甜蜜放閃。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1573,
@@ -24163,6 +24163,76 @@
       "summary": "此新聞資訊與周杰倫無關，主要報導鄉村歌手Trey Pendley發行新單曲「Spend My Time Lovin'」並預告其首張專輯「Signs Of Life」的消息。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1727,
+      "title": "#ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/arianagrande-channeling-catwoman-for-the-boy-is-mine-at-the-eternalsunshinetour/1359510192715984/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour | Deadline Hollywood | Facebook. #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour. ## **Deadline Hollywood**. Molly McNearney on balancing marriage and the Jimmy Kimmel Show | Watch the latest episode of Behind The Lens via the link in bio. In the clip below, Kathy Bates reflects on what she’s learned from the experience of working on ‘Matlock.’ Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, the importance of seeing seniors in love on TV, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/. Kathy Bates reflects on the importance of seeing seniors in love on TV and expresses her elation for the way ‘Matlock’ creator and showrunner Jennie Snyder Urman included those moments between Matty and her husband Edwin (Sam Anderson) in Season 2 Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, having the time of her life at 78, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/.",
+      "published_at": "Sun, 14 Jun 2026 03:31:34 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導亞莉安娜格蘭德（Ariana Grande）的演唱會造型以及凱西貝茲（Kathy Bates）的訪談，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1728,
+      "title": "Jalen Brunson after Finals win: 'I am in awe' - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-after-finals-win-i-am-in-awe",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Jalen Brunson after Finals win: 'I am in awe'. Jalen Brunson speaks with Lisa Salters after clinching the title in Game 5. # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 04:01:06 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導NBA球員Jalen Brunson贏得總冠軍後的感言，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1729,
+      "title": "Fantastic Finish: Knicks end 53-year championship drought - NBA.com",
+      "link": "https://www.nba.com/watch/video/fantastic-finish-knicks-end-53-year-championship-drought?plsrc=nba&collection=top-trending-videos",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# top trending videos. ## Fantastic Finish: Knicks end 53-year championship drought. # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 05:00:02 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導紐約尼克隊結束了長達53年的冠軍荒，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1730,
+      "title": "Joe: Tiny Desk Concert - NPR",
+      "link": "https://www.npr.org/2026/06/10/g-s1-123345/joe-tiny-desk-concert",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Joe: Tiny Desk Concert**  **The R&B veteran steps behind the Desk to blaze through his smash hits, including \"Good Girls,\" \"I Wanna Know\" and the macking anthem, \"All the Things (Your Man Won't Do).\"**. ## **Tiny Desk**. # Joe: Tiny Desk Concert. *This Black Music Month, Tiny Desk celebrates the undeniable legacy of BET. R&B veteran Joe Thomas earned every chain and stripe on his body as he stepped behind the Tiny Desk. Before the music started, the singer-songwriter and producer explained: \"Where have I been for the past few years? I'm here with you all today, and I wanna do a few songs throughout the catalog.\". He quickly gathers the entire audience in one hand, blazing through songs like \"Good Girls,\" \"The Love Scene\" and the dirty macking anthem, \"All the Things (Your Man Won't Do).\" Joe closes the set with a tender moment, inviting his daughter, Kayla, to sing background on his biggest hit, \"I Wanna Know.\". * \"All the Things (Your Man Won't Do)\".",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導R&B歌手Joe的Tiny Desk演唱會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1731,
+      "title": "Top 10 Plays - June 13, 2026 - NBA.com",
+      "link": "https://www.nba.com/watch/video/top-10-plays-june-13-2026?plsrc=nba&collection=top-trending-videos",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# top trending videos. ## Top 10 Plays - June 13, 2026. Check out the best plays from Saturday Night! # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 05:06:23 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為NBA每日十大好球，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25337,6 +25407,21 @@
         "MJ 電影創紀錄"
       ],
       "created_at": "2026-06-13 05:09:19"
+    },
+    {
+      "id": 83,
+      "report_date": "2026-06-14",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集到的新聞中，沒有直接提及周杰倫的相關報導或焦點事件。所有新聞皆與其他藝人、運動賽事或政治財經議題相關，因此無法提供周杰倫的精簡摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關事件",
+        "無重要焦點"
+      ],
+      "created_at": "2026-06-14 05:19:25"
     }
   ],
   "notification_logs": [
@@ -26571,11 +26656,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-13 05:09:20"
+    },
+    {
+      "id": 177,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-14 05:19:25"
+    },
+    {
+      "id": 178,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-14 05:19:26"
     }
   ],
   "_meta": {
-    "nextArticleId": 1727,
-    "nextReportId": 83,
-    "nextLogId": 177
+    "nextArticleId": 1732,
+    "nextReportId": 84,
+    "nextLogId": 179
   }
 }

@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1637,
-    "positive": 491,
-    "negative": 60,
-    "neutral": 1086,
-    "avg_score": 0.61
+    "total": 1667,
+    "positive": 510,
+    "negative": 63,
+    "neutral": 1094,
+    "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-05-30",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-05-31",
       "total": 6,
@@ -48,9 +40,9 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 152,
-      "negative": 11,
-      "neutral": 77,
+      "positive": 171,
+      "negative": 14,
+      "neutral": 80,
       "avg_score": 0.74
     },
     {
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-14",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1727,
+      "title": "#ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour - facebook.com",
+      "link": "https://www.facebook.com/deadline/posts/arianagrande-channeling-catwoman-for-the-boy-is-mine-at-the-eternalsunshinetour/1359510192715984/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "# #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour | Deadline Hollywood | Facebook. #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour. ## **Deadline Hollywood**. Molly McNearney on balancing marriage and the Jimmy Kimmel Show | Watch the latest episode of Behind The Lens via the link in bio. In the clip below, Kathy Bates reflects on what she’s learned from the experience of working on ‘Matlock.’ Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, the importance of seeing seniors in love on TV, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/. Kathy Bates reflects on the importance of seeing seniors in love on TV and expresses her elation for the way ‘Matlock’ creator and showrunner Jennie Snyder Urman included those moments between Matty and her husband Edwin (Sam Anderson) in Season 2 Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, having the time of her life at 78, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/.",
+      "published_at": "Sun, 14 Jun 2026 03:31:34 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導亞莉安娜格蘭德（Ariana Grande）的演唱會造型以及凱西貝茲（Kathy Bates）的訪談，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1728,
+      "title": "Jalen Brunson after Finals win: 'I am in awe' - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-after-finals-win-i-am-in-awe",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Jalen Brunson after Finals win: 'I am in awe'. Jalen Brunson speaks with Lisa Salters after clinching the title in Game 5. # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 04:01:06 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導NBA球員Jalen Brunson贏得總冠軍後的感言，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1729,
+      "title": "Fantastic Finish: Knicks end 53-year championship drought - NBA.com",
+      "link": "https://www.nba.com/watch/video/fantastic-finish-knicks-end-53-year-championship-drought?plsrc=nba&collection=top-trending-videos",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# top trending videos. ## Fantastic Finish: Knicks end 53-year championship drought. # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 05:00:02 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導紐約尼克隊結束了長達53年的冠軍荒，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1730,
+      "title": "Joe: Tiny Desk Concert - NPR",
+      "link": "https://www.npr.org/2026/06/10/g-s1-123345/joe-tiny-desk-concert",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Joe: Tiny Desk Concert**  **The R&B veteran steps behind the Desk to blaze through his smash hits, including \"Good Girls,\" \"I Wanna Know\" and the macking anthem, \"All the Things (Your Man Won't Do).\"**. ## **Tiny Desk**. # Joe: Tiny Desk Concert. *This Black Music Month, Tiny Desk celebrates the undeniable legacy of BET. R&B veteran Joe Thomas earned every chain and stripe on his body as he stepped behind the Tiny Desk. Before the music started, the singer-songwriter and producer explained: \"Where have I been for the past few years? I'm here with you all today, and I wanna do a few songs throughout the catalog.\". He quickly gathers the entire audience in one hand, blazing through songs like \"Good Girls,\" \"The Love Scene\" and the dirty macking anthem, \"All the Things (Your Man Won't Do).\" Joe closes the set with a tender moment, inviting his daughter, Kayla, to sing background on his biggest hit, \"I Wanna Know.\". * \"All the Things (Your Man Won't Do)\".",
+      "published_at": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導R&B歌手Joe的Tiny Desk演唱會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1731,
+      "title": "Top 10 Plays - June 13, 2026 - NBA.com",
+      "link": "https://www.nba.com/watch/video/top-10-plays-june-13-2026?plsrc=nba&collection=top-trending-videos",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# top trending videos. ## Top 10 Plays - June 13, 2026. Check out the best plays from Saturday Night! # Playlist.",
+      "published_at": "Sun, 14 Jun 2026 05:06:23 GMT",
+      "collected_at": "2026-06-14 05:17:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容為NBA每日十大好球，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1720,
       "title": "8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More - JamBase",
@@ -484,94 +554,39 @@
       "summary": "此新聞內容主要關於麥可·傑克森的傳記電影票房成功以及其審判紀錄片在Netflix上線並引起關注，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1701,
-      "title": "Financial Services Roundup: Market Talk - Moomoo",
-      "link": "https://www.moomoo.com/hans/news/post/71248932/financial-services-roundup-market-talk",
-      "source": "Tavily (www.moomoo.com)",
-      "snippet": "* Financial Services Roundup: Market Talk. GSK -1.71% IFNNY +5.45% NUVL -2.70% RELX -1.79%. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 在美国，moomoo上的投资产品和服务由Moomoo Financial Inc.提供，一家受美国证券交易委员会（SEC）监管的持牌主体。 Moomoo Financial Inc.是金融业监管局（FINRA）和证券投资者保护公司（SIPC）的成员。. 在新加坡，moomoo上的投资产品和服务是通过Moomoo Financial Singapore Pte. Ltd.提供，该公司受新加坡金融管理局（MAS）监管(牌照号码︰CMS101000) ，持有资本市场服务牌照 (CMS) ，持有财务顾问豁免（Exempt Financial Adviser）资质。本内容未经新加坡金融管理局的审查。. 在加拿大，通过moomoo应用提供的仅限订单执行的券商服务由Moomoo Financial Canada Inc.提供，并受加拿大投资监管机构（CIRO）监管。. 在马来西亚，moomoo上的投资产品和服务是通过Moomoo Securities Malaysia Sdn. Bhd. 提供，该公司受马来西亚证券监督委员会（SC）监管(牌照号码︰eCMSL/A0397/2024) ，持有资本市场服务牌照 (CMSL) 。本内容未经马来西亚证券监督委员会的审查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd., Moomoo Securities Australia Limited, Moomoo Financial Canada Inc.,和Moomoo Securities Malaysia Sdn. Bhd.是关联公司。. * Alibaba Group Holding Stock Slips 1.4% in Hong Kong. * Alibaba, Baidu's Inclusion to Pentagon List Expected to Have Limited Impact -- Market Talk. * Meituan Stock Climbs 1.2% in Hong Kong. * Tingyi (Cayman Islands) Holding Stock Sheds 1.3% in Hong Kong.",
-      "published_at": "Tue, 09 Jun 2026 08:21:08 GMT",
-      "collected_at": "2026-06-10 05:03:25",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Financial Services Roundup: Market Talk - Moomoo",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1702,
-      "title": "JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles - Consequence of Sound",
-      "link": "https://consequence.net/2026/06/jay-z-30th-anniversary-concerts-paris-los-angeles/",
-      "source": "Tavily (consequence.net)",
-      "snippet": "You have previously signed in with a \\*\\*\\*\\* account. # JAY-Z Announces 30th Anniversary Concerts in Paris and Los Angeles. Celebrating the 30th anniversary of his debut album, Reasonable Doubt. JAY-Z has expanded the 30th anniversary celebration surrounding his debut album, *Reasonable Doubt*, with new stadium shows in Paris and Los Angeles scheduled for later this year. A Citi cardmembers pre-sale for the SoFi show is set for Thursday, June 11th at 10:00 a.m. local time, while a Mastercard pre-sale will be available for the concert in Paris. These pair of shows come in addition a previously announced trio of concerts at Yankee Stadium in July, where JAY-Z will offer a full performances of *Reasonable Doubt* and *The Blueprint* on back-to-back nights, followed by what’s being billed as an “Extra Innings” concert on night three. ### JAY-Z 30 at SoFi Stadium: How to Get Tickets. ### Whitechapel Announce Fall 2026 North American 20th Anniversary Tour.",
-      "published_at": "Tue, 09 Jun 2026 13:25:59 GMT",
-      "collected_at": "2026-06-10 05:03:25",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於美國饒舌歌手JAY-Z的30週年演唱會資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1703,
-      "title": "‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days - Variety Australia",
-      "link": "https://au.variety.com/2026/tv/global/michael-jackson-the-verdict-17-million-views-netflix-37443/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "# ‘Michael Jackson: The Verdict’ Thrills Netflix With 17 Million Views in 5 Days. Netflix’s “Michael Jackson: The Verdict,” a docuseries that revisits the King of Pop’s 2005 trial, debuted at the top of the TV charts with 17.8 million views in its first five days. It sat atop the Netflix television charts for the week of June 1-7, followed by the limited series “The Witness” (13.2 million views) and Tina Fey’s “The Four Seasons” Season 2 (5.7 million views in its second week on the platform). On the non-English side, the Korean drama “Teach You a Lesson” scored 6.4 million views in its first three days on Netflix. Topping the English-language film charts is the Jennifer Lopez and Brett Goldstein rom-com “Office Romance,” which debuted with 20.9 million views in its first three days on Netflix. In its first week on the platform, “Creed III” punched up to 7.9 million views and the animated comedy “Swapped” — in its sixth week in the Top 10 — nabbed 7.5 million views.",
-      "published_at": "Tue, 09 Jun 2026 19:51:33 GMT",
-      "collected_at": "2026-06-10 05:03:25",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Netflix上多部影視作品的觀看數據，包括關於麥可傑克森的紀錄片，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1689,
-      "title": "UK banks back new sovereign AI project - FinTech Futures",
-      "link": "https://www.fintechfutures.com/ai-in-fintech/uk-banks-back-new-sovereign-ai-project",
-      "source": "Tavily (www.fintechfutures.com)",
-      "snippet": "# 四川省营山中学校. ）简称“营中”，位于四川省南充市，是四川省省属重点中学、首批四川省示范性普通高中、. （国家级重点中学）、四川省现代教育技术示范校、四川省阳光体育示范校、四川省校本研修示范校、四川省绿化模范单位、国家十二五规划教育科研重点实验基地、国家教师教育创新西南实验区示范基地。. 学校始建于民国十四年（1925年），为国民政府兴建的营山县立中学校；1950年2月，合并营山女子中学、私立晋德中学、私立明镜中学，成立营山中学校；1951年7月，正式更名为四川省营山中学校；2020年7月，加挂“西华师范大学营山附属中学”校名。. 截至2023年1月，学校占地面积254亩、拥有教学班129个（高中93个，初中36个）、学生7700余人、. ## 目录. ## 办学历史. 1933年下期，红军来营山，由于当局的反动宣传，营中、女中暂时停办。. 1935年上期，奉命复校，女中和营中合并，称为营山县立初级中学校，校长由县长刘宗暄暂代。. 1950年2月，营山县委、县政府将营山县初级中学校、营山女子中学、私立晋德中学、私立明镜中学合并，成立四川省营山中学校。. 1954年，学校团总支成立，经南充专署批准，学校扩建教室2781㎡，称五四甲楼、五四乙楼。. 1969年9月，学校成立“营山中学校革命委员会”，杜长林（农民）任主任，张汉清（工人）任副主任。. 1976年，“文革”后，下放教师陆续调回工作，学校开始清理冤、假、错案。. 1980年2月，营山县财政局、文教局增拨2.2万元，用于学校改建1100㎡的教学用房。. 1984年2月，营山县财政局、营山县文教局拨款2.52万元，学校用于实验室的完善和校舍维修。. 1985年11月，学校举行六十周年校庆，12月，学校被县委、县政府授予“学校工作先进单位”，校党支部被评为“先进党支部”，地区体委授予学校“体育先进单位”称号。. 1986年3月，学校成立《萋草》和《萌芽》两个文学社。. 1988年1月，学校新、扩、改建房屋面积26500㎡，总投资395万元。. 1990年，学校通过四川省普通高（完）中办学要求验收，确定为南充市重点中学。. 1997年4月，学校改建女生宿舍，建四楼一底的女生宿舍，每间住7位，共计700个床位。. 2001年10月，学校修建教学大楼（致远楼）、膳食中心、男生宿舍和改建运动场。. 2005年11月，学校被南充市教科所定为“校本教研实验基地”，获“南充先进教科室”称号。. 回乡省亲并视察学校，并植树、题字、赠书（《定国文存》）。. 2010年4月，学校组建“金声播音社”校园广播站。5月，重建萋草文学社，《五彩石》校报第一期出刊。. 2010年7月，澳门援建项目落户学校（2012年9月建成投入使用）。8月，新教学楼、天伟图书馆环境改造、校园大道景观改造竣工。. 2010年11月，学校天伟会堂竣工，高一28个班全部安装多媒体设备，校园监控系统安装完成，创建为四川省级卫生先进单位。. 2011年，学校陆续编写《青春的旋律》《高中语文语法知识及其运用》《营山历史简明教程》等校本教材五套，被授予南充市首批“校本教研基地学校”称号。. 2015年3月，学校各班多媒体换代升级，换装“班班通”电子白板。5-8月，学校校园大道、教学楼楼道、运动场进行校园文化装饰，莲心楼教室统一安装空调，全校班主任办公室安装新的办公桌椅。. ### 硬件设施. 据2017年5月学校官网信息显示，学校拥有田径场、足球场、投掷场、学生公寓、标准化400米塑胶跑道、容纳5000人就餐的学生膳食中心、多功能于一体的学术中心；有古色古香的圆梦馆、五四乙楼、天伟会堂，有莲心楼、静嘉楼、致远楼、玉成楼等教学楼；有数字化实验室（计算机信息室、理化生实验室）、网络中心、心理健康中心、舞蹈室、绘画室、练歌房、校史陈列馆、微机室、语音室、多媒体教室、电子阅览室、天伟图书馆、实验大楼等教学设施，教室均配备现代化教学设施以及空调系统。完成了澳门援建工程、运动场改造工程、圆梦馆仿古维修工程、天伟会堂新建工程、内河改造工程、校园环境整治工程等工程建设。. ### 师资力量. 据2017年5月学校官网信息显示，学校有教职工378人，其中四川省特级教师4人，全国、省、市、县优秀班主任72人，全国优秀教师3人，高级教师105人，一级教师146人，省市县级骨干、优秀教师、学科带头人108人。37名教师在各级学术团体中担任常务理事、理事等职。. 、唐建全、何青松、蒋晓明、李云中、王海滨、鄢福宸、袁基成. 曾振宇、雷鸣、袁基成、鄢福宸、伍文化、史小华、李丽春、何青松、郭剑、蒋晓明、李云中、王海滨、唐建全、宾建林、卢兴远、刘崇禹、邓燕玲、易熙、邓刚菊、李强、邓兴珍、冯敬华、杨囊宇、冯小刚、黄毅、王青、司晓莉、郑建明、张天学、黄建涛、周贤武、李斌、习权、李义富、董义勇、黄运雄、蹇建民、胡勇、文先富、蒋超、吴成铭、李小秋、杨兴明、黄亚明、侯卫、刘亚明、康自力、康仙翟、于时铭、张天学、李崇春、彭时辉、王三江. 谭光明、邓春天、张明权、魏英、李志、宾建林、何玲莉、卢兴远、杨小涛、刘崇禹、邓燕玲、易熙、邓刚菊、钟敬、牛小春、郑继平、王亚明、郭裕钊、李强、胡玉华、叶文、曹东、邓兴珍、冯敬华、胡再奎、李从清、杨青松、杨囊宇、冯小刚、黄毅、王青、司晓莉、唐晓、胡荣仙、郑建明、唐代兴、张天学、杨晓荣、肖吉富、杨银、章宗义、杨璨、黄建涛、周贤武、李继伟、豆昌勇、陈平、陈丽、何青云、李简明、李斌、肖学辉、柳树碧、沈志国、习权、寇华阳、邓娟、龙吟、史可然、宋琼、文先富、蒋超. 刘崇禹、邓刚菊、王青、周贤武、李斌、李云中. ### 学生成绩. 据2017年5月学校官网信息显示，2009年至2017年，学校连年高考本科上线绝对人数均超过千人，教学质量综合考核连续获南充市一、二等奖。. 2013年高考，学校本科上线1152人（含艺体），全县文理科前30名学校分别占29人、27人。一名同学获全县文科第一名，一名同学获全县理科第一名。. 2014年高考，学校本科上线1186人（含艺体），重点本科上线127人，一名同学获全县文科第一名，一名同学保送西南财经大学. 2015年高考，学校本科上线1209人（含艺体），重点本科上线199人，文理科全县前20名，分别占19名和16名。一名同学获全县文科第一名。. 据2017年5月学校官网信息显示，学校在全国、省、市各学科竞赛中，有17人获全国奖，15人获省级奖，101人获市级奖。学生参加全国、省、市中学生运动会获金牌43枚、银牌63枚、铜牌74枚、全国冠军1人。. 2010年，学校代表队参加南充市中学生田径运动会，获得甲组（省级示范校）团体总分第一名。. 2015年，学校代表队在南充市“中国体育彩票杯”中学生篮球锦标赛中，获得甲组（国家级、省级示范高中组）四名。. 2016年，学校代表队在南充市中学生田径锦标赛中，获甲组“二等奖”，罗欣林获男子甲组110米栏冠军，肖鑫、何季春、郑鑫、张春城获男子甲组4×100米接力亚军，蒋丹丹获男子甲组标枪亚军。. 2017年，学校代表队在南充市中学生田径锦标赛中，获团体三等奖（甲组），肖蕾、张春城和郑岁川分获跳远、110米栏和跳高第二名。. 据2017年5月学校官网信息显示，学校承担国家级科研课题2项，省级课题3项，“青春期心理健康教育课程实验”获“九·五”期间国家教委二等奖。14名教师参加省、市竞教，获省级一等奖1人，市级一等奖10人，二等奖3人。学校参加“尝试教学法”研究，获教育部颁发的全国先进集体；参加“学习型教师培养研究”课题获四川省政府二等奖、南充市政府一等奖。. 2009年10月，学校教师李忠耀、鄢福宸、李丽春、雷鸣、曾振宇的课题《普通中学学习型教师培养研究》获第四届四川省普教“教学成果奖”二等奖。. 2016年9月，学校教师胡再奎、刘良兵、陶蓉、李毅、王宇、杨银、魏炎培的课题《中学实验教学资源的开发和应用实践研究》获二等奖。. 2016年12月，学校教师胡少雄的授课题目《市场配置资源》在2016年南充市高中思想政治优质课展评活动中，获得一等奖。. 据2017年5月学校官网信息显示，学校先后获四川省重点中学、四川省示范性普通高中、四川省校风示范校、四川省阳光体育示范学校、四川省现代教育技术示范学校、四川省体育传统项目学校、四川省绿化模范单位、西南大学实习基地、南充市最佳文明单位. 2023年8月30日，被四川省教育厅、四川省人力资源社会保障厅授予“四川省教育工作先进集体”称号。. ## 文化传统. ，中部为象征学校历史的“少海馆”（现圆梦馆又作校史陈列馆），徽志下方为学校创建时间“1925”年。. 晋德铸魂，博识强身，海涵地负展宏韬，慎思笃行，绿色发展，巨木成林铸辉煌。. 同学啊，我们是中华的栋梁，我们是民族的希望，同学啊，我们乐观坚强，积极向上，让我们点亮未来的光芒，让我们托起明天的. ### 社团文化. 截至2018年12月，学校成立了萋草文学社、模联社、小折楼手工社、科技创新社、西府海棠服饰社等40多个学生社团，定期举办科技节、社团活动节、运动会、文艺汇演、主旨演讲及各种主题教育活动。. ## 知名校友. ## 地图信息. * 44共“研” 共“进” 共绘蓝图 || 川东北高中教研共同体成立大会暨联合教研活动. ©2026 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号.",
-      "published_at": "Mon, 08 Jun 2026 12:41:51 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "UK banks back new sovereign AI project - FinTech Futures",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1690,
-      "title": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post",
-      "link": "https://www.washingtonpost.com/business/2026/06/08/stream-tv-music-movies-june-2026/58bb4c92-60fa-11f1-9c46-d6211372eede_story.html",
-      "source": "Tavily (www.washingtonpost.com)",
-      "snippet": "# What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo. The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are among the entertainment highlights this week hitting streaming services. This image released by Lionsgate shows Jaafar Jackson as Michael Jackson in a scene from “Michael.” (Glen Wilson/Lionsgate via AP). The streaming service debut of “Michael” and new albums from Olivia Rodrigo and Keith Urban are some of the new television, films, music and games headed to a device near you. Also among the streaming offerings worth your time this week, as selected by The Associated Press’ entertainment journalists : the new season of “Sweet Magnolias,” a new YA series “Every Year After” and the survival game “Solarpunk.”.",
-      "published_at": "Fri, 05 Jun 2026 16:24:57 GMT",
-      "collected_at": "2026-06-09 04:48:13",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 82,
-    "report_date": "2026-06-13",
-    "total_articles": 7,
+    "id": 83,
+    "report_date": "2026-06-14",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "今日新聞中未發現任何與周杰倫相關的報導。主要焦點集中在其他娛樂新聞，例如Jay-Z宣布舉辦30週年演唱會，以及Michael Jackson傳記電影《Michael》票房突破9億美元並上架串流平台，還有美國政治人物Jay Clayton獲提名擔任國家情報總監等。",
+    "neutral_count": 5,
+    "daily_summary": "今日搜集到的新聞中，沒有直接提及周杰倫的相關報導或焦點事件。所有新聞皆與其他藝人、運動賽事或政治財經議題相關，因此無法提供周杰倫的精簡摘要。",
     "key_events": [
       "無周杰倫新聞",
-      "Jay-Z 宣布演唱會",
-      "MJ 電影創紀錄"
+      "無相關事件",
+      "無重要焦點"
     ],
-    "created_at": "2026-06-13 05:09:19"
+    "created_at": "2026-06-14 05:19:25"
   },
   "recentReports": [
+    {
+      "id": 83,
+      "report_date": "2026-06-14",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日搜集到的新聞中，沒有直接提及周杰倫的相關報導或焦點事件。所有新聞皆與其他藝人、運動賽事或政治財經議題相關，因此無法提供周杰倫的精簡摘要。",
+      "key_events": [
+        "無周杰倫新聞",
+        "無相關事件",
+        "無重要焦點"
+      ],
+      "created_at": "2026-06-14 05:19:25"
+    },
     {
       "id": 82,
       "report_date": "2026-06-13",
@@ -657,21 +672,6 @@
         "無重要事件發生"
       ],
       "created_at": "2026-06-08 05:17:59"
-    },
-    {
-      "id": 76,
-      "report_date": "2026-06-07",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 1,
-      "neutral_count": 8,
-      "daily_summary": "周杰倫新專輯《太陽之子》近期備受矚目，已於3月25日發行，短短三天內銷售突破250萬張，狂吸逾4.6億元。同名主打歌MV耗資近億元，由好萊塢團隊在巴黎與台北拍攝，內容巧妙融合30幅世界名畫，以「吸血鬼咬了梵谷」概念呈現，引發藝術與創意討論。周杰倫透露創作靈感來自過去演唱會的負面經歷，MV中的「超狂選角」也令人驚艷。專輯的商業成功與藝術表現，再次彰顯周杰倫的影響力。",
-      "key_events": [
-        "新專輯《太陽之子》發行",
-        "MV耗資近億元拍攝",
-        "專輯三天狂賣4.6億"
-      ],
-      "created_at": "2026-06-07 05:11:12"
     }
   ]
 }
