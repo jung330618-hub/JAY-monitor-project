@@ -22016,11 +22016,11 @@
       "snippet": "討論牆 | 520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾 大方放閃昆凌：最好的願望留給妳  LINE TODAY",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在520無預警發布新歌作為「震撼禮物」，內容充滿對昆凌的浪漫承諾與甜蜜放閃。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1574,
@@ -22030,11 +22030,11 @@
       "snippet": "520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾 大方放閃昆凌：最好的願望留給妳  Yahoo新聞",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在520無預警發布新歌，其中包含對昆凌的浪漫承諾，大方展現甜蜜放閃。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1575,
@@ -22044,11 +22044,11 @@
       "snippet": "周杰倫《I Do》MV上線 昔求婚昆凌畫面曝光  rti.org.tw",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌《I Do》MV上線，內容曝光了他過去向昆凌求婚的珍貴畫面，引發粉絲關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1576,
@@ -22058,11 +22058,11 @@
       "snippet": "周杰倫再推新歌〈愛琴海〉MV 曝歌名差點被取為「希臘拖鞋」  Yahoo新聞",
       "published_at": "2026-04-06T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出新歌〈愛琴海〉MV，並分享歌名差點被取為「希臘拖鞋」的趣聞。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1577,
@@ -22072,11 +22072,11 @@
       "snippet": "周杰倫新歌〈那天下雨了〉竟藏23年彩蛋！老粉破防了：終於有續集  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈那天下雨了〉被發現藏有23年前的彩蛋，讓老粉們感到驚喜與感動，視為期待已久的續集。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1578,
@@ -22086,11 +22086,11 @@
       "snippet": "周杰倫新歌MV收錄求婚昆凌畫面 (圖)  Yahoo新聞",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在新歌MV中首次公開了向昆凌求婚的珍貴畫面，引起粉絲熱烈討論。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1579,
@@ -22100,11 +22100,11 @@
       "snippet": "周杰倫新歌《愛琴海》MV 劉畊宏繼24年前《回到過去》再獻詞  Yahoo新聞",
       "published_at": "2026-04-08T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出新歌《愛琴海》MV，由劉畊宏繼24年前《回到過去》後再度填詞，引發歌迷期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1580,
@@ -22114,11 +22114,11 @@
       "snippet": "周杰倫新作銷量創佳績　新歌〈淘金小鎮〉化身偵探追金條失竊案  鏡週刊Mirror Media",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈淘金小鎮〉銷量創佳績，歌曲內容以偵探追查金條失竊案為主題。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1581,
@@ -22128,11 +22128,11 @@
       "snippet": "周杰倫新歌〈鄉間的路〉MV驚喜上線 昆凌叔叔也入鏡模樣曝光  緯來新聞網",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈鄉間的路〉MV驚喜上線，其中昆凌的叔叔也參與演出。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1582,
@@ -22142,11 +22142,11 @@
       "snippet": "520愛上你不意外！幸福來得太快 周杰倫說到做到  自由娛樂",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "這則新聞以浪漫且正面的語氣，強調周杰倫信守承諾，帶來幸福的個人生活事件。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1583,
@@ -22156,11 +22156,11 @@
       "snippet": "周杰倫新歌差點叫「希臘拖鞋」！方文山出手救場壓力爆棚 創作內幕全曝光  Yahoo新聞",
       "published_at": "2026-04-05T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "新聞揭露周杰倫新歌創作內幕，方文山曾出手「救場」避免了「希臘拖鞋」的歌名，展現兩人合作的壓力與火花。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1584,
@@ -22170,11 +22170,11 @@
       "snippet": "周杰倫難忘帶妻小看極光的感動　創作成〈七月的極光〉  鏡週刊Mirror Media",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫因難忘與妻小觀賞極光的感動，將此美好回憶創作成新歌〈七月的極光〉。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1585,
@@ -22184,11 +22184,11 @@
       "snippet": "1億重金打造！周杰倫新歌MV亮點多 同框30幅名畫  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌MV斥資上億元打造，並與30幅名畫同框，亮點十足。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1586,
@@ -22198,11 +22198,11 @@
       "snippet": "520最浪漫的禮物 周杰倫承諾正式兌現 | 青年日報  LINE TODAY",
       "published_at": "2026-05-19T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在520這天兌現承諾，被媒體形容為最浪漫的禮物。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1587,
@@ -22212,11 +22212,11 @@
       "snippet": "周杰倫不靠方文山！新歌〈誰稀罕〉自己寫詞曲：其實是他忙不過來  NOWnews今日新聞",
       "published_at": "2026-04-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫新歌〈誰稀罕〉詞曲皆由他本人創作，展現其全方位音樂才華。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1588,
@@ -22226,11 +22226,11 @@
       "snippet": "周杰倫〈七月的極光〉MV上線 浪漫告白 | 青年日報  LINE TODAY",
       "published_at": "2026-05-20T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈七月的極光〉MV正式上線，內容充滿浪漫告白氛圍。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1589,
@@ -22240,11 +22240,11 @@
       "snippet": "周杰倫新歌MV曝光 11年前求婚昆凌細節大公開  台視新聞網",
       "published_at": "2026-04-03T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫新歌MV曝光，內容首次公開了11年前他向昆凌求婚的浪漫細節。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1590,
@@ -22254,11 +22254,11 @@
       "snippet": "新歌打敗周杰倫、BTS奪冠！Ozone周祖安宣布個人首場見面會  Yahoo新聞",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "新聞報導Ozone成員周祖安新歌在榜單上超越周杰倫和BTS奪冠，並宣布個人見面會。",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 1591,
@@ -22268,11 +22268,11 @@
       "snippet": "周杰倫新歌MV進度曝光！ 天王竟為這件事煩惱爆粗口  Yahoo新聞",
       "published_at": "2026-03-15T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫新歌MV進度曝光，報導提及他在製作過程中因煩惱而爆粗口，引發關注。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1592,
@@ -22282,11 +22282,11 @@
       "snippet": "新歌MV重現浪漫！ 周杰倫「11年前古堡求婚畫面」曝光  華視新聞網",
       "published_at": "2026-04-03T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌MV重現了11年前在古堡向昆凌求婚的浪漫畫面，引發粉絲熱議。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1593,
@@ -22296,11 +22296,11 @@
       "snippet": "周杰倫新歌〈鄉間的路〉首播 墨爾本取景展現電影感慢生活  中華新聞雲／中華日報",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈鄉間的路〉在墨爾本取景並首播，展現出電影般的慢生活風格。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1594,
@@ -22310,11 +22310,11 @@
       "snippet": "周杰倫新歌打造電影級MV 自曝求婚昆凌險翻車  中華新聞雲／中華日報",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫新歌MV製作精良，並分享了與昆凌求婚時的趣味插曲，展現其生活化的一面。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1595,
@@ -22324,11 +22324,11 @@
       "snippet": "36小時賣破218萬張！周杰倫新輯封神「MV先拍再寫歌」內幕曝光  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯在36小時內賣出超過218萬張，被譽為神作，並揭露了先拍MV再寫歌的創作內幕。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1596,
@@ -24233,6 +24233,104 @@
       "summary": "此新聞內容為NBA每日十大好球，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1732,
+      "title": "'Michael' dethrones 'Bohemian Rhapsody' as top-grossing music biopic - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/movies/2026/06/14/michael-movie-box-office-record-bohemian-rhapsody/90294425007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "## The King of Pop is officially the king of the box office: The \"Michael\" movie starring Jaafar Jackson is now the top-grossing musical biopic ever. The King of Pop is officially the king of the box office. \"Michael,\" the movie about Michael Jackson's life starring the singer's nephew Jaafar Jackson in the lead role, has reached a major milestone in its impressive box office run: It is officially the highest-grossing musical biopic of all time. \"Michael\" has now surpassed that haul with a global take of $932.2 million and counting as of June 14, according to Lionsgate. The movie debuted to a massive $97 million at the domestic box office in April, setting a new record for biggest opening weekend for a musical biopic of all time. At the global box office, \"Michael\" is the second highest-grossing movie of 2026 so far.",
+      "published_at": "Sun, 14 Jun 2026 19:46:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導麥可傑克森的傳記電影《Michael》打破票房紀錄，成為史上最高票房的音樂傳記片，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1733,
+      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It’s us' - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "# Jakob Nowell used to call Sublime ‘his dad’s band.’ But new album proves ‘Now it’s our band. There was a time in the beginning of Sublime’s recent revival when Jakob Nowell, the son of the band’s late singer Bradley Nowell, saw himself simply as a good son trying to help his adoptive uncles — drummer Bud Gaugh and bassist Eric Wilson — restart his dad’s iconic Long Beach trio. Sublime is my dad’s band, and I’m helping out, that’s all,” he told The Times in 2024. We showed up, Jake had an idea for another song, and he sent us a little demo and said “Hey, this is what I’ve been thinking about.” And then we get down to the studio [in San Pedro], and he’s like, “Oh yeah, so I had another idea,” and kind of changed it. We get in there to do a take for a song, and I’m always like “Let’s just do like three more!” It’s just that much fun, and that’s how it feels playing live too.",
+      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於樂團Sublime及其新專輯，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1734,
+      "title": "Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’ - Forbes",
+      "link": "https://www.forbes.com/sites/laurasirikul/2026/06/14/music-artist-samuel-embracing-all-his-roots-with-ep-samuelito/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’. Musical artist Samuel has been through a lot in his young life. Now, he seems to know that with his newly released album, *SAMUELito*. “I started very young, and I just felt like I’m coming back to where I first started, when I was born, growing up, what I ate, the environment, the people I was with, and the music I listened to.”. He decided that was the perfect title for the album, which blends Latin rhythm and reggaeton energy with his experience in the Korean pop music scene. “I just felt this would be a fresh way that I could show my true identity,” he shares. After years of training in the Korean music system, he knew the structure of K-pop music and the performance aspects surrounding it. I’ve always wanted to do Spanish music, and it just felt like now was the perfect time to do this.”.",
+      "published_at": "Sun, 14 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於音樂人Samuel發行新專輯《SAMUELito》，融合拉丁、雷鬼與韓流元素，展現其真實身份，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1735,
+      "title": "From ship engines to studio sessions: 6ixty returns with self-produced \"The Redman EP\" - The Business & Financial Times",
+      "link": "https://thebftonline.com/2026/06/14/from-ship-engines-to-studio-sessions-6ixty-returns-with-self-produced-the-redman-ep/",
+      "source": "Tavily (thebftonline.com)",
+      "snippet": "A password will be e-mailed to you. Home News From ship engines to studio sessions: 6ixty returns with self-produced “The Redman... # From ship engines to studio sessions: 6ixty returns with self-produced “The Redman EP”. Now, the Accra-based composer/rapper is gearing up for his most personal release yet. \\_The Redman EP\\_, a 7-track project entirely written, arranged, and produced by 6ixty himself, drops June 15, 2026. Fans got their first taste of his sound with 2019’s \\_Nyamekye\\_ EP, home to \\_Close to You\\_, \\_Nyamekye\\_, and \\_Vibes\\_. But \\_The Redman\\_ levels up the ambition. Tracklist: \\_Disco Tech\\_, \\_Come With Me\\_, \\_Moon Steps\\_, \\_Time Will Tell\\_, \\_Night Life\\_, \\_Far Gone\\_, and \\_Dance\\_. ### Let Love Lead NGO marks 4th annual sanitation drive with major clean-up in Nima. In a move set to shatter long-standing stigmas, the KGL Foundation has officially handed over an ultra-modern Out-Patient Department (OPD) to the Accra Psychiatric...",
+      "published_at": "Sun, 14 Jun 2026 18:51:33 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導迦納饒舌歌手6ixty即將發行個人製作的EP《The Redman EP》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1736,
+      "title": "Chaos on New York streets after Knicks secure NBA championship - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/chaos-on-new-york-streets-after-knicks-secure-nba-championship-ny-only/6513329/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # Chaos on New York streets after Knicks secure NBA championship. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Sun, 14 Jun 2026 15:43:19 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導紐約尼克隊奪得NBA總冠軍後街頭的混亂情況，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1737,
+      "title": "NYC erupts in celebrations after Knicks capture NBA title once again - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/nyc-erupts-in-celebrations-after-knicks-capture-nba-title-once-again/6513339/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # NYC erupts in celebrations after Knicks capture NBA title once again. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Sun, 14 Jun 2026 16:18:58 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導紐約尼克隊再次贏得NBA總冠軍後，紐約市的慶祝活動，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1738,
+      "title": "Michael Jackson Ties His Own Longest Run At No. 1 - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/michael-jackson-ties-own-longest-120000776.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Michael Jackson Ties His Own Longest Run At No. 1. He once again leads the R&B Streaming Songs chart, keeping himself from scoring a new No. 1 and tying his most impressive streak at the summit. ## \"Billie Jean\" Holds at No. 1. \"Billie Jean\" holds at No. 1 on the R&B Streaming Songs chart, as it is once again the most-played R&B tune on platforms such as Spotify, Apple Music and others throughout the United States. As \"Billie Jean\" scores its fifth week at No. 1 on the R&B Streaming Songs chart, it ties his previously set longest run in the uppermost space. \"Billie Jean\" and \"Thriller\" are currently tied as Jackson's longest-running rulers on the R&B Streaming Songs chart. \"Billie Jean\" has enjoyed such a powerful run at No. 1 on the R&B Streaming Songs chart that it has stopped two blockbusters by Jackson from finally reaching the top space.",
+      "published_at": "Sun, 14 Jun 2026 12:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Michael Jackson的歌曲《Billie Jean》在R&B串流歌曲榜上追平了他個人最長的冠軍紀錄，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25422,6 +25520,21 @@
         "無重要焦點"
       ],
       "created_at": "2026-06-14 05:19:25"
+    },
+    {
+      "id": 84,
+      "report_date": "2026-06-15",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集的新聞中，未發現周杰倫相關報導。焦點集中於其他音樂人如Michael Jackson傳記電影票房佳績、Jay-Z宣布演唱會，以及NBA尼克隊奪冠等娛樂與體育新聞。",
+      "key_events": [
+        "麥可電影票房佳",
+        "尼克隊奪NBA冠",
+        "Jay-Z宣布開唱"
+      ],
+      "created_at": "2026-06-15 05:42:48"
     }
   ],
   "notification_logs": [
@@ -26670,11 +26783,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-14 05:19:26"
+    },
+    {
+      "id": 179,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-15 05:42:49"
+    },
+    {
+      "id": 180,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-15 05:42:50"
     }
   ],
   "_meta": {
-    "nextArticleId": 1732,
-    "nextReportId": 84,
-    "nextLogId": 179
+    "nextArticleId": 1739,
+    "nextReportId": 85,
+    "nextLogId": 181
   }
 }

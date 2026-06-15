@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1667,
-    "positive": 510,
+    "total": 1697,
+    "positive": 532,
     "negative": 63,
-    "neutral": 1094,
+    "neutral": 1102,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-05-31",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-01",
       "total": 11,
@@ -40,10 +32,10 @@
     {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 171,
+      "positive": 193,
       "negative": 14,
-      "neutral": 80,
-      "avg_score": 0.74
+      "neutral": 81,
+      "avg_score": 0.75
     },
     {
       "date": "2026-06-04",
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-15",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1732,
+      "title": "'Michael' dethrones 'Bohemian Rhapsody' as top-grossing music biopic - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/movies/2026/06/14/michael-movie-box-office-record-bohemian-rhapsody/90294425007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "## The King of Pop is officially the king of the box office: The \"Michael\" movie starring Jaafar Jackson is now the top-grossing musical biopic ever. The King of Pop is officially the king of the box office. \"Michael,\" the movie about Michael Jackson's life starring the singer's nephew Jaafar Jackson in the lead role, has reached a major milestone in its impressive box office run: It is officially the highest-grossing musical biopic of all time. \"Michael\" has now surpassed that haul with a global take of $932.2 million and counting as of June 14, according to Lionsgate. The movie debuted to a massive $97 million at the domestic box office in April, setting a new record for biggest opening weekend for a musical biopic of all time. At the global box office, \"Michael\" is the second highest-grossing movie of 2026 so far.",
+      "published_at": "Sun, 14 Jun 2026 19:46:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導麥可傑克森的傳記電影《Michael》打破票房紀錄，成為史上最高票房的音樂傳記片，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1733,
+      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It’s us' - Los Angeles Times",
+      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "# Jakob Nowell used to call Sublime ‘his dad’s band.’ But new album proves ‘Now it’s our band. There was a time in the beginning of Sublime’s recent revival when Jakob Nowell, the son of the band’s late singer Bradley Nowell, saw himself simply as a good son trying to help his adoptive uncles — drummer Bud Gaugh and bassist Eric Wilson — restart his dad’s iconic Long Beach trio. Sublime is my dad’s band, and I’m helping out, that’s all,” he told The Times in 2024. We showed up, Jake had an idea for another song, and he sent us a little demo and said “Hey, this is what I’ve been thinking about.” And then we get down to the studio [in San Pedro], and he’s like, “Oh yeah, so I had another idea,” and kind of changed it. We get in there to do a take for a song, and I’m always like “Let’s just do like three more!” It’s just that much fun, and that’s how it feels playing live too.",
+      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於樂團Sublime及其新專輯，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1734,
+      "title": "Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’ - Forbes",
+      "link": "https://www.forbes.com/sites/laurasirikul/2026/06/14/music-artist-samuel-embracing-all-his-roots-with-ep-samuelito/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’. Musical artist Samuel has been through a lot in his young life. Now, he seems to know that with his newly released album, *SAMUELito*. “I started very young, and I just felt like I’m coming back to where I first started, when I was born, growing up, what I ate, the environment, the people I was with, and the music I listened to.”. He decided that was the perfect title for the album, which blends Latin rhythm and reggaeton energy with his experience in the Korean pop music scene. “I just felt this would be a fresh way that I could show my true identity,” he shares. After years of training in the Korean music system, he knew the structure of K-pop music and the performance aspects surrounding it. I’ve always wanted to do Spanish music, and it just felt like now was the perfect time to do this.”.",
+      "published_at": "Sun, 14 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於音樂人Samuel發行新專輯《SAMUELito》，融合拉丁、雷鬼與韓流元素，展現其真實身份，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1735,
+      "title": "From ship engines to studio sessions: 6ixty returns with self-produced \"The Redman EP\" - The Business & Financial Times",
+      "link": "https://thebftonline.com/2026/06/14/from-ship-engines-to-studio-sessions-6ixty-returns-with-self-produced-the-redman-ep/",
+      "source": "Tavily (thebftonline.com)",
+      "snippet": "A password will be e-mailed to you. Home News From ship engines to studio sessions: 6ixty returns with self-produced “The Redman... # From ship engines to studio sessions: 6ixty returns with self-produced “The Redman EP”. Now, the Accra-based composer/rapper is gearing up for his most personal release yet. \\_The Redman EP\\_, a 7-track project entirely written, arranged, and produced by 6ixty himself, drops June 15, 2026. Fans got their first taste of his sound with 2019’s \\_Nyamekye\\_ EP, home to \\_Close to You\\_, \\_Nyamekye\\_, and \\_Vibes\\_. But \\_The Redman\\_ levels up the ambition. Tracklist: \\_Disco Tech\\_, \\_Come With Me\\_, \\_Moon Steps\\_, \\_Time Will Tell\\_, \\_Night Life\\_, \\_Far Gone\\_, and \\_Dance\\_. ### Let Love Lead NGO marks 4th annual sanitation drive with major clean-up in Nima. In a move set to shatter long-standing stigmas, the KGL Foundation has officially handed over an ultra-modern Out-Patient Department (OPD) to the Accra Psychiatric...",
+      "published_at": "Sun, 14 Jun 2026 18:51:33 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導迦納饒舌歌手6ixty即將發行個人製作的EP《The Redman EP》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1736,
+      "title": "Chaos on New York streets after Knicks secure NBA championship - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/chaos-on-new-york-streets-after-knicks-secure-nba-championship-ny-only/6513329/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # Chaos on New York streets after Knicks secure NBA championship. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Sun, 14 Jun 2026 15:43:19 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導紐約尼克隊奪得NBA總冠軍後街頭的混亂情況，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1737,
+      "title": "NYC erupts in celebrations after Knicks capture NBA title once again - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/nyc-erupts-in-celebrations-after-knicks-capture-nba-title-once-again/6513339/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # NYC erupts in celebrations after Knicks capture NBA title once again. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Sun, 14 Jun 2026 16:18:58 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導紐約尼克隊再次贏得NBA總冠軍後，紐約市的慶祝活動，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1738,
+      "title": "Michael Jackson Ties His Own Longest Run At No. 1 - Yahoo News UK",
+      "link": "https://uk.news.yahoo.com/michael-jackson-ties-own-longest-120000776.html",
+      "source": "Tavily (uk.news.yahoo.com)",
+      "snippet": "# Michael Jackson Ties His Own Longest Run At No. 1. He once again leads the R&B Streaming Songs chart, keeping himself from scoring a new No. 1 and tying his most impressive streak at the summit. ## \"Billie Jean\" Holds at No. 1. \"Billie Jean\" holds at No. 1 on the R&B Streaming Songs chart, as it is once again the most-played R&B tune on platforms such as Spotify, Apple Music and others throughout the United States. As \"Billie Jean\" scores its fifth week at No. 1 on the R&B Streaming Songs chart, it ties his previously set longest run in the uppermost space. \"Billie Jean\" and \"Thriller\" are currently tied as Jackson's longest-running rulers on the R&B Streaming Songs chart. \"Billie Jean\" has enjoyed such a powerful run at No. 1 on the R&B Streaming Songs chart that it has stopped two blockbusters by Jackson from finally reaching the top space.",
+      "published_at": "Sun, 14 Jun 2026 12:00:00 GMT",
+      "collected_at": "2026-06-15 05:41:02",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Michael Jackson的歌曲《Billie Jean》在R&B串流歌曲榜上追平了他個人最長的冠軍紀錄，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1727,
       "title": "#ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour - facebook.com",
@@ -456,122 +554,39 @@
       "summary": "此新聞內容主要介紹金融時報的訂閱方案，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1707,
-      "title": "Jalen Brunson with 19 Points vs. San Antonio Spurs - NBA.com",
-      "link": "https://www.nba.com/watch/video/jalen-brunson-with-19-points-vs-san-antonio-spurs?plsrc=nba&collection=2026-nba-finals-video",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# 2026 nba finals video. ## Jalen Brunson with 19 Points vs. San Antonio Spurs, 06/10/2026. # Playlist.",
-      "published_at": "Thu, 11 Jun 2026 02:27:39 GMT",
-      "collected_at": "2026-06-11 05:11:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊關於NBA球員Jalen Brunson在對陣聖安東尼奧馬刺隊的比賽中獲得19分。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1708,
-      "title": "Taylor Swift and Randy Newman joke before 'Toy Story 5' performance - USA Today",
-      "link": "https://www.usatoday.com/videos/entertainment/celebrities/2026/06/10/taylor-swift-randy-newman-perform-youve-got-a-friend-in-me/90486630007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "What to watch ☀️ Win $100 💵 See the stage 🎭 Watch Party Newsletter. See how Johnny Knoxville, 'Jackass' cast arrived to a Pride paradeBroadway stars pitch dream shows for the Ed Sullivan Theater'High School Musical' on Broadway? Aubrey Plaza and Christopher Abbott at the 2026 Tony Awards. Broadway stars' hypothetical solo show namesSara Chase talks 'Schmigadoon!' and nod on Tony Awards red carpetThe NSYNC song Joey Fatone thinks would fit a Pinocchio musical'DWTS' spin-off judges are Mark Ballas and his mom. Patriots fan and actor LJ Benet welcomes AJ Brown to New EnglandMark Consuelos on making his Broadway debut in 'Fallen Angels'Tony nominee Ali Louis Bourzgui says neon deserves a comeback'Ragtime' star Caissie Levy celebrates her first Tony nomination. Taylor Swift joins cast at Pixar's 'Toy Story 5' premiereKaty Perry says Justin Trudeau is the 'love of her life' at TribecaAngelina Jolie, Brad Pitt's son high school graduation look.",
-      "published_at": "Wed, 10 Jun 2026 07:18:28 GMT",
-      "collected_at": "2026-06-11 05:11:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞摘要主要報導了泰勒絲參與《玩具總動員5》首映、百老匯明星動態及其他好萊塢娛樂消息，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1709,
-      "title": "Jay Chaudhry, Zscaler CEO: A Fortt Knox Update - CNBC",
-      "link": "https://www.cnbc.com/video/2026/06/09/jay-chaudhry-zscaler-ceo-a-fortt-knox-update.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# Jay Chaudhry, Zscaler CEO: A Fortt Knox Update. Zscaler CEO Jay Chaudhry joins Jon Fortt at Zenith Live, two weeks after a Q3 earnings drop that knocked the stock ~30%. Chaudhry unveils Zero Trust Exchange for Agents, letting AI agents securely talk to other agents and applications under governance, as the headline product. He frames Mythos-era vulnerabilities as the threat Zscaler's architecture was built for, and reveals 80-85% of new product code is now written by AI agents internally. House passes $70 billion immigration funding package. Kalshi CEO on perpetual futures trading: 'The demand is there'. Crusoe CEO weighs in on concerns around waining data center demand. Tom Lee: Latest market action is healthy and won't derail the tech trade. End of 'token-maxxing' could derail the AI rally, says Wells Fargo's Ohsung Kwon.",
-      "published_at": "Tue, 09 Jun 2026 22:57:59 GMT",
-      "collected_at": "2026-06-11 05:11:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導Zscaler執行長Jay Chaudhry的財報與新產品發表。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1710,
-      "title": "Julian Champagnie with the slam - NBA.com",
-      "link": "https://www.nba.com/watch/video/julian-champagnie-with-the-slam-7",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## Julian Champagnie with the slam. # Playlist.",
-      "published_at": "Thu, 11 Jun 2026 01:13:56 GMT",
-      "collected_at": "2026-06-11 05:11:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，內容關於NBA球員Julian Champagnie的灌籃。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1711,
-      "title": "Josh Hart hits from downtown, caps 13-0 Knicks run - NBA.com",
-      "link": "https://www.nba.com/watch/video/josh-hart-hits-from-downtown-caps-13-0-knicks-run",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## Josh Hart hits from downtown, caps 13-0 Knicks run. # Playlist.",
-      "published_at": "Thu, 11 Jun 2026 02:56:55 GMT",
-      "collected_at": "2026-06-11 05:11:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導的是NBA球員Josh Hart在比賽中得分的內容，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1699,
-      "title": "Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles - Variety Australia",
-      "link": "https://au.variety.com/2026/music/news/jay-z-2026-concerts-paris-los-angeles-37457/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "# Jay-Z Announces ‘Jay-Z 30’ Concerts in Paris and Los Angeles. Following his performance at the Roots Picnic earlier this month and his three upcoming Yankee Stadium shows, Jay-Z and Roc Nation have announced retrospective “Jay-Z 30” shows in Paris on Thursday, September 10, 2026, and Los Angeles on Friday, October 23. CITI PRESALE: Citi is the official card of the Jay-Z 30 performance in Los Angeles. Citi cardmembers will have access to presale tickets beginning Thursday, June 11 at 10am local time until 10pm local time through the Citi Entertainment program. His Yankee Stadium shows next month will celebrate the anniversaries of two of his most celebrated albums — “Reasonable Doubt” and “The Blueprint,” while the Philadelphia concert was a more broad career retrospective, with an emphasis on celebrating the city’s culture: Jay-Z was backed by the Roots, who’d joined him for his “Unplugged” concert in 2001, and special guests included hometown heroes Jazmine Sullivan, Bilal Freeway and Beanie Sigel.",
-      "published_at": "Tue, 09 Jun 2026 19:58:59 GMT",
-      "collected_at": "2026-06-10 05:03:25",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國饒舌歌手Jay-Z宣布將在巴黎和洛杉磯舉辦多場演唱會，慶祝其音樂生涯三十週年。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1700,
-      "title": "‘Michael’ hits streamers, $900-million mark. ‘The Verdict’ also draws viewers, and threats - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/story/2026-06-09/michael-is-streaming-the-verdict-prosecutor-details-threats",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "Nearly 17 years after the King of Pop’s death, Michael Jackson is dominating the box office, television ratings and headlines. “Michael,” the biopic about the star that hit theaters in April, has surpassed $900 million at box offices globally, according to Deadline, making it the second-highest-grossing film of 2026 behind “The Super Mario Galaxy Movie,” which hit $1 billion. Netflix has announced a new three-part docuseries that will revisit the 2005 trial in which Michael Jackson was acquitted on charges of child molestation. Also available for streaming is the Netflix docuseries “Michael Jackson: The Verdict,” which became available on June 3 and dominated the streamer’s charts with nearly 18 million views in its first week. The lead prosecutor, Ron Zonen, spoke with TMZ on Tuesday and said that, although he wasn’t sure audiences would view the allegations with a different lens 20 years later, he wanted the documentary to be “as accurate as possible” and feature “the perspective of people who were involved in the trial.”.",
-      "published_at": "Wed, 10 Jun 2026 01:58:42 GMT",
-      "collected_at": "2026-06-10 05:03:25",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於麥可·傑克森的傳記電影票房成功以及其審判紀錄片在Netflix上線並引起關注，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 83,
-    "report_date": "2026-06-14",
-    "total_articles": 5,
+    "id": 84,
+    "report_date": "2026-06-15",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日搜集到的新聞中，沒有直接提及周杰倫的相關報導或焦點事件。所有新聞皆與其他藝人、運動賽事或政治財經議題相關，因此無法提供周杰倫的精簡摘要。",
+    "neutral_count": 7,
+    "daily_summary": "今日搜集的新聞中，未發現周杰倫相關報導。焦點集中於其他音樂人如Michael Jackson傳記電影票房佳績、Jay-Z宣布演唱會，以及NBA尼克隊奪冠等娛樂與體育新聞。",
     "key_events": [
-      "無周杰倫新聞",
-      "無相關事件",
-      "無重要焦點"
+      "麥可電影票房佳",
+      "尼克隊奪NBA冠",
+      "Jay-Z宣布開唱"
     ],
-    "created_at": "2026-06-14 05:19:25"
+    "created_at": "2026-06-15 05:42:48"
   },
   "recentReports": [
+    {
+      "id": 84,
+      "report_date": "2026-06-15",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日搜集的新聞中，未發現周杰倫相關報導。焦點集中於其他音樂人如Michael Jackson傳記電影票房佳績、Jay-Z宣布演唱會，以及NBA尼克隊奪冠等娛樂與體育新聞。",
+      "key_events": [
+        "麥可電影票房佳",
+        "尼克隊奪NBA冠",
+        "Jay-Z宣布開唱"
+      ],
+      "created_at": "2026-06-15 05:42:48"
+    },
     {
       "id": 83,
       "report_date": "2026-06-14",
@@ -657,21 +672,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "UK banks back new sovereign AI project - FinTech Futures、What to Stream: 'Michael,' Olivia Rodrigo and Keith Urban albums and Bonnaroo - The Washington Post、Kanye West Announces ‘BULLY’ Deluxe and New Single “GEMINI SEASON” - inmusicblog.com",
       "created_at": "2026-06-09 04:49:55"
-    },
-    {
-      "id": 77,
-      "report_date": "2026-06-08",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "根據今日搜集到的新聞，並未發現任何與華語流行天王周杰倫直接相關的報導。今日新聞焦點主要集中在國際政治動態，如美國前總統川普言論、中朝領導人會晤及中東衝突；娛樂圈則有麥可傑克森電影上映、其他歌手發片及名人八卦；體育方面則以NBA賽事為主。周杰倫今日並無登上新聞版面。",
-      "key_events": [
-        "無周杰倫報導",
-        "今日無相關新聞",
-        "無重要事件發生"
-      ],
-      "created_at": "2026-06-08 05:17:59"
     }
   ]
 }
