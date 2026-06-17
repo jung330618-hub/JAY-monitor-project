@@ -22562,11 +22562,11 @@
       "snippet": "周杰倫新歌〈鄉間的路〉首播 墨爾本取景展現電影感慢生活 | 中華日報  LINE TODAY",
       "published_at": "2026-04-13T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌〈鄉間的路〉在墨爾本首播，其MV取景於當地，呈現出電影般的慢生活氛圍。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1613,
@@ -22576,11 +22576,11 @@
       "snippet": "中職／周杰倫新歌「淘金小鎮」提到曾峻岳？本尊回應：將軍令比較適合  UDN",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫回應粉絲關於新歌「淘金小鎮」是否提到棒球選手曾峻岳的疑問，幽默表示「將軍令」更適合曾峻岳。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1614,
@@ -22590,11 +22590,11 @@
       "snippet": "周杰倫新歌藝術玩出新高度！MV致敬30幅名畫 笑虧方文山被上藝術課  ENews新聞網",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新歌MV因致敬多幅名畫而展現藝術新高度，獲得高度讚揚。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1615,
@@ -22604,11 +22604,11 @@
       "snippet": "周杰倫新歌《那天下雨了》跨時空對話《晴天》 李現愛到主動打歌  自由娛樂",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出新歌《那天下雨了》，與經典歌曲《晴天》進行跨時空對話，並獲得演員李現因喜愛而主動宣傳。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1616,
@@ -22618,11 +22618,11 @@
       "snippet": "周杰倫新歌找來「大咖男星」合作! 睽違24年「寫的歌都會中」  MSN",
       "published_at": "2026-04-06T08:03:53.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將推出新歌，並與一位大咖男星合作，預計將再次創造熱門歌曲。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1617,
@@ -22632,11 +22632,11 @@
       "snippet": "周杰倫發新片 預告求婚畫面藏MV  Yahoo新聞",
       "published_at": "2026-03-25T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫發布新片預告，暗示其MV中可能藏有求婚畫面，引發粉絲期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1618,
@@ -22646,11 +22646,11 @@
       "snippet": "時隔近4年！周杰倫新專輯來了 爆將把「求婚昆凌影片」放進MV  台視新聞網",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫時隔近四年將發行新專輯，並傳聞會將求婚昆凌的影片放進MV中，引發粉絲高度期待。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1619,
@@ -22660,11 +22660,11 @@
       "snippet": "周杰倫再推新歌〈愛琴海〉MV　曝歌名差點被取為「希臘拖鞋」  鏡週刊Mirror Media",
       "published_at": "2026-04-06T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫推出新歌〈愛琴海〉MV，並分享歌名差點被取為「希臘拖鞋」的趣事。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1620,
@@ -22674,11 +22674,11 @@
       "snippet": "千呼萬喚周杰倫「女兒殿下」終於出現 「我美嗎」成新口號  自由娛樂",
       "published_at": "2026-05-06T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫女兒終於現身，其可愛發言「我美嗎」成為熱門新口號，引發粉絲正面關注。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1621,
@@ -22688,11 +22688,11 @@
       "snippet": "周杰倫新歌找來「大咖男星」合作！睽違24年「寫的歌都會中」  TVBS新聞網",
       "published_at": "2026-04-06T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫將推出新歌，並與一位大咖男星合作，外界對此充滿期待，並讚譽他創作的歌曲總能成功。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1622,
@@ -22702,11 +22702,11 @@
       "snippet": "周杰倫就是狂！新歌吸3倍新聽眾Spotify打造「16包廂」KTV互動體驗- 娛樂新聞- PChome Online 新聞  PChome Online 新聞",
       "published_at": "2026-04-02T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新歌表現狂吸三倍新聽眾，Spotify為此打造KTV互動體驗，展現其音樂的強大號召力。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1623,
@@ -22716,11 +22716,11 @@
       "snippet": "周杰倫新歌打造電影級MV 自曝求婚昆凌險翻車 | 中華日報  LINE TODAY",
       "published_at": "2026-03-24T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.78,
+      "summary": "周杰倫發行新歌並打造電影級MV，同時分享了當年向昆凌求婚時的有趣插曲。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1624,
@@ -22730,11 +22730,11 @@
       "snippet": "520最浪漫禮物！周杰倫把極光與流星寫成歌 新歌藏滿滿寵妻心意  ENews新聞網",
       "published_at": "2026-05-20T07:20:03.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在520發行新歌，將極光與流星寫入歌曲中，展現對妻子的滿滿寵愛與浪漫心意。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1625,
@@ -22744,11 +22744,11 @@
       "snippet": "中職(影)／周杰倫新歌驚見台灣隊守護神？網瘋傳釣出本尊笑回：「這首」比較適合我  民視新聞網",
       "published_at": "2026-03-26T07:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫新歌中出現神似台灣隊守護神的畫面引發網友熱議，並釣出本尊幽默回應，顯示出高度的互動與趣味性。",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1626,
@@ -22758,11 +22758,11 @@
       "snippet": "歌手派偉俊日前被週刊直擊與富邦悍將啦啦隊成員禾羽深夜約會，男方更貼心將女方帶回家，戀情疑似曝光。對此，女方經紀公司今日首度做出回應。 回顧整起事件，兩人會爆出緋聞，是因為日前被週刊拍到深夜同框的畫面。當時派偉俊與身為「富邦女孩」的禾羽一同在深夜夜歡，兩人互動頻繁。週刊更捕捉到男方在過程中展現紳士風度，其中一個「貼心1舉動」陪著女方，並一路將女方帶回家，正因為這個舉動，才讓這段戀情全面曝光。 天王周 ...",
       "published_at": "2026-06-02T21:18:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫徒弟派偉俊被拍到與啦啦隊成員禾羽深夜約會並帶其回家，戀情疑曝光，經紀公司已回應。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1627,
@@ -22772,11 +22772,11 @@
       "snippet": "周杰倫愛徒派偉俊熱戀對象禾羽（原名張雅涵）不僅頂著啦啦隊女神光環，過往的情史與話題更是高潮迭起！現年30歲的她，過去曾憑藉《戲說台灣》的「蘭花精」一角爆紅，年前更跨足歌唱界。雖然曾與林襄、李芷霖同門，後來選擇改名單飛自立發展。",
       "published_at": "2026-06-02T19:48:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導周杰倫愛徒派偉俊的熱戀對象禾羽，並提及她的演藝經歷與過往話題。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1628,
@@ -22786,11 +22786,11 @@
       "snippet": "派偉俊2年前受訪時曾透露單身很久，而且自認不會藏愛，只要對方也同意，會大方公開認愛。另一邊禾羽去年捲入「介入已婚富商家庭成小三」風波，當時她極力否認。",
       "published_at": "2026-06-02T18:29:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了周杰倫愛徒派偉俊的戀情，並提及女方禾羽曾捲入的爭議。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1629,
@@ -22800,11 +22800,11 @@
       "snippet": "陶喆「Soul Power II PLUS」演唱會在上海收官，怕熱且易流汗的他在舞台上又跑又唱，數度用腋下夾住麥克風，雙手拿毛巾擦汗，沒想到卻因汗濕導致麥克風被黏住，數度拔不出，成了意外的插曲。",
       "published_at": "2026-06-02T17:28:58.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.2,
+      "summary": "新聞標題提及周杰倫在演唱會中曾一度無法呼吸。",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 1630,
@@ -22814,11 +22814,11 @@
       "snippet": "大陸超模奚夢瑤與澳門賭王何鴻燊四房之子何猷君結婚7年，近日終於補辦夢幻婚禮。兩人於6月1日在法國世界文化遺產聖米歇爾山（Mont-Saint-Michel）古堡舉行婚禮，並於隔日在社群平台公開現場照片，以「承諾如約而至」為主題，為這段長達7年的婚姻寫下浪漫篇章，引發網友熱烈討論。",
       "published_at": "2026-06-01T19:06:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "大陸超模奚夢瑤與何猷君在法國聖米歇爾山古堡補辦婚禮，該地點曾是周杰倫MV的取景地。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1631,
@@ -22828,11 +22828,11 @@
       "snippet": "亞洲天王周杰倫財力驚人，在台灣擁有至少20戶房產，市值逾45億元，昨（20）日他更大手筆購入法國野獸派藝術家亨利馬諦斯（Henri Matisse）的畫作，在IG興奮直呼：「沒想到就在今天，夢想竟然成真了」。從蘇富比網站查詢，該幅畫作在昨日上午截標，售出價為2000萬美金（約新台幣6.4億元），相當驚人；蔡康永見狀也留言大讚：「好棒的馬諦斯」。 周杰倫昨日在IG用英文發文，寫到他對馬諦斯的喜愛與崇 ...",
       "published_at": "2000-12-31T16:00:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫斥資6.4億元購入法國野獸派藝術家亨利馬諦斯畫作，實現多年夢想，並獲蔡康永等友人讚賞。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1632,
@@ -22842,11 +22842,11 @@
       "snippet": "位於淡水真理街的文化阿給，是不少在地人及觀光客熟悉的老字號名店。由於天王周杰倫曾在演唱會中提及學生時期經常光顧，店家更推出以阿給、魚丸湯及包子組成的「周杰倫套餐」，吸引許多粉絲專程前往朝聖。今年1月，文化阿給發出公告，因家庭因素分家，原店面將暫時歇業，但也 ...",
       "published_at": "2026-05-31T18:07:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫愛店「文化阿給」因家庭因素分家後，回歸僅一天便再度宣布暫停營業，令粉絲感到惋惜。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1633,
@@ -24527,6 +24527,132 @@
       "summary": "Taylor Swift nods to ‘Midnights’ era with ‘70-inspired studio look - Page Six",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1753,
+      "title": "Leboeuf backs Mbappé to break Klose's World Cup goal record - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49086415/leboeuf-backs-mbappe-break-klose-world-cup-goal-record",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Leboeuf backs Mbappé to break Klose's World Cup goal record. ### The Latest. ## What's next for Rashee Rice after release from jail? ## Schefter: NFL still has to sign off on supplemental draft for Brendan Sorsby. * ## Stephen A.: I want to see Serena, Venus Williams play in singles again. proclaims the Knicks America's team. ## Passan to Eisen: Everyone in MLB could use Tarik Skubal. ## Why Cam'ron disagrees with Perk's take on Wemby not shaking hands. ## Titans coach Robert Saleh not concerned by Cam Ward's accuracy issues. ## Rory McIlroy expresses concern about potential PGA tour 2-track model. * ## Five-star WR recruit Dakota Guerrant commits to Oregon on McAfee. ## Stephen A. * ## Would Giannis be a bad fit in Boston?",
+      "published_at": "Tue, 16 Jun 2026 21:50:18 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容完全關於體育賽事，未提及任何與周杰倫相關的資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1754,
+      "title": "Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/fresh-off-winning-the-nba-title-karl-anthony-towns-meets-knicks-fans-in-jersey-city/6514363/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### On Air. # Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 01:41:02 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於NBA球員Karl-Anthony Towns與尼克隊球迷的會面，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1755,
+      "title": "‘We're Going to do Something Great’ 🇫🇷 Kylian Mbappé & France's Only Goal is to Win - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-6l8yqv1glb9prr6p",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "## Check out Kylian Mbappé's interview with Jenny Taft before he is set to play in his third FIFA World Cup™. Kylian Mbappe  FIFA Men's World Cup  France  WC - France vs. Senegal - 06/16/2026  Jenny Taft  FIFA World Cup Live. ### Zlatan, Thierry Henry & Alexi Lalas Preview France vs Senegal | 2026 FIFA World Cup™. ### Players to Watch Between Belgium and Egypt | 2026 FIFA World Cup™. ### Players To Watch Between Germany vs Curaçao | 2026 FIFA World Cup™. ### Keys of the Match between Brazil vs Morocco | 2026 FIFA World Cup™. ### Zlatan, Thierry Henry & Alexi Lalas on What Makes Switzerland a Difficult Opponent | 2026 FIFA World Cup™. ### United States’ 2026 FIFA World Cup™ Opening Ceremony 🌎. ### Keys to the Match between the United States vs. ### INSTANT REACTION: Zlatan, Thierry Henry, Alexi Lalas on Draw Between Canada and Bosnia & Herzegovina. ### Canada’s 2026 FIFA World Cup™ Opening Ceremony 🌎.",
+      "published_at": "Tue, 16 Jun 2026 19:07:37 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於足球明星姆巴佩及其參與的FIFA世界盃，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1756,
+      "title": "LeBron James in active negotiations with Los Angeles Lakers on new deal - ABC7 Los Angeles",
+      "link": "https://abc7.com/post/lebron-james-active-negotiations-los-angeles-lakers-new-deal/19311744/",
+      "source": "Tavily (abc7.com)",
+      "snippet": "# LeBron James in active negotiations with Lakers on new deal. Tuesday, June 16, 2026 11:18PM. LOS ANGELES (KABC) -- LeBron James is reportedly in active negotiations on a new deal with the Los Angeles Lakers, according to ESPN. ESPN reports this new deal would see the continuation of James with the team. This would be the 41-year-old's 24th season in the NBA. He's already the league's longest tenured player. *This is a developing story. This article will continue to be updated as more information becomes available.*. Copyright © 2026 KABC Television, LLC. ## Family dog shot and killed by LAPD during Knicks celebration at condo in Canoga Park. ## Helicopter with singer Oliver Tree on passenger list collides with another in Brazil, killing 6. ## California Gov. Gavin Newsom says Department of Justice is investigating him and his wife. ## 16-year-old boy shot, killed by police following family dispute at OC apartment complex.",
+      "published_at": "Tue, 16 Jun 2026 22:50:00 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於LeBron James與洛杉磯湖人隊的合約談判，以及其他不相關的社會新聞，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1757,
+      "title": "'He will always be our MVP' 🇫🇷 Thierry Henry REACTS to Mbappé's Brace in France's win vs Senegal - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-u7c86mtevg2tgsj8",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "# 'He will always be our MVP' 🇫🇷 Thierry Henry REACTS to Mbappé's Brace in France's win vs Senegal. ## Check out Zlatan Ibrahimović, Thierry Henry & Alexi Lalas' postgame recap of France's 3-1 win over Senegal. Kylian Mbappe  FIFA Men's World Cup  Senegal  France  WC - France vs. FIFA MEN'S WORLD CUP. ### Norway's Erling Haaland Scores His First FIFA World Cup™ Goal 🇳🇴. ### MBAPPÉ MAKES FRENCH HISTORY🚨 FIFA World Cup Now reacts to France’s thrilling 3-1 win vs Senegal ⚽️. ### Kylian Mbappé Becomes France's All-Time Leading Goalscorer in the FIFA World Cup™ 🇫🇷. ### France vs Senegal Extended Highlights | 2026 FIFA World Cup™. ### Ibrahim Mbaye scores Senegal's first goal of 2026 FIFA World Cup™ in stoppage time vs France. ### Kylian Mbappé becomes France's Men's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup™. ### France vs Senegal Highlights | 2026 FIFA World Cup™. ### France’s Bradley Barcola scores goal, extending lead vs Senegal | 2026 FIFA World Cup™.",
+      "published_at": "Tue, 16 Jun 2026 22:41:23 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導法國足球隊在世界盃的賽事及球員表現。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1758,
+      "title": "Kanye is slated to play Chicago concerts in September - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/2026/06/15/kanye-chicago-concerts/",
+      "source": "Tavily (www.chicagotribune.com)",
+      "snippet": "Music and Concerts |   Kanye is slated to play Chicago concerts in…. * Share on Facebook (Opens in new window) Facebook. * Share on Bluesky (Opens in new window) Bluesky. * Share on X (Opens in new window) X. # Kanye is slated to play Chicago concerts in September. Kanye West, aka Ye, has added his hometown of Chicago to his global tour this summer, and is scheduled to play a pair of concerts at Soldier Field on Sept. He also added a July 4 show at the Alamodome in San Antonio, and two concerts in Tampa, Florida, later this month. The shows were added to his website on Monday morning. Ye last performed in Chicago in 2021, when he presented a listening party for his album “Donda” at Soldier Field. His concerts elsewhere have been protested or canceled as part of a backlash over Ye’s history of antisemitic remarks, which in some cases he has apologized for. ## More in Music and Concerts.",
+      "published_at": "Mon, 15 Jun 2026 18:14:14 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於肯伊·威斯特（Kanye West）即將在芝加哥及其他城市舉辦演唱會的資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1759,
+      "title": "Kim Kardashian Supports Ariana Grande at ‘Eternal Sunshine’ Tour Stop in L.A. - TMZ",
+      "link": "https://www.tmz.com/2026/06/14/kim-kardashian-emma-roberts-at-ariana-grande-tour/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Kim Kardashian Supports Ariana Grande at ‘Eternal Sunshine’ Tour Stop in L.A. ## Kim Kardashian AT ARIANA GRANDE'S TOUR WE CAN BE FRIENDS ... **Kim Kardashian** turned a night at **Ariana Grande**’s \"Eternal Sunshine\" concert into a viral moment ... The SKIMS founder was seen in the audience alongside former 'American Horror Story' co-star **Emma Roberts**, with the pair blending into the crowd as Ariana took the stage for a packed performance. Despite the attempt to keep things low-key, fans quickly noticed Kim, who was also seen alongside Ari's mom **Joan**, in the venue and began sharing clips online showing her vibing at the show. Kim also posted her own video from the concert, giving followers a glimpse of the atmosphere as Ariana performed for a sold-out crowd -- singing along to some of Ari's banger hits. Ethan Slater   Kim Kardashian   Ariana Grande   Emma Roberts   Pete Davidson   Celebrity News   Musicians   Relationships   TV Stars   Viral   The Kardashians   Concerts and Tours.",
+      "published_at": "Sun, 14 Jun 2026 17:30:17 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於金·卡戴珊（Kim Kardashian）支持亞莉安娜（Ariana Grande）的「永恆陽光（Eternal Sunshine）」巡演，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1760,
+      "title": "Vibe Check: Divorce drama, TV farewells and viral debates - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/667094",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Rocsi Diaz has the latest on Jelly Roll's reported divorce, a tribute to a “Love Island USA” producer, a Netflix farewell and a viral celebrity debate. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Tue, 16 Jun 2026 22:50:00 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要報導ABC新聞的娛樂資訊，內容關於Jelly Roll的離婚、電視節目告別和名人辯論，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1761,
+      "title": "Kylian Mbappé becomes France's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-3fx61i4b4sma008m",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "# Kylian Mbappé becomes France's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup™. ## Kylian Mbappé became France's all-time leading goalscorer with a brace against Senegal. JUST IN・FIFA Men's World Cup・1:18. Kylian Mbappe  FIFA Men's World Cup  France  WC - France vs. FIFA MEN'S WORLD CUP. ### France vs Senegal Highlights | 2026 FIFA World Cup™. ### France’s Bradley Barcola scores goal, extending lead vs Senegal | 2026 FIFA World Cup™. ### France's Kylian Mbappé scores his first goal of 2026 FIFA World Cup™ to take lead vs Senegal. ### Senegal's Ismaïla Sarr misses open chance as score stays level at halftime vs France | 2026 FIFA World Cup™. ### Nicolas Jackson rattles post, nearly gives Senegal lead against France | 2026 FIFA World Cup™. ### Zlatan, Thierry Henry & Alexi Lalas Preview France vs Senegal | 2026 FIFA World Cup™. FIFA World Cup 2026™ Best Betting Apps & Sites Best Sportsbook Promos Watch USA vs Australia.",
+      "published_at": "Tue, 16 Jun 2026 21:20:50 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了法國球星姆巴佩在對陣塞內加爾的比賽中成為法國隊史最佳射手。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25746,6 +25872,21 @@
         "川普提名Jay Clayton"
       ],
       "created_at": "2026-06-16 06:13:56"
+    },
+    {
+      "id": 86,
+      "report_date": "2026-06-17",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集的新聞報導中，未發現任何與周杰倫相關的資訊或事件。所有新聞皆聚焦於其他名人、體育賽事及娛樂產業動態，例如姆巴佩刷新世界盃進球紀錄、尼克隊奪得NBA總冠軍、麥可傑克森傳記電影票房佳績，以及其他音樂人與影視消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "未有焦點事件"
+      ],
+      "created_at": "2026-06-17 05:29:33"
     }
   ],
   "notification_logs": [
@@ -27022,11 +27163,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-16 06:13:57"
+    },
+    {
+      "id": 183,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-17 05:29:34"
+    },
+    {
+      "id": 184,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-17 05:29:35"
     }
   ],
   "_meta": {
-    "nextArticleId": 1753,
-    "nextReportId": 86,
-    "nextLogId": 183
+    "nextArticleId": 1762,
+    "nextReportId": 87,
+    "nextLogId": 185
   }
 }

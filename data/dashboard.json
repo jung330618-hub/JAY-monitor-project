@@ -1,32 +1,24 @@
 {
   "todayStats": {
-    "total": 14,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 14
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1727,
-    "positive": 543,
-    "negative": 63,
-    "neutral": 1121,
+    "total": 1757,
+    "positive": 558,
+    "negative": 65,
+    "neutral": 1134,
     "avg_score": 0.62
   },
   "trend": [
     {
-      "date": "2026-06-02",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
-    {
       "date": "2026-06-03",
       "total": 329,
-      "positive": 204,
-      "negative": 14,
-      "neutral": 86,
+      "positive": 219,
+      "negative": 16,
+      "neutral": 90,
       "avg_score": 0.75
     },
     {
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 14,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-17",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1753,
+      "title": "Leboeuf backs Mbappé to break Klose's World Cup goal record - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49086415/leboeuf-backs-mbappe-break-klose-world-cup-goal-record",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Leboeuf backs Mbappé to break Klose's World Cup goal record. ### The Latest. ## What's next for Rashee Rice after release from jail? ## Schefter: NFL still has to sign off on supplemental draft for Brendan Sorsby. * ## Stephen A.: I want to see Serena, Venus Williams play in singles again. proclaims the Knicks America's team. ## Passan to Eisen: Everyone in MLB could use Tarik Skubal. ## Why Cam'ron disagrees with Perk's take on Wemby not shaking hands. ## Titans coach Robert Saleh not concerned by Cam Ward's accuracy issues. ## Rory McIlroy expresses concern about potential PGA tour 2-track model. * ## Five-star WR recruit Dakota Guerrant commits to Oregon on McAfee. ## Stephen A. * ## Would Giannis be a bad fit in Boston?",
+      "published_at": "Tue, 16 Jun 2026 21:50:18 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容完全關於體育賽事，未提及任何與周杰倫相關的資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1754,
+      "title": "Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/fresh-off-winning-the-nba-title-karl-anthony-towns-meets-knicks-fans-in-jersey-city/6514363/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### On Air. # Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 01:41:02 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於NBA球員Karl-Anthony Towns與尼克隊球迷的會面，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1755,
+      "title": "‘We're Going to do Something Great’ 🇫🇷 Kylian Mbappé & France's Only Goal is to Win - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-6l8yqv1glb9prr6p",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "## Check out Kylian Mbappé's interview with Jenny Taft before he is set to play in his third FIFA World Cup™. Kylian Mbappe  FIFA Men's World Cup  France  WC - France vs. Senegal - 06/16/2026  Jenny Taft  FIFA World Cup Live. ### Zlatan, Thierry Henry & Alexi Lalas Preview France vs Senegal | 2026 FIFA World Cup™. ### Players to Watch Between Belgium and Egypt | 2026 FIFA World Cup™. ### Players To Watch Between Germany vs Curaçao | 2026 FIFA World Cup™. ### Keys of the Match between Brazil vs Morocco | 2026 FIFA World Cup™. ### Zlatan, Thierry Henry & Alexi Lalas on What Makes Switzerland a Difficult Opponent | 2026 FIFA World Cup™. ### United States’ 2026 FIFA World Cup™ Opening Ceremony 🌎. ### Keys to the Match between the United States vs. ### INSTANT REACTION: Zlatan, Thierry Henry, Alexi Lalas on Draw Between Canada and Bosnia & Herzegovina. ### Canada’s 2026 FIFA World Cup™ Opening Ceremony 🌎.",
+      "published_at": "Tue, 16 Jun 2026 19:07:37 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於足球明星姆巴佩及其參與的FIFA世界盃，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1756,
+      "title": "LeBron James in active negotiations with Los Angeles Lakers on new deal - ABC7 Los Angeles",
+      "link": "https://abc7.com/post/lebron-james-active-negotiations-los-angeles-lakers-new-deal/19311744/",
+      "source": "Tavily (abc7.com)",
+      "snippet": "# LeBron James in active negotiations with Lakers on new deal. Tuesday, June 16, 2026 11:18PM. LOS ANGELES (KABC) -- LeBron James is reportedly in active negotiations on a new deal with the Los Angeles Lakers, according to ESPN. ESPN reports this new deal would see the continuation of James with the team. This would be the 41-year-old's 24th season in the NBA. He's already the league's longest tenured player. *This is a developing story. This article will continue to be updated as more information becomes available.*. Copyright © 2026 KABC Television, LLC. ## Family dog shot and killed by LAPD during Knicks celebration at condo in Canoga Park. ## Helicopter with singer Oliver Tree on passenger list collides with another in Brazil, killing 6. ## California Gov. Gavin Newsom says Department of Justice is investigating him and his wife. ## 16-year-old boy shot, killed by police following family dispute at OC apartment complex.",
+      "published_at": "Tue, 16 Jun 2026 22:50:00 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於LeBron James與洛杉磯湖人隊的合約談判，以及其他不相關的社會新聞，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1757,
+      "title": "'He will always be our MVP' 🇫🇷 Thierry Henry REACTS to Mbappé's Brace in France's win vs Senegal - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-u7c86mtevg2tgsj8",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "# 'He will always be our MVP' 🇫🇷 Thierry Henry REACTS to Mbappé's Brace in France's win vs Senegal. ## Check out Zlatan Ibrahimović, Thierry Henry & Alexi Lalas' postgame recap of France's 3-1 win over Senegal. Kylian Mbappe  FIFA Men's World Cup  Senegal  France  WC - France vs. FIFA MEN'S WORLD CUP. ### Norway's Erling Haaland Scores His First FIFA World Cup™ Goal 🇳🇴. ### MBAPPÉ MAKES FRENCH HISTORY🚨 FIFA World Cup Now reacts to France’s thrilling 3-1 win vs Senegal ⚽️. ### Kylian Mbappé Becomes France's All-Time Leading Goalscorer in the FIFA World Cup™ 🇫🇷. ### France vs Senegal Extended Highlights | 2026 FIFA World Cup™. ### Ibrahim Mbaye scores Senegal's first goal of 2026 FIFA World Cup™ in stoppage time vs France. ### Kylian Mbappé becomes France's Men's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup™. ### France vs Senegal Highlights | 2026 FIFA World Cup™. ### France’s Bradley Barcola scores goal, extending lead vs Senegal | 2026 FIFA World Cup™.",
+      "published_at": "Tue, 16 Jun 2026 22:41:23 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導法國足球隊在世界盃的賽事及球員表現。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1758,
+      "title": "Kanye is slated to play Chicago concerts in September - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/2026/06/15/kanye-chicago-concerts/",
+      "source": "Tavily (www.chicagotribune.com)",
+      "snippet": "Music and Concerts |   Kanye is slated to play Chicago concerts in…. * Share on Facebook (Opens in new window) Facebook. * Share on Bluesky (Opens in new window) Bluesky. * Share on X (Opens in new window) X. # Kanye is slated to play Chicago concerts in September. Kanye West, aka Ye, has added his hometown of Chicago to his global tour this summer, and is scheduled to play a pair of concerts at Soldier Field on Sept. He also added a July 4 show at the Alamodome in San Antonio, and two concerts in Tampa, Florida, later this month. The shows were added to his website on Monday morning. Ye last performed in Chicago in 2021, when he presented a listening party for his album “Donda” at Soldier Field. His concerts elsewhere have been protested or canceled as part of a backlash over Ye’s history of antisemitic remarks, which in some cases he has apologized for. ## More in Music and Concerts.",
+      "published_at": "Mon, 15 Jun 2026 18:14:14 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導關於肯伊·威斯特（Kanye West）即將在芝加哥及其他城市舉辦演唱會的資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1759,
+      "title": "Kim Kardashian Supports Ariana Grande at ‘Eternal Sunshine’ Tour Stop in L.A. - TMZ",
+      "link": "https://www.tmz.com/2026/06/14/kim-kardashian-emma-roberts-at-ariana-grande-tour/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Kim Kardashian Supports Ariana Grande at ‘Eternal Sunshine’ Tour Stop in L.A. ## Kim Kardashian AT ARIANA GRANDE'S TOUR WE CAN BE FRIENDS ... **Kim Kardashian** turned a night at **Ariana Grande**’s \"Eternal Sunshine\" concert into a viral moment ... The SKIMS founder was seen in the audience alongside former 'American Horror Story' co-star **Emma Roberts**, with the pair blending into the crowd as Ariana took the stage for a packed performance. Despite the attempt to keep things low-key, fans quickly noticed Kim, who was also seen alongside Ari's mom **Joan**, in the venue and began sharing clips online showing her vibing at the show. Kim also posted her own video from the concert, giving followers a glimpse of the atmosphere as Ariana performed for a sold-out crowd -- singing along to some of Ari's banger hits. Ethan Slater   Kim Kardashian   Ariana Grande   Emma Roberts   Pete Davidson   Celebrity News   Musicians   Relationships   TV Stars   Viral   The Kardashians   Concerts and Tours.",
+      "published_at": "Sun, 14 Jun 2026 17:30:17 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於金·卡戴珊（Kim Kardashian）支持亞莉安娜（Ariana Grande）的「永恆陽光（Eternal Sunshine）」巡演，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1760,
+      "title": "Vibe Check: Divorce drama, TV farewells and viral debates - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/667094",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Rocsi Diaz has the latest on Jelly Roll's reported divorce, a tribute to a “Love Island USA” producer, a Netflix farewell and a viral celebrity debate. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Tue, 16 Jun 2026 22:50:00 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要報導ABC新聞的娛樂資訊，內容關於Jelly Roll的離婚、電視節目告別和名人辯論，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1761,
+      "title": "Kylian Mbappé becomes France's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup - FOX Sports",
+      "link": "https://www.foxsports.com/watch/fmc-3fx61i4b4sma008m",
+      "source": "Tavily (www.foxsports.com)",
+      "snippet": "# Kylian Mbappé becomes France's all-time leading goalscorer with brace against Senegal | 2026 FIFA World Cup™. ## Kylian Mbappé became France's all-time leading goalscorer with a brace against Senegal. JUST IN・FIFA Men's World Cup・1:18. Kylian Mbappe  FIFA Men's World Cup  France  WC - France vs. FIFA MEN'S WORLD CUP. ### France vs Senegal Highlights | 2026 FIFA World Cup™. ### France’s Bradley Barcola scores goal, extending lead vs Senegal | 2026 FIFA World Cup™. ### France's Kylian Mbappé scores his first goal of 2026 FIFA World Cup™ to take lead vs Senegal. ### Senegal's Ismaïla Sarr misses open chance as score stays level at halftime vs France | 2026 FIFA World Cup™. ### Nicolas Jackson rattles post, nearly gives Senegal lead against France | 2026 FIFA World Cup™. ### Zlatan, Thierry Henry & Alexi Lalas Preview France vs Senegal | 2026 FIFA World Cup™. FIFA World Cup 2026™ Best Betting Apps & Sites Best Sportsbook Promos Watch USA vs Australia.",
+      "published_at": "Tue, 16 Jun 2026 21:20:50 GMT",
+      "collected_at": "2026-06-17 05:27:51",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了法國球星姆巴佩在對陣塞內加爾的比賽中成為法國隊史最佳射手。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1739,
       "title": "Jakob Nowell on Sublime’s Future: ‘It’s Truly Never Over’ - Newsweek",
@@ -428,150 +554,39 @@
       "summary": "這則新聞報導了Michael Jackson的歌曲《Billie Jean》在R&B串流歌曲榜上追平了他個人最長的冠軍紀錄，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1727,
-      "title": "#ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/arianagrande-channeling-catwoman-for-the-boy-is-mine-at-the-eternalsunshinetour/1359510192715984/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour | Deadline Hollywood | Facebook. #ArianaGrande channeling Catwoman for “The Boy Is Mine” at the #EternalSunshineTour. ## **Deadline Hollywood**. Molly McNearney on balancing marriage and the Jimmy Kimmel Show | Watch the latest episode of Behind The Lens via the link in bio. In the clip below, Kathy Bates reflects on what she’s learned from the experience of working on ‘Matlock.’ Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, the importance of seeing seniors in love on TV, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/. Kathy Bates reflects on the importance of seeing seniors in love on TV and expresses her elation for the way ‘Matlock’ creator and showrunner Jennie Snyder Urman included those moments between Matty and her husband Edwin (Sam Anderson) in Season 2 Watch our full conversation with Kathy Bates where she discusses the ‘Matlock’ Season 2 finale, having the time of her life at 78, plus more here: https://deadline.com/2026/06/kathy-bates-matlock-season-2-interview-1236952939/.",
-      "published_at": "Sun, 14 Jun 2026 03:31:34 GMT",
-      "collected_at": "2026-06-14 05:17:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導亞莉安娜格蘭德（Ariana Grande）的演唱會造型以及凱西貝茲（Kathy Bates）的訪談，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1728,
-      "title": "Jalen Brunson after Finals win: 'I am in awe' - NBA.com",
-      "link": "https://www.nba.com/watch/video/jalen-brunson-after-finals-win-i-am-in-awe",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## Jalen Brunson after Finals win: 'I am in awe'. Jalen Brunson speaks with Lisa Salters after clinching the title in Game 5. # Playlist.",
-      "published_at": "Sun, 14 Jun 2026 04:01:06 GMT",
-      "collected_at": "2026-06-14 05:17:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導NBA球員Jalen Brunson贏得總冠軍後的感言，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1729,
-      "title": "Fantastic Finish: Knicks end 53-year championship drought - NBA.com",
-      "link": "https://www.nba.com/watch/video/fantastic-finish-knicks-end-53-year-championship-drought?plsrc=nba&collection=top-trending-videos",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# top trending videos. ## Fantastic Finish: Knicks end 53-year championship drought. # Playlist.",
-      "published_at": "Sun, 14 Jun 2026 05:00:02 GMT",
-      "collected_at": "2026-06-14 05:17:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導紐約尼克隊結束了長達53年的冠軍荒，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1730,
-      "title": "Joe: Tiny Desk Concert - NPR",
-      "link": "https://www.npr.org/2026/06/10/g-s1-123345/joe-tiny-desk-concert",
-      "source": "Tavily (www.npr.org)",
-      "snippet": "**Joe: Tiny Desk Concert**  **The R&B veteran steps behind the Desk to blaze through his smash hits, including \"Good Girls,\" \"I Wanna Know\" and the macking anthem, \"All the Things (Your Man Won't Do).\"**. ## **Tiny Desk**. # Joe: Tiny Desk Concert. *This Black Music Month, Tiny Desk celebrates the undeniable legacy of BET. R&B veteran Joe Thomas earned every chain and stripe on his body as he stepped behind the Tiny Desk. Before the music started, the singer-songwriter and producer explained: \"Where have I been for the past few years? I'm here with you all today, and I wanna do a few songs throughout the catalog.\". He quickly gathers the entire audience in one hand, blazing through songs like \"Good Girls,\" \"The Love Scene\" and the dirty macking anthem, \"All the Things (Your Man Won't Do).\" Joe closes the set with a tender moment, inviting his daughter, Kayla, to sing background on his biggest hit, \"I Wanna Know.\". * \"All the Things (Your Man Won't Do)\".",
-      "published_at": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-14 05:17:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導R&B歌手Joe的Tiny Desk演唱會，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1731,
-      "title": "Top 10 Plays - June 13, 2026 - NBA.com",
-      "link": "https://www.nba.com/watch/video/top-10-plays-june-13-2026?plsrc=nba&collection=top-trending-videos",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# top trending videos. ## Top 10 Plays - June 13, 2026. Check out the best plays from Saturday Night! # Playlist.",
-      "published_at": "Sun, 14 Jun 2026 05:06:23 GMT",
-      "collected_at": "2026-06-14 05:17:53",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容為NBA每日十大好球，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1720,
-      "title": "8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More - JamBase",
-      "link": "https://www.jambase.com/article/new-albums-goose-olivia-rodrigo-sublime",
-      "source": "Tavily (www.jambase.com)",
-      "snippet": "# 8 New Albums Out Now From Goose, Olivia Rodrigo, Sublime & More. Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC also have new releases out today. This week we highlight new albums from Goose, Olivia Rodrigo, Sublime, Fruit Bats, Mike Campbell & The Dirty Knobs, Duane Betts, Jesse Welles and BASIC. _ was described in a press materials as “Goose’s most spacious and deeply considered collection thus far, an all-encompassing musical experience that pushes their signature wit, musical ingenuity, and inimitable vision to the next level and beyond.” The 15-track follow-up to dual 2025 releases _Everything Must Go_ and _Chain Yer Dragon_ is said to feature material that runs the gamut from “heartland rock piano ballads” to “accented orchestral jazz interludes” to “high-octane synth rock.”. Image 5: you seem pretty sad for a girl so in love. Olivia Rodrigo released her highly anticipated third full length album, _you seem pretty sad for a girl so in love_, today through Geffen Records.",
-      "published_at": "Fri, 12 Jun 2026 11:50:21 GMT",
-      "collected_at": "2026-06-13 05:07:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了Goose、Olivia Rodrigo等多位藝人的新專輯發行，但未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1721,
-      "title": "Olivia Rodrigo, BTS, Jack White & More: New Music Friday Guide - Billboard",
-      "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-bts-jack-white-new-music-friday-guide-1236269845/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Olivia Rodrigo, BTS Lead Week's Best New Music: Friday Music Guide. Click to Expand Search Input. # Olivia Rodrigo, BTS, Jack White   BTS drop a new song on streamers that had previously only been available on a vinyl edition of _ARIRANG_; and Jack White teases his just-announced new album, _Frozen Charlotte_, out next month…plus much more.",
-      "published_at": "Fri, 12 Jun 2026 06:44:13 GMT",
-      "collected_at": "2026-06-13 05:07:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要介紹Olivia Rodrigo、BTS和Jack White等藝人的新音樂發行，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1722,
-      "title": "Watch Gracie Abrams Talks New Music and Her Acting Debut | The Run-Through - Vogue",
-      "link": "https://www.vogue.com/video/watch/the-run-through-gracie-abrams",
-      "source": "Tavily (www.vogue.com)",
-      "snippet": "After four years of non-stop touring, Gracie Abrams didn’t expect that new music would come to her so quickly, but she is coming back with the new album Daughter From Hell, out July 17, and is Vogue’s June cover star. “You don't realize how your nervous system is kind of like running until you stop,” says Abrams as she discusses her latest album and cover shoot with Senior Features Editor Marley Marius and Global Director of Social Media Samantha Sussman on Vogue’s The Run Through Podcast. This is The Run-Through. I mean, Sam, you were on set. what was it like, what were the vibes? I'd love to and I'll need Gracie's help,. There was a heat wave, so we were all in it together. and realize what it was we were shooting and where,. I'm sure you would agree if that's also what it is. I'm just so excited for LA to have a museum like that.",
-      "published_at": "Fri, 12 Jun 2026 16:07:30 GMT",
-      "collected_at": "2026-06-13 05:07:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導葛蕾西·艾布拉姆斯（Gracie Abrams）即將發行新專輯《Daughter From Hell》並登上Vogue封面，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1723,
-      "title": "mgk Blacks Out His Heaviness and Returns to the Blog Era: Cover Story - Billboard Canada",
-      "link": "https://ca.billboard.com/music/rb-hip-hop/mgk-cover-story-interview",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "Hip-hop’s multi-genre king is returning to a more innocent and nostalgic time with his new collaborative mixtape with Wiz Khalifa, **Blog Era Boyz**. Hair by Aaron King, grooming by Sonia Lee. mgk has covered the chaos that’s been written all over him. For nearly two decades, he’s been one of the most restless forces in music. Now, he’s made his long-awaited return to hip-hop, releasing his new **Blog Era Boyz** collaborative mixtape with his Lost Americana tourmate Wiz Khalifa that recaptures the sound and spirit of his 2000s and 2010s come-up as Machine Gun Kelly. “I was looking for a change that wasn't just a sound wave,” he reflects to **Billboard Canada** over the phone from Austin, Texas. He had been inked and then inked back over with different designs, some reminding him of phases in his life he didn’t — or didn’t want to — remember. “I saw death and drugs in all these patterns that I was literally writing on my body,” he says.",
-      "published_at": "Mon, 08 Jun 2026 15:29:34 GMT",
-      "collected_at": "2026-06-13 05:07:33",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此篇報導主要關於饒舌歌手MGK與Wiz Khalifa合作推出新專輯《Blog Era Boyz》，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 85,
-    "report_date": "2026-06-16",
-    "total_articles": 14,
+    "id": 86,
+    "report_date": "2026-06-17",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 14,
-    "daily_summary": "根據今日搜集到的新聞資料，未發現任何與周杰倫相關的報導。本日新聞焦點主要圍繞在美國職籃尼克隊奪冠慶祝、多位音樂人如Jay-Z的演唱會資訊、新專輯發布，以及美國政治人事任命等多元議題。",
+    "neutral_count": 9,
+    "daily_summary": "今日搜集的新聞報導中，未發現任何與周杰倫相關的資訊或事件。所有新聞皆聚焦於其他名人、體育賽事及娛樂產業動態，例如姆巴佩刷新世界盃進球紀錄、尼克隊奪得NBA總冠軍、麥可傑克森傳記電影票房佳績，以及其他音樂人與影視消息。",
     "key_events": [
-      "尼克隊奪NBA總冠軍",
-      "Jay-Z宣布演唱會",
-      "川普提名Jay Clayton"
+      "無周杰倫新聞",
+      "今日無相關報導",
+      "未有焦點事件"
     ],
-    "created_at": "2026-06-16 06:13:56"
+    "created_at": "2026-06-17 05:29:33"
   },
   "recentReports": [
+    {
+      "id": 86,
+      "report_date": "2026-06-17",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集的新聞報導中，未發現任何與周杰倫相關的資訊或事件。所有新聞皆聚焦於其他名人、體育賽事及娛樂產業動態，例如姆巴佩刷新世界盃進球紀錄、尼克隊奪得NBA總冠軍、麥可傑克森傳記電影票房佳績，以及其他音樂人與影視消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "今日無相關報導",
+        "未有焦點事件"
+      ],
+      "created_at": "2026-06-17 05:29:33"
+    },
     {
       "id": 85,
       "report_date": "2026-06-16",
@@ -661,21 +676,6 @@
         "Kanye West 發新歌"
       ],
       "created_at": "2026-06-11 05:14:02"
-    },
-    {
-      "id": 79,
-      "report_date": "2026-06-10",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日新聞中，未有任何周杰倫的相關報導。主要娛樂焦點集中在Jay-Z宣布30週年演唱會、Michael Jackson傳記電影上線，以及Kanye West發布新單曲與MV。其他藝人如Madonna、Drake等也有新動態。整體而言，今日娛樂新聞多元，但無周杰倫的最新消息。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關事件",
-        "今日無焦點"
-      ],
-      "created_at": "2026-06-10 05:05:21"
     }
   ]
 }
