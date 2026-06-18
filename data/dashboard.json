@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 11,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 11
   },
   "allTimeStats": {
-    "total": 1757,
+    "total": 1772,
     "positive": 558,
     "negative": 65,
-    "neutral": 1134,
+    "neutral": 1149,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-06-03",
-      "total": 329,
-      "positive": 219,
-      "negative": 16,
-      "neutral": 90,
-      "avg_score": 0.75
-    },
     {
       "date": "2026-06-04",
       "total": 13,
@@ -132,9 +124,171 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-18",
+      "total": 11,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 11,
+      "avg_score": 0.51
     }
   ],
   "recentArticles": [
+    {
+      "id": 1762,
+      "title": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India",
+      "link": "https://in.ign.com/michael/263693/michael-how-to-watch-jaafar-jacksons-film-online-in-india-here-is-the-streaming-platform-price-dubs",
+      "source": "Tavily (in.ign.com)",
+      "snippet": "# Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More. ### Moonwalk through the life and legacy of the King of Pop, Michael Jackson, from home. The biographical film Michael, based on the life of the King of Pop, Michael Jackson, is now available to watch at home. The film is based on the life of the legendary singer and dancer, following his journey from his early days as the lead vocalist of the Jackson Five to his rise as a global superstar. Following its theatrical run, the film is now available to rent and buy online in India. The film tells the story of Michael Jackson’s life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.",
+      "published_at": "Fri, 12 Jun 2026 10:58:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了關於麥可傑克森傳記電影《麥可》在印度線上觀看的資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1763,
+      "title": "Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times",
+      "link": "https://www.latimes.com/travel/story/2026-06-17/ziggy-marley-on-singing-about-bob-marley-hollywood-bowl-show-more",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "It’s Friday afternoon in North Hollywood and Ziggy Marley is perched on a stool inside his newly built Rebel Lion Studio, tucked in one of the neighborhood’s creative enclaves. From sitting in studio sessions with his father as a child to building a five-decade career of his own, he has remained a curious student of the craft, one willing to challenge convention in search of a deeper meaning. “I think it shows the next stage that I probably am in,” says Marley, adding that he felt connected to his father on a spiritual level. “We took another step in the relationship, to another place that it’s never been before.”. He adds, “When I was doing the song, it kind of came to me like this song could’ve been my father’s song. Can you take me back to the beginning of that process and why you wanted to do it?**.",
+      "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Ziggy Marley的新專輯與音樂生涯，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1764,
+      "title": "Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
+      "link": "https://www.latimes.com/0cntsdrth-c-123",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": ", Albert Brave Tiger Lee and Brenda Elizondo. Ahead of the release of its upcoming album, Sublime is reflecting on the band’s latest chapter. Jakob Nowell, Bud Gaugh and Eric Wilson sat down with Los Angeles Times reporter Nate Jackson to discuss how writing music together led to the band’s reunion and what it has been like to see longtime fans and a younger generation connect through the same songs. Nate Jackson is a deputy editor for Entertainment and Arts. Previously, he served as a news editor for the Wrap and the music editor for OC Weekly. He returns to The Times after being both a Metpro and a staff writer in Calendar from 2009 to 2012. Albert Brave Tiger Lee is a Southern California native, son of Korean immigrants, a father and a staff videographer at the Los Angeles Times. Brenda Elizondo is an audience engagement fellow at the Los Angeles Times.",
+      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於樂團Sublime的最新動態，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1765,
+      "title": "2026-06-20 - Billboard Canada",
+      "link": "https://ca.billboard.com/charts/hot-100/2026-06-20",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. ## Music News Digest: Jazz Meets Hip-Hop at Toronto Jazz Festival, Mississauga Music Walk of Fame's 2026 Inductees. ## ‘Absolutely Wild to Me’: Cameron Whitcomb Hits the U.S. Billboard Hot 100 For the First Time With ‘Kingdom of Fear'. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200. Find the *Daughter From Hell* tracklist below and look for the album on July 17.",
+      "published_at": "Wed, 17 Jun 2026 23:05:17 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則Billboard Canada新聞報導了多項音樂產業動態，包括多倫多爵士音樂節、新專輯發行與排行榜成績，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1766,
+      "title": "Canadian Music Sales Report: Week Ending June 11, 2026 - Billboard Canada",
+      "link": "https://ca.billboard.com/fyi/canadian-music-sales-report-week-ending-june-11-2026",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. Here is this week's Luminate Data Market Watch national sales report, featuring stats for Canadian album sales, streams, digital sales and more. *Here is this week's Luminate Data Market Watch report which features Canadian music stats for the current week and YTD with comparisons to last year. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200.",
+      "published_at": "Wed, 17 Jun 2026 18:11:53 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇加拿大音樂銷售報告主要聚焦於Gracie Abrams的新專輯資訊，文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1767,
+      "title": "Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25441819-fat-joe-reveals-wu-tang-clan-more-invited-his-hip-hop-float-knicks-championship-parade",
+      "source": "Tavily (bleacherreport.com)",
+      "snippet": "# Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade. Fat Joe will be bringing a star-studded float to Manhattan when the New York Knicks start officially celebrating their 2026 NBA title with a Thursday morning parade. The rapper will be joined on his float by the Wu-Tang Clan, Remy Ma, Ja Rule, Mary J. \"Mr. Dolan and the Knicks tapped me to run the hip-hop division,\" the rapper said. Bleacher Report1d### Jordyn Woods Talks 'No Intimacy Pitch', Lucky Bag. Wu-Tang Clan performed last week at Madison Square Garden just before the Knicks completed the largest comeback in NBA Finals history in Game 4 against the San Antonio Spurs. Knicks fans will be treated to more live music at the parade, which is set to feature a performance of \"Empire State of Mind\" by Alicia Keys. The ticker-tape parade is set to start 10 a.m. ET Thursday at Battery Park before moving through New York's \"Canyon of Heroes\" up to City Hall.",
+      "published_at": "Wed, 17 Jun 2026 20:06:15 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了饒舌歌手Fat Joe為紐約尼克隊假設的冠軍遊行籌備嘻哈花車，並邀請了Wu-Tang Clan、Remy Ma、Ja Rule、Mary J. Blige和Alicia Keys等藝人參與，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1768,
+      "title": "Knicks' smallest fans hold celebration ahead of ticker-tape parade - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/knicks-smallest-fans-hold-celebration-ahead-of-ticker-tape-parade/6514909/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### News. # Knicks' smallest fans hold celebration ahead of ticker-tape parade. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 21:57:30 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導紐約尼克隊的慶祝活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1769,
+      "title": "Jalen Brunson's dominant 2026 postseason - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-2026-postseason-mix",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Jalen Brunson's dominant 2026 postseason. From game-winners to clutch moments, take a look at this highlight compilation of Jalen Brunson's postseason run. # Playlist.",
+      "published_at": "Wed, 17 Jun 2026 23:13:31 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jalen Brunson's dominant 2026 postseason - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1770,
+      "title": "Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/06/12/songwriters-hall-of-fame-taylor-swift-kiss-alanis-morissette/90510812007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony. So you have to have a great song.”. So said Paul Stanley early Thursday as he and his KISS bandmate of 50-plus years, Gene Simmons, chatted at USA TODAY’s office about 12 hours before they would receive their flowers as inductees into the Songwriters Hall of Fame. In addition, John Fogerty, who was inducted in 2005, was honored with the Johnny Mercer Award for songwriters who have “achieved gold-standard status in music history,” and Raye received the Hal David Starlight Award, given to young songwriters making a significant impact in the music industry with original songs. It’s supposed to be about fun!” he said in the midst of a detailed career overview) and performed a trio of songs with sons Shane and Tyler including “Proud Mary.” Meanwhile, Stanley quickly accepted his award minus Simmons, who he said had a “family emergency at a local hospital.” (USA TODAY has reached out to Simmons’ rep for more information.).",
+      "published_at": "Fri, 12 Jun 2026 11:14:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了泰勒絲、KISS樂團及其他音樂人在2026年詞曲創作人名人堂頒獎典禮上獲得榮譽，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1771,
+      "title": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-mets-predicted-make-most-deal-mlb-trade-deadline/3c46a711775af95ba17ffd86",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# 成都精工诚志制冷设备有限公司. 成都精工诚志制冷设备有限公司成立于2003年10月14日，是一家位于四川省成都市金牛区二环路北一段123号的有限责任公司（自然人投资或控股），法定代表人为蒙庆鹏，注册资本为300万人民币. 。2025年5月22日，公司经营范围变更为一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务. 。公司与国内外多家知名制冷企业进行合作，代理经销德国比泽尔、丹佛斯美优乐、欧洲泰康、百年德国谷轮、日本日立等品牌产品. :   制冷、空调设备销售、气体压缩机械销售、保温材料销售、金属链条及其他金属制品销售、金属材料销售、化工产品销售（不含许可类化工产品）、专用化学产品销售（不含危险化学品）、配电开关控制设备销售、工业自动控制系统装置销售、五金产品批发、阀门和旋塞销售、润滑油销售、通用设备修理、普通机械设备安装服务. 一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）. ## 目录. ## 发展历程. 2014年8月26日，公司总经理蒙庆鹏提出“精益求精 更近一步”的理念。. 2015年12月18日，公司参与“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”，并获得“西南制冷市场知名企业”称号。. 2025年5月22日，公司经营范围发生重大变更，从原有的制冷设备销售、安装等，扩展至涵盖气体压缩机械、保温材料、金属材料、化工产品（不含许可类）、专用化学品、配电开关、工业自控系统装置、五金产品、阀门、润滑油销售以及通用设备修理、普通机械设备安装服务等多个领域。. ## 主营业务. 销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；. ## 主要产品与代理品牌. 。公司取得了德国比泽尔、艾默生系列、意大利康达托冷风机、浙江高翔冷风机、伊式班尼亚冷风机、丹佛斯美优乐、欧洲泰康、百年德国谷轮、深圳东露阳、浙江三花等品牌的代理经销权. 。其销售的产品线涵盖压缩机、冷风机、铜管、制冷设备、制冷剂、冷冻油、保温管、分支器、冷却塔、铝排、制冷配件、制冷机组、空调配件、冷库设备、中央空调、冷冻机组、清洗剂、膨胀阀、电控箱等. ## 社会荣誉. 2015年12月，在“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”活动中，获评“西南制冷市场知名企业”。. ###### 相关搜索. ©2026 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号.",
+      "published_at": "Fri, 12 Jun 2026 06:40:57 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 1772,
+      "title": "Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood' - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment-videos/hugh-jackman-talks-epic-transformation-in-the-death-of-robin-hood/6514876/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### Entertainment Videos. # Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 21:11:19 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於休·傑克曼（Hugh Jackman）的電影轉變，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1753,
       "title": "Leboeuf backs Mbappé to break Klose's World Cup goal record - ESPN",
@@ -400,178 +554,31 @@
       "summary": "YouTube宣布推出「Music Nights」系列直播演唱會，將邀請多位知名藝人在全球主要城市演出，但新聞內容未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1749,
-      "title": "Planning on going to the Knicks parade? Here's what to know about the route - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/planning-on-going-to-the-knicks-parade-heres-what-to-know-about-the-route/6513841/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### On Air. # Planning on going to the Knicks parade? Here's what to know about the route. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Tue, 16 Jun 2026 00:38:26 GMT",
-      "collected_at": "2026-06-16 06:12:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞主要報導紐約尼克隊遊行路線的相關資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1750,
-      "title": "NYC avoids payment delays as nonprofits raise concerns over cash crunch - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/nyc-avoids-payment-delays-as-nonprofits-raise-concerns-over-cash-crunch/6513793/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### On Air. # NYC avoids payment delays as nonprofits raise concerns over cash crunch. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Tue, 16 Jun 2026 00:38:39 GMT",
-      "collected_at": "2026-06-16 06:12:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "NYC avoids payment delays as nonprofits raise concerns over cash crunch - NBC New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1751,
-      "title": "Knicks celebrate NBA championship with ‘TODAY' show visit - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/knicks-celebrate-nba-championship-with-today-show-visit/6513792/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### On Air. # Knicks celebrate NBA championship with ‘TODAY' show visit. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Tue, 16 Jun 2026 00:38:40 GMT",
-      "collected_at": "2026-06-16 06:12:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Knicks celebrate NBA championship with ‘TODAY' show visit - NBC New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1752,
-      "title": "Taylor Swift nods to ‘Midnights’ era with ‘70-inspired studio look - Page Six",
-      "link": "https://pagesix.com/2026/06/15/entertainment/taylor-swift-nods-to-midnights-era-with-70-inspired-studio-look/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "Taylor Swift rocked a ’70s vibe for a trip to Electric Lady Studios in New York City’s Greenwich Village Monday, sporting a casual but stylish outfit for her visit to the famed recording studio. Swift has been in the city for the past few days, attending Game 4 of the Knicks vs. Spurs NBA Finals on Wednesday, making history as the youngest woman ever to be inducted into the Songwriters Hall of Fame last Thursday, and enjoying several date nights with her fiance Travis Kelce, including an evening at the Broadway production of “Oh, Mary!” this past weekend. New York City Mayor Zohran Mamdani candidly dropped a major hint about Swift and Kelce’s forthcoming wedding while discussing security measures being taken for the FIFA World Cup 2026. “We know it coincides with July 4, America 250, Taylor Swift’s wedding — all happening at the same time — and we are so excited to welcome the world here,” he concluded.",
-      "published_at": "Tue, 16 Jun 2026 02:12:44 GMT",
-      "collected_at": "2026-06-16 06:12:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Taylor Swift nods to ‘Midnights’ era with ‘70-inspired studio look - Page Six",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1732,
-      "title": "'Michael' dethrones 'Bohemian Rhapsody' as top-grossing music biopic - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/movies/2026/06/14/michael-movie-box-office-record-bohemian-rhapsody/90294425007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "## The King of Pop is officially the king of the box office: The \"Michael\" movie starring Jaafar Jackson is now the top-grossing musical biopic ever. The King of Pop is officially the king of the box office. \"Michael,\" the movie about Michael Jackson's life starring the singer's nephew Jaafar Jackson in the lead role, has reached a major milestone in its impressive box office run: It is officially the highest-grossing musical biopic of all time. \"Michael\" has now surpassed that haul with a global take of $932.2 million and counting as of June 14, according to Lionsgate. The movie debuted to a massive $97 million at the domestic box office in April, setting a new record for biggest opening weekend for a musical biopic of all time. At the global box office, \"Michael\" is the second highest-grossing movie of 2026 so far.",
-      "published_at": "Sun, 14 Jun 2026 19:46:00 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導麥可傑克森的傳記電影《Michael》打破票房紀錄，成為史上最高票房的音樂傳記片，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1733,
-      "title": "Jakob Nowell used to call Sublime 'his dad's band.' But new album proves 'Now it's our band. It’s us' - Los Angeles Times",
-      "link": "https://www.latimes.com/entertainment-arts/music/story/2026-06-11/sublime-until-the-sun-explodes-new-album-interview-bud-gaugh-eric-wilson",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "# Jakob Nowell used to call Sublime ‘his dad’s band.’ But new album proves ‘Now it’s our band. There was a time in the beginning of Sublime’s recent revival when Jakob Nowell, the son of the band’s late singer Bradley Nowell, saw himself simply as a good son trying to help his adoptive uncles — drummer Bud Gaugh and bassist Eric Wilson — restart his dad’s iconic Long Beach trio. Sublime is my dad’s band, and I’m helping out, that’s all,” he told The Times in 2024. We showed up, Jake had an idea for another song, and he sent us a little demo and said “Hey, this is what I’ve been thinking about.” And then we get down to the studio [in San Pedro], and he’s like, “Oh yeah, so I had another idea,” and kind of changed it. We get in there to do a take for a song, and I’m always like “Let’s just do like three more!” It’s just that much fun, and that’s how it feels playing live too.",
-      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於樂團Sublime及其新專輯，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1734,
-      "title": "Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’ - Forbes",
-      "link": "https://www.forbes.com/sites/laurasirikul/2026/06/14/music-artist-samuel-embracing-all-his-roots-with-ep-samuelito/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Music Artist Samuel Embracing All His Roots With EP ‘SAMUELito’. Musical artist Samuel has been through a lot in his young life. Now, he seems to know that with his newly released album, *SAMUELito*. “I started very young, and I just felt like I’m coming back to where I first started, when I was born, growing up, what I ate, the environment, the people I was with, and the music I listened to.”. He decided that was the perfect title for the album, which blends Latin rhythm and reggaeton energy with his experience in the Korean pop music scene. “I just felt this would be a fresh way that I could show my true identity,” he shares. After years of training in the Korean music system, he knew the structure of K-pop music and the performance aspects surrounding it. I’ve always wanted to do Spanish music, and it just felt like now was the perfect time to do this.”.",
-      "published_at": "Sun, 14 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於音樂人Samuel發行新專輯《SAMUELito》，融合拉丁、雷鬼與韓流元素，展現其真實身份，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1735,
-      "title": "From ship engines to studio sessions: 6ixty returns with self-produced \"The Redman EP\" - The Business & Financial Times",
-      "link": "https://thebftonline.com/2026/06/14/from-ship-engines-to-studio-sessions-6ixty-returns-with-self-produced-the-redman-ep/",
-      "source": "Tavily (thebftonline.com)",
-      "snippet": "A password will be e-mailed to you. Home News From ship engines to studio sessions: 6ixty returns with self-produced “The Redman... # From ship engines to studio sessions: 6ixty returns with self-produced “The Redman EP”. Now, the Accra-based composer/rapper is gearing up for his most personal release yet. \\_The Redman EP\\_, a 7-track project entirely written, arranged, and produced by 6ixty himself, drops June 15, 2026. Fans got their first taste of his sound with 2019’s \\_Nyamekye\\_ EP, home to \\_Close to You\\_, \\_Nyamekye\\_, and \\_Vibes\\_. But \\_The Redman\\_ levels up the ambition. Tracklist: \\_Disco Tech\\_, \\_Come With Me\\_, \\_Moon Steps\\_, \\_Time Will Tell\\_, \\_Night Life\\_, \\_Far Gone\\_, and \\_Dance\\_. ### Let Love Lead NGO marks 4th annual sanitation drive with major clean-up in Nima. In a move set to shatter long-standing stigmas, the KGL Foundation has officially handed over an ultra-modern Out-Patient Department (OPD) to the Accra Psychiatric...",
-      "published_at": "Sun, 14 Jun 2026 18:51:33 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導迦納饒舌歌手6ixty即將發行個人製作的EP《The Redman EP》。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1736,
-      "title": "Chaos on New York streets after Knicks secure NBA championship - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/news/chaos-on-new-york-streets-after-knicks-secure-nba-championship-ny-only/6513329/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # Chaos on New York streets after Knicks secure NBA championship. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Sun, 14 Jun 2026 15:43:19 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導紐約尼克隊奪得NBA總冠軍後街頭的混亂情況，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1737,
-      "title": "NYC erupts in celebrations after Knicks capture NBA title once again - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/news/nyc-erupts-in-celebrations-after-knicks-capture-nba-title-once-again/6513339/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup Elon Musk Knicks Trump Administration FIFA Immigration New York Live Send Photos/Videos Open House. ### News. # NYC erupts in celebrations after Knicks capture NBA title once again. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Sun, 14 Jun 2026 16:18:58 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導紐約尼克隊再次贏得NBA總冠軍後，紐約市的慶祝活動，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1738,
-      "title": "Michael Jackson Ties His Own Longest Run At No. 1 - Yahoo News UK",
-      "link": "https://uk.news.yahoo.com/michael-jackson-ties-own-longest-120000776.html",
-      "source": "Tavily (uk.news.yahoo.com)",
-      "snippet": "# Michael Jackson Ties His Own Longest Run At No. 1. He once again leads the R&B Streaming Songs chart, keeping himself from scoring a new No. 1 and tying his most impressive streak at the summit. ## \"Billie Jean\" Holds at No. 1. \"Billie Jean\" holds at No. 1 on the R&B Streaming Songs chart, as it is once again the most-played R&B tune on platforms such as Spotify, Apple Music and others throughout the United States. As \"Billie Jean\" scores its fifth week at No. 1 on the R&B Streaming Songs chart, it ties his previously set longest run in the uppermost space. \"Billie Jean\" and \"Thriller\" are currently tied as Jackson's longest-running rulers on the R&B Streaming Songs chart. \"Billie Jean\" has enjoyed such a powerful run at No. 1 on the R&B Streaming Songs chart that it has stopped two blockbusters by Jackson from finally reaching the top space.",
-      "published_at": "Sun, 14 Jun 2026 12:00:00 GMT",
-      "collected_at": "2026-06-15 05:41:02",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Michael Jackson的歌曲《Billie Jean》在R&B串流歌曲榜上追平了他個人最長的冠軍紀錄，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 86,
-    "report_date": "2026-06-17",
-    "total_articles": 9,
+    "id": 87,
+    "report_date": "2026-06-18",
+    "total_articles": 11,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
-    "daily_summary": "今日搜集的新聞報導中，未發現任何與周杰倫相關的資訊或事件。所有新聞皆聚焦於其他名人、體育賽事及娛樂產業動態，例如姆巴佩刷新世界盃進球紀錄、尼克隊奪得NBA總冠軍、麥可傑克森傳記電影票房佳績，以及其他音樂人與影視消息。",
-    "key_events": [
-      "無周杰倫新聞",
-      "今日無相關報導",
-      "未有焦點事件"
-    ],
-    "created_at": "2026-06-17 05:29:33"
+    "neutral_count": 11,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India、Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times、Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
+    "created_at": "2026-06-18 05:21:14"
   },
   "recentReports": [
+    {
+      "id": 87,
+      "report_date": "2026-06-18",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 11,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India、Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times、Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
+      "created_at": "2026-06-18 05:21:14"
+    },
     {
       "id": 86,
       "report_date": "2026-06-17",
@@ -661,21 +668,6 @@
         "無焦點事件"
       ],
       "created_at": "2026-06-12 05:19:45"
-    },
-    {
-      "id": 80,
-      "report_date": "2026-06-11",
-      "total_articles": 8,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 8,
-      "daily_summary": "今日新聞報導中，未發現與周杰倫直接相關的內容。主要焦點集中於其他藝人如Jay-Z宣布演唱會、Michael Jackson電影串流上線，以及Kanye West發行新歌等娛樂界動態。籃球明星Jalen Brunson的表現也受到關注。",
-      "key_events": [
-        "Jay-Z 宣布演唱會",
-        "MJ 電影上串流",
-        "Kanye West 發新歌"
-      ],
-      "created_at": "2026-06-11 05:14:02"
     }
   ]
 }

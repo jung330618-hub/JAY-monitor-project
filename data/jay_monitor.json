@@ -22856,11 +22856,11 @@
       "snippet": "華語樂壇天王周杰倫的第16張個人專輯《太陽之子》，已在19日下午搶先開放預購，將在明（25）日數位發行、4月10日實體發行，同名主打歌MV，則將於今日全球首播，並舉行現場記者會與粉絲同歡。",
       "published_at": "2026-03-24T04:15:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫《太陽之子》預購懶人包！砸1億致敬4名畫、專輯亮點一次看",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 1634,
@@ -22870,11 +22870,11 @@
       "snippet": "生活中心／曾郁雅報導飄香超過50年的淡水知名老店「文化阿給」，年初爆出第二代兄妹經營理念不同正式分家，位於真理街的老店也在1月熄燈，消息曝光後讓不少老饕感到不捨，經過數個月籌備後，由妹妹一方經營的新店近日以「老街文化阿給」之名重新出發，選在淡水老街核心地段開幕，吸引大批民眾與粉絲前往朝聖，沒想到開幕僅一天，店家就緊急宣布暫停營業數日，原因也隨之曝光。",
       "published_at": "2026-05-31T19:41:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "開幕僅1天！周杰倫愛店「文化阿給」又停業 原因曝光",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1635,
@@ -22884,11 +22884,11 @@
       "snippet": "周杰倫澳網「一球決勝大滿貫」首秀今日登場，引發網球圈與華語圈共同關注。周杰倫以球員身分出現在澳洲網球公開賽的官方籤表上，排序第46號，姓名標示為「CHOU，Jay」，但備註欄國籍卻 ...",
       "published_at": "2026-01-14T09:05:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫參加澳網1分大滿貫！陪昆凌看球到現在…球齡僅3年？直播去哪看？奪冠獎金/賽制一次看",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 1636,
@@ -22898,11 +22898,11 @@
       "snippet": "賭王何鴻燊四房之子何猷君與中國超模奚夢瑤結婚7年，昨（1）在法國補辦婚禮，在世界文化遺產聖米歇爾山古堡舉行儀式，以「承諾如約而至」為主題，該地更是周杰倫曾拍攝〈最偉大的作品〉MV的場景，今陸續公開現場照片，洋溢浪漫、幸福氛圍，引起網友熱烈討論。",
       "published_at": "2026-06-01T19:44:00.000Z",
       "collected_at": "2026-06-03 05:29:20",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "何猷君與奚夢瑤在周杰倫〈最偉大的作品〉MV取景地聖米歇爾山古堡補辦婚禮，現場洋溢幸福氛圍。",
+      "category": "影視",
+      "analyzed": 1
     },
     {
       "id": 1637,
@@ -24653,6 +24653,160 @@
       "summary": "這篇新聞報導了法國球星姆巴佩在對陣塞內加爾的比賽中成為法國隊史最佳射手。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1762,
+      "title": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India",
+      "link": "https://in.ign.com/michael/263693/michael-how-to-watch-jaafar-jacksons-film-online-in-india-here-is-the-streaming-platform-price-dubs",
+      "source": "Tavily (in.ign.com)",
+      "snippet": "# Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More. ### Moonwalk through the life and legacy of the King of Pop, Michael Jackson, from home. The biographical film Michael, based on the life of the King of Pop, Michael Jackson, is now available to watch at home. The film is based on the life of the legendary singer and dancer, following his journey from his early days as the lead vocalist of the Jackson Five to his rise as a global superstar. Following its theatrical run, the film is now available to rent and buy online in India. The film tells the story of Michael Jackson’s life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.",
+      "published_at": "Fri, 12 Jun 2026 10:58:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了關於麥可傑克森傳記電影《麥可》在印度線上觀看的資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1763,
+      "title": "Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times",
+      "link": "https://www.latimes.com/travel/story/2026-06-17/ziggy-marley-on-singing-about-bob-marley-hollywood-bowl-show-more",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": "It’s Friday afternoon in North Hollywood and Ziggy Marley is perched on a stool inside his newly built Rebel Lion Studio, tucked in one of the neighborhood’s creative enclaves. From sitting in studio sessions with his father as a child to building a five-decade career of his own, he has remained a curious student of the craft, one willing to challenge convention in search of a deeper meaning. “I think it shows the next stage that I probably am in,” says Marley, adding that he felt connected to his father on a spiritual level. “We took another step in the relationship, to another place that it’s never been before.”. He adds, “When I was doing the song, it kind of came to me like this song could’ve been my father’s song. Can you take me back to the beginning of that process and why you wanted to do it?**.",
+      "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Ziggy Marley的新專輯與音樂生涯，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1764,
+      "title": "Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
+      "link": "https://www.latimes.com/0cntsdrth-c-123",
+      "source": "Tavily (www.latimes.com)",
+      "snippet": ", Albert Brave Tiger Lee and Brenda Elizondo. Ahead of the release of its upcoming album, Sublime is reflecting on the band’s latest chapter. Jakob Nowell, Bud Gaugh and Eric Wilson sat down with Los Angeles Times reporter Nate Jackson to discuss how writing music together led to the band’s reunion and what it has been like to see longtime fans and a younger generation connect through the same songs. Nate Jackson is a deputy editor for Entertainment and Arts. Previously, he served as a news editor for the Wrap and the music editor for OC Weekly. He returns to The Times after being both a Metpro and a staff writer in Calendar from 2009 to 2012. Albert Brave Tiger Lee is a Southern California native, son of Korean immigrants, a father and a staff videographer at the Los Angeles Times. Brenda Elizondo is an audience engagement fellow at the Los Angeles Times.",
+      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於樂團Sublime的最新動態，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1765,
+      "title": "2026-06-20 - Billboard Canada",
+      "link": "https://ca.billboard.com/charts/hot-100/2026-06-20",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. ## Music News Digest: Jazz Meets Hip-Hop at Toronto Jazz Festival, Mississauga Music Walk of Fame's 2026 Inductees. ## ‘Absolutely Wild to Me’: Cameron Whitcomb Hits the U.S. Billboard Hot 100 For the First Time With ‘Kingdom of Fear'. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200. Find the *Daughter From Hell* tracklist below and look for the album on July 17.",
+      "published_at": "Wed, 17 Jun 2026 23:05:17 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則Billboard Canada新聞報導了多項音樂產業動態，包括多倫多爵士音樂節、新專輯發行與排行榜成績，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1766,
+      "title": "Canadian Music Sales Report: Week Ending June 11, 2026 - Billboard Canada",
+      "link": "https://ca.billboard.com/fyi/canadian-music-sales-report-week-ending-june-11-2026",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. Here is this week's Luminate Data Market Watch national sales report, featuring stats for Canadian album sales, streams, digital sales and more. *Here is this week's Luminate Data Market Watch report which features Canadian music stats for the current week and YTD with comparisons to last year. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200.",
+      "published_at": "Wed, 17 Jun 2026 18:11:53 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇加拿大音樂銷售報告主要聚焦於Gracie Abrams的新專輯資訊，文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1767,
+      "title": "Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25441819-fat-joe-reveals-wu-tang-clan-more-invited-his-hip-hop-float-knicks-championship-parade",
+      "source": "Tavily (bleacherreport.com)",
+      "snippet": "# Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade. Fat Joe will be bringing a star-studded float to Manhattan when the New York Knicks start officially celebrating their 2026 NBA title with a Thursday morning parade. The rapper will be joined on his float by the Wu-Tang Clan, Remy Ma, Ja Rule, Mary J. \"Mr. Dolan and the Knicks tapped me to run the hip-hop division,\" the rapper said. Bleacher Report1d### Jordyn Woods Talks 'No Intimacy Pitch', Lucky Bag. Wu-Tang Clan performed last week at Madison Square Garden just before the Knicks completed the largest comeback in NBA Finals history in Game 4 against the San Antonio Spurs. Knicks fans will be treated to more live music at the parade, which is set to feature a performance of \"Empire State of Mind\" by Alicia Keys. The ticker-tape parade is set to start 10 a.m. ET Thursday at Battery Park before moving through New York's \"Canyon of Heroes\" up to City Hall.",
+      "published_at": "Wed, 17 Jun 2026 20:06:15 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了饒舌歌手Fat Joe為紐約尼克隊假設的冠軍遊行籌備嘻哈花車，並邀請了Wu-Tang Clan、Remy Ma、Ja Rule、Mary J. Blige和Alicia Keys等藝人參與，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1768,
+      "title": "Knicks' smallest fans hold celebration ahead of ticker-tape parade - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/knicks-smallest-fans-hold-celebration-ahead-of-ticker-tape-parade/6514909/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### News. # Knicks' smallest fans hold celebration ahead of ticker-tape parade. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 21:57:30 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導紐約尼克隊的慶祝活動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1769,
+      "title": "Jalen Brunson's dominant 2026 postseason - NBA.com",
+      "link": "https://www.nba.com/watch/video/jalen-brunson-2026-postseason-mix",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Jalen Brunson's dominant 2026 postseason. From game-winners to clutch moments, take a look at this highlight compilation of Jalen Brunson's postseason run. # Playlist.",
+      "published_at": "Wed, 17 Jun 2026 23:13:31 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jalen Brunson's dominant 2026 postseason - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1770,
+      "title": "Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/06/12/songwriters-hall-of-fame-taylor-swift-kiss-alanis-morissette/90510812007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony. So you have to have a great song.”. So said Paul Stanley early Thursday as he and his KISS bandmate of 50-plus years, Gene Simmons, chatted at USA TODAY’s office about 12 hours before they would receive their flowers as inductees into the Songwriters Hall of Fame. In addition, John Fogerty, who was inducted in 2005, was honored with the Johnny Mercer Award for songwriters who have “achieved gold-standard status in music history,” and Raye received the Hal David Starlight Award, given to young songwriters making a significant impact in the music industry with original songs. It’s supposed to be about fun!” he said in the midst of a detailed career overview) and performed a trio of songs with sons Shane and Tyler including “Proud Mary.” Meanwhile, Stanley quickly accepted his award minus Simmons, who he said had a “family emergency at a local hospital.” (USA TODAY has reached out to Simmons’ rep for more information.).",
+      "published_at": "Fri, 12 Jun 2026 11:14:00 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了泰勒絲、KISS樂團及其他音樂人在2026年詞曲創作人名人堂頒獎典禮上獲得榮譽，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1771,
+      "title": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
+      "link": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-mets-predicted-make-most-deal-mlb-trade-deadline/3c46a711775af95ba17ffd86",
+      "source": "Tavily (www.sportingnews.com)",
+      "snippet": "# 成都精工诚志制冷设备有限公司. 成都精工诚志制冷设备有限公司成立于2003年10月14日，是一家位于四川省成都市金牛区二环路北一段123号的有限责任公司（自然人投资或控股），法定代表人为蒙庆鹏，注册资本为300万人民币. 。2025年5月22日，公司经营范围变更为一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务. 。公司与国内外多家知名制冷企业进行合作，代理经销德国比泽尔、丹佛斯美优乐、欧洲泰康、百年德国谷轮、日本日立等品牌产品. :   制冷、空调设备销售、气体压缩机械销售、保温材料销售、金属链条及其他金属制品销售、金属材料销售、化工产品销售（不含许可类化工产品）、专用化学产品销售（不含危险化学品）、配电开关控制设备销售、工业自动控制系统装置销售、五金产品批发、阀门和旋塞销售、润滑油销售、通用设备修理、普通机械设备安装服务. 一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）. ## 目录. ## 发展历程. 2014年8月26日，公司总经理蒙庆鹏提出“精益求精 更近一步”的理念。. 2015年12月18日，公司参与“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”，并获得“西南制冷市场知名企业”称号。. 2025年5月22日，公司经营范围发生重大变更，从原有的制冷设备销售、安装等，扩展至涵盖气体压缩机械、保温材料、金属材料、化工产品（不含许可类）、专用化学品、配电开关、工业自控系统装置、五金产品、阀门、润滑油销售以及通用设备修理、普通机械设备安装服务等多个领域。. ## 主营业务. 销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；. ## 主要产品与代理品牌. 。公司取得了德国比泽尔、艾默生系列、意大利康达托冷风机、浙江高翔冷风机、伊式班尼亚冷风机、丹佛斯美优乐、欧洲泰康、百年德国谷轮、深圳东露阳、浙江三花等品牌的代理经销权. 。其销售的产品线涵盖压缩机、冷风机、铜管、制冷设备、制冷剂、冷冻油、保温管、分支器、冷却塔、铝排、制冷配件、制冷机组、空调配件、冷库设备、中央空调、冷冻机组、清洗剂、膨胀阀、电控箱等. ## 社会荣誉. 2015年12月，在“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”活动中，获评“西南制冷市场知名企业”。. ###### 相关搜索. ©2026 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号.",
+      "published_at": "Fri, 12 Jun 2026 06:40:57 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 1772,
+      "title": "Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood' - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment-videos/hugh-jackman-talks-epic-transformation-in-the-death-of-robin-hood/6514876/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### Entertainment Videos. # Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Wed, 17 Jun 2026 21:11:19 GMT",
+      "collected_at": "2026-06-18 05:20:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於休·傑克曼（Hugh Jackman）的電影轉變，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -25887,6 +26041,17 @@
         "未有焦點事件"
       ],
       "created_at": "2026-06-17 05:29:33"
+    },
+    {
+      "id": 87,
+      "report_date": "2026-06-18",
+      "total_articles": 11,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 11,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India、Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times、Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
+      "created_at": "2026-06-18 05:21:14"
     }
   ],
   "notification_logs": [
@@ -27177,11 +27342,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-17 05:29:35"
+    },
+    {
+      "id": 185,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-18 05:21:15"
+    },
+    {
+      "id": 186,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-06-18 05:21:16"
     }
   ],
   "_meta": {
-    "nextArticleId": 1762,
-    "nextReportId": 87,
-    "nextLogId": 185
+    "nextArticleId": 1773,
+    "nextReportId": 88,
+    "nextLogId": 187
   }
 }
