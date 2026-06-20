@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 17,
+    "total": 12,
     "positive": 0,
     "negative": 0,
-    "neutral": 17
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 1789,
+    "total": 1801,
     "positive": 558,
     "negative": 65,
-    "neutral": 1166,
+    "neutral": 1178,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-06-05",
-      "total": 13,
-      "positive": 0,
-      "negative": 1,
-      "neutral": 12,
-      "avg_score": 0.47
-    },
     {
       "date": "2026-06-06",
       "total": 8,
@@ -132,9 +124,185 @@
       "negative": 0,
       "neutral": 17,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-20",
+      "total": 12,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 12,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1790,
+      "title": "Jay Leno: Joe Rogan Is 21st Century's Johnny Carson - Newser",
+      "link": "https://www.newser.com/story/391381/jay-leno-joe-rogan-is-21st-centurys-johnny-carson.html",
+      "source": "Tavily (www.newser.com)",
+      "snippet": "# Jay Leno: Joe Rogan Is 21st Century's Johnny Carson. Image 1: Newser - Current News - Breaking StoriesImage 2: Newser - Current News - Breaking Stories. Image 8: Newser - Current News - Breaking Stories. *   Image 20 What Critics Are Saying About the New Toy Story. Image 46: Jay Leno: Joe Rogan Is 21st Century's Johnny Carson. Jay Leno thinks he's spotted the new Johnny Carson—and he's not on broadcast TV. *    \"Joe Rogan is the new Johnny Carson,\" he says. There's no FCC to step in and say what you say and can't say, so you really do get an unfiltered idea of what everybody thinks. Read the full interview, in which Leno pushes back on criticism from HBO's John Oliver and insists he never said that current hosts are \"doing it wrong.\". Image 55: Social Security’s 2027 COLA Is on Pace to Be Historic and Devastating. ### Social Security’s 2027 COLA Is on Pace to Be Historic and Devastating.",
+      "published_at": "Fri, 19 Jun 2026 22:20:00 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要討論Jay Leno將Joe Rogan比作新一代Johnny Carson，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1791,
+      "title": "Jason Momoa Joined by His Two Kids & Girlfriend Adria Arjona at 'Supergirl' Premiere in London - Just Jared",
+      "link": "https://www.justjared.com/2026/06/18/jason-momoa-joined-by-his-two-kids-girlfriend-adria-arjona-at-supergirl-premiere-in-london/",
+      "source": "Tavily (www.justjared.com)",
+      "snippet": "# Jason Momoa Joined by His Two Kids & Girlfriend Adria Arjona at ‘Supergirl’ Premiere in London. **Jason Momoa** has the support of his loved ones at his big event! The 46-year-old actor was joined by his two kids – son **Nakoa-Wolf**, 17, and daughter **Lola**, 18 – at the premiere of his new movie ***Supergirl*** on Thursday (June 18) held at Leicester Square in London, England. For the premiere, **Jason** sported a charcoal-gray suit, but soon took off his blazer to show off his buff muscles. His kids coordinated in black outfits. Also joining **Jason** at the premiere was his girlfriend **Adria Arjona**, who wore a plunging red dress. Hours before the *Supergirl* premiere, **Jason** rolled up in a motorcycle as he attended the Lobo Bike Stunt Photocall at the Marble Arch. ***Browse through the gallery for more photos of Jason Momoa at the Supergirl premiere…***. Posted To:Celebrity Babies Event Photos Jason Momoa Lola Momoa Nakoa-Wolf Momoa Supergirl.",
+      "published_at": "Thu, 18 Jun 2026 21:22:14 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導主要關於傑森·摩莫亞攜子女及女友出席電影《超少女》在倫敦的首映會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1792,
+      "title": "Jack Savoretti on 'leaning into a midlife crisis' - BBC",
+      "link": "https://www.bbc.com/news/articles/cj6g8xp7y6ro",
+      "source": "Tavily (www.bbc.com)",
+      "snippet": "# Jack Savoretti on 'leaning into a midlife crisis'. Twenty years since his debut, Jack Savoretti, who lives near Chipping Norton in Oxfordshire, says he was \"very prepared for nobody really caring\" about his ninth album, We Will Always Be The Way We Were. Ahead of his autumn tour across Europe and the UK, the singer talks about writing songs for \"the mothers and the fathers in the world\" and his first collaboration with long-time friend KT Tunstall. Savoretti compares choosing the theme of the album to \"a bit like leaning into a midlife crisis\". \"As great as the music is right now, there's not much that I listen to that I relate to. \"I don't know if there's much music for all the mothers and the fathers in the world, especially for men,\" he says. \"I really wanted to make an album that was useful to anybody in the afternoon of life.\".",
+      "published_at": "Fri, 19 Jun 2026 05:10:25 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導歌手Jack Savoretti的新專輯與創作理念，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1793,
+      "title": "Carson Daly has career advice for son Jackson: ‘Become an electrician' - NBC New York",
+      "link": "https://www.nbcnewyork.com/entertainment/entertainment-news/carson-daly-career-advice-son-jackson/6515759/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "TODAY host Carson Daly and his wife Siri are about to hit a milestone with their oldest son, Jackson. “I think the key to parenthood for me, for fatherhood, is trying every single day how to figure out how to slow the hands of time,” Daly said at the the TODAY dads’ annual Father’s Day event at Swingers Crazy Golf in New York City. In two years now when he’s a freshman in college, the entire educational process of how or what he’s supposed to get out of a four-year university experience is completely changing in real-time.”. He said that Jackson “might benefit more from majoring in prompts of AI, learning how to use the technology to better a career.” He paused and added, “I’m trying to get him into a trade. I’m going to get an awesome condo right down the street, and you and I are going to have a great freshman year!’” Carson joked.",
+      "published_at": "Fri, 19 Jun 2026 12:58:08 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "美國主持人Carson Daly分享了他對兒子未來職業規劃的看法，建議他考慮AI或技職，此資訊與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1794,
+      "title": "MONSTA X’s Minhyuk Explores Love And Longing In New Single, ‘Reaching’ - Forbes",
+      "link": "https://www.forbes.com/sites/laurasirikul/2026/06/19/monsta-xs-minhyuk-explores-love-and-longing-in-new-single-reaching/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# MONSTA X’s Minhyuk Explores Love And Longing In New Single, ‘Reaching’. MONSTA X member Minhyuk has unveiled his new solo digital single, \"Reaching,\" a sweet pop-rock ballad centered on love and deep connections. K-indie singer-songwriter Hyun-sang Ha penned and composed the track, specifically envisioning Minhyuk and his fans, hoping their sentiments would \"reach him.\" Minhyuk's soft yet husky vocals beautifully intertwine with electric guitar riffs, steady drums, and acoustic melodies, evoking profound yearning and sincerity. Its \"boyfriend-coded\" music video shows Minhyuk in a tranquil forest with his guitar, a stark contrast to his previous EDM track \"Ongshimi.\" This release highlights a surprisingly gentle, emotional facet of the energetic idol, perfectly resonating with his fanbase. Minhyuk of MONSTA X has released a new solo digital single, “Reaching,” a sweet message about love and exploring those connections. Minhyuk of MONSTA X’s new track “Reaching” is available on all streaming platforms.",
+      "published_at": "Fri, 19 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊主要關於MONSTA X成員Minhyuk發行新單曲《Reaching》，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1795,
+      "title": "kimeeee's Library - IGN",
+      "link": "https://www.ign.com/playlist/kimeeee/library",
+      "source": "Tavily (www.ign.com)",
+      "snippet": "# kimeeee's Library - IGN. Image 1: IGN LogoImage 2: IGN LogoSkip to content. free games, discounts and more. All ReviewsEditor's ChoiceGame ReviewsMovie ReviewsTV Show ReviewsTech Reviews. IGN Live TicketsMETRO 2039NTE World GuideWorld of Warcraft: Midnight HubPlanet PokemonPercy Jackson World GuideUpcoming GamesUpcoming MoviesUpcoming TV ShowsPreordersKingdom Come Deliverance IIVideo Game TrailersMovie TrailersTV TrailersBest Tech for GamingUniversal Studios Hollywood HubDiscover Universal Orlando Resort. Join for free or log in. Image 3: IGN LogoImage 4: IGN LogoJoin for free. # kimeeee's Library. Share#### 0 lists#### 26 library.",
+      "published_at": "Sat, 20 Jun 2026 03:21:10 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊為IGN網站上名為「kimeeee's Library」的頁面內容，列出IGN提供的各種遊戲、電影、電視節目評論及預告等資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1796,
+      "title": "wgaub's Library - IGN",
+      "link": "https://www.ign.com/playlist/wgaub/library/backlog",
+      "source": "Tavily (www.ign.com)",
+      "snippet": "# wgaub's Library - IGN. Image 1: IGN LogoImage 2: IGN LogoSkip to content. free games, discounts and more. ### Reviews. All ReviewsEditor's ChoiceGame ReviewsMovie ReviewsTV Show ReviewsTech Reviews. IGN Live TicketsMETRO 2039NTE World GuideWorld of Warcraft: Midnight HubPlanet PokemonPercy Jackson World GuideUpcoming GamesUpcoming MoviesUpcoming TV ShowsPreordersKingdom Come Deliverance IIVideo Game TrailersMovie TrailersTV TrailersBest Tech for GamingUniversal Studios Hollywood HubDiscover Universal Orlando Resort. Join for free or log in. Image 3: IGN LogoImage 4: IGN LogoJoin for free. # wgaub's Library. Share#### 0 lists#### 82 library.",
+      "published_at": "Sat, 20 Jun 2026 00:06:29 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則資訊來自IGN網站，內容為wgaub的圖書館頁面，列出各種評論、遊戲指南和娛樂資訊，但未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1797,
+      "title": "MONSTA X’s Minhyuk Explores Love And Longing In New Single, ‘Reaching’ - Yahoo News Malaysia",
+      "link": "https://malaysia.news.yahoo.com/monsta-x-minhyuk-explores-love-223441751.html",
+      "source": "Tavily (malaysia.news.yahoo.com)",
+      "snippet": "# MONSTA X’s Minhyuk Explores Love And Longing In New Single, ‘Reaching’. Minhyuk of MONSTA X has released a new solo digital single, “Reaching,” a sweet message about love and exploring those connections. While Ha was writing the song, he thought about how it would feel to be a fan of someone like Minhyuk, and how fans would hope “those feelings would reach him.” So, he gifted the handsome vocalist the song, saying in a press release, “I hope this song becomes a gift for Minhyuk and for anyone who listens.”. It’s a song about longing, wanting to reach out to them, and declaring that love. It’s the perfect song for a sweet, romantic comedy. After listening to “Reaching” and watching the video, it’s no surprise that Ha wrote the song in the eyes of Minhyuk’s fans. Minhyuk of MONSTA X’s new track “Reaching” is available on all streaming platforms.",
+      "published_at": "Fri, 19 Jun 2026 22:34:41 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導韓國團體MONSTA X成員Minhyuk發布新單曲《Reaching》，內容主要探討愛與渴望，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1798,
+      "title": "Exclusive | Gavin Newsom ‘preparing’ to release long-delayed tax returns amid DOJ probe - New York Post",
+      "link": "https://nypost.com/2026/06/19/us-news/gavin-newsom-claims-hell-release-tax-returns-amid-doj-probe/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "Gavin Newsom has pledged to publicly release all his tax returns as governor in a dramatic development in the ongoing Department of Justice probe into his family’s finances. Newsom’s office said Friday it is “working to prepare” the governor’s tax returns spanning his current term in office as federal officials reportedly investigate his wife Jennifer Siebel Newsom’s finances and other individuals close to the governor. Newsom previously pledged to release annual tax returns during his 2018 campaign for governor, calling it a “moral duty” in what was viewed as a shot at President Donald Trump, who broke tradition by declining to voluntarily release his returns. **California Post Newsletters**: Sign up here! The Newsoms’ family fortune —which includes a $9 million estate in posh Marin County, another $3.7 million home in Fair Oaks and a sprawling wine empire — has been the subject of scrutiny since sources revealed this week that Siebel Newsom’s taxes are one focus of multiple federal probes surrounding the governor.",
+      "published_at": "Sat, 20 Jun 2026 01:05:29 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "加州州長Gavin Newsom因司法部對其家族財務的調查，正準備公開其延遲已久的稅務紀錄。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1799,
+      "title": "Ye San Antonio concert tickets release Friday on Ticketmaster - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/music/2026/06/18/ye-tickets-san-antonio-alamodome-show-on-sale-friday/90617376007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "# Ye San Antonio concert tickets release Friday on Ticketmaster. June 18, 2026, 11:47 p.m. ET. Tickets for Ye’s upcoming San Antonio concert are set to go on sale to the general public, according to Ticketmaster. The Grammy-winning artist, formerly known as Kanye West, is scheduled to perform at the Alamodome on July 4, with a 9 p.m. CT start time. Presale access opened earlier on Thursday, June 18, for fans, according to Alamodome, while general ticket sales begin at 10 a.m. CT/9 a.m. MT on Friday, June 19, for fans hoping to attend the Independence Day show. The San Antonio stop is part of a limited U.S. tour and marks one of the artist’s few scheduled performances in the country. ## Ye tour 2026 schedule. * Friday, June 26: Tampa, Fla. * Saturday, July 4: San Antonio - Alamodome. ## Ye setlist 2026. Ye has a net worth of $400 million, according to Forbes.",
+      "published_at": "Fri, 19 Jun 2026 03:47:00 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了美國歌手Ye（Kanye West）在聖安東尼奧的演唱會門票發售資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1800,
+      "title": "mgk, bbno$, Dan + Shay & More: Best Moments from NXNE 2026 - Billboard Canada",
+      "link": "https://ca.billboard.com/music/concerts/nxne-2026-mgk-bbno",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "From June 10-14, the festival was the biggest week for the Canadian music industry and the spot for one-of-a-kind music moments. mgk live at Hotel X for Billboard Canada Presents THE STAGE at NXNE. This year, the beloved Toronto music festival continued its partnership with **Billboard Canada,** featuring a string of one-of-a-kind live shows from emerging and established acts, along with top-tier events that celebrated the biggest names in the Canadian music scene. From Daniel Caesar's heartfelt tribute to his managers, Matthew Burnett and Jordan Evans, at Billboard Canada Managers to Watch to Vinny Cinquemani and Riley O’Connor being inducted into Billboard Canada’s first-ever Hall of Fame at Billboard Canada Power Players to a surprise moment from Canada's hottest band Angine de Poitrine, it was a major week of highlights for both the music industry and music fans. Fresh off gracing the cover of *Billboard Canada* and playing his biggest-ever headline show at RBC Amphitheatre, bbno$ took NXNE back in time, returning to the Drake Underground for a special Billboard Canada THE STAGE show limited to 200 superfans.",
+      "published_at": "Wed, 17 Jun 2026 16:37:13 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了2026年NXNE音樂節在加拿大的盛況，提及了多位藝人及音樂產業活動，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1801,
+      "title": "EVAN begins solo debut countdown with self-produced album 'RIDE or DIE' - allkpop",
+      "link": "https://www.allkpop.com/article/2026/06/evan-begins-solo-debut-countdown-with-self-produced-album-ride-or-die",
+      "source": "Tavily (www.allkpop.com)",
+      "snippet": "EVAN is ready to showcase his unique musical identity through his self-produced debut single. EVAN will release his first digital single, '**RIDE OR DIE**,' through major music platforms on June 22 at 6 PM KST. It includes the title track of the same name, “Ride or Die,” along with the B-side track “Overflow.”. Through the title track, EVAN expresses a longing for love while also conveying his heartfelt sincerity toward fans. According to his agency, EVAN’s steadily developed musical abilities serve as the foundation of the new release. “*His growth as an artist is reflected throughout the album*,” the agency said. “*Through a number of self-produced songs, he has demonstrated his potential as a producer*.”. EVAN took the lead in writing and composing every track on the single and also participated in the overall visual creative direction. A representative described the release as “an opportunity for fans to experience deeper musical satisfaction while allowing the general public to discover EVAN’s true artistic value.”.",
+      "published_at": "Fri, 19 Jun 2026 16:00:00 GMT",
+      "collected_at": "2026-06-20 04:54:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導韓國藝人EVAN發行新專輯，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1773,
       "title": "‘Michael’ Surpasses ‘Bohemian Rhapsody’ As Highest-Grossing Biopic of All Time - Billboard Canada",
@@ -386,192 +554,39 @@
       "summary": "這篇新聞報導了關於麥可傑克森傳記電影《麥可》在印度線上觀看的資訊，與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1763,
-      "title": "Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times",
-      "link": "https://www.latimes.com/travel/story/2026-06-17/ziggy-marley-on-singing-about-bob-marley-hollywood-bowl-show-more",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": "It’s Friday afternoon in North Hollywood and Ziggy Marley is perched on a stool inside his newly built Rebel Lion Studio, tucked in one of the neighborhood’s creative enclaves. From sitting in studio sessions with his father as a child to building a five-decade career of his own, he has remained a curious student of the craft, one willing to challenge convention in search of a deeper meaning. “I think it shows the next stage that I probably am in,” says Marley, adding that he felt connected to his father on a spiritual level. “We took another step in the relationship, to another place that it’s never been before.”. He adds, “When I was doing the song, it kind of came to me like this song could’ve been my father’s song. Can you take me back to the beginning of that process and why you wanted to do it?**.",
-      "published_at": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Ziggy Marley的新專輯與音樂生涯，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1764,
-      "title": "Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
-      "link": "https://www.latimes.com/0cntsdrth-c-123",
-      "source": "Tavily (www.latimes.com)",
-      "snippet": ", Albert Brave Tiger Lee and Brenda Elizondo. Ahead of the release of its upcoming album, Sublime is reflecting on the band’s latest chapter. Jakob Nowell, Bud Gaugh and Eric Wilson sat down with Los Angeles Times reporter Nate Jackson to discuss how writing music together led to the band’s reunion and what it has been like to see longtime fans and a younger generation connect through the same songs. Nate Jackson is a deputy editor for Entertainment and Arts. Previously, he served as a news editor for the Wrap and the music editor for OC Weekly. He returns to The Times after being both a Metpro and a staff writer in Calendar from 2009 to 2012. Albert Brave Tiger Lee is a Southern California native, son of Korean immigrants, a father and a staff videographer at the Los Angeles Times. Brenda Elizondo is an audience engagement fellow at the Los Angeles Times.",
-      "published_at": "Thu, 11 Jun 2026 10:00:00 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於樂團Sublime的最新動態，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1765,
-      "title": "2026-06-20 - Billboard Canada",
-      "link": "https://ca.billboard.com/charts/hot-100/2026-06-20",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. ## Music News Digest: Jazz Meets Hip-Hop at Toronto Jazz Festival, Mississauga Music Walk of Fame's 2026 Inductees. ## ‘Absolutely Wild to Me’: Cameron Whitcomb Hits the U.S. Billboard Hot 100 For the First Time With ‘Kingdom of Fear'. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200. Find the *Daughter From Hell* tracklist below and look for the album on July 17.",
-      "published_at": "Wed, 17 Jun 2026 23:05:17 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則Billboard Canada新聞報導了多項音樂產業動態，包括多倫多爵士音樂節、新專輯發行與排行榜成績，但內容中未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1766,
-      "title": "Canadian Music Sales Report: Week Ending June 11, 2026 - Billboard Canada",
-      "link": "https://ca.billboard.com/fyi/canadian-music-sales-report-week-ending-june-11-2026",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. Here is this week's Luminate Data Market Watch national sales report, featuring stats for Canadian album sales, streams, digital sales and more. *Here is this week's Luminate Data Market Watch report which features Canadian music stats for the current week and YTD with comparisons to last year. Gracie Abrams revealed the tracklist for her upcoming *Daughter From Hell* album on Wednesday (June 17). Abrams also posted each song’s runtime on social media, with titles like “Sober,” “Death Wish,” “Knife,” “Men Like You,” “Humming” and “What If It’s Right?” the latter of which features Marcus Mumford and is the longest track on the LP. Abrams called *Daughter From Hell* her “favorite music” she’s made to date in an interview with*The Hollywood Reporter* in January. Abrams’ last album, *The Secret of Us*, arrived in June 2024 and peaked at No. 2 on the Billboard 200.",
-      "published_at": "Wed, 17 Jun 2026 18:11:53 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇加拿大音樂銷售報告主要聚焦於Gracie Abrams的新專輯資訊，文中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1767,
-      "title": "Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25441819-fat-joe-reveals-wu-tang-clan-more-invited-his-hip-hop-float-knicks-championship-parade",
-      "source": "Tavily (bleacherreport.com)",
-      "snippet": "# Fat Joe Reveals Wu-Tang Clan, More Invited to His Hip-Hop Float for Knicks Championship Parade. Fat Joe will be bringing a star-studded float to Manhattan when the New York Knicks start officially celebrating their 2026 NBA title with a Thursday morning parade. The rapper will be joined on his float by the Wu-Tang Clan, Remy Ma, Ja Rule, Mary J. \"Mr. Dolan and the Knicks tapped me to run the hip-hop division,\" the rapper said. Bleacher Report1d### Jordyn Woods Talks 'No Intimacy Pitch', Lucky Bag. Wu-Tang Clan performed last week at Madison Square Garden just before the Knicks completed the largest comeback in NBA Finals history in Game 4 against the San Antonio Spurs. Knicks fans will be treated to more live music at the parade, which is set to feature a performance of \"Empire State of Mind\" by Alicia Keys. The ticker-tape parade is set to start 10 a.m. ET Thursday at Battery Park before moving through New York's \"Canyon of Heroes\" up to City Hall.",
-      "published_at": "Wed, 17 Jun 2026 20:06:15 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了饒舌歌手Fat Joe為紐約尼克隊假設的冠軍遊行籌備嘻哈花車，並邀請了Wu-Tang Clan、Remy Ma、Ja Rule、Mary J. Blige和Alicia Keys等藝人參與，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1768,
-      "title": "Knicks' smallest fans hold celebration ahead of ticker-tape parade - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/news/knicks-smallest-fans-hold-celebration-ahead-of-ticker-tape-parade/6514909/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### News. # Knicks' smallest fans hold celebration ahead of ticker-tape parade. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Wed, 17 Jun 2026 21:57:30 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導紐約尼克隊的慶祝活動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1769,
-      "title": "Jalen Brunson's dominant 2026 postseason - NBA.com",
-      "link": "https://www.nba.com/watch/video/jalen-brunson-2026-postseason-mix",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## Jalen Brunson's dominant 2026 postseason. From game-winners to clutch moments, take a look at this highlight compilation of Jalen Brunson's postseason run. # Playlist.",
-      "published_at": "Wed, 17 Jun 2026 23:13:31 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jalen Brunson's dominant 2026 postseason - NBA.com",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1770,
-      "title": "Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/music/2026/06/12/songwriters-hall-of-fame-taylor-swift-kiss-alanis-morissette/90510812007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "# Taylor Swift, KISS lead 2026 Songwriters Hall of Fame ceremony. So you have to have a great song.”. So said Paul Stanley early Thursday as he and his KISS bandmate of 50-plus years, Gene Simmons, chatted at USA TODAY’s office about 12 hours before they would receive their flowers as inductees into the Songwriters Hall of Fame. In addition, John Fogerty, who was inducted in 2005, was honored with the Johnny Mercer Award for songwriters who have “achieved gold-standard status in music history,” and Raye received the Hal David Starlight Award, given to young songwriters making a significant impact in the music industry with original songs. It’s supposed to be about fun!” he said in the midst of a detailed career overview) and performed a trio of songs with sons Shane and Tyler including “Proud Mary.” Meanwhile, Stanley quickly accepted his award minus Simmons, who he said had a “family emergency at a local hospital.” (USA TODAY has reached out to Simmons’ rep for more information.).",
-      "published_at": "Fri, 12 Jun 2026 11:14:00 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了泰勒絲、KISS樂團及其他音樂人在2026年詞曲創作人名人堂頒獎典禮上獲得榮譽，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1771,
-      "title": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
-      "link": "https://www.sportingnews.com/us/mlb/toronto-blue-jays/news/blue-jays-mets-predicted-make-most-deal-mlb-trade-deadline/3c46a711775af95ba17ffd86",
-      "source": "Tavily (www.sportingnews.com)",
-      "snippet": "# 成都精工诚志制冷设备有限公司. 成都精工诚志制冷设备有限公司成立于2003年10月14日，是一家位于四川省成都市金牛区二环路北一段123号的有限责任公司（自然人投资或控股），法定代表人为蒙庆鹏，注册资本为300万人民币. 。2025年5月22日，公司经营范围变更为一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务. 。公司与国内外多家知名制冷企业进行合作，代理经销德国比泽尔、丹佛斯美优乐、欧洲泰康、百年德国谷轮、日本日立等品牌产品. :   制冷、空调设备销售、气体压缩机械销售、保温材料销售、金属链条及其他金属制品销售、金属材料销售、化工产品销售（不含许可类化工产品）、专用化学产品销售（不含危险化学品）、配电开关控制设备销售、工业自动控制系统装置销售、五金产品批发、阀门和旋塞销售、润滑油销售、通用设备修理、普通机械设备安装服务. 一般项目：制冷、空调设备销售；气体压缩机械销售；保温材料销售；金属链条及其他金属制品销售；金属材料销售；化工产品销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；润滑油销售；通用设备修理；普通机械设备安装服务。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）. ## 目录. ## 发展历程. 2014年8月26日，公司总经理蒙庆鹏提出“精益求精 更近一步”的理念。. 2015年12月18日，公司参与“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”，并获得“西南制冷市场知名企业”称号。. 2025年5月22日，公司经营范围发生重大变更，从原有的制冷设备销售、安装等，扩展至涵盖气体压缩机械、保温材料、金属材料、化工产品（不含许可类）、专用化学品、配电开关、工业自控系统装置、五金产品、阀门、润滑油销售以及通用设备修理、普通机械设备安装服务等多个领域。. ## 主营业务. 销售（不含许可类化工产品）；专用化学产品销售（不含危险化学品）；配电开关控制设备销售；工业自动控制系统装置销售；五金产品批发；阀门和旋塞销售；. ## 主要产品与代理品牌. 。公司取得了德国比泽尔、艾默生系列、意大利康达托冷风机、浙江高翔冷风机、伊式班尼亚冷风机、丹佛斯美优乐、欧洲泰康、百年德国谷轮、深圳东露阳、浙江三花等品牌的代理经销权. 。其销售的产品线涵盖压缩机、冷风机、铜管、制冷设备、制冷剂、冷冻油、保温管、分支器、冷却塔、铝排、制冷配件、制冷机组、空调配件、冷库设备、中央空调、冷冻机组、清洗剂、膨胀阀、电控箱等. ## 社会荣誉. 2015年12月，在“2015中国(西南)制冷精英联谊会暨中国冷博会成都路演”活动中，获评“西南制冷市场知名企业”。. ###### 相关搜索. ©2026 Baidu 使用百度前必读 | 百科协议 | 隐私政策 | 百度百科合作平台 | 京ICP证030173号.",
-      "published_at": "Fri, 12 Jun 2026 06:40:57 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "Blue Jays and Mets predicted to make most obvious deal during MLB trade deadline - sportingnews.com",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 1772,
-      "title": "Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood' - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment-videos/hugh-jackman-talks-epic-transformation-in-the-death-of-robin-hood/6514876/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### Entertainment Videos. # Hugh Jackman talks epic transformation in ‘The Death Of Robin Hood'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Wed, 17 Jun 2026 21:11:19 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於休·傑克曼（Hugh Jackman）的電影轉變，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1753,
-      "title": "Leboeuf backs Mbappé to break Klose's World Cup goal record - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49086415/leboeuf-backs-mbappe-break-klose-world-cup-goal-record",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "# Leboeuf backs Mbappé to break Klose's World Cup goal record. ### The Latest. ## What's next for Rashee Rice after release from jail? ## Schefter: NFL still has to sign off on supplemental draft for Brendan Sorsby. * ## Stephen A.: I want to see Serena, Venus Williams play in singles again. proclaims the Knicks America's team. ## Passan to Eisen: Everyone in MLB could use Tarik Skubal. ## Why Cam'ron disagrees with Perk's take on Wemby not shaking hands. ## Titans coach Robert Saleh not concerned by Cam Ward's accuracy issues. ## Rory McIlroy expresses concern about potential PGA tour 2-track model. * ## Five-star WR recruit Dakota Guerrant commits to Oregon on McAfee. ## Stephen A. * ## Would Giannis be a bad fit in Boston?",
-      "published_at": "Tue, 16 Jun 2026 21:50:18 GMT",
-      "collected_at": "2026-06-17 05:27:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞內容完全關於體育賽事，未提及任何與周杰倫相關的資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1754,
-      "title": "Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/fresh-off-winning-the-nba-title-karl-anthony-towns-meets-knicks-fans-in-jersey-city/6514363/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### On Air. # Fresh off winning the NBA title, Karl-Anthony Towns meets Knicks fans in Jersey City. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   ENTERTAINMENT   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Wed, 17 Jun 2026 01:41:02 GMT",
-      "collected_at": "2026-06-17 05:27:51",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於NBA球員Karl-Anthony Towns與尼克隊球迷的會面，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 88,
-    "report_date": "2026-06-19",
-    "total_articles": 17,
+    "id": 89,
+    "report_date": "2026-06-20",
+    "total_articles": 12,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 17,
-    "daily_summary": "根據今日搜集到的新聞列表，未發現任何與周杰倫直接相關的報導或焦點事件。今日娛樂新聞主要圍繞其他音樂人傳記電影的票房表現、NBA球隊的冠軍慶祝活動，以及其他歌手的演唱會與專輯發行等。因此，今日無周杰倫的相關新聞摘要可提供。",
+    "neutral_count": 12,
+    "daily_summary": "今日搜集的新聞中，未發現與周杰倫相關的報導。所有新聞主要聚焦於NBA球星動態、音樂界傳記電影及新單曲發布，以及其他娛樂人物的最新消息。",
     "key_events": [
       "無周杰倫新聞",
-      "未發現相關報導",
-      "今日無焦點"
+      "焦點分散",
+      "未有相關報導"
     ],
-    "created_at": "2026-06-19 05:37:29"
+    "created_at": "2026-06-20 04:55:04"
   },
   "recentReports": [
+    {
+      "id": 89,
+      "report_date": "2026-06-20",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "今日搜集的新聞中，未發現與周杰倫相關的報導。所有新聞主要聚焦於NBA球星動態、音樂界傳記電影及新單曲發布，以及其他娛樂人物的最新消息。",
+      "key_events": [
+        "無周杰倫新聞",
+        "焦點分散",
+        "未有相關報導"
+      ],
+      "created_at": "2026-06-20 04:55:04"
+    },
     {
       "id": 88,
       "report_date": "2026-06-19",
@@ -657,21 +672,6 @@
         "無重要焦點"
       ],
       "created_at": "2026-06-14 05:19:25"
-    },
-    {
-      "id": 82,
-      "report_date": "2026-06-13",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日新聞中未發現任何與周杰倫相關的報導。主要焦點集中在其他娛樂新聞，例如Jay-Z宣布舉辦30週年演唱會，以及Michael Jackson傳記電影《Michael》票房突破9億美元並上架串流平台，還有美國政治人物Jay Clayton獲提名擔任國家情報總監等。",
-      "key_events": [
-        "無周杰倫新聞",
-        "Jay-Z 宣布演唱會",
-        "MJ 電影創紀錄"
-      ],
-      "created_at": "2026-06-13 05:09:19"
     }
   ]
 }
