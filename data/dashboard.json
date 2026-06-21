@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
+    "total": 10,
     "positive": 0,
     "negative": 0,
-    "neutral": 12
+    "neutral": 10
   },
   "allTimeStats": {
-    "total": 1801,
+    "total": 1811,
     "positive": 558,
     "negative": 65,
-    "neutral": 1178,
+    "neutral": 1188,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-06-06",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-07",
       "total": 9,
@@ -132,9 +124,157 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-21",
+      "total": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1802,
+      "title": "Craig Ferguson learns what makes America instantly recognizable from orbit - CNN",
+      "link": "https://www.cnn.com/2026/06/20/us/video/craig-ferguson-american-on-purpose-space",
+      "source": "Tavily (www.cnn.com)",
+      "snippet": "Your effort and contribution in providing this feedback is much appreciated. Your CNN account Sign in to your CNN account. + All There Is with Anderson Cooper. Now, in the CNN Original Series Craig Ferguson: American On Purpose, which you can watch on CNN All Access, he’s exploring the shared ideas, values and culture that define American identity. CNN Original Films and Series  17 videos. Eva Longoria learns the one key secret to French style. Eva Longoria learns the secret to grilling the perfect steak. CNN Original Series sneak peek: Eva Longoria stunned by some of the most expensive ham in the world. ‘This is what I’ve been doing wrong my whole life’: Eva Longoria tries cheese made in a cave. CNN anchor finds happiness with horses in an unlikely metropolis. CNN Erin Burnett reveals place that brings her the most happiness. CNN Original Series sneak peek: World’s most influential chef wows Eva Longoria with fisherman's stew.",
+      "published_at": "Sat, 20 Jun 2026 19:08:44 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇CNN報導主要介紹了Craig Ferguson和Eva Longoria參與的CNN原創系列節目，內容涵蓋美國文化、法國風格及美食體驗，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1803,
+      "title": "Top Stories: Apple Price Hikes Coming, 20th Anniversary iPhone Rumors, and More - MacRumors",
+      "link": "https://www.macrumors.com/2026/06/20/top-stories-apple-price-hikes/",
+      "source": "Tavily (www.macrumors.com)",
+      "snippet": "# Top Stories: Apple Price Hikes Coming, 20th Anniversary iPhone Rumors, and More. While Apple held out as many other smartphone and computer manufacturers raised prices in the face of massive increases in memory and storage costs, CEO Tim Cook has signaled that Apple will soon have to follow suit as the \"situation has become unsustainable.\". In other news this week, rumors covered not just the iPhone 18 but also the 20th anniversary iPhone that's still over a year away, while Apple customers can some receive new perks with Chase credit cards and we went hands on with macOS Golden Gate to see what's new, so read on below for all the details on these stories and more! The iPhone 18 Pro and ‌iPhone 18 Pro‌ Max coming in September could be more expensive than the iPhone 17 Pro and ‌iPhone 17 Pro‌ Max, while prices on iPads and Macs could also go up in the near future.",
+      "published_at": "Sat, 20 Jun 2026 13:00:00 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導蘋果產品漲價及新款iPhone傳聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1804,
+      "title": "Get to Know Labaron Philon Jr. - NBA.com",
+      "link": "https://www.nba.com/watch/video/get-to-know-labaron-philon-jr?plsrc=nba&collection=2026-nba-draft-get-to-know-the-prospects",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# 2026 nba draft get to know the prospects. ## Get to Know Labaron Philon Jr. Labaron Philon Jr. sits down with Lauren Green from NBA TV to discuss the NBA Draft. # Playlist.",
+      "published_at": "Sat, 20 Jun 2026 23:20:09 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞介紹了NBA選秀潛力新秀Labaron Philon Jr.與NBA TV討論選秀的內容。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1805,
+      "title": "Get to Know Cam Boozer - NBA.com",
+      "link": "https://www.nba.com/watch/video/get-to-know-cam-boozer",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Get to Know Cam Boozer. Cam Boozer sits down with Lauren Green from NBA TV to discuss the NBA Draft. # Playlist.",
+      "published_at": "Sun, 21 Jun 2026 03:59:53 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞是關於Cam Boozer接受NBA TV採訪，討論NBA選秀的內容，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1806,
+      "title": "Get to Know Bennett Stirtz - NBA.com",
+      "link": "https://www.nba.com/watch/video/get-to-know-bennett-stirtz",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Get to Know Bennett Stirtz. Bennett Stirtz sits down with Lauren Green from NBA TV to discuss the NBA Draft. # Playlist.",
+      "published_at": "Sun, 21 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導Bennett Stirtz與NBA TV討論NBA選秀。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1807,
+      "title": "Jason Momoa attends 'Supergirl' London premiere with kids, girlfriend - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/movies/2026/06/19/jason-momoa-london-supergirl-premiere-adria-arjona/90618660007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "Jason Momoa attends 'Supergirl' London premiere with kids, girlfriend. Jason Momoa is feeling the love in London from fans, family and even a cocktail bar. On June 18, the 46-year-old actor attended the premiere of the upcoming movie \"Supergirl\" in London's Leicester Square - the heart of the city's entertainment district. Momoa was joined by his son Nakoa-Wolf Momoa, 17; daughter Lola Iolani Momoa, 18; and girlfriend, \"Blink Twice\" actor Adria Arjona. The actor, known for his roles in \"Game of Thrones\" and \"Aquaman,\" looked smart in a dark grey suit and waistcoat. Momoa plays intergalactic bounty hunter \"Lobo\" in the movie, who clashes with Supergirl - played by Milly Alcock who donned a white dress to Thursday's premiere. And it's not just fans that are excited about the new movie, a London bar that overlooks the red carpet just launched a new beverage to honor the actor just in time for Thursday's premiere: a giant fishbowl mimosa named \"Jason Mamosa.\".",
+      "published_at": "Fri, 19 Jun 2026 13:04:00 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jason Momoa attends 'Supergirl' London premiere with kids, girlfriend - USA Today",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1808,
+      "title": "Trump Calls to Delay DNI Hearings, Demands Congress Passes FISA & SAVE Act - Military.com",
+      "link": "https://www.military.com/trump-calls-delay-dni-hearings-demands-congress-passes-fisa-save-act",
+      "source": "Tavily (www.military.com)",
+      "snippet": "# Trump Calls to Delay DNI Hearings, Demands Congress Passes FISA & SAVE Act. A hearing for intended new DNI Jay Clayton was urged at the president's discretion to halt as he urges Republicans to pass sweeping legislation. President Donald Trump on Wednesday called to delay hearings on Capitol Hill for Jay Clayton, his pick to become the United States' next director of national intelligence (DNI), due to Republicans' failure to shore up legislation combining surveillance laws and election security. Trump has been critical of Democrats on Capitol Hill who have pointed to the Pulte pick as impetus to not immediately renew Section 702 of the Foreign Intelligence Surveillance Act (FISA), which last Thursday was not extended in both the House and Senate. \"However, the Republicans moved so fast with the hearings of the Great Jay Clayton, current U.S. Attorney for the Southern District of New York, that Pulte would be gone before the Dumocrats would vote on FISA.",
+      "published_at": "Wed, 17 Jun 2026 16:26:54 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導美國總統川普要求延遲DNI聽證會並呼籲國會通過FISA法案。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1809,
+      "title": "Lou Williams Denies Jay-Z Influenced His Decision to Enter 2005 NBA Draft in Trending Post - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25443260-lou-williams-denies-jay-z-influenced-his-decision-enter-2005-nba-draft-trending-post",
+      "source": "Tavily (bleacherreport.com)",
+      "snippet": "# Lou Williams Denies Jay-Z Influenced His Decision to Enter 2005 NBA Draft in Trending Post. Rapper Jay-Z had \"nothing to do\" with his decision to declare for the 2005 NBA draft. Williams took to social media Saturday and responded to a rumor that Jay-Z was why he declared for the draft and said, \"I'm Lou Williams. Jay z ain't have nothing to do with me declaring for no draft lol.\". It should be noted Jay-Z may have at least had an indirect influence on Williams' decision even if the rapper didn't tell the guard to enter the draft or skip college, at least based on the player's own previous words. I kicked it with Jay for a night and I went to school the next day. And I was looking around the class, like, 'I'm nothing like none of y'all.' I start experiencing different s--t, so I was like, I'm not going to sit in another classroom after this.",
+      "published_at": "Sat, 20 Jun 2026 20:18:41 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容關於NBA球員Lou Williams否認Jay-Z影響其投入選秀的決定，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1810,
+      "title": "Justin Gaethje Makes Announcement On His Fighting Future After Win At UFC Freedom 250 - Yahoo Sports Canada",
+      "link": "https://ca.sports.yahoo.com/news/justin-gaethje-makes-announcement-fighting-014039250.html",
+      "source": "Tavily (ca.sports.yahoo.com)",
+      "snippet": "# Justin Gaethje Makes Announcement On His Fighting Future After Win At UFC Freedom 250. The new UFC lightweight champion who scored an insane fourth-round TKO victory over Ilia Topuria at the White House in the main event of UFC Freedom 250 says he's looking to fight again. Gaethje was a guest on Joe Rogan's podcast and he talked about his future. ## Is Justin Gaethje Retiring After UFC Freedom 250? Gaethje will likely never be able to top the win he had over Topuria, but he still clearly believes he has more to offer and gain. On Rogan's podcast, Gaethje said, \"Right now, I'm planning on it,\" when asked about a return, adding that nothing in him feels like it's over. His Freedom 250 win looked like a perfect exit, but he isn't taking it. Gaethje was blunt, saying \"He doesn't get a rematch\" and arguing the former champ quit on the stool while he stopped him twice.",
+      "published_at": "Sun, 21 Jun 2026 01:40:00 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導了UFC選手Justin Gaethje在UFC Freedom 250獲勝後對其未來格鬥生涯的規劃，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1811,
+      "title": "The Lox shares excitement and memories before headlining AFRAM 50 - CBS News",
+      "link": "https://www.cbsnews.com/baltimore/video/the-lox-shares-excitement-and-memories-before-headlining-afram-50/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "* WJZ and the Baltimore Banner. # The Lox shares excitement and memories before headlining AFRAM 50. The legendary hip-hop trio, The Lox, sat down with WJZ ahead of their AFRAM 50 performance.",
+      "published_at": "Sun, 21 Jun 2026 03:40:00 GMT",
+      "collected_at": "2026-06-21 05:27:37",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞與周杰倫無關，主要報導嘻哈團體 The Lox 在 AFRAM 50 演出前的興奮與回憶。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1790,
       "title": "Jay Leno: Joe Rogan Is 21st Century's Johnny Carson - Newser",
@@ -414,164 +554,39 @@
       "summary": "這篇報導描述了NBA球員Jalen Brunson賽前聽音樂的習慣，並認為這有助於他的成功，但內容並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1781,
-      "title": "Jalen Brunson Finals MVP highlights - NBA.com",
-      "link": "https://www.nba.com/watch/video/jalen-brunson-finals-mvp-highlights?plsrc=nba&collection=must-watch-videos",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# must watch videos. ## Jalen Brunson Finals MVP highlights. Check out the best highlights from Jalen Brunson's performance in The Finals. # Playlist.",
-      "published_at": "Sun, 14 Jun 2026 06:34:53 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於NBA球員Jalen Brunson在總決賽中的MVP精華，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1782,
-      "title": "Brunson salutes New York during title celebration - NBA.com",
-      "link": "https://www.nba.com/watch/video/brunson-speech?plsrc=nba&collection=top-trending-videos",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# top trending videos. ## Brunson salutes New York during title celebration. Jalen Brunson caps historic season with emotional parade remarks. # Playlist.",
-      "published_at": "Thu, 18 Jun 2026 19:17:03 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導NBA球員Jalen Brunson在紐約的慶祝活動。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1783,
-      "title": "Trump delays Jay Clayton's nomination for intel director to try to push Congress on voting bill - The Washington Post",
-      "link": "https://www.washingtonpost.com/world/2026/06/17/trump-jay-clayton-congress-voting-bill/9b447866-6a25-11f1-830e-133d20cadd28_story.html",
-      "source": "Tavily (www.washingtonpost.com)",
-      "snippet": "# Trump delays Jay Clayton's nomination for intel director to try to push Congress on voting bill. President Donald Trump says he’s delaying Jay Clayton’s nomination to lead the U.S. intelligence community in a bid to force Congress to act on a voter ID bill that currently lacks enough support for passage. U.S. President Donald Trump arrives to attend a musical interlude before a gala dinner as part of the G7 summit, in Evian-les-Bains, France, Tuesday June 16, 2026. (Ludovic MARIN/Pool Photo via AP). EVIAN-LES-BAINS, France — President Donald Trump said on Wednesday that he’s delaying Jay Clayton’s nomination to lead the U.S. intelligence community in a bid to force Congress to act on a voter ID bill that currently lacks enough support for passage.",
-      "published_at": "Wed, 17 Jun 2026 08:27:57 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於美國總統川普延遲Jay Clayton的提名，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1784,
-      "title": "Rosalía Praises Toronto During 'Lux' Concert: ‘You’ve Always Had My Back’ - Billboard Canada",
-      "link": "https://ca.billboard.com/music/concerts/rosalia-soctiabank-arena",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "The singer brought her Lux tour to Scotiabank Arena this weekend (June 13) for her sole Canadian date, a sold-out show marking her third time performing in Toronto. The acclaimed Spanish singer brought her latest trek to Canada over the weekend (June 13) for a singular date at Scotiabank Arena, marking her third time performing in the city. She praised the city for having welcomed her with open arms during her last two tours for *El Mal Querer* and *Motomami*, and expressed her gratitude to be back. \"I do this show with all the love that I have and I hope that we can leave something in this show that you might be able to take home with you.\". She balanced out the tranquil moments of the *Lux* songs with the brash energy of *Motomami*, as well as a techno break at the end of the Bjork and Yves Tumor-assisted “Berghain,\" swapping out her white cloak and veil for a dark outfit and a headpiece with horns.",
-      "published_at": "Tue, 16 Jun 2026 14:13:31 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導西班牙歌手Rosalía在多倫多的演唱會，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1785,
-      "title": "Knicks parade of champions: Hundreds of thousands of fans celebrate team's title - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/knicks-parade-of-champions-hundreds-of-thousands-of-fans-celebrate-teams-title/6515618/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA Knicks Trump Administration New Jersey Immigration New York Live Send Photos/Videos Open House. ### On Air. # Knicks parade of champions: Hundreds of thousands of fans celebrate team's title. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Thu, 18 Jun 2026 23:57:52 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導紐約尼克隊的冠軍遊行慶祝活動。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1786,
-      "title": "New Queer Movies I'm Watching In Theaters This Weekend - IGN Southeast Asia",
-      "link": "https://sea.ign.com/girls-like-girls/244426/new-queer-movies-im-watching-in-theaters-this-weekend",
-      "source": "Tavily (sea.ign.com)",
-      "snippet": "# New Queer Movies I'm Watching In Theaters This Weekend. ### It's a new Barbenheimer matchup for LGBTQIA+ folks this weekend. But seriously, there are two big releases happening this weekend you should be aware of: Leviticus and Girls Like Girls. Leviticus is a horror film that tackles homophobia in a new, intense way we haven't seen before, while Girls Like Girls is a much lighter romantic flick, based on Hayley Kiyoko's 2023 book and her music. Directed by Adrian Chiarella, the new queer horror film stars Joe Bird as Naim, a teenager living in a small, religious town. Chiarella’s story about gay youth being punished for simply being the way they are is emotional and thoughtful while also simply working well as a horror story, blending the real-life prejudices that inspired it with the supernatural curse laid upon its characters in a highly effective manner.\". It's a sweet tribute to Hayley's coming out ballad in 2015, Girls Like Girls, which expanded into a novel in 2023 with the same name, and now this film in 2026!",
-      "published_at": "Thu, 18 Jun 2026 23:44:44 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導介紹了兩部新的酷兒電影《Leviticus》和《Girls Like Girls》，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1787,
-      "title": "Jason Derulo Sounds Off on Backlash Over His Living Room Shark Tank - TMZ",
-      "link": "https://www.tmz.com/2026/06/18/jason-derulo-talks-shark-tank-backlash/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Jason Derulo Sounds Off on Backlash Over His Living Room Shark Tank. ## Jason Derulo I Gave the Sharks More Room Than They Had Before! Video: Jason Derulo Sounds Off on Backlash Over His Living Room Shark Tank. **Jason Derulo** hears the backlash about the shark tank he has in his living room ... We caught up with the singer in L.A. Thursday, who said his sharks have more space now than they did in the aquarium he bought them from. That being said, JD promises he's listening to the criticism and trying to find the best way forward. ICYMI, Jason caught a lot of heat after he showed streamer **N3ON**the circular tank in the floor of his Tarzana, CA, home. Video: Jason Derulo Shows off Fancy Shark Tank To Streamer N3on. Based on what Jason told us, the jury's out on whether he's keeping the sharks or finding them a better home than his living room.",
-      "published_at": "Fri, 19 Jun 2026 01:15:18 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，主要報導歌手Jason Derulo回應關於其客廳鯊魚缸的爭議與批評。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1788,
-      "title": "Caleb Wilson's NBA draft profile - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49113965/caleb-wilson-nba-draft-profile",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "# Caleb Wilson's NBA draft profile. ### The Latest. ## Mexico fans go wild in the rain after taking lead vs. ## Vancouver celebrates as Canada goes 3-0 up. ## Jalen Brunson slams skeptics as Knicks celebrate title. ## Where does Stephen A. think LeBron should play next season? ## #1 OLB Kaden Henderson commits to Texas A&M on McAfee. ## Stephen A.: KAT should follow Brunson's lead by taking less money. ## Windhorst expects Trae Young to return to Wizards despite opt out. ## Stephen A.: Tatum, Giannis a championship-caliber combo for Celtics. * ## How different will the Knicks look if they don't go into the second apron? * ## Where does England's performance rank against the favourites?",
-      "published_at": "Fri, 19 Jun 2026 03:16:53 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於NBA選秀、體育賽事及球員分析，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1789,
-      "title": "ABC World News Tonight with David Muir Full Broadcast - June 18, 2026 - Modern Ghana",
-      "link": "https://www.modernghana.com/amp/videonews/668586",
-      "source": "Tavily (www.modernghana.com)",
-      "snippet": "# ABC World News Tonight with David Muir Full Broadcast - June 18, 2026. Aaron Katersky was on the scene in lower Manhattan as an estimated 2 million fans joyfully filled the streets for the Knicks' ticker-tape parade celebrating the team's first NBA title in 53 years, and Matt Rivers has the latest on the chaotic scene in Times Square after gunfire erupted just hours after the parade ended; Faith Abbey has details on the severe weather fueled by remnants of Tropical Storm Arthur that triggered flash flood emergencies in parts of the Gulf Coast while a separate system spawned destructive tornadoes in the Midwest, and Lee Goldberg has the forecast; Mary Bruce reports on the U.S. lifting its blockade on Iranian ports, freeing ships stranded in the Strait of Hormuz for 109 days, and on Vice Pres. Vance defending the deal despite questions over financial benefits for Iran; and more on tonight's broadcast of World News Tonight with David Muir. ABC World News Tonight with David Muir delivers the news that matters most.",
-      "published_at": "Fri, 19 Jun 2026 03:10:00 GMT",
-      "collected_at": "2026-06-19 05:36:17",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導為ABC世界新聞的完整播報內容，涵蓋了紐約尼克隊奪冠遊行、時報廣場槍擊案、惡劣天氣及美國解除對伊朗港口封鎖等事件，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1762,
-      "title": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India",
-      "link": "https://in.ign.com/michael/263693/michael-how-to-watch-jaafar-jacksons-film-online-in-india-here-is-the-streaming-platform-price-dubs",
-      "source": "Tavily (in.ign.com)",
-      "snippet": "# Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More. ### Moonwalk through the life and legacy of the King of Pop, Michael Jackson, from home. The biographical film Michael, based on the life of the King of Pop, Michael Jackson, is now available to watch at home. The film is based on the life of the legendary singer and dancer, following his journey from his early days as the lead vocalist of the Jackson Five to his rise as a global superstar. Following its theatrical run, the film is now available to rent and buy online in India. The film tells the story of Michael Jackson’s life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world.",
-      "published_at": "Fri, 12 Jun 2026 10:58:00 GMT",
-      "collected_at": "2026-06-18 05:20:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了關於麥可傑克森傳記電影《麥可》在印度線上觀看的資訊，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 89,
-    "report_date": "2026-06-20",
-    "total_articles": 12,
+    "id": 90,
+    "report_date": "2026-06-21",
+    "total_articles": 10,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 12,
-    "daily_summary": "今日搜集的新聞中，未發現與周杰倫相關的報導。所有新聞主要聚焦於NBA球星動態、音樂界傳記電影及新單曲發布，以及其他娛樂人物的最新消息。",
+    "neutral_count": 10,
+    "daily_summary": "根據今日搜集到的新聞內容，經仔細檢閱後，未發現任何與華語樂壇天王周杰倫直接相關的報導或活動資訊。這意味著在今日的娛樂新聞中，周杰倫並未成為焦點人物，也無關於其最新作品、演唱會動態、品牌合作或個人生活等方面的消息被提及。因此，今日無法提供關於周杰倫的特定焦點摘要。新聞列表主要涵蓋了其他領域的多元內容，包括體育賽事、好萊塢影星活動、音樂界新單曲發布、電影票房表現以及科技產品預告等，周杰倫的粉絲們可能需要等待後續報導以獲取偶像的最新消息。",
     "key_events": [
-      "無周杰倫新聞",
-      "焦點分散",
-      "未有相關報導"
+      "無周杰倫相關報導",
+      "今日無重要動態",
+      "未有焦點事件"
     ],
-    "created_at": "2026-06-20 04:55:04"
+    "created_at": "2026-06-21 05:28:19"
   },
   "recentReports": [
+    {
+      "id": 90,
+      "report_date": "2026-06-21",
+      "total_articles": 10,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 10,
+      "daily_summary": "根據今日搜集到的新聞內容，經仔細檢閱後，未發現任何與華語樂壇天王周杰倫直接相關的報導或活動資訊。這意味著在今日的娛樂新聞中，周杰倫並未成為焦點人物，也無關於其最新作品、演唱會動態、品牌合作或個人生活等方面的消息被提及。因此，今日無法提供關於周杰倫的特定焦點摘要。新聞列表主要涵蓋了其他領域的多元內容，包括體育賽事、好萊塢影星活動、音樂界新單曲發布、電影票房表現以及科技產品預告等，周杰倫的粉絲們可能需要等待後續報導以獲取偶像的最新消息。",
+      "key_events": [
+        "無周杰倫相關報導",
+        "今日無重要動態",
+        "未有焦點事件"
+      ],
+      "created_at": "2026-06-21 05:28:19"
+    },
     {
       "id": 89,
       "report_date": "2026-06-20",
@@ -657,21 +672,6 @@
         "Jay-Z宣布開唱"
       ],
       "created_at": "2026-06-15 05:42:48"
-    },
-    {
-      "id": 83,
-      "report_date": "2026-06-14",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日搜集到的新聞中，沒有直接提及周杰倫的相關報導或焦點事件。所有新聞皆與其他藝人、運動賽事或政治財經議題相關，因此無法提供周杰倫的精簡摘要。",
-      "key_events": [
-        "無周杰倫新聞",
-        "無相關事件",
-        "無重要焦點"
-      ],
-      "created_at": "2026-06-14 05:19:25"
     }
   ]
 }
