@@ -6,21 +6,13 @@
     "neutral": 10
   },
   "allTimeStats": {
-    "total": 1847,
+    "total": 1857,
     "positive": 558,
     "negative": 65,
-    "neutral": 1224,
+    "neutral": 1234,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-10",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-11",
       "total": 8,
@@ -132,9 +124,157 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-25",
+      "total": 10,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 10,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1848,
+      "title": "BTS’ J-Hope looked expensive as he suited up for a luxury brand with South Korean actor Gong Yoo and American singer Pharell Williams. (📸: uarmyhope/Instagram) - facebook.com",
+      "link": "https://www.facebook.com/abscbnNEWS/posts/bts-j-hope-looked-expensive-as-he-suited-up-for-a-luxury-brand-with-south-korean/1565367245638526/",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "## ABS-CBN News's Post. ### **ABS-CBN News**. BTS’ J-Hope looked expensive as he suited up for a luxury brand with South Korean actor Gong Yoo and American singer Pharell Williams. Akala ko si Julia montes. Im hope you my hope I'm j-hope your bag very nice or your look hot cute. I am hope,you are my hope ,I am J-HOPE. Que cosita más linda mi Hope,por favor. Most relevant is selected, so some comments may have been filtered out.",
+      "published_at": "Thu, 25 Jun 2026 00:50:03 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要報導BTS成員J-Hope出席精品活動。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1849,
+      "title": "Wear in the World: the diamond bag charms loved by the Dubai jet-set - Financial Times",
+      "link": "https://www.ft.com/content/908966f5-3c9a-48c4-b56f-81f4e04b8e55",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# Wear in the World: the diamond bag charms loved by the Dubai jet-set. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 25 Jun 2026 04:00:09 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要介紹《金融時報》的訂閱方案，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1850,
+      "title": "The future of TV: lots of choice, lots of hassle - Financial Times",
+      "link": "https://www.ft.com/content/3b4e94c4-0ce8-421f-be85-41ae51e110a9",
+      "source": "Tavily (www.ft.com)",
+      "snippet": "# The future of TV: lots of choice, lots of hassle. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
+      "published_at": "Thu, 25 Jun 2026 04:00:30 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞摘要主要介紹了《金融時報》的各種數位訂閱方案及其優勢，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1851,
+      "title": "'48-year-old' So Ji-sub sports a graying 'goat' beard.. Already exuding 'middle-aged charm' [Photo shoot] - starnewskorea.com",
+      "link": "https://www.starnewskorea.com/en/star/2026/06/25/2026062511222496177",
+      "source": "Tavily (www.starnewskorea.com)",
+      "snippet": "# '48-year-old' So Ji-sub sports a graying 'goat' beard.. Already exuding 'middle-aged charm' [Photo shoot]. Actor So Ji-sub is exuding middle-aged charm. On the 24th, So Ji-sub posted photos from a fashion magazine Allure photo shoot on his SNS. He is starring in SBS's new Friday-Saturday drama \"Manager Kim,\" which premieres on the 26th, and posed for the photo shoot alongside co-stars Choi Tae-hoon and Yoon Kyung-ho. In the photo shoot, So Ji-sub immersed himself in the role of Manager Kim, an accountant at a savings bank and a single dad in \"Manager Kim,\" revealing a mature charm. With his distinctive look featuring a beard, he wore shirts and suits, exuding charisma. Meanwhile, \"Manager Kim\" is a father-universe revenge action drama about a father who becomes \"the world's most dangerous man\" to win back his only daughter, who is \"the world's most ordinary\" dad. ## Recommended News. ## Daily Trending News. ## Editor’s Pick. ## Latest in Entertainment.",
+      "published_at": "Thu, 25 Jun 2026 02:41:43 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導韓國演員蘇志燮的新劇與時尚雜誌拍攝，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1852,
+      "title": "Kenzo Spring 2027 Menswear Fashion Show - Vogue",
+      "link": "https://www.vogue.com/fashion-shows/spring-2027-menswear/kenzo/slideshow/collection",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# Kenzo Spring 2027 Menswear.",
+      "published_at": "Wed, 24 Jun 2026 23:47:33 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊僅提及Kenzo 2027春季男裝秀，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1853,
+      "title": "So Many Celebrities Attend Dior Homme Menswear Spring/Summer 2027's Fashion Show: Photos & Guest List, Revealed! - Just Jared",
+      "link": "https://www.justjared.com/2026/06/24/so-many-celebrities-attend-dior-homme-menswear-spring-summer-2027s-fashion-show-photos-guest-list-revealed/",
+      "source": "Tavily (www.justjared.com)",
+      "snippet": "So many stars stepped out for the ***Dior Homme Menswear Spring/Summer 2027*** show as part of Paris Fashion Week on Wednesday (June 24) in Paris, France. Some of the celebs were posed for photos at the show include **James Marsden**, 52, with his girlfriend, Dutch model **Frederique Brons**, 28, **Iris Apatow**, 23, and **Sam Nivola**, 22, **Pharrell Williams** and his wife **Helen Lasichanh**, influencer **Jake Shane**, **Mike Faist**, and **Drew Starkey**. We have photos of all the biggest attendees, which also included *I Swear*‘s **Robert Aramayo**, *SAS: Rogue Heroes*‘ **Connor Swindells, LaKeith Stanfield,** *The White Lotus*‘ **Alexander Ludwig**, *I Play Rocky*‘s **Anthony Ippolito,** actress **Sophie Okonedo**, record producer **Chris Ivery**, rapper **Little Simz**, socialite **Fai Khadra**, and more! Posted To:Alexander Ludwig Anthony Ippolito Arón Piper Chiwetel Ejiofor Chris Ivery Connor Swindells Drew Starkey Fai Khadra Fashion Frederique Brons Helen Lasichanh Iris Apatow James Marsden Jimin Lakeith Stanfield Little Simz Mike Faist Paul W Downs Pharrell Williams Robert Aramayo Sam Nivola Sophie Okonedo.",
+      "published_at": "Wed, 24 Jun 2026 14:04:15 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Dior時裝秀的出席名人，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1854,
+      "title": "Want to see Jacob Collier live? Get tickets with a discount today - New York Post",
+      "link": "https://nypost.com/2026/06/24/ticket-sales/get-discount-tickets-for-jacob-collier-2026-the-light-for-days-tour/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Want to see Jacob Collier live? Starting in late September, the mid-2010s internet star-turned-seven-time Grammy winner is slated to set off on his intimate solo ‘The Light For Days Tour’ in support of his 2025 album with the same name. If you’d like to see the “In My Room” singer live, tickets are available for all his North American gigs. At the time of publication, the lowest price we could find on seats for any one show was $118 including fees on SeatGeek. Tickets start at $548 including fees for Collier’s night at Carnegie Hall. For more information, our team has everything you need to know and more about seeing Jacob Collier’s 2026 ‘The Light For Days Tour’ below. ## How much are tickets to see Jacob Collier on tour in 2026? A complete calendar including all North American tour dates, venues and links to the cheapest tickets available can be found here:. 30 at Carnegie Hall in New York, NY | $548 (including fees) |.",
+      "published_at": "Wed, 24 Jun 2026 19:50:02 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Jacob Collier的巡迴演唱會資訊，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1855,
+      "title": "Why you need to visit this Asbury Park restaurant & bar - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/why-you-need-to-visit-this-asbury-park-restaurant-bar/6517627/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "New York Live 3 hours ago. # Why you need to visit this Asbury Park restaurant & bar. The James Beard-nominated team behind Heirloom Kitchen and Lita have opened Judy’s restaurant and its companion cocktail bar, Harry’s. Lauren Scala stopped by to learn more. ## Local. #### Chloe Bailey learned 5 songs on violin in just a week for ‘Strung'. #### Tia Mowry on new thriller ‘Single Black Tenant' & more. #### Krysta Rodriguez on recently became a coffee drinker & ‘Chicago'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Wed, 24 Jun 2026 16:50:52 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了紐約一家新開的餐廳與酒吧，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1856,
+      "title": "'Jersey Shore' star Jenni 'JWoww' Farley marries pro wrestler Zack Carpinello in surprise wedding - Page Six",
+      "link": "https://pagesix.com/2026/06/24/celebrity-news/jersey-shore-star-jenni-jwoww-farley-marries-pro-wrestler-zack-carpinello-in-surprise-wedding/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "##### Travis Kelce and Taylor Swift’s strict wedding rule for... Shop Prime Day like a star with deals on A-list beauty favorites: Crest, Charlotte Tilbury and more. # ‘Jersey Shore’ star Jenni ‘JWoww’ Farley marries pro wrestler Zack Carpinello in surprise wedding. Congratulations are in order for Jenni “JWoww” Farley and her new husband Zack Carpinello! The couple surprised their wedding guests with the ceremony, as they invited 50 friends and family members to the venue for what they believed to be a special screening of her upcoming film, “Nanny Cam.”. Farley walked to her now-husband to the tune of Lana Del Rey’s “Young and Beautiful” — the same song her best friend Nicole “Snooki” Polizzi used for her first dance at her wedding to Jionni LaValle in 2014. “From my ruby ring and Zack’s new rose gold wedding band featuring rubies, to our color palette and the gifts we incorporated for our children, the ruby represented love, family, and the next chapter of our story.”.",
+      "published_at": "Wed, 24 Jun 2026 23:47:22 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了《Jersey Shore》明星Jenni 'JWoww' Farley與職業摔角手Zack Carpinello的驚喜婚禮，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1857,
+      "title": "Magnitude 7.1 earthquake causes alarm at Maiquetía International Airport - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/national-international/earthquake-venezuela-panic-airport/6517880/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA NY Primary Results Races to Watch Trump Administration Immigration New York Live Send Photos/Videos Open House. ### News. # Magnitude 7.1 earthquake causes alarm at Maiquetía International Airport. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Thu, 25 Jun 2026 00:28:41 GMT",
+      "collected_at": "2026-06-25 04:47:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導委內瑞拉邁奎蒂亞國際機場發生7.1級地震，引起警報，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1838,
       "title": "Jersey City mayor proposes 20% tax hike to close $255 million budget gap - NBC New York",
@@ -414,164 +554,39 @@
       "summary": "資深化妝師Rick Baker將在盧卡諾影展獲頒榮譽視覺獎，表彰他在電影特效化妝領域的貢獻，此新聞與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1835,
-      "title": "Parklife went out with a BANG last night as superstar DJ Calvin Harris created history at Heaton Park. Returning to Parklife 16 years after his first appearance, the crowd for Harris was huge, potentially bigger than Charli xcx last year - and that's saying somethi - facebook.com",
-      "link": "https://www.facebook.com/ManchesterEveningNews/posts/parklife-went-out-with-a-bang-last-night-as-superstar-dj-calvin-harris-created-h/1496108889218138/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# Parklife went out with a BANG... ## Manchester Evening News's Post. ### **Manchester Evening News**. Parklife went out with a BANG last night as superstar DJ Calvin Harris created history at Heaton Park. Returning to Parklife 16 years after his first appearance, the crowd for Harris was huge, potentially bigger than Charli xcx last year - and that's saying something. Blending seamlessly between his back catalogue of massive hits - we're talking 'We Found Love', 'How Deep is Your Love' and 'One Kiss' to name just a few, there was no lapse at all as Calvin Harris showed the crowd how it's done. \"Manchester you sound so good,\" he said encouragingly, as if to make sure they keeping up with his high-energy, whistle-stop tour through the last twenty years. Image 9: Parklife goes out with a bang as Zara Larsson and Calvin Harris create history. Parklife goes out with a bang as Zara Larsson and Calvin Harris create history. Manchester we need a over 30s parklife ???",
-      "published_at": "Mon, 22 Jun 2026 07:47:35 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要報導DJ Calvin Harris在Parklife音樂節的演出盛況，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1836,
-      "title": "Vice Ganda salutes queens and inspires fearless self-expression in new song \"Talak\" - ABS-CBN Corporate",
-      "link": "https://corporate.abs-cbn.com/newsroom/news-releases/2026/6/23/vice-ganda-salutes-queens-and-inspires-fearless-self-expression-in-new-song-talak?lang=en",
-      "source": "Tavily (corporate.abs-cbn.com)",
-      "snippet": "# Vice Ganda salutes queens and inspires fearless self-expression in new song \"Talak\". June 23, 2026 AT 07:27 PM. ***Out on music streaming platforms this Friday (June 26)***. Vice Ganda celebrates fearless queens and encourages self-expression without limits in his upcoming single, “Talak,” which will drop on music streaming platforms on Friday (June 26). The Unkabogable Superstar gave “It’s Showtime” viewers a peek at the empowering track last Monday (June 15), debuting its catchy lyrics and high-energy beat in time for the kickoff of the noontime show’s comeback pageant segment, “Miss Q&A: Reyna Talak-Era 2026.”. “Talak” is a celebration of individuality, courage, and confidence. Vice Ganda composed the feel-good anthem with Chris Lopez and Kiko Salazar. Chris Lopez and Jonathan Manalo produced the song with supervising producer and StarPop label head Roque “Rox” Santos. Celebrate owning one’s voice with Vice Ganda’s “Talak” single, out this Friday (June 26). DOWNLOAD ALL 4 PHOTOS FROM THIS ARTICLE.",
-      "published_at": "Tue, 23 Jun 2026 03:42:02 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於菲律賓藝人Vice Ganda發行新歌「Talak」，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1837,
-      "title": "Hailey Bieber strips down for Kim Kardashian's SKIMS in red-hot new campaign - Fox News",
-      "link": "https://www.foxnews.com/entertainment/hailey-bieber-strips-kim-kardashians-skims-red-hot-new-campaign",
-      "source": "Tavily (www.foxnews.com)",
-      "snippet": "* #### Oliver Tree's loved ones reveal his final wish as singer's body returns to California after helicopter crash. * #### Jane Seymour reveals director's 'sizzling' reaction to her reunion with 'Dr. Quinn' co-star Joe Lando. * #### Jane Seymour on chemistry with Joe Lando: ‘The screen is sizzling’. # Hailey Bieber strips down for Kim Kardashian's SKIMS in red-hot new campaign. ## Kim Kardashian called Hailey Bieber 'the perfect person' to bring the shapewear brand's latest collection to life. Stephen Baldwin told Fox News Digital his daughter Hailey Bieber’s son with husband Justin Bieber is doing well and that overall his \"quiet Christian life\" is in a good place. Hailey Bieber left little to the imagination as she stripped down for SKIMS' latest campaign, serving up a series of sizzling looks for Kim Kardashian's shapewear brand. Hailey Bieber starred in Kim Kardashian's latest SKIMS campaign. Hailey's husband, Justin Bieber, shared the campaign on his own Instagram.",
-      "published_at": "Mon, 22 Jun 2026 19:51:15 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Hailey Bieber為Kim Kardashian的SKIMS拍攝廣告，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1812,
-      "title": "Celebrate Father's Day with These Celebrity Dads And Their Mini-Mes! - TMZ",
-      "link": "https://www.tmz.com/2026/06/21/celebrity-dads-with-their-kids-for-fathers-day/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Taylor Swift's Future Father-in-Law Seemingly Hard Launches GF, Weeks Before Son's Wedding. ### Hot Dad Bods Guess Who! ### Brooks Nader Then And Now -- Good Genes or Good Docs?! ### Taylor Swift's Rhode Island Mansion Dazzles with Fireworks, Amid Bachelorette Speculation. # Celebrate Father's Day with These Celebrity Dads And Their Mini-Mes! ## Father's Day 2026 Celebrity Dads & Their Mini-Mes!!! Famous fathers are getting their flowers this Father's Day! Hollywood's got some dynamite dads, and we're sending them all a little love. **Jason Derulo**, **Colton Underwood** and **Rob Lowe** are showing some poppa pride in these precious pics with their kids ... **Check out our gallery** to celebrate these famous fathers for Father's Day! #### Perfect Summer Gifts for Dad. #### Guess Which Famous Deejay This Cute Kid Turned Into! #### Babes Showered With Flowers -- Guess Whose Bodacious Bouquet! Colton Underwood   Jason Derulo   Rob Lowe   Celebrity News   Musicians   TV Stars   Photo Galleries   Holidays.",
-      "published_at": "Sun, 21 Jun 2026 19:00:23 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Celebrate Father's Day with These Celebrity Dads And Their Mini-Mes! - TMZ",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1813,
-      "title": "Kris Jenner Shouts Out Kardashians' Exes on Father’s Day - TMZ",
-      "link": "https://www.tmz.com/2026/06/21/kris-jenner-posts-for-her-kids-exes-on-fathers-day/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Taylor Swift's Rhode Island Mansion Dazzles with Fireworks, Amid Bachelorette Speculation. # Kris Jenner Shouts Out Kardashians' Exes on Father’s Day. **Kris Jenner** gave a wide-ranging Father’s Day tribute Sunday ... and it included several of her famous family’s exes, current co-parents, and loved ones in a single star-packed collage. The collage highlighted **Kanye West**, **Scott Disick**, **Travis Scott**, **Tristan Thompson**, as well as her own exes **Caitlyn Jenner** and **Robert Kardashian Sr**. She also took a moment to highlight her son, **Rob Kardashian**, praising his role as a father to daughter **Dream** ... The post stood out for its unusually inclusive approach, with Kris acknowledging multiple figures who have been part of her family’s extended circle over the years -- including several former partners of her children who share kids with the famous family. Caitlyn Jenner   Scott Disick   Tristan Thompson   Dream Kardashian   Travis Scott   Rob Kardashian   Kanye West   Robert Kardashian   Kris Jenner   Celebrity News   Family   Reality TV   The Kardashians   Influencers.",
-      "published_at": "Sun, 21 Jun 2026 17:59:20 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Kris Jenner Shouts Out Kardashians' Exes on Father’s Day - TMZ",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1814,
-      "title": "‘We’re here to win’: Nike CEO on the race to revive the biggest brand in sport - Financial Times",
-      "link": "https://www.ft.com/content/8a2d2b92-4ab4-405b-9f3c-63401e17e17f",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# ‘We’re here to win’: Nike CEO on the race to revive the biggest brand in sport. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 22 Jun 2026 03:00:03 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "‘We’re here to win’: Nike CEO on the race to revive the biggest brand in sport - Financial Times",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1815,
-      "title": "Keep calm and carry on with EU enlargement, says Ireland’s PM - Financial Times",
-      "link": "https://www.ft.com/content/377dc964-ce6f-432e-ad1a-7e9b020dc30d",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# Keep calm and carry on with EU enlargement, says Ireland’s PM. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 22 Jun 2026 05:00:07 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Keep calm and carry on with EU enlargement, says Ireland’s PM - Financial Times",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1816,
-      "title": "This Week’s Japanese Game Releases: Star Fox, Villion: Code, more - Gematsu",
-      "link": "https://www.gematsu.com/2026/06/this-weeks-japanese-game-releases-star-fox-villion-code-more",
-      "source": "Tavily (www.gematsu.com)",
-      "snippet": "# This Week’s Japanese Game Releases: Star Fox, Villion: Code, more. *Star Fox [3 articles]\")* for Switch 2, and *Villion: Code* for PlayStation 5, Switch 2, PlayStation 4, and Switch are the highlight of this week’s Japanese video game releases. Also due out this week are *DELTARUNE* Chapter 5 for PlayStation 5, Switch 2, PlayStation 4, Switch, and PC, *DEAD OR ALIVE 6 Last Round* for PlayStation 5, Xbox Series, and PC, and *Medabots Card Robattle RB* for Switch. * *Atomic Heart: Ultimate Edition* (PS5) – Already available worldwide. * *Outbound* (PS5, Switch 2, Switch) – Game-key card on Switch 2. * *Star Fox* (Switch 2) – Launching worldwide. * *Villion: Code* (PS5, Switch 2, Switch) – Launching worldwide. + Limited Edition (PS5, Switch 2, Switch). * *DEAD OR ALIVE 6 Last Round* (PS5, Xbox Series, PC [Steam]) – Launching worldwide. * *DELTARUNE* Chapter 5 (PS5, Switch 2, PS4, Switch, PC [Steam]) – Launching worldwide. * *Villion: Code* (PS4) – Launching worldwide.",
-      "published_at": "Sun, 21 Jun 2026 23:59:38 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "This Week’s Japanese Game Releases: Star Fox, Villion: Code, more - Gematsu",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1817,
-      "title": "Iran hails ‘major progress’ to end Lebanon war - Financial Times",
-      "link": "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * Lex: FT’s flagship investment column. * FT Digital Edition: our digitised print edition. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ### Premium & FT Weekend Print. FT Weekend newspaper delivered Saturday plus complete digital access. ## Explore our full range of subscriptions. ### For individuals. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Mon, 22 Jun 2026 03:02:19 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要為金融時報的訂閱方案介紹及國際新聞標題。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1818,
-      "title": "Virat Kohli Launches One8 Sportswear in Delhi with Signature ₹9,230 Shoe Tribute - Saptashwa TV",
-      "link": "https://www.saptashwatv.com/sports/virat-kohli-launches-one8-sportswear-at-packed-delhi-premiere-15032.html",
-      "source": "Tavily (www.saptashwatv.com)",
-      "snippet": "Virat Kohli has launched his latest venture One8 Sportswear at a global launch in Delhi to the huge audience of cricket fans, celebrities and industry leaders to celebrate. This is One8's first global launch as a brand and launch date that will go down in history within Agilitas Sports and will be the first time that One8 has become an independent label to launch a collection of high-performance cricket spikes, lifestyle shoes and apparel to be able to merge athletic function with city attire. The One8 Global Premiere in Delhi was more than a product launch; it was a celebration of Kohli’s legacy, his entrepreneurial vision, and the merging of sport, fashion and culture. With Kohli’s brand as One8 enters the next stage and as it goes through the transition from a product launch to a product launch, fans and consumers alike’ eyes and minds will be on board to see how Kohli’s brand will develop in the competitive sportswear arena.",
-      "published_at": "Mon, 22 Jun 2026 05:08:27 GMT",
-      "collected_at": "2026-06-22 06:07:41",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導印度板球明星Virat Kohli推出個人運動品牌One8 Sportswear，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 93,
-    "report_date": "2026-06-24",
+    "id": 94,
+    "report_date": "2026-06-25",
     "total_articles": 10,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 10,
-    "daily_summary": "今日新聞中未提及任何關於周杰倫的相關報導。主要娛樂焦點包括Jay-Z的髮型變化、碧昂絲與Jay-Z的家庭生活，以及海莉·比伯的廣告活動和傑森·摩莫亞出席首映。其他新聞則涵蓋體育、科技與地方資訊，周杰倫並非今日報導重點。",
+    "daily_summary": "根據今日搜集到的新聞資料，未發現任何與華語流行天王周杰倫相關的報導或最新動態。所有新聞焦點均集中於其他歐美藝人，例如Jay-Z的個人生活、時尚品牌活動、科技產品更新、國際財經動態及體育賽事等多元議題。因此，今日無法提供關於周杰倫的特定焦點摘要，顯示他今日並無公開活動或重大新聞事件被媒體廣泛報導。",
     "key_events": [
-      "無周杰倫報導",
-      "無周杰倫報導",
-      "無周杰倫報導"
+      "無周杰倫新聞",
+      "未發現相關報導",
+      "今日無焦點事件"
     ],
-    "created_at": "2026-06-24 04:49:05"
+    "created_at": "2026-06-25 04:48:32"
   },
   "recentReports": [
+    {
+      "id": 94,
+      "report_date": "2026-06-25",
+      "total_articles": 10,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 10,
+      "daily_summary": "根據今日搜集到的新聞資料，未發現任何與華語流行天王周杰倫相關的報導或最新動態。所有新聞焦點均集中於其他歐美藝人，例如Jay-Z的個人生活、時尚品牌活動、科技產品更新、國際財經動態及體育賽事等多元議題。因此，今日無法提供關於周杰倫的特定焦點摘要，顯示他今日並無公開活動或重大新聞事件被媒體廣泛報導。",
+      "key_events": [
+        "無周杰倫新聞",
+        "未發現相關報導",
+        "今日無焦點事件"
+      ],
+      "created_at": "2026-06-25 04:48:32"
+    },
     {
       "id": 93,
       "report_date": "2026-06-24",
@@ -657,17 +672,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-06-19 05:37:29"
-    },
-    {
-      "id": 87,
-      "report_date": "2026-06-18",
-      "total_articles": 11,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 11,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Michael: How To Watch Jaafar Jackson’s Film Online in India; Here Is the Streaming Platform, Price, Dubs, and More - IGN India、Ziggy Marley turns grief into light on 'Brightside' and brings the vibration to the Hollywood Bowl - Los Angeles Times、Jakob Nowell leads Sublime’s next chapter on ‘Until the Sun Explodes’ - Los Angeles Times",
-      "created_at": "2026-06-18 05:21:14"
     }
   ]
 }
