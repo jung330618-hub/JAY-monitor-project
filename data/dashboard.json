@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 10,
+    "total": 12,
     "positive": 0,
     "negative": 0,
-    "neutral": 10
+    "neutral": 12
   },
   "allTimeStats": {
-    "total": 1857,
+    "total": 1869,
     "positive": 558,
     "negative": 65,
-    "neutral": 1234,
+    "neutral": 1246,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-11",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-12",
       "total": 8,
@@ -132,9 +124,185 @@
       "negative": 0,
       "neutral": 10,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-26",
+      "total": 12,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 12,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1858,
+      "title": "30 years of ‘Reasonable Doubt': New York celebrates Jay-Z's debut album - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/news/30-years-of-reasonable-doubt-new-york-celebrates-jay-zs-debut-album/6518303/",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "Streaming News 24/7 America250 World Cup FIFA Trump Administration Immigration New York Live Send Photos/Videos Open House. ### News. # 30 years of ‘Reasonable Doubt': New York celebrates Jay-Z's debut album. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
+      "published_at": "Thu, 25 Jun 2026 22:36:56 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導紐約慶祝饒舌歌手Jay-Z出道專輯《Reasonable Doubt》30週年，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1859,
+      "title": "Jeremy Lin on the Knicks' Championship, 'Linsanity' and life after the NBA - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/26/jeremy-lin-on-the-knicks-championship-linsanity-and-life-after-the-nba.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "Monday - Friday, 10:00 - 11:00 SIN/HK | 0400 - 05:00 CET. # Jeremy Lin on the Knicks' Championship, 'Linsanity' and life after the NBA. Jeremy Lin speaks exclusively to CNBC's Emily Tan at the sidelines of the 2026 NBA Rising Stars Invitational in Singapore.",
+      "published_at": "Fri, 26 Jun 2026 03:14:14 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於林書豪在NBA的經歷與生活，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1860,
+      "title": "2026 Hornets Draft Picks Press Conference - NBA.com",
+      "link": "https://www.nba.com/hornets/videos/2026-hornets-draft-picks-press-conference",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "+ Kon For Rookie of The Year. ## Reel Access. * ### Reel Access | Episode 7: Playing For More. * ### Reel Access | Laying The Foundation. * ### Reel Access 24-25 | Episode 5: Work Pays Dividends. * ### Reel Access 24-25 | Episode 4: Trade Winds. * ### Reel Access 24-25 | Episode 3: The Work Doesn’t Stop. * ### Reel Access 24-25 | Episode 2: Young Trio Emerging. * ### Reel Access 24-25 | Episode 1: Hive Mentality Starts Together. * ### Reel Access | Establishing Hornets DNA. * ### Reel Access | Episode 11: Ride The Movies. * ### Reel Access | Episode 8: The Trade Deadline. * ### Reel Access | Episode 7: Hornets Head West. * ### 2025 Charlotte Hornets Season of Giving Recap. * ### Heroes Gala 2025 Community Hero – Kim Henderson. * ### Heroes Gala 2025 The Males Place. * ### Recap | 2025 Day of Service.",
+      "published_at": "Thu, 25 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊與周杰倫無關，主要報導夏洛特黃蜂隊的相關新聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1861,
+      "title": "Post Market Wrap: June 25, 2026 - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/25/post-market-wrap-june-25-2026.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# News Update – Market Close. CNBC brings you fast, accurate, and actionable business news and market updates. Fed ought to take time to see how falling energy prices impacts inflation: Goldman's Robert Kaplan. Ariel Investments co-CEO John Rogers: AI craze will end the same way the internet bubble did. Marianne Lake's retirement from JPMorgan was a 'surprise' to many, says UBS' Erika Najarian. D.A. Davidson's Gil Luria breaks down three things happening with Apple. JPMorgan's Marianne Lake to retire, company names Doug Petno and Troy Rohrbaugh co-presidents.",
+      "published_at": "Thu, 25 Jun 2026 20:54:03 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞主要報導市場動態、經濟分析及企業人事變動，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1862,
+      "title": "The Best Prime Day Deals on Laptops, Monitors, and PC Accessories - Lifehacker",
+      "link": "https://lifehacker.com/tech/best-deals-on-laptops-monitors-pc-accessories-prime-day-2026",
+      "source": "Tavily (lifehacker.com)",
+      "snippet": "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twitter Page (Opens in a new tab). # The Best Prime Day Deals on Laptops, Monitors, and PC Accessories. Daniel is Lifehacker's Shopping Editor covering tech deals and reviewing TVs, headphones, speakers, and projectors. *Prime Day is June 23 to 26, and Lifehacker is sharing the best sales based on product reviews, comparisons, and price-tracking tools before it's over.*. * *Browse our editors’ picks* *for a curated list of our favorite sales on laptops, fitness tech, appliances, and more.*. ## The best Prime Day laptop deals. If you're interested in the new M5 MacBook, Amazon is offering a $150 discount on either size of the laptop. ## The best Prime Day monitor deals.",
+      "published_at": "Wed, 24 Jun 2026 22:00:00 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Lifehacker網站上關於Prime Day筆記型電腦、螢幕和電腦配件的優惠資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1863,
+      "title": "‘Jackass: Best and Last’ premiere red carpet: Pedro Pascal, Paris Jackson, Johnny Knoxville and more - Page Six",
+      "link": "https://pagesix.com/2026/06/24/entertainment/jackass-best-and-last-premiere-red-carpet-pedro-pascal-paris-jackson-johnny-knoxville-and-more/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "#### SHOP NOW. Shop Prime Day like a star with deals on A-list beauty favorites: Crest, Charlotte Tilbury and more. # ‘Jackass: Best and Last’ premiere red carpet: Pedro Pascal, Paris Jackson, Johnny Knoxville and more. Published  June 24, 2026, 11:02 p.m. ET. One last ride with the Jackass crew. Paramount Pictures held it’s premiere for “Jackass: Best and Last” on June 24 in Los Angeles. Pedro Pascal, Paris Jackson, Johnny Knoxville, Steve-O, and more were in attendance. Scroll through to see all of the stars. ## ‘The Invite’ premiere red carpet: Seth Rogen, Olivia Wilde, Penélope Cruz and more.",
+      "published_at": "Thu, 25 Jun 2026 03:02:50 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了電影《Jackass: Best and Last》的首映會，並列舉了出席的好萊塢明星，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1864,
+      "title": "2010s pop star returns to Bay Area on first tour in 6 years - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/khalid-greek-theatre-berkeley-concert-22293531.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# 2010s pop star returns to Bay Area on first tour in 6 years. A decade after “Location” launched him to stardom, Khalid is looking back on the song that changed his life. The Grammy-nominated Texas singer, whose full name is Khalid Donnel Robinson, broke through in the late 2010s with a string of introspective pop hits. Last summer, the singer gave local fans a first listen to his fourth studio album, “After the Sun Goes Down,” during an afternoon performance at San Francisco’s Golden Gate Park one day after its release. On Friday, June 26, Khalid returns to the Bay Area, this time across the Bay Bridge for a concert at the Greek Theatre in Berkeley as part of his It’s Always Summer Somewhere Tour — his first in six years. After going TikTok viral, this rising pop star is coming to S.F. One of Oakland’s largest festivals returns with Grammy-winning headliner. She joined the Chronicle as a summer 2023 intern for the Datebook team.",
+      "published_at": "Sun, 21 Jun 2026 13:00:00 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於歌手Khalid在舊金山灣區舉辦演唱會，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1865,
+      "title": "PJ Morton performs at AFRAM for the first time - CBS News",
+      "link": "https://www.cbsnews.com/baltimore/video/pj-morton-performs-at-afram-for-the-first-time/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "* WJZ and the Baltimore Banner. # PJ Morton performs at AFRAM for the first time. PJ Morton talked about performing at AFRAM 50, his music and more during an interview with CBS Baltimore.",
+      "published_at": "Sun, 21 Jun 2026 22:07:00 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導PJ Morton首次在AFRAM音樂節演出，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1866,
+      "title": "Park Jihyun knocks down the triple - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49181520/park-jihyun-knocks-triple",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "## PGA Tour. ## World Cup. KPMG Women's PGA Championship. Video is not available in your country. # Park Jihyun knocks down the triple. ## Ecuador fans erupt at full-time vs. * ## Fowler: Brandon Aiyuk is lighting money on fire with every Instagram video. * ## Japan fans take over Tokyo's Shibuya Crossing after reaching knockouts. * ## Stephen A.: LeBron should return to Cavs if winning is priority. ### The Latest. * ## German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes. * ## Stephen A.: Ant and LaMelo make an 'elite backcourt' for Timberwolves. * ## 'Absolutely unacceptable!' Stephanie White livid over lack of protection for Caitlin Clark. * ## Mexico fans came ready with umbrellas to celebrate goal vs. ## Burley: Neymar looked sluggish on return for Brazil. * ## Fans in Rio celebrate Vinícius Jr.'s early goal vs. * ## Stephen A.: Lakers have to keep LeBron after signing Reaves.",
+      "published_at": "Fri, 26 Jun 2026 01:57:07 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "該新聞內容主要報導多項體育賽事及運動員相關資訊，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1867,
+      "title": "Capitals Add Forwards; Ovechkin's Future Uncertain Stream of National Hockey League - CBS Sports",
+      "link": "https://www.cbssports.com/watch/general/video/capitals-add-forwards-ovechkins-future-uncertain",
+      "source": "Tavily (www.cbssports.com)",
+      "snippet": "# NATIONAL HOCKEY LEAGUE. # Capitals Add Forwards; Ovechkin's Future Uncertain. ## On CBS Sports HQ, Pete Blackburn tells Coley Harvey the Caps' new forwards may keep Ovechkin in DC. ## NHL News & Highlights. ### NHL. #### What to Expect from Leafs' Potential Pick Gavin McKenna. #### Breaking Down the Connor Hellebuyck Trade Buzz. #### Oilers Hire Mike Babcock as Head Coach. #### Keith Tkachuk Elected Into Hockey Hall of Fame. #### Carey Price Elected to Hockey Hall of Fame. #### Brady Tkachuk Trade Turns Panthers Back Into Cup Contenders. ## More Live & Upcoming. ### CBS Sports Golazo Network. #### Call It What You Want: 48 Nations. ### UEFA Champions League Channel. #### UCL Best Goals - Best Goals from American-Born Players in UCL. #### NFL Game Re-Airs - 2018: Vikings vs. ### CBS Sports HQ. ### CBS Sports Network. ### Live Stream • CBS Sports Network. #### Utah Talons vs. #### Toronto Argonauts vs. #### Italy vs.",
+      "published_at": "Fri, 26 Jun 2026 00:17:30 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於國家冰球聯盟（NHL）的球隊與球員動態，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1868,
+      "title": "Kiana Williams knocks down the 3 - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49181022/kiana-williams-knocks-3",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "# Kiana Williams knocks down the 3. ### The Latest. ## Fowler: Brandon Aiyuk is lighting money on fire with every Instagram video. ## German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes. ## Junior Caminero clobbers 3 HRs in Rays' 13-2 rout of Royals. ## Junior Caminero takes 2nd baseman Tyler Tolbert deep for 3rd homer. ## Stephen A. ## Stephen A.: 'There's a flagrant level of resentment' toward Caitlin Clark. * ## Stephen A.: Ant and LaMelo make an 'elite backcourt' for Timberwolves. responds to Jaylen Brown's callout. ## Stephen A.: LeBron should return to Cavs if winning is priority. ## Shams: LaMelo Ball trade is a 'big swing' for Timberwolves. * ## Windy details why the Timberwolves traded for LaMelo Ball.",
+      "published_at": "Fri, 26 Jun 2026 00:37:53 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了多項體育賽事與評論，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1869,
+      "title": "Uber Avoids California Ballot War as Governor Signs Lawyers Deal - Bloomberg Law News",
+      "link": "https://news.bloomberglaw.com/litigation/uber-avoids-california-ballot-war-as-governor-signs-lawyers-deal",
+      "source": "Tavily (news.bloomberglaw.com)",
+      "snippet": "Email&body=Here%20is%20a%20story%20that%20I%20thought%20would%20interest%20you.%0D%0A%0D%0Ahttps%3A%2F%2Fnews.bloomberglaw.com%2Flitigation%2Fuber-avoids-california-ballot-war-as-governor-signs-lawyers-deal%3Futm_source%3DEmail_Share). # Uber Avoids California Ballot War With Signed Lawyer Deal (1). A legislative agreement brokered by Uber Technologies Inc. and the Consumer Attorneys of California to end an expensive ballot measure battle was signed into law Thursday by Gov. Gavin Newsom. In response to the new law, both parties have pulled their respective initiatives from the ballot, which would have asked California voters in November to decide major policy questions about car accident contingency fees and liability for Uber driver sexual assaults. Each campaign had already spent over $70 million on their respective initiatives before qualifying for the ballot earlier this month. The Uber-backed initiative would have placed a 25% cap ... ## Learn more about Bloomberg Law or Log In to keep reading:. Bloomberg Law provides trusted coverage of current events enhanced with legal analysis. ### Already a subscriber? Log in to keep reading or access research tools and resources. © 2026 Bloomberg Industry Group, Inc.",
+      "published_at": "Fri, 26 Jun 2026 00:20:50 GMT",
+      "collected_at": "2026-06-26 04:52:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導Uber在加州避免了選票戰，因州長簽署了律師協議。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1848,
       "title": "BTS’ J-Hope looked expensive as he suited up for a luxury brand with South Korean actor Gong Yoo and American singer Pharell Williams. (📸: uarmyhope/Instagram) - facebook.com",
@@ -386,192 +554,39 @@
       "summary": "此新聞內容主要報導足球明星梅西、NFL及NBA相關體育資訊，並未提及周杰倫。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1846,
-      "title": "Hailey Bieber strips down in risqué Skims ad – See the photos - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/hailey-bieber-strips-down-risqu-173809155.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "* Prime Day deals: Apple, Stanley, Hanes and more. * Prime Day deals worth the splurge. * Hair thickening products on sale for Prime Day. # Hailey Bieber strips down in risqué Skims ad – See the photos. Add Yahoo as a preferred source to see more of our stories on Google. Hailey Bieber is turning heads as the latest Skims model. The model is featured in the Kim Kardashian-founded brand's latest campaign promoting its everyday cotton line. In racy photos posted by Kardashian, the longtime Kardashian-Jenner family friend is seen toned and tanned, her hair messy. Justin Bieber, Hailey's husband and father to their son Jack Blues, also shared the photos. Friends of Bieber praised the model's photos in the comments, with Khloé Kardashian writing, \"Soooo hot it's wild,\" and Justine Skye writing, \"EXACTLY.\". In February, Skims debuted the new everyday cotton line in a similarly stripped-down campaign with Kylie Jenner. *This article originally appeared on USA TODAY:* *Hailey Bieber models lingerie for Kim Kardashian's Skims in new ad*.",
-      "published_at": "Tue, 23 Jun 2026 17:38:09 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Hailey Bieber為Skims拍攝廣告，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1847,
-      "title": "Brooklyn Public Library releases limited-edition Jay-Z library cards - 6sqft",
-      "link": "https://www.6sqft.com/special-edition-jay-z-library-cards-brooklyn-public-library/",
-      "source": "Tavily (www.6sqft.com)",
-      "snippet": "Brooklyn Public Library releases limited-edition Jay-Z library cards. Images courtesy of the Brooklyn Public Library. The Brooklyn Public Library is releasing a limited-edition Jay-Z library card in honor of the 30th anniversary of the Brooklyn-born rapper’s debut album. Starting Thursday, the JAŸ-Z 30 Limited Edition Library Card will be available at BPL branches systemwide on a first-come, first-served basis, while supplies last. Created in collaboration with Roc Nation, the card celebrates the 30th anniversary of “Reasonable Doubt” and comes ahead of the rapper’s three highly anticipated performances at Yankee Stadium next month. Visitors to Bed-Stuy’s Marcy Library will also be able to check out books from JAŸ-Z’s Booklist on a dedicated display shelf featuring titles donated by Roc Nation. In July 2023, the library released “The Book of HOV” library card collection alongside an exhibition of the same name presented by the BPL and Roc Nation at the Central branch.",
-      "published_at": "Tue, 23 Jun 2026 15:50:53 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導布魯克林公共圖書館為慶祝饒舌歌手Jay-Z出道30週年，發行限量版圖書證，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1825,
-      "title": "Huge eight-figure sum troubled Liam Payne left son Bear, 9, after tragic death aged 31 revealed in court docs - the-sun.com",
-      "link": "https://www.the-sun.com/entertainment/16552910/liam-payne-left-son-bear-fortune-will/",
-      "source": "Tavily (www.the-sun.com)",
-      "snippet": "**LIAM Payne’s nine-year-old son is to be the sole beneficiary of the tragic singer’s £21million fortune, the High Court has agreed.**. Liam Payne’s son Bear is to be the sole beneficiary of the tragic singer’s £21million fortune, the High Court has agreed Credit: Getty. Cheryl and music industry lawyer Richard Bray were named as administrators of Liam’s estate in a grant of probate issued in Newcastle last year. The new Letters of Administration means that parts of the estate can potentially be spent to help Bear now — with the remainder required to be placed in trust for him until he is aged 18. ## KIM'S TEAM Kim Kardashian & Lewis Hamilton's World Cup plans with her son Saint ## The Skims mogul, 45 - a self-described \"soccer mom\" to 10-year-old Saint - and the Formula One racer, 41, have tentative plans to attend a World Cup game as one big happy family, a source told The U.S. Sun. Image 17: Liam Payne attends The Fashion Awards 2022.",
-      "published_at": "Sun, 21 Jun 2026 20:00:00 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導主要關於已故歌手連恩·佩恩（Liam Payne）的遺產分配給其子，以及金·卡戴珊和路易斯·漢米爾頓的行程，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1826,
-      "title": "Beyoncé and Jay-Z's rarely-seen son Sir joins siblings in intimate family video - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/beyonc-jay-zs-rarely-seen-165221766.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "* Beyonce released a behind-the-scenes family video on Father's Day showing Jay-Z's hair transformation journey with the help of their family and friends. * The video included never-before-seen footage of Jay-Z with his rarely seen son, Sir, as well as clips of Blue Ivy and Rumi dancing at Jay-Z's concert in Philadelphia. * Jay-Z decided to grow out his hair to show solidarity with his daughter Blue, who was feeling insecure about her own hair, and the transformation process took six days with the help of his family. The video featured several throwback clips of Jay-Z with his family, including never-before-seen footage with his nine-year-old son, Sir. Unlike his sisters, the Carter's only son prefers to keep out of the spotlight, but clips included one of him on the beach with his dad, and another of Jay-Z holding Sir and Rumi as toddlers. * ### Why Beyoncé's son Sir Carter isn't in the spotlight like his sisters Rumi and Blue Ivy.",
-      "published_at": "Mon, 22 Jun 2026 16:52:21 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Beyoncé和Jay-Z的家庭生活，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1827,
-      "title": "Florida restaurant review of The Service Alley in Vero Beach - USA Today",
-      "link": "https://www.usatoday.com/videos/entertainment/dining/2026/06/22/florida-restaurant-review-service-alley-vero-beach-bakes-new-york-artisan-bread-for-roast-beef-sandy/90645746007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "What to watch ☀️ Win $100 💵 See the stage 🎭 Watch Party Newsletter. Glen Powell, Zoey Deutch on rom-com reunionReese Witherspoon gets emotional recalling 'Legally Blonde's impactPrince Harry and Meghan greeted by fans at Sydney Opera HouseBook lovers are finding community IRL. 'House of the Dragon' Season 3 begins with Battle of the GulletCan someone get Gabrielle Union and Keegan-Michael Key their own show? Howie Dorough's favorite Backstreet Boys songs might surprise you'Dutton Ranch' star Jai Courtney on filming with Cole Hauser. Dallas Cowboys Cheerleader Reece Weaver on leavingPaul Stanley and Gene Simmons share pride in sons' new music collab'Voicemails for Isabelle' cast shares best voicemailsOprah, John Legend, Colbert and other celebs attend Obama event. Spider-Man collabs with USA TODAY: See New York City's reaction'Love Island USA' Casa Amor premiere explanationClive Davis, music titan, dies at 94.",
-      "published_at": "Mon, 22 Jun 2026 18:15:18 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞內容摘要中未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1828,
-      "title": "Create your own custom fragrance in Newark, NJ - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/create-your-own-custom-fragrance-in-newark-nj/6516424/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "New York Live 4 hours ago. # Create your own custom fragrance in Newark, NJ. Dahiana Pérez visits Pooka Boutique & Blend Bar in Newark, New Jersey to create her signature scent. ## Local. #### Visit these gems of Little Senegal. #### For three days only, check out this ‘Love Island USA' fan experience. #### Explore Little Britain in the Big Apple. #### Adam Pascal on celebrating 30 years of ‘Rent' at The Festival. #### Inside a unique Brooklyn brewery making makgeolli. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Mon, 22 Jun 2026 16:43:22 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導紐約當地生活資訊及客製香水體驗。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1829,
-      "title": "New Apple TV 4K is coming this fall with three new features: report - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/22/new-apple-tv-4k-is-coming-this-fall-with-three-new-features-report/",
-      "source": "Tavily (9to5mac.com)",
-      "snippet": "# New Apple TV 4K is coming this fall with three new features: report. The wait for a new Apple TV 4K has been longer than expected, but the latest report from *Bloomberg* indicates it’s on track for a fall launch with three new features. ## Siri AI, revised remote, and more Apple Intelligence features rumored for Apple TV 4K, with new HomePods coming too. Much of what he reported has been covered extensively before, but one standout was an update on two long-rumored products: new Apple TV 4K and HomePod mini. > Finally, the new Apple TV and HomePod mini with Apple Intelligence are both in very advanced testing. The new Apple TV 4K in particular has been long anticipated. Now that we know the full Apple Intelligence story in iOS 27, there are a variety of new AI features that could fit well on tvOS too—beyond Siri. What’s on your wishlist for the new Apple TV 4K and/or HomePod models? ### Apple TV 4K.",
-      "published_at": "Mon, 22 Jun 2026 14:57:48 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Apple TV 4K和HomePod即將推出新版本並搭載Apple Intelligence功能，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1830,
-      "title": "The Clarkson's Farm host has made a stark health admission after his cancer diagnosis was revealed, saying he's made some major lifestyle changes. - facebook.com",
-      "link": "https://www.facebook.com/SkyNewsAustralia/posts/the-clarksons-farm-host-has-made-a-stark-health-admission-after-his-cancer-diagn/1467331248757802/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "## Sky News Australia's Post. ### **Sky News Australia**. The Clarkson's Farm host has made a stark health admission after his cancer diagnosis was revealed, saying he's made some major lifestyle changes. Image 1: ‘Watch them grow’: Jeremy Clarkson’s health admission after cancer reveal. skynews.com.au ‘Watch them grow’: Jeremy Clarkson’s health admission after cancer reveal. Most relevant is selected, so some comments may have been filtered out.",
-      "published_at": "Tue, 23 Jun 2026 01:31:45 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容關於Jeremy Clarkson的健康狀況，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1831,
-      "title": "2026 NBA Draft preview, prospect interviews & the latest on Giannis - Yahoo Sports",
-      "link": "https://sports.yahoo.com/nba/article/2026-nba-draft-preview-prospect-interviews--the-latest-on-giannis-231632952.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* The Kevin O'Connor Show. # 2026 NBA Draft preview, prospect interviews & the latest on Giannis. Kevin O'ConnorNBA Senior Analyst. ## **Subscribe to The Kevin O'Connor Show**. On the eve of the NBA Draft, Kevin O'Connor interviews prospects Darryn Peterson, Aday Mara, Keaton Wagler, Brayden Burries, Christian Anderson, Allen Graves and Dailyn Swain. KOC also shares the latest on Giannis Antetokounmpo trade rumors and Trae Young's new contract with the Wizards. (0:50) Giannis trade updates. (4:57) Trae Young signs contract with Wizards. (6:38) Darryn Peterson joins the show. (22:04) Aday Mara joins the show. (27:41) Keaton Wagler joins the show. (41:21) Brayden Burries joins the show. (49:41) Christian Anderson joins the show. (1:01:09) Allen Graves joins the show. (1:09:59) Dailyn Swain joins the show. **🖥️** ***Watch this full episode*** ***on the*** ***Yahoo Sports NBA YouTube channel***. ***Check out all episodes of*** ***The Kevin O'Connor Show*** ***and the rest of the Yahoo Sports podcast family at*** ***https://apple.co/3zEuTQj*** ***or at*** ***yahoosports.tv***.",
-      "published_at": "Mon, 22 Jun 2026 23:16:32 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞內容與周杰倫無關，主要討論NBA選秀預覽、新秀訪談以及字母哥和崔楊的最新消息。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1832,
-      "title": "Jay-Z's Roc Nation Scores Major Win in Tony Buzbee Legal War - TMZ",
-      "link": "https://www.tmz.com/2026/06/22/judge-dismisses-tony-buzbee-lawsuits-against-roc-nation/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Jay-Z's Roc Nation Scores Major Win in Tony Buzbee Legal War. ## Roc Nation & Jay Z Score Legal Victory in Diddy Fallout Feud. The bitter legal war between **Jay-Z** and attorney **Tony Buzbee** just took another turn and this round went to Roc Nation. The litigation involves claims Roc Nation and lawyers working with Jay-Z's camp improperly targeted Buzbee's clients amid the fallout from the Diddy scandal and later allegations involving Jay-Z. The lawsuits were among several legal offshoots spawned by the escalating feud between Buzbee and Jay-Z's team after Buzbee filed a now withdrawn lawsuit that included claims of sexual assault against the rap mogul. Jay-Z denied the allegations and aggressively fought back, claiming Buzbee of pursuing false allegations and launching multiple legal challenges against the attorney. Now, a judge ruled the state lacks personal jurisdiction over Roc Nation and dismissed the claims against the company.",
-      "published_at": "Tue, 23 Jun 2026 02:17:28 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞與周杰倫無關，主要報導Jay-Z的Roc Nation在與律師Tony Buzbee的法律戰中取得勝利。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1833,
-      "title": "Jay-Z Grew Out His Hair for Blue Ivy - The Cut",
-      "link": "https://www.thecut.com/article/jay-z-grew-out-hair-blue-ivy.html",
-      "source": "Tavily (www.thecut.com)",
-      "snippet": "Jay-Z Grew Out His Hair for Blue Ivy. Things you buy through our links may earn *Vox Media* a commission. # Jay-Z Grew Out His Hair for Blue Ivy. By  Olivia Craighead, a news writer for The Cut who covers pop culture and celebrity. On Father’s Day, a few weeks after the rapper appeared at the Roots Picnic last month sporting a combed-out Afro, Beyoncé and her hair-product brand, Cécred, shared a seven-minute video titled “The Blueprint.” In it, she narrated the sentimental story behind her husband’s locs and why he decided to comb them out after more than eight years. “I thought it was always beautiful that the real reason Jay grew out his hair was to show Blue that her hair was like his hair,” Beyoncé said over footage of Jay and their oldest daughter. Eight years later, ahead of Jay-Z’s appearance with the Roots in Philadelphia, he told Beyoncé that he wanted to comb out his hair in order to honor his father, who wore an Afro and loved Philadelphia sports.",
-      "published_at": "Mon, 22 Jun 2026 15:23:28 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導Jay-Z為女兒Blue Ivy留髮及為紀念父親而梳開頭髮的故事。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1834,
-      "title": "Rick Baker Set For Locarno Honorary Award - Deadline",
-      "link": "https://deadline.com/2026/06/rick-baker-locarno-honorary-award-1236959075/",
-      "source": "Tavily (deadline.com)",
-      "snippet": "# ‘An American Werewolf In London’ & Michael Jackson’s ‘Thriller’ Make-Up Artist Rick Baker Set For Locarno Honorary Award. Rick Baker, the veteran make-up artist behind Michael Jackson’s *Thriller* music video and Hollywood classics like *The Nutty Professor* and *An American Werewolf in London*, will be awarded the honorary Vision Award at this year’s Locarno Film Festival. Baker will be handed the award at the festival’s Piazza Grande on August 12. “Rick Baker was responsible for a Copernican revolution in cinema: visionary and revolutionary, he opened new paths for the imagination of entire generations, showing what it truly means to witness physical transmutation on the big screen,” Locarno director Giona A. ### Asia Argento Set For Locarno Lifetime Achievement Award. Presenting the Vision Award in Locarno to a pioneer and innovator like him, an absolute genius and incomparable craftsman, is an honour through which the Festival celebrates the infinite possibilities of cinema and its bag of tricks.”. ## Must Read Stories.",
-      "published_at": "Thu, 18 Jun 2026 13:28:33 GMT",
-      "collected_at": "2026-06-23 04:43:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "資深化妝師Rick Baker將在盧卡諾影展獲頒榮譽視覺獎，表彰他在電影特效化妝領域的貢獻，此新聞與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 94,
-    "report_date": "2026-06-25",
-    "total_articles": 10,
+    "id": 95,
+    "report_date": "2026-06-26",
+    "total_articles": 12,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 10,
-    "daily_summary": "根據今日搜集到的新聞資料，未發現任何與華語流行天王周杰倫相關的報導或最新動態。所有新聞焦點均集中於其他歐美藝人，例如Jay-Z的個人生活、時尚品牌活動、科技產品更新、國際財經動態及體育賽事等多元議題。因此，今日無法提供關於周杰倫的特定焦點摘要，顯示他今日並無公開活動或重大新聞事件被媒體廣泛報導。",
+    "neutral_count": 12,
+    "daily_summary": "今日搜集到的新聞中，並未包含任何關於華語流行天王周杰倫的報導或焦點事件。新聞主要聚焦於其他國際娛樂、體育、科技及商業領域的動態，例如美國饒舌歌手Jay-Z的專輯紀念、個人形象及法律事務，還有NBA選秀、名人時尚活動、電影首映、音樂節演出、科技產品更新等。總體而言，今日並無周杰倫相關的公開新聞被報導。",
     "key_events": [
       "無周杰倫新聞",
-      "未發現相關報導",
-      "今日無焦點事件"
+      "未有相關報導",
+      "今日無焦點"
     ],
-    "created_at": "2026-06-25 04:48:32"
+    "created_at": "2026-06-26 04:53:12"
   },
   "recentReports": [
+    {
+      "id": 95,
+      "report_date": "2026-06-26",
+      "total_articles": 12,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 12,
+      "daily_summary": "今日搜集到的新聞中，並未包含任何關於華語流行天王周杰倫的報導或焦點事件。新聞主要聚焦於其他國際娛樂、體育、科技及商業領域的動態，例如美國饒舌歌手Jay-Z的專輯紀念、個人形象及法律事務，還有NBA選秀、名人時尚活動、電影首映、音樂節演出、科技產品更新等。總體而言，今日並無周杰倫相關的公開新聞被報導。",
+      "key_events": [
+        "無周杰倫新聞",
+        "未有相關報導",
+        "今日無焦點"
+      ],
+      "created_at": "2026-06-26 04:53:12"
+    },
     {
       "id": 94,
       "report_date": "2026-06-25",
@@ -657,21 +672,6 @@
         "未有相關報導"
       ],
       "created_at": "2026-06-20 04:55:04"
-    },
-    {
-      "id": 88,
-      "report_date": "2026-06-19",
-      "total_articles": 17,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 17,
-      "daily_summary": "根據今日搜集到的新聞列表，未發現任何與周杰倫直接相關的報導或焦點事件。今日娛樂新聞主要圍繞其他音樂人傳記電影的票房表現、NBA球隊的冠軍慶祝活動，以及其他歌手的演唱會與專輯發行等。因此，今日無周杰倫的相關新聞摘要可提供。",
-      "key_events": [
-        "無周杰倫新聞",
-        "未發現相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-06-19 05:37:29"
     }
   ]
 }
