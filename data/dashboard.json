@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
+    "total": 9,
     "positive": 0,
     "negative": 0,
-    "neutral": 12
+    "neutral": 9
   },
   "allTimeStats": {
-    "total": 1869,
+    "total": 1878,
     "positive": 558,
     "negative": 65,
-    "neutral": 1246,
+    "neutral": 1255,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-12",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-13",
       "total": 7,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-27",
+      "total": 9,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 9,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1870,
+      "title": "Taylor Swift's Future Father in Law Seemingly Hard Launches GF, Weeks Before Son's Wedding - TMZ",
+      "link": "https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Travis Kelce Dines at Los Angeles Bar Amid Taylor Swift's Potential Bachelorette Party. # Taylor Swift's Future Father in Law Seemingly Hard Launches GF, Weeks Before Son's Wedding. ## Taylor Swift Future Pop-in-Law Hard Launches Potential GF ... Looks like romance is in the air beyond just **Taylor Swift** and **Travis Kelce**, 'cause her soon-to-be father-in-law **Ed Kelce**, appears to have made things social media official with a special woman in his life, weeks before his son's high-profile wedding. The post marks one of Ed's most public displays of affection on social media and has fans taking notice, especially as interest in the Kelce family remains at an all-time high. Video: Taylor Swift's Rhode Island Mansion Buzzing with Pre-Wedding Activity. and Ed's relationship update is generating its own wave of buzz with many of the comments connecting his charm with Travis' as well as pointing out his location amid Taylor's **suspected bachelorette party** in Rhode Island this weekend.",
+      "published_at": "Sun, 21 Jun 2026 13:53:36 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於泰勒絲與特拉維斯·凱爾斯家族的動態，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1871,
+      "title": "Britney Spears' Sons Make Paris Fashion Week Runway Debut - TMZ",
+      "link": "https://www.tmz.com/2026/06/26/britney-spears-sons-make-paris-fashion-week-runway-debut/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Britney Spears' Sons Make Paris Fashion Week Runway Debut. ## Britney Spears' Sons Gimme More Runway Walks. **Britney Spears**' sons, **Sean Preston** and **Jayden Federline**, are struttin' their stuff on the runway for Paris Fashion Week for the first time ... Sean Preston's looking tall, dark and handsome in a shiny black suit jacket ... accompanied by a black button-down, black tie, and a pair of blue jeans. looking dressed up for the summer, and totally relaxed despite her sons' runway debut ... and judging by how confident Sean and Jayden seemed in Paris, she had absolutely every right to be! #### Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden. #### Britney Spears' Son Jayden James Steps Out at Dior's Fashion Show in L.A. #### Britney Spears' Son Jayden Stays Quiet About Mom's Post-Rehab Life. Britney Spears   Jayden James   Sean Preston   Celebrity News   Musicians   Fashion Week   Fashion   celebrity kids.",
+      "published_at": "Fri, 26 Jun 2026 22:29:17 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於布蘭妮史皮爾斯（Britney Spears）的兒子們首次在巴黎時裝週走秀，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1872,
+      "title": "Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now - Billboard Canada",
+      "link": "https://ca.billboard.com/music/pop/katy-perry-new-song-watch-it-burn-here-listen-1236281454/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. # Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now. The visual finds Perry wreaking havoc as a monstrous scorpion-human hybrid. Katy Perry is setting her past ablaze on new single “Watch It Burn,” which dropped Thursday night (June 25) alongside a cinematic new music video. On the cathartic pop-rock banger — which Perry performed before its release at both O Son do Camiño in Spain and Rock in Rio Lisboa — she sings about reclaiming her life by saying goodbye to a long-term relationship. Perry is now in a relationship with Justin Trudeau, whom she called “the love of my life” during a Q&A at the premiere of her Lifetimes Tour concert film in New York earlier in June. ## Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now.",
+      "published_at": "Fri, 26 Jun 2026 00:29:27 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導凱蒂佩芮（Katy Perry）的新歌與感情生活，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1873,
+      "title": "Listen to Fat Joe's New NSFW Song 'Victory Lap (HIM)' With Video From Knicks' NBA Title Parade - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25446532-listen-fat-joes-new-nsfw-song-victory-lap-him-video-knicks-nba-title-parade",
+      "source": "Tavily (bleacherreport.com)",
+      "snippet": "Steal of the NBA Draft? # Listen to Fat Joe's New NSFW Song 'Victory Lap (HIM)' With Video From Knicks' NBA Title Parade. Fat Joe teamed up with Yung Miami and Jadakiss on a new song and music video, \"Victory Lap,\" which was filmed at the New York Knicks title parade. You can see the video below (**warning: NSFW**):. Bleacher Report2d### Jordyn Woods' Handbag at Guggenheim Museum. Bleacher Report20h### Brunson on Hammon Critique 😌. He also had his own hip-hop float at the parade:. Fat Joe was a regular spectator during the team's run to its first title in 53 years, joining other celebrities such as Spike Lee, Ben Stiller, Timothée Chalamet and more. Bleacher Report2d### Roman Gifts Belt to Brunson 🏆. Bleacher Report19h### Knicks' Landry Shamet, Actor John Turturro Joke About Being Related in New Video. ### Ranking Clippers' Top Targets 🎯. ### Trade Packages for Red Sox Stars 🤝. Where the Clippers stand after trade-filled two-night event 📲.",
+      "published_at": "Fri, 26 Jun 2026 21:09:47 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞主要報導 Fat Joe 新歌及紐約尼克隊奪冠遊行，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1874,
+      "title": "Movie critic Grae Drake talks the latest releases - CBS News",
+      "link": "https://www.cbsnews.com/losangeles/video/movie-critic-grae-drake-talks-the-latest-releases/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Movie critic Grae Drake talks the latest releases. Movie critic Grae Drake discusses: “Supergirl,” “Jackass Best and Last” and “Little Brother.”.",
+      "published_at": "Fri, 26 Jun 2026 19:23:00 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，主要報導影評人Grae Drake評論最新電影《超少女》、《蠢蛋搞怪秀：精選與最終章》及《小兄弟》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1875,
+      "title": "Stephen A.: Jaylen Brown to Pistons 'would be something special' - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49187760/jaylen-brown-pistons-special",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "## PGA Tour. KPMG Women's PGA Championship. ## WNBA. Video is not available in your country. We are sorry, this video is no longer available. # Stephen A.: Jaylen Brown to Pistons 'would be something special'. * ## Stephen A.: Giannis to Miami more impactful move than Melo to Minnesota. * ## Could the Rockets be the best fit for Jaylen Brown? ## Marina Mabrey ties WNBA single-game record with 53 points. * ## How Christian Pulisic proved his importance to the USMNT. * ## USMNT fans celebrate early goal on Santa Cruz beach. ## Fowler: Brandon Aiyuk is lighting money on fire with every Instagram video. * ## German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes. * ## Stephen A.: LeBron should return to Cavs if winning is priority. * ## Mexico fans came ready with umbrellas to celebrate goal vs. * ## Fans in Rio celebrate Vinícius Jr.'s early goal vs.",
+      "published_at": "Fri, 26 Jun 2026 15:43:36 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導NBA球員Jaylen Brown的交易傳聞及其他體育賽事，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1876,
+      "title": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - VPM",
+      "link": "https://www.vpm.org/npr-news/2026-06-26/keyon-harrold-celebrates-100-years-of-miles-davis-at-carnegie-hall",
+      "source": "Tavily (www.vpm.org)",
+      "snippet": "*    On Air  Now Playing VPM News. *    On Air  Now Playing VPM Music. # Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. Image 3: Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. To mark the occasion, trumpeter Keyon Harrold brought his band to Carnegie Hall's Zankel Hall for a night of tribute and celebration. In this episode of _Jazz Night in America,_ we'll feature a conversation about Davis between Harrold and Christian McBride, and listen to highlights from the concert at Carnegie Hall. **Setlist from Keyon Harrold and his group at Carnegie Hall**:. *   Medley: \"Miles Ahead\" (Davis, Evans); \"Melancholy Aura\" (Keyon Harrold); \"Well Walk Now (Perseverance)\" (Harrold). She also served as a producer for NYC Winter Jazzfest before landing the \"job of her dreams,\" producing radio for Jazz Night in America. ### VPM News Morning Monitor is a daily newsletter that keeps you informed on news you care about.",
+      "published_at": "Fri, 26 Jun 2026 12:06:24 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於小號手Keyon Harrold在卡內基音樂廳舉辦一場向爵士傳奇Miles Davis致敬的音樂會，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1877,
+      "title": "How Jay-Z Changed Rap With ‘Reasonable Doubt’ - Defector",
+      "link": "https://defector.com/how-jay-z-changed-rap-with-reasonable-doubt",
+      "source": "Tavily (defector.com)",
+      "snippet": "# How Jay-Z Changed Rap With ‘Reasonable Doubt’. If you went back in time to New York in the early '90s, not a soul would believe you if you told them Jay-Z would end up where he is today. Jay-Z's relatively delayed breakthrough made him something of a late bloomer, even in an era when stars weren't minted as quickly and early as they are now. It took him a while to figure out how to be himself on wax. It was his big homie Jaz-O who put him on, and the two of them had a Das EFX, Fu-Schnickens fast-rapping style that was as technically impressive as it was uninteresting. Instead it's the Jay we're a lot more familiar with: not just the hustler, but the boss. Aside from the rapping itself, a big part of why *Reasonable Doubt* resonates so much still is that it was what we would call today an exercise in personal branding.",
+      "published_at": "Fri, 26 Jun 2026 18:06:34 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊關於美國饒舌歌手Jay-Z的音樂專輯《Reasonable Doubt》及其對饒舌音樂的影響，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1878,
+      "title": "Houston Astros vs. Detroit Tigers: Game Highlights - ESPN",
+      "link": "https://www.espn.com/video/clip/_/id/49192293/game-highlights",
+      "source": "Tavily (www.espn.com)",
+      "snippet": "Video is not available in your country. We are sorry, this video is no longer available. # Houston Astros vs. ### The Latest. ## Justin Bieber announces Maple Leafs select Gavin McKenna with No. 1 pick. ## 'Whoa!' John Buccigross stunned by Pavel Dorofeyev trade to Rangers. ## 'I'm only wearing my dad hat tonight': Manny Malhotra reacts to Canucks drafting son, Caleb. ## Justin Bieber says being at the NHL draft 'a dream'. ## French fans in Paris celebrate as Dembélé hits hat trick in 32 minutes. ## Fans in Paris celebrate as Dembele gives France the lead against Norway. ## Albert Simien fakes out LSU, Ole Miss before committing to Notre Dame. ## Stephen A.: Jaylen Brown to Pistons 'would be something special'. isn't concerned that Lakers haven't made offer to LeBron yet. * ## Stephen A.: Giannis to Miami more impactful move than Melo to Minnesota.",
+      "published_at": "Sat, 27 Jun 2026 01:10:21 GMT",
+      "collected_at": "2026-06-27 04:37:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞內容主要關於美國體育賽事及其他名人，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1858,
       "title": "30 years of ‘Reasonable Doubt': New York celebrates Jay-Z's debut album - NBC New York",
@@ -428,150 +554,31 @@
       "summary": "這則新聞報導了《Jersey Shore》明星Jenni 'JWoww' Farley與職業摔角手Zack Carpinello的驚喜婚禮，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1857,
-      "title": "Magnitude 7.1 earthquake causes alarm at Maiquetía International Airport - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/news/national-international/earthquake-venezuela-panic-airport/6517880/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA NY Primary Results Races to Watch Trump Administration Immigration New York Live Send Photos/Videos Open House. ### News. # Magnitude 7.1 earthquake causes alarm at Maiquetía International Airport. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Thu, 25 Jun 2026 00:28:41 GMT",
-      "collected_at": "2026-06-25 04:47:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導委內瑞拉邁奎蒂亞國際機場發生7.1級地震，引起警報，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1838,
-      "title": "Jersey City mayor proposes 20% tax hike to close $255 million budget gap - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/on-air/as-seen-on/jersey-city-mayor-proposes-20-tax-hike-to-close-255-million-budget-gap/6517186/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "# Jersey City mayor proposes 20% tax hike to close $255 million budget gap. It’s the words no taxpayer ever wants to hear: tax hikes. but that’s exactly what could be coming to Jersey City. The mayor there is trying to fill a $255 million budget gap and he believes an eye-popping 20% hike could be the fix. NBC New York’s Adam Harding reports. #### Horse carriage rides resume in Central Park after driver training. #### Primary day in New York: What to watch for in key races. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Wed, 24 Jun 2026 00:35:20 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導澤西市市長提議增稅以彌補預算缺口。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1839,
-      "title": "Ari Emanuel in talks to buy West End and Broadway giant ATG for $6bn - Financial Times",
-      "link": "https://www.ft.com/content/6bedcfad-decc-4dec-baf5-afcb906c2e5e?syn-25a6b1a6=1",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "# Ari Emanuel in talks to buy West End and Broadway giant ATG for $6bn. ## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Tue, 23 Jun 2026 21:41:27 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導Ari Emanuel正洽談收購西區和百老匯劇院巨頭ATG，並推廣金融時報訂閱方案，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1840,
-      "title": "US eases travel restrictions on Iran World Cup team - Financial Times",
-      "link": "https://www.ft.com/content/34a2b895-8620-4335-af50-e2e73aee4e39?syn-25a6b1a6=1",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. Check whether you already have access via your university or organisation. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Tue, 23 Jun 2026 21:19:54 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要為金融時報的訂閱方案廣告，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1841,
-      "title": "US defence secretary Pete Hegseth forces out top army officer in Europe - Financial Times",
-      "link": "https://www.ft.com/content/b2936511-6549-4a93-9c9f-b6dc3cd165a0",
-      "source": "Tavily (www.ft.com)",
-      "snippet": "## Try unlimited access. Complete digital access to quality FT journalism on any device. * FT App on Android & iOS. * First FT: the day’s biggest stories. * 10 additional monthly gift articles to share. * FT Digital Edition: our digitised print edition. ### FT Digital Edition. Our digitised version of the FT newspaper, for easy reading on any device. ### Standard Digital. Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. * FT Edit: Access on iOS and web. * FirstFT: the day's biggest stories. * 10 monthly gift articles to share. ### Premium Digital. Complete digital access to quality FT journalism with expert analysis from industry leaders. Check whether you already have access via your university or organisation. ## Explore our full range of subscriptions. Discover all the plans currently available in your country. ### For multiple readers. ## Why the FT? See why over a million readers pay to read the Financial Times.",
-      "published_at": "Wed, 24 Jun 2026 02:29:49 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要介紹《金融時報》的訂閱方案。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1842,
-      "title": "iOS 27 Wallet App Gets 7 New Features - MacRumors",
-      "link": "https://www.macrumors.com/guide/ios-27-wallet/",
-      "source": "Tavily (www.macrumors.com)",
-      "snippet": "Apple is making more of an effort to turn the iPhone into a physical wallet replacement in iOS 27, and there are several upgrades to the Wallet app. There is a new Pass Designer Mac app for developers that makes it easier to create a pass using a WYSIWYG editor. There's a \"Create a Pass\" feature in the Wallet app for adding tickets, memberships, and more using Visual Intelligence. If you have a ticket for an event and there's not a digital version available for the Wallet app already, you can create one using the physical pass. You can scan a pass and add it with Visual Intelligence if there's a barcode or QR code, or a pass can be added manually. Using the new Siri Mode in the Camera app, or a feature in the Messages and Wallet apps, you can take a photo of a bill and use Apple Intelligence to figure out what each person owes.",
-      "published_at": "Tue, 23 Jun 2026 19:32:14 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導介紹了 iOS 27 Wallet App 的新功能，包括透過視覺智慧將實體票券數位化，以及利用 Apple Intelligence 分攤帳單。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1843,
-      "title": "Jay-Z Gave A Rare Look At His Natural Hair After Being Accused Of Wearing Wigs For Years - BuzzFeed",
-      "link": "https://www.buzzfeed.com/jadagomez/jayz-natural-hair",
-      "source": "Tavily (www.buzzfeed.com)",
-      "snippet": "# After Years Of Being Accused Of Wearing A Wig, Beyoncé Just Revealed What Jay-Z’s Natural Hair Looks Like, And OMG. “When she told her father that, it inspired Jay to grow out his hair.”. ## Jay-Z has been sporting an afro for the first time in his career this summer, and his epic hair transformation took a ton of time, patience, and familial motivation. ## In the video, Beyoncé reveals that Jay decided to grow out his hair when Blue Ivy was just 5 years old. ## “I always thought it was beautiful that the real reason Jay grew out his hair was to show Blue that her hair was like his hair,\" Beyoncé narrated. When she told her father that, it inspired Jay to grow out his hair.\". ## \"Finding out the real reason Jay Z started growing out his hair was to show Blue Ivy he had the same texture so she could embrace and love her hair is the most wholesome thing I’ve seen in a while\".",
-      "published_at": "Mon, 22 Jun 2026 21:26:37 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關，因此無法針對周杰倫進行情緒分析。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1844,
-      "title": "Olivia Rodrigo festival, Liam Payne estate and more pop culture buzz - Modern Ghana",
-      "link": "https://www.modernghana.com/amp/videonews/670918",
-      "source": "Tavily (www.modernghana.com)",
-      "snippet": "# Olivia Rodrigo festival, Liam Payne estate and more pop culture buzz. From Olivia Rodrigo's new all-women music festival to new details about Liam Payne's estate, here's a look at what's trending in entertainment. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
-      "published_at": "Tue, 23 Jun 2026 22:40:00 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導Olivia Rodrigo的音樂節和Liam Payne的相關資訊，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1845,
-      "title": "ESPN FC love THIS while watching Lionel Messi playing for Argentina - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49153076/espn-fc-love-watching-lionel-messi-playing-argentina",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "Video is not available in your country. We are sorry, this video is no longer available. # ESPN FC love THIS while watching Lionel Messi playing for Argentina. On ESPN FC, Nedum Onuoha, Julien Laurens, Frank Leboeuf and Ali Krieger join Alexis Nunes to talk about Lionel Messi breaking the World Cup goals record. ### The Latest. ## Schefter: Brendan Sorsby is 'shut out' after NFL declines supplemental draft. ## What's next for Brendan Sorsby after NFL declines supplemental draft? gives props to Pat Riley, Heat after trading for Giannis. ## Brady Tkachuk ready for next chapter with brother Matthew in Florida. puts blame on Jaylen Brown amid trade discussions. shares his issue with Darryn Peterson. ## 'It's ridiculous!' Caitlin Clark sounds off on tech for clapping. ## Shams breaks down the Giannis trade to the Heat. * ## Where do Celtics turn after missing out on Giannis? * ## Why Richard Jefferson likes the Bucks' haul in the Giannis trade.",
-      "published_at": "Tue, 23 Jun 2026 18:57:26 GMT",
-      "collected_at": "2026-06-24 04:48:30",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導足球明星梅西、NFL及NBA相關體育資訊，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 95,
-    "report_date": "2026-06-26",
-    "total_articles": 12,
+    "id": 96,
+    "report_date": "2026-06-27",
+    "total_articles": 9,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 12,
-    "daily_summary": "今日搜集到的新聞中，並未包含任何關於華語流行天王周杰倫的報導或焦點事件。新聞主要聚焦於其他國際娛樂、體育、科技及商業領域的動態，例如美國饒舌歌手Jay-Z的專輯紀念、個人形象及法律事務，還有NBA選秀、名人時尚活動、電影首映、音樂節演出、科技產品更新等。總體而言，今日並無周杰倫相關的公開新聞被報導。",
-    "key_events": [
-      "無周杰倫新聞",
-      "未有相關報導",
-      "今日無焦點"
-    ],
-    "created_at": "2026-06-26 04:53:12"
+    "neutral_count": 9,
+    "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語天王周杰倫的相關報導。主要焦點集中在西方娛樂圈，包括Jay-Z的專輯三十週年慶祝活動、其家庭成員的動態，以及Britney Spears的兒子們首次登上巴黎時裝週伸展台等重要事件。其他報導則涵蓋了多位歐美流行歌手與影視名人的最新消息。",
+    "key_events": "今日無相關報導\n今日無相關報導\n今日無相關報導",
+    "created_at": "2026-06-27 04:37:50"
   },
   "recentReports": [
+    {
+      "id": 96,
+      "report_date": "2026-06-27",
+      "total_articles": 9,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 9,
+      "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語天王周杰倫的相關報導。主要焦點集中在西方娛樂圈，包括Jay-Z的專輯三十週年慶祝活動、其家庭成員的動態，以及Britney Spears的兒子們首次登上巴黎時裝週伸展台等重要事件。其他報導則涵蓋了多位歐美流行歌手與影視名人的最新消息。",
+      "key_events": "今日無相關報導\n今日無相關報導\n今日無相關報導",
+      "created_at": "2026-06-27 04:37:50"
+    },
     {
       "id": 95,
       "report_date": "2026-06-26",
@@ -657,21 +664,6 @@
         "未有焦點事件"
       ],
       "created_at": "2026-06-21 05:28:19"
-    },
-    {
-      "id": 89,
-      "report_date": "2026-06-20",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日搜集的新聞中，未發現與周杰倫相關的報導。所有新聞主要聚焦於NBA球星動態、音樂界傳記電影及新單曲發布，以及其他娛樂人物的最新消息。",
-      "key_events": [
-        "無周杰倫新聞",
-        "焦點分散",
-        "未有相關報導"
-      ],
-      "created_at": "2026-06-20 04:55:04"
     }
   ]
 }
