@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
+    "total": 8,
     "positive": 0,
     "negative": 0,
-    "neutral": 6
+    "neutral": 8
   },
   "allTimeStats": {
-    "total": 1890,
+    "total": 1898,
     "positive": 558,
     "negative": 65,
-    "neutral": 1267,
+    "neutral": 1275,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-15",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-16",
       "total": 14,
@@ -132,9 +124,129 @@
       "negative": 0,
       "neutral": 6,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-06-30",
+      "total": 8,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 8,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1891,
+      "title": "Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden - TMZ",
+      "link": "https://www.tmz.com/2026/06/23/sean-preston-heading-to-europe-before-paris-fashion-week-job/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden. ## Britney Spears' Sons Jet Off To Europe For Paris Fashion Week Gig. **Britney Spears**' eldest son, **Sean Preston Federline**, has taken off for Europe ahead of a major fashion moment with his younger brother ... The pop star's son was spotted departing Los Angeles last week after purchasing a one-way ticket, keeping a low profile as he made his way out of town in advance of his upcoming gig at Paris Fashion Week. Sean has been vacationing with friends in Zurich, Switzerland, before he reunites with his brother, **Jayden Federline**, in Paris. We're told the brothers are set to walk the runway at Paris Fashion Week together, marking a rare public appearance for Britney's sons and one of their biggest ventures into the fashion world yet. Video: Britney Spears' Son Jayden James Steps Out at Dior's Fashion Show in L.A. Jayden's already been making moves in the fashion world.",
+      "published_at": "Tue, 23 Jun 2026 19:30:49 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了布蘭妮的兒子們將前往歐洲參加巴黎時裝週，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1892,
+      "title": "Kanye West ‘desperately seeking relevance’ with lavish Versailles birthday bash - Sky News Australia",
+      "link": "https://www.skynews.com.au/opinion/kanye-west-desperately-seeking-relevance-with-lavish-versailles-birthday-bash/video/3adcec534d67b2fa534911cf8584b8d8",
+      "source": "Tavily (www.skynews.com.au)",
+      "snippet": "This is a modal window. Escape will cancel and close the window. This modal can be closed by pressing the Escape key or activating the close button. ‘Kinsey Schofield Unfiltered’ host Kinsey Schofield claims Kanye West is “desperately seeking relevance” after hosting a nearly $400,000 masquerade-themed birthday party at the Palace of Versailles. “I think it’s Kanye desperately seeking relevance again … he seems convinced that bigger, louder and more expensive automatically means more relevant; I don’t think that’s true anymore,” Ms Schofield told Sky News host James Morrow. “There was a time when he dominated the culture because he is a very talented musician, but today he typically dominates headlines because of this spectacle. “The fascination has faded for a lot of people, and a lavish birthday party at Versailles doesn’t erase the damage he’s done.”. He will revive us after 2 days, on the 3rd day he will raise us up.BroRando |.",
+      "published_at": "Mon, 29 Jun 2026 11:16:00 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於Kanye West在凡爾賽宮舉辦生日派對，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1893,
+      "title": "Is New York's best new pizzeria Tokyo-style? - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/is-new-yorks-best-new-pizzeria-tokyo-style/6519238/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "New York Live 3 hours ago. # Is New York's best new pizzeria Tokyo-style? Lauren Scala heads to the East Village for a taste of the Tokyo-inspired pizza of Pizza Studio Tamaki. ## Local. #### Laura Marano talks joining ‘The 25th Annual Putnam County Spelling Bee'. #### Want to grow your own kitchen garden? #### Meet the sisters behind a new coffee shop / bookstore in New Jersey. #### Jonathan Burke and Dava Huesca take us to ‘Cats: The Jellicle Ball'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Mon, 29 Jun 2026 16:39:55 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於紐約一家東京風格的比薩店及其他地方新聞，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1894,
+      "title": "Digital Banking Made Easy: The Best Apps and Features for Kids and Teens - CNET",
+      "link": "https://www.cnet.com/videos/digital-banking-made-easy-the-best-apps-and-features-for-kids-and-teens/",
+      "source": "Tavily (www.cnet.com)",
+      "snippet": "### Even if There's 'Still Nothing to Eat,' There Are Options Out There for Prime Day. Digital Banking Made Easy: The Best Apps and Features for Kids and Teens. What Is Signal and How Do You Use It? ### Apple Invites Is Here: Tips for Using Apple's Party Invitation App. The Galaxy S24 Ultra With Samsung DeX Replaced My Laptop. Apple Invites Is Here: Tips for Using Apple's Party Invitation App. ### What I Learned Using Apple's Journal App. New iPhone Journaling App May Be Coming Soon. What I Learned Using Apple's Journal App. ### Google Pay: How to Set Up and Use. How to avoid QR code scams. Google Pay: How to Set Up and Use. ### Fox to Acquire Roku for $22 Billion, Apple Products Are Getting More Expensive, and the World Cup. Even if There's 'Still Nothing to Eat,' There Are Options Out There for Prime Day.",
+      "published_at": "Mon, 29 Jun 2026 12:00:51 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要探討數位銀行、科技產品與應用程式等主題，並未提及周杰倫相關資訊。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1895,
+      "title": "Jelly Roll Posts Jaw-Dropping Video of His 200-lb. Weight Loss - The Daily Beast",
+      "link": "https://thelooker.thedailybeast.com/jelly-roll-posts-jaw-dropping-video-of-his-200-lb-weight-loss/",
+      "source": "Tavily (thelooker.thedailybeast.com)",
+      "snippet": "The Grammy-winning musician used the video to reflect on his shocking physical transformation. Jelly, whose real name is Jason DeFord, started the video with an old clip of himself from before his weight loss, walking with his head down in the pouring rain, looking exhausted. The video then cut to clips of his December 10 appearance on *The Joe Rogan Experience* podcast. “Every time I said I was going to lose the weight, Joe, I lied to myself,” he tells Rogan in the clip. “I would tell myself I’m going to do this. I’m going to go do that. And I wake up, and I’m like, ‘s--t.’”. I told y’all I was going to go do this walk, and I’m going to do this walk,’” he said. The video then showed more clips of Jelly’s first days walking in the rain before cutting to a present-day video of him running in the rain.",
+      "published_at": "Wed, 24 Jun 2026 19:36:02 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導美國音樂人Jelly Roll的體重減輕過程，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1896,
+      "title": "Bow Wow: Tiny Desk Concert - NPR",
+      "link": "https://www.npr.org/2026/06/29/g-s1-126163/bow-wow-tiny-desk-concert",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Bow Wow: Tiny Desk Concert**  **Bow Wow's transformation from child star to well-rounded entertainer serves as a blueprint for longevity. ## **Tiny Desk**. # Bow Wow: Tiny Desk Concert. *This Black Music Month, Tiny Desk celebrates the undeniable legacy of BET. His transformation from child star to well-rounded entertainer serves as a blueprint for longevity, and honoring the impact and legacy of BET without him would have been incomplete. It's a loyalty that Bow Wow earned, and he basks in that glory as he blazes through his Tiny Desk concert full of back-to-back hits. The decades of dedication to his craft were evident in the cadence, stage presence and high-energy infused in performances of \"Shortie Like Mine,\" \"Fresh Azimiz\" and \"Let Me Hold You.\" Bow Wow also makes sure to include \"Bounce with Me (from the motion picture *Big Momma's House*),\" the song that started it all.",
+      "published_at": "Mon, 29 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於美國藝人Bow Wow的Tiny Desk演唱會，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1897,
+      "title": "Stars wear very little on racy red carpet - News.com.au",
+      "link": "https://www.news.com.au/entertainment/celebrity-style/red-carpet/stars-wear-very-little-on-racy-2026-bet-awards-red-carpet/image-gallery/bf52e077170843e250a3627d4296daad",
+      "source": "Tavily (www.news.com.au)",
+      "snippet": "# Stars wear very little on racy 2026 BET Awards red carpet. The annual BET Awards celebrate Black excellence and culture, but these stars know a thing or two about fashion too …. Keke Palmer knows how to back it up on the red carpet as she arrives at the BET Awards on June 28 at the Peacock Theater in Los Angeles. Picture: Bennett Raglin/Getty Images for BET. Picture: Leon Bennett/Getty Images for BET. Jaafar Jackson, who plays his uncle Michael Jackson in the new biopic Michael, reunited with co-star Nia Long on the red carpet. Rapper Latto made quite the fashion statement on the red carpet in her sheer, corsetted gown. Thornton/Getty Images for BET. SZA and Doechii won the BET Her Award for their collaboration on Girl, Get Up. Picture: Kevin Winter/Getty Images. Cardi B performed a mash-up of her hits from her new album Am I The Drama?, and considering she arrived on stage on a motorbike with attached stripper pole, girlfriend knows how to bring the drama.",
+      "published_at": "Mon, 29 Jun 2026 04:31:00 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於2026年BET頒獎典禮的紅毯時尚與表演，內容並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1898,
+      "title": "Mrs. GREEN APPLE’s Two-Day ‘CEREMONY’ Show Celebrates Music With Fellow Artists and Audiences: Review - Billboard",
+      "link": "https://www.billboard.com/music/music-news/mrs-green-apple-ceremony-japan-review-1236283703/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Mrs. GREEN APPLE’s Two-Day ‘CEREMONY’ Show Celebrates Music With Fellow Artists and Audiences: Review. Mrs. GREEN APPLE closed both nights at K Arena Yokohama in Kanagawa, Japan. Mrs. GREEN APPLE presents CEREMONY — the new entertainment experience curated by the three-man band where fashion, music, and culture converge — unfolded over two days, at K Arena Yokohama in Kanagawa, Japan on June 10 and 11. ### Mrs. GREEN APPLE. That’s what I want to offer again, together with everyone in this room.” Those words became the guiding concept for both evenings. “Before an important match, I always listen to Mrs. GREEN APPLE’s songs.” It was a vivid reminder of just how powerfully music fuels even the world of competitive sport. That’s the CEREMONY we made.” For the finale, the three members of Mrs. GREEN APPLE stepped away from their microphones and called out in their own unamplified voices: “See you again at next year’s CEREMONY!” — and with that, two extraordinary evenings came to a close.",
+      "published_at": "Mon, 29 Jun 2026 17:48:04 GMT",
+      "collected_at": "2026-06-30 04:47:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導日本樂團Mrs. GREEN APPLE的演唱會，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1885,
       "title": "‘Michael’ Surpasses Oscar-Winner to Become Highest Grossing Biopic - Newsweek",
@@ -442,136 +554,39 @@
       "summary": "此新聞報導紐約慶祝饒舌歌手Jay-Z出道專輯《Reasonable Doubt》30週年，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1859,
-      "title": "Jeremy Lin on the Knicks' Championship, 'Linsanity' and life after the NBA - CNBC",
-      "link": "https://www.cnbc.com/video/2026/06/26/jeremy-lin-on-the-knicks-championship-linsanity-and-life-after-the-nba.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "Monday - Friday, 10:00 - 11:00 SIN/HK | 0400 - 05:00 CET. # Jeremy Lin on the Knicks' Championship, 'Linsanity' and life after the NBA. Jeremy Lin speaks exclusively to CNBC's Emily Tan at the sidelines of the 2026 NBA Rising Stars Invitational in Singapore.",
-      "published_at": "Fri, 26 Jun 2026 03:14:14 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於林書豪在NBA的經歷與生活，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1860,
-      "title": "2026 Hornets Draft Picks Press Conference - NBA.com",
-      "link": "https://www.nba.com/hornets/videos/2026-hornets-draft-picks-press-conference",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "+ Kon For Rookie of The Year. ## Reel Access. * ### Reel Access | Episode 7: Playing For More. * ### Reel Access | Laying The Foundation. * ### Reel Access 24-25 | Episode 5: Work Pays Dividends. * ### Reel Access 24-25 | Episode 4: Trade Winds. * ### Reel Access 24-25 | Episode 3: The Work Doesn’t Stop. * ### Reel Access 24-25 | Episode 2: Young Trio Emerging. * ### Reel Access 24-25 | Episode 1: Hive Mentality Starts Together. * ### Reel Access | Establishing Hornets DNA. * ### Reel Access | Episode 11: Ride The Movies. * ### Reel Access | Episode 8: The Trade Deadline. * ### Reel Access | Episode 7: Hornets Head West. * ### 2025 Charlotte Hornets Season of Giving Recap. * ### Heroes Gala 2025 Community Hero – Kim Henderson. * ### Heroes Gala 2025 The Males Place. * ### Recap | 2025 Day of Service.",
-      "published_at": "Thu, 25 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊與周杰倫無關，主要報導夏洛特黃蜂隊的相關新聞。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1861,
-      "title": "Post Market Wrap: June 25, 2026 - CNBC",
-      "link": "https://www.cnbc.com/video/2026/06/25/post-market-wrap-june-25-2026.html",
-      "source": "Tavily (www.cnbc.com)",
-      "snippet": "# News Update – Market Close. CNBC brings you fast, accurate, and actionable business news and market updates. Fed ought to take time to see how falling energy prices impacts inflation: Goldman's Robert Kaplan. Ariel Investments co-CEO John Rogers: AI craze will end the same way the internet bubble did. Marianne Lake's retirement from JPMorgan was a 'surprise' to many, says UBS' Erika Najarian. D.A. Davidson's Gil Luria breaks down three things happening with Apple. JPMorgan's Marianne Lake to retire, company names Doug Petno and Troy Rohrbaugh co-presidents.",
-      "published_at": "Thu, 25 Jun 2026 20:54:03 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導市場動態、經濟分析及企業人事變動，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1862,
-      "title": "The Best Prime Day Deals on Laptops, Monitors, and PC Accessories - Lifehacker",
-      "link": "https://lifehacker.com/tech/best-deals-on-laptops-monitors-pc-accessories-prime-day-2026",
-      "source": "Tavily (lifehacker.com)",
-      "snippet": "* View our Bluesky Page (Opens in a new tab). * View our Instagram Page (Opens in a new tab). * View on Facebook Page (Opens in a new tab). * View our Youtube Page (Opens in a new tab). * View our Twitter Page (Opens in a new tab). # The Best Prime Day Deals on Laptops, Monitors, and PC Accessories. Daniel is Lifehacker's Shopping Editor covering tech deals and reviewing TVs, headphones, speakers, and projectors. *Prime Day is June 23 to 26, and Lifehacker is sharing the best sales based on product reviews, comparisons, and price-tracking tools before it's over.*. * *Browse our editors’ picks* *for a curated list of our favorite sales on laptops, fitness tech, appliances, and more.*. ## The best Prime Day laptop deals. If you're interested in the new M5 MacBook, Amazon is offering a $150 discount on either size of the laptop. ## The best Prime Day monitor deals.",
-      "published_at": "Wed, 24 Jun 2026 22:00:00 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了Lifehacker網站上關於Prime Day筆記型電腦、螢幕和電腦配件的優惠資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1863,
-      "title": "‘Jackass: Best and Last’ premiere red carpet: Pedro Pascal, Paris Jackson, Johnny Knoxville and more - Page Six",
-      "link": "https://pagesix.com/2026/06/24/entertainment/jackass-best-and-last-premiere-red-carpet-pedro-pascal-paris-jackson-johnny-knoxville-and-more/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "#### SHOP NOW. Shop Prime Day like a star with deals on A-list beauty favorites: Crest, Charlotte Tilbury and more. # ‘Jackass: Best and Last’ premiere red carpet: Pedro Pascal, Paris Jackson, Johnny Knoxville and more. Published  June 24, 2026, 11:02 p.m. ET. One last ride with the Jackass crew. Paramount Pictures held it’s premiere for “Jackass: Best and Last” on June 24 in Los Angeles. Pedro Pascal, Paris Jackson, Johnny Knoxville, Steve-O, and more were in attendance. Scroll through to see all of the stars. ## ‘The Invite’ premiere red carpet: Seth Rogen, Olivia Wilde, Penélope Cruz and more.",
-      "published_at": "Thu, 25 Jun 2026 03:02:50 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了電影《Jackass: Best and Last》的首映會，並列舉了出席的好萊塢明星，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1864,
-      "title": "2010s pop star returns to Bay Area on first tour in 6 years - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/khalid-greek-theatre-berkeley-concert-22293531.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# 2010s pop star returns to Bay Area on first tour in 6 years. A decade after “Location” launched him to stardom, Khalid is looking back on the song that changed his life. The Grammy-nominated Texas singer, whose full name is Khalid Donnel Robinson, broke through in the late 2010s with a string of introspective pop hits. Last summer, the singer gave local fans a first listen to his fourth studio album, “After the Sun Goes Down,” during an afternoon performance at San Francisco’s Golden Gate Park one day after its release. On Friday, June 26, Khalid returns to the Bay Area, this time across the Bay Bridge for a concert at the Greek Theatre in Berkeley as part of his It’s Always Summer Somewhere Tour — his first in six years. After going TikTok viral, this rising pop star is coming to S.F. One of Oakland’s largest festivals returns with Grammy-winning headliner. She joined the Chronicle as a summer 2023 intern for the Datebook team.",
-      "published_at": "Sun, 21 Jun 2026 13:00:00 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於歌手Khalid在舊金山灣區舉辦演唱會，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1865,
-      "title": "PJ Morton performs at AFRAM for the first time - CBS News",
-      "link": "https://www.cbsnews.com/baltimore/video/pj-morton-performs-at-afram-for-the-first-time/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "* WJZ and the Baltimore Banner. # PJ Morton performs at AFRAM for the first time. PJ Morton talked about performing at AFRAM 50, his music and more during an interview with CBS Baltimore.",
-      "published_at": "Sun, 21 Jun 2026 22:07:00 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導PJ Morton首次在AFRAM音樂節演出，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1866,
-      "title": "Park Jihyun knocks down the triple - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49181520/park-jihyun-knocks-triple",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "## PGA Tour. ## World Cup. KPMG Women's PGA Championship. Video is not available in your country. # Park Jihyun knocks down the triple. ## Ecuador fans erupt at full-time vs. * ## Fowler: Brandon Aiyuk is lighting money on fire with every Instagram video. * ## Japan fans take over Tokyo's Shibuya Crossing after reaching knockouts. * ## Stephen A.: LeBron should return to Cavs if winning is priority. ### The Latest. * ## German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes. * ## Stephen A.: Ant and LaMelo make an 'elite backcourt' for Timberwolves. * ## 'Absolutely unacceptable!' Stephanie White livid over lack of protection for Caitlin Clark. * ## Mexico fans came ready with umbrellas to celebrate goal vs. ## Burley: Neymar looked sluggish on return for Brazil. * ## Fans in Rio celebrate Vinícius Jr.'s early goal vs. * ## Stephen A.: Lakers have to keep LeBron after signing Reaves.",
-      "published_at": "Fri, 26 Jun 2026 01:57:07 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "該新聞內容主要報導多項體育賽事及運動員相關資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 98,
-    "report_date": "2026-06-29",
-    "total_articles": 6,
+    "id": 99,
+    "report_date": "2026-06-30",
+    "total_articles": 8,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 6,
-    "daily_summary": "今日娛樂新聞中，並無關於華語樂壇天王周杰倫的最新動態或相關報導。所有搜集到的新聞主要聚焦於歐美流行音樂、影視作品、時尚活動及其他各界名人，如Jay-Z的專輯紀念、Britney Spears兒子的時尚週亮相等，周杰倫今日並未登上新聞版面。",
+    "neutral_count": 8,
+    "daily_summary": "今日新聞搜集中，未發現任何與周杰倫直接相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人、娛樂產業動態、科技產品或體育賽事等主題，顯示周杰倫今日並無公開活動或新聞曝光。",
     "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
+      "無周杰倫新聞",
+      "未有相關報導",
+      "無焦點事件"
     ],
-    "created_at": "2026-06-29 05:15:53"
+    "created_at": "2026-06-30 04:48:13"
   },
   "recentReports": [
+    {
+      "id": 99,
+      "report_date": "2026-06-30",
+      "total_articles": 8,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 8,
+      "daily_summary": "今日新聞搜集中，未發現任何與周杰倫直接相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人、娛樂產業動態、科技產品或體育賽事等主題，顯示周杰倫今日並無公開活動或新聞曝光。",
+      "key_events": [
+        "無周杰倫新聞",
+        "未有相關報導",
+        "無焦點事件"
+      ],
+      "created_at": "2026-06-30 04:48:13"
+    },
     {
       "id": 98,
       "report_date": "2026-06-29",
@@ -657,21 +672,6 @@
         "無周杰倫報導"
       ],
       "created_at": "2026-06-24 04:49:05"
-    },
-    {
-      "id": 92,
-      "report_date": "2026-06-23",
-      "total_articles": 13,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 13,
-      "daily_summary": "今日搜集的新聞中，未發現與周杰倫直接相關的報導。主要娛樂焦點集中在其他歐美藝人動態，例如Jay-Z家族新聞、名人父親節慶祝，以及其他歌手和影視界的重要消息。",
-      "key_events": [
-        "無周杰倫相關報導",
-        "焦點為歐美藝人",
-        "Jay-Z家族動態"
-      ],
-      "created_at": "2026-06-23 04:44:17"
     }
   ]
 }
