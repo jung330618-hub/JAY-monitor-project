@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
+    "total": 3,
     "positive": 0,
     "negative": 0,
-    "neutral": 8
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 1898,
+    "total": 1901,
     "positive": 558,
     "negative": 65,
-    "neutral": 1275,
+    "neutral": 1278,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-16",
-      "total": 14,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 14,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-17",
       "total": 9,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 8,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-01",
+      "total": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1899,
+      "title": "Michael Japan Box Office: King Of Pop's Biopic Becomes 2026's 3rd Highest-Grossing Hollywood Release - Koimoi",
+      "link": "https://www.koimoi.com/box-office/michael-japan-box-office-king-of-pops-biopic-becomes-2026s-3rd-highest-grossing-hollywood-release/",
+      "source": "Tavily (www.koimoi.com)",
+      "snippet": "# Michael Japan Box Office: King Of Pop’s Biopic Becomes 2026’s 3rd Highest-Grossing Hollywood Release. Michael might have slowed down at the North American box office, but it is still hot in Japan. The movie is on track to earn strong numbers at the Japan box office in its third weekend. The King of Pop’s biopic has become one of the biggest Hollywood releases of the year at the box office in Japan. This strong hold at the box office in Japan and Russia could propel it past the **$1 billion** milestone worldwide. The music biopic’s strong run in Russia and Japan is also adding to its worldwide gross. #### **Michael emerges as the 3rd highest-grossing Hollywood release of the year at the box office in Japan**. The music biopic dropped by **27.5%** from last Saturday, and with that, the movie’s box office collection in Japan has hit **$23.1 million**.",
+      "published_at": "Sun, 28 Jun 2026 12:35:28 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可·傑克森傳記電影在日本的票房表現，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1900,
+      "title": "Adult DVD announce debut self titled album - Northern Transmissions",
+      "link": "https://northerntransmissions.com/adult-dvd-announce-debut-self-titled-album/",
+      "source": "Tavily (northerntransmissions.com)",
+      "snippet": "Adult DVD will release their self-titled debut album on September 25th on Fat Possum Records. Along with the news, the UK band are sharing new single “Cowboy On Aisle Three.” Adult DVD have had a busy year, appearing at Brighton’s The Great Escape and SXSW in Austin. A relentless touring schedule in 2025 saw them hone their status as festival headliners in waiting, picking up a global army of new fans and playing to huge crowds at Glastonbury, Green Man, End Of The Road and more. On the new album,Hanson and Lonsdale continue to take a screenwriter’s approach to songwriting, filling their lyrics with stories pulled from the outskirts of society yet painting a vivid and comic picture of modern Britain. Produced by the band at The Nave Studios Leeds, the general theme of the album is to let go and take life a little less seriously. Speaking on the new single, the band’s frontman Harry Hanson says: “I came up with the idea when I was in Lidl.",
+      "published_at": "Tue, 30 Jun 2026 21:49:07 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了樂團Adult DVD即將發行首張同名專輯，並分享了新單曲「Cowboy On Aisle Three」。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1901,
+      "title": "Jay-Z Brings ‘4:44’ Bonus Tracks to Streaming Services on Album’s 9th Anniversary - Billboard Canada",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/jay-z-4-44-bonus-tracks-streaming-services-1236284766/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. Jay-Z is seen before the FIFA World Cup 2026 Group E match between Cote D'Ivoire and Ecuador at Philadelphia Stadium on June 14, 2026, in Philadelphia. With *4:44* celebrating its ninth anniversary on Tuesday (June 30), Jay-Z surprised fans by making three bonus tracks from the album available on all streaming platforms. The trio of songs — which feature collaborations with James Blake and Hov’s daughter Blue Ivy — were previously available on Tidal. Blue Ivy assists on “Blue’s Freestyle / We Family” and Blake returns for “ManyFacedGod,” which finds Jay addressing his union with Beyoncé, a prominent theme across *4:44*. Jay-Z released *4:44* on vinyl for the first time packaged as part of the JAŸ-Z: 30th Anniversary Collector’s Crate, which contains Hov’s 13 solo studio LPs and is available for $1,500 on Roc Nation’s website.",
+      "published_at": "Tue, 30 Jun 2026 18:23:55 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手Jay-Z的專輯《4:44》發行九週年，並將三首Bonus曲目上架至所有串流平台，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1891,
       "title": "Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden - TMZ",
@@ -512,66 +554,39 @@
       "summary": "此新聞報導關於小號手Keyon Harrold在卡內基音樂廳舉辦一場向爵士傳奇Miles Davis致敬的音樂會，內容與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1877,
-      "title": "How Jay-Z Changed Rap With ‘Reasonable Doubt’ - Defector",
-      "link": "https://defector.com/how-jay-z-changed-rap-with-reasonable-doubt",
-      "source": "Tavily (defector.com)",
-      "snippet": "# How Jay-Z Changed Rap With ‘Reasonable Doubt’. If you went back in time to New York in the early '90s, not a soul would believe you if you told them Jay-Z would end up where he is today. Jay-Z's relatively delayed breakthrough made him something of a late bloomer, even in an era when stars weren't minted as quickly and early as they are now. It took him a while to figure out how to be himself on wax. It was his big homie Jaz-O who put him on, and the two of them had a Das EFX, Fu-Schnickens fast-rapping style that was as technically impressive as it was uninteresting. Instead it's the Jay we're a lot more familiar with: not just the hustler, but the boss. Aside from the rapping itself, a big part of why *Reasonable Doubt* resonates so much still is that it was what we would call today an exercise in personal branding.",
-      "published_at": "Fri, 26 Jun 2026 18:06:34 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊關於美國饒舌歌手Jay-Z的音樂專輯《Reasonable Doubt》及其對饒舌音樂的影響，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1878,
-      "title": "Houston Astros vs. Detroit Tigers: Game Highlights - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49192293/game-highlights",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "Video is not available in your country. We are sorry, this video is no longer available. # Houston Astros vs. ### The Latest. ## Justin Bieber announces Maple Leafs select Gavin McKenna with No. 1 pick. ## 'Whoa!' John Buccigross stunned by Pavel Dorofeyev trade to Rangers. ## 'I'm only wearing my dad hat tonight': Manny Malhotra reacts to Canucks drafting son, Caleb. ## Justin Bieber says being at the NHL draft 'a dream'. ## French fans in Paris celebrate as Dembélé hits hat trick in 32 minutes. ## Fans in Paris celebrate as Dembele gives France the lead against Norway. ## Albert Simien fakes out LSU, Ole Miss before committing to Notre Dame. ## Stephen A.: Jaylen Brown to Pistons 'would be something special'. isn't concerned that Lakers haven't made offer to LeBron yet. * ## Stephen A.: Giannis to Miami more impactful move than Melo to Minnesota.",
-      "published_at": "Sat, 27 Jun 2026 01:10:21 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞內容主要關於美國體育賽事及其他名人，並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1858,
-      "title": "30 years of ‘Reasonable Doubt': New York celebrates Jay-Z's debut album - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/news/30-years-of-reasonable-doubt-new-york-celebrates-jay-zs-debut-album/6518303/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "Streaming News 24/7 America250 World Cup FIFA Trump Administration Immigration New York Live Send Photos/Videos Open House. ### News. # 30 years of ‘Reasonable Doubt': New York celebrates Jay-Z's debut album. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards. #### Follow Us.",
-      "published_at": "Thu, 25 Jun 2026 22:36:56 GMT",
-      "collected_at": "2026-06-26 04:52:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導紐約慶祝饒舌歌手Jay-Z出道專輯《Reasonable Doubt》30週年，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 99,
-    "report_date": "2026-06-30",
-    "total_articles": 8,
+    "id": 100,
+    "report_date": "2026-07-01",
+    "total_articles": 3,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 8,
-    "daily_summary": "今日新聞搜集中，未發現任何與周杰倫直接相關的報導或焦點事件。所有新聞皆圍繞其他國際藝人、娛樂產業動態、科技產品或體育賽事等主題，顯示周杰倫今日並無公開活動或新聞曝光。",
+    "neutral_count": 3,
+    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。所有新聞主要圍繞其他歐美藝人、電影、音樂專輯發行、時尚活動及科技產品等多元主題。因此，今天沒有關於周杰倫的特別焦點或重大事件可供摘要。",
     "key_events": [
-      "無周杰倫新聞",
-      "未有相關報導",
-      "無焦點事件"
+      "無周杰倫相關事件",
+      "無周杰倫相關事件",
+      "無周杰倫相關事件"
     ],
-    "created_at": "2026-06-30 04:48:13"
+    "created_at": "2026-07-01 05:08:29"
   },
   "recentReports": [
+    {
+      "id": 100,
+      "report_date": "2026-07-01",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。所有新聞主要圍繞其他歐美藝人、電影、音樂專輯發行、時尚活動及科技產品等多元主題。因此，今天沒有關於周杰倫的特別焦點或重大事件可供摘要。",
+      "key_events": [
+        "無周杰倫相關事件",
+        "無周杰倫相關事件",
+        "無周杰倫相關事件"
+      ],
+      "created_at": "2026-07-01 05:08:29"
+    },
     {
       "id": 99,
       "report_date": "2026-06-30",
@@ -657,21 +672,6 @@
         "今日無焦點事件"
       ],
       "created_at": "2026-06-25 04:48:32"
-    },
-    {
-      "id": 93,
-      "report_date": "2026-06-24",
-      "total_articles": 10,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 10,
-      "daily_summary": "今日新聞中未提及任何關於周杰倫的相關報導。主要娛樂焦點包括Jay-Z的髮型變化、碧昂絲與Jay-Z的家庭生活，以及海莉·比伯的廣告活動和傑森·摩莫亞出席首映。其他新聞則涵蓋體育、科技與地方資訊，周杰倫並非今日報導重點。",
-      "key_events": [
-        "無周杰倫報導",
-        "無周杰倫報導",
-        "無周杰倫報導"
-      ],
-      "created_at": "2026-06-24 04:49:05"
     }
   ]
 }

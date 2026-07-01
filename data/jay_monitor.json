@@ -26571,6 +26571,48 @@
       "summary": "此新聞報導日本樂團Mrs. GREEN APPLE的演唱會，內容與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1899,
+      "title": "Michael Japan Box Office: King Of Pop's Biopic Becomes 2026's 3rd Highest-Grossing Hollywood Release - Koimoi",
+      "link": "https://www.koimoi.com/box-office/michael-japan-box-office-king-of-pops-biopic-becomes-2026s-3rd-highest-grossing-hollywood-release/",
+      "source": "Tavily (www.koimoi.com)",
+      "snippet": "# Michael Japan Box Office: King Of Pop’s Biopic Becomes 2026’s 3rd Highest-Grossing Hollywood Release. Michael might have slowed down at the North American box office, but it is still hot in Japan. The movie is on track to earn strong numbers at the Japan box office in its third weekend. The King of Pop’s biopic has become one of the biggest Hollywood releases of the year at the box office in Japan. This strong hold at the box office in Japan and Russia could propel it past the **$1 billion** milestone worldwide. The music biopic’s strong run in Russia and Japan is also adding to its worldwide gross. #### **Michael emerges as the 3rd highest-grossing Hollywood release of the year at the box office in Japan**. The music biopic dropped by **27.5%** from last Saturday, and with that, the movie’s box office collection in Japan has hit **$23.1 million**.",
+      "published_at": "Sun, 28 Jun 2026 12:35:28 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於麥可·傑克森傳記電影在日本的票房表現，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1900,
+      "title": "Adult DVD announce debut self titled album - Northern Transmissions",
+      "link": "https://northerntransmissions.com/adult-dvd-announce-debut-self-titled-album/",
+      "source": "Tavily (northerntransmissions.com)",
+      "snippet": "Adult DVD will release their self-titled debut album on September 25th on Fat Possum Records. Along with the news, the UK band are sharing new single “Cowboy On Aisle Three.” Adult DVD have had a busy year, appearing at Brighton’s The Great Escape and SXSW in Austin. A relentless touring schedule in 2025 saw them hone their status as festival headliners in waiting, picking up a global army of new fans and playing to huge crowds at Glastonbury, Green Man, End Of The Road and more. On the new album,Hanson and Lonsdale continue to take a screenwriter’s approach to songwriting, filling their lyrics with stories pulled from the outskirts of society yet painting a vivid and comic picture of modern Britain. Produced by the band at The Nave Studios Leeds, the general theme of the album is to let go and take life a little less seriously. Speaking on the new single, the band’s frontman Harry Hanson says: “I came up with the idea when I was in Lidl.",
+      "published_at": "Tue, 30 Jun 2026 21:49:07 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了樂團Adult DVD即將發行首張同名專輯，並分享了新單曲「Cowboy On Aisle Three」。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1901,
+      "title": "Jay-Z Brings ‘4:44’ Bonus Tracks to Streaming Services on Album’s 9th Anniversary - Billboard Canada",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/jay-z-4-44-bonus-tracks-streaming-services-1236284766/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. Jay-Z is seen before the FIFA World Cup 2026 Group E match between Cote D'Ivoire and Ecuador at Philadelphia Stadium on June 14, 2026, in Philadelphia. With *4:44* celebrating its ninth anniversary on Tuesday (June 30), Jay-Z surprised fans by making three bonus tracks from the album available on all streaming platforms. The trio of songs — which feature collaborations with James Blake and Hov’s daughter Blue Ivy — were previously available on Tidal. Blue Ivy assists on “Blue’s Freestyle / We Family” and Blake returns for “ManyFacedGod,” which finds Jay addressing his union with Beyoncé, a prominent theme across *4:44*. Jay-Z released *4:44* on vinyl for the first time packaged as part of the JAŸ-Z: 30th Anniversary Collector’s Crate, which contains Hov’s 13 solo studio LPs and is available for $1,500 on Roc Nation’s website.",
+      "published_at": "Tue, 30 Jun 2026 18:23:55 GMT",
+      "collected_at": "2026-07-01 05:08:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手Jay-Z的專輯《4:44》發行九週年，並將三首Bonus曲目上架至所有串流平台，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -27988,6 +28030,21 @@
         "無焦點事件"
       ],
       "created_at": "2026-06-30 04:48:13"
+    },
+    {
+      "id": 100,
+      "report_date": "2026-07-01",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。所有新聞主要圍繞其他歐美藝人、電影、音樂專輯發行、時尚活動及科技產品等多元主題。因此，今天沒有關於周杰倫的特別焦點或重大事件可供摘要。",
+      "key_events": [
+        "無周杰倫相關事件",
+        "無周杰倫相關事件",
+        "無周杰倫相關事件"
+      ],
+      "created_at": "2026-07-01 05:08:29"
     }
   ],
   "notification_logs": [
@@ -29460,11 +29517,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-06-30 04:48:14"
+    },
+    {
+      "id": 211,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-01 05:08:29"
+    },
+    {
+      "id": 212,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-01 05:08:31"
     }
   ],
   "_meta": {
-    "nextArticleId": 1899,
-    "nextReportId": 100,
-    "nextLogId": 211
+    "nextArticleId": 1902,
+    "nextReportId": 101,
+    "nextLogId": 213
   }
 }
