@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 3
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1901,
+    "total": 1908,
     "positive": 558,
     "negative": 65,
-    "neutral": 1278,
+    "neutral": 1285,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-17",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-18",
       "total": 11,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-02",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1902,
+      "title": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC",
+      "link": "https://www.bbc.com/news/articles/cy49gpygn2vo",
+      "source": "Tavily (www.bbc.com)",
+      "snippet": "# Michael Jackson movie becomes highest-grossing biopic of all time. **The recently released Michael Jackson movie has overtaken Oppenheimer as the highest-grossing biopic of all time, after taking $977m (£739m) at the worldwide box office.**. But it has now also surpassed director Christopher Nolan's 2023 film about the American theoretical physicist J Robert Oppenheimer, which previously held the box office record for any film based on a real-life figure. Directed by Antoine Fuqua, Michael tells the story of the late US singer's journey from being a child star in family group the Jackson 5, to becoming the solo King of Pop. Jaafar Jackson, the singer's real-life nephew, plays the titular role, with Colman Domingo and Nia Long portraying his parents. Michael has clearly been a huge hit with the performer's many fans around the world, for its study of his childhood and recreations of famous concert performances and music videos.",
+      "published_at": "Mon, 29 Jun 2026 09:55:37 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "麥可傑克森傳記電影《Michael》超越《奧本海默》，成為全球票房最高的傳記電影。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1903,
+      "title": "Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ",
+      "link": "https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Travis Kelce Spotted On A Run Ahead of Wedding to Taylor Swift. # Chris Brown Ordered to Pay $13M Over Dog Attack. ## Chris Brown Ex-Housekeeper Awarded $13 Million Over Vicious Dog Attack. **Chris Brown** is on the hook for a massive judgement to his ex-housekeeper after a jury found him liable for her injuries from a dog attack on his property, TMZ has learned. A jury came down with the decision on Tuesday after a lengthy trial between Chris and **Maria Avila**. Maria **sued** Chris claiming he was negligent in allowing the large dog to roam his backyard … which is where she claims she was mauled while taking out the trash. In his initial response to the lawsuit, Chris argued Maria provoked the dog and caused her own injuries. In court, Maria said she was covered in blood after the attack. A member of his team eventually made the call. Maria was seeking $90 million in damages from the singer.",
+      "published_at": "Wed, 01 Jul 2026 02:02:03 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1904,
+      "title": "Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/675471",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "# Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz. The actor says he's been living with Alzheimer's for three years. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Wed, 01 Jul 2026 23:30:00 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1905,
+      "title": "Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge - Page Six",
+      "link": "https://pagesix.com/2026/06/25/hollywood/inside-the-wild-black-tie-jackass-premiere/",
+      "source": "Tavily (pagesix.com)",
+      "snippet": "# Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge. The “Jackass” crew bid farewell to their chaotic franchise at the premiere of their final film on Wednesday night. The Paramount Theater on the studio’s Hollywood lot was decked out for the black-tie optional “Jackass: Best and Last” premiere, with candelabras, elegant floral arrangements and even a grand piano — where a tatted guy in tighty whities and angel wings played classical interpretations of hits by **Zara Larsson**, **Rihanna** and more. “Jackass: Best and Last” is a love letter to stupidity, and played exceptionally well to the packed crowd with lots of groaning, gagging, eye-covering, wincing, and of course, laughing, in the auditorium. The cast — including Knoxville, **Steve-O**, **Ehren “Danger” McGhehey** (plus his tuxedo-clad dog, **Bugsy**), and **Jason “Wee Man” Acuña** — gathered at the heart of the party to watch a show-stopping drone show. The premiere party featured a wild drone show.",
+      "published_at": "Thu, 25 Jun 2026 14:31:31 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge - Page Six",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1906,
+      "title": "Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology - BioSpace",
+      "link": "https://www.biospace.com/press-releases/childrens-hospital-of-philadelphia-appoints-new-division-chief-of-hematology",
+      "source": "Tavily (www.biospace.com)",
+      "snippet": "# Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology. PHILADELPHIA, July 1, 2026 /PRNewswire/ -- Children's Hospital of Philadelphia (CHOP) is proud to announce the selection of Stella T. Chou, MD, as its new Chief of the Division of Hematology. Dr. Chou served as interim chief since August 2025 and will officially assume the role July 1, leading one of the nation's largest and highly ranked pediatric hematology programs. As a physician scientist, Dr. Chou has dedicated her career to advancing innovative research in sickle cell disease, transfusion medicine and blood cell development. \"I am honored to lead our outstanding Division of Hematology,\" said Dr. Chou, who also serves as Professor of Pediatrics at the Perelman School of Medicine at the University of Pennsylvania and Chief of the Division of Transfusion Medicine at Children's Hospital of Philadelphia. Orange, MD, PhD, Pediatrician-in-Chief and Chair of the Department of Pediatrics at Children's Hospital of Philadelphia. **About Children's Hospital of Philadelphia:**.",
+      "published_at": "Wed, 01 Jul 2026 14:13:51 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology - BioSpace",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1907,
+      "title": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - NPR",
+      "link": "https://www.npr.org/2026/06/26/nx-s1-5869532/jazz-night-in-america-keyon-harrold-miles-davis-carnegie-hall",
+      "source": "Tavily (www.npr.org)",
+      "snippet": "**Miles Davis at 100: Keyon Harrold at Carnegie Hall** **To mark the occasion of Miles Davis' centennial, trumpeter Keyon Harrold put on a concert at Carnegie Hall and shared a candid conversation about the legend with Christian McBride.**. ## **Jazz Night In America**. # Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. #### Working Headline:Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. To mark the occasion, trumpeter Keyon Harrold brought his band to Carnegie Hall's Zankel Hall for a night of tribute and celebration. In this episode of *Jazz Night in America,* we'll feature a conversation about Davis between Harrold and Christian McBride, and listen to highlights from the concert at Carnegie Hall. ### Keyon Harrold puts on a Miles Davis centennial concert at Carnegie Hall. **Setlist from Keyon Harrold and his group at Carnegie Hall**:.",
+      "published_at": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - NPR",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1908,
+      "title": "The Best Dressed Stars From the 2026 BET Awards - Vogue",
+      "link": "https://www.vogue.com/slideshow/best-dressed-stars-2026-bet-awards",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# The Best Dressed Stars From the 2026 BET Awards. Last night, the 2026 BET Awards took place at the Peacock Theater in Los Angeles, California—and what a splashy fashion affair it was. After all, half the fun of the BET Awards is the glamorous style serves, no? A-listers who walked the step and repeat in style included nominees Teyana Taylor and Doechii, as well as performers such as Lauryn Hill, Cardi B, and Kehlani. The fashion M.O. for the night? As for some of the snazzy gentlemen of the evening, meanwhile, *Michael* star Jaafar Jackson looked sleek in his silky Valentino shawl jacket—a fitting style for the current high-fashion pajama trend. * Listen to *The Run-Through with Vogue*, a weekly podcast featuring the most exciting stories and hot takes from the worlds of culture, politics, sports and–of course–fashion. Christian Allaire is the Senior Fashion and Style Writer at *Vogue*, where he covers celebrity style, red carpet fashion, trends, emerging designers, and more.",
+      "published_at": "Mon, 29 Jun 2026 14:57:51 GMT",
+      "collected_at": "2026-07-02 04:43:21",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "The Best Dressed Stars From the 2026 BET Awards - Vogue",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1899,
       "title": "Michael Japan Box Office: King Of Pop's Biopic Becomes 2026's 3rd Highest-Grossing Hollywood Release - Koimoi",
@@ -456,122 +554,31 @@
       "summary": "此新聞報導關於歌手Charli XCX發行新歌「Wink Wink」及其專輯資訊，內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1870,
-      "title": "Taylor Swift's Future Father in Law Seemingly Hard Launches GF, Weeks Before Son's Wedding - TMZ",
-      "link": "https://www.tmz.com/2026/06/21/taylor-swift-future-father-in-law-ed-kelce-hard-launches-girlfriend/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Travis Kelce Dines at Los Angeles Bar Amid Taylor Swift's Potential Bachelorette Party. # Taylor Swift's Future Father in Law Seemingly Hard Launches GF, Weeks Before Son's Wedding. ## Taylor Swift Future Pop-in-Law Hard Launches Potential GF ... Looks like romance is in the air beyond just **Taylor Swift** and **Travis Kelce**, 'cause her soon-to-be father-in-law **Ed Kelce**, appears to have made things social media official with a special woman in his life, weeks before his son's high-profile wedding. The post marks one of Ed's most public displays of affection on social media and has fans taking notice, especially as interest in the Kelce family remains at an all-time high. Video: Taylor Swift's Rhode Island Mansion Buzzing with Pre-Wedding Activity. and Ed's relationship update is generating its own wave of buzz with many of the comments connecting his charm with Travis' as well as pointing out his location amid Taylor's **suspected bachelorette party** in Rhode Island this weekend.",
-      "published_at": "Sun, 21 Jun 2026 13:53:36 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於泰勒絲與特拉維斯·凱爾斯家族的動態，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1871,
-      "title": "Britney Spears' Sons Make Paris Fashion Week Runway Debut - TMZ",
-      "link": "https://www.tmz.com/2026/06/26/britney-spears-sons-make-paris-fashion-week-runway-debut/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Britney Spears' Sons Make Paris Fashion Week Runway Debut. ## Britney Spears' Sons Gimme More Runway Walks. **Britney Spears**' sons, **Sean Preston** and **Jayden Federline**, are struttin' their stuff on the runway for Paris Fashion Week for the first time ... Sean Preston's looking tall, dark and handsome in a shiny black suit jacket ... accompanied by a black button-down, black tie, and a pair of blue jeans. looking dressed up for the summer, and totally relaxed despite her sons' runway debut ... and judging by how confident Sean and Jayden seemed in Paris, she had absolutely every right to be! #### Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden. #### Britney Spears' Son Jayden James Steps Out at Dior's Fashion Show in L.A. #### Britney Spears' Son Jayden Stays Quiet About Mom's Post-Rehab Life. Britney Spears   Jayden James   Sean Preston   Celebrity News   Musicians   Fashion Week   Fashion   celebrity kids.",
-      "published_at": "Fri, 26 Jun 2026 22:29:17 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於布蘭妮史皮爾斯（Britney Spears）的兒子們首次在巴黎時裝週走秀，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1872,
-      "title": "Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now - Billboard Canada",
-      "link": "https://ca.billboard.com/music/pop/katy-perry-new-song-watch-it-burn-here-listen-1236281454/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "About UsPrivacy PolicyTerms and ConditionsCareers Contact Us. Billboard is a part of Penske Media Corporation. # Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now. The visual finds Perry wreaking havoc as a monstrous scorpion-human hybrid. Katy Perry is setting her past ablaze on new single “Watch It Burn,” which dropped Thursday night (June 25) alongside a cinematic new music video. On the cathartic pop-rock banger — which Perry performed before its release at both O Son do Camiño in Spain and Rock in Rio Lisboa — she sings about reclaiming her life by saying goodbye to a long-term relationship. Perry is now in a relationship with Justin Trudeau, whom she called “the love of my life” during a Q&A at the premiere of her Lifetimes Tour concert film in New York earlier in June. ## Katy Perry Finally Gets Angry on New Song ‘Watch It Burn’: Watch Fiery Video Now.",
-      "published_at": "Fri, 26 Jun 2026 00:29:27 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導凱蒂佩芮（Katy Perry）的新歌與感情生活，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1873,
-      "title": "Listen to Fat Joe's New NSFW Song 'Victory Lap (HIM)' With Video From Knicks' NBA Title Parade - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25446532-listen-fat-joes-new-nsfw-song-victory-lap-him-video-knicks-nba-title-parade",
-      "source": "Tavily (bleacherreport.com)",
-      "snippet": "Steal of the NBA Draft? # Listen to Fat Joe's New NSFW Song 'Victory Lap (HIM)' With Video From Knicks' NBA Title Parade. Fat Joe teamed up with Yung Miami and Jadakiss on a new song and music video, \"Victory Lap,\" which was filmed at the New York Knicks title parade. You can see the video below (**warning: NSFW**):. Bleacher Report2d### Jordyn Woods' Handbag at Guggenheim Museum. Bleacher Report20h### Brunson on Hammon Critique 😌. He also had his own hip-hop float at the parade:. Fat Joe was a regular spectator during the team's run to its first title in 53 years, joining other celebrities such as Spike Lee, Ben Stiller, Timothée Chalamet and more. Bleacher Report2d### Roman Gifts Belt to Brunson 🏆. Bleacher Report19h### Knicks' Landry Shamet, Actor John Turturro Joke About Being Related in New Video. ### Ranking Clippers' Top Targets 🎯. ### Trade Packages for Red Sox Stars 🤝. Where the Clippers stand after trade-filled two-night event 📲.",
-      "published_at": "Fri, 26 Jun 2026 21:09:47 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞主要報導 Fat Joe 新歌及紐約尼克隊奪冠遊行，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1874,
-      "title": "Movie critic Grae Drake talks the latest releases - CBS News",
-      "link": "https://www.cbsnews.com/losangeles/video/movie-critic-grae-drake-talks-the-latest-releases/",
-      "source": "Tavily (www.cbsnews.com)",
-      "snippet": "# Movie critic Grae Drake talks the latest releases. Movie critic Grae Drake discusses: “Supergirl,” “Jackass Best and Last” and “Little Brother.”.",
-      "published_at": "Fri, 26 Jun 2026 19:23:00 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，主要報導影評人Grae Drake評論最新電影《超少女》、《蠢蛋搞怪秀：精選與最終章》及《小兄弟》。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1875,
-      "title": "Stephen A.: Jaylen Brown to Pistons 'would be something special' - ESPN",
-      "link": "https://www.espn.com/video/clip/_/id/49187760/jaylen-brown-pistons-special",
-      "source": "Tavily (www.espn.com)",
-      "snippet": "## PGA Tour. KPMG Women's PGA Championship. ## WNBA. Video is not available in your country. We are sorry, this video is no longer available. # Stephen A.: Jaylen Brown to Pistons 'would be something special'. * ## Stephen A.: Giannis to Miami more impactful move than Melo to Minnesota. * ## Could the Rockets be the best fit for Jaylen Brown? ## Marina Mabrey ties WNBA single-game record with 53 points. * ## How Christian Pulisic proved his importance to the USMNT. * ## USMNT fans celebrate early goal on Santa Cruz beach. ## Fowler: Brandon Aiyuk is lighting money on fire with every Instagram video. * ## German fans celebrate in Berlin after Sané scores against Ecuador in under two minutes. * ## Stephen A.: LeBron should return to Cavs if winning is priority. * ## Mexico fans came ready with umbrellas to celebrate goal vs. * ## Fans in Rio celebrate Vinícius Jr.'s early goal vs.",
-      "published_at": "Fri, 26 Jun 2026 15:43:36 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導NBA球員Jaylen Brown的交易傳聞及其他體育賽事，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1876,
-      "title": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - VPM",
-      "link": "https://www.vpm.org/npr-news/2026-06-26/keyon-harrold-celebrates-100-years-of-miles-davis-at-carnegie-hall",
-      "source": "Tavily (www.vpm.org)",
-      "snippet": "*    On Air  Now Playing VPM News. *    On Air  Now Playing VPM Music. # Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. Image 3: Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. To mark the occasion, trumpeter Keyon Harrold brought his band to Carnegie Hall's Zankel Hall for a night of tribute and celebration. In this episode of _Jazz Night in America,_ we'll feature a conversation about Davis between Harrold and Christian McBride, and listen to highlights from the concert at Carnegie Hall. **Setlist from Keyon Harrold and his group at Carnegie Hall**:. *   Medley: \"Miles Ahead\" (Davis, Evans); \"Melancholy Aura\" (Keyon Harrold); \"Well Walk Now (Perseverance)\" (Harrold). She also served as a producer for NYC Winter Jazzfest before landing the \"job of her dreams,\" producing radio for Jazz Night in America. ### VPM News Morning Monitor is a daily newsletter that keeps you informed on news you care about.",
-      "published_at": "Fri, 26 Jun 2026 12:06:24 GMT",
-      "collected_at": "2026-06-27 04:37:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於小號手Keyon Harrold在卡內基音樂廳舉辦一場向爵士傳奇Miles Davis致敬的音樂會，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 100,
-    "report_date": "2026-07-01",
-    "total_articles": 3,
+    "id": 101,
+    "report_date": "2026-07-02",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 3,
-    "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。所有新聞主要圍繞其他歐美藝人、電影、音樂專輯發行、時尚活動及科技產品等多元主題。因此，今天沒有關於周杰倫的特別焦點或重大事件可供摘要。",
-    "key_events": [
-      "無周杰倫相關事件",
-      "無周杰倫相關事件",
-      "無周杰倫相關事件"
-    ],
-    "created_at": "2026-07-01 05:08:29"
+    "neutral_count": 7,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC、Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ、Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
+    "created_at": "2026-07-02 04:43:27"
   },
   "recentReports": [
+    {
+      "id": 101,
+      "report_date": "2026-07-02",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC、Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ、Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
+      "created_at": "2026-07-02 04:43:27"
+    },
     {
       "id": 100,
       "report_date": "2026-07-01",
@@ -657,21 +664,6 @@
         "今日無焦點"
       ],
       "created_at": "2026-06-26 04:53:12"
-    },
-    {
-      "id": 94,
-      "report_date": "2026-06-25",
-      "total_articles": 10,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 10,
-      "daily_summary": "根據今日搜集到的新聞資料，未發現任何與華語流行天王周杰倫相關的報導或最新動態。所有新聞焦點均集中於其他歐美藝人，例如Jay-Z的個人生活、時尚品牌活動、科技產品更新、國際財經動態及體育賽事等多元議題。因此，今日無法提供關於周杰倫的特定焦點摘要，顯示他今日並無公開活動或重大新聞事件被媒體廣泛報導。",
-      "key_events": [
-        "無周杰倫新聞",
-        "未發現相關報導",
-        "今日無焦點事件"
-      ],
-      "created_at": "2026-06-25 04:48:32"
     }
   ]
 }
