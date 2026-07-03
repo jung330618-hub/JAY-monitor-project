@@ -6,21 +6,13 @@
     "neutral": 7
   },
   "allTimeStats": {
-    "total": 1908,
+    "total": 1915,
     "positive": 558,
     "negative": 65,
-    "neutral": 1285,
+    "neutral": 1292,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-18",
-      "total": 11,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 11,
-      "avg_score": 0.51
-    },
     {
       "date": "2026-06-19",
       "total": 17,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-03",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1909,
+      "title": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ",
+      "link": "https://www.tmz.com/2026/07/02/britney-spears-reaction-to-sons-fashion-week-runway-debut/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Selena Gomez and Jack Antonoff Heading to Taylor Swift's Wedding Rehearsal. # How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut. ## Britney Spears Stressed About Her Sons Strutting Their Stuff. **Britney Spears** was stressin' about her sons **Sean Preston** and **Jayden Federline** hitting the runway ... Jayden revealed to **Vogue** that Britney was \"so nervous for us\" before he and his brother **made their** Paris Fashion Week debut walking in the Vetements Menswear Spring/Summer 2027 show. He told the mag that the pop star wasn't there in person, but sent flowers \"as a good luck thing.\" He said she also called and texted a ton. \"She was just looking out for us and making sure that this was what we wanted to do.\". #### Britney Spears Out In L.A. As Sons Prepare for Paris Fashion Week. #### Britney Spears' Son Sean Preston Heads to Europe Before Paris Fashion Week Gig With Jayden.",
+      "published_at": "Fri, 03 Jul 2026 00:13:37 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1910,
+      "title": "Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada",
+      "link": "https://ca.billboard.com/business/record-labels/escape-records-ada-warner-music-canada",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "# Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records. The new independent label, an extension of R&B-pop music discovery platform EscapeTracks, will release rising Minnesota-born artist 7AE’s new single “Mashallah,\" on July 3. ADA Canada, the distribution and artist services initiative of Warner Music Canada, has secured a global distribution deal with independent Toronto record label Escape Records, a label extension of the R&B-pop music discovery platform and events company, EscapeTracks. “After a decade of discovering and marketing artists with EscapeTracks, I’m excited to be working with ADA’s infrastructure and building on our shared vision to lay the foundation for our next chapter,” Sassi says. The global distribution deal with Escape Records adds to ADA Canada and WMC’s expansive global distribution portfolio, much of which has brought Canadian talent and initiatives onto its roster. * Country Label MDM Recordings Inks Global Distribution Deal With Warner Music Canada's ADA CANADA ›. ada warner music canada escape records 7ae.",
+      "published_at": "Thu, 02 Jul 2026 10:00:03 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1911,
+      "title": "\"I fuck with PG\" - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/fuck-pg-011457260.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* The Kevin O'Connor Show. * Why U.S. can't appeal red card. * WNBA All-Star starter snubs. * Ovechkin back for 22nd season. # \"I fuck with PG\". > Law Murray: \"I fuck with PG\" -- Jaylen Brown, saying Paul George hooping vs Celtics in playoffs helped this deal go down. *This article originally appeared on Hoops Hype:* *\"I fuck with PG\"*.",
+      "published_at": "Fri, 03 Jul 2026 01:14:00 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "\"I fuck with PG\" - Yahoo Sports",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1912,
+      "title": "The Association: Breaking down Jaylen Brown's fit with the 76ers - NBA.com",
+      "link": "https://www.nba.com/watch/video/the-association-breaking-down-jaylen-browns-fit-with-the-76ers",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## The Association: Breaking down Jaylen Brown's fit with the 76ers. Darren Collison breaks down how Jaylen Brown will fit in with the Philadelphia 76ers. # Playlist.",
+      "published_at": "Fri, 03 Jul 2026 01:37:51 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "The Association: Breaking down Jaylen Brown's fit with the 76ers - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1913,
+      "title": "BET Awards nominations 2026: See the full list, led by Cardi B, Kendrick Lamar and Mariah the Scientist - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/general/article/bet-awards-winners-2026-see-the-full-list-from-teyana-taylor-to-lauryn-hill-and-cardi-b-134151276.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "# BET Awards winners 2026: See the full list, from Teyana Taylor to Lauryn Hill and Cardi B. ## Taylor was moved to tears after Janet Jackson surprised her with the Icon of the Year award. Teyana Taylor fought back tears at the BET Awards on Sunday night as Janet Jackson made a surprise appearance to present her with the Icon of the Year Award. The singer, actor and director was overcome with emotion as Jackson praised her \"unstoppable\" work ethic and \"God-given\" talents before handing her the honor. The *One Battle After Another* star was one of the night's big winners, also taking home Best Actress, Video Director of the Year and the new Fashion Vanguard Award. Meanwhile, Lauryn Hill won the Living Legend Icon Award and performed two tracks, \"Ex-Factor\" and \"Everything Is Everything.\" She also received a 20-minute tribute from artists including SZA, Doechii, Lizzo, Queen Latifah and Common. Other winners included Cardi B, Kendrick Lamar, Michael B. * \"It Depends (The Remix)\": Chris Brown feat.",
+      "published_at": "Mon, 29 Jun 2026 09:55:07 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "BET Awards nominations 2026: See the full list, led by Cardi B, Kendrick Lamar and Mariah the Scientist - Yahoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1914,
+      "title": "'Köln 75' review: The story behind jazz's most famous concert - The Jerusalem Post",
+      "link": "https://www.jpost.com/israel-news/culture/article-900968",
+      "source": "Tavily (www.jpost.com)",
+      "snippet": "For jazz aficionados, the title of the movie, *Köln 75*, says it all. They will know that it refers to a concert by Keith Jarrett, an improvisation that was recorded and became the bestselling solo jazz record of all time. Jazz buffs will certainly want to see this movie, which opens in theaters across Israel on Thursday, but it isn’t only for those who are into improvisational jazz. It’s about a love for music more than it is about music itself, and it’s a tale of a magnificent obsession. The movie opens at Vera’s 50th birthday party, where she is surrounded by affectionate friends, but the event is marred by the presence of her judgmental, cold father, who never saw anything of value in her life’s work of promoting and arranging jazz concerts. Vera falls in love with the music, not the man, and she has one goal from then on: To book a major concert for Jarrett in Köln.",
+      "published_at": "Tue, 30 Jun 2026 13:40:55 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "'Köln 75' review: The story behind jazz's most famous concert - The Jerusalem Post",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1915,
+      "title": "Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding - New York Post",
+      "link": "https://nypost.com/2026/07/01/sports/jalen-brunson-knicks-invited-to-taylor-swift-travis-kelce-msg-wedding/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "# Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding. The Taylor Swift-Travis Kelce Garden party might include, well, some of the championship tenants of MSG. Jalen Brunson and “the starting lineup for the Knicks” have been invited to the power couple’s wedding on Friday in New York, Page Six reported. Swift and the Knicks are plenty familiar with each other, as the “Welcome to New York” singer took in the Knicks’ historic 29-point comeback in Game 4 of the NBA Finals. Swift, who wore a blue and orange “Stevie Knicks” T-shirt, was sitting courtside on Celebrity Row with fellow singers Este Haim and Alana Haim and “Law and Order: Special Victims Unit” actress Mariska Hargitay as the Knicks improbably rallied to win their third game of the Finals. The Haim sisters, along with Hargitay, are among the other high-profile guests invited to the big bash, according to Page Six. Some of Kelce’s Chiefs teammates are expected to attend.",
+      "published_at": "Wed, 01 Jul 2026 22:32:24 GMT",
+      "collected_at": "2026-07-03 04:28:07",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding - New York Post",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1902,
       "title": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC",
@@ -456,118 +554,31 @@
       "summary": "此資訊主要關於K-pop團體Hearts2Hearts的新EP《Lemon Tang》，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1890,
-      "title": "Hear JB Somers' 'Love Myself (Realigned)' - antiMusic",
-      "link": "https://www.antimusic.com/p/26/c0627hear_jb_somers_love_myself_realigned.shtml",
-      "source": "Tavily (www.antimusic.com)",
-      "snippet": "# Hear JB Somers' 'Love Myself (Realigned)'. (FSM) Nashville singer-songwriter JB Somers returns to his Alabama roots with the release of \"Love Myself (Realigned),\" available now. A reimagined version of the title track from Somers' 2025 EP Love, Myself, the new recording embraces a richer country sound while preserving the emotional honesty that has become a hallmark of his songwriting. It's a reminder that I have to choose myself first so I can love other people from the overflow, not the empty.\". In 2026, he made his radio debut on WSM Radio's On Air With Eryn, performed for ACME Radio Live's Notable Nashville, joined MORGXN onstage during both Tin Pan South and CMA Fest, and appeared on WSMV Channel 4's Today in Nashville and That Nashville Girl's podcast. Hear The Pretty Reckless' New Album 'Dear God'- OneRepublic's 'Waking Up' Gets Special Reissues- Tom Petty Classics 'American Girl' and 'Breakdown' Extended- more.",
-      "published_at": "Sun, 28 Jun 2026 15:19:46 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於歌手JB Somers的新歌發行，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1879,
-      "title": "Britney Spears, Kevin Federline's Son Jayden James Speaks Out After Runway Milestone - E! News",
-      "link": "https://www.eonline.com/news/1433407/britney-spears-son-jayden-james-speaks-out-after-runway-debut",
-      "source": "Tavily (www.eonline.com)",
-      "snippet": "# Britney Spears, Kevin Federline's Son Jayden James Speaks Out After Runway Milestone. After Britney Spears' sons Sean Preston Federline, 20, and Jayden James Federline, 19, walked the runway during Paris Fashion Week June 26, Jayden reacted to the \"amazing\" milestone. Watch: Britney Spears' Sons Jayden James, Sean Preston Make Runway Debut During Paris Fashion Week. **Britney Spears** and **Kevin Federline**'s kids are now on the fashion world's radar. After **Sean Preston Federline** and **Jayden James Federline** walked the runway at Vetements menswear Spring/Summer 2027 show at Paris Fashion Week, Jayden sent a message of gratitude to creative director **Guram Gvasalia**. Britney Spears' Sons Jayden James, Sean Preston Make Runway Debut During Paris Fashion Week. \"Thank you guys for all your support,\" Britney wrote on Instagram March 27 alongside a video with Jayden, \"spending time with family and friends is such a blessing !!! And as both Jayden and Sean start to make a name for themselves in the fashion industry, they have their parents and each other to lean on.",
-      "published_at": "Sat, 27 Jun 2026 14:17:12 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於小甜甜布蘭妮的兒子們在巴黎時裝週首次走秀，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1880,
-      "title": "Young MA talks her return and new album, 'Kween' - Modern Ghana",
-      "link": "https://www.modernghana.com/amp/videonews/673265",
-      "source": "Tavily (www.modernghana.com)",
-      "snippet": "# Young MA talks her return and new album, 'Kween'. One of New York City's hottest rappers discusses her return to the music industry and how her new album was born from healing, growth and reclaiming her identity. ---- Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
-      "published_at": "Sat, 27 Jun 2026 21:10:00 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊主要關於饒舌歌手Young MA的新專輯《Kween》，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1881,
-      "title": "Beyoncé Joins Jay-Z as He Celebrates 'Reasonable Doubt' 30th Anniversary in New York City - Just Jared",
-      "link": "https://www.justjared.com/2026/06/26/beyonce-joins-jay-z-as-he-celebrates-reasonable-doubt-30th-anniversary-in-new-york-city/",
-      "source": "Tavily (www.justjared.com)",
-      "snippet": "# Beyoncé Joins Jay-Z as He Celebrates ‘Reasonable Doubt’ 30th Anniversary in New York City. **Beyoncé** is making a rare appearance to support husband **Jay-Z**! The 44-year-old “Alien Superstar” singer and the 56-year-old “Young Forever” rapper left his Roc Nation office building on Thursday night (June 25) in New York City. Earlier that day, **Jay** and the couple’s 14-year-old daughter **Blue Ivy Carter** stopped by his ***Reasonable Doubt Jay-Z30*** pop-up event to celebrated the 30th anniversary of his landmark debut album *Reasonable Doubt*, which he dropped back on June 25, 1996. In celebration of of the 30th anniversary of his debut album, along with the 25th anniversary of his *The Blueprint* album, **Jay** will be playing a trio of shows at Yankee Stadium in July, plus a finale concert called “Extra Innings.” He’ll then be heading to Paris and then Los Angeles for more anniversary shows! ***Browse through the gallery below for more photos of Beyoncé and Jay-Z in NYC…***.",
-      "published_at": "Fri, 26 Jun 2026 14:58:54 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於Jay-Z慶祝專輯30週年紀念活動，周杰倫並未被提及。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1882,
-      "title": "Apple will launch 15+ new products this fall, here’s what’s coming - 9to5Mac",
-      "link": "https://9to5mac.com/2026/06/26/apple-will-launch-15-new-products-this-fall-heres-whats-coming/",
-      "source": "Tavily (9to5mac.com)",
-      "snippet": "# Apple will launch 15+ new products this fall, here’s what’s coming. Apple has a packed lineup of product launches coming this fall, including new iPhones, Macs, iPads, and more. Here’s every new Apple product rumored to arrive later this year. ## iPhone 18 family, including the first Ultra model. Apple’s flagship iPhone 18 lineup will go ultra-premium this fall, dropping the base model iPhone 18 that’s rumored to arrive in early 2027 instead. ## Apple Watch Ultra 4 and Apple Watch Series 12. Apple is rumored to launch two new Apple Watch models this year: Apple Watch Ultra 4 and Apple Watch Series 12. ## MacBook Ultra, new M6 MacBook Pro, and M5 Mac Studio, more. It’s a big year for the Mac, with MacBook Neo and new MacBook Pro and MacBook Air models recently launched. A new iPad Air arrived earlier this year, but two more iPads are expected to launch before 2026 ends: an iPad mini with OLED and a new base-model iPad.",
-      "published_at": "Fri, 26 Jun 2026 19:29:32 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了蘋果公司預計在今年秋季推出超過15款新產品，包括新款iPhone、Apple Watch、MacBook和iPad等。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1883,
-      "title": "Universal Pictures has revealed the Illumination animated movie ‘Not Alone,’ which will star Timothée Chalamet and Selena Gomez. The studio has set an April 16, 2027 wide release for the project, taking the place of the Untitled Illumination Event Film. The a - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/universal-pictures-has-revealed-the-illumination-animated-movie-not-alone-which-/1366552442011759/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "Universal Pictures has revealed the Illumination animated movie ‘Not Alone,’ which will star Timothée Chalamet and Selena Gomez. Universal Pictures has revealed the Illumination animated movie ‘Not Alone,’ which will star Timothé…. In the featured clip, André reveals more about what went on behind-the-scenes of his Netflix comedy ‘Little Brother.’ In conversation with Deadline, he delves into his latest musical output, his love of Jackie Chan, his pride in Nate Bargatze and “little sister” Sarah Sherman, mentorship from the likes of Jeff Tremaine and Mike Lazzo, his process, and more. In the featured clip, he reveals how he spends his hours in the makeup chair becoming The Ghoul for #Fallout Watch the full episode where he discusses his favorite movies, the Johnny Cash party he calls “one of the greatest memories” of his life, plus more here: https://deadline.com/video/walton-goggins-interview-fallout-johnny-cash-party/. In the featured clip, ‘Scary Movie’ director Michael Tiddes on how Gen Z is ready for edgy comedy films and his hopes that studios will continue to take bigger swings Watch the full panel conversation here: https://deadline.com/2026/06/deadline-regal-future-of-storytelling-for-big-screen-panel-1236959235/.",
-      "published_at": "Tue, 23 Jun 2026 03:04:06 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞主要報導環球影業動畫電影《Not Alone》的發布，以及其他電影製作和娛樂產業相關資訊，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1884,
-      "title": "Watch Charli XCX Let Loose in Video for New Song “Wink Wink” - Pitchfork",
-      "link": "https://pitchfork.com/news/watch-charli-xcx-let-loose-in-video-for-new-song-wink-wink/",
-      "source": "Tavily (pitchfork.com)",
-      "snippet": "# Watch Charli XCX Let Loose in Video for New Song “Wink Wink”. It’s the pop star’s third preview of *Music, Fashion, Film*. With an hour’s notice and a bat of her eyelashes, Charli XCX ushered in her third single from *Music, Fashion, Film*, “Wink Wink.” The song gets a music video directed by frequent collaborator Aidan Zamiri, in which the pop star swears she’s “not a bad girl anymore.” Check it out below. “Wink Wink” arrives after the headline-baiting single “Rock Music” and the more traditionally pop-indebted “SS26.” Charli has denied that *Music, Fashion, Film* is a rock album, but it does seem like she got plenty of inspiration beyond the dance floor—or at least in terms of who she rang up to pose for its cover. Charli has a short arena tour planned to celebrate her upcoming release as well as a number of headlining sets at music festivals, including Lollapalooza and Outside Lands. Revisit the track review of Charli XCX’s “Rock Music.”.",
-      "published_at": "Fri, 26 Jun 2026 04:16:23 GMT",
-      "collected_at": "2026-06-28 05:05:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導關於歌手Charli XCX發行新歌「Wink Wink」及其專輯資訊，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 101,
-    "report_date": "2026-07-02",
+    "id": 102,
+    "report_date": "2026-07-03",
     "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 7,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC、Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ、Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
-    "created_at": "2026-07-02 04:43:27"
+    "key_events": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ、Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada、\"I fuck with PG\" - Yahoo Sports",
+    "created_at": "2026-07-03 04:28:12"
   },
   "recentReports": [
+    {
+      "id": 102,
+      "report_date": "2026-07-03",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ、Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada、\"I fuck with PG\" - Yahoo Sports",
+      "created_at": "2026-07-03 04:28:12"
+    },
     {
       "id": 101,
       "report_date": "2026-07-02",
@@ -649,21 +660,6 @@
       "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語天王周杰倫的相關報導。主要焦點集中在西方娛樂圈，包括Jay-Z的專輯三十週年慶祝活動、其家庭成員的動態，以及Britney Spears的兒子們首次登上巴黎時裝週伸展台等重要事件。其他報導則涵蓋了多位歐美流行歌手與影視名人的最新消息。",
       "key_events": "今日無相關報導\n今日無相關報導\n今日無相關報導",
       "created_at": "2026-06-27 04:37:50"
-    },
-    {
-      "id": 95,
-      "report_date": "2026-06-26",
-      "total_articles": 12,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日搜集到的新聞中，並未包含任何關於華語流行天王周杰倫的報導或焦點事件。新聞主要聚焦於其他國際娛樂、體育、科技及商業領域的動態，例如美國饒舌歌手Jay-Z的專輯紀念、個人形象及法律事務，還有NBA選秀、名人時尚活動、電影首映、音樂節演出、科技產品更新等。總體而言，今日並無周杰倫相關的公開新聞被報導。",
-      "key_events": [
-        "無周杰倫新聞",
-        "未有相關報導",
-        "今日無焦點"
-      ],
-      "created_at": "2026-06-26 04:53:12"
     }
   ]
 }
