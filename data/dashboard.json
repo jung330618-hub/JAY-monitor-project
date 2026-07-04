@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 4,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 1915,
+    "total": 1919,
     "positive": 558,
     "negative": 65,
-    "neutral": 1292,
+    "neutral": 1296,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-19",
-      "total": 17,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 17,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-20",
       "total": 12,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-04",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1916,
+      "title": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper",
+      "link": "https://www.theartnewspaper.com/2026/07/03/pop-star-jay-chous-matisse-dream-comes-true-with-20m-purchase",
+      "source": "Tavily (www.theartnewspaper.com)",
+      "snippet": "# Pop star Jay Chou’s Matisse dream comes true with $20m purchase. ## The Taiwanese musician has fulfilled a long-held ambition to own a work by the French artist, buying a painting at Sotheby’s New York. The Taiwanese pop star Jay Chou is making his mark in the art world, posting on social media that he was the winning bidder for the 1924 Henri Matisse painting, *La Séance du Matin*, which sold for $20m (with fees) at Sotheby’s New York in June. In a wistful Instagram post, Chou recalled that when he was in Nice in the south of France, he would often stand outside Matisse’s former home, imagining the French artist looking out from his balcony. “I also used to dream about one day being able to collect one of his works from that period in Nice. Never thought that today the dream would actually come true,” he wrote. It’s turned into a sunny day indeed for Chou.",
+      "published_at": "Fri, 03 Jul 2026 10:23:52 GMT",
+      "collected_at": "2026-07-04 04:22:20",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1917,
+      "title": "On the move: A new chair for FICPA - Accounting Today",
+      "link": "https://www.accountingtoday.com/list/on-the-move-a-new-chair-for-ficpa",
+      "source": "Tavily (www.accountingtoday.com)",
+      "snippet": "Amy Kistka was installed as the new chair of the Florida Institute of CPAs; new leaders at the Public Company Accounting Oversight Board; a host of scholarships from Sikich, RubinBrown, and the Illinois CPA Society; and other firm and personnel news from across the profession. Chou previously served as a tax director at a Big Four firm, and as a senior finance manager at a venture capital firm. **Amy Kistka**, managing director and marketplace leader for **Deloitte** in Jacksonville, was installed as the 99th chair of the board of directors at the **Florida Institute of CPAs** on July 1, 2026. The Advancing Women in Accounting Scholarships went to **Daniella Berkane** of Loyola University; **Esmeralda Corona**, **Giselle Naranjo**, **Mikah Ribble** and **Cristina Tejeda**  of the University of Illinois; **Mahnoor Fatani** of Benedictine University; **Lilliana Gutierrez** of the University of St. Francis; **Cheryl Jones** of DePaul University; and **Quynh Tran** of the University of Illinois Chicago.",
+      "published_at": "Fri, 03 Jul 2026 13:53:33 GMT",
+      "collected_at": "2026-07-04 04:22:20",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "On the move: A new chair for FICPA - Accounting Today",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1918,
+      "title": "CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
+      "link": "https://www.consulting.us/news/amp/13646/cohnreznick-adds-jenn-chou-as-tax-partner-in-san-francisco",
+      "source": "Tavily (www.consulting.us)",
+      "snippet": "# CohnReznick adds Jenn Chou as tax partner in San Francisco. ***CohnReznick, a New York-headquartered accounting and consulting firm, has hired Jenn Chou as a tax partner in its asset management and financial services sector practice.***. Based in San Francisco, Chou is a certified public accountant and tax executive with nearly two decades of experience. In her new role with CohnReznick, Chou will provide tax compliance and consulting services to alternative investment fund clients – including venture capital, private equity, and fund-of-funds. “When CohnReznick opened its San Francisco office in 2025, we made a commitment to the Bay Area investment community to deliver the talent, resources, and tech-enabled strategies that would drive value for them throughout the investment lifecycle,” said Angela Ty, CohnReznick’s San Francisco market leader. Chou joins from tax consultancy Andersen, where she spent three years as a managing director in the alternative investment funds group. CohnReznick is the 14th-largest CPA firm in the US, according to Inside Public Accounting, with annual revenue of $1.15 billion.",
+      "published_at": "Fri, 03 Jul 2026 09:24:00 GMT",
+      "collected_at": "2026-07-04 04:22:20",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1919,
+      "title": "Mayor Parker changed things up for this year’s July 4th concert — and it’s costing Philly’s taxpayers millions more - Inquirer.com",
+      "link": "https://www.inquirer.com/politics/philadelphia/mayor-cherelle-parker-july-fourth-concert-esm-productions-20260701.html",
+      "source": "Tavily (www.inquirer.com)",
+      "snippet": "The city is due to pay ESM Productions about $15.5 million for the show, which will be headlined by Christina Aguilera, Jill Scott, The Roots, and features Meek Mill. Parker’s administration this year took over management of the city’s free July Fourth concert, which for years was produced by a nonprofit established by the city, Welcome America. The mayor instead hired ESM Productions, a for-profit company, to put on the annual show featuring musical acts and fireworks over the Ben Franklin Parkway, and she changed the name from Wawa Welcome America to the “One Philly: Unity Concert for America” — a version of Parker’s well-known slogan, “One Philly: A United City.”. The city is due to pay ESM Productions about $15.5 million for the show, which will be headlined by Christina Aguilera, Jill Scott, and The Roots and will feature rapper Meek Mill, according to a copy of the city’s contract paperwork with ESM, obtained by The Inquirer.",
+      "published_at": "Wed, 01 Jul 2026 10:08:31 GMT",
+      "collected_at": "2026-07-04 04:22:20",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Mayor Parker changed things up for this year’s July 4th concert — and it’s costing Philly’s taxpayers millions more - Inquirer.com",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1909,
       "title": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ",
@@ -498,76 +554,31 @@
       "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》在票房上表現強勁，超越《奧本海默》成為史上最高票房傳記片，但內容與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1886,
-      "title": "Maia Reficco talks working with Eva Longoria and playing her daughter in ‘The Last Sunrise’ at #ObsessedFest - facebook.com",
-      "link": "https://www.facebook.com/deadline/posts/maia-reficco-talks-working-with-eva-longoria-and-playing-her-daughter-in-the-las/1371095868224083/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "# Video. Maia Reficco talks working with Eva Longoria and playing her daughter in ‘The Last Sunrise’ at #ObsessedFest. ## **Deadline Hollywood**. ## Related Reels. Image 2 Deadline Hollywood 3.8K. ## Related videos. Lili Reinhart and Tom Bateman expand on the fake dating trope in ‘The Love Hypothesis’ at #ObsessedFest. Belmont Cameli and Stephen Kalyn on gearing up for Season 2 of #OffCampus | #ObsessedFest. Surprise performance by Jennifer Lopez to kick off the ‘Off Campus’ panel at Prime Video’s #ObsessedFest. #OffCampus stars Belmont Cameli and Stephen Kalyn are all smiles at #ObsessedFest. The cast of ‘The Devil’s Mouth’ - Lana Condor, Kathryn Newton, Gavin Casalegno, and Tommy Rose - pose for photos at Amazon Prime’s #ObsessedFest. This post contains details from the final season of FX’s ‘The Bear.’ ‘The Bear’s Lionel Boyce and Matty Matheson discuss how Season 5 focuses on one day as they share their thoughts on the final season See more online at the link in bio.",
-      "published_at": "Sun, 28 Jun 2026 04:31:30 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "該新聞內容與周杰倫無關，主要報導Maia Reficco與Eva Longoria合作以及其他影視活動。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1887,
-      "title": "Jasmine Yen declares bold new era of self-confidence with latest single ‘Roll With Me’ - The Standard (HK)",
-      "link": "https://www.thestandard.com.hk/entertainment/article/335787/Jasmine-Yen-declares-bold-new-era-of-self-confidence-with-latest-single-Roll-With-Me",
-      "source": "Tavily (www.thestandard.com.hk)",
-      "snippet": "# Jasmine Yen declares bold new era of self-confidence with latest single ‘Roll With Me’. Rising singer-songwriter Jasmine Yen has marked her return to the music scene with the release of her latest single, “Roll With Me,” a bold and empowering anthem that signals a fresh, independent chapter in her burgeoning career. Yen uses a playful vocal delivery and distinct charisma to champion individuality and unfiltered self-expression, dedicating the project to a new era defined by complete creative freedom. Following the release, she took to social media to express gratitude to her creative team and her family, whom she credited as her ultimate source of support. A natural talent who began songwriting at just seven years old, the introverted artist turned to music as her primary emotional outlet, a passion that eventually earned her a scholarship to the prestigious Berklee College of Music. “Roll With Me” serves as the opening chapter of her new artistic journey, leaving fans highly expectant for her upcoming body of work.",
-      "published_at": "Sun, 28 Jun 2026 08:34:57 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇報導主要關於歌手嚴正嵐（Jasmine Yen）發行新單曲《Roll With Me》，內容未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1888,
-      "title": "Airlines Are Installing New Luxury Seats, but No One Is Allowed to Sit in Them -- WSJ - Moomoo",
-      "link": "https://www.moomoo.com/hant/news/post/72141019/airlines-are-installing-new-luxury-seats-but-no-one-is",
-      "source": "Tavily (www.moomoo.com)",
-      "snippet": "* Airlines Are Installing New Luxury Seats, but No One Is Allowed to Sit in Them -- WSJ. AAL +1.71% BA -0.40% UAL +1.12%. Unity Software(U.US) reported fourth-quarter financial results after the market close on Monday. Here's a rundown of the report.Q4. Earnings: Unity said fourth-quarter revenue increased 35% year-over-year to $609 million, beating the consensus estimate of $562.71 million. The company reported a quarterly loss of 66 cents per share. 本內容僅用作提供資訊及教育之目的，不構成對任何特定證券或投資策略的推薦或認可。本內容中的資訊僅用於說明目的，可能不適用於所有投資者。本內容未考慮任何特定人士的投資目標、財務狀況或需求，並不應被視作個人投資建議。建議您在做出任何投資於任何資本市場產品的決定之前，應考慮您的個人情況判斷資訊的適當性。過去的投資表現不能保證未來的結果。投資涉及風險和損失本金的可能性。moomoo對上述內容的真實性、完整性、準確性或對任何特定目的的時效性不作任何陳述或保證。. 在美國，moomoo上的投資產品和服務由Moomoo Financial Inc.提供，一家受美國證券交易委員會（SEC）監管的持牌主體。 Moomoo Financial Inc.是金融業監管局（FINRA）和證券投資者保護公司（SIPC）的成員。. 在新加坡，moomoo上的投資產品和服務是通過Moomoo Financial Singapore Pte. Ltd.提供，該公司受新加坡金融管理局（MAS）監管(牌照號碼︰CMS101000) ，持有資本市場服務牌照 (CMS) ，持有財務顧問豁免（Exempt Financial Adviser）資質。本內容未經新加坡金融管理局的審查。. 在澳大利亞，moomoo上的金融產品和服務是通過Moomoo Securities Australia Limited提供，該公司是受澳大利亞證券和投資委員會(ASIC)監管的澳大利亞金融服務許可機構（AFSL No. 224663）。請閱讀並理解我們的《金融服務指南》、《條款與條件》、《隱私政策》和其他披露文件，這些文件可在我們的網站 https://www.moomoo.com/au中獲取。. 在加拿大，透過moomoo應用程式提供的僅限訂單執行的券商服務由Moomoo Financial Canada Inc.提供，並受加拿大投資監管機構（CIRO）監管。. 在馬來西亞，moomoo上的投資產品和服務是透過Moomoo Securities Malaysia Sdn. Bhd. 提供，該公司受馬來西亞證券監督委員會（SC）監管(牌照號碼︰eCMSL/A0397/2024) ，持有資本市場服務牌照 (CMSL) 。本內容未經馬來西亞證券監督委員會的審查。. Moomoo Technologies Inc., Moomoo Financial Inc., Moomoo Financial Singapore Pte. Ltd.，Moomoo Securities Australia Limited, Moomoo Financial Canada Inc和Moomoo Securities Malaysia Sdn. Bhd., 是關聯公司。. * U.S., Iran Carry Out New Strikes, Testing Fragile Ceasefire. * How Some Private-Equity Managers Collect Big Fees on Paper Gains -- Heard on the Street -- WSJ.",
-      "published_at": "Sun, 28 Jun 2026 09:30:22 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於航空公司新設豪華座位、Unity Software的財報以及其他財經與國際新聞，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1889,
-      "title": "A new banger to add to your K-pop playlist. 🎧 Link to full story in the comment section. - facebook.com",
-      "link": "https://www.facebook.com/abscbnNEWS/posts/a-new-banger-to-add-to-your-k-pop-playlist-link-to-full-story-in-the-comment-sec/1569251115250139/",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "## ABS-CBN News's Post. ### **ABS-CBN News**. A new banger to add to your K-pop playlist. Link to full story in the comment section. Read: https://www.abs-cbn.com/.../hearts2hearts-celebrates... Hearts2Hearts celebrates togetherness with summer EP 'Lemon Tang' | ABS-CBN Entertainment. It was such a fun song and the MV is so bright like summer. The B-sides are also nice, especially Baby steps and Hearth Emoji. Definitely another banger from this group that never misses. lowkey plugging h2h sa pilipinas kase konti lang filo hachu. lss ako sa chorus ng Lemon Tang. Wala sa mga Bagong Generation ng mga kpop groups na makakalampas sa 3rd and 4th Gen. If kpop Agencies wants to Surpass those Gen they need To Hire talent na gaya ang meron sa BINI at Kitty Duterte. Most relevant is selected, so some comments may have been filtered out.",
-      "published_at": "Sun, 28 Jun 2026 08:39:57 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此資訊主要關於K-pop團體Hearts2Hearts的新EP《Lemon Tang》，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 102,
-    "report_date": "2026-07-03",
-    "total_articles": 7,
+    "id": 103,
+    "report_date": "2026-07-04",
+    "total_articles": 4,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
+    "neutral_count": 4,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ、Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada、\"I fuck with PG\" - Yahoo Sports",
-    "created_at": "2026-07-03 04:28:12"
+    "key_events": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper、On the move: A new chair for FICPA - Accounting Today、CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
+    "created_at": "2026-07-04 04:22:23"
   },
   "recentReports": [
+    {
+      "id": 103,
+      "report_date": "2026-07-04",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper、On the move: A new chair for FICPA - Accounting Today、CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
+      "created_at": "2026-07-04 04:22:23"
+    },
     {
       "id": 102,
       "report_date": "2026-07-03",
@@ -649,17 +660,6 @@
         "歐美明星動態"
       ],
       "created_at": "2026-06-28 05:05:41"
-    },
-    {
-      "id": 96,
-      "report_date": "2026-06-27",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日搜集到的娛樂新聞中，並未發現任何關於華語天王周杰倫的相關報導。主要焦點集中在西方娛樂圈，包括Jay-Z的專輯三十週年慶祝活動、其家庭成員的動態，以及Britney Spears的兒子們首次登上巴黎時裝週伸展台等重要事件。其他報導則涵蓋了多位歐美流行歌手與影視名人的最新消息。",
-      "key_events": "今日無相關報導\n今日無相關報導\n今日無相關報導",
-      "created_at": "2026-06-27 04:37:50"
     }
   ]
 }
