@@ -26865,6 +26865,48 @@
       "summary": "Mayor Parker changed things up for this year’s July 4th concert — and it’s costing Philly’s taxpayers millions more - Inquirer.com",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1920,
+      "title": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News",
+      "link": "https://www.foxnews.com/video/6400145783112",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox News and full episodes. Reduce eye strain and focus on the content that matters. # Travis Kelce’s uncle talks gifts ahead of reported wedding. Travis Kelce’s uncle tells Fox News Digital that Taylor Swift and Kelce asked for no gifts for their wedding, reportedly taking place on July 3 at Madison Square Garden. Credit: Dario Alequin for Fox News Digital. ## Live Now.",
+      "published_at": "Fri, 03 Jul 2026 20:54:18 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1921,
+      "title": "Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/29/watch-cnbcas-full-interview-with-whartonas-jeremy-siegel.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Watch CNBC’s full interview with Wharton’s Jeremy Siegel. Jeremy Siegel, professor emeritus of finance at the University of Pennsylvania’s Wharton School of Business and WisdomTree chief economist, joins 'Squawk Box' to discuss the latest market trends, the memory chip crunch, Apple hiking its product prices, and more. Watch CNBC's full interview with the 'Closing Bell' Panel. Watch CNBC's full interview with Invesco’s Brian Levitt and Advisors Capital’s JoAnne Feeney. Watch CNBC's full interview with Ripple CEO Brad Garlinghouse. Watch CNBC's full interview with Coherent CEO Jim Anderson. Watch CNBC's full interview with GMO co-founder Jeremy Grantham.",
+      "published_at": "Mon, 29 Jun 2026 10:40:28 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1922,
+      "title": "Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/jul/05/jessica-mauboy-interview-kookaburra-call-ellen-degeneres-10-chaotic-questions",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’. The singer and host of That Blackfella Show on her most controversial pop culture opinion, her go-to karaoke song and being recognised by police while getting a ticket. **As a kid, your family encouraged you to sing by signing you up for karaoke at the Darwin airport hotel. What is your go-to karaoke song?**. It’s so extra, it really brings out the extra in me. But I told Jessica to leave the body and bring Jess back and I said, “Abso-freaking-heck yeah.” I’ve not done anything like this before but it felt very familiar. This is what it’s about. But once I was there I was like, oh my gosh, this is a breeze! That’s me!” And they were like, “Oh can I get a photo?” while I’m literally getting out of the car.",
+      "published_at": "Sat, 04 Jul 2026 20:00:07 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -28330,6 +28372,17 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper、On the move: A new chair for FICPA - Accounting Today、CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
       "created_at": "2026-07-04 04:22:23"
+    },
+    {
+      "id": 104,
+      "report_date": "2026-07-05",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News、Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC、Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "created_at": "2026-07-05 04:42:49"
     }
   ],
   "notification_logs": [
@@ -29858,11 +29911,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-07-04 04:22:24"
+    },
+    {
+      "id": 219,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-05 04:42:49"
+    },
+    {
+      "id": 220,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-05 04:42:50"
     }
   ],
   "_meta": {
-    "nextArticleId": 1920,
-    "nextReportId": 104,
-    "nextLogId": 219
+    "nextArticleId": 1923,
+    "nextReportId": 105,
+    "nextLogId": 221
   }
 }

@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 4,
+    "total": 3,
     "positive": 0,
     "negative": 0,
-    "neutral": 4
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 1919,
+    "total": 1922,
     "positive": 558,
     "negative": 65,
-    "neutral": 1296,
+    "neutral": 1299,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-20",
-      "total": 12,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-21",
       "total": 10,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-05",
+      "total": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1920,
+      "title": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News",
+      "link": "https://www.foxnews.com/video/6400145783112",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "Log in to comment on videos and join in on the fun. Watch the live stream of Fox News and full episodes. Reduce eye strain and focus on the content that matters. # Travis Kelce’s uncle talks gifts ahead of reported wedding. Travis Kelce’s uncle tells Fox News Digital that Taylor Swift and Kelce asked for no gifts for their wedding, reportedly taking place on July 3 at Madison Square Garden. Credit: Dario Alequin for Fox News Digital. ## Live Now.",
+      "published_at": "Fri, 03 Jul 2026 20:54:18 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1921,
+      "title": "Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC",
+      "link": "https://www.cnbc.com/video/2026/06/29/watch-cnbcas-full-interview-with-whartonas-jeremy-siegel.html",
+      "source": "Tavily (www.cnbc.com)",
+      "snippet": "# Watch CNBC’s full interview with Wharton’s Jeremy Siegel. Jeremy Siegel, professor emeritus of finance at the University of Pennsylvania’s Wharton School of Business and WisdomTree chief economist, joins 'Squawk Box' to discuss the latest market trends, the memory chip crunch, Apple hiking its product prices, and more. Watch CNBC's full interview with the 'Closing Bell' Panel. Watch CNBC's full interview with Invesco’s Brian Levitt and Advisors Capital’s JoAnne Feeney. Watch CNBC's full interview with Ripple CEO Brad Garlinghouse. Watch CNBC's full interview with Coherent CEO Jim Anderson. Watch CNBC's full interview with GMO co-founder Jeremy Grantham.",
+      "published_at": "Mon, 29 Jun 2026 10:40:28 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1922,
+      "title": "Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "link": "https://www.theguardian.com/music/2026/jul/05/jessica-mauboy-interview-kookaburra-call-ellen-degeneres-10-chaotic-questions",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "# Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’. The singer and host of That Blackfella Show on her most controversial pop culture opinion, her go-to karaoke song and being recognised by police while getting a ticket. **As a kid, your family encouraged you to sing by signing you up for karaoke at the Darwin airport hotel. What is your go-to karaoke song?**. It’s so extra, it really brings out the extra in me. But I told Jessica to leave the body and bring Jess back and I said, “Abso-freaking-heck yeah.” I’ve not done anything like this before but it felt very familiar. This is what it’s about. But once I was there I was like, oh my gosh, this is a breeze! That’s me!” And they were like, “Oh can I get a photo?” while I’m literally getting out of the car.",
+      "published_at": "Sat, 04 Jul 2026 20:00:07 GMT",
+      "collected_at": "2026-07-05 04:42:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1916,
       "title": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper",
@@ -512,62 +554,31 @@
       "summary": "此新聞報導主要關於美國藝人Bow Wow的Tiny Desk演唱會，內容與周杰倫無直接關聯。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1897,
-      "title": "Stars wear very little on racy red carpet - News.com.au",
-      "link": "https://www.news.com.au/entertainment/celebrity-style/red-carpet/stars-wear-very-little-on-racy-2026-bet-awards-red-carpet/image-gallery/bf52e077170843e250a3627d4296daad",
-      "source": "Tavily (www.news.com.au)",
-      "snippet": "# Stars wear very little on racy 2026 BET Awards red carpet. The annual BET Awards celebrate Black excellence and culture, but these stars know a thing or two about fashion too …. Keke Palmer knows how to back it up on the red carpet as she arrives at the BET Awards on June 28 at the Peacock Theater in Los Angeles. Picture: Bennett Raglin/Getty Images for BET. Picture: Leon Bennett/Getty Images for BET. Jaafar Jackson, who plays his uncle Michael Jackson in the new biopic Michael, reunited with co-star Nia Long on the red carpet. Rapper Latto made quite the fashion statement on the red carpet in her sheer, corsetted gown. Thornton/Getty Images for BET. SZA and Doechii won the BET Her Award for their collaboration on Girl, Get Up. Picture: Kevin Winter/Getty Images. Cardi B performed a mash-up of her hits from her new album Am I The Drama?, and considering she arrived on stage on a motorbike with attached stripper pole, girlfriend knows how to bring the drama.",
-      "published_at": "Mon, 29 Jun 2026 04:31:00 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於2026年BET頒獎典禮的紅毯時尚與表演，內容並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1898,
-      "title": "Mrs. GREEN APPLE’s Two-Day ‘CEREMONY’ Show Celebrates Music With Fellow Artists and Audiences: Review - Billboard",
-      "link": "https://www.billboard.com/music/music-news/mrs-green-apple-ceremony-japan-review-1236283703/",
-      "source": "Tavily (www.billboard.com)",
-      "snippet": "# Mrs. GREEN APPLE’s Two-Day ‘CEREMONY’ Show Celebrates Music With Fellow Artists and Audiences: Review. Mrs. GREEN APPLE closed both nights at K Arena Yokohama in Kanagawa, Japan. Mrs. GREEN APPLE presents CEREMONY — the new entertainment experience curated by the three-man band where fashion, music, and culture converge — unfolded over two days, at K Arena Yokohama in Kanagawa, Japan on June 10 and 11. ### Mrs. GREEN APPLE. That’s what I want to offer again, together with everyone in this room.” Those words became the guiding concept for both evenings. “Before an important match, I always listen to Mrs. GREEN APPLE’s songs.” It was a vivid reminder of just how powerfully music fuels even the world of competitive sport. That’s the CEREMONY we made.” For the finale, the three members of Mrs. GREEN APPLE stepped away from their microphones and called out in their own unamplified voices: “See you again at next year’s CEREMONY!” — and with that, two extraordinary evenings came to a close.",
-      "published_at": "Mon, 29 Jun 2026 17:48:04 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導日本樂團Mrs. GREEN APPLE的演唱會，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1885,
-      "title": "‘Michael’ Surpasses Oscar-Winner to Become Highest Grossing Biopic - Newsweek",
-      "link": "https://www.newsweek.com/entertainment/movies/michael-surpasses-oscar-winner-to-become-highest-grossing-biopic-12133035",
-      "source": "Tavily (www.newsweek.com)",
-      "snippet": "Michael Jackson was not only the King of Pop, he's also proving to be the King of the box-office. Almost two decades after his death, Jackson's biopic, \"Michael\" is creating history at the box-office while being set to touch the coveted $1 billion mark. As per the latest reports, \"Michael\" has also created history by becoming the highest grossing biopic of all time, dethroning Christopher Nolan's Oscar-winning 2023 mega-project \"Oppenheimer.\". The King of Pop's real-life nephew, Jaafar Jackson, portrays the role of Michael Jackson for the biopic. Despite the envious box-office numbers, the film opened to a moderate critics rating, as the Tomatometer rates the film at 38%. Despite the difference in the certifications of the two movies with \"Michael\" getting a PG-13, and Cillian Murphy-starrer \"Oppenheimer\" an R, the relevance of the \"Thriller\" hitmaker's biopic cannot be ignored. However, notwithstanding the criticism, the film is still doing well at the box-office, and on its way to grossing $1 billion.",
-      "published_at": "Mon, 29 Jun 2026 01:48:00 GMT",
-      "collected_at": "2026-06-29 05:15:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了麥可傑克森的傳記電影《Michael》在票房上表現強勁，超越《奧本海默》成為史上最高票房傳記片，但內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 103,
-    "report_date": "2026-07-04",
-    "total_articles": 4,
+    "id": 104,
+    "report_date": "2026-07-05",
+    "total_articles": 3,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 4,
+    "neutral_count": 3,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Pop star Jay Chou’s Matisse dream comes true with $20m purchase - The Art Newspaper、On the move: A new chair for FICPA - Accounting Today、CohnReznick adds Jenn Chou as tax partner in San Francisco - Consulting.us",
-    "created_at": "2026-07-04 04:22:23"
+    "key_events": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News、Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC、Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+    "created_at": "2026-07-05 04:42:49"
   },
   "recentReports": [
+    {
+      "id": 104,
+      "report_date": "2026-07-05",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News、Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC、Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
+      "created_at": "2026-07-05 04:42:49"
+    },
     {
       "id": 103,
       "report_date": "2026-07-04",
@@ -645,21 +656,6 @@
         "無周杰倫相關事件"
       ],
       "created_at": "2026-06-29 05:15:53"
-    },
-    {
-      "id": 97,
-      "report_date": "2026-06-28",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日搜集的新聞中，未發現與周杰倫相關的報導。主要焦點集中在多位歐美藝人的動態，例如Jay-Z專輯30週年慶祝、Britney Spears兒子首次走秀、Katy Perry新歌發布等。",
-      "key_events": [
-        "無周杰倫新聞",
-        "Jay-Z專輯慶祝",
-        "歐美明星動態"
-      ],
-      "created_at": "2026-06-28 05:05:41"
     }
   ]
 }
