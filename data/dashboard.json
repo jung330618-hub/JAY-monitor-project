@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 3
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1922,
+    "total": 1927,
     "positive": 558,
     "negative": 65,
-    "neutral": 1299,
+    "neutral": 1304,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-21",
-      "total": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-22",
       "total": 13,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-06",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1923,
+      "title": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue",
+      "link": "https://www.vogue.com/slideshow/beauty-details-2026-bet-awards",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# 12 Beauty Details You May Have Missed at the 2026 BET Awards. On Sunday night, Doechii, Tyla, and Jaafar Jackson were just a few of the stars who gathered at the Peacock Theater in Los Angeles to celebrate Black excellence in film, music, sports, and more for the 26th annual BET Awards. The actor, musician, director, and all-around fashion icon took home a whopping four trophies for icon of the year, best actress, video director of the year, and the inaugural fashion vanguard award—with a winning beauty look to match. Here, we break down all this and more of the best beauty details you may’ve missed from last night. *Have a beauty or wellness trend you're curious about? Send* Vogue'*s senior beauty & wellness editor an email at beauty@vogue.com.*. * Sign up for *Vogue*’s beauty newsletter to receive the insider’s guide to all things beauty and wellness. * Have a beauty or wellness trend you’re curious about? Email Margaux at beauty@vogue.com.",
+      "published_at": "Mon, 29 Jun 2026 16:38:38 GMT",
+      "collected_at": "2026-07-06 04:54:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1924,
+      "title": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku",
+      "link": "https://kotaku.com/the-new-jackass-movie-does-something-hollywood-franchises-never-do-anymore-say-goodbye-and-end-2000712073",
+      "source": "Tavily (kotaku.com)",
+      "snippet": "# The New *Jackass* Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End. *Jackass: Best and Last* is like a perfect greatest-hits album designed for longtime fans of the series. There’s a moment at the very end of *Jackass: Best and Last* that stuck with me. It’s a moment that would have felt out of place in an earlier *Jackass* movie, but here, after 25 years, a TV show, and over a half dozen films and spin-off movies, the franchise and its injured stars have earned this tender moment. And as usual, with this new film, *Jackass* does something few other Hollywood franchises do anymore: end gracefully, on the terms of the creators, and in a way that feels perfect and satisfying. *Best and Last* is less a movie and more a visual greatest-hits album, and like the best of those albums, it mixes in new and old content to create something both retrospective and celebratory.",
+      "published_at": "Thu, 02 Jul 2026 12:00:03 GMT",
+      "collected_at": "2026-07-06 04:54:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1925,
+      "title": "Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
+      "link": "https://www.tmz.com/2026/07/05/kanye-west-shane-gillis-backstage-concert-photo/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "Email Or Call (888) 847-9869. ### Reflecting Pool Gets Post-Fourth of July Cleanup After Fireworks Fallout. ### Sexy Stars In Next-Level Swimwear, National Bikini Day! Good Genes or Good Docs, Hot Shots. # Kanye West Poses with Shane Gillis Backstage at San Antonio Concert. ## Shane Gillis Backstage with Kanye West ... **Kanye West**and **Shane Gillis**hanging backstage after the rapper's Texas concert. The comedian gave fans a look behind the scenes by posting to Instagram a photo of himself with an arm around Ye after the his Alamodome show in San Antonio on Saturday night. The meetup may seem like it came out of nowhere ... though nothing ever publicly came of it. Kanye packed the Alamodome for a high-profile Fourth of July performance, with fans traveling from all over to catch the show. #### Kendall Jenner, Jacob Elordi and The Biebers Go Boating As Taylor Swift Marries Travis Kelce. #### North West Debuts Lip Piercings at Paris Fashion Week.",
+      "published_at": "Sun, 05 Jul 2026 20:34:40 GMT",
+      "collected_at": "2026-07-06 04:54:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1926,
+      "title": "Los Angeles Lakers Best Plays vs. Warriors Gold - NBA.com",
+      "link": "https://www.nba.com/watch/video/los-angeles-lakers-best-plays-vs-warriors-gold",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Los Angeles Lakers Best Plays vs. # Playlist.",
+      "published_at": "Sat, 04 Jul 2026 11:37:30 GMT",
+      "collected_at": "2026-07-06 04:54:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Los Angeles Lakers Best Plays vs. Warriors Gold - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1927,
+      "title": "Zack Austin ascends for the slam! - NBA.com",
+      "link": "https://www.nba.com/watch/video/zack-austin-ascends-for-the-slam-2",
+      "source": "Tavily (www.nba.com)",
+      "snippet": "# more to watch. ## Zack Austin ascends for the slam! # Playlist.",
+      "published_at": "Sun, 05 Jul 2026 20:50:44 GMT",
+      "collected_at": "2026-07-06 04:54:32",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Zack Austin ascends for the slam! - NBA.com",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1920,
       "title": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News",
@@ -484,90 +554,31 @@
       "summary": "這則新聞報導了布蘭妮的兒子們將前往歐洲參加巴黎時裝週，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1892,
-      "title": "Kanye West ‘desperately seeking relevance’ with lavish Versailles birthday bash - Sky News Australia",
-      "link": "https://www.skynews.com.au/opinion/kanye-west-desperately-seeking-relevance-with-lavish-versailles-birthday-bash/video/3adcec534d67b2fa534911cf8584b8d8",
-      "source": "Tavily (www.skynews.com.au)",
-      "snippet": "This is a modal window. Escape will cancel and close the window. This modal can be closed by pressing the Escape key or activating the close button. ‘Kinsey Schofield Unfiltered’ host Kinsey Schofield claims Kanye West is “desperately seeking relevance” after hosting a nearly $400,000 masquerade-themed birthday party at the Palace of Versailles. “I think it’s Kanye desperately seeking relevance again … he seems convinced that bigger, louder and more expensive automatically means more relevant; I don’t think that’s true anymore,” Ms Schofield told Sky News host James Morrow. “There was a time when he dominated the culture because he is a very talented musician, but today he typically dominates headlines because of this spectacle. “The fascination has faded for a lot of people, and a lavish birthday party at Versailles doesn’t erase the damage he’s done.”. He will revive us after 2 days, on the 3rd day he will raise us up.BroRando |.",
-      "published_at": "Mon, 29 Jun 2026 11:16:00 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要關於Kanye West在凡爾賽宮舉辦生日派對，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1893,
-      "title": "Is New York's best new pizzeria Tokyo-style? - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/is-new-yorks-best-new-pizzeria-tokyo-style/6519238/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "New York Live 3 hours ago. # Is New York's best new pizzeria Tokyo-style? Lauren Scala heads to the East Village for a taste of the Tokyo-inspired pizza of Pizza Studio Tamaki. ## Local. #### Laura Marano talks joining ‘The 25th Annual Putnam County Spelling Bee'. #### Want to grow your own kitchen garden? #### Meet the sisters behind a new coffee shop / bookstore in New Jersey. #### Jonathan Burke and Dava Huesca take us to ‘Cats: The Jellicle Ball'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Mon, 29 Jun 2026 16:39:55 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於紐約一家東京風格的比薩店及其他地方新聞，內容中並未提及周杰倫。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1894,
-      "title": "Digital Banking Made Easy: The Best Apps and Features for Kids and Teens - CNET",
-      "link": "https://www.cnet.com/videos/digital-banking-made-easy-the-best-apps-and-features-for-kids-and-teens/",
-      "source": "Tavily (www.cnet.com)",
-      "snippet": "### Even if There's 'Still Nothing to Eat,' There Are Options Out There for Prime Day. Digital Banking Made Easy: The Best Apps and Features for Kids and Teens. What Is Signal and How Do You Use It? ### Apple Invites Is Here: Tips for Using Apple's Party Invitation App. The Galaxy S24 Ultra With Samsung DeX Replaced My Laptop. Apple Invites Is Here: Tips for Using Apple's Party Invitation App. ### What I Learned Using Apple's Journal App. New iPhone Journaling App May Be Coming Soon. What I Learned Using Apple's Journal App. ### Google Pay: How to Set Up and Use. How to avoid QR code scams. Google Pay: How to Set Up and Use. ### Fox to Acquire Roku for $22 Billion, Apple Products Are Getting More Expensive, and the World Cup. Even if There's 'Still Nothing to Eat,' There Are Options Out There for Prime Day.",
-      "published_at": "Mon, 29 Jun 2026 12:00:51 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要探討數位銀行、科技產品與應用程式等主題，並未提及周杰倫相關資訊。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1895,
-      "title": "Jelly Roll Posts Jaw-Dropping Video of His 200-lb. Weight Loss - The Daily Beast",
-      "link": "https://thelooker.thedailybeast.com/jelly-roll-posts-jaw-dropping-video-of-his-200-lb-weight-loss/",
-      "source": "Tavily (thelooker.thedailybeast.com)",
-      "snippet": "The Grammy-winning musician used the video to reflect on his shocking physical transformation. Jelly, whose real name is Jason DeFord, started the video with an old clip of himself from before his weight loss, walking with his head down in the pouring rain, looking exhausted. The video then cut to clips of his December 10 appearance on *The Joe Rogan Experience* podcast. “Every time I said I was going to lose the weight, Joe, I lied to myself,” he tells Rogan in the clip. “I would tell myself I’m going to do this. I’m going to go do that. And I wake up, and I’m like, ‘s--t.’”. I told y’all I was going to go do this walk, and I’m going to do this walk,’” he said. The video then showed more clips of Jelly’s first days walking in the rain before cutting to a present-day video of him running in the rain.",
-      "published_at": "Wed, 24 Jun 2026 19:36:02 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國音樂人Jelly Roll的體重減輕過程，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1896,
-      "title": "Bow Wow: Tiny Desk Concert - NPR",
-      "link": "https://www.npr.org/2026/06/29/g-s1-126163/bow-wow-tiny-desk-concert",
-      "source": "Tavily (www.npr.org)",
-      "snippet": "**Bow Wow: Tiny Desk Concert**  **Bow Wow's transformation from child star to well-rounded entertainer serves as a blueprint for longevity. ## **Tiny Desk**. # Bow Wow: Tiny Desk Concert. *This Black Music Month, Tiny Desk celebrates the undeniable legacy of BET. His transformation from child star to well-rounded entertainer serves as a blueprint for longevity, and honoring the impact and legacy of BET without him would have been incomplete. It's a loyalty that Bow Wow earned, and he basks in that glory as he blazes through his Tiny Desk concert full of back-to-back hits. The decades of dedication to his craft were evident in the cadence, stage presence and high-energy infused in performances of \"Shortie Like Mine,\" \"Fresh Azimiz\" and \"Let Me Hold You.\" Bow Wow also makes sure to include \"Bounce with Me (from the motion picture *Big Momma's House*),\" the song that started it all.",
-      "published_at": "Mon, 29 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-06-30 04:47:39",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於美國藝人Bow Wow的Tiny Desk演唱會，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 104,
-    "report_date": "2026-07-05",
-    "total_articles": 3,
+    "id": 105,
+    "report_date": "2026-07-06",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 3,
+    "neutral_count": 5,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News、Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC、Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
-    "created_at": "2026-07-05 04:42:49"
+    "key_events": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue、The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku、Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
+    "created_at": "2026-07-06 04:54:35"
   },
   "recentReports": [
+    {
+      "id": 105,
+      "report_date": "2026-07-06",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue、The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku、Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
+      "created_at": "2026-07-06 04:54:35"
+    },
     {
       "id": 104,
       "report_date": "2026-07-05",
@@ -641,21 +652,6 @@
         "無焦點事件"
       ],
       "created_at": "2026-06-30 04:48:13"
-    },
-    {
-      "id": 98,
-      "report_date": "2026-06-29",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日娛樂新聞中，並無關於華語樂壇天王周杰倫的最新動態或相關報導。所有搜集到的新聞主要聚焦於歐美流行音樂、影視作品、時尚活動及其他各界名人，如Jay-Z的專輯紀念、Britney Spears兒子的時尚週亮相等，周杰倫今日並未登上新聞版面。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-06-29 05:15:53"
     }
   ]
 }
