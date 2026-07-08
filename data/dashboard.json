@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 6,
     "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 6
   },
   "allTimeStats": {
-    "total": 1932,
+    "total": 1938,
     "positive": 558,
     "negative": 65,
-    "neutral": 1309,
+    "neutral": 1315,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-23",
-      "total": 13,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 13,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-24",
       "total": 10,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-08",
+      "total": 6,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 6,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1933,
+      "title": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost",
+      "link": "https://www.huffpost.com/entry/jalen-brunson-childrens-book-family-fandom_n_6a42fdcfe4b0f259890f14cd",
+      "source": "Tavily (www.huffpost.com)",
+      "snippet": "Part of HuffPost Black Voices. # My Son Found A Hero In Jalen Brunson. “Jalen Plays It All” has been announced at the perfect moment for a 5-year-old superfan and a grandfather’s legacy waiting to be passed down. Growing up in New York City meant that I was constantly surrounded by Knicks fans — and my father was a particularly influential one in my life. But when I had my son, Zakai, I suspected that he’d inherit my dad’s passion for our home team. While he now has his dad, who is also a Knicks superfan, to teach him all about the game’s history and technical aspects, it has been heartwarming to see Brunson open up a new world to my son. And so, I can’t wait to get our copy of “Jalen Plays It All” and read it to him with all of the enthusiasm and pride that my father would.",
+      "published_at": "Tue, 07 Jul 2026 15:04:08 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1934,
+      "title": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/son-found-hero-jalen-brunson-150408308.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "# My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. But when I had my son, Zakai, I suspected that he'd inherit my dad's passion for our home team. And through the roars of a crowd who were just as hopeful as my dad, I'd witness him come alive with hope and excitement. The Knicks created a space for his joy, and I loved to see it. While he now has his dad, who is also a Knicks superfan, to teach him all about the game's history and technical aspects, it has been heartwarming to see Brunson open up a new world to my son. And so, I can't wait to get our copy of \"Jalen Plays It All\" and read it to him with all of the enthusiasm and pride that my father would.",
+      "published_at": "Tue, 07 Jul 2026 15:04:08 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1935,
+      "title": "MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
+      "link": "https://www.forbes.com/sites/laurasirikul/2026/07/07/monsta-xs-kihyun-has-been-everywhere-but-now-is-at-the-borderline/",
+      "source": "Tavily (www.forbes.com)",
+      "snippet": "# MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’. Now in his 30s and with over 10 years in the music industry, he’s ready to show a deeper, more mature side of himself with his new EP, *BORDERLINE*. The concepts shown for *BORDERLINE* with Kihyun at the airport and surrounded by travel elements make so much sense, as he’s become so worldly throughout his young life. The seven-track pop-rock-driven EP isn’t so much about his youth and the nostalgia behind it as about the complex road he’s on now. Known best to his fans as the gentleman of the group (all of them are, but Kihyun is so fancy), he has always been seen as the level-headed one who seems to know what he’s doing or where he’s headed.",
+      "published_at": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1936,
+      "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
+      "link": "https://variety.com/2026/music/news/jermaine-dupri-sues-sony-music-mariah-carey-usher-royalties-1236803800/",
+      "source": "Tavily (variety.com)",
+      "snippet": "*   Plus Icon What To Watch. *   Plus Icon What To Hear. Plus Icon Click to expand the Mega Menu. Jermaine Dupri has filed an $18 million lawsuit against Sony Music Entertainment, alleging that the company failed to properly pay royalties for releases from Mariah Carey, Usher, Xscape, Kris Kross and more. The suit, filed on Monday and reviewed by _Variety_, accuses SME of having “not been lawful” in its dealings with Dupri dating back to May 1992, when his imprint So-So Def Entertainment entered into an agreement with the company. Dupri’s attorneys detail a long pattern of unpaid royalties, including $960,000 in unpaid producer royalties for Xscape’s “Hummin’ Comin’ At ‘Cha” and over $1 million for Da Brat’s “Funkdafied.” The suit also claims there were understated royalties payable to So-So Def in connection with albums released by Carey, Bow Wow, Usher, J-Kwon, Dupri and Bone Crusher.",
+      "published_at": "Tue, 07 Jul 2026 18:04:11 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1937,
+      "title": "Ella Mai asks S.F. fans: ‘Do You Still Love Me?’ - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/ella-mai-sf-22325820.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Ella Mai asks S.F. fans: ‘Do You Still Love Me?’. After nearly seven years away from the Bay Area, Ella Mai is returning to ask her fans a major question: “Do You Still Love Me?”. But it wasn’t until several years later, in 2018, that she made waves in the mainstream with her breakout single “Boo’d Up,” which went on to earn her a Grammy Award for best R&B song. Mai released her third studio album — “Do You Still Love Me?” — in February, her first since the 2024 birth of her first child. The singer-songwriter is now scheduled to perform at San Francisco’s Bill Graham Civic Auditorium on July 18, along with supporting acts AMA and Girlfriend. She joined the Chronicle as a summer 2023 intern for the Datebook team. Irshad was part of the honors program for her major and double-minored in world literature and film studies.",
+      "published_at": "Tue, 07 Jul 2026 11:00:00 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Ella Mai asks S.F. fans: ‘Do You Still Love Me?’ - San Francisco Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1938,
+      "title": "The Sacramento Kings officially announced the signing … - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/sacramento-kings-officially-announced-signing-191756555.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "* The Kevin O'Connor Show. * Stellar USMNT run is over. * McGregor set for UFC return. # The Sacramento Kings officially announced the signing …. > James Ham: The Sacramento Kings officially announced the signing of Precious Achiuwa. *This article originally appeared on Hoops Hype:* *The Sacramento Kings officially announced the signing …*.",
+      "published_at": "Tue, 07 Jul 2026 19:17:56 GMT",
+      "collected_at": "2026-07-08 03:56:19",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "The Sacramento Kings officially announced the signing … - Yahoo Sports",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1928,
       "title": "Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2 - TMZ",
@@ -470,104 +554,31 @@
       "summary": "Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding - New York Post",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1902,
-      "title": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC",
-      "link": "https://www.bbc.com/news/articles/cy49gpygn2vo",
-      "source": "Tavily (www.bbc.com)",
-      "snippet": "# Michael Jackson movie becomes highest-grossing biopic of all time. **The recently released Michael Jackson movie has overtaken Oppenheimer as the highest-grossing biopic of all time, after taking $977m (£739m) at the worldwide box office.**. But it has now also surpassed director Christopher Nolan's 2023 film about the American theoretical physicist J Robert Oppenheimer, which previously held the box office record for any film based on a real-life figure. Directed by Antoine Fuqua, Michael tells the story of the late US singer's journey from being a child star in family group the Jackson 5, to becoming the solo King of Pop. Jaafar Jackson, the singer's real-life nephew, plays the titular role, with Colman Domingo and Nia Long portraying his parents. Michael has clearly been a huge hit with the performer's many fans around the world, for its study of his childhood and recreations of famous concert performances and music videos.",
-      "published_at": "Mon, 29 Jun 2026 09:55:37 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "麥可傑克森傳記電影《Michael》超越《奧本海默》，成為全球票房最高的傳記電影。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1903,
-      "title": "Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ",
-      "link": "https://www.tmz.com/2026/06/30/chris-brown-ordered-to-pay-13-million-for-dog-attack/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "### Travis Kelce Spotted On A Run Ahead of Wedding to Taylor Swift. # Chris Brown Ordered to Pay $13M Over Dog Attack. ## Chris Brown Ex-Housekeeper Awarded $13 Million Over Vicious Dog Attack. **Chris Brown** is on the hook for a massive judgement to his ex-housekeeper after a jury found him liable for her injuries from a dog attack on his property, TMZ has learned. A jury came down with the decision on Tuesday after a lengthy trial between Chris and **Maria Avila**. Maria **sued** Chris claiming he was negligent in allowing the large dog to roam his backyard … which is where she claims she was mauled while taking out the trash. In his initial response to the lawsuit, Chris argued Maria provoked the dog and caused her own injuries. In court, Maria said she was covered in blood after the attack. A member of his team eventually made the call. Maria was seeking $90 million in damages from the singer.",
-      "published_at": "Wed, 01 Jul 2026 02:02:03 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1904,
-      "title": "Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
-      "link": "https://www.modernghana.com/amp/videonews/675471",
-      "source": "Tavily (www.modernghana.com)",
-      "snippet": "# Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz. The actor says he's been living with Alzheimer's for three years. Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G ABC News is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. Download the ABC News app for the latest headlines and alerts: https://abcnews.go.com/devices Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared Read ABC News reports online: http://abcnews.go.com ABC News is the home to the #1 evening newscast “World News Tonight with David Muir,\" “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.” Connect with ABC News on social media: Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
-      "published_at": "Wed, 01 Jul 2026 23:30:00 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1905,
-      "title": "Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge - Page Six",
-      "link": "https://pagesix.com/2026/06/25/hollywood/inside-the-wild-black-tie-jackass-premiere/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "# Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge. The “Jackass” crew bid farewell to their chaotic franchise at the premiere of their final film on Wednesday night. The Paramount Theater on the studio’s Hollywood lot was decked out for the black-tie optional “Jackass: Best and Last” premiere, with candelabras, elegant floral arrangements and even a grand piano — where a tatted guy in tighty whities and angel wings played classical interpretations of hits by **Zara Larsson**, **Rihanna** and more. “Jackass: Best and Last” is a love letter to stupidity, and played exceptionally well to the packed crowd with lots of groaning, gagging, eye-covering, wincing, and of course, laughing, in the auditorium. The cast — including Knoxville, **Steve-O**, **Ehren “Danger” McGhehey** (plus his tuxedo-clad dog, **Bugsy**), and **Jason “Wee Man” Acuña** — gathered at the heart of the party to watch a show-stopping drone show. The premiere party featured a wild drone show.",
-      "published_at": "Thu, 25 Jun 2026 14:31:31 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Inside the wild, black-tie ‘Jackass’ premiere with lewd pasta, outrageous drone show and ‘butt-shaped’ ice luge - Page Six",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1906,
-      "title": "Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology - BioSpace",
-      "link": "https://www.biospace.com/press-releases/childrens-hospital-of-philadelphia-appoints-new-division-chief-of-hematology",
-      "source": "Tavily (www.biospace.com)",
-      "snippet": "# Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology. PHILADELPHIA, July 1, 2026 /PRNewswire/ -- Children's Hospital of Philadelphia (CHOP) is proud to announce the selection of Stella T. Chou, MD, as its new Chief of the Division of Hematology. Dr. Chou served as interim chief since August 2025 and will officially assume the role July 1, leading one of the nation's largest and highly ranked pediatric hematology programs. As a physician scientist, Dr. Chou has dedicated her career to advancing innovative research in sickle cell disease, transfusion medicine and blood cell development. \"I am honored to lead our outstanding Division of Hematology,\" said Dr. Chou, who also serves as Professor of Pediatrics at the Perelman School of Medicine at the University of Pennsylvania and Chief of the Division of Transfusion Medicine at Children's Hospital of Philadelphia. Orange, MD, PhD, Pediatrician-in-Chief and Chair of the Department of Pediatrics at Children's Hospital of Philadelphia. **About Children's Hospital of Philadelphia:**.",
-      "published_at": "Wed, 01 Jul 2026 14:13:51 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Children’s Hospital of Philadelphia Appoints New Division Chief of Hematology - BioSpace",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1907,
-      "title": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - NPR",
-      "link": "https://www.npr.org/2026/06/26/nx-s1-5869532/jazz-night-in-america-keyon-harrold-miles-davis-carnegie-hall",
-      "source": "Tavily (www.npr.org)",
-      "snippet": "**Miles Davis at 100: Keyon Harrold at Carnegie Hall** **To mark the occasion of Miles Davis' centennial, trumpeter Keyon Harrold put on a concert at Carnegie Hall and shared a candid conversation about the legend with Christian McBride.**. ## **Jazz Night In America**. # Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. #### Working Headline:Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall. Trumpeter Keyon Harrold backstage before the Miles Davis centennial concert at Carnegie Hall. To mark the occasion, trumpeter Keyon Harrold brought his band to Carnegie Hall's Zankel Hall for a night of tribute and celebration. In this episode of *Jazz Night in America,* we'll feature a conversation about Davis between Harrold and Christian McBride, and listen to highlights from the concert at Carnegie Hall. ### Keyon Harrold puts on a Miles Davis centennial concert at Carnegie Hall. **Setlist from Keyon Harrold and his group at Carnegie Hall**:.",
-      "published_at": "Fri, 26 Jun 2026 00:00:00 GMT",
-      "collected_at": "2026-07-02 04:43:21",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Keyon Harrold celebrates 100 years of Miles Davis at Carnegie Hall - NPR",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 106,
-    "report_date": "2026-07-07",
-    "total_articles": 5,
+    "id": 107,
+    "report_date": "2026-07-08",
+    "total_articles": 6,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
+    "neutral_count": 6,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2 - TMZ、Wee-Man's Favorite Jackass Stunt - IGN、Angine de Poitrine, Patrick Watson & More Best Moments From the 2026 Montreal International Jazz Festival - Billboard Canada",
-    "created_at": "2026-07-07 04:34:35"
+    "key_events": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost、My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports、MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
+    "created_at": "2026-07-08 03:56:23"
   },
   "recentReports": [
+    {
+      "id": 107,
+      "report_date": "2026-07-08",
+      "total_articles": 6,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 6,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost、My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports、MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
+      "created_at": "2026-07-08 03:56:23"
+    },
     {
       "id": 106,
       "report_date": "2026-07-07",
@@ -633,21 +644,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC、Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ、Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
       "created_at": "2026-07-02 04:43:27"
-    },
-    {
-      "id": 100,
-      "report_date": "2026-07-01",
-      "total_articles": 3,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日搜集的新聞中，未發現任何與周杰倫直接相關的報導。所有新聞主要圍繞其他歐美藝人、電影、音樂專輯發行、時尚活動及科技產品等多元主題。因此，今天沒有關於周杰倫的特別焦點或重大事件可供摘要。",
-      "key_events": [
-        "無周杰倫相關事件",
-        "無周杰倫相關事件",
-        "無周杰倫相關事件"
-      ],
-      "created_at": "2026-07-01 05:08:29"
     }
   ]
 }
