@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
+    "total": 5,
     "positive": 0,
     "negative": 0,
-    "neutral": 6
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 1938,
+    "total": 1943,
     "positive": 558,
     "negative": 65,
-    "neutral": 1315,
+    "neutral": 1320,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-24",
-      "total": 10,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 10,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-25",
       "total": 10,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 6,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-09",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1939,
+      "title": "Watch Balenciaga Couture - Vogue",
+      "link": "https://www.vogue.com/video/watch/balenciaga-couture",
+      "source": "Tavily (www.vogue.com)",
+      "snippet": "# Balenciaga Couture. Released on 07/08/2026. * ### Le Sserafim’s KAZUHA on Her Tour-Proof Beauty Routine. * ### Millie Bobby Brown and Louis Partridge Talk Samba, Shaved Heads, and Sherlock Holmes in the Latest Off the Cuff. * ### What’s in Diljit Dosanjh’s Bag? Fan-Gifted Jewelry, a Flip Phone, and a Milk Frother. * ### Jimin Shares His Pre-Show Superstitions, Favorite Room Service Meal, and More Before the Dior Show. * ### Lone Star State of Mind: Snapshots of Texas Today. * ### Take a Tour Inside Tory Burch’s “Collected, Not Decorated” Paris Apartment. * ### Laufey on Brows, Her Lucky Number, and Missing Home. * ### Gracie Abrams Talks New Music and Her Acting Debut. * ### What’s in Jung Kook’s (Snack) Bag? * ### Gracie Abrams Mixes “Extra-Dirty” Gin Martinis—and Shares the Story Behind Her New Album.",
+      "published_at": "Wed, 08 Jul 2026 13:45:28 GMT",
+      "collected_at": "2026-07-09 04:33:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Watch Balenciaga Couture - Vogue",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1940,
+      "title": "Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News",
+      "link": "https://www.cbsnews.com/atlanta/video/trending-cbs-news-app-jermaine-dupri-sues-sony-music-fifa-fan-fest-hours-extended-colt-gray-trial/",
+      "source": "Tavily (www.cbsnews.com)",
+      "snippet": "# Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial. Atlanta music legend Jermaine Dupri is suing Sony Music for $18 million for what he says are unpaid royalties from decades of music. Plus, Centennial Park FIFA Fan Festival is extending its hours, and Delta announces a new Delta One lounge. Download the CBS News App to keep up with the latest.",
+      "published_at": "Wed, 08 Jul 2026 21:43:00 GMT",
+      "collected_at": "2026-07-09 04:33:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1941,
+      "title": "CoMMA presents Kevin Nealon - WFAE",
+      "link": "https://www.wfae.org/community-calendar/event/comma-presents-kevin-nealon-07-07-2026-09-57-28",
+      "source": "Tavily (www.wfae.org)",
+      "snippet": "90.7 Charlotte 93.7 Southern Pines 90.3 Hickory 106.1 Laurinburg. # CoMMA presents Kevin Nealon. Emmy and SAG-nominated actor, comedian, and author Kevin Nealon is best known for his nine-year stint as a cast member of NBC's Saturday Night Live, and has received critical acclaim for his role in the Showtime series Weeds. Kevin most recently starred on the CBS-TV comedy series Man With A Plan, produces and hosts digital series Hiking with Kevin, and tours his stand-up globally. His extensive film career includes projects such as Anger Management, Eight Crazy Nights, The Wedding Singer, Happy Gilmore, Just Go With It, You Don't Mess with the Zohan, Joe Dirt, Daddy Day Care, Roxanne, and Grandma's Boy. Tickets on sale August 10 @ 12pm. \\*Above prices include $3 facility fee. \\*PLUS additional 6.75% NC sales tax. \\*All persons must have a ticket, including infants. Adult: $23 - $58 / Youth: $13. 07:00 PM - 11:59 PM on Thu, 29 Oct 2026.",
+      "published_at": "Wed, 08 Jul 2026 13:26:12 GMT",
+      "collected_at": "2026-07-09 04:33:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "CoMMA presents Kevin Nealon - WFAE",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1942,
+      "title": "This free S.F. jazz festival is back after a funding scare - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/fillmore-jazz-festival-22327689.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# This free S.F. jazz festival is back after a funding scare. Faced with a lack of funds to pay for $400,000 in yearly operating expenses, the Fillmore Jazz Festival had to cancel just two months before its July Fourth weekend start date in 2025. On Saturday-Sunday, July 4-5, the festival fills 12 blocks of Jackson and Eddy streets with more than 30 free jazz performances on five stages, as well as food and clothes vendors. Davis Cuffe is a Dow Jones News Fund multiplatform editing intern at the San Francisco Chronicle working with the copy desk, where he edits print, digital and newsletter content for style and accuracy. Cuffe is a recent graduate of the University of North Carolina at Charlotte, where he served as the editor-in-chief of the student newspaper, the Niner Times.",
+      "published_at": "Thu, 02 Jul 2026 21:48:16 GMT",
+      "collected_at": "2026-07-09 04:33:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "This free S.F. jazz festival is back after a funding scare - San Francisco Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1943,
+      "title": "This is NYC's biggest new restaurant opening of the year - NBC New York",
+      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/this-is-nycs-biggest-new-restaurant-opening-of-the-year/6523437/?amp=1",
+      "source": "Tavily (www.nbcnewyork.com)",
+      "snippet": "New York Live 1 hour ago. # This is NYC's biggest new restaurant opening of the year. Lauren Scala meets up with Simon Kim for the scoop on 550 Madison, a new multi-level bar and restaurant concept on the East Side. #### Jesse Lally on the new friends & romances of ‘The Valley'. #### Ashley Williams on celebrating ‘Christmas at Sea' with Hallmark's biggest fans. #### Beat the heat with these summer beauty essentials. #### Jessica Frances Dukes on being the ‘boss' of ‘The Westies'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
+      "published_at": "Wed, 08 Jul 2026 17:55:24 GMT",
+      "collected_at": "2026-07-09 04:33:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "This is NYC's biggest new restaurant opening of the year - NBC New York",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1933,
       "title": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost",
@@ -484,90 +554,31 @@
       "summary": "Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1911,
-      "title": "\"I fuck with PG\" - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/fuck-pg-011457260.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* The Kevin O'Connor Show. * Why U.S. can't appeal red card. * WNBA All-Star starter snubs. * Ovechkin back for 22nd season. # \"I fuck with PG\". > Law Murray: \"I fuck with PG\" -- Jaylen Brown, saying Paul George hooping vs Celtics in playoffs helped this deal go down. *This article originally appeared on Hoops Hype:* *\"I fuck with PG\"*.",
-      "published_at": "Fri, 03 Jul 2026 01:14:00 GMT",
-      "collected_at": "2026-07-03 04:28:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "\"I fuck with PG\" - Yahoo Sports",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1912,
-      "title": "The Association: Breaking down Jaylen Brown's fit with the 76ers - NBA.com",
-      "link": "https://www.nba.com/watch/video/the-association-breaking-down-jaylen-browns-fit-with-the-76ers",
-      "source": "Tavily (www.nba.com)",
-      "snippet": "# more to watch. ## The Association: Breaking down Jaylen Brown's fit with the 76ers. Darren Collison breaks down how Jaylen Brown will fit in with the Philadelphia 76ers. # Playlist.",
-      "published_at": "Fri, 03 Jul 2026 01:37:51 GMT",
-      "collected_at": "2026-07-03 04:28:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "The Association: Breaking down Jaylen Brown's fit with the 76ers - NBA.com",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1913,
-      "title": "BET Awards nominations 2026: See the full list, led by Cardi B, Kendrick Lamar and Mariah the Scientist - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/general/article/bet-awards-winners-2026-see-the-full-list-from-teyana-taylor-to-lauryn-hill-and-cardi-b-134151276.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# BET Awards winners 2026: See the full list, from Teyana Taylor to Lauryn Hill and Cardi B. ## Taylor was moved to tears after Janet Jackson surprised her with the Icon of the Year award. Teyana Taylor fought back tears at the BET Awards on Sunday night as Janet Jackson made a surprise appearance to present her with the Icon of the Year Award. The singer, actor and director was overcome with emotion as Jackson praised her \"unstoppable\" work ethic and \"God-given\" talents before handing her the honor. The *One Battle After Another* star was one of the night's big winners, also taking home Best Actress, Video Director of the Year and the new Fashion Vanguard Award. Meanwhile, Lauryn Hill won the Living Legend Icon Award and performed two tracks, \"Ex-Factor\" and \"Everything Is Everything.\" She also received a 20-minute tribute from artists including SZA, Doechii, Lizzo, Queen Latifah and Common. Other winners included Cardi B, Kendrick Lamar, Michael B. * \"It Depends (The Remix)\": Chris Brown feat.",
-      "published_at": "Mon, 29 Jun 2026 09:55:07 GMT",
-      "collected_at": "2026-07-03 04:28:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "BET Awards nominations 2026: See the full list, led by Cardi B, Kendrick Lamar and Mariah the Scientist - Yahoo",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1914,
-      "title": "'Köln 75' review: The story behind jazz's most famous concert - The Jerusalem Post",
-      "link": "https://www.jpost.com/israel-news/culture/article-900968",
-      "source": "Tavily (www.jpost.com)",
-      "snippet": "For jazz aficionados, the title of the movie, *Köln 75*, says it all. They will know that it refers to a concert by Keith Jarrett, an improvisation that was recorded and became the bestselling solo jazz record of all time. Jazz buffs will certainly want to see this movie, which opens in theaters across Israel on Thursday, but it isn’t only for those who are into improvisational jazz. It’s about a love for music more than it is about music itself, and it’s a tale of a magnificent obsession. The movie opens at Vera’s 50th birthday party, where she is surrounded by affectionate friends, but the event is marred by the presence of her judgmental, cold father, who never saw anything of value in her life’s work of promoting and arranging jazz concerts. Vera falls in love with the music, not the man, and she has one goal from then on: To book a major concert for Jarrett in Köln.",
-      "published_at": "Tue, 30 Jun 2026 13:40:55 GMT",
-      "collected_at": "2026-07-03 04:28:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "'Köln 75' review: The story behind jazz's most famous concert - The Jerusalem Post",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1915,
-      "title": "Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding - New York Post",
-      "link": "https://nypost.com/2026/07/01/sports/jalen-brunson-knicks-invited-to-taylor-swift-travis-kelce-msg-wedding/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "# Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding. The Taylor Swift-Travis Kelce Garden party might include, well, some of the championship tenants of MSG. Jalen Brunson and “the starting lineup for the Knicks” have been invited to the power couple’s wedding on Friday in New York, Page Six reported. Swift and the Knicks are plenty familiar with each other, as the “Welcome to New York” singer took in the Knicks’ historic 29-point comeback in Game 4 of the NBA Finals. Swift, who wore a blue and orange “Stevie Knicks” T-shirt, was sitting courtside on Celebrity Row with fellow singers Este Haim and Alana Haim and “Law and Order: Special Victims Unit” actress Mariska Hargitay as the Knicks improbably rallied to win their third game of the Finals. The Haim sisters, along with Hargitay, are among the other high-profile guests invited to the big bash, according to Page Six. Some of Kelce’s Chiefs teammates are expected to attend.",
-      "published_at": "Wed, 01 Jul 2026 22:32:24 GMT",
-      "collected_at": "2026-07-03 04:28:07",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jalen Brunson, NBA champion Knicks score invites to Taylor Swift-Travis Kelce MSG wedding - New York Post",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 107,
-    "report_date": "2026-07-08",
-    "total_articles": 6,
+    "id": 108,
+    "report_date": "2026-07-09",
+    "total_articles": 5,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 6,
+    "neutral_count": 5,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost、My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports、MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
-    "created_at": "2026-07-08 03:56:23"
+    "key_events": "Watch Balenciaga Couture - Vogue、Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News、CoMMA presents Kevin Nealon - WFAE",
+    "created_at": "2026-07-09 04:33:51"
   },
   "recentReports": [
+    {
+      "id": 108,
+      "report_date": "2026-07-09",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Watch Balenciaga Couture - Vogue、Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News、CoMMA presents Kevin Nealon - WFAE",
+      "created_at": "2026-07-09 04:33:51"
+    },
     {
       "id": 107,
       "report_date": "2026-07-08",
@@ -633,17 +644,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "How Britney Spears Reacted to Her Sons' Paris Fashion Week Runway Debut - TMZ、Exclusive: ADA Canada and Warner Music Canada Ink Global Distribution Deal With Toronto R&B Label Escape Records - Billboard Canada、\"I fuck with PG\" - Yahoo Sports",
       "created_at": "2026-07-03 04:28:12"
-    },
-    {
-      "id": 101,
-      "report_date": "2026-07-02",
-      "total_articles": 7,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 7,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Michael overtakes Oppenheimer as highest-grossing biopic worldwide - BBC、Chris Brown Ordered to Pay $13M Over Alleged Dog Attack - TMZ、Danny Glover reveals Alzheimer's diagnosis and Swift-Kelce buzz - Modern Ghana",
-      "created_at": "2026-07-02 04:43:27"
     }
   ]
 }
