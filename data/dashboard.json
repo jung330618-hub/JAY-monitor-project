@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
+    "total": 3,
     "positive": 0,
     "negative": 0,
-    "neutral": 9
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 1961,
+    "total": 1964,
     "positive": 559,
     "negative": 65,
-    "neutral": 1337,
+    "neutral": 1340,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-27",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-28",
       "total": 6,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 9,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-12",
+      "total": 3,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1962,
+      "title": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times",
+      "link": "https://lowerbuckstimes.com/2026/07/11/jay-z-reasonable-doubt-yankee-stadium-beyonce-nas/",
+      "source": "Tavily (lowerbuckstimes.com)",
+      "snippet": "HomeEntertainmentJay-Z Brought Out Beyoncé, Blue Ivy and Nas for Reasonable Doubt at... # Jay-Z Brought Out Beyoncé, Blue Ivy and Nas for Reasonable Doubt at 30, and Yankee Stadium Lost Its Mind. Jay-Z’s Reasonable Doubt 30th anniversary concert at Yankee Stadium was billed as a victory lap for one man, and it turned into the biggest family reunion hip-hop has staged in years. On Friday, July 10, the rapper born Shawn Carter walked out into the Bronx ballpark to play his 1996 debut front to back, and by the end of the night he had shared the stage with his wife, his oldest daughter, his fiercest one-time rival and one of the most famous voices in New York music. It was the first of three sold-out shows, and it set a bar that will be hard to top. On this night, roughly 45,000 people paid to hear every word of it, and Jay-Z spent the evening reminding them how far that record traveled.",
+      "published_at": "Sat, 11 Jul 2026 16:49:03 GMT",
+      "collected_at": "2026-07-12 04:07:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1963,
+      "title": "'Jeopardy!' recap: What happened on July 7, 2026 - USA Today",
+      "link": "https://www.usatoday.com/story/entertainment/2026/07/08/entertainment-2026-07-07-what-to-watch-jeopardy/90844059007/",
+      "source": "Tavily (www.usatoday.com)",
+      "snippet": "'Jeopardy!' recap: What happened on July 7, 2026. \"Jeopardy!\" aired on July 7 featuring Caleb Groen, Michael Yates and Jessica Davis. The game included six triple stumpers and came down to Final Jeopardy! * **Winner: Caleb Groen**—**$21,201**. * 2nd: Jessica Davis—$18,800. * 3rd: Michael Yates—$14,000. 1. Caleb Groen: Start $17,600—Wager $3,601—**$21,201**. 2. Michael Yates: Start $10,600—Wager $3,400—**$14,000**. 3. Jessica Davis: Start $10,600—Wager $8,200—**$18,800**. ## What's next on 'Jeopardy!'. Season 42 continues on Wednesday with Caleb Groen returning as champion to face two new challengers. Tune in to the next episode to see if the winner will extend the streak or go home. **Watch it here:** Stream your favorite shows, the biggest blockbusters and more. ## Top 5 all-time 'Jeopardy!' winners. 1. **Ken Jennings**—**74**wins—**$2,520,700**. 2. **Amy Schneider**—**40**wins—**$1,382,800**. 3. **Matt Amodio**—**38**wins—**$1,518,601**. **Disclaimer:** *This \"Jeopardy!\" recap was generated automatically using information from \"Jeopardy!\" through a partnership with USA TODAY. You can send feedback to this form**.*. Share your feedback to help improve our site!",
+      "published_at": "Wed, 08 Jul 2026 05:30:00 GMT",
+      "collected_at": "2026-07-12 04:07:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "'Jeopardy!' recap: What happened on July 7, 2026 - USA Today",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1964,
+      "title": "Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
+      "link": "https://variety.com/2026/music/news/jay-z-brings-out-beyonce-blue-ivy-carter-yankee-stadium-1236807113/",
+      "source": "Tavily (variety.com)",
+      "snippet": "# Jay-Z Brings Out Beyoncé, Blue Ivy Carter, Nas, Alicia Keys and More for ‘Reasonable Doubt’ 30th Anniversary Show at Yankee Stadium. That didn’t stop him from pulling out all the stops — well, most of them, at least — during the first of his three headlining shows at Yankee Stadium on Friday night, setting off a string of performances to commemorate a pair of milestones (the other being the 25th anniversary of “The Blueprint”) plus a bonus show billed as “Extra Innings” that, as of now, has a stadium-sized question mark hanging over what it will actually be. For his “Reasonable Doubt” show, it wasn’t entirely off-script — every song from the record was performed in one way or another — yet he turned the night into a Jay-Z history lesson, weaving in bits and bobs from other hits and bringing out a murderer’s row of guests spanning his family (Beyoncé, Blue Ivy Carter) to friends and former foes (Nas, Jaz-O) in an effort to round out the world he’d built three decades ago.",
+      "published_at": "Sat, 11 Jul 2026 05:45:09 GMT",
+      "collected_at": "2026-07-12 04:07:54",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1953,
       "title": "Paris Jackson on the Perfume Oil That Reminds Her of Her Father - Vogue",
@@ -512,62 +554,31 @@
       "summary": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1937,
-      "title": "Ella Mai asks S.F. fans: ‘Do You Still Love Me?’ - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/ella-mai-sf-22325820.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# Ella Mai asks S.F. fans: ‘Do You Still Love Me?’. After nearly seven years away from the Bay Area, Ella Mai is returning to ask her fans a major question: “Do You Still Love Me?”. But it wasn’t until several years later, in 2018, that she made waves in the mainstream with her breakout single “Boo’d Up,” which went on to earn her a Grammy Award for best R&B song. Mai released her third studio album — “Do You Still Love Me?” — in February, her first since the 2024 birth of her first child. The singer-songwriter is now scheduled to perform at San Francisco’s Bill Graham Civic Auditorium on July 18, along with supporting acts AMA and Girlfriend. She joined the Chronicle as a summer 2023 intern for the Datebook team. Irshad was part of the honors program for her major and double-minored in world literature and film studies.",
-      "published_at": "Tue, 07 Jul 2026 11:00:00 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Ella Mai asks S.F. fans: ‘Do You Still Love Me?’ - San Francisco Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1938,
-      "title": "The Sacramento Kings officially announced the signing … - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/sacramento-kings-officially-announced-signing-191756555.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "* The Kevin O'Connor Show. * Stellar USMNT run is over. * McGregor set for UFC return. # The Sacramento Kings officially announced the signing …. > James Ham: The Sacramento Kings officially announced the signing of Precious Achiuwa. *This article originally appeared on Hoops Hype:* *The Sacramento Kings officially announced the signing …*.",
-      "published_at": "Tue, 07 Jul 2026 19:17:56 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "The Sacramento Kings officially announced the signing … - Yahoo Sports",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1928,
-      "title": "Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2 - TMZ",
-      "link": "https://www.tmz.com/2026/07/06/milo-ventimiglia-and-wife-jarah-mariano-have-baby/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2. ## Milo Ventimiglia & Jarah Mariano Saying Hey to Baby No. 2!!! **Milo Ventimiglia** and wife **Jarah Mariano** have officially welcomed baby No. 2!!! Sources with direct knowledge tell TMZ the \"This Is Us\" actor and the model welcomed their second child in June -- this time, a baby boy. We're told the couple became a family of four last month in the Newport Beach area, naming their son **Rock-Anthony Makoa Ventimiglia**. His arrival comes just over a year after the birth of their first child, daughter **Ke'ala Cora**. The growing family marks another milestone for Ventimiglia and Mariano, who have kept much of their relationship out of the spotlight. They surprised fans with news of their first pregnancy in 2024 and welcomed daughter Ke'ala later that year. Last year, the family also endured heartbreak after losing their Malibu home in the devastating Los Angeles-area wildfires, making the arrival of baby Rock-Anthony an especially joyful chapter.",
-      "published_at": "Mon, 06 Jul 2026 18:37:54 GMT",
-      "collected_at": "2026-07-07 04:34:32",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2 - TMZ",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 110,
-    "report_date": "2026-07-11",
-    "total_articles": 9,
+    "id": 111,
+    "report_date": "2026-07-12",
+    "total_articles": 3,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 9,
+    "neutral_count": 3,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Paris Jackson on the Perfume Oil That Reminds Her of Her Father - Vogue、Hit-Boy talks new album, producing mega-hits & Jay-Z's Yankee Stadium concert - Modern Ghana、Hit-Boy talks new album, producing mega-hits & Jay-Z's Yankee Stadium concert - Central Oregon Daily",
-    "created_at": "2026-07-11 03:54:37"
+    "key_events": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times、'Jeopardy!' recap: What happened on July 7, 2026 - USA Today、Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
+    "created_at": "2026-07-12 04:07:56"
   },
   "recentReports": [
+    {
+      "id": 111,
+      "report_date": "2026-07-12",
+      "total_articles": 3,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times、'Jeopardy!' recap: What happened on July 7, 2026 - USA Today、Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
+      "created_at": "2026-07-12 04:07:56"
+    },
     {
       "id": 110,
       "report_date": "2026-07-11",
@@ -633,17 +644,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue、The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku、Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
       "created_at": "2026-07-06 04:54:35"
-    },
-    {
-      "id": 104,
-      "report_date": "2026-07-05",
-      "total_articles": 3,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Travis Kelce’s uncle talks gifts ahead of reported wedding - Fox News、Watch CNBC’s full interview with Wharton’s Jeremy Siegel - CNBC、Jessica Mauboy: ‘Why did I do a kookaburra call for Ellen DeGeneres? Did I think that was cool?’ - The Guardian",
-      "created_at": "2026-07-05 04:42:49"
     }
   ]
 }
