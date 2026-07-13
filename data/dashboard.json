@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 7,
     "positive": 0,
     "negative": 0,
-    "neutral": 3
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1964,
+    "total": 1971,
     "positive": 559,
     "negative": 65,
-    "neutral": 1340,
+    "neutral": 1347,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-28",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-06-29",
       "total": 6,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-13",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1965,
+      "title": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News",
+      "link": "https://www.eonline.com/news/1433876/inside-taylor-swifts-new-role-as-aunt-to-travis-kelces-nieces",
+      "source": "Tavily (www.eonline.com)",
+      "snippet": "# Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It. When Taylor Swift wed Travis Kelce at MSG on July 3, she officially became an aunt to his nieces Wyatt, Elliotte, Bennett and Finnley—Jason Kelce and Kylie Kelce's daughters. Watch: The Role Jason Kelce's Kids Played in Travis Kelce, Taylor Swift Wedding. Because it was recently revealed that **Jason Kelce** and **Kylie Kelce**’s daughters—**Wyatt Kelce**, 6, **Elliotte Kelce**, 5, **Bennett Kelce**, 3, and **Finnley Kelce**, 15 months—were the flower girls at their uncle **Travis Kelce**’s wedding to **Taylor Swift**. Taylor Swift, Travis Kelce Wedding: All the Celebrity Guests. \"I just enjoy her being my brother’s soon-to-be wife, and aunt to my kids,\" the former Philadelphia Eagles player told *The Wall Street Journal* in December, \"and we try to leave that relationship where it should be, there.\". And you can call it what you want, but Jason and Kylie's daughters have a specific name for the game they like to play with their aunt and uncle.",
+      "published_at": "Sun, 12 Jul 2026 10:00:00 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1966,
+      "title": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/celebrity/articles/why-michael-jackson-daughter-paris-142006409.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "She is asking a court to take a closer look at how the pop icon's estate is being handled by its executors – the people responsible for managing it. Paris Jackson has accused executors John Branca and John McClain of paying themselves and the estate's lawyers too much, and for leaving $464 million owned by the estate uninvested. Paris Jackson also has accused Branca of misusing his position as producer of \"Michael,\" an upcoming Michael Jackson biopic reportedly financed by Jackson's estate, to cast an A-list celebrity – Miles Teller – to play the role of Branca himself in the film. As law professors who study the transfer of property after death, we find that when disputes over inherited wealth become national news, they are often difficult to understand because this type of legal process is obscure and most people never interact directly with the probate court system.",
+      "published_at": "Sun, 12 Jul 2026 14:20:06 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1967,
+      "title": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
+      "link": "https://au.variety.com/2026/music/news/jay-z-the-blueprint-anniversary-yankee-stadium-38480/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "# Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium. Jay-Z was almost entirely truthful to the source material for his 25th anniversary Yankee Stadium show on Saturday to celebrate “The Blueprint,” setting guests artists to high wattage but low frequency as he trotted out Eminem, Pharrell Williams and Slick Rick for a curtailed 90-minute set. The show began with instant homage as Jay brought out Slick Rick for “The Ruler’s Back,” launching into the factory line of songs that made up the spine of “The Blueprint.” There were stadium-sized highs (“U Don’t Know”), somber lows (“Song Cry”) and a highly assumed appearance from Eminem, who traded verses with Jay on “Renegade” and reemerged to perform his signature hit “Lose Yourself.”. Jay then kicked back up with “Empire State of Mind,” New York City’s torch song that he performed on Friday with Alicia Keys, before enlisting Pharrell Williams for a slew of collaborative hits spanning “I Just Wanna Love U (Give It 2 Me)” to “Frontin.” The show then, surprisingly, finished quickly, with “N—s in Paris,” “Public Service Announcement” and “Encore.”.",
+      "published_at": "Sun, 12 Jul 2026 19:51:46 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1968,
+      "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+      "link": "https://www.tmz.com/2026/07/12/jay-z-fans-fight-with-security-at-yankee-stadium-concert/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows. ## Jay-Z Concert Fans Get Into Brawl With Security ... Video: Jay-Z Fans Clash With Security at Yankee Stadium Concert. **Jay-Z**'s second night of his three shows at Yankee Stadium was not without crowd drama ... The legendary rapper hit the stage at the famous Bronx ballpark on Saturday night and, at one point, **Alicia Keys** joined him on stage to perform their iconic song, \"Empire State of Mind.\" That's when things got heated between the fans and security guards. Once he was on his feet, the fan slugs a security officer in the face before he's taken away by several other guards. Video: Jay Z Surprises Fans With Eminem At Yankee Stadium. Jay-Z **kicked off** his \"Reasonable Doubt\" 30th anniversary concert series with a snip-tease on Friday -- with **Beyoncé** giving his hair a trim in the stands of Yankee Stadium.",
+      "published_at": "Sun, 12 Jul 2026 17:31:14 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1969,
+      "title": "Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/music/articles/beyonce-blue-ivy-stage-jay-170653204.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "# Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show. Image 3: Jay-Z and Blue Ivy arrive on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. Jay-Z and Blue Ivy arrive on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. July 11 (UPI) -- Rapper Jay-Z's Grammy-winning wife Beyonce and daughter Blue Ivy took the stage at his Yankee stadium concert Friday night. They are also the parents of 9-year-old twins, Rumi and Sir. Image 4: Beyoncé arrives on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. Beyoncé arrives on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City.",
+      "published_at": "Sat, 11 Jul 2026 17:34:33 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show - Yahoo",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1970,
+      "title": "Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/25454209-yankees-honor-jay-z-new-chicken-fries-boot-concession-menu-30th-anniversary-concerts",
+      "source": "Tavily (bleacherreport.com)",
+      "snippet": "# Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts. Yankee Stadium is offering a special menu item as part of rapper Jay-Z's run of three concerts at the venue this weekend. In a post on X, the New York Yankees showed off the \"tenders and fries in a boot box,\" which will be available for purchase during Jay-Z's third and final concert at Yankee Stadium on Sunday night:. Bleacher Report### MLB Draft Grades 🔢. Bleacher Report### Sánchez, Cease to Start All-Star Game. The concerts are a celebration of the 30th anniversary of the release of Jay-Z's first album *Reasonable Doubt*, which dropped in June 1996. The packaging for the chicken tender and fry combo that will be sold at Yankee Stadium fittingly resembles the Timberland boots Jay-Z has become synonymous with over the years. Bleacher Report### Trade Ideas to Boost Contenders 💡. ### Conor Suffers Injury in UFC Return. ### ETA to The Show ⏰.",
+      "published_at": "Sun, 12 Jul 2026 18:19:04 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts - Bleacher Report",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1971,
+      "title": "Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium - ABC7 New York",
+      "link": "https://abc7ny.com/post/security-breach-causes-chaos-delays-start-final-jay-concert-yankee-stadium/19495772/",
+      "source": "Tavily (abc7ny.com)",
+      "snippet": "# Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium. THE BRONX (WABC) -- There was chaos at Jay-Z's third and final Yankee Stadium concert after a security breach delayed the show. Thousands of fans were seen outside the stadium waiting to get inside. A police source tells Eyewitness News a large group broke through security, prompting a full lockdown of the stadium. For a while, no one was allowed in or out. \"We got here a little after 8, went to Gate 2, they bum rushed Gate 2. People went past security, were not checked and got into the stadium. They closed down Gate 2, we went to Gate 4, same thing happened,\" said Rosalynn Glover, \"We were at the suite section, they would not even let us in there. The people working at Gate 4 were laughing. The concert was scheduled to begin at 8 p.m. The gates reopened shortly before 10 p.m. with police patrolling each entrance.",
+      "published_at": "Mon, 13 Jul 2026 02:49:00 GMT",
+      "collected_at": "2026-07-13 04:10:31",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium - ABC7 New York",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1962,
       "title": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times",
@@ -456,118 +554,31 @@
       "summary": "Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1941,
-      "title": "CoMMA presents Kevin Nealon - WFAE",
-      "link": "https://www.wfae.org/community-calendar/event/comma-presents-kevin-nealon-07-07-2026-09-57-28",
-      "source": "Tavily (www.wfae.org)",
-      "snippet": "90.7 Charlotte 93.7 Southern Pines 90.3 Hickory 106.1 Laurinburg. # CoMMA presents Kevin Nealon. Emmy and SAG-nominated actor, comedian, and author Kevin Nealon is best known for his nine-year stint as a cast member of NBC's Saturday Night Live, and has received critical acclaim for his role in the Showtime series Weeds. Kevin most recently starred on the CBS-TV comedy series Man With A Plan, produces and hosts digital series Hiking with Kevin, and tours his stand-up globally. His extensive film career includes projects such as Anger Management, Eight Crazy Nights, The Wedding Singer, Happy Gilmore, Just Go With It, You Don't Mess with the Zohan, Joe Dirt, Daddy Day Care, Roxanne, and Grandma's Boy. Tickets on sale August 10 @ 12pm. \\*Above prices include $3 facility fee. \\*PLUS additional 6.75% NC sales tax. \\*All persons must have a ticket, including infants. Adult: $23 - $58 / Youth: $13. 07:00 PM - 11:59 PM on Thu, 29 Oct 2026.",
-      "published_at": "Wed, 08 Jul 2026 13:26:12 GMT",
-      "collected_at": "2026-07-09 04:33:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "CoMMA presents Kevin Nealon - WFAE",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1942,
-      "title": "This free S.F. jazz festival is back after a funding scare - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/music/article/fillmore-jazz-festival-22327689.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# This free S.F. jazz festival is back after a funding scare. Faced with a lack of funds to pay for $400,000 in yearly operating expenses, the Fillmore Jazz Festival had to cancel just two months before its July Fourth weekend start date in 2025. On Saturday-Sunday, July 4-5, the festival fills 12 blocks of Jackson and Eddy streets with more than 30 free jazz performances on five stages, as well as food and clothes vendors. Davis Cuffe is a Dow Jones News Fund multiplatform editing intern at the San Francisco Chronicle working with the copy desk, where he edits print, digital and newsletter content for style and accuracy. Cuffe is a recent graduate of the University of North Carolina at Charlotte, where he served as the editor-in-chief of the student newspaper, the Niner Times.",
-      "published_at": "Thu, 02 Jul 2026 21:48:16 GMT",
-      "collected_at": "2026-07-09 04:33:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "This free S.F. jazz festival is back after a funding scare - San Francisco Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1943,
-      "title": "This is NYC's biggest new restaurant opening of the year - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/this-is-nycs-biggest-new-restaurant-opening-of-the-year/6523437/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "New York Live 1 hour ago. # This is NYC's biggest new restaurant opening of the year. Lauren Scala meets up with Simon Kim for the scoop on 550 Madison, a new multi-level bar and restaurant concept on the East Side. #### Jesse Lally on the new friends & romances of ‘The Valley'. #### Ashley Williams on celebrating ‘Christmas at Sea' with Hallmark's biggest fans. #### Beat the heat with these summer beauty essentials. #### Jessica Frances Dukes on being the ‘boss' of ‘The Westies'. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Wed, 08 Jul 2026 17:55:24 GMT",
-      "collected_at": "2026-07-09 04:33:48",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "This is NYC's biggest new restaurant opening of the year - NBC New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1933,
-      "title": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost",
-      "link": "https://www.huffpost.com/entry/jalen-brunson-childrens-book-family-fandom_n_6a42fdcfe4b0f259890f14cd",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "Part of HuffPost Black Voices. # My Son Found A Hero In Jalen Brunson. “Jalen Plays It All” has been announced at the perfect moment for a 5-year-old superfan and a grandfather’s legacy waiting to be passed down. Growing up in New York City meant that I was constantly surrounded by Knicks fans — and my father was a particularly influential one in my life. But when I had my son, Zakai, I suspected that he’d inherit my dad’s passion for our home team. While he now has his dad, who is also a Knicks superfan, to teach him all about the game’s history and technical aspects, it has been heartwarming to see Brunson open up a new world to my son. And so, I can’t wait to get our copy of “Jalen Plays It All” and read it to him with all of the enthusiasm and pride that my father would.",
-      "published_at": "Tue, 07 Jul 2026 15:04:08 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1934,
-      "title": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports",
-      "link": "https://sports.yahoo.com/articles/son-found-hero-jalen-brunson-150408308.html",
-      "source": "Tavily (sports.yahoo.com)",
-      "snippet": "# My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. But when I had my son, Zakai, I suspected that he'd inherit my dad's passion for our home team. And through the roars of a crowd who were just as hopeful as my dad, I'd witness him come alive with hope and excitement. The Knicks created a space for his joy, and I loved to see it. While he now has his dad, who is also a Knicks superfan, to teach him all about the game's history and technical aspects, it has been heartwarming to see Brunson open up a new world to my son. And so, I can't wait to get our copy of \"Jalen Plays It All\" and read it to him with all of the enthusiasm and pride that my father would.",
-      "published_at": "Tue, 07 Jul 2026 15:04:08 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1935,
-      "title": "MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
-      "link": "https://www.forbes.com/sites/laurasirikul/2026/07/07/monsta-xs-kihyun-has-been-everywhere-but-now-is-at-the-borderline/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’. Now in his 30s and with over 10 years in the music industry, he’s ready to show a deeper, more mature side of himself with his new EP, *BORDERLINE*. The concepts shown for *BORDERLINE* with Kihyun at the airport and surrounded by travel elements make so much sense, as he’s become so worldly throughout his young life. The seven-track pop-rock-driven EP isn’t so much about his youth and the nostalgia behind it as about the complex road he’s on now. Known best to his fans as the gentleman of the group (all of them are, but Kihyun is so fancy), he has always been seen as the level-headed one who seems to know what he’s doing or where he’s headed.",
-      "published_at": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1936,
-      "title": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
-      "link": "https://variety.com/2026/music/news/jermaine-dupri-sues-sony-music-mariah-carey-usher-royalties-1236803800/",
-      "source": "Tavily (variety.com)",
-      "snippet": "*   Plus Icon What To Watch. *   Plus Icon What To Hear. Plus Icon Click to expand the Mega Menu. Jermaine Dupri has filed an $18 million lawsuit against Sony Music Entertainment, alleging that the company failed to properly pay royalties for releases from Mariah Carey, Usher, Xscape, Kris Kross and more. The suit, filed on Monday and reviewed by _Variety_, accuses SME of having “not been lawful” in its dealings with Dupri dating back to May 1992, when his imprint So-So Def Entertainment entered into an agreement with the company. Dupri’s attorneys detail a long pattern of unpaid royalties, including $960,000 in unpaid producer royalties for Xscape’s “Hummin’ Comin’ At ‘Cha” and over $1 million for Da Brat’s “Funkdafied.” The suit also claims there were understated royalties payable to So-So Def in connection with albums released by Carey, Bow Wow, Usher, J-Kwon, Dupri and Bone Crusher.",
-      "published_at": "Tue, 07 Jul 2026 18:04:11 GMT",
-      "collected_at": "2026-07-08 03:56:19",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jermaine Dupri Sues Sony Music for $18 Million Over Unpaid Mariah Carey, Usher Royalties - Variety",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 111,
-    "report_date": "2026-07-12",
-    "total_articles": 3,
+    "id": 112,
+    "report_date": "2026-07-13",
+    "total_articles": 7,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 3,
+    "neutral_count": 7,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times、'Jeopardy!' recap: What happened on July 7, 2026 - USA Today、Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
-    "created_at": "2026-07-12 04:07:56"
+    "key_events": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News、Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo、Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
+    "created_at": "2026-07-13 04:10:36"
   },
   "recentReports": [
+    {
+      "id": 112,
+      "report_date": "2026-07-13",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News、Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo、Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
+      "created_at": "2026-07-13 04:10:36"
+    },
     {
       "id": 111,
       "report_date": "2026-07-12",
@@ -633,17 +644,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Milo Ventimiglia and Wife Jarah Mariano Welcome Baby No. 2 - TMZ、Wee-Man's Favorite Jackass Stunt - IGN、Angine de Poitrine, Patrick Watson & More Best Moments From the 2026 Montreal International Jazz Festival - Billboard Canada",
       "created_at": "2026-07-07 04:34:35"
-    },
-    {
-      "id": 105,
-      "report_date": "2026-07-06",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "12 Beauty Details You May Have Missed at the 2026 BET Awards - Vogue、The New Jackass Movie Does Something Hollywood Franchises Never Do Anymore: Say Goodbye And End - Kotaku、Kanye West Poses with Shane Gillis Backstage at San Antonio Concert - TMZ",
-      "created_at": "2026-07-06 04:54:35"
     }
   ]
 }
