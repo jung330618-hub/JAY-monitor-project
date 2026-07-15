@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 2
   },
   "allTimeStats": {
-    "total": 1978,
+    "total": 1980,
     "positive": 559,
     "negative": 65,
-    "neutral": 1354,
+    "neutral": 1356,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-06-30",
-      "total": 8,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 8,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-01",
       "total": 3,
@@ -132,9 +124,45 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-15",
+      "total": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1979,
+      "title": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider",
+      "link": "https://www.businessinsider.com/jay-z-watch-collection-photos",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "# What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece. Jay-Z once rapped the line \"Time is money.\" When he said that in his film \"Streets Is Watching,\" he meant it quite literally. You might remember the $1,075,652 Patek Philippe Grand Complication 5304-301R he wore at the 2025 Grammys. That was only one example — and it's far from the most expensive in his collection. ## Jay-Z has a Patek Philippe Grand Complication 5304-301R that retails for more than $1 million. Jay-Z, born Shawn Carter, is a big fan of Patek Philippe watches. He wore one with a rose-gold case and dozens of diamonds for the 2025 Grammys. On the Patek Philippe website, the watch is valued at $1,075,652. In 2012, his wife and fellow artist Beyoncé gifted Jay-Z a Hublot Big Bang in 18-karat white gold for his 43rd birthday.",
+      "published_at": "Tue, 14 Jul 2026 21:09:03 GMT",
+      "collected_at": "2026-07-15 03:45:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1980,
+      "title": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard",
+      "link": "https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist. Fanatics Fest is returning to NYC this weekend, and Audiomack unveiled the official playlist to soundtrack the festivities on Tuesday (July 14). The 50-track playlist boasts hits like Drake’s “Shabang,” Jay-Z’s “Empire State of Mind,” Justin Bieber’s “Yukon,” Sabrina Carpenter’s “Bed Chem,” Pop Smoke’s “Dior,” Don Toliver’s “E85” and Taylor Swift’s “Anti-Hero.”. “At Audiomack, we believe that discovering new artists is one of the most exciting parts of being a music fan. Fanatics Fest brings together sports, music, and entertainment in a way that feels incredibly authentic, so becoming the official streaming partner was a perfect fit. We’re excited to help soundtrack the weekend while introducing fans to the next generation of artists,” said Audiomack’s co-founder and chief marketing officer, **David Ponte**. Sports and music have been synonymous for decades, and those worlds will clash once again at Fanatics Fest, which takes over the Javits Center in NYC from July 16 through July 19.",
+      "published_at": "Wed, 15 Jul 2026 00:27:52 GMT",
+      "collected_at": "2026-07-15 03:45:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1972,
       "title": "Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
@@ -526,48 +554,31 @@
       "summary": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - HuffPost",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1946,
-      "title": "NCT’s Jaehyun drops self-written song - The Korea Herald",
-      "link": "https://www.koreaherald.com/article/10804948",
-      "source": "Tavily (www.koreaherald.com)",
-      "snippet": "# NCT’s Jaehyun drops self-written song. Add The Korea Herald on Google. Jaehyun of NCT is releasing the solo single “99 Degrees” online on Friday, label SM Entertainment said. A music video will support the single, and the trailer unveiled Thursday highlighted different sides of the idol, from the shining star on stage to a casual self rambling on streets. The single comes after his five-city solo fan concert tour across Asia, which concluded last week. The overseas trip marked his first reunion with fans in the region since he was discharged from the military in May. Jaehyun, along with four members of NCT127, will bring out their seventh LP on Aug. 24, and will have a concert in Seoul the following month. SK hynix seals $26.5b Nasdaq listing, world's biggest offering since SpaceX. SK hynix has priced its Nasdaq offering of American depositary receipts at $149 apiece, setting the deal at about $26.5 billion.",
-      "published_at": "Fri, 10 Jul 2026 04:21:44 GMT",
-      "collected_at": "2026-07-10 04:35:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "NCT’s Jaehyun drops self-written song - The Korea Herald",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1947,
-      "title": "Edi Rama, artist and Albanian PM, defends Kanye West concert - MSN",
-      "link": "https://www.msn.com/en-us/news/world/edi-rama-artist-and-albanian-pm-defends-kanye-west-concert/ar-AA27B9b5",
-      "source": "Tavily (www.msn.com)",
-      "snippet": "# Micro LED CPO“光进铜退”加速器？Micro LED光模块开启数据中心光互连新局！附股）. 光进铜退Micro LED CPO光互连，根据TrendForce集邦咨询最新调查，随着生成式AI兴起，数据中心对高速传输的需求持续提升，原先应用在机柜内(Intra-Rack)短距传输的铜缆方案，将在传输密度与节能上面临严峻挑战。相比之下，Micro LED CPO方案的单位传输能耗较低，可大幅降低整体能耗至铜缆方案的5%，有望凭节能优势成为光互连替代方案。. 光进铜退Micro LED CPO是一种将Micro LED芯片与AI计算芯片（如ASIC）通过先进封装技术集成的新型光互连方案。其核心是通过Micro LED替代传统铜缆或激光器作为光源，实现芯片级光信号传输，突破传统光模块的物理限制，满足AI数据中心对高密度、低延迟、低功耗的严苛需求。. 天风证券表示，当今数据中心网络中的链路技术必须在传输距离、功耗和可靠性之间做出根本性权衡。铜缆链路能效高且可靠性强，但传输距离极为有限（<2m），若使用有源铜缆，传输距离预计提升至5-7m，但随着带宽速率进一步提升，对铜缆传输距离的挑战将进一步加大。光链路可提供更长的传输距离，却以高功耗和较低可靠性为代价。随着网络速度的提升（1.6T/3.2T），这种权衡关系愈发显著，制约着未来的可扩展性。. Micro LED的制造面临量产难、巨量转移技术难度大、高昂成本、产业链配套等诸多问题，不过在2025年，Micro LED行业巨量转移良率问题得到解决，比如Q-Pixel发布Q-Transfer技术实现超过99.9995%的转移良率。2025年9月，佳明推出全球首款Micro LED智能手表Fenix 8 Pro，表明Micro LED技术在智能手表上已具备商业化能力。此外AI数据中心光互连也有着巨大吸引，国泰海通认为Micro LED行业已迎来涅槃重生，并有望在未来不断扩大应用场景、市场规模。. 随着应用场景的不断扩大，市场对于Micro LED的市场空间也充满了乐观预期。根据Omdia数据，2025年Micro LED显示器收入为5240万美元，预计2026年将增长至1.05亿美元，同比增幅达100%。. TrendForce集邦咨询预测，Micro LED显示应用芯片产值将从2024年的基数快速攀升，预计2029年达7.4亿美元，2024-2029年复合增长率达93% 。. 更远点看，Omdia预计，到2032年Micro LED显示器市场规模将扩大至68亿美元，占平板显示器市场总额的4.4% 。. 兆驰股份：Micro LED全产业链；外延/芯片/封装，具备CPO技术迁移能力。. 聚飞光电：Micro LED+Mini LED+CPO；参股熹联光芯（硅光芯片用于CPO），自身有光模块封装。公司的主营业务为LED封装，MicroLED是LED发展的最终形态，具有小型化，低功耗等优点。公司的MicroLED产品主要应用于显示终端，收入占比较低。目前公司MicroLED技术未应用于CPO领域，也未因CPO产生收入。. 沃格光电：玻璃基板叠加Mini/Micro LED，沃格光电2023年半年报显示，近三年，公司已与多家行业知名企业开展玻璃基在 Mini / Micro 直显产品的合作开发应用,目前有多个项目在开展。. 京东方A：2020年报显示公司已积极进行Mini/Macro LED研发与产品布局，无疑是Macro LED产业链第一梯队。. TCL科技：2021年7月12日回复称公司针对Micro-LED显示技术持续投入,与三安成立联合实验室聚焦Micro-LED技术开发,推动公司在该领域从材料、工艺、设备、产线方案到自主知识产权的生态布局,并形成Micro-LED商业化规模量产的工艺流程解决方案。. 维信诺：2021年8月5日回复称公司参股公司成都辰显光电近日成功点亮326ppi的1.84英寸Micro-LED可穿戴产品。成都辰显光电是公司与成都国资投资平台共同投资设立的MicroLED项目运营主体,围绕巨量转移、驱动与检测、芯片设计、彩色化等关键技术展开研发、生产工作。. 利亚德：其无锡的子公司，利晶微是和台湾晶元光电合资的企业，主要是Micro LED的全流程产线，厦门是利亚德全资的二期产线，正在建设。参股 赛富乐斯（Saphlux），获得其 NPQD 量子点红光 Micro LED 芯片的独家供应权，目前来说利亚德的核心优势就是Micro LED 的封装巨量转移技术，这个目前只有利亚德是唯一成熟的几年的产线经验了。. $华灿光电(SZ300323)$$TCL科技(SZ000100)$$三安光电(SH600703)$. #炒股日记##机构：Micro LED CPO开启数据中心互连新局#. **郑重声明：**用户在社区发表的所有信息将由本网站记录保存，仅代表作者个人观点，与本网站立场无关，不对您构成任何投资建议，据此操作风险自担。**请勿相信代客理财、免费荐股和炒股培训等宣传内容，远离非法证券活动。请勿添加发言用户的手机号码、公众号、微博、微信及QQ等信息，谨防上当受骗！**. 郑重声明：东方财富网发布此信息的目的在于传播更多信息，与本站立场无关。东方财富网不保证该信息（包括但不限于文字、视频、音频、数据及图表）全部或者部分内容的准确性、真实性、完整性、有效性、及时性、原创性等。相关信息并未经过本网站证实，不对您构成任何投资建议，据此操作，风险自担。. 信息网络传播视听节目许可证：0908328号 经营证券期货业务许可证编号：913101046312860336 违法和不良信息举报:021-61278686 举报邮箱：jubao@eastmoney.com. 沪ICP证:沪B2-20070217 网站备案号:沪ICP备05006054号-11  沪公网安备 31010402000120号 版权所有:东方财富网 意见与建议:4000300059/952500.",
-      "published_at": "Thu, 09 Jul 2026 22:07:01 GMT",
-      "collected_at": "2026-07-10 04:35:31",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "Edi Rama, artist and Albanian PM, defends Kanye West concert - MSN",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 113,
-    "report_date": "2026-07-14",
-    "total_articles": 7,
+    "id": 114,
+    "report_date": "2026-07-15",
+    "total_articles": 2,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
+    "neutral_count": 2,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety、‘They say I sold out’: Jay-Z challenges Target partnership critics in Yankee Stadium freestyle - Yahoo、Jay-Z’s Yankee Stadium Concert Delayed For Hours After Alleged Security Breach And Lockdown - Forbes",
-    "created_at": "2026-07-14 03:45:39"
+    "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
+    "created_at": "2026-07-15 03:46:00"
   },
   "recentReports": [
+    {
+      "id": 114,
+      "report_date": "2026-07-15",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
+      "created_at": "2026-07-15 03:46:00"
+    },
     {
       "id": 113,
       "report_date": "2026-07-14",
@@ -633,17 +644,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Watch Balenciaga Couture - Vogue、Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News、CoMMA presents Kevin Nealon - WFAE",
       "created_at": "2026-07-09 04:33:51"
-    },
-    {
-      "id": 107,
-      "report_date": "2026-07-08",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Why Jalen Brunson’s New Children’s Book Makes Me So Emotional - HuffPost、My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - Yahoo Sports、MONSTA X’s Kihyun Has Been Everywhere But Now Is At The ‘BORDERLINE’ - Forbes",
-      "created_at": "2026-07-08 03:56:23"
     }
   ]
 }

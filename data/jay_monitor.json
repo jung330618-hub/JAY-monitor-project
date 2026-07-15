@@ -27691,6 +27691,34 @@
       "summary": "Jay-Z brings out Rihanna and Beyoncé after delayed start at Yankee Stadium - Los Angeles Times",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1979,
+      "title": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider",
+      "link": "https://www.businessinsider.com/jay-z-watch-collection-photos",
+      "source": "Tavily (www.businessinsider.com)",
+      "snippet": "# What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece. Jay-Z once rapped the line \"Time is money.\" When he said that in his film \"Streets Is Watching,\" he meant it quite literally. You might remember the $1,075,652 Patek Philippe Grand Complication 5304-301R he wore at the 2025 Grammys. That was only one example — and it's far from the most expensive in his collection. ## Jay-Z has a Patek Philippe Grand Complication 5304-301R that retails for more than $1 million. Jay-Z, born Shawn Carter, is a big fan of Patek Philippe watches. He wore one with a rose-gold case and dozens of diamonds for the 2025 Grammys. On the Patek Philippe website, the watch is valued at $1,075,652. In 2012, his wife and fellow artist Beyoncé gifted Jay-Z a Hublot Big Bang in 18-karat white gold for his 43rd birthday.",
+      "published_at": "Tue, 14 Jul 2026 21:09:03 GMT",
+      "collected_at": "2026-07-15 03:45:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1980,
+      "title": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard",
+      "link": "https://www.billboard.com/music/music-news/jay-z-drake-justin-bieber-soundtrack-fanatics-fest-playlist-1236293861/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist. Fanatics Fest is returning to NYC this weekend, and Audiomack unveiled the official playlist to soundtrack the festivities on Tuesday (July 14). The 50-track playlist boasts hits like Drake’s “Shabang,” Jay-Z’s “Empire State of Mind,” Justin Bieber’s “Yukon,” Sabrina Carpenter’s “Bed Chem,” Pop Smoke’s “Dior,” Don Toliver’s “E85” and Taylor Swift’s “Anti-Hero.”. “At Audiomack, we believe that discovering new artists is one of the most exciting parts of being a music fan. Fanatics Fest brings together sports, music, and entertainment in a way that feels incredibly authentic, so becoming the official streaming partner was a perfect fit. We’re excited to help soundtrack the weekend while introducing fans to the next generation of artists,” said Audiomack’s co-founder and chief marketing officer, **David Ponte**. Sports and music have been synonymous for decades, and those worlds will clash once again at Fanatics Fest, which takes over the Javits Center in NYC from July 16 through July 19.",
+      "published_at": "Wed, 15 Jul 2026 00:27:52 GMT",
+      "collected_at": "2026-07-15 03:45:59",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -29266,6 +29294,17 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety、‘They say I sold out’: Jay-Z challenges Target partnership critics in Yankee Stadium freestyle - Yahoo、Jay-Z’s Yankee Stadium Concert Delayed For Hours After Alleged Security Breach And Lockdown - Forbes",
       "created_at": "2026-07-14 03:45:39"
+    },
+    {
+      "id": 114,
+      "report_date": "2026-07-15",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
+      "created_at": "2026-07-15 03:46:00"
     }
   ],
   "notification_logs": [
@@ -30934,11 +30973,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-07-14 03:45:42"
+    },
+    {
+      "id": 239,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-15 03:46:01"
+    },
+    {
+      "id": 240,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-15 03:46:01"
     }
   ],
   "_meta": {
-    "nextArticleId": 1979,
-    "nextReportId": 114,
-    "nextLogId": 239
+    "nextArticleId": 1981,
+    "nextReportId": 115,
+    "nextLogId": 241
   }
 }
