@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 2,
-    "positive": 0,
-    "negative": 0,
-    "neutral": 2
+    "total": 5,
+    "positive": 3,
+    "negative": 2,
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 1980,
-    "positive": 559,
-    "negative": 65,
+    "total": 1985,
+    "positive": 562,
+    "negative": 67,
     "neutral": 1356,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-01",
-      "total": 3,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-02",
       "total": 7,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 2,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-16",
+      "total": 5,
+      "positive": 3,
+      "negative": 2,
+      "neutral": 0,
+      "avg_score": 0.61
     }
   ],
   "recentArticles": [
+    {
+      "id": 1981,
+      "title": "周杰倫鳥巢演唱會前夕曝光 抱小女兒抵京 8歲兒子展獨立一面",
+      "link": "https://www.singtaousa.com/2026/06/26/entertainment/jay-chou-bird-nest-family-concert",
+      "source": "Tavily (www.singtaousa.com)",
+      "snippet": "台灣天王周杰倫的演唱會行程再度引起關注，他於今日起，一連三晚在北京國家體育場「鳥巢」舉行《龍拳北京嘉年華2026》演唱會。這次演出不僅是他出道25",
+      "published_at": "Thu, 25 Jun 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在北京鳥巢舉行《龍拳北京嘉年華2026》演唱會，並被拍到抱著小女兒抵京，而8歲兒子則展現獨立。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1982,
+      "title": "周杰倫杭州3小時演唱會翻車？ 被質疑「光明正大划水」",
+      "link": "https://www.worldjournal.com/wj/story/121233/9424576",
+      "source": "Tavily (www.worldjournal.com)",
+      "snippet": "周杰倫3日晚上在浙江杭州奧體中心「大蓮花」體育場裡舉辦演唱會，5萬多名歌迷冒雨擠爆會場，原以為可以感受一場視聽覺與青春交會的音樂饗宴，這場被宣傳為約3",
+      "published_at": "Mon, 06 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫在杭州的演唱會被質疑表現不佳，引發歌迷不滿，甚至被指控「光明正大划水」。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1983,
+      "title": "澳門日報電子版",
+      "link": "https://www.macaodaily.com/html/2026-06/30/content_1917759.htm",
+      "source": "Tavily (www.macaodaily.com)",
+      "snippet": "警方調取監控調查. 周杰倫演唱會周邊遭搶劫. 周杰倫全新巡演“龍拳 · 北京嘉年華II”一連三晚在北京鳥巢盛大開唱。這不僅是他相隔九年重返北京舉辦個人",
+      "published_at": "Thu, 02 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "負面",
+      "sentiment_score": 0.2,
+      "summary": "周杰倫在北京鳥巢舉辦的「龍拳 · 北京嘉年華II」演唱會周邊發生搶劫案，警方已介入調查。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1984,
+      "title": "林志穎也看周杰倫演唱會！和兒子台下「真實互動」被目擊　網讚：很會教",
+      "link": "https://www.setn.com/news/1574956",
+      "source": "Tavily (www.setn.com)",
+      "snippet": "「歌壇天王」周杰倫昨（5日）睽違7年回台舉辦演唱會，第一天的「嘉年華」巡迴演唱就吸引大批觀眾前往朝聖，不少人還意外發現到林志穎帶著孩子現身，",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "林志穎攜子觀看周杰倫睽違七年的演唱會，父子在台下的溫馨互動受到網友讚賞，顯示演唱會的熱烈與正面影響。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1985,
+      "title": "周杰倫等台灣歌手在大陸多地舉辦演唱會國台辦回應- 台海",
+      "link": "https://www.tkww.hk/a/202605/20/AP6a0d263ee4b04773b06e5121.html",
+      "source": "Tavily (www.tkww.hk)",
+      "snippet": "我們一貫支持兩岸文化、演藝、旅遊等領域交流合作，樂見更多有溫度、有人氣的兩岸文化交流活動，帶動人流、消費流、文化流雙向流動。我們歡迎台灣演藝人員來",
+      "published_at": "Wed, 20 May 2026 00:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "國台辦表示一貫支持兩岸文化交流，樂見周杰倫等台灣歌手在大陸舉辦演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 1979,
       "title": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider",
@@ -484,90 +554,39 @@
       "summary": "Jay-Z set to perform at Yankee Stadium in NYC - CBS News",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1959,
-      "title": "‘& Juliet' stars Joey Fatone & Chrissy Metz reveal the surprising things they learned about each other - NBC New York",
-      "link": "https://www.nbcnewyork.com/video/entertainment/the-scene/new-york-live/juliet-stars-joey-fatone-chrissy-metz-reveal-the-surprising-things-they-learned-about-each-other/6524237/?amp=1",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "New York Live 1 hour ago. # ‘& Juliet' stars Joey Fatone & Chrissy Metz reveal the surprising things they learned about each other. NSYNC’s Joey Fatone and Emmy nominee Chrissy Metz chat with Ashley Bellman about the pop music magic of Broadway’s “& Juliet.”. ## Local. #### Have you ever had a gourmet meal on a double-decker bus? #### ‘Stranger Things: The First Shadow' stars on the show's most stunning special effects. #### Discover the healing power of henna with this Brooklyn artist. NEWSLETTERS   WATCH NBC NEW YORK NEWS 24/7   SEND A VIDEO OR PHOTO TO NBC NY   LOCAL NEWS   WEATHER   WEATHER ALERTS   SCHOOL CLOSINGS   U.S. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY. Submit Tips to Better Get Baquero   Submit Photos and Video   Contests   Newsletters   TV Schedule   Our Apps   Cozi TV   Our News Standards.",
-      "published_at": "Fri, 10 Jul 2026 16:28:42 GMT",
-      "collected_at": "2026-07-11 03:54:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "‘& Juliet' stars Joey Fatone & Chrissy Metz reveal the surprising things they learned about each other - NBC New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1960,
-      "title": "Jay-Z's Yankee Stadium concert series kicks off Friday night: What to know - NBC New York",
-      "link": "https://www.nbcnewyork.com/entertainment/jay-zs-legendary-yankee-stadium-shows-this-weekend-ticket-drops-and-fan-info/6524190/",
-      "source": "Tavily (www.nbcnewyork.com)",
-      "snippet": "# Jay-Z's Yankee Stadium concert series kicks off Friday night: What to know. ## Here's everything you need to know including where to buy tickets, price drops, concert dates and locations, and more. Jay-Z is performing three shows this weekend at Yankee Stadium to celebrate two albums that helped launch his career and reshape hip-hop: the 30th anniversary of \"Reasonable Doubt\" and the 25th anniversary of \"The Blueprint.\". The rap legend is set to headline concerts on July 10 and 11. Roc Nation announced a third concert for July 12.added a third show on July 12 due to high demand. Jay-Z will perform \"Reasonable Doubt\" on July 10, and \"The Blueprint\" on the following night, July 11. The July 12 show will build on the performance from the first two nights and a celebration of both classic albums. & WORLD NEWS   VIDEO   INVESTIGATIONS   BETTER GET BAQUERO   SUBMIT A TIP   TV LISTINGS / NBC SCHEDULE   Entertainment News   NEW YORK LIVE   1ST LOOK   GEORGE TO THE RESCUE   OPEN HOUSE   SPORTS   COMMUNITY.",
-      "published_at": "Fri, 10 Jul 2026 20:33:16 GMT",
-      "collected_at": "2026-07-11 03:54:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay-Z's Yankee Stadium concert series kicks off Friday night: What to know - NBC New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1961,
-      "title": "Kristin Cavallari Says She Makes Her Kids Fly Coach Because It’s \"Good for Them\" - E! News",
-      "link": "https://www.eonline.com/news/1433850/kristin-cavallari-kids-fly-coach-while-shes-in-first-class-to-teach-money",
-      "source": "Tavily (www.eonline.com)",
-      "snippet": "# Kristin Cavallari Says She Makes Her Kids Fly Coach Because It’s \"Good for Them\". Kristin Cavallari explained why she makes her and ex-husband Jay Cutler’s three kids sit in coach while she travels in first class: “If they want something, they have to work for it.”. Watch: Why Kristin Cavallari Says She Makes Her Kids Fly Coach While She's in First Class. Indeed, the *Very Cavallari* star shared that in an effort to teach her and ex **Jay Cutler**’s kids **Camden Jack**, 13, **Jaxon**, 12, and **Saylor**, 10, about the value of money, she has them fly in coach while she travels in first class. “And if they want something, they have to work for it.”. Kristin Cavallari Says She Gave Jay Cutler \"Half the Value\" of Her Company in Divorce. Plus, the *Laguna Beach* alum is encouraging her kids to learn entrepreneurship because, as she put it, “This is my money. Because if they want something, they got to go work for it.",
-      "published_at": "Fri, 10 Jul 2026 02:47:00 GMT",
-      "collected_at": "2026-07-11 03:54:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Kristin Cavallari Says She Makes Her Kids Fly Coach Because It’s \"Good for Them\" - E! News",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1944,
-      "title": "Jaime King reveals status of Taylor Swift friendship after her son — the singer’s godson — is left out of MSG wedding - Page Six",
-      "link": "https://pagesix.com/2026/07/08/entertainment/jaime-king-reveals-status-of-taylor-swift-friendship-after-her-son-the-singers-godson-is-left-out-of-msg-wedding/",
-      "source": "Tavily (pagesix.com)",
-      "snippet": "##### Jaime King reveals status of Taylor Swift friendship after her... # Jaime King reveals status of Taylor Swift friendship after her son — the singer’s godson — is left out of MSG wedding. The actress is addressing speculation surrounding her relationship with Taylor Swift after her son — the pop star’s godson, 10-year-old Leo Newman — was not among the children at Swift’s star-studded wedding to Travis Kelce last week. “The reason Jaime chose Taylor as Leo Thames’s godmother is because they both believe that being a godmother is a deeply personal and spiritual commitment that has nothing to do with public appearances,” King’s publicist, Jane Owen, exclusively told Page Six. The statement comes one day after Page Six exclusively reported that none of Swift’s five godchildren — including Leo — attended the singer’s wedding festivities with Kelce. “Jaime made Taylor her son’s godmother for a reason and she wants to continue that friendship,” the source said at the time.",
-      "published_at": "Wed, 08 Jul 2026 22:51:11 GMT",
-      "collected_at": "2026-07-10 04:35:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jaime King reveals status of Taylor Swift friendship after her son — the singer’s godson — is left out of MSG wedding - Page Six",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1945,
-      "title": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - HuffPost",
-      "link": "https://www.huffpost.com/entry/jalen-brunson-childrens-book-family-fandom_n_6a42fdcfe4b0f259890f14cd/amp",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "I Found A Piece Of My Dad I Thought Was Gone. “Jalen Plays It All” has been announced at the perfect moment for a 5-year-old superfan and a grandfather’s legacy waiting to be passed down. Growing up in New York City meant that I was constantly surrounded by Knicks fans — and my father was a particularly influential one in my life. When my dad passed, I accepted that watching the Knicks would not spark the same joy for me. But when I had my son, Zakai, I suspected that he’d inherit my dad’s passion for our home team. While he now has his dad, who is also a Knicks superfan, to teach him all about the game’s history and technical aspects, it has been heartwarming to see Brunson open up a new world to my son. And so, I can’t wait to get our copy of “Jalen Plays It All” and read it to him with all of the enthusiasm and pride that my father would.",
-      "published_at": "Tue, 07 Jul 2026 15:04:08 GMT",
-      "collected_at": "2026-07-10 04:35:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - HuffPost",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 114,
-    "report_date": "2026-07-15",
-    "total_articles": 2,
-    "positive_count": 0,
-    "negative_count": 0,
-    "neutral_count": 2,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
-    "created_at": "2026-07-15 03:46:00"
+    "id": 115,
+    "report_date": "2026-07-16",
+    "total_articles": 5,
+    "positive_count": 3,
+    "negative_count": 2,
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期話題不斷，鳥巢演唱會前夕，他攜小女兒抵京，兒子展現獨立。然而，杭州演唱會卻引發「划水」質疑。儘管如此，林志穎帶兒子觀看演唱會的溫馨互動獲讚。國台辦也對周杰倫等台灣歌手在大陸辦演唱會做出回應，顯示其影響力。",
+    "key_events": [
+      "鳥巢演唱會將近",
+      "杭州演唱會爭議",
+      "林志穎現身支持"
+    ],
+    "created_at": "2026-07-16 03:49:10"
   },
   "recentReports": [
+    {
+      "id": 115,
+      "report_date": "2026-07-16",
+      "total_articles": 5,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，鳥巢演唱會前夕，他攜小女兒抵京，兒子展現獨立。然而，杭州演唱會卻引發「划水」質疑。儘管如此，林志穎帶兒子觀看演唱會的溫馨互動獲讚。國台辦也對周杰倫等台灣歌手在大陸辦演唱會做出回應，顯示其影響力。",
+      "key_events": [
+        "鳥巢演唱會將近",
+        "杭州演唱會爭議",
+        "林志穎現身支持"
+      ],
+      "created_at": "2026-07-16 03:49:10"
+    },
     {
       "id": 114,
       "report_date": "2026-07-15",
@@ -633,17 +652,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Jaime King reveals status of Taylor Swift friendship after her son — the singer’s godson — is left out of MSG wedding - Page Six、My Son Found A Hero In Jalen Brunson. I Found A Piece Of My Dad I Thought Was Gone. - HuffPost、NCT’s Jaehyun drops self-written song - The Korea Herald",
       "created_at": "2026-07-10 04:35:37"
-    },
-    {
-      "id": 108,
-      "report_date": "2026-07-09",
-      "total_articles": 5,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Watch Balenciaga Couture - Vogue、Trending CBS News App: Jermaine Dupri sues Sony Music, FIFA Fan Fest hours extended, Colt Gray trial - CBS News、CoMMA presents Kevin Nealon - WFAE",
-      "created_at": "2026-07-09 04:33:51"
     }
   ]
 }

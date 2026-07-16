@@ -27719,6 +27719,76 @@
       "summary": "Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 1981,
+      "title": "周杰倫鳥巢演唱會前夕曝光 抱小女兒抵京 8歲兒子展獨立一面",
+      "link": "https://www.singtaousa.com/2026/06/26/entertainment/jay-chou-bird-nest-family-concert",
+      "source": "Tavily (www.singtaousa.com)",
+      "snippet": "台灣天王周杰倫的演唱會行程再度引起關注，他於今日起，一連三晚在北京國家體育場「鳥巢」舉行《龍拳北京嘉年華2026》演唱會。這次演出不僅是他出道25",
+      "published_at": "Thu, 25 Jun 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在北京鳥巢舉行《龍拳北京嘉年華2026》演唱會，並被拍到抱著小女兒抵京，而8歲兒子則展現獨立。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1982,
+      "title": "周杰倫杭州3小時演唱會翻車？ 被質疑「光明正大划水」",
+      "link": "https://www.worldjournal.com/wj/story/121233/9424576",
+      "source": "Tavily (www.worldjournal.com)",
+      "snippet": "周杰倫3日晚上在浙江杭州奧體中心「大蓮花」體育場裡舉辦演唱會，5萬多名歌迷冒雨擠爆會場，原以為可以感受一場視聽覺與青春交會的音樂饗宴，這場被宣傳為約3",
+      "published_at": "Mon, 06 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫在杭州的演唱會被質疑表現不佳，引發歌迷不滿，甚至被指控「光明正大划水」。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1983,
+      "title": "澳門日報電子版",
+      "link": "https://www.macaodaily.com/html/2026-06/30/content_1917759.htm",
+      "source": "Tavily (www.macaodaily.com)",
+      "snippet": "警方調取監控調查. 周杰倫演唱會周邊遭搶劫. 周杰倫全新巡演“龍拳 · 北京嘉年華II”一連三晚在北京鳥巢盛大開唱。這不僅是他相隔九年重返北京舉辦個人",
+      "published_at": "Thu, 02 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "負面",
+      "sentiment_score": 0.2,
+      "summary": "周杰倫在北京鳥巢舉辦的「龍拳 · 北京嘉年華II」演唱會周邊發生搶劫案，警方已介入調查。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1984,
+      "title": "林志穎也看周杰倫演唱會！和兒子台下「真實互動」被目擊　網讚：很會教",
+      "link": "https://www.setn.com/news/1574956",
+      "source": "Tavily (www.setn.com)",
+      "snippet": "「歌壇天王」周杰倫昨（5日）睽違7年回台舉辦演唱會，第一天的「嘉年華」巡迴演唱就吸引大批觀眾前往朝聖，不少人還意外發現到林志穎帶著孩子現身，",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "林志穎攜子觀看周杰倫睽違七年的演唱會，父子在台下的溫馨互動受到網友讚賞，顯示演唱會的熱烈與正面影響。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 1985,
+      "title": "周杰倫等台灣歌手在大陸多地舉辦演唱會國台辦回應- 台海",
+      "link": "https://www.tkww.hk/a/202605/20/AP6a0d263ee4b04773b06e5121.html",
+      "source": "Tavily (www.tkww.hk)",
+      "snippet": "我們一貫支持兩岸文化、演藝、旅遊等領域交流合作，樂見更多有溫度、有人氣的兩岸文化交流活動，帶動人流、消費流、文化流雙向流動。我們歡迎台灣演藝人員來",
+      "published_at": "Wed, 20 May 2026 00:00:00 GMT",
+      "collected_at": "2026-07-16 03:48:45",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "國台辦表示一貫支持兩岸文化交流，樂見周杰倫等台灣歌手在大陸舉辦演唱會。",
+      "category": "演唱會",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -29305,6 +29375,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
       "created_at": "2026-07-15 03:46:00"
+    },
+    {
+      "id": 115,
+      "report_date": "2026-07-16",
+      "total_articles": 5,
+      "positive_count": 3,
+      "negative_count": 2,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，鳥巢演唱會前夕，他攜小女兒抵京，兒子展現獨立。然而，杭州演唱會卻引發「划水」質疑。儘管如此，林志穎帶兒子觀看演唱會的溫馨互動獲讚。國台辦也對周杰倫等台灣歌手在大陸辦演唱會做出回應，顯示其影響力。",
+      "key_events": [
+        "鳥巢演唱會將近",
+        "杭州演唱會爭議",
+        "林志穎現身支持"
+      ],
+      "created_at": "2026-07-16 03:49:10"
     }
   ],
   "notification_logs": [
@@ -30987,11 +31072,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-07-15 03:46:01"
+    },
+    {
+      "id": 241,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-16 03:49:11"
+    },
+    {
+      "id": 242,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-16 03:49:12"
     }
   ],
   "_meta": {
-    "nextArticleId": 1981,
-    "nextReportId": 115,
-    "nextLogId": 241
+    "nextArticleId": 1986,
+    "nextReportId": 116,
+    "nextLogId": 243
   }
 }
