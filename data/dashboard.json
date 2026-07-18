@@ -1,26 +1,18 @@
 {
   "todayStats": {
     "total": 7,
-    "positive": 5,
+    "positive": 0,
     "negative": 0,
-    "neutral": 2
+    "neutral": 7
   },
   "allTimeStats": {
-    "total": 1992,
+    "total": 1999,
     "positive": 567,
     "negative": 67,
-    "neutral": 1358,
+    "neutral": 1365,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-03",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-04",
       "total": 4,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 2,
       "avg_score": 0.79
+    },
+    {
+      "date": "2026-07-18",
+      "total": 7,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 7,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 1993,
+      "title": "Paris Jackson's Legal War With Michael's Estate Rages On After Her Recent Court Win - TMZ",
+      "link": "https://www.tmz.com/2026/07/16/paris-jackson-legal-fight-on-michael-jackson-estate-continues/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "# Paris Jackson's Legal War With Michael's Estate Rages On After Her Recent Court Win. ## Michael Jackson Estate Legal War With Paris Jackson Rages On. **Paris Jackson** and the executor of her late father **Michael Jackson**'s estate are duking it out in court again … beefing over sealing documents in their never-ending legal battle. In newly filed court docs, obtained by TMZ, Paris slams **John Branca**'s request to seal certain documents related to her objections to his request for payment of fees. According to the docs, Paris has also suggested the MJ estate remains open after all these years due to how the executor has been managing things and said she remains largely in the dark about the estate's financial matters ... Paris said John and the recently **deceased** **John McClain** were paid over $120 million for their work on the estate over 13 years … which is a far cry from what she says she and her two brothers have received since their dad died.",
+      "published_at": "Thu, 16 Jul 2026 16:30:39 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，內容主要關於麥可傑克森的女兒Paris Jackson與其遺產執行人之間的法律糾紛。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1994,
+      "title": "The ad machine: how David Beckham conquered America - The Guardian",
+      "link": "https://www.theguardian.com/football/2026/jul/11/the-ad-machine-how-david-beckham-conquered-america",
+      "source": "Tavily (www.theguardian.com)",
+      "snippet": "An Australian TV show has already made a funny clip that notes Beckham is basically the hardest working man in America, furiously retailing every moment of his waking life, from morning coffee, to breakfast pancakes and taking a shower in his pants (he’s 52 years old: here is his arse crack); to shopping for DIY stuff, eating grenade-shaped matter for lunch, having a beer, having smouldering thoughts about his watch, driving really fast, presumably to the bar where he is now having to hastily neck whisky, and then turning into some kind of unspecified sun god before falling asleep finally on a really expensive mattress (you don’t see his arse crack). Do people in the UK really know quite how massive he is now, not just as one of the most famous people in America, but in his reach and power?",
+      "published_at": "Sat, 11 Jul 2026 07:00:43 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要關於大衛·貝克漢在美國的商業影響力與生活片段，並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1995,
+      "title": "11 Albums Out This Week You Should Listen to Now - Pitchfork",
+      "link": "https://pitchfork.com/story/11-new-albums-you-should-listen-to-now-steve-lacy-syd-and-more/",
+      "source": "Tavily (pitchfork.com)",
+      "snippet": "# 11 New Albums You Should Listen to Now: Steve Lacy, Syd, and More. Also stream new releases from Helado Tropical and Nia Archives. *With so much good music being released all the time, it can be hard to determine what to listen to first. This week’s batch includes new albums from Steve Lacy, Syd, and more. Subscribe to Pitchfork’s* *New Music Friday newsletter* *to get our recommendations in your inbox every week. Steve Lacy has the ability to channel melancholy, longing, and the first flush of young love through his guitar. “She’s just a nice Irish Catholic lady, living in her castle with her cats and her dogs and her piano.”) But although Enya’s name makes up half of *Caribenya*’s portmanteau title, this is far from a tribute record: it’s a synthesis of the many elements—from dembow to cumbia to classical composition—that the Toronto-based singer and multi-instrumentalist has incorporated into her practice over the years.",
+      "published_at": "Fri, 17 Jul 2026 13:56:03 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇Pitchfork文章推薦了本週發行的11張新專輯，但內容中未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1996,
+      "title": "Carly Rae Jepsen, Gracie Abrams, Steve Lacy & More: New Music Friday Guide - Billboard",
+      "link": "https://ca.billboard.com/music/music-news/gracie-abrams-steve-lacy-new-music-friday-guide-1236296440/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "This week: Gracie Abrams shares her anticipated this album, *Daughter From Hell* (read *Billboard*‘s tracks ranked here); Steve Lacy is back with his self-produced third album, *Oh yeah?*; and Carly Rae Jepsen continues her *Day and Night* rollout with the release of the upcoming double album’s second single… plus much more. Gracie Abrams’ third album is finally here, just two years after *The Secret of Us* helped the pop singer emerge as a fast-rising star as the project debuted at No. 2 Billboard 200, bolstered by hit single “That’s So True.” This time, Abrams returned to producer Aaron Dessner’s Long Pond studio to craft the sonically intimate and lyrically expansive *Daughter From Hell*, led by surging singles “Hit the Wall” and “Look at My Life.” Release day focus track “Good Reason” is softer in its contemplation, as Abrams sings of putting herself first.",
+      "published_at": "Fri, 17 Jul 2026 05:11:07 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要關於Carly Rae Jepsen、Gracie Abrams和Steve Lacy等歌手的新音樂發行，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1997,
+      "title": "Robert Irwin offers Taylor Swift and Travis Kelce a honeymoon opportunity - Sky News Australia",
+      "link": "https://www.skynews.com.au/opinion/robert-irwin-offers-taylor-swift-and-travis-kelce-a-honeymoon-opportunity/video/8827c317cf74ef4e7604521c5ad2d196",
+      "source": "Tavily (www.skynews.com.au)",
+      "snippet": "Ajax: Free In-clinic Demo Of Revolutionary Hearing AidConnect Hearing |. Canadian Residents Aged 55 to 80 With No Life Insurance Are Taking Advantage Of ThisNeilson |. MOST POPULARPrince Harry seen departing Althorp House after reports he wanted Meghan Markle and the kids to visit Princess Diana's graveSky News Australia. People in Ontario Aged 50-80 Could Get This BenefitSeniors Choice |. Elton John’s scathing five-word message to Harry after court disasterSir Elton John is at odds with Prince Harry after the Duke allegedly asked the British music legend for financial assistance following last week's High Court defeat, according to royal reporter Paula Froelich.Sky News Australia. Elton John reportedly ‘furious’ with Prince Harry after begging for fundsAward-winning journalist Paula Froelich says Elton John is reportedly upset with Prince Harry after he asked the superstar for funds.",
+      "published_at": "Thu, 16 Jul 2026 13:48:32 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫，主要關於Robert Irwin、Taylor Swift、Travis Kelce、Prince Harry和Elton John等名人的八卦與廣告。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1998,
+      "title": "Jay-Z’s Hit-Packed Yankee Stadium Shows Turned the Ballpark into a Throne Room - GQ",
+      "link": "https://www.gq.com/story/tap-in-jay-z-yankee-stadium",
+      "source": "Tavily (www.gq.com)",
+      "snippet": "On “Addicted to the Game,” a fan-favorite *Blueprint*-era loosie, Jay-Z sums up his career with one of my all-time favorite lines of his: “Thoughts are sporadic, I gotta un-confuse it/Sort of like a Rubik’s Cube is/Every album’s a color, but I fuck up the other color.” With 25-odd years of distance, it’s hilarious that he said this at what we now know as merely the halfway point in his discography; like most of his lines, it now holds a more prophetic weight than maybe even he could’ve imagined. Back in January, staring down the barrel of the 30th anniversary of his career, Jay played coy about how much he’d celebrate this milestone, even as he promised a year defined by “all offense.” Fast forward to July, and here he is in a bulletproof vest, standing before his hometown ready to receive love, but also take on all smoke.",
+      "published_at": "Tue, 14 Jul 2026 21:03:33 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於美國饒舌歌手Jay-Z的演唱會與職業生涯，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 1999,
+      "title": "Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More - Variety Australia",
+      "link": "https://au.variety.com/2026/music/news/jay-z-closes-yankee-stadium-residency-beyonce-rihanna-usher-38508/",
+      "source": "Tavily (au.variety.com)",
+      "snippet": "“We’re going to go until like 5 a.m., so don’t be scared,” said Jay-Z not long after he started the third and final show of his Yankee Stadium residency on Sunday night, the concluding chapter to a weekend that paid homage to the 25th and 30th anniversaries of his seminal albums “The Blueprint” and “Reasonable Doubt,” respectively. The remark was made around 1 a.m, roughly 40 minutes after he started a concert that had been plagued by hours-long delays as fans waited both inside the stadium and on the perimeter of the venue, stuck in lines that didn’t budge. It was a ceaseless tour of his discography accented and enhanced by a rotating cast of guest artists that, to do justice, is best laid out as a plain list: Beyoncé, Rihanna, Usher, Jermaine Dupri, Pharrell Williams, Clipse, Teyana Taylor, Swizz Beatz, Jeezy, Fat Joe, Jadakiss and The-Dream.",
+      "published_at": "Mon, 13 Jul 2026 20:22:23 GMT",
+      "collected_at": "2026-07-18 03:42:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More - Variety Australia",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1986,
       "title": "Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood - Indianmasterminds",
@@ -456,118 +554,39 @@
       "summary": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1967,
-      "title": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
-      "link": "https://au.variety.com/2026/music/news/jay-z-the-blueprint-anniversary-yankee-stadium-38480/",
-      "source": "Tavily (au.variety.com)",
-      "snippet": "# Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium. Jay-Z was almost entirely truthful to the source material for his 25th anniversary Yankee Stadium show on Saturday to celebrate “The Blueprint,” setting guests artists to high wattage but low frequency as he trotted out Eminem, Pharrell Williams and Slick Rick for a curtailed 90-minute set. The show began with instant homage as Jay brought out Slick Rick for “The Ruler’s Back,” launching into the factory line of songs that made up the spine of “The Blueprint.” There were stadium-sized highs (“U Don’t Know”), somber lows (“Song Cry”) and a highly assumed appearance from Eminem, who traded verses with Jay on “Renegade” and reemerged to perform his signature hit “Lose Yourself.”. Jay then kicked back up with “Empire State of Mind,” New York City’s torch song that he performed on Friday with Alicia Keys, before enlisting Pharrell Williams for a slew of collaborative hits spanning “I Just Wanna Love U (Give It 2 Me)” to “Frontin.” The show then, surprisingly, finished quickly, with “N—s in Paris,” “Public Service Announcement” and “Encore.”.",
-      "published_at": "Sun, 12 Jul 2026 19:51:46 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1968,
-      "title": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
-      "link": "https://www.tmz.com/2026/07/12/jay-z-fans-fight-with-security-at-yankee-stadium-concert/",
-      "source": "Tavily (www.tmz.com)",
-      "snippet": "# Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows. ## Jay-Z Concert Fans Get Into Brawl With Security ... Video: Jay-Z Fans Clash With Security at Yankee Stadium Concert. **Jay-Z**'s second night of his three shows at Yankee Stadium was not without crowd drama ... The legendary rapper hit the stage at the famous Bronx ballpark on Saturday night and, at one point, **Alicia Keys** joined him on stage to perform their iconic song, \"Empire State of Mind.\" That's when things got heated between the fans and security guards. Once he was on his feet, the fan slugs a security officer in the face before he's taken away by several other guards. Video: Jay Z Surprises Fans With Eminem At Yankee Stadium. Jay-Z **kicked off** his \"Reasonable Doubt\" 30th anniversary concert series with a snip-tease on Friday -- with **Beyoncé** giving his hair a trim in the stands of Yankee Stadium.",
-      "published_at": "Sun, 12 Jul 2026 17:31:14 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay-Z Fans Fight With Security During Saturday Concert at Yankee Stadium, Video Shows - TMZ",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1969,
-      "title": "Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/music/articles/beyonce-blue-ivy-stage-jay-170653204.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "# Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show. Image 3: Jay-Z and Blue Ivy arrive on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. Jay-Z and Blue Ivy arrive on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. July 11 (UPI) -- Rapper Jay-Z's Grammy-winning wife Beyonce and daughter Blue Ivy took the stage at his Yankee stadium concert Friday night. They are also the parents of 9-year-old twins, Rumi and Sir. Image 4: Beyoncé arrives on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City. Beyoncé arrives on the red carpet for the 2026 Met Gala celebrating \"Costume Art\" at The Metropolitan Museum of Art on May 4 in New York City.",
-      "published_at": "Sat, 11 Jul 2026 17:34:33 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Beyonce, Blue Ivy take stage at Jay-Z's Yankee Stadium show - Yahoo",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1970,
-      "title": "Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts - Bleacher Report",
-      "link": "https://bleacherreport.com/articles/25454209-yankees-honor-jay-z-new-chicken-fries-boot-concession-menu-30th-anniversary-concerts",
-      "source": "Tavily (bleacherreport.com)",
-      "snippet": "# Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts. Yankee Stadium is offering a special menu item as part of rapper Jay-Z's run of three concerts at the venue this weekend. In a post on X, the New York Yankees showed off the \"tenders and fries in a boot box,\" which will be available for purchase during Jay-Z's third and final concert at Yankee Stadium on Sunday night:. Bleacher Report### MLB Draft Grades 🔢. Bleacher Report### Sánchez, Cease to Start All-Star Game. The concerts are a celebration of the 30th anniversary of the release of Jay-Z's first album *Reasonable Doubt*, which dropped in June 1996. The packaging for the chicken tender and fry combo that will be sold at Yankee Stadium fittingly resembles the Timberland boots Jay-Z has become synonymous with over the years. Bleacher Report### Trade Ideas to Boost Contenders 💡. ### Conor Suffers Injury in UFC Return. ### ETA to The Show ⏰.",
-      "published_at": "Sun, 12 Jul 2026 18:19:04 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Yankees Honor Jay-Z with New Chicken & Fries Boot on Concession Menu for 30th Anniversary Concerts - Bleacher Report",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1971,
-      "title": "Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium - ABC7 New York",
-      "link": "https://abc7ny.com/post/security-breach-causes-chaos-delays-start-final-jay-concert-yankee-stadium/19495772/",
-      "source": "Tavily (abc7ny.com)",
-      "snippet": "# Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium. THE BRONX (WABC) -- There was chaos at Jay-Z's third and final Yankee Stadium concert after a security breach delayed the show. Thousands of fans were seen outside the stadium waiting to get inside. A police source tells Eyewitness News a large group broke through security, prompting a full lockdown of the stadium. For a while, no one was allowed in or out. \"We got here a little after 8, went to Gate 2, they bum rushed Gate 2. People went past security, were not checked and got into the stadium. They closed down Gate 2, we went to Gate 4, same thing happened,\" said Rosalynn Glover, \"We were at the suite section, they would not even let us in there. The people working at Gate 4 were laughing. The concert was scheduled to begin at 8 p.m. The gates reopened shortly before 10 p.m. with police patrolling each entrance.",
-      "published_at": "Mon, 13 Jul 2026 02:49:00 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Security breach causes chaos, delays start of final Jay-Z concert at Yankee Stadium - ABC7 New York",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1962,
-      "title": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times",
-      "link": "https://lowerbuckstimes.com/2026/07/11/jay-z-reasonable-doubt-yankee-stadium-beyonce-nas/",
-      "source": "Tavily (lowerbuckstimes.com)",
-      "snippet": "HomeEntertainmentJay-Z Brought Out Beyoncé, Blue Ivy and Nas for Reasonable Doubt at... # Jay-Z Brought Out Beyoncé, Blue Ivy and Nas for Reasonable Doubt at 30, and Yankee Stadium Lost Its Mind. Jay-Z’s Reasonable Doubt 30th anniversary concert at Yankee Stadium was billed as a victory lap for one man, and it turned into the biggest family reunion hip-hop has staged in years. On Friday, July 10, the rapper born Shawn Carter walked out into the Bronx ballpark to play his 1996 debut front to back, and by the end of the night he had shared the stage with his wife, his oldest daughter, his fiercest one-time rival and one of the most famous voices in New York music. It was the first of three sold-out shows, and it set a bar that will be hard to top. On this night, roughly 45,000 people paid to hear every word of it, and Jay-Z spent the evening reminding them how far that record traveled.",
-      "published_at": "Sat, 11 Jul 2026 16:49:03 GMT",
-      "collected_at": "2026-07-12 04:07:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1963,
-      "title": "'Jeopardy!' recap: What happened on July 7, 2026 - USA Today",
-      "link": "https://www.usatoday.com/story/entertainment/2026/07/08/entertainment-2026-07-07-what-to-watch-jeopardy/90844059007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "'Jeopardy!' recap: What happened on July 7, 2026. \"Jeopardy!\" aired on July 7 featuring Caleb Groen, Michael Yates and Jessica Davis. The game included six triple stumpers and came down to Final Jeopardy! * **Winner: Caleb Groen**—**$21,201**. * 2nd: Jessica Davis—$18,800. * 3rd: Michael Yates—$14,000. 1. Caleb Groen: Start $17,600—Wager $3,601—**$21,201**. 2. Michael Yates: Start $10,600—Wager $3,400—**$14,000**. 3. Jessica Davis: Start $10,600—Wager $8,200—**$18,800**. ## What's next on 'Jeopardy!'. Season 42 continues on Wednesday with Caleb Groen returning as champion to face two new challengers. Tune in to the next episode to see if the winner will extend the streak or go home. **Watch it here:** Stream your favorite shows, the biggest blockbusters and more. ## Top 5 all-time 'Jeopardy!' winners. 1. **Ken Jennings**—**74**wins—**$2,520,700**. 2. **Amy Schneider**—**40**wins—**$1,382,800**. 3. **Matt Amodio**—**38**wins—**$1,518,601**. **Disclaimer:** *This \"Jeopardy!\" recap was generated automatically using information from \"Jeopardy!\" through a partnership with USA TODAY. You can send feedback to this form**.*. Share your feedback to help improve our site!",
-      "published_at": "Wed, 08 Jul 2026 05:30:00 GMT",
-      "collected_at": "2026-07-12 04:07:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "'Jeopardy!' recap: What happened on July 7, 2026 - USA Today",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 116,
-    "report_date": "2026-07-17",
+    "id": 117,
+    "report_date": "2026-07-18",
     "total_articles": 7,
-    "positive_count": 5,
+    "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 2,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood - Indianmasterminds、周杰倫新專輯〈太陽之子〉解析：當十字架刺穿吸血鬼　原歌名「我就是光」、周杰倫登華航機上影音　實境節目9月上線 | 生活 | 中央社 CNA",
-    "created_at": "2026-07-17 03:49:22"
+    "neutral_count": 7,
+    "daily_summary": "周杰倫近期新聞不斷，新專輯《太陽之子》的解析引發關注，其原名為「我就是光」。此外，他參與的實境節目將於九月在華航機上影音平台獨家上線。在個人動態方面，周杰倫與昆凌飛往英國，與網球巨星費德勒同框，展現跨界好交情。他也公開力挺周星馳新片，透露兩人深厚友誼。儘管杭州演唱會曾遭質疑「划水」，但他仍抱著小女兒抵京準備鳥巢演唱會，兒子也展現獨立一面。林志穎父子也現身周杰倫演唱會，顯示其高人氣。國台辦也對周杰倫等台灣歌手在大陸舉辦演唱會一事做出回應。",
+    "key_events": [
+      "新專輯解析",
+      "合體費德勒",
+      "演唱會爭議"
+    ],
+    "created_at": "2026-07-18 03:43:08"
   },
   "recentReports": [
+    {
+      "id": 117,
+      "report_date": "2026-07-18",
+      "total_articles": 7,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 7,
+      "daily_summary": "周杰倫近期新聞不斷，新專輯《太陽之子》的解析引發關注，其原名為「我就是光」。此外，他參與的實境節目將於九月在華航機上影音平台獨家上線。在個人動態方面，周杰倫與昆凌飛往英國，與網球巨星費德勒同框，展現跨界好交情。他也公開力挺周星馳新片，透露兩人深厚友誼。儘管杭州演唱會曾遭質疑「划水」，但他仍抱著小女兒抵京準備鳥巢演唱會，兒子也展現獨立一面。林志穎父子也現身周杰倫演唱會，顯示其高人氣。國台辦也對周杰倫等台灣歌手在大陸舉辦演唱會一事做出回應。",
+      "key_events": [
+        "新專輯解析",
+        "合體費德勒",
+        "演唱會爭議"
+      ],
+      "created_at": "2026-07-18 03:43:08"
+    },
     {
       "id": 116,
       "report_date": "2026-07-17",
@@ -637,17 +656,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times、'Jeopardy!' recap: What happened on July 7, 2026 - USA Today、Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
       "created_at": "2026-07-12 04:07:56"
-    },
-    {
-      "id": 110,
-      "report_date": "2026-07-11",
-      "total_articles": 9,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 9,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Paris Jackson on the Perfume Oil That Reminds Her of Her Father - Vogue、Hit-Boy talks new album, producing mega-hits & Jay-Z's Yankee Stadium concert - Modern Ghana、Hit-Boy talks new album, producing mega-hits & Jay-Z's Yankee Stadium concert - Central Oregon Daily",
-      "created_at": "2026-07-11 03:54:37"
     }
   ]
 }
