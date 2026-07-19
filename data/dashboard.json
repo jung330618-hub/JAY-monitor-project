@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 2,
     "positive": 0,
     "negative": 0,
-    "neutral": 7
+    "neutral": 2
   },
   "allTimeStats": {
-    "total": 1999,
+    "total": 2001,
     "positive": 567,
     "negative": 67,
-    "neutral": 1365,
+    "neutral": 1367,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-04",
-      "total": 4,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 4,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-05",
       "total": 3,
@@ -132,9 +124,45 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-19",
+      "total": 2,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 2000,
+      "title": "Sunny Hostin's Son Arrested For Trespassing, Says 'My Mom's A Lawyer' - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/videos/sunny-hostins-son-arrested-trespassing-223000511.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "## Entertainment:. * 'House of the Dragon' family tree. * Gracie Abrams's upcoming album. * Kris Jenner's mom dies. * Hailey Bieber's Gap jeans. * Kids rate the ESPYs red carpet. # Sunny Hostin's Son Arrested For Trespassing, Says 'My Mom's A Lawyer'. Add Yahoo as a preferred source to see more of our stories on Google. Additional body cam video shows the officers approaching Gabriel on the train tracks.",
+      "published_at": "Fri, 17 Jul 2026 22:30:00 GMT",
+      "collected_at": "2026-07-19 04:04:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Sunny Hostin的兒子因非法入侵被捕的事件，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2001,
+      "title": "Test your pop culture: From Hollywood to the Heartland - Fox News",
+      "link": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-13",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "Market data provided by Factset. Mutual Fund and ETF data provided by LSEG. * #### Jerry O'Connell reveals the life decision that transformed him into a family man. * #### Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey. * #### King Charles kept Prince William, Kate Middleton in the dark about secret Harry and Meghan reunion: report. * #### Dean Cain says Hollywood's woke era is ending: 'We'll look back and say that was stupid'. * #### Kelly Bensimon says she's lucky to be alive after horror head-on crash left her unconscious. * #### Kai Trump shares advice that a celebrity gave her about her YouTube channel. * #### Kai Trump reveals who her new celebrity crush is. * #### Elle King reveals what made her say yes to 'Nation's Dumbest'. * #### 'Breakfast Club' star Anthony Michael Hall reveals the key to surviving Hollywood after 51 years. By Lori A Bashian  Fox News.",
+      "published_at": "Thu, 16 Jul 2026 23:05:15 GMT",
+      "collected_at": "2026-07-19 04:04:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導多位好萊塢名人的生活與娛樂消息，未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 1993,
       "title": "Paris Jackson's Legal War With Michael's Estate Rages On After Her Recent Court Win - TMZ",
@@ -526,52 +554,39 @@
       "summary": "Jay-Z brings out Rihanna and Beyoncé after delayed start at Yankee Stadium - Los Angeles Times",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1965,
-      "title": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News",
-      "link": "https://www.eonline.com/news/1433876/inside-taylor-swifts-new-role-as-aunt-to-travis-kelces-nieces",
-      "source": "Tavily (www.eonline.com)",
-      "snippet": "# Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It. When Taylor Swift wed Travis Kelce at MSG on July 3, she officially became an aunt to his nieces Wyatt, Elliotte, Bennett and Finnley—Jason Kelce and Kylie Kelce's daughters. Watch: The Role Jason Kelce's Kids Played in Travis Kelce, Taylor Swift Wedding. Because it was recently revealed that **Jason Kelce** and **Kylie Kelce**’s daughters—**Wyatt Kelce**, 6, **Elliotte Kelce**, 5, **Bennett Kelce**, 3, and **Finnley Kelce**, 15 months—were the flower girls at their uncle **Travis Kelce**’s wedding to **Taylor Swift**. Taylor Swift, Travis Kelce Wedding: All the Celebrity Guests. \"I just enjoy her being my brother’s soon-to-be wife, and aunt to my kids,\" the former Philadelphia Eagles player told *The Wall Street Journal* in December, \"and we try to leave that relationship where it should be, there.\". And you can call it what you want, but Jason and Kylie's daughters have a specific name for the game they like to play with their aunt and uncle.",
-      "published_at": "Sun, 12 Jul 2026 10:00:00 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1966,
-      "title": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/why-michael-jackson-daughter-paris-142006409.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "She is asking a court to take a closer look at how the pop icon's estate is being handled by its executors – the people responsible for managing it. Paris Jackson has accused executors John Branca and John McClain of paying themselves and the estate's lawyers too much, and for leaving $464 million owned by the estate uninvested. Paris Jackson also has accused Branca of misusing his position as producer of \"Michael,\" an upcoming Michael Jackson biopic reportedly financed by Jackson's estate, to cast an A-list celebrity – Miles Teller – to play the role of Branca himself in the film. As law professors who study the transfer of property after death, we find that when disputes over inherited wealth become national news, they are often difficult to understand because this type of legal process is obscure and most people never interact directly with the probate court system.",
-      "published_at": "Sun, 12 Jul 2026 14:20:06 GMT",
-      "collected_at": "2026-07-13 04:10:31",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 117,
-    "report_date": "2026-07-18",
-    "total_articles": 7,
+    "id": 118,
+    "report_date": "2026-07-19",
+    "total_articles": 2,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 7,
-    "daily_summary": "周杰倫近期新聞不斷，新專輯《太陽之子》的解析引發關注，其原名為「我就是光」。此外，他參與的實境節目將於九月在華航機上影音平台獨家上線。在個人動態方面，周杰倫與昆凌飛往英國，與網球巨星費德勒同框，展現跨界好交情。他也公開力挺周星馳新片，透露兩人深厚友誼。儘管杭州演唱會曾遭質疑「划水」，但他仍抱著小女兒抵京準備鳥巢演唱會，兒子也展現獨立一面。林志穎父子也現身周杰倫演唱會，顯示其高人氣。國台辦也對周杰倫等台灣歌手在大陸舉辦演唱會一事做出回應。",
+    "neutral_count": 2,
+    "daily_summary": "周杰倫新專輯《太陽之子》解析曝光，其實境節目也將於九月登上華航機上影音。他不僅力挺周星馳新片，更在英國與網球傳奇費德勒同框，展現跨界好交情。儘管杭州演唱會被質疑「划水」，但他已抱小女兒抵京準備鳥巢演唱會，林志穎也現身支持。",
     "key_events": [
-      "新專輯解析",
-      "合體費德勒",
-      "演唱會爭議"
+      "新專輯《太陽之子》",
+      "華航實境節目9月上線",
+      "英國合體費德勒"
     ],
-    "created_at": "2026-07-18 03:43:08"
+    "created_at": "2026-07-19 04:04:50"
   },
   "recentReports": [
+    {
+      "id": 118,
+      "report_date": "2026-07-19",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "周杰倫新專輯《太陽之子》解析曝光，其實境節目也將於九月登上華航機上影音。他不僅力挺周星馳新片，更在英國與網球傳奇費德勒同框，展現跨界好交情。儘管杭州演唱會被質疑「划水」，但他已抱小女兒抵京準備鳥巢演唱會，林志穎也現身支持。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "華航實境節目9月上線",
+        "英國合體費德勒"
+      ],
+      "created_at": "2026-07-19 04:04:50"
+    },
     {
       "id": 117,
       "report_date": "2026-07-18",
@@ -645,17 +660,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Taylor Swift Is Officially an Aunt to Travis Kelce’s Nieces—and She’s Ready for It - E! News、Why Michael Jackson’s daughter, Paris, won’t stop ‘til she gets enough from his estate - Yahoo、Jay-Z Celebrates ‘The Blueprint’ 25th Anniversary With Eminem, Pharrell Williams and Slick Rick at Yankee Stadium - Variety Australia",
       "created_at": "2026-07-13 04:10:36"
-    },
-    {
-      "id": 111,
-      "report_date": "2026-07-12",
-      "total_articles": 3,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Jay-Z Reasonable Doubt at 30: Beyoncé & Nas at Yankee Stadium - Lower Bucks Times、'Jeopardy!' recap: What happened on July 7, 2026 - USA Today、Jay-Z Brings Out Beyoncé, Blue Ivy Carter at Yankee Stadium - Variety",
-      "created_at": "2026-07-12 04:07:56"
     }
   ]
 }

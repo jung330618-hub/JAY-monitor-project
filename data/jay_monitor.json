@@ -27985,6 +27985,34 @@
       "summary": "Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More - Variety Australia",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 2000,
+      "title": "Sunny Hostin's Son Arrested For Trespassing, Says 'My Mom's A Lawyer' - Yahoo",
+      "link": "https://www.yahoo.com/entertainment/videos/sunny-hostins-son-arrested-trespassing-223000511.html",
+      "source": "Tavily (www.yahoo.com)",
+      "snippet": "## Entertainment:. * 'House of the Dragon' family tree. * Gracie Abrams's upcoming album. * Kris Jenner's mom dies. * Hailey Bieber's Gap jeans. * Kids rate the ESPYs red carpet. # Sunny Hostin's Son Arrested For Trespassing, Says 'My Mom's A Lawyer'. Add Yahoo as a preferred source to see more of our stories on Google. Additional body cam video shows the officers approaching Gabriel on the train tracks.",
+      "published_at": "Fri, 17 Jul 2026 22:30:00 GMT",
+      "collected_at": "2026-07-19 04:04:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了Sunny Hostin的兒子因非法入侵被捕的事件，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2001,
+      "title": "Test your pop culture: From Hollywood to the Heartland - Fox News",
+      "link": "https://www.foxnews.com/entertainment/test-your-pop-culture-from-hollywood-heartland-13",
+      "source": "Tavily (www.foxnews.com)",
+      "snippet": "Market data provided by Factset. Mutual Fund and ETF data provided by LSEG. * #### Jerry O'Connell reveals the life decision that transformed him into a family man. * #### Kai Trump reveals new celebrity crush after ditching 'Outer Banks' star Drew Starkey. * #### King Charles kept Prince William, Kate Middleton in the dark about secret Harry and Meghan reunion: report. * #### Dean Cain says Hollywood's woke era is ending: 'We'll look back and say that was stupid'. * #### Kelly Bensimon says she's lucky to be alive after horror head-on crash left her unconscious. * #### Kai Trump shares advice that a celebrity gave her about her YouTube channel. * #### Kai Trump reveals who her new celebrity crush is. * #### Elle King reveals what made her say yes to 'Nation's Dumbest'. * #### 'Breakfast Club' star Anthony Michael Hall reveals the key to surviving Hollywood after 51 years. By Lori A Bashian  Fox News.",
+      "published_at": "Thu, 16 Jul 2026 23:05:15 GMT",
+      "collected_at": "2026-07-19 04:04:39",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容主要報導多位好萊塢名人的生活與娛樂消息，未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -29612,6 +29640,21 @@
         "演唱會爭議"
       ],
       "created_at": "2026-07-18 03:43:08"
+    },
+    {
+      "id": 118,
+      "report_date": "2026-07-19",
+      "total_articles": 2,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "周杰倫新專輯《太陽之子》解析曝光，其實境節目也將於九月登上華航機上影音。他不僅力挺周星馳新片，更在英國與網球傳奇費德勒同框，展現跨界好交情。儘管杭州演唱會被質疑「划水」，但他已抱小女兒抵京準備鳥巢演唱會，林志穎也現身支持。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "華航實境節目9月上線",
+        "英國合體費德勒"
+      ],
+      "created_at": "2026-07-19 04:04:50"
     }
   ],
   "notification_logs": [
@@ -31336,11 +31379,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-07-18 03:43:10"
+    },
+    {
+      "id": 247,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-19 04:04:51"
+    },
+    {
+      "id": 248,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-19 04:04:51"
     }
   ],
   "_meta": {
-    "nextArticleId": 2000,
-    "nextReportId": 118,
-    "nextLogId": 247
+    "nextArticleId": 2002,
+    "nextReportId": 119,
+    "nextLogId": 249
   }
 }
