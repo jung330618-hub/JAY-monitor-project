@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 11,
+    "total": 4,
     "positive": 0,
     "negative": 0,
-    "neutral": 11
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 2018,
+    "total": 2022,
     "positive": 567,
     "negative": 67,
-    "neutral": 1384,
+    "neutral": 1388,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-07",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-08",
       "total": 6,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 11,
       "avg_score": 0.5
+    },
+    {
+      "date": "2026-07-22",
+      "total": 4,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 2019,
+      "title": "walt disco Announce New Self-Titled Album - clashmusic.com",
+      "link": "https://www.clashmusic.com/news/walt-disco-announce-new-self-titled-album/",
+      "source": "Tavily (www.clashmusic.com)",
+      "snippet": "# walt disco Announce New Self-Titled Album. New single 'Lies' is out now... Glamorous Glaswegian indie-dance crew **walt disco** will release a self-titled album later this year. The band’s debut album ‘Unlearning’ landed in 2022, scoring rave reviews and scooping a nomination for Best Independent Album at the AIM Awards. New album ‘walt disco’ is a call to arms statement, a record some four years in the making. Out on October 2nd via their new home EMI North, you can catch walt disco at Songs Of Solidarity in Glasgow Art School on September 5th. New single ‘Lies’ is out now – precocious, dynamic, and utterly thrilling, it’s walt disco at their most thrilling, brash, and infectious. Join the Clash mailing list for up to the minute music, fashion and film news. * + News / Robin Murray  / 21 · 07 · 2026. ## Greg Freeman Announces New Album ‘All Set The Bone’. * + News / Shahzaib Hussain  / 21 · 07 · 2026. ## Chelsea Wolfe Announces New Album ‘The Dark’.",
+      "published_at": "Tue, 21 Jul 2026 17:04:06 GMT",
+      "collected_at": "2026-07-22 03:58:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2020,
+      "title": "Rising P-pop group DNA celebrates individuality in self-titled debut album - ABS-CBN Corporate",
+      "link": "https://corporate.abs-cbn.com/newsroom/news-releases/2026/7/20/rising-p-pop-group-dna-celebrates-individuality-in-self-titled-debut-album?lang=en",
+      "source": "Tavily (corporate.abs-cbn.com)",
+      "snippet": "Rising P-pop group DNA celebrates individuality in self-titled debut album. Promising Kapamilya P-pop group DNA puts self-expression and resilience at the forefront in their newly dropped self-titled debut album under ABS-CBN’s StarPop label. The album features eight  tracks, “DNA,” “Don’t Ask Me Why,” “Spider,” “Speeding Ticket,” “Lessons,” “BINGO,” “Glow Up Diary,” and “Gala To The Max” with all of the members contributing to conceptualizing and writing the tracks. The group followed it up with the bright, feel-good single “BINGO” and later lent their voices to the official SM Supermalls’ summer anthem, “Gala To The Max,” further showcasing their versatility and credibility as performers. Listen to DNA’s self-titled debut album available on all digital streaming platforms. Maymay announces new single “What We Love”ABS-CBN MusicStarPop. Baby Dolls’ “Oohh Lala Baby” hits no.1 on YouTube Music chartsABS-CBN MusicStarPop. Jarren explores the ups and downs of modern love in “LUVBOMB” EP, out July 23ABS-CBN Music InternationalStarPop. Maki takes on Indonesian primetime TV with guest appearance on Trans7’s “Lapor Pak!”ABS-CBN Music.",
+      "published_at": "Mon, 20 Jul 2026 02:28:45 GMT",
+      "collected_at": "2026-07-22 03:58:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了P-pop團體DNA發行首張專輯，並提及其他藝人的新作品，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2021,
+      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote - The New York Times",
+      "link": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html",
+      "source": "Tavily (www.nytimes.com)",
+      "snippet": "Politics|Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote. # Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote. Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official with little national security experience. The Senate Intelligence Committee on Tuesday approved Jay Clayton as President Trump’s pick to oversee the U.S. intelligence community, clearing a key hurdle that may install Mr. Clayton in the job by the end of the week despite evaporating support from Democrats. Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official who has pursued campaigns of retribution against the president’s perceived enemies.",
+      "published_at": "Tue, 21 Jul 2026 19:15:20 GMT",
+      "collected_at": "2026-07-22 03:58:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容與周杰倫無關，而是關於Jay Clayton被提名為美國情報首長。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2022,
+      "title": "Mick Jagger makes surprise Napa appearance at Rolling Stones ballet gala - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/article/mick-jagger-napa-valley-ballet-gala-22350364.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Mick Jagger makes surprise Napa appearance at Rolling Stones ballet gala. Mick Jagger attended a Napa Valley dance gala Friday as his partner, former American Ballet Theatre dancer Melanie Hamrick, presented a program that paired classical ballet with the music of the Rolling Stones. “A Night at the Ballet,” performed Friday, July 17, was part of Festival Napa Valley’s 20th-anniversary summer season. Hamrick produced the program with Joanna DeFelice and Christine Shevchenko at Charles Krug in St. Helena. The contemporary work is set to the Rolling Stones song from the band’s 1971 album “Sticky Fingers.”. Friday’s gala was among the final events of Festival Napa Valley’s anniversary season, which began July 4 and has featured Renée Fleming, Wynton Marsalis, Ray Chen, Jean-Yves Thibaudet and Time for Three. The festival continues Saturday with the world premiere of “The Judgment of Paris,” a one-act opera by composer Jake Heggie and librettist Gene Scheer. Aidin Vaziri is a staff writer and pop music critic at the San Francisco Chronicle.",
+      "published_at": "Sat, 18 Jul 2026 05:37:24 GMT",
+      "collected_at": "2026-07-22 03:58:55",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞報導了Mick Jagger出席其伴侶Melanie Hamrick在納帕谷舉辦的滾石樂隊芭蕾舞晚會，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2008,
       "title": "Gisele Bündchen Shares Rare Photos of Her, Joaquim Valente’s Son on Lavish Family Vacation - E! News",
@@ -498,76 +554,39 @@
       "summary": "Jay-Z Closes Yankee Stadium Residency With Epic Late Night Show Featuring Beyoncé, Rihanna, Usher, Teyana Taylor and More - Variety Australia",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 1986,
-      "title": "Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood - Indianmasterminds",
-      "link": "https://indianmasterminds.com/feature-stories-on-bureaucrats-changemakers/kartikeya-vajpai-book-review-self-discovery-cricket-buddhism-216385/",
-      "source": "Tavily (indianmasterminds.com)",
-      "snippet": "Home » Features » Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood. # Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood. In his Foreword to the book, the Dalai Lama writes that this novel ‘encourages readers to begin their own journey of self-discovery, freeing themselves from ego and attachments while embracing life’s impermanence as a path to deeper happiness and fulfilment’. As he tells his better half Shraddha: ‘I have realized that success is  not just personal effort, it’s also the support of others… While I may be the face of success, the true heroes are those who empower me to perform on the field, the uncelebrated but essential.’ There is an overall change in Siddharth’s demeanor and relationships on and off the field.",
-      "published_at": "Sun, 12 Jul 2026 00:33:52 GMT",
-      "collected_at": "2026-07-17 03:49:01",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導的是Kartikeya Vajpai的出道小說，內容探討從成名到自我實現的旅程，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 1987,
-      "title": "周杰倫新專輯〈太陽之子〉解析：當十字架刺穿吸血鬼　原歌名「我就是光」",
-      "link": "https://www.cdn-news.org/news/N2603260005",
-      "source": "Tavily (www.cdn-news.org)",
-      "snippet": "周杰倫〈太陽之子〉MV的終局停格，像極了動作遊戲通關後的結算畫面。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. 一億元的藝術實驗〈太陽之子〉數位專輯3月25日全球上線，實體專輯4月10日發行。這支長達6分58秒的MV，由導演廖人帥執導，紐西蘭維塔工作室（Weta Workshop）操刀視覺。維塔工作室曾參與《阿凡達》、《魔戒》、《沙丘》等超過180部電影，拿下5座奧斯卡金像獎。MV在巴黎聖女貞德教堂（Chapelle Sainte-Jeanne-d'Arc）及台北兩地拍攝，歷時2年3個月完成，製作費逼近台幣一億元，創下華語樂壇MV紀錄。上線迄今，YouTube觀看次數已突破800萬人次。周杰倫在記者會上形容，這支MV是「藝術與流行音樂的跨界實驗」，鼓勵歌迷「回去再看一次，找找看裡面藏了哪些畫」。他並透露，原歌名為「我就是光」，後因張學友在周杰倫2023年香港嘉年華演唱會期間贈送印有「太陽之子」的芒果與手寫卡片而改名。歌迷們確實聽話地去找了MV當中藏有哪些畫，留言區很快出現逐格比對，「藝術解謎」成為社群討論的主旋律。然而，把這些名畫按出場順序排列，會發現，它們講述的故事遠比藝術史更古老。概念走在歌詞之前進入MV解析之前，有一件事值得先知道：這支MV的創作順序，和一般流行音樂完全相反。一般創作，是先有完整的歌，再拍MV。而〈太陽之子〉和四年前〈最偉大的作品〉的創作流程是：曲（DEMO） MV概念 MV劇本 拍攝 歌詞。周杰倫先創作出曲的初版，同時給導演廖人帥出了一功課：一、要有很多名畫，二、要有很酷的槍戰。廖人帥在只有DEMO的情況下，先發展出完整劇本，拍攝完成後，作詞人方文山才根據MV內容來填詞。這意味著概念先於歌詞。MV以沒有歌聲的純視覺敘事開場。被稱為惠斯勒之母的《灰與黑的編排》《第一號》（圖右）中，一位老婦人安靜端坐平靜安穩，被稱為「維多利亞時代的蒙娜麗莎」。然而，MV中的婦人卻是驚駭大叫。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）接著死亡登場：大衛的《馬拉之死》中，浴缸裡被刺殺的法國革命領袖。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）林布蘭《解剖學課》中攤開的屍體，領人直視「死亡」。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）布格羅《但丁與維吉爾在地獄》（圖左）中「咬」的動作；達文西《蒙娜麗莎》的脖子上多了原畫沒有的咬痕。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）偵探在森林水邊發現「女屍」：米萊的《奧菲莉亞》。原畫取材自莎士比亞《哈姆雷特》，描繪精神崩潰的奧菲莉亞仰躺水面，被花朵環繞，將沉未沉。MV忠實重現這個構圖。偵探注意到纏在女屍腿上的不是真實的花，而是金色的金屬枝葉：那是不自然的東西。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）歌詞唱到「克林姆的吻是一種別離」時，畫面以回憶方式呈現克林姆1908年的《吻》（圖上，中位置是原畫）。原畫用大量金箔，描繪一對情侶跪在花草地邊緣擁抱。MV讓金色微粒從天傾瀉如光雨，把靜態金箔變成動態空間。值得注意的是：這是「過去」的畫面，不是「現在」，它是被害者被掠奪之前，最後一次感受到愛的瞬間。之後，「愛」就被吸血鬼掠奪。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）偵探桌面上散落報紙（標題「Strange Bite Marks?」）和皮膚醫學文獻。三幅畫作並排構成「證據牆」：萊頓《燃燒的六月》中，一位女子身穿橘紅色薄紗蜷縮沉睡，處於睡眠與死亡的邊界；海耶茲1859年《吻》中，一對情侶在暗色中世紀場景中激情擁吻；第三幅描繪暴力攫取。三個階段，拼出吸血鬼的犯罪模式：使人陷入沉睡親密接觸掠奪。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）第一幕：死亡的藝廊MV到底在演什麼？一幅一幅地查，發現一件事：周杰倫（或者說導演廖人帥）挑選的這些畫，不是隨便放的。MV開場的五幅畫，像電影的冷開場，沒有歌詞，是純視覺敘事。第一幅是惠斯勒的《灰與黑的編排第一號》，大家更熟悉的名字是「惠斯勒的母親」。惠斯勒刻意用「灰與黑的編排」來命名，因為他主張藝術應該是純粹的色彩與構圖的和諧，就像音樂的編排，而不是為了講故事或說教。用這幅畫開場，像是周杰倫在一開始就告訴觀眾：接下來你會看到的，不是佈道，是藝術。從MV中這名婦人角色看見了死去的人，驚訝地坐下，灰黑色調籠罩整個畫面，死亡登場。然後《馬拉之死》出現，真人重現那個被刺殺在浴缸裡的法國革命領袖右手還握著筆，左手拿著請願書，旁邊有木箱和羽毛筆，戲劇性的明暗光線完全是原畫調子。原畫的畫家大衛是馬拉的朋友，趕到現場親眼目睹後，刻意用聖殤圖的構圖，把馬拉畫成近似從十字架上被放下的基督。VERSE雜誌指出，周杰倫放進這幅畫，是向觀眾拋出提問：什麼是值得用生命守護的事？接著是林布蘭《解剖學課》周杰倫和一群穿黑衣戴白色荷葉領的醫師，圍著解剖台上的屍體，直視屍體，也直面「死亡」。然後，《但丁與維吉爾在地獄》閃過「咬」的動作，《蒙娜麗莎》脖子上出現咬痕。犯罪手法被暗示了，但還沒說破。接著，偵探在水邊發現《奧菲莉亞》的場景。米萊選擇畫的是她已在水中、將沉未沉的那一刻，花朵各有象徵：罌粟代表死亡、柳枝代表被遺棄的愛情、紫羅蘭代表貞潔。歌詞用「莎士比亞筆下的純真」和「哈姆雷特花叢那歌聲」來定位。「火炬的光不照著劇本」（歌詞）暗示，這些死亡的背後有一個不在「官方劇本」裡的力量在運作。然後是關鍵細節。「蝙蝠轟然離去」直接指向吸血鬼。偵探拿起纏在女屍身上的金色枝葉，歌詞問「浮出水面的是不是真理」。答案是否定的。金色枝葉是金屬的、不會凋謝的、人造的，和奧菲莉亞身邊應該有的真花完全不同。它是自然生命力被掠奪之後的殘留物。偵探拿著它，就像拿著犯罪現場的物證。《吻》以回憶閃回出現時，歌詞寫「克林姆的吻是一種別離」。這個時間設定很重要：它不是正在發生的救贖，而是過去曾發生的事，受害者被掠奪之前最後一次感受到愛。副歌炸開：「我就是光，照亮遠方黑夜。」偵探從被動的調查者，變成主動的宣告者。第一幕結束。在《夜遊者》的餐館裡遇見梵谷。霍普1942年的《夜遊者》描繪一家深夜餐廳，四名幾乎不交流的人被刺眼的人工白光照得通透，玻璃外是黑色街道，霍普刻意移除了門，觀者永遠被隔在外面。MV打破這個設計：偵探走進畫裡面，坐下等候，被吸血鬼襲擊後仍舊存活下來的證人梵谷。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）苦艾酒，19世紀末，梵谷那個世代藝術家的標誌性飲品。偵探飲下苦艾酒，視覺世界劇烈轉變。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）以第一人稱主觀視角重現梵谷《在亞爾的臥室》。黃綠色的床、旋轉的燈光、傾斜的牆面，全部從平面變成沉浸式體驗。觀眾不是在「看」梵谷的畫，而是暫時「活在」梵谷的世界。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）偵探不是在外面「調查」梵谷的案件，他是喝下同樣的「酒」，讓自己進入受害者的主觀經驗。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）偵探走進最後的戰場，吸血鬼襲擊梵谷的地方：《奧維爾教堂》。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）第二幕：孤獨的調查第二幕慢了下來。偵探來到馬奈《女神遊樂廳的吧台》場景，這是藝術史上表達「孤獨」的名作。MV在原畫構圖上，加了一個原本不存在的角色：周杰倫飾演的偵探，低頭看報，坐在女侍者面前卻完全不看她。原畫中，這個位置的男子只存在於鏡中反射裡，MV把他實體化，反而讓「被注視卻不被看見」的孤獨感更強烈。接著，偵探在霍普《夜遊者》的場景中遇見梵谷。VERSE雜誌指出，霍普筆下的孤獨「從來都不是呼天搶地，卻引人沈沈地難受」。霍普刻意移除餐廳的門，觀者永遠被隔在外面。但MV打破這個設計：偵探走進去，坐下來，和梵谷面對面。藝術史裡一個被設計成「永遠無法進入」的空間，第一次有人走進來陪伴。梵谷拿出一幅畫：《奧維爾教堂》。這是他生命最後階段的作品，離他過世僅約一個月，教堂線條扭曲、天空深藍得幾乎發黑。字幕是梵谷的台詞：「吸血鬼在這地方咬了我的耳朵。」（While I was here, a vampire bit my ear.）這句話用黑色幽默重新包裝梵谷割耳事件把「我割掉了自己的耳朵」，換成「有東西從我身上奪走了某樣事物」。然後是一個讓我查了好一陣子才搞清楚的細節：桌上那杯飲料是綠色的。苦艾酒。19世紀末被稱為「綠色仙子」，是梵谷、高更、波特萊爾那整個世代的標誌性飲品，曾被認為含有會誘發幻覺的成分，甚至加劇了梵谷的精神崩潰，影響了他畫中那種扭曲翻湧的視覺風格。偵探飲下這杯苦艾酒。歌詞唱的是「調了一杯迷惑的無解」，這杯酒就是那個「無解」。飲下之後，視覺世界變成梵谷的主觀視角：《在亞爾的臥室》的黃綠色床鋪、旋轉的燈光、傾斜的透視，全部從平面變成沉浸式體驗。這個轉變的意義，值得停下來想一下。偵探沒有站在安全距離外分析。他喝下同樣的「酒」，讓自己進入受害者主觀世界。他暫時放下偵探的冷靜，換來對受害者痛苦的第一手感受。他必須先知道「孤獨者」的感受，才能走進第三幕面對吸血鬼。教堂內部荒廢，蛛網覆蓋長椅，蠟燭是僅存光源；吸血鬼安然坐在前排。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）精心準備的銀子彈，射向吸血鬼，超現實的大戰開打。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）空間的扭曲似乎也表達：這是跨越極長時間的戰鬥。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）銀子彈失敗後，偵探拆下教堂的十字架窗框刺穿吸血鬼。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）畫面突然閃白、音樂安靜，血點一滴滴落下來。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）突然，副歌唱起：我就是光！（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）吸血鬼被消滅後，畫面停格成動作遊戲的結算畫面，哥德字體打上「Children of the Sun」與「Jay Chou」就像畫家在作品完成後落款蓋印，周杰倫在這幅他自己創造的「第31幅名畫」上，簽下名字。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）第三幕：教堂裡的對決偵探走進梵谷畫中的教堂內部。而梵谷只畫過《奧維爾教堂》的外觀，從未畫過裡面。MV則進入一個藝術史不存在的空間，吸血鬼已經在裡面等著。他能坐在教堂前排，是因為這座教堂已經荒廢，神聖性被掏空。從而省思，當信仰的空間被遺棄（沒有神），留下的空殼就會被別的東西填滿。第三幕的視覺風格，從古典名畫轉為當代流行文化。遊戲《惡魔獵人》的但丁、《惡魔城》的貝爾蒙特家族、電影《駭客任務》的動作美學。MV在這裡做一個媒介跳躍：前兩幕走進名畫，第三幕走進遊戲和電影。吸血鬼的戰場不只存在於過去藝術史中，也在當代人的文化裡。偵探用銀子彈對付吸血鬼，完全無效。銀子彈是人發明的武器。最後，他拆下教堂的十字架窗框，刺穿吸血鬼胸口。畫面被血紅色覆蓋。副歌開始演唱，字幕打出：「我就是光。」遊戲結算畫面般的停格之後，淡入最後一幀：畫作躺在泥土與草叢間，沾了泥、邊緣燒焦。名畫從美術館的牆上掉下來了。片尾金句：「Within every heart lies a dark side. * MV以沒有歌聲的純視覺敘事開場。被稱為惠斯勒之母的《灰與黑的編排》《第一號》（圖右）中，一位老婦人安靜端坐平靜安穩，被稱為「維多利亞時代的蒙娜麗莎」。然而，MV中的婦人卻是驚駭大叫。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 接著死亡登場：大衛的《馬拉之死》中，浴缸裡被刺殺的法國革命領袖。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 林布蘭《解剖學課》中攤開的屍體，領人直視「死亡」。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 布格羅《但丁與維吉爾在地獄》（圖左）中「咬」的動作；達文西《蒙娜麗莎》的脖子上多了原畫沒有的咬痕。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. MV忠實重現這個構圖。偵探注意到纏在女屍腿上的不是真實的花，而是金色的金屬枝葉：那是不自然的東西。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. 三個階段，拼出吸血鬼的犯罪模式：**使人陷入沉睡**→**親密接觸**→**掠奪**。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. MV打破這個設計：偵探走進畫裡面，坐下等候，被吸血鬼襲擊後仍舊存活下來的證人梵谷。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 偵探走進最後的戰場，吸血鬼襲擊梵谷的地方：《奧維爾教堂》。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 精心準備的銀子彈，射向吸血鬼，超現實的大戰開打。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 空間的扭曲似乎也表達：這是跨越極長時間的戰鬥。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 銀子彈失敗後，偵探拆下教堂的十字架窗框刺穿吸血鬼。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 畫面突然閃白、音樂安靜，血點一滴滴落下來。（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. * 突然，副歌唱起：**我就是光！**（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）. 每個人心中都藏著黑暗面。你必須選擇與它共存，或徹底戰勝它。」那條幾乎沒人注意到的線在所有討論中，歌迷在辨認名畫，樂評在分析曲風，但少有人把整支MV故事線拉出來，然後問一句：這三幕在講什麼？第一幕：有什麼東西不對勁。美好事物正在被偷竊、美好的人被殺害、世界正被毀壤。愛、創造力、理想，一個接一個死去。金色枝葉取代真花，人造的永恆取代真實的生命。第二幕：有人走進苦難的現場。偵探沒有站在遠處分析，他喝下苦艾酒，讓自己進入受害者世界。他選擇先經歷黑暗，才去面對黑暗的源頭。第三幕：人的武器失敗，信仰的符號成功。教堂可以荒廢，十字架仍然有效。最後流出的血不是被奪取的，而是在對決中給出的。吸血鬼靠吸別人的血維持生命，但刺穿他的那一刻流出的血，終結了掠奪。如果你對基督教的核心敘事有一點點熟悉，這三幕的結構，會讓你心裡一動：它和「墮落道成肉身十字架救贖」的故事線，幾乎是平行的。世界出了問題，美好事物被某種寄生性的力量扭曲。然後拯救者不是從遠處發大招，而是親身走進黑暗、承受黑暗。最後，十字架上的血不是被奪取的，而是主動給出的「沒有人奪我的命去，是我自己捨的」（約翰福音10章18節）。掠奪者的邏輯，被徹底翻轉：奪取帶來的是虛假的永恆，給予帶來的才是真實的生命。「我就是光」這四個字，出現在血覆蓋畫面的那一刻。約翰福音8章12節：「我是世界的光。跟從我的，就不在黑暗裡走，必要得著生命的光。」而「我就是光」，正是這首歌的原歌名。周杰倫在記者會上沒有提到信仰，他說的是希望藉專輯傳遞「正能量」和「戰勝心魔」。這支MV的劇本選擇教堂、十字架、寶血、「我就是光」這些不是隨機元素，它們指向一方向。十三年後，信仰再次出現在創作裡2013年9月，周杰倫在台北小巨蛋個人演唱會上，與教會肢體一同演唱詩歌〈Jesus Fashion〉，這是他首次在大型公開場合宣告信仰。此次〈太陽之子〉整支MV最後的敘事骨架十字架從荒廢教堂中被取出、刺穿黑暗的掠奪者、血覆蓋一切、「我就是光」這些是在劇本階段就被寫定的。此外，拍攝地的選擇聖女貞德教堂（Chapelle Sainte-Jeanne-d'Arc），紀念的是一位因信仰被燒死的殉道者。MV中，偵探在教堂裡拆下十字架，戰勝黑暗，而這座教堂紀念的，正是一位為了所相信的事付出生命的人。從〈Jesus Fashion〉到〈太陽之子〉，十三年，周杰倫對信仰的創作表達從「直接宣告」走向「用故事承載」。2013年那晚在小巨蛋，台下是1萬5千名歌迷；這支MV上線迄今，全世界已有超過800萬人聽過面向的不是教會內的弟兄姊妹，是每一個點開螢幕的人。片尾金句疊在上面：「Within every heart lies a dark side. 每個人心中都藏著黑暗面。你必須選擇與它共存，或徹底戰勝它。」（圖／翻攝自YouTube頻道：周杰倫 Jay Chou）.",
-      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-07-17 03:49:01",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新專輯〈太陽之子〉MV以億元製作費、融合多幅名畫與深刻信仰主題，呈現藝術與流行音樂的跨界實驗，獲得高度讚賞。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 1988,
-      "title": "周杰倫登華航機上影音　實境節目9月上線 | 生活 | 中央社 CNA",
-      "link": "https://www.cna.com.tw/news/ahel/202607130092.aspx",
-      "source": "Tavily (www.cna.com.tw)",
-      "snippet": "* [好生活](https://howlife.cna.com.tw/). + [英格蘭止步4強　貝林翰淚灑球場後拍對手後腦惹議](/news/aspt/202607160025.aspx). + [英格蘭無緣世界盃決賽　隊長凱恩：守成策略不足以取勝](/news/aspt/202607160021.aspx). + [世界盃英格蘭對決阿根廷敗北飲恨　球迷心情低落](/news/aspt/202607160019.aspx). + [西班牙團隊戰術再闖世足決賽　國王IG分享喜悅](/news/aspt/202607160016.aspx). + [阿根廷闖世足決賽　梅西神助攻、馬蒂內茲頭槌絕殺逆轉英格蘭](/news/aspt/202607160014.aspx). + [美股3大指數上揚費半下挫　台股聚焦台積電法說會](/news/afe/202607160026.aspx). + [吳德榮：大氣不穩定　午後常有強對流發展](/news/ahel/202607160027.aspx). + [英格蘭止步4強　貝林翰淚灑球場後拍對手後腦惹議](/news/aspt/202607160025.aspx). + [路透：捷克外交部證實有公民在中國遭拘留](/news/aopl/202607160022.aspx). + [英格蘭無緣世界盃決賽　隊長凱恩：守成策略不足以取勝](/news/aspt/202607160021.aspx). + [駐美官員投書媒體：中國民族團結法對台不具約束力](/news/aipl/202607160018.aspx). + [路透：捷克外交部證實有公民在中國遭拘留](/news/aopl/202607160022.aspx). [在台藏人追悼紐約自焚者洛嘎讓贊](/news/acn/202607150348.aspx). + [中國社科院成立港澳研究中心](/news/acn/202607150363.aspx). + [中國AI巨頭DeepSeek準備明年在上海上市](/news/acn/202607150332.aspx). [美國空襲伊朗　國際油價小幅走高](/news/afe/202607160011.aspx). + [獲首屆東方領袖人物　施振榮談人性本善組織文化](/news/afe/202607150367.aspx). + [研調：預估2030年陪伴型人型機器人產值達11億美元](/news/afe/202607150351.aspx). + [賴總統：施振榮「微笑曲線」為台灣產業帶來新方向](/news/afe/202607150344.aspx). + [東協財經／緯穎馬來西亞子公司進行建築物改良　斥資逾6億元](/news/afe/202607153004.aspx). + [吳誠文：規劃成立太空基金　政府主導引入民間投資](/news/afe/202607150339.aspx). + [台灣形象展東京登場　無人機搶攻日本市場](/news/afe/202607150335.aspx). + [金管會上半年裁罰9787萬元　台中銀3200萬最重](/news/afe/202607150325.aspx). [美股3大指數上揚費半下挫　台股聚焦台積電法說會](/news/afe/202607160026.aspx). + [通膨降溫加財報利多　美股3大指數收紅](/news/afe/202607160010.aspx). + [美伊衝突再起　歐股多收黑](/news/afe/202607160002.aspx). + [東協財經／威宏增資柬埔寨據點200萬美元　強化營運規模](/news/afe/202607153005.aspx). + [禾伸堂、台燿爆違約交割　合計金額5428萬元](/news/afe/202607150342.aspx). + [美國通膨降溫緩解升息疑慮　首爾領軍亞股上揚](/news/afe/202607150258.aspx). + [外資連9賣台股加碼主動型ETF　台指期淨空單低於8萬口](/news/afe/202607150256.aspx). + [三大法人買超台股201.92億元](/news/afe/202607150163.aspx). [早安世界》青安3.0擬限未滿50歲、年收入200萬以下申貸](/news/ahel/202607165001.aspx). + [吳德榮：大氣不穩定　午後常有強對流發展](/news/ahel/202607160027.aspx). + [台灣僑社攜手巴西媒體集團伴癌童　贈書傳遞希望](/news/ahel/202607160020.aspx). + [嘉義縣梅山鄉規模4地震 最大震度雲林縣4級](/news/ahel/202607155003.aspx). + [今彩539第115171期　頭獎1注中獎](/news/ahel/202607150359.aspx). + [花蓮萬里溪堰塞湖估17日上午溢流　鳳林鎮、萬榮鄉213人提前撤離](/news/ahel/202607150346.aspx). + [今彩539第115171期開獎](/news/ahel/202607150336.aspx). + [事業廚餘擬納入動物循環原料　飼料工廠處理可餵豬](/news/ahel/202607150326.aspx). [英格蘭無緣世界盃決賽　隊長凱恩：守成策略不足以取勝](/news/aspt/202607160021.aspx). + [英格蘭止步4強　貝林翰淚灑球場後拍對手後腦惹議](/news/aspt/202607160025.aspx). + [世界盃英格蘭對決阿根廷敗北飲恨　球迷心情低落](/news/aspt/202607160019.aspx). + [西班牙團隊戰術再闖世足決賽　國王IG分享喜悅](/news/aspt/202607160016.aspx). + [阿根廷闖世足決賽　梅西神助攻、馬蒂內茲頭槌絕殺逆轉英格蘭](/news/aspt/202607160014.aspx). + [四國菁英棒球對抗賽　日本延長賽11局勝美國奪冠](/news/aspt/202607150366.aspx). [威宏增資柬埔寨據點200萬美元　強化營運規模](/news/afe/202607153005.aspx). + [東協財經／緯穎馬來西亞子公司進行建築物改良　斥資逾6億元](/news/afe/202607153004.aspx). + [東協財經／2026年7月15日東協快訊](/news/afe/202607153001.aspx). + [東協財經／台表科越南子公司擴建二期廠房　斥資逾7億元](/news/afe/202607143003.aspx). + [東協財經／2026年7月14日東協快訊](/news/afe/202607143002.aspx). + [東協財經／高端EV71疫苗撤回新加坡查驗登記　待補件重提申請](/news/afe/202607133003.aspx). + [東協財經／2026年7月13日東協快訊](/news/afe/202607133002.aspx). * [好生活Howlife](https://howlife.cna.com.tw/). [美股3大指數上揚費半下挫　台股聚焦台積電法說會](/news/afe/202607160026.aspx). [![](https://imgcdn.cna.com.tw/www/website/img/support.svg?v=20260713)](/donate/). ![中華航空股份有限公司13日宣布，取得實境節目「周遊記3」機上播映權，預計9月上線，藝人周杰倫（右）與阿Ken（左）也在影片中向旅客打招呼。（華航提供）中央社記者余曉涵傳真　115年7月13日](https://imgcdn.cna.com.tw/www/WebPhotos/800/20260713/1034x768_wmkn_0_C20260713000049.jpg). ![google news](https://imgcdn.cna.com.tw/www/website/img/google-news.png)透過 Google News[追蹤中央社](https://news.google.com/publications/CAAqBwgKMKD2uwswrZHTAw?hl=zh-TW&gl=TW&ceid=TW%3Azh-Hant). * [## 韓國股市槓桿ETF如賭場　李在明下令擬對策](/news/afe/202607150283.aspx). * [## 世界盃足球賽阿根廷對決西班牙爭冠　完整賽程戰績看這裡](/news/aspt/202606085005.aspx). * [## 吃到問題油品怎麼辦？營養師建議增高纖食物、多喝水助排毒](/news/ahel/202607150207.aspx).",
-      "published_at": "Mon, 13 Jul 2026 04:10:00 GMT",
-      "collected_at": "2026-07-17 03:49:01",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫的實境節目《周遊記3》將於9月登上華航機上影音系統，增加其作品的曝光度。",
-      "category": "影視",
-      "analyzed": 1
-    },
-    {
-      "id": 1989,
-      "title": "周星馳新片遭轟「難看」！周杰倫親自發聲力挺　1句話曝兩人交情",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%98%9F%E9%A6%B3%E6%96%B0%E7%89%87%E9%81%AD%E8%BD%9F-%E9%9B%A3%E7%9C%8B-%E5%91%A8%E6%9D%B0%E5%80%AB%E8%A6%AA%E8%87%AA%E7%99%BC%E8%81%B2%E5%8A%9B%E6%8C%BA-1%E5%8F%A5%E8%A9%B1%E6%9B%9D%E5%85%A9%E4%BA%BA%E4%BA%A4%E6%83%85-040200432.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "# 周星馳新片遭轟「難看」！周杰倫親自發聲力挺　1句話曝兩人交情. 「星爺」周星馳自編自導新片《功夫女足》11日在中國上映，上映首日便以22.6萬場排片刷新紀錄，票房迅速衝破人民幣3億元（約新台幣14億元）。雖然電影開出亮眼成績，但上映後觀眾評價呈現兩極，而樂壇天王周杰倫則發聲力挺，親自在社群轉發電影海報，替好友新作宣傳。. ## 周杰倫發文喊話進戲院支持. 周杰倫今（12日）在Instagram限時動態轉發《功夫女足》宣傳海報，寫下：「星爺電影大賣，大家記得去看喔。」短短一句話展現對周星馳的支持，也讓不少粉絲大讚兩人的好交情。事實上，周杰倫與周星馳近年互動頻繁，過去曾多次在社群隔空交流，還曾在香港合體掀起話題，一度傳出雙方未來有望展開合作，令影迷相當期待。. 儘管票房表現強勢，《功夫女足》上映後口碑卻出現明顯分歧。有觀眾認為電影延續周星馳一貫的無厘頭風格，但也有人認為笑點與劇情未達預期，讓電影在網路上掀起熱烈討論。. ## 主持人開酸「好難看」　網路評價掀兩極. 東方衛視主持人林海看完電影後，更直接在微博曬出票根發文寫下：「星爺，不欠你了。好難看。」隨後再補充：「因為真金白銀看過之前的每一部，所以不欠。」他也在其他貼文留言直言：「哏是老的、演員是過火的、劇本是脆弱的。」犀利評論迅速引發網友論戰，有人認同他的看法，也有人認為仍應親自進戲院觀賞，再評斷電影優劣。. 周杰倫（右）喊話支持周星馳的新片。翻攝stephenchow IG. 郭富城「40年前舊愛」強勢復出！消失33年首談天王　鬆口：不介意同場. 57歲翁虹首揭豪門婚變真相！還原「遭掃地出門、家暴」始末：像簽錯合同. IU認愛李鍾碩4年後分手！劉寅娜曾爆她戀愛「全配合」累到送醫　苦勸：換這種男友. ## 其他人也在看. ### 《功夫女足》票房破38億！「梨花隊」奧步劇情惹怒韓網. 香港喜劇天王周星馳睽違多年推出的新作《功夫女足》，上映後在商業市場展現強大吸金力，全球票房目前已突破8億元人民幣（約38億元台幣），亮眼成績讓外界再次見識「星爺」的票房號召力。不過，在票房捷報背後，電影也掀起不少國際爭議，其中南韓媒體與網友對片中疑似影射南韓足球隊的設定強烈反彈，認為劇情有醜化南韓體育形象之嫌，也讓該片能否順利在南韓上映成為外界討論焦點。. ### 周星馳《功夫女足》破影史紀錄 王晶揭不如《少林足球》關鍵. 香港喜劇天王周星馳睽違7年推出新電影《功夫女足》，11日在大陸上映後，吸引大批影迷朝聖，且至截稿前已累積8.87億人民幣（約新台幣42.1億元）票房，突破近3年大陸暑期檔期的影史紀錄。而周星馳日前被問到破紀錄的心情，他謙虛坦言不是自己的功勞，立刻引起現場觀眾歡呼。. ### 川普轟伊朗另有目的？　美官員曝：在為後續更大行動鋪路　中國又爆暗助伊朗？　海上情報船追蹤美軍動態　3貨機從雷達消失疑送軍火｜全球聊天室｜#鏡新聞. 鏡電視推出個人廣告囉！ 讓你也能成為廣告主Show Yourself👉https://mnews.oen.tw/ 《鏡好買》電商平台全新上線🔥 鏡好買是鏡電視全新推出的官方選物平台，精選日常生活中真正好用、安心、有品質的商品，從美食、生活用品到居家好物，幫你把關品質好生活❤️ 現在加入就送購物優惠券👉 https://lihi.cc/keGMC 加入頻道會員支持鏡新聞🩷： https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/join 鏡好買MirrorLife👉https://lihi.cc/keGMC 鏡電視綜合台YouTube👉http://pse.is/59enw2 鏡電視直播台YouTube👉https://pse.is/4w3gts. ### 周星馳《功夫女足》4天票房破8億！觀眾怒揭「偷票房」全網炸鍋. 周星馳《功夫女足》4天票房破8億，這部讓無數影迷翹首以盼的力作，一上映便以排山倒海之勢席捲全國院線，再次證明了「星爺」無可替代的票房號召力。然而，在這份令人振奮的捷報背後，這部熱血又溫馨的喜劇卻在暗地裡遭遇「偷票房」的不正當競爭風暴。許多滿懷期待進場支持的忠實觀眾，在走出影院後憤怒地發現，自己用真金白銀為情懷買下的單，竟然可能根本沒有進到星爺與製作團隊的口袋裡，引發外界熱烈討論。（記者唐家興）. 三立新聞網 setn.com ・ 6 小時前 ・ 2則留言. ### 白天如黑夜！陽交大教職員宿舍詭異「貼滿錫箔紙」 竟是林教授夫妻住所. 陽明交大電機工程學系教授林詩淳持刀狠殺紀姓連襟，造成對方傷重不治，刀刀瞄準胸部以上，致人於死目的明顯，而一切禍端全因家族財產紛爭。據了解，林詩淳與妻子住在教職員宿舍，且無論是窗戶還是天花板都貼滿錫箔紙，就算是白天也幾乎沒有光線，相當詭異。. ### 英法都不想踢！美媒酸世界盃季軍戰：根本是對4強敗隊的羞辱. 2026美加墨世界盃季軍戰將由英格蘭對決法國，不過這場比賽尚未開踢，就再度引發「是否有存在必要」的爭論。美國資深體育記者Brian T. Smith在《talkSPORT》撰文痛批，季軍戰對剛在4強落敗的球隊而言，不是安慰，而是一種近乎羞辱的安排，呼籲國際足總（FIFA）未來應考慮取消。. ### 五月天才剛休團！阿信驚喜公布新身分　粉絲全嚇歪：哪來的美國時間. ### 誤認孩童落水！71歲嬤縱身跳河　救完人就走了家人事後才知情. 根據《安徽日報》報導，事件發生於7月13日下午6時左右，沱河路橋附近突然有人高聲呼救。當時正在橋下與友人聊天的71歲劉德芳聽見聲音後，立刻起身趕往落水地點。當她準備脫鞋下水時，現場一名女子趕緊從岸邊護欄取下一只救生圈遞給她。劉德芳接過救生圈後毫不遲疑，直接穿越... ### Toyota全新「小Land Cruiser」上市引爆熱烈迴響！「這台終於買得起了！」「想從Jimny換過來……」掀起搶購潮！？超高CP值備受矚目！全新「FJ」話題爆棚，經銷商曝光消費者最真實的心聲！. Toyota全新「Land Cruiser FJ」作為Land Cruiser家族最新、也是最小的成員登場，憑 […]. ### 「紅霞」明恐生成！雨彈狂砸全台7天　降雨熱區曝光. 中央氣象署發布最新資訊，熱帶性低氣壓TD12正向東北東緩慢移動。今日14時其中心位於北緯4.3度、東經151.8度，中心氣壓為1004百帕。一旦正式升格，將成為今年第 12 號颱風，並命名為「紅霞」（Noul）。. ### 梅西就是山羊！兩記助攻逆轉英格蘭　貝克漢親口認證：他就是史上第一. 體育中心／綜合報導阿根廷隊長梅西（Lionel Messi）在面對英格蘭的四強賽中，以兩記神級助攻主導整場比賽的逆轉勝。賽後前英格蘭隊長貝克漢（David Beckham）看著祖國球隊無緣決賽，仍展現極高的風度，認為梅西就是史上第一（Greatest of all time）。. FTV Sports ・ 13 小時前 ・ 3則留言. ### 嘉義「模特級超正配送員」俐落搬貨暴紅！閨蜜高喊單身. 生活中心／王妤倢報導有看過這麼漂亮的物流配送士嗎？近日有網友在嘉義街頭直擊一名外型極為亮眼的女物流配送員，她身手俐落爬進後車廂搬貨，隨後身手矯健地推著推車送貨。這幕認真工作的「神級背影」讓目擊原PO忍不住讚嘆：「這model（模特）等級耶！」就連一旁的女友也連聲驚呼「好漂亮」。影片曝光後，隨即引來近5.4萬名網友按讚朝聖。. ### 嘉義街頭目擊正妹配送員！超高顏值網讚：女友也說漂亮. 嘉義街頭一名女性配送員在送貨的畫面，在社群平台引發熱議，影片中的女配送員以亮眼外型和俐落的工作態度吸引大量關注，原PO還盛讚「連我女友也說很漂亮」，掀起大眾討論。. ### 梅西聽到了什麼怒瞪貝林漢？23歲英格蘭中場球星竟敢槓上大前輩. 體育中心／丁泰祥 報導英格蘭和阿根廷這場比賽，上半場雙方都沒進球，但競爭激烈火藥味濃厚，中場休息時，英格蘭明星中場貝林漢，不知道和大前輩梅西說了些什麼，讓這位阿根廷天王怒目相視，看起來相當火大，賽後，貝林漢當然也被媒體問到這題。. ### 結婚觀念大不同！網曝光「極簡婚禮」成新趨勢. 生活中心／鄭若曦報導舉辦婚禮對於新人而言一直是一筆不小的開銷，許多人也會想盡辦法希望省下一些費用。日前就有一名網友發文表示自己在和長輩聊天時，發現自己的長輩仍然希望女生結婚時要舉行婚禮，因為這樣才能讓大家知道自己「有娘家」、「有人疼」，認為若不辦婚禮會讓人覺得女性是被草率娶回家。然而網友也發現如今愈來愈多年輕新人選擇不辦婚禮，藉此省下一筆開銷，因此發文和其他網友討論對於婚禮的看法，也引來許多網友留言分享自己的「極簡婚禮」，有些儀式感但同時也能省下不少金錢。. ### 超便宜、約138萬日圓！全新「6人座Compact Car」即將上市！採用對開式車門的方正車身設計，搭載創新的「面對面座椅」！獲政府認證的「Olinia Uno」Mexico規格究竟是什麼樣的車呢？. 由Mexico政府推動開發的全新Compact EV「Olinia Uno」正式發表。這款車以約138萬日圓的 […]. ### 體重36公斤女遭鄰居闖入侵犯！機警設局「請他倒垃圾」錄下鐵證判刑. 台中市北區一處大樓2024年間發生一起性侵案，一名女住客「小花」（化名），深夜聽聞敲門聲，原以為是男友現身，未料開門後竟遭素未謀面的鄰居劉男強行闖入侵犯，面對體型懸殊的暴力脅迫，小花在受害後主動要求交換LINE聯絡方式，更請對方「順手幫倒垃圾」，藉此讓大樓監視器拍下嫌犯身影，案經台中地院審結，依強制性交罪判處劉男3年6個月徒刑。. ### 人妻自爆「交往18任帥哥後嫁備胎」慘遭炎上急鎖帳號. ### 杜汶澤餐廳開不到一年出大事！無預警發「白底黑字聲明」火速開除店長. 港星杜汶澤4年前取得台灣國籍、與妻子田蕊妮移居台灣後，因為實在太懷念香港家鄉味，去年12月特地在台北市大安區強勢插旗，打造全新港式小吃品牌「小杜麵館」。當時杜汶澤為了研發餐點、設計菜單投注大量心力，開幕時還親自站上第一線備料、招呼客人，甚至累到開玩笑放話：「這是我第一次開餐廳，這輩子不會再開了。」沒. ### 日本暗黑女神揭拒移居台灣真相　「這條件」全亞洲最差. 娛樂中心／駱瑩倫報導日本前AV女優濱崎真緒近日因談及未來發展地點，在社群平台掀起熱烈討論。她透露，長年收到粉絲詢問「為什麼不搬到台灣發展」，但經過市場環境、工作機會與生活條件等多方面評估後，她認為台灣並不是目前最適合自己的選擇，「老實說工作的話，台灣店家工資是我現在全亞洲最低的」。.",
-      "published_at": "Mon, 13 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-07-17 03:49:01",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫在社群媒體上發文力挺好友周星馳的新片《功夫女足》，展現兩人深厚交情，並呼籲粉絲進戲院支持。",
-      "category": "影視",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 120,
-    "report_date": "2026-07-21",
-    "total_articles": 11,
+    "id": 121,
+    "report_date": "2026-07-22",
+    "total_articles": 4,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 11,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "Gisele Bündchen Shares Rare Photos of Her, Joaquim Valente’s Son on Lavish Family Vacation - E! News、Japanese R&B Artist Nao Yoshioka Embraces Vulnerability On New Album self - Respect My Region、Jennifer Lopez reveals what makes a man 'sexy' to her - Fox News",
-    "created_at": "2026-07-21 03:57:59"
+    "neutral_count": 4,
+    "daily_summary": "周杰倫近期新聞不斷，與昆凌在英國會合網球巨星費德勒，展現跨界好交情。他不僅發聲力挺周星馳新片，也為新專輯《太陽之子》帶來解析，並預告實境節目九月將登華航。儘管杭州演唱會遭質疑「划水」，他仍攜小女兒抵京準備鳥巢演唱會，林志穎也現身支持，顯示其話題與人氣依舊。",
+    "key_events": [
+      "會合費德勒",
+      "杭州演唱會爭議",
+      "新專輯節目曝光"
+    ],
+    "created_at": "2026-07-22 03:59:15"
   },
   "recentReports": [
+    {
+      "id": 121,
+      "report_date": "2026-07-22",
+      "total_articles": 4,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "周杰倫近期新聞不斷，與昆凌在英國會合網球巨星費德勒，展現跨界好交情。他不僅發聲力挺周星馳新片，也為新專輯《太陽之子》帶來解析，並預告實境節目九月將登華航。儘管杭州演唱會遭質疑「划水」，他仍攜小女兒抵京準備鳥巢演唱會，林志穎也現身支持，顯示其話題與人氣依舊。",
+      "key_events": [
+        "會合費德勒",
+        "杭州演唱會爭議",
+        "新專輯節目曝光"
+      ],
+      "created_at": "2026-07-22 03:59:15"
+    },
     {
       "id": 120,
       "report_date": "2026-07-21",
@@ -645,17 +664,6 @@
         "林志穎現身支持"
       ],
       "created_at": "2026-07-16 03:49:10"
-    },
-    {
-      "id": 114,
-      "report_date": "2026-07-15",
-      "total_articles": 2,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "What Jay-Z has in his watch collection, from one of the most complicated designs ever made to a $6 million timepiece - Business Insider、Jay-Z, Drake, Justin Bieber & Don Toliver Soundtrack Official 2026 Fanatics Fest Playlist - Billboard、Jay-Z Closes Yankee Stadium Residency With Beyoncé, Rihanna and Usher - Variety",
-      "created_at": "2026-07-15 03:46:00"
     }
   ]
 }
