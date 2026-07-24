@@ -28475,6 +28475,90 @@
       "summary": "J. Cole is coming to NY. How much are cheapest tickets for Barclays, MSG, UBS? - New York Post",
       "category": "其他",
       "analyzed": 1
+    },
+    {
+      "id": 2035,
+      "title": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/travis-scott-new-album-tease-paramount-pictures-deal-1236300702/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "La Flame also discussed Cactus Jack signing a first-look deal with a movie studio in a new interview. La Flame’s winning streak continued on Wednesday (July 22) when he graced the cover of *Variety,* which saw him dish on a multitude of topics, including his anticipated forthcoming album and first-look deal with Paramount Pictures. I’m still trying to do every stadium in the United States and the world,” Scott said, shedding light into his mindset as he heads into his next record, which will be his first since 2023’s *Utopia*. And I’m constantly pushing myself to push the sonics to try to make something that I haven’t made before.”. “I need to double down on trying to make something that can reach the person that’s all the way back in the bowl, so how do I reach them like the person that’s right next to me,” he continued. “So that’s what I’m on — trying to elevate the show to a more theater aspect.",
+      "published_at": "Wed, 22 Jul 2026 18:54:19 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞資訊主要關於Travis Scott的新專輯和與派拉蒙影業的合作，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2036,
+      "title": "Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide",
+      "link": "https://www.musicbusinessworldwide.com/mandopop-superstar-jay-chou-is-about-to-release-his-new-album-children-of-the-sun-via-umg-led-by-a-2-8m-music-video-the-timing-couldnt-be-more-significant",
+      "source": "Tavily (www.musicbusinessworldwide.com)",
+      "snippet": "# Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. Mandopop superstar **Jay Chou**, widely regarded as the most influential figure in Chinese-language pop music, is set to release his 16th studio album, *Children of the Sun*, on digital platforms worldwide on March 25. The album is also the first new studio record released since Chou and his label JVR Music signed a strategic global partnership with **Universal Music Greater China** in December 2023, a deal that secured UMG’s global marketing and distribution rights for Chou’s extensive catalog and future projects. A worldwide physical release of the new album is set for April 10. In mainland China, Tencent Music Entertainment Group secured the exclusive pre-order window for the album across its three major platforms — QQ Music, Kugou Music, and Kuwo Music — with pre-orders launching on March 19, six days ahead of the album’s global release across all digital platforms on March 25.",
+      "published_at": "Mon, 23 Mar 2026 19:45:15 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫即將透過環球音樂發行新專輯《Children of the Sun》，並推出耗資280萬美元的音樂錄影帶，同時與環球音樂達成全球合作夥伴關係，並由騰訊音樂娛樂集團獨家預售。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2037,
+      "title": "Taiwan Mandopop star Jay Chou returns with ambitious new album",
+      "link": "https://www.reuters.com/lifestyle/taiwan-mandopop-star-jay-chou-returns-with-ambitious-new-album-2026-03-24",
+      "source": "Tavily (www.reuters.com)",
+      "snippet": "His new album, \"Children of the Sun,\" is his 16th ​studio release and features 13 tracks. The digital version arrives ⁠on Wednesday, with a",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫攜第16張錄音室專輯《太陽之子》回歸，該專輯收錄13首歌曲，數位版將於週三發行。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2038,
+      "title": "Licensable picture: Jay Chou attends the Hong Kong Film Awards in Hong Kong",
+      "link": "https://www.reutersconnect.com/item/jay-chou-attends-the-hong-kong-film-awards-in-hong-kong/dGFnOnJldXRlcnMuY29tLDIwMDc6bmV3c21sX0dNMURWQVZXSE1BQQ",
+      "source": "Tavily (www.reutersconnect.com)",
+      "snippet": "Jay Chou attends the Hong Kong Film Awards in Hong Kong April 15, 2007. REUTERS/Paul Yeung (CHINA)",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫於2007年4月15日出席了在香港舉行的香港電影金像獎。",
+      "category": "影視",
+      "analyzed": 1
+    },
+    {
+      "id": 2039,
+      "title": "Jay Chou and Sydney Lemmon front RIMOWA’s 'Ink Blue' launch",
+      "link": "https://www.marketing-interactive.com/jay-chou-and-sydney-lemmon-front-rimowa-ink-blue-launch",
+      "source": "Tavily (www.marketing-interactive.com)",
+      "snippet": "RIMOWA has tapped global brand ambassador and Mandopop icon Jay Chou, alongside American actress Sydney Lemmon, to front the launch of \"Ink",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫與美國女演員Sydney Lemmon共同為RIMOWA「墨藍色」系列新品發布擔任代言人。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2040,
+      "title": "Destiny's Child to Release New Music, Beyonce's Father Mathew Knowles Says - TMZ",
+      "link": "https://www.tmz.com/2026/07/23/mathew-knowles-says-destiny-child-will-release-new-songs/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Cheek of the Week: Guess Whose Buns Are 'Milkshakin' On The Beach! # Destiny's Child to Release New Music, Beyonce's Father Mathew Knowles Says. ## Destiny's Child New Music on the Way!!! Don't lose your breath, but Destiny's Child is so back ... they're going to be dropping a bunch of new music for the group's upcoming 30th anniversary, TMZ has learned. **Beyonce**'s father, **Mathew Knowles**, tells TMZ ... Destiny's Child has 10 to 15 remixes locked and loaded, including an urban and dance mix. but Mathew tells us Beyonce, **Kelly Rowland** and **Michelle Williams** are all on board for the new drop. Mathew says Destiny's Child is sitting on never-before-seen video and audio they're planning to put out ... meaning this will be the first new music from Destiny's Child in over 20 years. #### Jay-Z Brought Out Rihanna and Beyoncé at Night 3 of His Yankee Stadium Shows. Michelle Williams (Destiny's Child)   Kelly Rowland   Mathew Knowles   Beyonce Knowles   Destiny's Child   Musicians   Exclusive Details   Music.",
+      "published_at": "Thu, 23 Jul 2026 18:21:03 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於天命真女（Destiny's Child）將發行新音樂，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -30165,6 +30249,17 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "After 'Bad Habit,' Steve Lacy could do anything. Genius new album? Yep. Monogamy? Never. - Los Angeles Times、周杰倫新專輯開賣36小時！官方公布驚人銷量曝光　加碼爆料MV先拍才寫歌、周杰倫新專輯開賣36小時! 官方公布驚人銷量曝光 加碼爆料MV 先拍才寫歌",
       "created_at": "2026-07-23 03:57:15"
+    },
+    {
+      "id": 123,
+      "report_date": "2026-07-24",
+      "total_articles": 6,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard、Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide、Taiwan Mandopop star Jay Chou returns with ambitious new album",
+      "created_at": "2026-07-24 03:55:59"
     }
   ],
   "notification_logs": [
@@ -31959,11 +32054,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-07-23 03:57:17"
+    },
+    {
+      "id": 257,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-24 03:56:01"
+    },
+    {
+      "id": 258,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-07-24 03:56:02"
     }
   ],
   "_meta": {
-    "nextArticleId": 2035,
-    "nextReportId": 123,
-    "nextLogId": 257
+    "nextArticleId": 2041,
+    "nextReportId": 124,
+    "nextLogId": 259
   }
 }

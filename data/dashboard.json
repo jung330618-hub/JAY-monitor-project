@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 12,
-    "positive": 5,
+    "total": 6,
+    "positive": 3,
     "negative": 0,
-    "neutral": 7
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 2034,
-    "positive": 572,
+    "total": 2040,
+    "positive": 575,
     "negative": 67,
-    "neutral": 1395,
+    "neutral": 1398,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-09",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-10",
       "total": 9,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 7,
       "avg_score": 0.68
+    },
+    {
+      "date": "2026-07-24",
+      "total": 6,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.69
     }
   ],
   "recentArticles": [
+    {
+      "id": 2035,
+      "title": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard",
+      "link": "https://ca.billboard.com/music/rb-hip-hop/travis-scott-new-album-tease-paramount-pictures-deal-1236300702/",
+      "source": "Tavily (ca.billboard.com)",
+      "snippet": "La Flame also discussed Cactus Jack signing a first-look deal with a movie studio in a new interview. La Flame’s winning streak continued on Wednesday (July 22) when he graced the cover of *Variety,* which saw him dish on a multitude of topics, including his anticipated forthcoming album and first-look deal with Paramount Pictures. I’m still trying to do every stadium in the United States and the world,” Scott said, shedding light into his mindset as he heads into his next record, which will be his first since 2023’s *Utopia*. And I’m constantly pushing myself to push the sonics to try to make something that I haven’t made before.”. “I need to double down on trying to make something that can reach the person that’s all the way back in the bowl, so how do I reach them like the person that’s right next to me,” he continued. “So that’s what I’m on — trying to elevate the show to a more theater aspect.",
+      "published_at": "Wed, 22 Jul 2026 18:54:19 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞資訊主要關於Travis Scott的新專輯和與派拉蒙影業的合作，與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2036,
+      "title": "Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide",
+      "link": "https://www.musicbusinessworldwide.com/mandopop-superstar-jay-chou-is-about-to-release-his-new-album-children-of-the-sun-via-umg-led-by-a-2-8m-music-video-the-timing-couldnt-be-more-significant",
+      "source": "Tavily (www.musicbusinessworldwide.com)",
+      "snippet": "# Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. Mandopop superstar **Jay Chou**, widely regarded as the most influential figure in Chinese-language pop music, is set to release his 16th studio album, *Children of the Sun*, on digital platforms worldwide on March 25. The album is also the first new studio record released since Chou and his label JVR Music signed a strategic global partnership with **Universal Music Greater China** in December 2023, a deal that secured UMG’s global marketing and distribution rights for Chou’s extensive catalog and future projects. A worldwide physical release of the new album is set for April 10. In mainland China, Tencent Music Entertainment Group secured the exclusive pre-order window for the album across its three major platforms — QQ Music, Kugou Music, and Kuwo Music — with pre-orders launching on March 19, six days ahead of the album’s global release across all digital platforms on March 25.",
+      "published_at": "Mon, 23 Mar 2026 19:45:15 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫即將透過環球音樂發行新專輯《Children of the Sun》，並推出耗資280萬美元的音樂錄影帶，同時與環球音樂達成全球合作夥伴關係，並由騰訊音樂娛樂集團獨家預售。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2037,
+      "title": "Taiwan Mandopop star Jay Chou returns with ambitious new album",
+      "link": "https://www.reuters.com/lifestyle/taiwan-mandopop-star-jay-chou-returns-with-ambitious-new-album-2026-03-24",
+      "source": "Tavily (www.reuters.com)",
+      "snippet": "His new album, \"Children of the Sun,\" is his 16th ​studio release and features 13 tracks. The digital version arrives ⁠on Wednesday, with a",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫攜第16張錄音室專輯《太陽之子》回歸，該專輯收錄13首歌曲，數位版將於週三發行。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2038,
+      "title": "Licensable picture: Jay Chou attends the Hong Kong Film Awards in Hong Kong",
+      "link": "https://www.reutersconnect.com/item/jay-chou-attends-the-hong-kong-film-awards-in-hong-kong/dGFnOnJldXRlcnMuY29tLDIwMDc6bmV3c21sX0dNMURWQVZXSE1BQQ",
+      "source": "Tavily (www.reutersconnect.com)",
+      "snippet": "Jay Chou attends the Hong Kong Film Awards in Hong Kong April 15, 2007. REUTERS/Paul Yeung (CHINA)",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫於2007年4月15日出席了在香港舉行的香港電影金像獎。",
+      "category": "影視",
+      "analyzed": 1
+    },
+    {
+      "id": 2039,
+      "title": "Jay Chou and Sydney Lemmon front RIMOWA’s 'Ink Blue' launch",
+      "link": "https://www.marketing-interactive.com/jay-chou-and-sydney-lemmon-front-rimowa-ink-blue-launch",
+      "source": "Tavily (www.marketing-interactive.com)",
+      "snippet": "RIMOWA has tapped global brand ambassador and Mandopop icon Jay Chou, alongside American actress Sydney Lemmon, to front the launch of \"Ink",
+      "published_at": "Fri, 10 Jul 2026 03:00:00 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫與美國女演員Sydney Lemmon共同為RIMOWA「墨藍色」系列新品發布擔任代言人。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2040,
+      "title": "Destiny's Child to Release New Music, Beyonce's Father Mathew Knowles Says - TMZ",
+      "link": "https://www.tmz.com/2026/07/23/mathew-knowles-says-destiny-child-will-release-new-songs/",
+      "source": "Tavily (www.tmz.com)",
+      "snippet": "### Cheek of the Week: Guess Whose Buns Are 'Milkshakin' On The Beach! # Destiny's Child to Release New Music, Beyonce's Father Mathew Knowles Says. ## Destiny's Child New Music on the Way!!! Don't lose your breath, but Destiny's Child is so back ... they're going to be dropping a bunch of new music for the group's upcoming 30th anniversary, TMZ has learned. **Beyonce**'s father, **Mathew Knowles**, tells TMZ ... Destiny's Child has 10 to 15 remixes locked and loaded, including an urban and dance mix. but Mathew tells us Beyonce, **Kelly Rowland** and **Michelle Williams** are all on board for the new drop. Mathew says Destiny's Child is sitting on never-before-seen video and audio they're planning to put out ... meaning this will be the first new music from Destiny's Child in over 20 years. #### Jay-Z Brought Out Rihanna and Beyoncé at Night 3 of His Yankee Stadium Shows. Michelle Williams (Destiny's Child)   Kelly Rowland   Mathew Knowles   Beyonce Knowles   Destiny's Child   Musicians   Exclusive Details   Music.",
+      "published_at": "Thu, 23 Jul 2026 18:21:03 GMT",
+      "collected_at": "2026-07-24 03:55:42",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於天命真女（Destiny's Child）將發行新音樂，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2023,
       "title": "After 'Bad Habit,' Steve Lacy could do anything. Genius new album? Yep. Monogamy? Never. - Los Angeles Times",
@@ -470,104 +554,31 @@
       "summary": "Bruno Mars brings hits, romance and a Paddington Bear to Wembley - BBC",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2016,
-      "title": "Joe Jackson Makes A New York City Homecoming At Beacon Theatre Show - Forbes",
-      "link": "https://www.forbes.com/sites/davidchiu/2026/07/20/joe-jackson-makes-a-new-york-city-homecoming-at-beacon-theatre-show/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "Joe Jackson concluded the North American leg of his \\*Hope and Fury\\* tour at New York City's Beacon Theatre, offering a nearly two-hour journey through his almost 50-year career. The veteran singer-songwriter, a long-time NYC resident, masterfully wove new tracks from his latest album, a return to rock and pop, with early New Wave hits like \"Is She Going Out With Him?\" and \"Steppin' Out.\" Accompanied by his superb band, Jackson's performance highlighted his diverse musical styles—from jazz to Latin—all infused with a distinct New York flavor. For the encore, Jackson and the band returned to pay tribute to David Bowie, another British music legend and one-time New York resident, with an urgent cover of “Scary Monsters (and Super Creeps).” That was followed by the jazzy “You Can’t Get What You Want (Till What You Know Want),\" and Jackson concluded the night alone on stage with a soulful and heartfelt performance of “Home Town.”.",
-      "published_at": "Mon, 20 Jul 2026 00:00:00 GMT",
-      "collected_at": "2026-07-21 03:57:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Joe Jackson Makes A New York City Homecoming At Beacon Theatre Show - Forbes",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2017,
-      "title": "Your guide to the CAAMP concert at CMAC this week - Democrat and Chronicle",
-      "link": "https://www.democratandchronicle.com/story/lifestyle/entertainment/2026/07/20/american-folk-band-caamp-cmac-tickets-details/90981076007/",
-      "source": "Tavily (www.democratandchronicle.com)",
-      "snippet": "# Your guide to the CAAMP concert at CMAC this week. CAAMP, whose fifth studio album, \"Copper Changes Color,\" debuted at No.1 on Billboard's Americana/Folk Albums chart, will take the CMAC stage at 7 p.m. on Tuesday, July 21, for their \"CAAMP Live in 2026 Tour.\". CAAMP will be CMAC's ninth show of the 2026 summer concert season. Tickets for CAAMP's July 21 show currently range from around $52 to $104, and can be purchased through Ticketmaster.com. Doors for the show will open at 5:30 p.m., and the performance will start at 7 p.m. The venue is on the Finger Lakes Community College campus, located at 3355 Marvin Sands Drive, Hopewell. **Premium lot parking:** Tickets for the premium parking lot are $30 and must be purchased in advance through Ticketmaster.com. For more information on parking and to stay updated on lot closures, visit cmacevents.com/cmac-venue/. Here is the remaining 2026 summer concert lineup at CMAC:.",
-      "published_at": "Mon, 20 Jul 2026 15:13:00 GMT",
-      "collected_at": "2026-07-21 03:57:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Your guide to the CAAMP concert at CMAC this week - Democrat and Chronicle",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2018,
-      "title": "Heath Jornales's self-titled EP reaches No. 1 on iTunes PH Albums chart - GMA Network",
-      "link": "https://www.gmanetwork.com/entertainment/showbiznews/heath-jornaless-self-titled-ep-reaches-no-1-on-itunes-ph-albums-chart/135919",
-      "source": "Tavily (www.gmanetwork.com)",
-      "snippet": "# Heath Jornales's self-titled EP reaches No. 1 on iTunes PH Albums chart. Heath Jornales recently dropped his self-titled EP, which has six tracks. Sparkle star Heath Jornales achieved another career milestone as his self-titled extended play (EP) reached number one on the iTunes Philippines Albums Chart. The *You're My Favorite Song* lead actor officially released his first EP, *Heath Jornales*, on July 17 and was met with much love. Sparkle GMA Artist Center announced on Friday that the record had topped the iTunes Philippines Albums Chart. “Heath Jornales' self-titled EP has officially reached #1 on iTunes PH Albums, and he's trending on Apple Music!” Sparkle wrote in an Instagram post. > A post shared by Sparkle GMA Artist Center (@sparklegmaartistcenter). Last June, Heath hit 1 million streams for his debut single, “Back to You.” which he marked with an Instagram post. > A post shared by Heath Jornales (@heathjornales).",
-      "published_at": "Sat, 18 Jul 2026 14:29:31 GMT",
-      "collected_at": "2026-07-21 03:57:29",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Heath Jornales's self-titled EP reaches No. 1 on iTunes PH Albums chart - GMA Network",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2002,
-      "title": "Oasis singer Liam Gallagher’s son is bringing his band to San Francisco - San Francisco Chronicle",
-      "link": "https://www.sfchronicle.com/entertainment/article/gene-gallagher-villanelle-san-francisco-debut-22349518.php",
-      "source": "Tavily (www.sfchronicle.com)",
-      "snippet": "# Oasis singer Liam Gallagher’s son is bringing his band to San Francisco. Gene Gallagher, the son of Oasis singer Liam Gallagher, is following his father’s path to San Francisco — but with a heavier sound and a considerably smaller stage. Gallagher’s British rock trio, Villanelle, is scheduled to make its San Francisco debut Wednesday, July 29, at Rickshaw Stop as part of Popscene, the city’s long-running showcase for emerging British and alternative acts. The performance comes nearly 32 years after Oasis made its own San Francisco debut at Bottom of the Hill on Sept. “It’s wild to think that I saw Oasis make their San Francisco debut at Bottom Of The Hill in 1994 and now, 32 years later, I have the opportunity to bring Liam Gallagher’s son’s band Villanelle to the Bay Area for their debut as well,” Axelsen said. Aidin Vaziri is a staff writer and pop music critic at the San Francisco Chronicle.",
-      "published_at": "Fri, 17 Jul 2026 17:30:14 GMT",
-      "collected_at": "2026-07-20 04:24:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導主要關於Oasis主唱Liam Gallagher的兒子Gene Gallagher將帶領其樂團Villanelle在舊金山演出，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2003,
-      "title": "Jay-Z Proved He Is Still The King Of New York, And The Numbers Back It Up - Forbes",
-      "link": "https://www.forbes.com/sites/dougmelville/2026/07/19/jay-z-proved-he-is-still-the-king-of-new-york-and-the-numbers-back-it-up/",
-      "source": "Tavily (www.forbes.com)",
-      "snippet": "# Jay-Z Proved He Is Still The King Of New York, And The Numbers Back It Up. Forbes contributors publish independent expert analyses and insights. Jay-Z's \"JAŸ-Z30\" celebration cemented his \"King of New York\" status, transforming the city into a living tribute to his 30-year legacy. The month-long activation featured a Dumbo exhibit, wrapped subway trains, and an immersive museum, culminating in a record-shattering three-night residency at Yankee Stadium. What began on June 24th as an exhibit dedicated to“JAŸ-Z30” in Brooklyn's Dumbo neighborhood unfolded into a sweeping look at the cultural icon’s journey and legacy across music, fashion, and literature over the past three decades. That tribute for the 30th anniversary of *Reasonable Doubt* became one of the largest artist-driven cultural activations New York has seen in years, culminating in a three-night residency at Yankee Stadium that shattered attendance records and reinforced Jay-Z’s status as the defining artist of New York.",
-      "published_at": "Sun, 19 Jul 2026 00:00:00 GMT",
-      "collected_at": "2026-07-20 04:24:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞報導了美國饒舌歌手Jay-Z慶祝出道30週年並鞏固其「紐約之王」地位的盛大活動，與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2004,
-      "title": "Trump's intelligence nominee refuses to say who won 2020 election - PBS",
-      "link": "https://www.pbs.org/newshour/show/trumps-intelligence-nominee-refuses-to-say-who-won-2020-election",
-      "source": "Tavily (www.pbs.org)",
-      "snippet": "# Trump's intelligence nominee refuses to say who won 2020 election. Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. The job is largely focused on foreign threats and national security, but much of the hearing focused instead on the recent past. U.S. attorney Jay Clayton appeared before the Senate Intelligence Committee for his confirmation hearing to become director of national intelligence. Today on Capitol Hill, a hearing that was supposed to be about the future of the intelligence community was instead dominated by the history of the 2020 election. Jay Clayton, U.S. Director of National Intelligence Nominee: I'm not going to do this with you. Jay Clayton is the president's nominee for director of national intelligence, a lawyer with more than 30 years of experience, President Trump's first chairman of the Securities and Exchange Commission, and most recently U.S. attorney for the Southern District of New York, one of the Justice Department's most prestigious roles.",
-      "published_at": "Wed, 15 Jul 2026 22:50:24 GMT",
-      "collected_at": "2026-07-20 04:24:03",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞與周杰倫無關，主要報導川普的情報總監提名人Jay Clayton拒絕說明2020年大選結果的聽證會內容。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 122,
-    "report_date": "2026-07-23",
-    "total_articles": 12,
-    "positive_count": 5,
+    "id": 123,
+    "report_date": "2026-07-24",
+    "total_articles": 6,
+    "positive_count": 3,
     "negative_count": 0,
-    "neutral_count": 7,
+    "neutral_count": 3,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "After 'Bad Habit,' Steve Lacy could do anything. Genius new album? Yep. Monogamy? Never. - Los Angeles Times、周杰倫新專輯開賣36小時！官方公布驚人銷量曝光　加碼爆料MV先拍才寫歌、周杰倫新專輯開賣36小時! 官方公布驚人銷量曝光 加碼爆料MV 先拍才寫歌",
-    "created_at": "2026-07-23 03:57:15"
+    "key_events": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard、Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide、Taiwan Mandopop star Jay Chou returns with ambitious new album",
+    "created_at": "2026-07-24 03:55:59"
   },
   "recentReports": [
+    {
+      "id": 123,
+      "report_date": "2026-07-24",
+      "total_articles": 6,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard、Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide、Taiwan Mandopop star Jay Chou returns with ambitious new album",
+      "created_at": "2026-07-24 03:55:59"
+    },
     {
       "id": 122,
       "report_date": "2026-07-23",
@@ -645,17 +656,6 @@
         "演唱會爭議"
       ],
       "created_at": "2026-07-18 03:43:08"
-    },
-    {
-      "id": 116,
-      "report_date": "2026-07-17",
-      "total_articles": 7,
-      "positive_count": 5,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Success, Silence and Self-Discovery : Kartikeya Vajpai’s Debut Novel Explores the Journey from Stardom to Selfhood - Indianmasterminds、周杰倫新專輯〈太陽之子〉解析：當十字架刺穿吸血鬼　原歌名「我就是光」、周杰倫登華航機上影音　實境節目9月上線 | 生活 | 中央社 CNA",
-      "created_at": "2026-07-17 03:49:22"
     }
   ]
 }
