@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 9,
-    "positive": 4,
+    "total": 7,
+    "positive": 2,
     "negative": 0,
     "neutral": 5
   },
   "allTimeStats": {
-    "total": 2049,
-    "positive": 579,
+    "total": 2056,
+    "positive": 581,
     "negative": 67,
-    "neutral": 1403,
+    "neutral": 1408,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-11",
-      "total": 9,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 9,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-12",
       "total": 3,
@@ -132,9 +124,115 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.7
+    },
+    {
+      "date": "2026-07-26",
+      "total": 7,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.63
     }
   ],
   "recentArticles": [
+    {
+      "id": 2050,
+      "title": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！",
+      "link": "https://www.playmusic.tw/column_info.php?id=27131&type=news",
+      "source": "Tavily (www.playmusic.tw)",
+      "snippet": "華語音樂新聞  全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！. 樂壇天王周杰倫以他音樂能量的光芒照耀全球！最新專輯「太陽之子」即將在3月25日全球數位發行！儘管大家還沒聽到首波主打歌「太陽之子」，然而四支Teaser的露出，已將歌迷的期待值拉得滿滿，歌迷紛紛解鎖Teaser畫面，剖析周杰倫的MV與世界知名藝術畫作的關聯。宛如電影般的精緻動畫與後製更是令人嘆為觀止，肯定所費不眥！事實上，「太陽之子」的MV總製作費逼近台幣1億元！創下MV製作費的最高紀錄！24日下午1:00在台北松仁威秀TITAN廳將舉辦周杰倫「太陽之子」MV全球首映&專輯記者會，屆時周杰倫將親臨現場與媒體、歌迷朋友見面，活動全程也將在「周杰倫官方YouTube」直播，滿足世界各地粉絲的期待！為不錯過精彩直播，歌迷可先至周杰倫官方YouTube頻道預約觀看直播。https://www.youtube.com/live/zu\\_aGUXiqM8. 在專輯正式推出之前，每天都有一支Teaser露出，目前一連四天的驚喜讓粉絲討論度爆表！眼尖的粉絲已解鎖四支Teaser致敬的名畫，第一支Teaser畫面是致敬1908年的「吻Der Kuss」、第二支Teaser畫面致敬1942年的「夜鷹Nighthawks」，MV中周杰倫還和梵谷在酒吧裡對話、第三支Teaser畫面致敬1889年梵谷「吸煙斗與耳朵纏上繃帶的自畫像Self-portrait with bandaged ear and pipe」、第四支Teaser則是致敬了1793年的「馬拉之死Death of Marat」，透過現代影像的技術讓名畫重現生命力！一幅幅名畫都栩栩如生，躍然於MV之中！. 「太陽之子」的MV在巴黎及台北兩地拍攝，從2023年12月的開會，2025年1月巴黎教堂開拍後，隨即進入後製，2025年4月台北搭景拍攝，再繼續後製，2026年3月才完成，歷時2年又3個月的「太陽之子」MV才大功告成。而MV的視覺設計和創意統籌則是來自紐西蘭、享譽全球的創意團隊Weta Workshop公司(維塔工作室)，曾經參與過「阿凡達」、「魔戒」、「猩球崛起」、「沙丘」…等超過180部電影，曾獲得5次奧斯卡金像獎及其他眾多獎項。因為周杰倫希望視效品質做到最棒，並且希望找國際頂尖團隊合作，所以很幸運地找到Weta Workshop 公司(維塔工作室)，讓這支MV媲美電影等級，猶如好萊塢大片！製作過程中不計成本地要把MV畫面做到最完美，使得單支MV的總製作費就高達近一億元台幣！「太陽之子」MV與國際頂尖團隊合作，破天荒的製作費，還有漫長的製作時程，堪稱創下華語樂壇MV的最新天花板！. 周杰倫「太陽之子」專輯，將於3月25日數位全球發行，4月10日實體專輯全面上市，現正預購中，詳洽各大唱片行通路。. 文 : PlayMusic編輯部                     資料/照片  : 杰威爾音樂. * 2012年 全台音樂相關活動行程表(歌手演唱會/簽唱會/記者會). .jpg&w=90&h=90&a=t). | 韓庚×戴佩妮夢幻聯動 綜藝結緣共唱情歌《I'm Sorry》詮釋情感和... ©PlayMusic 音樂社群網站(派音樂) 版權所有 Copyright © 2009-2026 playmusic.tw Social Network All rights reserved. 派聲娛樂科技 Passion Entertainment Technology, Inc.",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽之子》即將發行，其MV耗資近億元台幣，由國際頂尖團隊Weta Workshop打造，媲美好萊塢大片，引發全球粉絲高度期待。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2051,
+      "title": "「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線",
+      "link": "https://crossing.cw.com.tw/article/20658",
+      "source": "Tavily (crossing.cw.com.tw)",
+      "snippet": "# 「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？. 周杰倫新專輯主打歌〈太陽之子〉MV 還原 30 幅經典名作，將美術館搬入吸血鬼獵人的奇幻世界。這場視覺盛宴雖成功引發線上「尋寶熱」，卻也開啟一場關於轉譯的思辨：當原作中的生命掙扎，被簡化為正邪對抗的符號時，流行文化該如何平衡娛樂性與藝術原貌？. Photo Credit：截自　周杰倫 Jay Chou@YouTube. 這陣子華語歌壇最受矚目的消息，莫過於天王周杰倫推出新專輯。首波同名主打歌曲〈太陽之子〉MV 上架後約兩週，便迅速突破 915 萬次點閱，內容以獵魔警探追捕吸血鬼為故事主軸，大膽嵌入 30 幅西洋名作，並透過真人演出細膩地還原了多個經典名畫場景。. 這種跨界翻玩名畫的視覺創意，也隨即在網路上引發一波「名畫考據」的熱潮。從賈克-路易・大衛（Jacques-Louis David）那幅充滿悲劇張力的《馬拉之死》，到愛德華・霍普（Edward Hopper）筆下透著深夜寂寞且靜謐感的《夜遊者》，這些經典畫作在 MV 裡都化身為線索，與奇幻劇情結合在一起。讓原本靜態的畫作不僅「動」了起來，甚至還扮演了關鍵的要角。. 隨著名畫透過流行音樂，以更容易接觸的方式出現在我們的生活中與螢幕上，這場跨界嘗試也引發了另一種面向的討論：當流行文化賦予藝術經典新的故事時，這究竟是認識藝術的起點，還是僅止於畫面符號的挪用？. 雅克-路易・大衛，1793 年，《馬拉之死》。圖／取自　Wikimedia Commons. 愛德華・霍普，1942 年，《夜遊者》。圖／取自　Wikimedia Commons. ## **當經典名畫成為大眾熱門話題**. 隨著各大媒體紛紛整理 MV 中的畫作彩蛋，加上社群平台上的熱烈轉發，也讓這些原本收藏在博物館、美術館裡的藝術作品，躍上了熱門搜尋的焦點。. 這種重新詮釋經典名作，並置入當代影音敘事的手法，如同電影改編一樣，讓現代創作者能從既有的藝術框架中，挖掘出意想不到的新意與創意火花。. 在〈太陽之子〉中，將名畫世界與吸血鬼元素結合，本質上是一種「故事的再想像」。然而，當名畫變成了警探辦案的現場，它們也從原本的生命脈絡與創作背景中被抽離，成為了推動劇情的小工具。雖然讓我們看見了經典作品古今交會的無限可能，但也意味著當名畫被重新編排、服務於特定的人物設定後，它們原本深厚且難以取代的藝術底蘊，在這種轉譯過程中被稀釋與淡化了。. ## **人生悲劇在正邪劇情中的情感真空**. 這次討論中最受熱議的，莫過於 MV 對畫作「悲劇」的重新詮釋。. 以梵谷（Vincent van Gogh）著名的《吸煙斗與耳朵纏上繃帶的自畫像》為例。在 MV 劇情中，梵谷被設定為一名目擊證人，而畫中那道包紮著割耳傷口的繃帶，被借用為警探偵辦案件的關鍵線索**──**被吸血鬼咬下的證據與傷痕。. 梵谷，1889 年，《吸煙斗與耳朵纏上繃帶的自畫像》。圖／取自　Wikimedia Commons. 然而，回歸藝術史，這幅畫作與割耳傷口背後，其實存在著沉重的生命掙扎。**這道傷痕源於 1888 年梵谷在亞爾（Arles）與畫友高更（Paul Gauguin）決裂、理想中的「南方畫室」願景崩解，以及擔憂弟弟西奧婚後將疏離自己等的多重精神壓力，心靈因極度孤立與挫敗而產生的毀滅性崩潰，並將尖銳的利刃指向了自己。這是一場藝術家與自我靈魂的慘烈搏鬥。**. 在割耳風波後，梵谷重新拿起畫筆，畫下這幅《吸煙斗與耳朵纏上繃帶的自畫像》。這幅畫作並非是單純的自我紀錄，而是向醫生與世人證明自己仍保有創作理智的行為；更是在身心創傷的崩潰邊緣，試圖重拾內在秩序、尋求自我重建的視覺宣告。. 不過在 MV 的敘事邏輯裡，「吸血鬼在這地方咬了我的耳朵」**──**無論是畫作形象還是傷痕，都被改寫成了與超自然力量對抗後的印記。這種翻轉雖然讓名畫成功跨入大眾視野，卻也將原本深刻、向內探索的精神拉扯，轉化為了向外的英雄冒險劇情。. 同樣地，藝術家米萊（John Everett Millais）筆下的《奧菲莉亞》，精準還原了莎士比亞劇作中，女主角因父親死於愛人之手、承受精神創傷後，在溪邊編織花環時因樹枝斷裂墜入水中、最終溺斃的瞬間。. **這幅畫之所以經典，在於拉斐爾前派對大自然植物近乎科學般的寫實描繪（強盛的生命力），與奧菲莉亞那份如詩般寧靜、放棄抵抗的絕望身影（緩慢且無力的迎向死亡），形成了強烈對比。**米萊以此凝結了靈魂在死亡邊緣最淒美、失神的一幕；但在〈太陽之子〉MV 的故事宇宙中，奧菲莉亞脖子上的兩點鮮紅齒痕，讓她成了吸血鬼案件的受害者，把原本複雜的人性悲劇與文學層次，簡化成了正邪對抗下的功能性角色。. 約翰・艾佛雷特・米萊，1851-1852 年，《奧菲莉亞》。圖／取自　Wikimedia Commons#/media/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg). ## **華麗特效背後，被淡化的生命掙扎**. 〈太陽之子〉大膽打破了畫作原有的歷史脈絡，這種改編不僅吸睛，更展現了流行文化如何靈活運用經典符號來建構視覺吸引力，讓藝術作品成為當代敘事中不可或缺的一環。. 然而，流行影視為了追求節奏與娛樂感，有時不可避免會將深邃的人性掙扎，轉化為直覺、好懂的影像語言。這固然是視覺化的取捨與敘事上的精簡，卻也將原本畫作中複雜、厚實的精神維度，放入了單一的善惡二元論英雄框架中。. 藝術經典之所以能穿越時空，往往不在於畫面的華美，而是在於記錄了人性中最真實、也最難以言喻的糾結與痛苦。當梵谷與孤寂搏鬥的痕跡，或奧菲莉亞那份靜謐的絕望，被濃縮為一場華麗的打鬥片段時，畫中關於存在意義的深刻探討，確實容易在視覺奇觀中被壓縮與扁平化。. **因此，在驚嘆於創意之餘，我們也許可以試著跨越那層娛樂的包裝，回頭尋找畫布上承載的生命痕跡。讓〈太陽之子〉這部視覺饗宴，並非是認識藝術的終點，而是指引觀者探尋藝術的起點。**. ## **回歸改編面貌下的真實本質**. 在資訊爆炸的時代，要花時間到美術館看名畫並不容易。圖／Creative Family@Shutterstock. 從推廣藝術的角度來看，〈太陽之子〉的 MV 確實發揮了強大的引路作用。在資訊爆炸的現代，要讓大家停下腳步，甚至花時間特地進到一間博物館、美術館中去看一眼名畫並不容易。但這部 MV 卻能在短短幾分鐘內，就把幾十幅名畫推送到數百萬人的螢幕前，讓《蒙娜麗莎》的神祕微笑，或是克林姆（Gustav Klimt）《吻》的華麗感，重新成為大家關注的話題。. 這種跨界對話無疑是認識藝術最平易近人的門檻，不僅為大眾開啟了一扇接觸名作的窗，也讓我們看見藝術經典與現代碰撞後的多重姿態，這正是流行文化在重塑經典時擁有的敘事自由**──**它以當代的語彙，賦予了名畫在全新宇宙觀下的生命力。. 然而，必須承認的是，二創確實難以全然承載藝術原作中那些厚重的生命議題，甚至可能在轉譯過程中產生簡化他人創傷的疑慮，或對類似的心理磨難有所輕忽。**如何在追求娛樂感與視覺效果之餘，仍能對原創者深沉的掙扎留存一份溫厚的敬意，是流行文化在轉譯經典時必須面對的倫理自覺。**. 而這份自覺同樣也存在於觀者的觀看視角之中。雖然流行音樂不需要像教科書一樣嚴謹，也無須背負對藝術原作進行絕對忠實轉述的責任，但對於觀眾來說，最理想的狀態是：**我們可以一邊享受著 MV 帶來的視覺快感，一邊也能在心裡意識到，這其實是藝術的一種改編面貌，而非全貌。**. ## **結語：在流行的光影後，看見藝術的恆星**. **寫這篇文章的初衷，並非要評判流行影視對經典名畫的改編是否精確，而是希望在討論熱潮中，提供另一個觀察的角度：**流行音樂、流行文化可以像是一道光，照亮那些藏在時間裡的畫作；但我們也要記得，藝術本身才是真正發光的恆星。. 〈太陽之子〉無疑是近期最有話題性的流行音樂作品，展現出經典名畫與流行音樂結合的豐富樣貌。或許在這場跨界碰撞中，最棒的結果，莫過於觀者能將這幾分鐘的視覺震撼，轉化為探索原作的動力，進一步看見名畫下扣人心弦的生命軌跡。. 編按：主圖截自 周杰倫 Jay Chou@YouTube. #### 關聯閱讀. * 我在世界的盡頭，遇見蘇格拉底──從英國「周杰倫崖」展開的跨世代對話. #### 作品推薦. * 把研究、出書與育兒，策成一場「人生特展」──一位博物館人的 2025 年度代表字. * 光天化日下的世紀大竊案！頂尖博物館「羅浮宮」的安全防線，因哪 5 大問題而失守？. #### 參考資料. 於台灣文化資產與博物館界工作多年，後來到了英國深造進修，訪踏世界各地。認識到全球脈動的瞬息萬變，以及先進國家掌握趨勢所擁有的知識力量，希望將國外藝文第一手消息帶入台灣，拋磚引玉並帶動更多的想法與漣漪。. 經營「不務正業的博物館吧」臉書專頁，提倡知識共享，隨興分享國外博物館和文化相關新聞、社論與展覽等消息趣事，也探討一些時事的藝文議題，歡迎一同分享和討論交流，來個輕鬆的 Bar 式聊天。. ### 走進柏林歌劇院，我成了資本主義的「共犯」：直擊《馬哈貢尼城興衰史》的沉浸式體驗). ### 當《和平鐘》在台北響起：比任何口號更具國際說服力，從台灣傳向世界的和平祈願). ### 你可能有興趣的文章. 【專訪】離開，是為了看清回家的路：旅荷藝術家陳柏豪，從猶他州到鹿特丹的流浪與重構. #### 專訪. 如何看懂阿莫多瓦《隔壁的房間》？一文拆解片中「暗藏」的所有密語. 當世界逼你加速，她用「侘寂」替生活按下慢速鍵──專訪駐芝加哥動畫導演朱雯文. ### 從幕後躍身幕前 有情門與金馬58共創雙贏. ### #廣編企劃｜新北街舞大賽的魔力，就是能讓所有人都被這股精神感染！. #### 熱門文章. ### 《奧德賽》影評：諾蘭如何改編荷馬史詩？從英譯本到選角爭議一次解析. ### 2026 夏季日劇推薦：從《VIVANT 2》到日韓合製《氣體人第一號》，如何看懂「日劇復興」？. ### 從藍瓶咖啡的創業故事說起：14 年咖啡夢，在地攤車走向國際的榮耀與代價. ### 外派生涯 14 年、常駐印尼逾 3 年的真誠經驗談：不讓「台幹」揹罵名，你應該知道這些事.",
+      "published_at": "Fri, 10 Apr 2026 00:00:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫〈太陽之子〉MV 透過名畫轉譯引發藝術推廣與簡化經典的思辨，鼓勵觀者深入探索藝術原貌。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2052,
+      "title": "12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
+      "link": "https://www.jambase.com/article/12-new-albums-strokes-charli-xcx-revivalists",
+      "source": "Tavily (www.jambase.com)",
+      "snippet": "# 12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More. Punch Brothers, Marco Benevento, Ian Sweet, MTN Lion, Shania Twain, Willow, Tyla, Rico Nasty and Alex Cameron also have new releases out today. This week we highlight new albums from The Strokes, Charli XCX, The Revivalists, Punch Brothers, Marco Benevento, Ian Sweet, MTN Lion, Shania Twain, WILLOW, Tyla, Rico Nasty and Alex Cameron. New York rock band The Strokes released their seventh studio album, *Reality Awaits*, via Cult Records/RCA Records. British singer-songwriter Charli XCX released her seventh studio album, *Music, Fashion, Film*, via Atlantic Records. The follow-up to 2024’s *Brat* was produced and co-written with longtime collaborators A.G. Cook and Finn Keane, with film director David Cronenberg appearing on closing track “No One Lasts Forever.” The album was preceded by singles “Rock Music,” “SS26,” “Wink Wink” and “Camera.”.",
+      "published_at": "Fri, 24 Jul 2026 11:55:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導主要介紹了The Strokes、Charli XCX等多位藝人的新專輯發行，內容中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2053,
+      "title": "Charli XCX drops new album 'Music, Fashion, Film' - Modern Ghana",
+      "link": "https://www.modernghana.com/amp/videonews/688356",
+      "source": "Tavily (www.modernghana.com)",
+      "snippet": "Home  › ABC       25.07.2026. # Charli XCX drops new album 'Music, Fashion, Film'. ABC News' Will Ganss reports on the latest entertainment news in ABCNL \"Pop News.\". Subscribe to ABC News on YouTube: https://abcnews.visitlink.me/59aJ1G. Watch 24/7 coverage of breaking news and live events on ABC News Live: https://www.youtube.com/watch? v=gN0PZCe-kwQ&ab\\_channel=ABCNews. Watch full episodes of World News Tonight with David Muir here: https://youtube.com/playlist? list=PLQOa26lW-uI8ixlVw1NWu\\_l4Eh8iZW\\_qN&feature=shared. Read ABC News reports online: http://abcnews.go.com. ABC News Digital is your daily source of breaking national and world news, exclusive interviews and 24/7 live streaming coverage. ABC News is the home to the #1 evening newscast “World News Tonight” with David Muir, “Good Morning America,” “20/20,” “Nightline,” “This Week” with George Stephanopoulos, “ABC News Live Prime” with Linsey Davis, plus the daily news podcast “Start Here.”. —–– Connect with ABC News on social media:. Facebook: https://www.facebook.com/ABCNews Instagram: https://www.instagram.com/abcnews TikTok: https://www.tiktok.com/@abcnews X: https://twitter.com/ABC Threads: https://www.threads.net/@abcnews WhatsApp: https://whatsapp.com/channel/0029VajTNakKWEKkXoAPIR11 LinkedIn: https://www.linkedin.com/company/abcnews.",
+      "published_at": "Sat, 25 Jul 2026 18:20:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Charli XCX發行新專輯，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2054,
+      "title": "Walt Disco announce self-titled debut album, share new single 'Lies' • News - DIY Magazine",
+      "link": "https://diymag.com/news/walt-disco-announce-self-titled-debut-album-share-new-single-lies",
+      "source": "Tavily (diymag.com)",
+      "snippet": "# **Walt Disco** announce **self-titled** debut album, share new single ‘**Lies**’. ## The Glasgow quintet announce their eagerly awaited third LP, set for release on 2nd October. Following years of graft and determination, Walt Disco announced their self-titled third LP ‘walt disco’ via EMI North this Autumn, alongside today’s soaring new single, ‘Lies’. After two acclaimed albums, 2022’s ‘Unlearning’ and 2024’s ‘The Warping’, the Glasgow quintet have returned with their latest full-length offering, set to drop on 2nd October. Their latest single, ‘Lies’, encapsulates the essence of this upcoming record, with vocalist Jocelyn Si’s struggles with self-worth in music and their identity being a through-line through both the track and the LP. The announcement of ‘walt disco’ follows the band’s recent intimate UK headline tour and ushers in a new epoch for the group who recently signed to Leeds-based label EMI North. ### **Walt Disco** - The Warping.",
+      "published_at": "Tue, 21 Jul 2026 17:17:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於樂團Walt Disco宣布發行新專輯及新單曲，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2055,
+      "title": "Sales of Jay Chou's \"Children of the Sun\" have exceeded 100 million RMB, as Tencent Music Entertainment Group Drives Global Rollout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sales-jay-chous-children-sun-045400252.html",
+      "source": "Tavily (finance.yahoo.com)",
+      "snippet": "2. Best 0% APR cards. 3. Best balance transfer cards. 2. Best high-yield savings accounts. 3. Best money market accounts. # Sales of Jay Chou's \"Children of the Sun\" have exceeded 100 million RMB, as Tencent Music Entertainment Group Drives Global Rollout. SHENZHEN, China, March 28, 2026 /PRNewswire/ -- Mandopop superstar Jay Chou's 16th studio album \"Children of the Sun\" premiered worldwide on March 25, with an exclusive release on Tencent Music Entertainment Group's platforms, including QQ Music, Kugou Music, and Kuwo Music. As long-term strategic partners, Tencent Music and JVR Music released Jay Chou's first digital album \"Aiyo, Not Bad\" in 2014, and \"Greatest Works of Art\" in 2022—a work that set a record as an \"Epic Hall of Fame Album.\" Through the combination of exclusive distribution and coordinated promotional initiatives, Tencent Music Entertainment Group has further accelerated the global rollout of Jay Chou's new album, deepening its connection with fans around the world.",
+      "published_at": "Sat, 28 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽的孩子》銷售額突破人民幣1億元，並由騰訊音樂娛樂集團推動全球發行。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2056,
+      "title": "Bay Area ‘Ed Heads’ compete for tickets to Sheeran show in look-alike contest - San Francisco Chronicle",
+      "link": "https://www.sfchronicle.com/entertainment/music/article/ed-sheeran-lookalike-contest-22359178.php",
+      "source": "Tavily (www.sfchronicle.com)",
+      "snippet": "# Bay Area ‘Ed Heads’ compete for tickets to Sheeran show in look-alike contest. Hours before Ed Sheeran’s sold-out Levi’s Stadium concert Saturday, July 25, fans got one last opportunity to get tickets by mimicking the man himself. More than 100 shoppers gathered to watch an Ed Sheeran look-alike contest at Westfield Valley Fair in Santa Clara, where 10 participants competed for two tickets to the British pop singer’s concert later that night. The four-time Grammy winner, who broke the Levi’s Stadium attendance record by drawing more than 80,000 fans in 2023, brings the Loop Tour to the Bay Area for one night to tour his eighth studio album, “Play.”. Kohl, a 27-year-old professor at the College of Adaptive Arts, wore an “I ♥ Ed” T-shirt, fake tattoo sleeves and a red wig. She plans to attend Sheeran’s concert with a friend. The Bay Area jumped on the craze with a Dev Patel look-alike contest in San Francisco’s Dolores Park later that year.",
+      "published_at": "Sun, 26 Jul 2026 01:22:28 GMT",
+      "collected_at": "2026-07-26 04:08:15",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Bay Area ‘Ed Heads’ compete for tickets to Sheeran show in look-alike contest - San Francisco Chronicle",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2041,
       "title": "太陽之子 / 周杰倫 / Jay Chou",
@@ -456,118 +554,31 @@
       "summary": "Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’ - Variety",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2031,
-      "title": "Charli xcx Directs the Action in ‘Camera’ Music Video Starring Vincent Cassel - Billboard",
-      "link": "https://ca.billboard.com/music/pop/charli-xcx-camera-video-vincent-cassel-1236299868/",
-      "source": "Tavily (ca.billboard.com)",
-      "snippet": "Charli xcx in the \"Camera\" video. After releasing singles dedicated to themes of music and fashion, Charli xcx checks off the final box to complete her *Music, Fashion, Film* rollout with the release of“Camera” on Tuesday (July 21). Charli has teased the anticipated single throughout the album rollout, which included performing “Camera” at her underplay shows in NYC and London earlier in July. In the video, Charli moves around the chaotic set, giving orders to the cast and crew to make sure they get the scene right, while Cassel takes a couple of shots to the chest, fake blood oozing from his mouth. The 33-year-old is riding high, coming off the success of her blockbuster *Brat* in June 2024, which reached No. 3 on the Billboard 200, her highest charting album in the U.S. to date. ## Drake’s ‘Iceman’ Reclaims the No. 1 Spot on the Billboard Canadian Albums Chart. The rapper’s latest release scores the No. 1 spot on this week’s U.S. Billboard 200 albums chart, while Drake’s **Iceman** sits at No. 6.",
-      "published_at": "Tue, 21 Jul 2026 19:04:50 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Charli xcx Directs the Action in ‘Camera’ Music Video Starring Vincent Cassel - Billboard",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2032,
-      "title": "Trump’s intelligence pick pressed on 2020 election, defends handling of New York Times subpoenas - GovExec.com",
-      "link": "https://www.govexec.com/management/2026/07/trumps-intelligence-pick-pressed-2020-election-defends-handling-new-york-times-subpoenas/414801/",
-      "source": "Tavily (www.govexec.com)",
-      "snippet": "United States attorney for the Southern District of New York Jay Clayton, nominee to be Director of National Intelligence, testifies during his confirmation hearing with the Senate Committee on Intelligence on July 15, 2026. # Trump’s intelligence pick pressed on 2020 election, defends handling of New York Times subpoenas. ## Jay Clayton faced Democratic criticism after repeatedly declining to say Joe Biden won in 2020 and standing by subpoenas issued by his Manhattan prosecutor’s office to four New York Times journalists. President Donald Trump’s nominee for director of national intelligence faced pointed pushback from Senate Democrats Wednesday over his answers about the 2020 election results and broader election security concerns ahead of this year’s midterms. Jay Clayton, who currently serves as U.S. attorney for the Southern District of New York, told lawmakers on the Senate Intelligence Committee that former president Joe Biden was “certified” president in 2020 after the election commenced, but would not outright say Biden won when asked multiple times.",
-      "published_at": "Thu, 16 Jul 2026 10:00:00 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Trump’s intelligence pick pressed on 2020 election, defends handling of New York Times subpoenas - GovExec.com",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2033,
-      "title": "Beyonce All Smiles While Leaving MetLife Stadium with Jay-Z After World Cup 2026 - Just Jared",
-      "link": "https://www.justjared.com/2026/07/19/beyonce-all-smiles-while-leaving-metlife-stadium-with-jay-z-after-world-cup-2026/",
-      "source": "Tavily (www.justjared.com)",
-      "snippet": "# Beyonce All Smiles While Leaving MetLife Stadium with Jay-Z After World Cup 2026. **Beyonce** was seen showing off her smile while exiting MetLife Stadium on Sunday afternoon (July 19) in East Rutherford, New Jersey. The 44-year-old entertainer was seen heading out with her husband, **Jay-Z**, after they attended the final match of the *2026 World Cup* between Spain and Argentina. **Jay** dressed more casually in a blue outfit and a New York Yankees ballcap. **Beyonce** and **Jay-Z** were just two of many celebrities attending the soccer match, where Spain defeated Argentina to win their second-ever title in the tournament! The weekend before, **Jay-Z** performed three nights at Yankee Stadium, which saw a host of special guests joining him on stage, including **Rihanna**, **Alicia Keys**, **Nas**, **Usher**, and more. Check out videos of her performance on Sunday (July 13)! ***See more photos of Beyonce and Jay-Z leaving MetLife Stadium below…***. Posted To:2026 World Cup Beyonce Knowles Candid Photos Jay-z.",
-      "published_at": "Mon, 20 Jul 2026 03:41:19 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Beyonce All Smiles While Leaving MetLife Stadium with Jay-Z After World Cup 2026 - Just Jared",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2034,
-      "title": "J. Cole is coming to NY. How much are cheapest tickets for Barclays, MSG, UBS? - New York Post",
-      "link": "https://nypost.com/2026/07/22/ticket-sales/how-much-are-the-cheapest-tickets-to-see-j-cole-in-ny/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "Switch between CA and NY editions here. Cole is coming to NY. J. Cole may be visiting New York for the last time. The two-time Grammy winner has five (!) concerts all over the Empire State on his farewell summer 2026 ‘Fall-Off Tour.’. If you’d like to be there, last-minute tickets are available for the quintet of NY gigs. At the time of publication, the lowest price we could find on tickets for any of these five ‘Fall-Off’ shows was $48 including fees on SeatGeek (that’s for Belmont Park, by the way). Cole’s five ‘Fall-Off Tour’ concerts in New York below. Cole’s five ‘Fall-Off Tour’ New York concerts including dates, show start times and links to the cheapest tickets available are listed here:. | **Madison Square Garden** ***New York, NY*** *Tuesday, Aug. 4 *at 8 p.m.** | $82 (including fees) |. | **UBS Arena** ***Belmont Park, NY*** *Wednesday, Aug. 5 *at 8 p.m.** | $48 (including fees) |.",
-      "published_at": "Wed, 22 Jul 2026 15:40:03 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "J. Cole is coming to NY. How much are cheapest tickets for Barclays, MSG, UBS? - New York Post",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2019,
-      "title": "walt disco Announce New Self-Titled Album - clashmusic.com",
-      "link": "https://www.clashmusic.com/news/walt-disco-announce-new-self-titled-album/",
-      "source": "Tavily (www.clashmusic.com)",
-      "snippet": "# walt disco Announce New Self-Titled Album. New single 'Lies' is out now... Glamorous Glaswegian indie-dance crew **walt disco** will release a self-titled album later this year. The band’s debut album ‘Unlearning’ landed in 2022, scoring rave reviews and scooping a nomination for Best Independent Album at the AIM Awards. New album ‘walt disco’ is a call to arms statement, a record some four years in the making. Out on October 2nd via their new home EMI North, you can catch walt disco at Songs Of Solidarity in Glasgow Art School on September 5th. New single ‘Lies’ is out now – precocious, dynamic, and utterly thrilling, it’s walt disco at their most thrilling, brash, and infectious. Join the Clash mailing list for up to the minute music, fashion and film news. * + News / Robin Murray  / 21 · 07 · 2026. ## Greg Freeman Announces New Album ‘All Set The Bone’. * + News / Shahzaib Hussain  / 21 · 07 · 2026. ## Chelsea Wolfe Announces New Album ‘The Dark’.",
-      "published_at": "Tue, 21 Jul 2026 17:04:06 GMT",
-      "collected_at": "2026-07-22 03:58:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞資訊與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2020,
-      "title": "Rising P-pop group DNA celebrates individuality in self-titled debut album - ABS-CBN Corporate",
-      "link": "https://corporate.abs-cbn.com/newsroom/news-releases/2026/7/20/rising-p-pop-group-dna-celebrates-individuality-in-self-titled-debut-album?lang=en",
-      "source": "Tavily (corporate.abs-cbn.com)",
-      "snippet": "Rising P-pop group DNA celebrates individuality in self-titled debut album. Promising Kapamilya P-pop group DNA puts self-expression and resilience at the forefront in their newly dropped self-titled debut album under ABS-CBN’s StarPop label. The album features eight  tracks, “DNA,” “Don’t Ask Me Why,” “Spider,” “Speeding Ticket,” “Lessons,” “BINGO,” “Glow Up Diary,” and “Gala To The Max” with all of the members contributing to conceptualizing and writing the tracks. The group followed it up with the bright, feel-good single “BINGO” and later lent their voices to the official SM Supermalls’ summer anthem, “Gala To The Max,” further showcasing their versatility and credibility as performers. Listen to DNA’s self-titled debut album available on all digital streaming platforms. Maymay announces new single “What We Love”ABS-CBN MusicStarPop. Baby Dolls’ “Oohh Lala Baby” hits no.1 on YouTube Music chartsABS-CBN MusicStarPop. Jarren explores the ups and downs of modern love in “LUVBOMB” EP, out July 23ABS-CBN Music InternationalStarPop. Maki takes on Indonesian primetime TV with guest appearance on Trans7’s “Lapor Pak!”ABS-CBN Music.",
-      "published_at": "Mon, 20 Jul 2026 02:28:45 GMT",
-      "collected_at": "2026-07-22 03:58:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這篇新聞報導了P-pop團體DNA發行首張專輯，並提及其他藝人的新作品，內容與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2021,
-      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote - The New York Times",
-      "link": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html",
-      "source": "Tavily (www.nytimes.com)",
-      "snippet": "Politics|Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote. # Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote. Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official with little national security experience. The Senate Intelligence Committee on Tuesday approved Jay Clayton as President Trump’s pick to oversee the U.S. intelligence community, clearing a key hurdle that may install Mr. Clayton in the job by the end of the week despite evaporating support from Democrats. Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official who has pursued campaigns of retribution against the president’s perceived enemies.",
-      "published_at": "Tue, 21 Jul 2026 19:15:20 GMT",
-      "collected_at": "2026-07-22 03:58:55",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容與周杰倫無關，而是關於Jay Clayton被提名為美國情報首長。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 124,
-    "report_date": "2026-07-25",
-    "total_articles": 9,
-    "positive_count": 4,
+    "id": 125,
+    "report_date": "2026-07-26",
+    "total_articles": 7,
+    "positive_count": 2,
     "negative_count": 0,
     "neutral_count": 5,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "太陽之子 / 周杰倫 / Jay Chou、周杰倫新專輯狂賣264萬張 攻占紐約時報廣場 | 娛樂即時 | 娛樂 | 世界新聞網、周杰倫新專輯《太陽之子》終於公開喊：爽！ 曝光名稱跟張學友有關",
-    "created_at": "2026-07-25 03:51:27"
+    "key_events": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！、「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線、12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
+    "created_at": "2026-07-26 04:08:33"
   },
   "recentReports": [
+    {
+      "id": 125,
+      "report_date": "2026-07-26",
+      "total_articles": 7,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！、「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線、12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
+      "created_at": "2026-07-26 04:08:33"
+    },
     {
       "id": 124,
       "report_date": "2026-07-25",
@@ -637,21 +648,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Oasis singer Liam Gallagher’s son is bringing his band to San Francisco - San Francisco Chronicle、Jay-Z Proved He Is Still The King Of New York, And The Numbers Back It Up - Forbes、Trump's intelligence nominee refuses to say who won 2020 election - PBS",
       "created_at": "2026-07-20 04:24:19"
-    },
-    {
-      "id": 118,
-      "report_date": "2026-07-19",
-      "total_articles": 2,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "周杰倫新專輯《太陽之子》解析曝光，其實境節目也將於九月登上華航機上影音。他不僅力挺周星馳新片，更在英國與網球傳奇費德勒同框，展現跨界好交情。儘管杭州演唱會被質疑「划水」，但他已抱小女兒抵京準備鳥巢演唱會，林志穎也現身支持。",
-      "key_events": [
-        "新專輯《太陽之子》",
-        "華航實境節目9月上線",
-        "英國合體費德勒"
-      ],
-      "created_at": "2026-07-19 04:04:50"
     }
   ]
 }
