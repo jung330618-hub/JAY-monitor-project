@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
-    "positive": 2,
+    "total": 5,
+    "positive": 0,
     "negative": 0,
     "neutral": 5
   },
   "allTimeStats": {
-    "total": 2056,
+    "total": 2061,
     "positive": 581,
     "negative": 67,
-    "neutral": 1408,
+    "neutral": 1413,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-12",
-      "total": 3,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 3,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-13",
       "total": 7,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.63
+    },
+    {
+      "date": "2026-07-27",
+      "total": 5,
+      "positive": 0,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.5
     }
   ],
   "recentArticles": [
+    {
+      "id": 2057,
+      "title": "72 Hours review: Raunchy Kevin Hart Netflix comedy works on multiple levels - Roger Ebert",
+      "link": "https://www.rogerebert.com/reviews/72-hours-netflix-movie-review-2026",
+      "source": "Tavily (www.rogerebert.com)",
+      "snippet": "Hart stars as Joe Nixon, a career-obsessed 40-year-old marketing executive whose accidental inclusion on a Gen-Z text chat plunges him into gangland perils and generational divides, revealing the cracks in his own romantic life. It’s as though the film itself is a keen commentary on Hart’s own anxieties–in the last decade, he’s transitioned from being a bankable box office star into a personality that now exists solely on streaming platforms, which only ask him to rehash his overused jokes about his height, immaturity, and masculinity. “72 Hours,” in that sense, isn’t merely a race-against-time type of movie mashed with “The Hangover.” It’s a surprisingly existentialist work. His girlfriend Jennifer (a supremely talented Teyana Taylor stuck in a thankless role) wants him to finally settle down and propose to her rather than treating his career as more important than her. All of his jokes and references, which are all of Hart’s own quips and callbacks, land with a thud.",
+      "published_at": "Fri, 24 Jul 2026 13:13:44 GMT",
+      "collected_at": "2026-07-27 04:24:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞資訊與周杰倫無關，主要評論凱文哈特主演的Netflix喜劇《72 Hours》。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2058,
+      "title": "Britney isn’t alone: celebrity sons take on modeling - Ynetnews",
+      "link": "https://www.ynetnews.com/culture/article/sk4xivxrfx",
+      "source": "Tavily (www.ynetnews.com)",
+      "snippet": "## After years in their famous parents’ shadows, the sons of Britney Spears, Pamela Anderson, Gwyneth Paltrow and Heidi Klum are stepping into fashion. Sean, 20, and Jayden, 19, are the sons of Britney Spears and her ex-husband, Kevin Federline, whom she divorced in 2007. In an interview with Vogue, the brothers said walking the runway was only a bonus and that their greater dream was to succeed in music. ### Pamela Anderson’s sons: Brandon Thomas and Dylan Jagger Lee. Brandon, 30, and Dylan, 29, are Pamela Anderson’s sons from her marriage to Mötley Crüe drummer Tommy Lee. The couple divorced in 1998 after a turbulent relationship that included a sex tape, arguments and violence by Lee. In her memoir, Love, Pamela, Anderson wrote that Brandon and Dylan were extraordinary despite their family background, had endured a great deal without being broken by it and had ultimately saved her.",
+      "published_at": "Sun, 26 Jul 2026 09:45:48 GMT",
+      "collected_at": "2026-07-27 04:24:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇新聞報導了布蘭妮、潘蜜拉安德森等名人的兒子們進入模特兒和音樂界，內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2059,
+      "title": "Dillon Brooks Sends Strong Message About Future With Suns - Yahoo Sports",
+      "link": "https://sports.yahoo.com/articles/dillon-brooks-sends-strong-message-200556552.html",
+      "source": "Tavily (sports.yahoo.com)",
+      "snippet": "Brooks enjoying his time as a Sun is a culmination of a partnership that was many years in the making, as the Phoenix Suns were under the impression that the Memphis Grizzlies would ship the wing to them in a trade involving Trevor Ariza in December 2018. Brooks proved to be an ideal cultural fit, as well as an optimal on-court one, as he averaged a career-best 20.2 points per contest under the innovative Jordan Ott. The 6'7\" forward has clearly embraced his role with the Suns and has built up a strong rapport with a diverse coaching staff that excelled in maximizing the personnel that the roster presented a season ago. One thing that is for certain is that the soon-to-be nine-year vet will continue to embrace his role as a \"villain,\" the Phoenix fanbase has grown to love the edge he has provided to the franchise and his role as the de-facto co-star to Booker.",
+      "published_at": "Sat, 25 Jul 2026 20:05:56 GMT",
+      "collected_at": "2026-07-27 04:24:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導關於Dillon Brooks在NBA鳳凰城太陽隊的表現與未來展望，與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2060,
+      "title": "Hollywood Givers: Inside the Green Room at the Social Impact Summit - Inside Philanthropy",
+      "link": "https://www.insidephilanthropy.com/home/hollywood-givers-inside-the-green-room-at-the-social-impact-summit",
+      "source": "Tavily (www.insidephilanthropy.com)",
+      "snippet": "It was a hot summer afternoon on Sunset Boulevard, and by the time I reached the DGA Theater for the third annual Social Impact Summit, the line outside had grown around the block. This year, I worked the green room, watching the honorees and presenters cycle through: Laverne Cox, the trans actress and advocate; retired hoops star Baron Davis; and musician John Mayer, one of the summit’s Philanthropists of the Year. Fox, another awardee, arrived at the theater later, while Steph and Ayesha Curry — alas, bad weather kept them in New York City — were beamed in to accept their own Philanthropist of the Year honors in a conversation with comedian W. The Social Impact Fund, which cohosts the summit with the *Hollywood Reporter*, is a fiscal sponsor that serves as a back office of sorts for celebrity givers who want to stand up a serious philanthropy without going it alone. This year’s Social Impact Summit honorees were John Mayer (Philanthropist of the Year Award); Stephen and Ayesha Curry (Philanthropists of the Year Award); Michael J.",
+      "published_at": "Fri, 24 Jul 2026 18:19:37 GMT",
+      "collected_at": "2026-07-27 04:24:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞內容未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2061,
+      "title": "Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music - Billboard",
+      "link": "https://www.billboard.com/music/music-news/jennie-less-than-a-lover-best-new-music-poll-results-1236303114/",
+      "source": "Tavily (www.billboard.com)",
+      "snippet": "# Fans Choose JENNIE’s ‘Less Than a Lover’ as This Week’s Favorite New Music. The BLACKPINK member's new solo single brought in more than 62% of the vote this week. “Less Than a Lover,” JENNIE‘s wistful summer solo single, tops this week’s new music poll. Listeners voted in a poll published Friday (July 24) on *Billboard*, choosing the BLACKPINK singer’s fresh release as their favorite new music. “Less Than a Lover” — which launched alongside a music video co-written by JENNIE — amassed more votes than any other new music arrival, topping releases from artists including KATSEYE, Macario Martinez, Tyla, Charli xcx, Fridayy, Morgan Wallen and more by the time the poll closed on Sunday. Trailing behind “Less Than a Lover” on the poll is KATSEYE’s new song “Animal,” with 24% of the vote, following by Macario Martinez’s track “Estar Sin Ti,” Tyla’s *A\\*Pop* album and Charli xcx’s *Music, Fashion, Film* collection. To access our site, disable your adblocker.",
+      "published_at": "Mon, 27 Jul 2026 00:50:06 GMT",
+      "collected_at": "2026-07-27 04:24:14",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導BLACKPINK成員JENNIE的新歌在Billboard投票中奪冠，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2050,
       "title": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！",
@@ -484,90 +554,39 @@
       "summary": "周杰倫新專輯《太陽之子》開賣後銷量驚人，數位專輯兩天突破218萬張，其「先拍MV再寫歌」的創作方式也引發熱議。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2026,
-      "title": "周杰倫認了4歲愛女地位最高！新專輯為她寫歌 曝演唱會大改版〈黃金甲〉遭取代",
-      "link": "https://www.mirrordaily.news/story/51495",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "周杰倫認了4歲愛女地位最高！新專輯為她寫歌曝演唱會大改版〈黃金甲〉遭取代 ... 周杰倫新專《太陽之子》即將在3月25日凌晨上線，今（24日）在松仁威秀舉行同名",
-      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫宣布新專輯《太陽之子》將於3月25日發行，其中包含為愛女創作的歌曲，並預告演唱會將進行大改版。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2027,
-      "title": "「C-POP天王」周杰倫最新專輯《太陽之子》日本版公開特典內容！豪華版、普通版雙版本同步推出- ジェイ・チョウ",
-      "link": "https://www.universal-music.co.jp/jay-chou/news/2026-07-02-2",
-      "source": "Tavily (www.universal-music.co.jp)",
-      "snippet": "主打歌曲〈Children of the Sun〉MV耗資約1億新台幣打造，堪稱台灣藝人史上製作成本最高的MV之一。作品集結曾參與《阿凡達》、《魔戒》、《猩球崛起》、《",
-      "published_at": "Thu, 02 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫最新專輯《太陽之子》日本版公開，其主打歌MV耗資上億新台幣，並集結曾參與好萊塢大片的頂尖團隊打造。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2028,
-      "title": "周杰倫新專輯上線3天吸金4.6億 暗示下一支MV「滿多人喜歡這首」",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E5%B0%88%E8%BC%AF%E4%B8%8A%E7%B7%9A3%E5%A4%A9%E5%90%B8%E9%87%9146%E5%84%84-%E6%9A%97%E7%A4%BA%E4%B8%8B%E4%B8%80%E6%94%AFmv%E3%80%8C%E6%BB%BF%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AD%A1%E9%80%99%E9%A6%96%E3%80%8D-035127128.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "周杰倫新專輯上線3天吸金4.6億暗示下一支MV「滿多人喜歡這首」 ... 華語樂壇天王周杰倫（周董）魅力依舊！睽違多年的新專輯《太陽之子》自發布以來，以橫掃千軍",
-      "published_at": "Fri, 27 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新專輯《太陽之子》上線三天吸金4.6億，展現其不減天王魅力，並預告下一支MV將是受歡迎的歌曲。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2029,
-      "title": "Madden Metcalf performs 'Sound of the Summer' | USA TODAY Acoustic - USA Today",
-      "link": "https://www.usatoday.com/videos/entertainment/music/2026/07/22/madden-metcalf-performs-sound-of-the-summer-usa-today-acoustic/91004917007/",
-      "source": "Tavily (www.usatoday.com)",
-      "snippet": "What to watch ☀️ Win $100 💵 See the stage 🎭 Watch Party Newsletter. See Teyana Taylor's response to criticism of her Jay-Z performanceOlivia Wilde and Edward Norton on 'The Invite' conversationsJay-Z performs in hometown of New York to celebrate 30 years in music. Madden Metcalf shares advice from his dad that changed everythingNoah Kahan gets surprise call from Elmo and Cookie Monster during tourAC/DC's Brian Johnson, Angus Young on their stage evolution.",
-      "published_at": "Wed, 22 Jul 2026 04:46:10 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Madden Metcalf performs 'Sound of the Summer' | USA TODAY Acoustic - USA Today",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2030,
-      "title": "Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’ - Variety",
-      "link": "https://variety.com/2026/tv/news/han-chae-young-raising-his-mistresss-child-korean-remake-flareflow-1236817114/",
-      "source": "Tavily (variety.com)",
-      "snippet": "# Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’. Han Chae Young, the actor behind some of K-drama’s most recognized titles, has scored a hit with “Raising His Mistress’s Child,” a Korean-language remake of a global microdrama that generated more than $15 million in revenue. The original production of “Raising His Mistress’s Child” drew some 4.8 million viewers and logged more than 513,700 completed viewers – figures that prompted COL Group’s international platform to commission a localized version aimed at Korean audiences. ### 'La La Land' Poster Fixes Ryan Gosling's Flat Hand After 10 Years of the Actor Being Haunted by It. The remake follows a woman whose survival of a difficult childbirth is compounded by the discovery that the baby placed in her arms belongs to her husband’s mistress, while her own newborn has been taken away. Han Chae Young’s decision to headline the Korean version of ‘Raising His Mistress’s Child’ reflects how far the industry has come.",
-      "published_at": "Wed, 22 Jul 2026 08:15:00 GMT",
-      "collected_at": "2026-07-23 03:56:49",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’ - Variety",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 125,
-    "report_date": "2026-07-26",
-    "total_articles": 7,
-    "positive_count": 2,
+    "id": 126,
+    "report_date": "2026-07-27",
+    "total_articles": 5,
+    "positive_count": 0,
     "negative_count": 0,
     "neutral_count": 5,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！、「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線、12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
-    "created_at": "2026-07-26 04:08:33"
+    "daily_summary": "周杰倫最新專輯《太陽之子》重磅登場，在全球掀起熱潮，以驚人銷量稱霸市場。專輯發行36小時內即創下破億人民幣佳績，並在短短三天內累積吸金4.6億，狂賣264萬張，甚至登上紐約時報廣場。主打歌MV斥資280萬美元打造，媲美好萊塢電影大片水準，引發熱烈討論。專輯內容豐富，包含為愛女創作的歌曲，以及隱藏的求婚驚喜，展現周杰倫的鐵漢柔情。此外，專輯名稱與張學友的淵源也成為話題。此次發行不僅有豪華的日本版特典，更由騰訊音樂娛樂集團推動全球發行，確立其C-POP天王地位。",
+    "key_events": [
+      "新專輯《太陽之子》發行",
+      "銷量破億登時報廣場",
+      "MV媲美好萊塢大片"
+    ],
+    "created_at": "2026-07-27 04:24:38"
   },
   "recentReports": [
+    {
+      "id": 126,
+      "report_date": "2026-07-27",
+      "total_articles": 5,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "周杰倫最新專輯《太陽之子》重磅登場，在全球掀起熱潮，以驚人銷量稱霸市場。專輯發行36小時內即創下破億人民幣佳績，並在短短三天內累積吸金4.6億，狂賣264萬張，甚至登上紐約時報廣場。主打歌MV斥資280萬美元打造，媲美好萊塢電影大片水準，引發熱烈討論。專輯內容豐富，包含為愛女創作的歌曲，以及隱藏的求婚驚喜，展現周杰倫的鐵漢柔情。此外，專輯名稱與張學友的淵源也成為話題。此次發行不僅有豪華的日本版特典，更由騰訊音樂娛樂集團推動全球發行，確立其C-POP天王地位。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "銷量破億登時報廣場",
+        "MV媲美好萊塢大片"
+      ],
+      "created_at": "2026-07-27 04:24:38"
+    },
     {
       "id": 125,
       "report_date": "2026-07-26",
@@ -637,17 +656,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Gisele Bündchen Shares Rare Photos of Her, Joaquim Valente’s Son on Lavish Family Vacation - E! News、Japanese R&B Artist Nao Yoshioka Embraces Vulnerability On New Album self - Respect My Region、Jennifer Lopez reveals what makes a man 'sexy' to her - Fox News",
       "created_at": "2026-07-21 03:57:59"
-    },
-    {
-      "id": 119,
-      "report_date": "2026-07-20",
-      "total_articles": 6,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 6,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Oasis singer Liam Gallagher’s son is bringing his band to San Francisco - San Francisco Chronicle、Jay-Z Proved He Is Still The King Of New York, And The Numbers Back It Up - Forbes、Trump's intelligence nominee refuses to say who won 2020 election - PBS",
-      "created_at": "2026-07-20 04:24:19"
     }
   ]
 }
