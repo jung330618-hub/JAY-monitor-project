@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 16,
-    "positive": 11,
-    "negative": 0,
-    "neutral": 5
+    "total": 5,
+    "positive": 3,
+    "negative": 1,
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2097,
-    "positive": 605,
-    "negative": 67,
-    "neutral": 1425,
+    "total": 2102,
+    "positive": 608,
+    "negative": 68,
+    "neutral": 1426,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-16",
-      "total": 5,
-      "positive": 3,
-      "negative": 2,
-      "neutral": 0,
-      "avg_score": 0.61
-    },
     {
       "date": "2026-07-17",
       "total": 7,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.72
+    },
+    {
+      "date": "2026-07-31",
+      "total": 5,
+      "positive": 3,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": 0.7
     }
   ],
   "recentArticles": [
+    {
+      "id": 2098,
+      "title": "星巴克「周杰倫聯名杯」7/27開賣，5款新品、2款周杰倫聯名飲品一次看！",
+      "link": "https://www.cosmopolitan.com/tw/lifestyle/hot-topics/g73265020/starbucks-jaychou-0729",
+      "source": "Tavily (www.cosmopolitan.com)",
+      "snippet": "Image 27: frustrated user with laptop facing wifi disconnection, red warning icons and no internet signal error symbol. concept of network outage, connectivity problem, unstable internet and online frustration. 2026城鎮韌性防空演習「斷網演練」懶人包，全台14縣市斷網時間、注意事項一次看！Image 28: ikea皮克敏全台8家店期間限定登場 IKEA「皮克敏期間限定店」8/1登場，工具皮克敏、皮克敏金色花苗，還能試玩《皮克敏4》！Image 29: 萬波攜手日本可愛始祖 osamu goods® 再掀夏日收藏熱潮！ 萬波「OSAMU GOODS」5款聯名周邊7/30開賣，6款限定紙杯、3款夏季飲品一次看！Image 30: 7eleven x《rilakkuma 拉拉熊》推出全新精品集點活動 [...] 廣告 - 內文未完請往下捲動\n\nImage 31: Logo\n\nImage 32: youtube\n\nImage 33: facebook\n\nImage 34: instagram\n\n星聞直擊 Entertainment美容保養 Beauty兩性愛情 Love時尚風潮 Fashion渴夢生活 LifestyleSitemapAbout us隱私權條款廣告合作活動得獎公告活動注意事項Image 35: Hearst Magazines TW - A Part of Hearst Digital Media\nA Part of Hearst Digital Media\n\nCosmopolitan participates in various affiliate marketing programs, which means Cosmopolitan gets paid commissions on purchases made through our links to retailer sites. [...] 拉拉熊》推出全新精品集點活動 7-ELEVEN「拉拉熊集點活動」8/5開跑，16款拉拉熊周邊商品搶先看，扭蛋機必收！",
+      "published_at": "Sun, 26 Jul 2026 11:47:19 GMT",
+      "collected_at": "2026-07-31 04:03:23",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "星巴克將於7月27日推出周杰倫聯名杯及兩款聯名飲品。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2099,
+      "title": "周杰倫愛徒趁大跌狂買台積電！派偉俊理財績效曝光 氣到馬上刪除股市APP",
+      "link": "https://www.mirrordaily.news/story/76514",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "「周董」周杰倫愛徒、創作歌手派偉俊推出全新專輯《BAD IDEA》，收錄多達15首歌曲，今（30日）舉辦聽歌會。談到近期台股震盪，派偉俊透露自己之前趁",
+      "published_at": "Thu, 30 Jul 2026 12:00:00 GMT",
+      "collected_at": "2026-07-31 04:03:23",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫愛徒派偉俊因投資台積電失利而刪除股市APP，同時宣傳新專輯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2100,
+      "title": "PHANTACI Jordan Brand Jay Chou “Carnival II” World Tour Merch | Hypebeast",
+      "link": "https://hypebeast.com/2026/6/phantaci-jordan-brand-jay-chou-carnival-ii-world-tour-merch-collaboration-release-info",
+      "source": "Tavily (hypebeast.com)",
+      "snippet": "PHANTACI and Jordan Brand have officially teamed up for the first time to launch their collaborative merchandise collection, headlined by the PHANTACI × Jordan CAL Edition TEE, for Jay Chou‘s “Carnival II” World Tour. Serving as the official gear for the Beijing leg of the tour, the capsule celebrates the intersection of music, basketball, and street culture. The collaboration marks a natural milestone for Jay Chou, the founder and Creative Director of PHANTACI, who has prominently highlighted [...] highlighted Air Jordan footwear in his music videos and daily style throughout his career. [...] The design of the collection centers heavily around a custom “CAL” and “2” monogram, which represents the “Carnival II” World Tour. The graphics seamlessly blend classic lettering with modern streetwear styling inspired by both athletic and musical subcultures. Each T-shirt features co-branded PHANTACI and Jumpman logos cleanly displayed on the front chest, while the back is emblazoned with “JAY CHOU CARNIVAL II WORLD TOUR” text to solidify its status as official tour memorabilia. The",
+      "published_at": "Fri, 12 Jun 2026 01:24:27 GMT",
+      "collected_at": "2026-07-31 04:03:23",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫的品牌PHANTACI首次與Jordan Brand合作，為其「嘉年華II」世界巡演推出官方聯名周邊商品，結合音樂、籃球與街頭文化。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2101,
+      "title": "Jay Chou's 'Children of the Sun' Surpasses 100 Million RMB in Sales - That Eric Alper",
+      "link": "https://www.thatericalper.com/2026/07/26/jay-chous-children-of-the-sun-surpasses-100-million-rmb-in-sales",
+      "source": "Tavily (www.thatericalper.com)",
+      "snippet": "FacebookTwitterPinterestWhatsAppLinkedinReddItEmailPrint\n\n\")\n\nJay Chou continues to prove his global star power. Just days after its release, the Mandopop icon’s 16th studio album, ‘Children of the Sun,’ has generated more than 100 million RMB in sales across Tencent Music Entertainment Group’s platforms.",
+      "published_at": "Sun, 26 Jul 2026 22:14:23 GMT",
+      "collected_at": "2026-07-31 04:03:23",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫的第16張專輯《太陽的孩子》在發行數天內，於騰訊音樂娛樂集團平台上的銷售額已突破1億人民幣。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2102,
+      "title": "周杰倫演唱會散場遇暴雨 觀眾哄搶毛毯玩偶警介入調查︱有片",
+      "link": "https://www.stheadline.com/realtime-china/3588072/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%BC%94%E5%94%B1%E6%9C%83%E6%95%A3%E5%A0%B4%E9%81%87%E6%9A%B4%E9%9B%A8-%E8%A7%80%E7%9C%BE%E5%93%84%E6%90%B6%E6%AF%9B%E6%AF%AF%E7%8E%A9%E5%81%B6%E8%AD%A6%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5%E6%9C%89%E7%89%87",
+      "source": "Tavily (www.stheadline.com)",
+      "snippet": "大灣區\n 灣區時事\n 跨境理財\n 置業灣區\n 灣區教育\n 吃喝玩樂\n\n 專欄\n 專欄\n\n 馬經\n 馬圈快訊\n 名家專欄\n 晨操動態\n\n TV\n 時事台\n 娛樂台\n 產經台\n 生活台\n 直播Live\n\n 港聞\n\n 娛樂\n\n 最Hit\n\n 即時\n\n 中國\n\n 國際\n\n 星島申訴王\n\n 財經\n\n 地產\n\n 生活\n\n 健康\n\n 教育\n\n 體育\n\n 大灣區\n\n 專欄\n\n 馬經\n\n TV\n\nThe Standard The Standard\n\n東周刊 東周刊\n\n親子王 親子王\n\ncaz buyer caz buyer\n\n東Touch 東Touch\n\nPCM 電腦廣場 PCM 電腦廣場\n\nOh!爸媽 Oh!爸媽\n\nJobMarket JobMarket\n\n頭條揾工 頭條揾工\n\nEDUPLUS EDUPLUS\n\n星島環球 星島環球\n\n頭條金融報 頭條金融報\n\n贏跑網 贏跑網\n\n星島頭條 資訊生活服務平台  \n一APP生活「Sync」到\n\n《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。了解更多\n\nIOS [...] logo   logo\n\n 港聞\n 娛樂\n 最Hit\n 即時\n 中國\n 國際\n 星島申訴王\n 財經\n 地產\n 生活\n 健康\n 教育\n 體育\n 大灣區\n 專欄\n 馬經\n TV\n\n 繁\n 简\n\n 港聞\n 社會\n 政情\n 突發\n 社論\n 時事熱話\n\n 娛樂\n 即時娛樂\n 影視圈\n 星級大搜查\n 星級品味\n\n 中國\n 即時中國\n 大國外交\n 兩岸熱話\n 奇聞趣事\n\n 國際\n 即時國際\n 環球拆局\n 趣聞熱話\n\n 星島申訴王\n 放蛇直擊\n 區區申訴\n 提防騙子\n 申訴熱話\n 人人申訴\n\n 財經\n 投資理財\n 宏觀經濟\n 商業創科\n 股市\n ESG\n 區塊鏈\n\n 地產\n 樓市動向\n 新盤速遞\n 筍盤推介\n 海外置業\n 家居裝修\n\n 生活\n 飲食\n 好去處\n 旅遊\n 時尚購物\n 生活百科\n Art Can\n 汽車\n Luxe Style\n\n 健康\n 食用安全\n 保健養生\n 減肥運動\n 醫生教室\n 健康PRO\n\n 教育\n 教育新聞\n 教育熱話\n 升學攻略\n 高等教育\n 知識轉移\n 親子\n\n 體育\n 即時體育\n 足球世界\n 籃球天地\n 波盤王\n 專家點睇 [...] IOS \n\n六合彩︱頭獎一注獨中得1800萬 攪珠結果出爐即刻入嚟對冧巴！\n\n社會\n\n14小時前\n\n何伯離世｜未辦妥離婚手續？  網民熱議何太必爭450萬遺產或成最終贏家：希望唔好益佢\n\n何伯離世｜未辦妥離婚手續？  網民熱議何太必爭450萬遺產或成最終贏家：希望唔好益佢\n\n影視圈\n\n18小時前\n\n16歲少年網上轉售洗衣液致富 不足一年創逾百萬銷售 靠AI篩選入貨 感悟「機會處處皆在」\n\n16歲少年網上轉售洗衣液致富 不足一年創逾百萬銷售 靠AI篩選入貨 感悟「機會處處皆在」\n\n商業創科\n\n2026-07-28 06:00 HKT\n\n全港10大西餅店長者優惠！樂悠咭/長者咭買麵包高達9折 東海堂/聖安娜/A-1 Bakery\n\n全港10大西餅店長者優惠！樂悠咭/長者咭買麵包高達9折 東海堂/聖安娜/A-1 Bakery\n\n飲食\n\n18小時前\n\n94年亞姐曹央雲昔日山頂獨立屋愛巢以6億易手 成今年二手市場最大額成交   保養得宜與女兒似姊妹\n\n94年亞姐曹央雲昔日山頂獨立屋愛巢以6億易手 成今年二手市場最大額成交 保養得宜與女兒似姊妹\n\n影視圈\n\n14小時前\n\nApp Logo",
+      "published_at": "Mon, 29 Jun 2026 01:45:12 GMT",
+      "collected_at": "2026-07-31 04:03:23",
+      "sentiment": "負面",
+      "sentiment_score": 0.3,
+      "summary": "周杰倫演唱會散場時遭遇暴雨，導致現場觀眾哄搶毛毯和玩偶，甚至驚動警方介入調查。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 2082,
       "title": "周杰倫《太陽之子》才上線3天！賣破250萬張　狂吸4.6億元",
@@ -484,90 +554,39 @@
       "summary": "周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友",
       "category": "演唱會",
       "analyzed": 1
-    },
-    {
-      "id": 2078,
-      "title": "周杰倫新歌神呼應23年前〈晴天〉！鐵粉感動「青春回憶串起來」 李現準時上線追星",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E6%AD%8C%E7%A5%9E%E5%91%BC%E6%87%8923%E5%B9%B4%E5%89%8D%E3%80%88%E6%99%B4%E5%A4%A9%E3%80%89%EF%BC%81%E9%90%B5%E7%B2%89%E6%84%9F%E5%8B%95%E3%80%8C%E9%9D%92%E6%98%A5%E5%9B%9E%E6%86%B6%E4%B8%B2%E8%B5%B7%E4%BE%86%E3%80%8D-%E6%9D%8E%E7%8F%BE%E6%BA%96%E6%99%82%E4%B8%8A%E7%B7%9A%E8%BF%BD%E6%98%9F-050534102.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "〈晴天〉裡有段歌詞寫著「為妳翹課的那一天，花落的那一天，教室的那一間，我怎麼看不見，消失的下雨天，我好想再淋一遍」；而新歌〈那天下雨了〉則唱著：「翹課",
-      "published_at": "Fri, 27 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫新歌神呼應23年前〈晴天〉！鐵粉感動「青春回憶串起來」 李現準時上線追星",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2079,
-      "title": "周杰倫新歌「女兒殿下」收錄小女兒童語 MV大跳扭扭舞",
-      "link": "https://www.worldjournal.com/wj/story/121234/9572025",
-      "source": "Tavily (www.worldjournal.com)",
-      "snippet": "周杰倫新歌「女兒殿下」收錄小女兒童語MV大跳扭扭舞 ... 周杰倫、昆凌夫婦育有2女1子，新歌「女兒殿下」主角正是小女兒Jacinda，MV造景夢幻可愛，可惜他未親自",
-      "published_at": "Mon, 29 Jun 2026 03:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫新歌「女兒殿下」收錄小女兒童語 MV大跳扭扭舞",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2080,
-      "title": "520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾 大方放閃昆凌：最好的願望留給妳",
-      "link": "https://www.mirrordaily.news/story/62086",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾大方放閃昆凌：最好的願望留給妳 ... 在充滿愛意的5月20日（520）這天，樂壇天王周杰倫放閃規格直升全球，推出全新主打",
-      "published_at": "Wed, 20 May 2026 00:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "520無預警拋震撼禮物！周杰倫新歌藏浪漫承諾 大方放閃昆凌：最好的願望留給妳",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2081,
-      "title": "周杰倫新歌〈太陽之子〉最貴的不是製作費！從《蒙娜麗莎》到《向日葵》，MV其實是在看周杰倫的「藝術收藏慾」？",
-      "link": "https://www.harpersbazaar.com/tw/culture/filmandmusic/a70831328/jay-chou-children-of-the-sun",
-      "source": "Tavily (www.harpersbazaar.com)",
-      "snippet": "周杰倫〈太陽之子〉畫作：《苦艾酒與水瓶》，1887 ... MV 畫面中雖未直接呈現畫作的構圖，但依照劇情來看，周杰倫喝下了一杯綠色液體開始進入梵谷的世界。由此",
-      "published_at": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫新歌〈太陽之子〉最貴的不是製作費！從《蒙娜麗莎》到《向日葵》，MV其實是在看周杰倫的「藝術收藏慾」？",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2062,
-      "title": "「C-POP天王」周杰倫最新專輯日本版確定於8月5日（三）發行！豪華版、普通版雙版本同步推出 - ジェイ・チョウ",
-      "link": "https://www.universal-music.co.jp/jay-chou/news/2026-06-17-2",
-      "source": "Tavily (www.universal-music.co.jp)",
-      "snippet": "2026.06.17 TOPICS\n\n累積全球銷量突破3,000萬張、前作更榮登全球專輯銷售冠軍的「C-POP天王」周杰倫（Jay Chou）。  \n距離創下全球專輯銷售第一佳績的前作後，這位華語樂壇最具代表性的超級巨星，時隔約4年推出第16張錄音室專輯《Children of the Sun（太陽之子）》。專輯名稱源自傳奇歌手張學友為讚賞周杰倫「晴天男」體質所取的暱稱，象徵著正向能量與源源不絕的創造力。  \n主打歌〈Children of the Sun〉MV斥資約1億新台幣（約5億日圓）打造，堪稱台灣藝人史上製作費最高等級的音樂錄影帶作品。此次與曾參與《阿凡達》、《魔戒》、《猩球崛起》、《沙丘》等作品的奧斯卡得獎創意團隊合作，歷時2年3個月製作完成。  \n除了主打歌之外，專輯收錄的12首歌曲皆預計推出音樂錄影帶（除加收曲外）。目前已有包含人氣歌曲〈愛琴海〉在內的8支MV於周杰倫官方YouTube頻道公開。\n\nJay Chou 周杰倫【Children of the Sun 太陽之子】Official Music Video [...] 而這張周杰倫最新專輯《太陽之子》的日本版，也正式確定將於8月5日（三）發行。  \n日本版將推出附豪華特典的豪華版（Deluxe Edition）與普通版兩種版本。  \n豪華版採用日本限定7吋紙套封面（7-inch Paper Sleeve）規格，隨附雙面海報2張組及周杰倫未公開照片卡，作為珍藏品之外，更能加深體驗作品世界觀。  \n普通版則採用日本限定 Jewel Case 規格發行。  \n此外，兩種版本皆採用高音質CD規格「SHM-CD」。透過使用比一般CD透明度更高的材質，能夠呈現更細膩的聲音層次與音色細節，完整展現專輯魅力。\n\n另外，本作為日本獨家企劃版本。首批訂購限定隨附專輯封面卡（U-Connect Card）作為封入特典，絕對是歌迷必收藏的一張作品。\n\n【商品資訊】 [...] 【商品資訊】  \n\n＜豪華版【日本獨家企劃規格】＞建議售價：6,820日圓（含稅）  \n產品編號：UICO-9081  \n■ 規格  \n・7吋紙套封面  \n・SHM-CD  \n■ 封入特典  \n・雙面海報2張組  \n・未公開照片卡  \n・Booklet（作品解說、日文翻譯歌詞及附中文歌詞注音）  \n■ 首批生產封入特典  \n・專輯封面卡（U-Connect Card）\n\n＜普通版【日本獨家企劃規格】＞建議售價：3,300日圓（含稅）  \n產品編號：UICO-1338  \n■ 規格  \n・Jewel Case  \n・SHM-CD  \n■ 封入內容  \n・Booklet（作品解說、日文翻譯歌詞及附中文歌詞注音）  \n■ 首批生產封入特典  \n・專輯封面卡（U-Connect Card）\n\n日本已於今年3月25日將原創專輯第1張至第6張以高音質 SHM-CD 形式重新發行。其餘9張作品（第7張至第15張）也預計將於今後陸續以 SHM-CD 規格推出。\n\n【發行資訊】周杰倫《太陽之子》日本版（豪華版／普通版）  \n發行日期：2026年8月5日（三）  \n日本版特設網站：\n\n## 関連ページ",
-      "published_at": "Wed, 17 Jun 2026 02:00:20 GMT",
-      "collected_at": "2026-07-28 03:47:57",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫最新專輯《太陽之子》確定於8月5日在日本發行豪華與普通雙版本，並採用高音質SHM-CD及日本限定特典。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 129,
-    "report_date": "2026-07-30",
-    "total_articles": 16,
-    "positive_count": 11,
-    "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "周杰倫《太陽之子》才上線3天！賣破250萬張　狂吸4.6億元、周杰倫新專輯即將問世！首波主打〈太陽之子〉砸重金打造，MV藏30幅世界名畫 - TNL The News Lens 關鍵評論網、周杰倫深夜曬「超狂收藏」 自豪笑問：眼光是不是不錯？",
-    "created_at": "2026-07-30 03:43:29"
+    "id": 130,
+    "report_date": "2026-07-31",
+    "total_articles": 5,
+    "positive_count": 3,
+    "negative_count": 1,
+    "neutral_count": 1,
+    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》發行後銷售告捷，MV融入世界名畫並藏有向昆凌求婚畫面，展現個人風格與浪漫。演唱會斥資五億打造巨型機甲，雖有北京周邊遭洗劫及散場觀眾哄搶周邊商品等狀況，但整體仍創下紀錄。此外，星巴克也推出周杰倫聯名商品，可謂事業愛情兩得意。",
+    "key_events": [
+      "新專輯《太陽之子》熱銷",
+      "演唱會斥資5億創新高",
+      "星巴克聯名商品上市"
+    ],
+    "created_at": "2026-07-31 04:03:50"
   },
   "recentReports": [
+    {
+      "id": 130,
+      "report_date": "2026-07-31",
+      "total_articles": 5,
+      "positive_count": 3,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》發行後銷售告捷，MV融入世界名畫並藏有向昆凌求婚畫面，展現個人風格與浪漫。演唱會斥資五億打造巨型機甲，雖有北京周邊遭洗劫及散場觀眾哄搶周邊商品等狀況，但整體仍創下紀錄。此外，星巴克也推出周杰倫聯名商品，可謂事業愛情兩得意。",
+      "key_events": [
+        "新專輯《太陽之子》熱銷",
+        "演唱會斥資5億創新高",
+        "星巴克聯名商品上市"
+      ],
+      "created_at": "2026-07-31 04:03:50"
+    },
     {
       "id": 129,
       "report_date": "2026-07-30",
@@ -637,17 +656,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "太陽之子 / 周杰倫 / Jay Chou、周杰倫新專輯狂賣264萬張 攻占紐約時報廣場 | 娛樂即時 | 娛樂 | 世界新聞網、周杰倫新專輯《太陽之子》終於公開喊：爽！ 曝光名稱跟張學友有關",
       "created_at": "2026-07-25 03:51:27"
-    },
-    {
-      "id": 123,
-      "report_date": "2026-07-24",
-      "total_articles": 6,
-      "positive_count": 3,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "Travis Scott Teases ‘Amazing’ New Album: ‘Pushing Myself … to Make Something I Haven’t Made Before’ - Billboard、Mandopop superstar Jay Chou is about to release his new album ‘Children of the Sun’ via UMG, led by a $2.8M music video. The timing couldn’t be more significant. - Music Business Worldwide、Taiwan Mandopop star Jay Chou returns with ambitious new album",
-      "created_at": "2026-07-24 03:55:59"
     }
   ]
 }
