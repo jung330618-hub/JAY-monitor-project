@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
+    "total": 6,
     "positive": 3,
-    "negative": 1,
-    "neutral": 1
+    "negative": 0,
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 2102,
-    "positive": 608,
+    "total": 2108,
+    "positive": 611,
     "negative": 68,
-    "neutral": 1426,
+    "neutral": 1429,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-17",
-      "total": 7,
-      "positive": 5,
-      "negative": 0,
-      "neutral": 2,
-      "avg_score": 0.79
-    },
     {
       "date": "2026-07-18",
       "total": 7,
@@ -132,9 +124,101 @@
       "negative": 1,
       "neutral": 1,
       "avg_score": 0.7
+    },
+    {
+      "date": "2026-08-01",
+      "total": 6,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.68
     }
   ],
   "recentArticles": [
+    {
+      "id": 2103,
+      "title": "金正恩看猛男秀刀槍不入！　網改編周杰倫《太陽之子》意外被讚爆 - 鏡報",
+      "link": "https://www.mirrordaily.news/story/52657",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "北韓特種部隊展演各種特技。圖／翻自《朝中社》\n\n除此之外，金正恩還去視察一款可達美國本土、號稱是「升級版」固體燃料火箭發動機的測試，強調這項發展將大幅提升北韓的戰略軍火庫，該發動機可能被搭載於平壤正在研發的火星-20型（Hwasong-20）洲際彈道飛彈。\n\n另一方面，日前藝人周杰倫釋出最新歌曲《太陽之子》，隨後就有其他網友改編這首歌，更出現「朝鮮版太陽之子」，但這首改編歌曲卻意外引發網友好評。不少網友就直呼：「比原版還讚！」、「具有核彈級的震撼威力。」、「北韓應該跟周杰倫買版權，成為國歌！」、「金正恩果然是太陽之子，太搭了！」\n\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\n### 延伸閱讀\n\n41J肉聲／北京驚爆無差別輾人！男開鏟車衝撞市集傳13死　驚悚影片曝光時事 [...] mirror-daily-logo\n\n2026/03/30 16:01:00最後更新 2026/03/30 16:01:58\n\n編輯：\n\n施旖婕\n\n周杰倫金正恩北韓太陽之子\n\n北韓中央電視台在本月29日傍晚，釋出最高領導人金正恩視察特戰部隊，並在現場觀看「猛男秀」刀槍不入的表演，引發外媒關注。此外，還有網友改編藝人周杰倫新歌《太陽之子》給金正恩，意外被網友讚爆「毫無違和」。\n\n北韓釋出的影片可見，金正恩視察特種部隊，而隊員們展示各種戰備能力和軍事技術，甚至展演「刀槍不入猛男秀」，包括鐵頭功、用利器重擊腹肌、用鐵鎚砸碎背上的石板、徒手接刀刃等。另外還有戴著夜視鏡的射擊演示，以及一支由女子部隊進行的匕首武術表演。\n\n對於士兵們的展演，金正恩不斷拍手或露出燦爛的笑容，表示滿意，他更稱：「在和平時期刻苦訓練，是為了在戰場上少流血。」除了金正恩，北韓國防部長盧光哲、朝鮮人民軍總參謀長李永吉等人，也一同視察訓練。此外據《朝鮮日報》報導，從畫面也可見，金正恩妹妹、北韓勞動黨總務部部長金與正，也出席這場視察，但北韓官媒並沒有特別提及。\n\n20260330金正恩。翻自《朝中社》",
+      "published_at": "Mon, 30 Mar 2026 08:01:00 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫新歌《太陽之子》被網友改編為「朝鮮版太陽之子」並意外爆紅，引發廣大網友好評與討論。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2104,
+      "title": "「C-POP天王」周杰倫日本版《太陽之子》發售紀念！Tower Records 全日本6間店鋪將舉辦照片展，並有機會抽中展示照片！",
+      "link": "https://www.universal-music.co.jp/jay-chou/news/2026-07-31-3",
+      "source": "Tavily (www.universal-music.co.jp)",
+      "snippet": "全球累積專輯銷量突破3,000萬張、上一張專輯更榮登全球專輯銷售榜冠軍的「C-POP天王」周杰倫（Jay Chou），睽違約四年推出第16張最新專輯《Children",
+      "published_at": "Fri, 31 Jul 2026 06:00:00 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在日本發行新專輯《太陽之子》並舉辦Tower Records照片展，提供粉絲抽獎機會。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2105,
+      "title": "西城男孩世界巡演 台灣站點名跟周杰倫飆歌 | 美歐最鮮報 | 娛樂 | 世界新聞網",
+      "link": "https://www.worldjournal.com/wj/story/121232/9637200",
+      "source": "Tavily (www.worldjournal.com)",
+      "snippet": "台北電影獎／「少林足球」田啟文從影47年首奪獎\n\n### 台北電影獎／「少林足球」田啟文從影47年首奪獎\n\n## 熱門新聞\n\n王凱驚傳在家中猝逝，享年43歲。圖／截自王凱臉書\n\n### 王凱猝逝 璟宣淚曝「前天才說身體不適」不敢跟劇組說\n\n麥特戴蒙(左三)與妻子露西安娜（左二）育有四個美麗的女兒，一家六口在電影「奧德賽」倫敦首映會合體。(路透)\n\n### 「奧德賽」麥特戴蒙擁4個漂亮女兒 曝「2周家規」維持家庭和諧\n\n大S的房子已經過戶給具俊曄和一雙子女。（取材自IG）\n\n### 大S台北信義區豪宅傳已經過戶 由「具俊曄和子女共同持有」\n\n「赤身裸愛」邀請現役色情片演員艾莉莎薩維奇全裸上陣。（圖／原創娛樂提供）\n\n### 真AV女優全裸上陣 揭成人產業幕後真相 探索親密關係真實樣貌\n\n王凱曾演出民視「市井豪門」。圖／民視提供\n\n### 王凱租屋處暴斃 曾陷低潮轉戰夜店公關 月領最低薪求生\n\n周星馳與迪麗熱巴合作「功夫女足」掀起話題。（取材自迪麗熱巴工作室微博）\n\n### 迪麗熱巴被周星馳叫「巴爺」 本尊反應曝光 網狂刷：星巴克CP\n\n## 超人氣 [...] ## 超人氣\n\n獨／南加華人遭綁架「行刑式」滅口 駭人細節曝光\n\n### 獨／南加華人遭綁架「行刑式」滅口 駭人細節曝光\n\n買回家的酪梨 食安專家：應立即清洗\n\n### 買回家的酪梨 食安專家：應立即清洗\n\n賓州駭人血案 37歲華裔媳婦狂砍婆婆245刀奪命\n\n### 賓州駭人血案 37歲華裔媳婦狂砍婆婆245刀奪命\n\n獨╱綁架槍殺案 華男來自新疆 是大家庭做生意\n\n### 獨╱綁架槍殺案 華男來自新疆 是大家庭做生意\n\n川普「眾神之鎚」要讓習近平戰時失明？美軍海上首測新電戰系統結果曝\n\n### 川普「眾神之鎚」要讓習近平戰時失明？美軍海上首測新電戰系統結果曝\n\n##### 關於我們\n\nAbout Us\n\n##### 與我們聯絡\n\nContact Us\n\n##### 網站總覽\n\nSite Overview\n\n##### 廣告價目\n\nAds Rate\n\n##### 訂報\n\nSubscription\n\n##### 電郵報\n\neNews\n\n##### 投稿\n\nContributions\n\n##### 徵才\n\nJoin Us\n\n##### 新聞倫理與新聞更正政策 [...] 西城男孩將在明年1月30日登上高雄巨蛋開唱，這場演出是他們25周年世界巡演的一站，也被尚恩形容為有史以來最精彩的演出之一。\n\n## Q2：尚恩對和台灣歌手合作的態度是什麼？\n\n尚恩表示雖然對華語歌手不算熟悉，但聽過周杰倫的名字，也希望有人能介紹彼此認識。他認為跨國合作不只交流音樂，也是尊重當地文化的方式。\n\n## Q3：尚恩來台還對哪些台灣元素表現出興趣？\n\n他首次聽到豬血糕時還誤以為是甜點，後來表示很想試試看；若要帶紀念品回家，則最想帶一幅描繪台灣風景的畫作，因為他和太太都喜歡藝術。\n\n上一則\n\n### 葉麗儀1980年唱紅「上海灘」 版稅到現在還沒收完\n\n下一則\n\n### 慘遭經紀公司壓榨…羅正紅10年 但戶頭只有4831元\n\n## 延伸閱讀\n\n瘦了9公斤…蔡一傑戰勝腦癌回歸 草蜢跟五月天邀歌\n\n### 瘦了9公斤…蔡一傑戰勝腦癌回歸 草蜢跟五月天邀歌\n\n台原住民歌手戴曉君7／10亮相林肯中心 傳遞來自土地的聲音\n\n### 台原住民歌手戴曉君7／10亮相林肯中心 傳遞來自土地的聲音\n\n談藝／約翰丹佛「治癒系」音樂詩人\n\n### 談藝／約翰丹佛「治癒系」音樂詩人",
+      "published_at": "Sun, 19 Jul 2026 06:23:00 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "西城男孩成員尚恩在台灣巡演前表示聽過周杰倫的名字，並表達了希望有機會與他合作的意願。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2106,
+      "title": "周杰倫發聲了！愛徒派偉俊捲感情風波 天王社群限動吐1字",
+      "link": "https://www.mirrordaily.news/story/76800",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "天王周杰倫力捧的愛徒派偉俊，近日因認愛Fubon Angels成員禾羽後，遭前女友黃琳媛公開發文質疑，意外捲入感情風波，引發外界熱議。",
+      "published_at": "Sat, 01 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫因愛徒派偉俊捲入感情風波，在社群媒體上簡短發聲。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2107,
+      "title": "愛徒派偉俊捲感情風波...突遭舊愛控4罪狀　周杰倫吐「1字」發聲",
+      "link": "https://star.setn.com/news/1882172",
+      "source": "Tavily (star.setn.com)",
+      "snippet": "周杰倫愛徒派偉俊近期宣布推行全新創作專輯《BAD IDEA》，並在聽歌會中認愛啦啦隊女神禾羽，還大方透露專輯內有首歌是寫給女友的，不料新歌曝光卻釣",
+      "published_at": "Sat, 01 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫的愛徒派偉俊捲入感情風波，遭舊愛指控，周杰倫對此簡短發聲。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2108,
+      "title": "Why Jay Chou’s Viral Lookalike Is Sticking With Pancakes",
+      "link": "https://www.sixthtone.com/news/1018468/why-jay-chou%E2%80%99s-viral-lookalike-is-sticking-with-pancakes",
+      "source": "Tavily (www.sixthtone.com)",
+      "snippet": "Since he was young, people had told Bai that he looked like Jay Chou, the Taiwan-born singer-songwriter, who emerged onto China’s pop scene around 2000. He’d always waved away the comparison — yet it was to change his life.\n\nIn late November 2020, a random customer shared a video online of Bai making pancakes and remarked on the resemblance. The post received more than 267,000 likes and 49,000 comments. [...] Just before Chinese New Year, Bai Xianying set up his food stall selling savory pancakes in his old spot outside a textiles mall in Baoding, in the northern Hebei province. In the vein of his doppelgänger — the pop megastar Jay Chou — it was somewhat of a comeback gig. [...] Whenever someone said he looks like Jay Chou, he’d always protest, insisting, “No, not at all. He has real talent. I’m not well educated and have no talent — I’ve only made it this far because of everyone’s support.”\n\nAs for the future, Bai is just taking things as they come. He hopes business at his stores in Tianjin picks up, but also wants to spend more time running his street stall in Liangmatai. “After all these years, I can’t quite let it go,” he says.\n\nReported by Cheng Ting.",
+      "published_at": "Mon, 04 May 2026 19:32:39 GMT",
+      "collected_at": "2026-08-01 04:02:25",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "一位因長相酷似周杰倫而爆紅的煎餅攤老闆，儘管獲得廣泛關注，仍保持謙遜並堅持經營自己的事業。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2098,
       "title": "星巴克「周杰倫聯名杯」7/27開賣，5款新品、2款周杰倫聯名飲品一次看！",
@@ -470,108 +554,31 @@
       "summary": "此新聞內容主要報導卡戴珊-詹納家族為其已故家族女族長MJ舉辦的生命慶典，與周杰倫無關。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2072,
-      "title": "Senate confirms Jay Clayton as new intelligence czar - The Washington Post",
-      "link": "https://www.washingtonpost.com/national-security/2026/07/28/senate-confirms-jay-clayton-new-intelligence-czar/",
-      "source": "Tavily (www.washingtonpost.com)",
-      "snippet": "# Senate confirms Jay Clayton as new intelligence czar. The Senate confirmed Jay Clayton as director of national intelligence, ending the acting tenure of Bill Pulte, a housing official and Trump loyalist. Jay Clayton appears before the Senate Intelligence Committee earlier this month during a hearing on his nomination to serve as director of national intelligence. The Senate confirmed Jay Clayton as the director of national intelligence Tuesday, ending the tenure of Bill Pulte, a housing official and Trump loyalist, who held the role for more than a month. The 51-to-47 vote was more partisan than expected after Trump nominated Clayton in June. AI & Tech Brief: Reflection AI arrives in Washington. AI & Tech Brief: Anthropic’s army of AI integrators. AI & Tech Brief: The AI gatekeepers. AI & Tech Brief: The techno-optimist’s case. AI & Tech Brief: GOP Chair Eyes AI Query Red Flags. AI & Tech Brief: Dem caucuses to meet on AI.",
-      "published_at": "Tue, 28 Jul 2026 23:39:24 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞報導美國參議院確認Jay Clayton為新的國家情報總監，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2073,
-      "title": "Senate Confirms Jay Clayton As Nation's Intelligence Director - HuffPost",
-      "link": "https://www.huffpost.com/entry/senate-intelligence-director-jay-clayton-confirmed_n_6a693ac3e4b0fddbd7122602",
-      "source": "Tavily (www.huffpost.com)",
-      "snippet": "# Senate Confirms Jay Clayton As Nation's Intelligence Director. The Senate has confirmed Jay Clayton to become head of the nation’s intelligence agencies. WASHINGTON (AP) — The Senate has confirmed Jay Clayton to become head of the nation’s intelligence agencies, putting a permanent director in place weeks after President Donald Trump sought to delay his nomination. Pulte was in charge when Trump delivered a speech from the White House earlier this month doubling down on his false claims about the 2020 election, which he lost, and released classified documents that he said were relevant to his arguments. Pulte has also said he has presided over a downsizing of the national intelligence office, which functions as a coordinating hub for the U.S. government’s intelligence agencies. Democrats have also expressed concerns about Clayton, who lost bipartisan support after a contentious hearing two weeks ago in which he repeatedly refused to say that former President Joe Biden won the 2020 election.",
-      "published_at": "Tue, 28 Jul 2026 23:30:09 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞關於美國情報總監Jay Clayton的任命，與華語歌手周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2074,
-      "title": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲　震撼場面曝光",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB-%E8%B1%AA%E7%A0%B85%E5%84%84-%E5%86%8D%E5%89%B5%E6%96%B0%E7%B4%80%E9%8C%84-%E6%89%93%E9%80%A014%E5%85%AC%E5%B0%BA%E5%B7%A8%E5%9E%8B%E6%A9%9F%E7%94%B2-%E9%9C%87%E6%92%BC%E5%A0%B4%E9%9D%A2%E6%9B%9D%E5%85%89-053700754.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "廣告\n\n廣告\n\n周杰倫演唱會豪砸5億元，兩座12公尺高巨型機器人矗立在舞台兩側。（圖／杰威爾提供）\n\n周杰倫演唱會豪砸5億元，兩座12公尺高巨型機器人矗立在舞台兩側。（圖／杰威爾提供）\n\n隨著《太陽之子》專輯推出，周杰倫一連帶來〈太陽之子〉、〈誰稀罕〉、〈那天下雨了〉、〈湘女多情〉、〈I Do〉、〈女兒殿下〉，加上粉絲點歌的〈愛琴海〉，共有7首新歌在杭州演唱會首唱。感性VCR後，為演唱會特別打造的一台寶藍色金框歐風鋼琴登場，他更自彈自唱〈黑色幽默〉、〈晴天〉等經典歌曲，勾起全場回憶殺。\n\n周杰倫經典歌曲連發，讓歌迷聽得如癡如醉。（圖／杰威爾提供）\n\n周杰倫經典歌曲連發，讓歌迷聽得如癡如醉。（圖／杰威爾提供）\n\n相隔2年再度巡迴至杭州，周杰倫問：「你們有想念我嗎？最近我出新專輯，你們都有聽嗎？」他也趁機進行市調：「大家比較想聽新歌還是老歌？好像很多朋友還是喜歡老歌對不對？不過有些新加入的歌迷朋友，你們也喜歡新歌對吧？因為老歌又多了一份回憶，回憶是會加分的，會有一種青春的情懷在裡面，所以我們就帶來這首〈說好的幸福呢〉。」歌迷尖叫聲反映了這首經典情歌受歡迎的程度。 [...] 打開App\n\n廣告\n\n# 周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲　震撼場面曝光\n\n三立新聞網\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n記者徐珮華／台北報導\n\n周杰倫「煙花杭州嘉年華II」世界巡迴演唱會，昨（3）日起一連3天在杭州奧體中心體育場（大蓮花）登場，也是他第9次世界巡迴演唱會的首站。演唱會高規格製作、頂級聲光視效、時尚華服與精品級的道具，製作成本粗估已超過新台幣5億元，不僅是上一套演唱會的翻倍成本，也再次刷新其演唱會成本紀錄。\n\n周杰倫「嘉年華II」世界巡迴演唱會，首站於杭州登場。（圖／杰威爾提供）\n\n周杰倫「嘉年華II」世界巡迴演唱會，首站於杭州登場。（圖／杰威爾提供）\n\n周杰倫演唱會聲光效果滿點，開場以視覺特效打造「冰封世界」，隨著大雪融化，雷射光切出一道門，「環狀炸水」特效噴發，舞台前方觀眾也身歷其境感受到水花淋漓的暢快。隨之映入眼簾的是14公尺高巨型機甲，當機甲開啟它的座艙，「太陽之子」周杰倫以王者歸來的氣勢，一現身就融化「冰封世界」，以〈太陽之子〉、〈無雙〉與28位舞者燃爆全場粉絲熱情。\n\n廣告\n\n廣告 [...] 這套巡演饒富創意地將每個城市的特色結合周杰倫歌曲命名，每個城市都有自己專屬的演唱會名稱。杭州站以「煙花」命名，既源自「煙花易冷」的綿長意境，更與杭州的浪漫氣質相融，3場共吸引15萬人朝聖。\n\n更多三立新聞網報導  \n謝和弦才喊拒授權！曾沛慈《浪姐7》聽〈夠愛〉嚇壞…失控場面曝光  \n范瑋琪《浪姐7》首戰淚崩！0修音歌聲全流出　「真實成績」出爐了  \n孫淑媚忘記報名金曲獎！崩潰喊哭一哭就好　公司「認了疏失」慚愧發聲  \n周杰倫新專輯評價兩極！派偉俊公開製作內幕　天王「破天荒做1事」\n\n登入後即可張貼留言。\n\n廣告\n\n暫無留言\n\n## 其他人也在看\n\n### 強震襲熊本造成災情 許智傑人在日本願民眾平安",
-      "published_at": "Fri, 03 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫「嘉年華II」世界巡迴演唱會杭州站以5億元製作費再創新高，打造14公尺巨型機甲與頂級聲光效果，並演唱新舊歌曲，吸引15萬人朝聖，場面震撼。",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2075,
-      "title": "周杰倫北京演唱會出狀況 付費周邊商品遭洗劫",
-      "link": "https://www.ntdtv.com/b5/2026/06/30/a104110795.html",
-      "source": "Tavily (www.ntdtv.com)",
-      "snippet": "周杰倫全新巡迴「北京·龍拳嘉年華2026週杰倫演唱會」自6月26日起，一連三晚在「北京鳥巢」舉行，三晚共吸引近19.5萬人進場觀看。",
-      "published_at": "Mon, 29 Jun 2026 03:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫北京演唱會出狀況 付費周邊商品遭洗劫",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2076,
-      "title": "周杰倫演唱會散場遇暴雨 觀眾哄搶毛毯玩偶警介入調查︱有片",
-      "link": "https://www.singtao.ca/7549902/2026-06-28/news-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%BC%94%E5%94%B1%E6%9C%83%E6%95%A3%E5%A0%B4%E9%81%87%E6%9A%B4%E9%9B%A8++%E8%A7%80%E7%9C%BE%E5%93%84%E6%90%B6%E6%AF%9B%E6%AF%AF%E7%8E%A9%E5%81%B6%E8%AD%A6%E4%BB%8B%E5%85%A5%E8%AA%BF%E6%9F%A5%EF%B8%B1%E6%9C%89%E7%89%87",
-      "source": "Tavily (www.singtao.ca)",
-      "snippet": "周杰倫「嘉年華」世界巡迴演唱會前晚在北京鳥巢舉行，演唱會散場時突遇暴雨，現場大批觀眾哄搶毛毯、玩偶等演唱會官方周邊，目前轄區派出所已開展相關",
-      "published_at": "Mon, 29 Jun 2026 03:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫演唱會散場遇暴雨 觀眾哄搶毛毯玩偶警介入調查︱有片",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2077,
-      "title": "周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友",
-      "link": "https://www.cosmopolitan.com/tw/entertainment/celebrity-gossip/a70776686/jay-chou-2026-new-album",
-      "source": "Tavily (www.cosmopolitan.com)",
-      "snippet": "Image 1: Search搜尋Image 2: Close\n\n  \n\n   SUMMER PARTY 夏日派對\n   CLEAN BEAUTY 純淨美妝\n   BEAUTY PAD\n   UNDER BEAUTY\n   COSMOPET 好萌友日常🐾\n   COSMO 漫遊假期\n   Travel with COSMO\n   星運小心機週報\n   🔮 柯夢AI塔羅占卜師立即算！\n   美容保養\n   星座塔羅\n   時尚風潮\n   星聞直擊\n   渴夢生活\n   兩性愛情\n   LET'S GO GIRLS 鬧事女孩\n   得獎公告\n   電子報訂閱\n   加入我們\n\n隱私權聲明使用條款\n\nSkip\n\nImage 3: Logo\n\n   Summer Party\n   美容保養\n   星座塔羅\n   時尚風潮\n   星聞直擊\n   渴夢生活\n   兩性愛情\n\n訂閱\n\n會員登入\n\n1.   星聞直擊\n2.   名人花邊\n3.   周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友 [...] # 周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友\n\n周杰倫第16張專輯《太陽之子》將於3月25日發行，睽違3年8個月推出新專輯，主打歌MV致敬克林姆《吻》並融入吸血鬼元素，3月24日更將於台北舉辦全球首映會，限量100名粉絲報名參與，話題與期待值全面飆升。\n\nBy Lily ChangPublished: 2026/03/18\n\nImage 4: bookmarks儲存文章\n\nImage 5: 周杰倫\n\n杰威爾音樂\n\n周杰倫將發行新專輯！天王周杰倫推出第16張個人專輯《太陽之子》，並且在 IG和YouTube都分享了主打歌〈太陽之子〉MV預告，Teaser 畫面致敬古斯塔夫．克林姆的名畫《吻》，更結合了吸血鬼與蝙蝠元素，讓全網粉絲期待不已！周董也宣布將於3月24日舉辦新歌MV首映會，邀請100名幸運粉絲一起參與。\n\n>>關於周杰倫的10個故事！首位登上大巨蛋開演唱會，沒買到票也要下水道聽的天王魅力\n\nCOSMO 編輯 Lily 重點摘要：\n\n1.周杰倫將發行第16張專輯《太陽之子》。 [...] ## 巴黎教堂拍攝MV+專輯封面\n\n周董新專輯封面是在巴黎的教堂Chapelle Sainte-Jeanne-d’Arc拍攝，同時也是MV場景之一，這座教堂目前是一個空的場地，可以租借用來辦展覽、攝影之用，MV工作團隊考究了19世紀的陳設美術，將它打造成符合腳本的氛圍，加上是在夜間拍攝，所以出動9台大吊車在外面打燈，只為了打亮教堂的玻璃，呈現出懸疑暗黑的氛圍。\n\n廣告 - 內文未完請往下捲動\n\nImage 40: 周杰倫新專輯\n\n杰威爾音樂\n\n## 周董放慢步調慢慢累積音樂創作\n\n周杰倫近來常在自己的社群平台與歌迷分享新專輯的進度，在所有歌曲都錄製完成後，他也與歌迷分享他的心情，周杰倫說：「上次發專輯是2022年，並不代表這張專輯我寫了三、四年，這些年我把生活的步調放慢，慢慢寫進音樂裡，有靈感就寫、有時間就唱、MV有時間就拍，最有效率的時候，反而是巡演結束的這幾個月。如果我不開演唱會、不打球、也不用等文山寫詞，或許，一張專輯一個月就會誕生了。」如今作品完成，他開心的說：「最後要慶祝的是…終於誕生了，爽！」\n\n## 舉辦MV全球首映限定100名粉絲參與",
-      "published_at": "Wed, 18 Mar 2026 09:01:08 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 1,
-      "summary": "周杰倫新專輯《太陽之子》3/25發行！睽違3年8個月回歸，3/24新歌首映限量100人，名稱靈感來自張學友",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 130,
-    "report_date": "2026-07-31",
-    "total_articles": 5,
+    "id": 131,
+    "report_date": "2026-08-01",
+    "total_articles": 6,
     "positive_count": 3,
-    "negative_count": 1,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》發行後銷售告捷，MV融入世界名畫並藏有向昆凌求婚畫面，展現個人風格與浪漫。演唱會斥資五億打造巨型機甲，雖有北京周邊遭洗劫及散場觀眾哄搶周邊商品等狀況，但整體仍創下紀錄。此外，星巴克也推出周杰倫聯名商品，可謂事業愛情兩得意。",
-    "key_events": [
-      "新專輯《太陽之子》熱銷",
-      "演唱會斥資5億創新高",
-      "星巴克聯名商品上市"
-    ],
-    "created_at": "2026-07-31 04:03:50"
+    "negative_count": 0,
+    "neutral_count": 3,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "金正恩看猛男秀刀槍不入！　網改編周杰倫《太陽之子》意外被讚爆 - 鏡報、「C-POP天王」周杰倫日本版《太陽之子》發售紀念！Tower Records 全日本6間店鋪將舉辦照片展，並有機會抽中展示照片！、西城男孩世界巡演 台灣站點名跟周杰倫飆歌 | 美歐最鮮報 | 娛樂 | 世界新聞網",
+    "created_at": "2026-08-01 04:03:14"
   },
   "recentReports": [
+    {
+      "id": 131,
+      "report_date": "2026-08-01",
+      "total_articles": 6,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "金正恩看猛男秀刀槍不入！　網改編周杰倫《太陽之子》意外被讚爆 - 鏡報、「C-POP天王」周杰倫日本版《太陽之子》發售紀念！Tower Records 全日本6間店鋪將舉辦照片展，並有機會抽中展示照片！、西城男孩世界巡演 台灣站點名跟周杰倫飆歌 | 美歐最鮮報 | 娛樂 | 世界新聞網",
+      "created_at": "2026-08-01 04:03:14"
+    },
     {
       "id": 130,
       "report_date": "2026-07-31",
@@ -645,17 +652,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！、「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線、12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
       "created_at": "2026-07-26 04:08:33"
-    },
-    {
-      "id": 124,
-      "report_date": "2026-07-25",
-      "total_articles": 9,
-      "positive_count": 4,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "太陽之子 / 周杰倫 / Jay Chou、周杰倫新專輯狂賣264萬張 攻占紐約時報廣場 | 娛樂即時 | 娛樂 | 世界新聞網、周杰倫新專輯《太陽之子》終於公開喊：爽！ 曝光名稱跟張學友有關",
-      "created_at": "2026-07-25 03:51:27"
     }
   ]
 }
