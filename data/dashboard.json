@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
-    "positive": 3,
+    "total": 3,
+    "positive": 2,
     "negative": 0,
-    "neutral": 3
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2108,
-    "positive": 611,
+    "total": 2111,
+    "positive": 613,
     "negative": 68,
-    "neutral": 1429,
+    "neutral": 1430,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-18",
-      "total": 7,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 7,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-19",
       "total": 2,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 3,
       "avg_score": 0.68
+    },
+    {
+      "date": "2026-08-02",
+      "total": 3,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.8
     }
   ],
   "recentArticles": [
+    {
+      "id": 2109,
+      "title": "Historic Diplomatic Milestone: Somaliland Delegation to Visit Israel Following Recognition - 沖縄タイムス社",
+      "link": "https://www.okinawatimes.co.jp/feature/nahasigisen2021/detail?y-news-24877526-2026-01-08-first-since-recognition-somaliland-delegation-to-visit-israel",
+      "source": "Tavily (www.okinawatimes.co.jp)",
+      "snippet": "会社概要購読のご案内沖縄タイムス・グループ後援申請タイムスビル施設利用読者センターより沖縄タイムスの出版物広告料金について記事データベース各局からのお知らせ記事・写真の転載についてプライバシー・ポリシークリッピング・サービスお問合せ. Image 4: 「この本を読みましょう」おすすめ図書 「この本を読みましょう」おすすめ図書 大手４出版社のおすすめ図書を紹介。県内書店でぜひ手に取ってみてください。Image 5: 新聞配達員募集 新聞配達員募集 お住いの地域周辺で、空いている時間を活用して働いてみませんか？Image 6: 沖縄タイムス公式動画チャンネル 沖縄タイムス公式動画チャンネル 沖縄特有の動植物や、観光スポット、事件・事故、そして米軍基地問題まで、さまざまな情報を動画でお届けします。. Image 7: 【速報】年末ジャンボ、宜野湾市のサンエー長田店から1等・前後賞の計10億円 沖縄で高額当せん相次ぐ. 【速報】年末ジャンボ、宜野湾市のサンエー長田店から1等・前後賞の計10億円 沖縄で高額当せん相次ぐ 2026年1月8日 09:17 有料. Image 8: 「皇位継承、悠仁天皇までは決まっている」には根拠がない. 「皇位継承、悠仁天皇までは決まっている」には根拠がない 2026年1月6日 07:05 有料. Image 9: 4億円当たっても淡々と「人生変わるねー」 宝くじ王国・沖縄の“当たり売り場”と“あるある”を一挙紹介 年末ジャンボは大行列【2025最新版】. 4億円当たっても淡々と「人生変わるねー」 宝くじ王国・沖縄の“当たり売り場”と“あるある”を一挙紹介 年末ジャンボは大行列【2025最新版】2025年12月23日 06:36 有料. Image 10: 2025年の「年末ジャンボ宝くじ」「ジャンボミニ」の当せん番号発表. 2025年の「年末ジャンボ宝くじ」「ジャンボミニ」の当せん番号発表 2025年12月31日 13:03. Image 11: 「自宅まで送る」70代女性を誘拐し性的暴行した容疑 自称大工の70代男を逮捕 沖縄県警. 「自宅まで送る」70代女性を誘拐し性的暴行した容疑 自称大工の70代男を逮捕 沖縄県警 2026年1月8日 16:09. Image 12: 「この本を読みましょう」おすすめ図書 「この本を読みましょう」おすすめ図書 大手４出版社のおすすめ図書を紹介。県内書店でぜひ手に取ってみてください。Image 13: 沖縄タイムス社ＮＩＢ講座実施のお申込みはこちら 沖縄タイムス社ＮＩＢ講座実施のお申込みはこちら 新聞から得るジンブンはビジネスの最強ツール！新入社員研修やOFF-JTにＮＩＢ講座「新聞の読み方講座」はいかがですか？Image 14: 音声配信｢サクッと沖縄｣でニュースをお届け！ 音声配信｢サクッと沖縄｣でニュースをお届け！ 音声配信アプリ｢Voicy｣で、沖縄タイムスのニュースを届けています。時間や場所にとらわれず、気軽にサクッと聞くことができます。Image 15: 無料で楽しめるゲームコンテンツ 無料で楽しめるゲームコンテンツ 沖縄タイムス社は無料で楽しめるゲームコンテンツを公開しました。クロスワード、早押し演算など50種類以上のゲームが無料で楽しめます。 休憩時間や息抜きにどうぞご活用ください。Image 16: あなたのナゼにココホル取材班 あなたのナゼにココホル取材班 読者が日頃感じている「ナゼ」を、沖縄タイムス記者が取材して解き明かします。情報をお寄せください。Image 17: 電子パズル「数独」 電子パズル「数独」 毎週日曜日に新しい問題を出題します。有料会員向けサービス。ちょっとしたスキマ時間にスマホやパソコンで頭の体操してみませんか？Image 18: タイムス就職ナビ2025 タイムス就職ナビ2025 沖縄の新卒向け就活情報サイトの決定版！ 2025年卒業予定･卒業後3年以内の方が対象。 合同説明会やセミナー情報をいち早くお届け。 学生の皆さんの「就活」をサポートします。Image 19: 地域再生大賞HPリニューアル 地域再生大賞HPリニューアル まちづくりや地域活性化に取り組む参考や交流のきっかけに、活動分野別、地域別、受賞歴別に団体を検索できるデータベースを新設！Image 20: 法人・企業向け写真二次利用販売サービス 法人・企業向け写真二次利用販売サービス webサイトで写真を選択して申し込みができるようになりました。探している写真が見つからない場合は、お気軽にご連絡してください。. Image 21: おきなわ終活プラス おきなわ終活プラス いざという時の医療・介護、相続・贈与、葬儀、お墓のことなど、沖縄で送る「終活」ライフを応援します。Image 22: 「ライトプラン」スタート 「ライトプラン」スタート 得する人生、始めよう！有料記事100本が読み放題。記事閲覧“爆速”体感を。Image 23: 那覇市久茂地にコワーキングオフィスhowlive誕生！ 那覇市久茂地にコワーキングオフィスhowlive誕生！ howliveは沖縄タイムスが運営するシェアオフィス、コワーキングプレイス。抜群の立地と美しいデザイン、豊富な設備が特徴です。Image 24: 問題解決型メディア・プラットフォーム「Link-U by OKINAWATIMES」 問題解決型メディア・プラットフォーム「Link-U by OKINAWATIMES」 クラウドファンディングに加え、セミナー・コミュニティー事業を通じ、現状を変えようと挑むすべての「リーダー」たちを後押しします。Image 25: 沖縄タイムスのクラウドファンディング「Link-U」のプロジェクト一覧 沖縄タイムスのクラウドファンディング「Link-U」のプロジェクト一覧 問題解決に向けた挑戦を沖縄タイムスの「広報力」で後押しするクラウドファンディングサービス。プロジェクト検索はこちらから。Image 26: 「お悔やみ速報沖縄 しまダビ」登場 「お悔やみ速報沖縄 しまダビ」登場 お世話になった方との最後のお別れを大事にしたい・・・そんなあなたのアプリです。Image 27: 沖縄こども未来プロジェクト 沖縄こども未来プロジェクト 企業や個人のサポーターの皆様から頂いた支援金で、子どもたちの夢を後押ししています。Image 28: 沖縄タイムスSDGs企画「Step with you」 沖縄タイムスSDGs企画「Step with you」 女性特有の健康課題を最新技術などで解決する「フェムテック」を通じ、よりより社会づくりを目指します。. Copyright (c) 2026 The Okinawa Times All rights reserved. サイト内の記事・写真・その他の著作権は沖縄タイムス社が所有・管理しています。許可なく複写・転載することは固くお断りいたします。. Image 41Image 42Image 43Image 44Image 45Image 46.",
+      "published_at": "Thu, 08 Jan 2026 20:17:58 GMT",
+      "collected_at": "2026-08-02 04:06:43",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇來自沖繩時報的文章內容涵蓋了多樣化的當地新聞和服務資訊，包括彩票結果、犯罪新聞、書籍推薦、求職、社區活動等，但文中並未提及周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2110,
+      "title": "Funk beats and family chaos propel pop star's new hit - Chinadaily.com.cn",
+      "link": "https://www.chinadaily.com.cn/a/202606/16/WS6a309b8ba310986e2b46023d.html",
+      "source": "Tavily (www.chinadaily.com.cn)",
+      "snippet": "Jay Chou has released his latest music video, My Daughter, Your Highness, from his new album Children of the Sun. [Photo provided to chinadaily.com.cn] [...] #### By Chen Nan    |    chinadaily.com.cn    |     Updated: 2026-06-16 08:40\n\n#####\n\nShare - WeChat\n\nPop superstar Jay Chou has released his latest music video, My Daughter, Your Highness, from his new album Children of the Sun.\n\nThe track, written as a love letter to his youngest daughter Jacinda, turns everyday father-daughter life into a burst of groovy funk beats, quirky lyrics, and delightfully unpredictable energy. [...] Visually, Chou leans into a retro fantasy, dancing through the spirit of 1960s \"go-go\" and \"twist\" styles with effortless flair. There's even a standout moment where he balances a foot on a piano while playing — cool enough to freeze time — prompting his friend Ken to hilariously copy him off to the side.\n\n  \n\nJay Chou has released his latest music video, My Daughter, Your Highness, from his new album Children of the Sun. [Photo provided to chinadaily.com.cn]",
+      "published_at": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "collected_at": "2026-08-02 04:06:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發布了新專輯《Children of the Sun》中的最新音樂錄影帶《My Daughter, Your Highness》，這是一首獻給女兒的愛之歌，以復古放克風格呈現，充滿活力與創意，獲得極高評價。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2111,
+      "title": "周杰倫推新歌首曝光求婚昆凌細節，包英國古堡請臨記做戲險些告吹_歌曲_影片_面的",
+      "link": "https://www.sohu.com/a/1001394614_121732086",
+      "source": "Tavily (www.sohu.com)",
+      "snippet": "汽车\n\n房产\n\n旅游\n\n教育\n\n时尚\n\n科技\n\n财经\n\n娱乐\n\n# 原创 周杰倫推新歌首曝光求婚昆凌細節，包英國古堡請臨記做戲險些告吹\n\n2026-03-26 14:14  来源: 粤睇先生\n\n发布于：广东省\n\n天王周杰倫3月24日在台北松仁威秀TITAN廳舉辦新專同名新歌《太陽之子》MV全球首映暨專輯記者會，活動上他分享這次新歌中，有一首是浪漫幸福的歌曲，更自曝將會公開自己當年真實的求婚影片，引全場驚呼連連，他也首度曝光了求婚昆凌的超甜細節。\n\n周杰倫分享因為之前出了《告白氣球》後，不少人會在婚禮上放這首歌：我就想說要寫一首就是，大家婚禮除了《告白氣球》，還可以有另外一首歌曲，所以就寫了首很幸福的歌曲。\n\n周杰倫與昆凌（IG@jaychou）\n\n展开全文\n\n當歌曲出來後，腦中又冒出好像可以將自己當年私藏的求婚影片公開：「這故事真的是我自己覺得超有趣的！」",
+      "published_at": "Thu, 26 Mar 2026 14:14:00 GMT",
+      "collected_at": "2026-08-02 04:06:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在新歌《太陽之子》MV首映會上，不僅分享了新歌的浪漫幸福主題，更首次公開當年向昆凌求婚的超甜細節與私藏影片。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2103,
       "title": "金正恩看猛男秀刀槍不入！　網改編周杰倫《太陽之子》意外被讚爆 - 鏡報",
@@ -512,62 +554,39 @@
       "summary": "周杰倫新歌「愛琴海」 差點取名「希臘拖鞋」 | 台影最搶鏡 | 娛樂 | 世界新聞網",
       "category": "演唱會",
       "analyzed": 1
-    },
-    {
-      "id": 2069,
-      "title": "在「不像以前」與「太像以前」之間，我們該如何評價周杰倫《太陽之子》？ - TNL The News Lens 關鍵評論網",
-      "link": "https://www.thenewslens.com/article/266191",
-      "source": "Tavily (www.thenewslens.com)",
-      "snippet": "TNL+ 音樂 • 黃星達（Sing-Da）\n\n周杰倫推新專輯「太陽之子」\n\n周杰倫。｜Photo Credit: 中央社 via 杰威爾音樂\n\nS__124543223\n\n黃星達（Sing-Da）\n\n星達（Sing-Da），直接把音樂寫進名字。什麼都聽，特別關心流行音樂，因為那裡最快看見時代怎麼轉彎。學過鋼琴即興伴奏、教過音樂、寫過歌，現為電台常駐樂評人。寫樂評不是打分數，而是用社會觀察拆解一首歌為何在此刻成立。理解音樂，就是理解我們正在過什麼樣的生活。\n\n我們想讓你知道的是\n\n本文件旨在分析資深創作者新作之兩極評價。此現象源於「當下作品」與「記憶符號」兩種評估基準的衝突。建議重新檢視聆聽框架，理解其成熟期之藝術策略，避免落入進步與否的二元論斷。\n\n周杰倫近日推出全新專輯《太陽之子》，網路上的討論迅速呈現出熟悉的社會現況「兩極化」。在各大論壇與社群平台上，關於這張專輯的評價，有人直言「已經沒那個味了」、「還是回去聽第一張專輯好了」，也有人認為新作品「不難聽，但就是普通、缺乏記憶點」，甚至進一步批評為「套公式」，更尖銳的聲音則將問題歸結為創作力的衰退。 [...] 周杰倫一向以引領流行為其重要特質，但《太陽之子》試圖在他現在的歷練與狀態中創造出一種屬於他這個階段應該要唱出來的音樂質地，而非單純追逐潮流。作品中每首歌在前奏階段即建立鮮明的聲響輪廓，使聽者能迅速辨識其情緒與風格，展現出高度成熟的編曲思維。\n\n例如〈女兒殿下〉以靈動的bassline結合女兒的聲音，製造出輕鬆詼諧的童趣氛圍，爵士鋼琴間奏更進一步強化親子互動的輕鬆；英式抒情搖滾風格的〈誰稀罕〉，在前奏節奏鋪陳後迅速銜接副歌旋律，使情緒幾乎瞬間成形；〈西西里〉則透過古典弦樂與帶有佛朗明哥元素的吉他聲，營造出跨文化的異域氣質，在神秘與孤寂之間取得微妙平衡。\n\n多元觀點 等你解鎖\n\n付費加入TNL+會員，\n\n獨家評論分析、資訊圖表立刻看\n\n首月一元插圖\n\n149 元 / 月 \n\n1490 元 / 年  送 2 個月\n\n到期自動續訂，可隨時取消，詳情請見訂閱方案\n\n查看訂閱方案\n\n已是會員?  登入\n\n 周杰倫\n 太陽之子\n 兩極化評價\n 自我互文\n 藝術化實踐\n\nShare :\n\n {{ data.name }}\n\n{{data.member.name}} [...] 與此同時，也存在另一種看似矛盾的聲音：部分聽眾反而認為「熟悉的周杰倫終於回來了」、「這張專輯很有誠意」、「每一首都喜歡」。於是，「不像以前」與「太像以前」這兩種評價同時並存。\n\n這些看似零散甚至互相抵觸的意見，實則指向同一個核心問題：當一位資深流行音樂創作者持續發表新作時，我們究竟是以「當下的聽覺經驗」，還是以「記憶中的周杰倫」作為評價標準？換言之，聽眾是在聆聽作品本身，還是在比對一個早已內化的時代符號。\n\n周杰倫出道26年，從21歲到47歲，其年齡、生命歷程與情感經驗皆已產生根本轉變，聲帶狀態亦不可避免地與過去不同。相較於早期常以情緒飽滿的高音與帶有哭腔的唱法強化情感張力，近年的演唱與專輯唱腔更傾向於一種帶有「遊戲性」的聲音處理方式。\n\n這樣的轉變雖有人批評為炫技或失去情感，但若從音樂實驗與聲音風格化的角度觀察，這其實是一種高度自覺且具有辨識度的表達策略，他將人聲本身視為可操演的音色，傳遞不只是悲傷或愉悅二分情感的超然。",
-      "published_at": "Sat, 28 Mar 2026 23:59:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "這篇文章分析了周杰倫新專輯《太陽之子》面臨的兩極化評價，並從樂評角度肯定其成熟的藝術策略與精緻的音樂製作，認為應超越與過往作品的簡單比較。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2070,
-      "title": "周杰倫《太陽之子》發行：30張名畫入鏡，出道至今最契合本心專輯！ | Tatler Asia",
-      "link": "https://www.tatlerasia.com/lifestyle/entertainment/jay-chou-album-children-of-the-sun-zh-hant",
-      "source": "Tavily (www.tatlerasia.com)",
-      "snippet": "# 周杰倫全新專輯《太陽之子》今日發行！七分鐘電影敘事MV公開，翻玩30張世界名畫，成為周董出道至今最展現本心的音樂合輯\n\nAdd Tatler on Google\n\nBy Edgar Chang\n\nMar 25, 2026\n\nCover 周杰倫出席《太陽之子》新專輯發佈會，與在場粉絲、媒體共同一起欣賞同名歌曲MV首映。（Photo: 杰威爾提供）\n\n周杰倫出席《太陽之子》新專輯發佈會，與在場粉絲、媒體共同一起欣賞同名歌曲MV首映。（Photo: 杰威爾提供）\n\n1 / 1\n\n自公布以來就引發全台關注，周杰倫最新專輯《太陽之子》今日終於發行！\n\n距離上一次周杰倫發行專輯《最偉大的作品》（2022年）已經隔了三年多，期間他首次登上台北大巨蛋舉辦巡迴，一連四場門票開賣即秒殺，吸引超過15萬人入場聆聽，票房收入粗估超過6.5億台幣；而演唱會更吸引了眾多名人共襄盛舉，包含日本偶像演員山下智久，以及贏得12強賽冠軍的中華隊棒球員都找時間進場，話題不斷，也顯示這位亞洲天王的魅力從來不曾減退。 [...] 2026年3月，在粉絲們敲碗敲到快破碗的狀態下，周杰倫終於公布了最新專輯《太陽之子》的消息——新專輯在3月25日全曲上架串流平台，並且於4月10日正式發售實體專輯。在消息公布的同時，周董所屬的音樂公司杰威爾也公開這一次專輯同名曲目〈太陽之子〉MV部分畫面，當中能看見一名吸血鬼啃咬女性脖子，且仿照名畫家古斯塔夫・克林姆（Gustav Klimt）成名作《吻》的構圖，引發大眾好奇。\n\n隨著3月25日到來，周杰倫也與100名幸運的觀眾一起欣賞這部長達6分58秒的MV影片，正式宣布專輯到來；而〈太陽之子〉MV之中大量翻玩多達30幅世界名畫的做法，也成功創造話題。\n\n延伸閱讀：盤點2026年BTS成員合作品牌：從高級時裝、旅遊到頂尖科技無處不在\n\nTatler Asia\n\n \n\nAbove 周杰倫接受主持人阿Ken的訪問，透露許多這次專輯的創作理念。（Photo: 杰威爾提供）\n\n周杰倫接受主持人阿Ken的訪問，透露許多這次專輯的創作理念。（Photo: 杰威爾提供）\n\n1 / 1\n\n## 30幅名畫重現MV之中！你能找到幾幅？\n\nAbove 周杰倫〈太陽之子〉MV。",
-      "published_at": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫發行全新專輯《太陽之子》，其MV融入30幅世界名畫，被譽為出道至今最展現本心的音樂作品，並成功引發話題。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2071,
-      "title": "Kardashian-Jenner Family Holds MJ's Celebration of Life on Her Heavenly Birthday - Yahoo",
-      "link": "https://www.yahoo.com/entertainment/celebrity/articles/kardashian-jenner-family-holds-mjs-210027812.html",
-      "source": "Tavily (www.yahoo.com)",
-      "snippet": "* New Spider-Man movie reviews. * New TV shows this week. # Kardashian-Jenner Family Holds MJ's Celebration of Life on Her Heavenly Birthday. Add Yahoo as a preferred source to see more of our stories on Google. The Kardashian-Jenner family came together to celebrate the life of its late matriarch, **Mary Jo**, better known as **MJ** ... **Kim Kardashian**stepped out in a white dress and stopped for selfies with fans, while **Travis Barker**posed for photos as **Kourtney Kardashian** waited in an SUV. **Scott Disick** and son **Mason**also attended, along with **Khloe Kardashian**, **Tristan Thompson**and Kris' niece **Natalie Zettel** -- the daughter of Kris' late sister, **Karen Houghton**. Guests were later seen carrying a Celebration of Life memory book after the ceremony. As we previously reported, Kris announced her mother's **death**July 16, calling MJ the heart of their family. Kris and Kim paid **tribute**to MJ on Instagram, sharing family photos and emotional heavenly birthday messages. Want to see more TMZ content on Yahoo?",
-      "published_at": "Mon, 27 Jul 2026 21:00:27 GMT",
-      "collected_at": "2026-07-29 03:52:16",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此新聞內容主要報導卡戴珊-詹納家族為其已故家族女族長MJ舉辦的生命慶典，與周杰倫無關。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 131,
-    "report_date": "2026-08-01",
-    "total_articles": 6,
-    "positive_count": 3,
+    "id": 132,
+    "report_date": "2026-08-02",
+    "total_articles": 3,
+    "positive_count": 2,
     "negative_count": 0,
-    "neutral_count": 3,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "金正恩看猛男秀刀槍不入！　網改編周杰倫《太陽之子》意外被讚爆 - 鏡報、「C-POP天王」周杰倫日本版《太陽之子》發售紀念！Tower Records 全日本6間店鋪將舉辦照片展，並有機會抽中展示照片！、西城男孩世界巡演 台灣站點名跟周杰倫飆歌 | 美歐最鮮報 | 娛樂 | 世界新聞網",
-    "created_at": "2026-08-01 04:03:14"
+    "neutral_count": 1,
+    "daily_summary": "周杰倫近期焦點集中在新專輯《太陽之子》上，不僅上線三天銷售額破億，MV中融入30幅世界名畫，更首次公開求婚昆凌的浪漫細節，並收錄女兒的童語，專輯日本版也將推出。演唱會方面，豪擲五億打造巨型機甲，場面震撼，但北京場周邊商品遭洗劫，杭州場也引發「划水」爭議。同時，周杰倫與星巴克推出聯名杯及特調飲品，並大方分享珍稀收藏。此外，愛徒派偉俊雖捲入感情風波，但也傳出「雙喜臨門」的好消息，周杰倫亦透過社群表達支持。",
+    "key_events": [
+      "新專輯《太陽之子》發行",
+      "演唱會豪砸5億打造",
+      "星巴克聯名商品開賣"
+    ],
+    "created_at": "2026-08-02 04:07:03"
   },
   "recentReports": [
+    {
+      "id": 132,
+      "report_date": "2026-08-02",
+      "total_articles": 3,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫近期焦點集中在新專輯《太陽之子》上，不僅上線三天銷售額破億，MV中融入30幅世界名畫，更首次公開求婚昆凌的浪漫細節，並收錄女兒的童語，專輯日本版也將推出。演唱會方面，豪擲五億打造巨型機甲，場面震撼，但北京場周邊商品遭洗劫，杭州場也引發「划水」爭議。同時，周杰倫與星巴克推出聯名杯及特調飲品，並大方分享珍稀收藏。此外，愛徒派偉俊雖捲入感情風波，但也傳出「雙喜臨門」的好消息，周杰倫亦透過社群表達支持。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "演唱會豪砸5億打造",
+        "星巴克聯名商品開賣"
+      ],
+      "created_at": "2026-08-02 04:07:03"
+    },
     {
       "id": 131,
       "report_date": "2026-08-01",
@@ -641,17 +660,6 @@
         "MV媲美好萊塢大片"
       ],
       "created_at": "2026-07-27 04:24:38"
-    },
-    {
-      "id": 125,
-      "report_date": "2026-07-26",
-      "total_articles": 7,
-      "positive_count": 2,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "PlayMusic音樂網 - 全球粉絲看過來 周杰倫「太陽之子」MV媲美好萊塢大片！、「吸血鬼咬了梵谷」：從周杰倫〈太陽之子〉MV 看名畫轉譯，是翻玩藝術還是簡化經典？｜不務正業的博物館吧｜換日線、12 New Albums Out Now From The Strokes, Charli XCX, The Revivalists & More - JamBase",
-      "created_at": "2026-07-26 04:08:33"
     }
   ]
 }
