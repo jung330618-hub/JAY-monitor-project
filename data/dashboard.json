@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
+    "total": 1,
     "positive": 1,
-    "negative": 1,
-    "neutral": 1
+    "negative": 0,
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2114,
-    "positive": 614,
+    "total": 2115,
+    "positive": 615,
     "negative": 69,
     "neutral": 1431,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-20",
-      "total": 6,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 6,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-21",
       "total": 11,
@@ -132,9 +124,31 @@
       "negative": 1,
       "neutral": 1,
       "avg_score": 0.53
+    },
+    {
+      "date": "2026-08-04",
+      "total": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.9
     }
   ],
   "recentArticles": [
+    {
+      "id": 2115,
+      "title": "周杰倫《七里香》22歲了 演唱會不宜點這首歌有原因",
+      "link": "https://ent.ltn.com.tw/amp/news/breakingnews/5526453",
+      "source": "Tavily (ent.ltn.com.tw)",
+      "snippet": "相關新聞\n\n 不是BLACKPINK！誠品上半年CD銷售榜 前兩名是台灣歌手\n 周董I Do製造浪漫 巡演秒變求婚場 太陽之子推雙黑膠7月預購\n 淨土之光 南無阿彌陀佛正住澳洲香光大佛寺 彌陀講堂藍圖現\n 周杰倫《太陽之子》MV又傳捷報 黃曉明羨慕他娶到好老婆\n 精靈裝不夠看！阿Ken《悶鍋》神角小紅狂被點名：最經典\n\n你可能還想看\n\n 106歲人瑞怎麼養生？「蘋果花歌后」楊燕公開母親的長壽之道\n （專訪）孫安佐高中就單挑老師 阜東昇揭真實關係曝私下互動\n 恭喜！吳申梅突破大轉變 靠富尪老公孵出愛的結晶\n （獨家）《澎湖海戰》遭中國撤檔掀波 周興哲否認演唱主題曲《光復》\n （獨家）恭喜！許富凱不藏了 效法張惠妹推出分身亨利先生\n 江蕙悲痛發聲！56歲御用化妝師驚傳驟逝 3個月前才碰面如今成永別\n 加油站站長超眼熟 親揭台語大咖天后真面目\n 李千娜攜手正妹女兒美成這樣 出道19年終於圓了女團夢想 [...] 娛樂首頁 即時新聞 熱門新聞 娛樂時尚 日韓 亞洲 歐美 電視 電影 音樂 星座 自由娛樂粉絲團自由娛樂粉絲團\n\n自由影音\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇\n\n財富自由 財經 娛樂 藝文 汽車 時尚 體育 3 C 評論 玩咖 食譜 地產 專區 服務\n\n自由電子報 APP 自由電子報粉絲團 自由電子報 Line 自由電子報 X 熱門新訊\n\n╳\n\nSearch\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇 影音 財經 娛樂 藝文 汽車 時尚 體育 3C 評論 玩咖 食譜 地產 專區 求職 \n\n娛樂 〉 即時新聞\n\n# 周杰倫《七里香》22歲了 演唱會不宜點這首歌有原因\n\n2026/08/03 08:00\n\n〔記者陳慧玲／台北報導〕「周董」周杰倫新專輯《太陽之子》，在多個排行榜上都稱霸今年上半年唱片銷售冠軍，每次在聽周董新作品之外，粉絲也會回味他歷年來的專輯，而今（3日）是他《七里香》專輯推出22年紀念，粉絲也重新回顧專輯裡的經典歌曲。\n\n今天是周杰倫《七里香》專輯推出22週年紀念日。（翻攝自官網） [...] 106歲人瑞怎麼養生？「蘋果花歌后」楊燕公開母親的長壽之道\n （專訪）孫安佐高中就單挑老師 阜東昇揭真實關係曝私下互動\n 恭喜！吳申梅突破大轉變 靠富尪老公孵出愛的結晶\n （獨家）《澎湖海戰》遭中國撤檔掀波 周興哲否認演唱主題曲《光復》\n （獨家）恭喜！許富凱不藏了 效法張惠妹推出分身亨利先生\n 江蕙悲痛發聲！56歲御用化妝師驚傳驟逝 3個月前才碰面如今成永別\n 加油站站長超眼熟 親揭台語大咖天后真面目\n 李千娜攜手正妹女兒美成這樣 出道19年終於圓了女團夢想\n （專訪）他揪出女優長菜花被痛罵！台灣第一男優「小弟弟」被咬斷內幕曝光\n 派偉俊才認愛禾羽！女星自曝是舊愛開嗆「新歌是寫給我的」杰威爾喊告\n\n \n\n版權所有 不得轉載 © 2026 The Liberty Times. All Rights Reserved.",
+      "published_at": "Mon, 03 Aug 2026 00:00:00 GMT",
+      "collected_at": "2026-08-04 03:50:59",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫新專輯《太陽之子》稱霸上半年唱片銷售冠軍，同時經典專輯《七里香》也迎來22週年紀念，讓粉絲回味其經典歌曲。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2112,
       "title": "愛徒認愛捲感情風波！杰威爾強硬喊告 周杰倫發聲了",
@@ -540,38 +554,39 @@
       "summary": "周杰倫演唱會散場遇暴雨 觀眾哄搶毛毯玩偶警介入調查︱有片",
       "category": "演唱會",
       "analyzed": 1
-    },
-    {
-      "id": 2094,
-      "title": "2026演唱會全攻略！演唱會時間表、搶票資訊、票價總整理（持續更新）",
-      "link": "https://www.google.com/goto?url=CAESbAHuR6pN1eETqQCyNa5QK2JHi-XcwoxKVFLy-yNbQxT6iHdE7i-T2V6JBb2RfDKBfPDpVg1Z3MiM1yYzACUvMI5Ilz9hGJzTxbmNT8Gqz1H4H-9M98U-xUhf9kRBHIv0rg1N4VAorQxM8tZW8Q%3D%3D",
-      "source": "Tavily (www.google.com)",
-      "snippet": "2026年台灣演唱會市場持續火熱，從華語天王天后蔡依林、五月天跨年演唱會，到韓流巨星TWICE首度攻蛋，再有日本搖滾天團ONE OK ROCK來台，陣容超強！",
-      "published_at": "Tue, 28 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-07-30 03:42:54",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "這則新聞是關於2026年台灣演唱會市場的總體概況，提及多位藝人但未包含周杰倫。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 133,
-    "report_date": "2026-08-03",
-    "total_articles": 3,
+    "id": 134,
+    "report_date": "2026-08-04",
+    "total_articles": 1,
     "positive_count": 1,
-    "negative_count": 1,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近期焦點橫跨音樂與生活。新專輯《太陽之子》發行後銷量破億，MV融入世界名畫並首度公開求婚昆凌細節。演唱會斥資5億打造巨型機甲，場面震撼，但周邊遭搶、黃牛猖獗等亂象也引發關注。此外，他力挺捲入感情風波的愛徒派偉俊，並推出星巴克聯名商品，展現天王多元影響力。",
+    "negative_count": 0,
+    "neutral_count": 0,
+    "daily_summary": "周杰倫新專輯《太陽之子》發行，銷售破億，MV藏求婚昆凌細節與世界名畫。演唱會斥資5億打造巨型機甲，但遇黃牛、周邊商品遭哄搶及「划水」爭議。愛徒派偉俊捲入感情風波，杰威爾強硬喊告，周杰倫簡短發聲。另有星巴克聯名商品與個人收藏消息。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "演唱會5億打造機甲",
+      "演唱會爭議不斷",
       "愛徒派偉俊陷風波"
     ],
-    "created_at": "2026-08-03 04:09:35"
+    "created_at": "2026-08-04 03:51:14"
   },
   "recentReports": [
+    {
+      "id": 134,
+      "report_date": "2026-08-04",
+      "total_articles": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫新專輯《太陽之子》發行，銷售破億，MV藏求婚昆凌細節與世界名畫。演唱會斥資5億打造巨型機甲，但遇黃牛、周邊商品遭哄搶及「划水」爭議。愛徒派偉俊捲入感情風波，杰威爾強硬喊告，周杰倫簡短發聲。另有星巴克聯名商品與個人收藏消息。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "演唱會爭議不斷",
+        "愛徒派偉俊陷風波"
+      ],
+      "created_at": "2026-08-04 03:51:14"
+    },
     {
       "id": 133,
       "report_date": "2026-08-03",
@@ -649,17 +664,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "在「不像以前」與「太像以前」之間，我們該如何評價周杰倫《太陽之子》？ - TNL The News Lens 關鍵評論網、周杰倫《太陽之子》發行：30張名畫入鏡，出道至今最契合本心專輯！ | Tatler Asia、Kardashian-Jenner Family Holds MJ's Celebration of Life on Her Heavenly Birthday - Yahoo",
       "created_at": "2026-07-29 03:52:44"
-    },
-    {
-      "id": 127,
-      "report_date": "2026-07-28",
-      "total_articles": 7,
-      "positive_count": 5,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "「C-POP天王」周杰倫最新專輯日本版確定於8月5日（三）發行！豪華版、普通版雙版本同步推出 - ジェイ・チョウ、周杰倫愛徒拋震撼彈！無預警宣布「雙喜臨門」　派偉俊認了：很多人不看好 - 鏡報、星巴克周杰倫聯名杯7/27開賣！「黑、粉TOGO冷水杯」售價、購買方式一次看",
-      "created_at": "2026-07-28 03:48:17"
     }
   ]
 }
