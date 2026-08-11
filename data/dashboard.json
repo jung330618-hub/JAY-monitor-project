@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 21,
-    "positive": 9,
-    "negative": 0,
-    "neutral": 12
+    "total": 6,
+    "positive": 4,
+    "negative": 1,
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2172,
-    "positive": 645,
-    "negative": 73,
-    "neutral": 1454,
+    "total": 2178,
+    "positive": 649,
+    "negative": 74,
+    "neutral": 1455,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-07-27",
-      "total": 5,
-      "positive": 0,
-      "negative": 0,
-      "neutral": 5,
-      "avg_score": 0.5
-    },
     {
       "date": "2026-07-28",
       "total": 7,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 12,
       "avg_score": 0.65
+    },
+    {
+      "date": "2026-08-11",
+      "total": 6,
+      "positive": 4,
+      "negative": 1,
+      "neutral": 1,
+      "avg_score": 0.72
     }
   ],
   "recentArticles": [
+    {
+      "id": 2173,
+      "title": "周杰倫新專輯4天賣264萬張　看板登紐約時代廣場 - 放言Fount Media",
+      "link": "https://www.fountmedia.io/article/365241",
+      "source": "Tavily (www.fountmedia.io)",
+      "snippet": "各平台為造勢周杰倫新專輯「太陽之子」，他的巨幕電子看板在多個城市登場。唱片公司今天發布新聞稿表示，周杰倫的電子看板登上紐約時代廣場、紐約百老匯大道、洛杉磯落日大道、香港海港城，台北也有3個大看板在信義區，今天總計有16個巨型看板在台北、紐約、洛杉磯、香港等城市登場。\n\n  \n\n特別的是，Spotify、YouTube Music等4大平台，同時在紐約時代廣場推出周杰倫看板，慶祝「太陽之子」專輯的誕生。對此，周杰倫也不忘跟粉絲說，「有看到記得標記我」。\n\n  \n\n周杰倫將於4月10日發行「太陽之子」實體專輯，預購詳洽各大唱片行通路。（編輯：吳素柔）1150328\n\n 中央社  即時新聞\n\n延伸閱讀\n\n最新新聞\n\n 放．新聞 / 政治\n\n  新北高齡人口全台最多！蘇巧慧瞄準銀髮照護 長照補助提高至24萬、要讓長輩住得更安心\n 放．新聞 / 快訊\n\n  國台辦為「台青e家」遭台封鎖跳腳　梁文傑回擊先降低中國青年失業率，不用擔心台灣\n 放．新聞 / 快訊\n\n  挪威足協開第一槍要求因凡蒂諾下台　FIFA私募風暴從抵制升高為逼宮\n 放．新聞 / 快訊 [...] 專題\n 文創\n 情吃\n 瘋玩\n 放．TV\n K-pop\n\n 新聞\n 領導\n 高論\n 直評\n 擂台\n 關於放言\n\n\n\n 放．情吃\n 放．瘋玩\n 放．TV\n K-pop\n\nCopyright © 2018, All rights reserved.  \n 放言科技傳媒 版權所有\n\n 即時\n 熱門\n 政治\n 財經\n 社會\n 國際\n 科技\n 生活\n\n首頁 /  放．新聞 / 娛樂\n\n放．新聞\n\n娛樂\n\n# 周杰倫新專輯4天賣264萬張　看板登紐約時代廣場\n\n2026.03.28\n\n20:40pm\n\n文 ／ 中央社\n\n大 中 小 列印)\n\n## （中央社記者洪素津台北28日電）歌王周杰倫推出新專輯「太陽之子」，數位專輯4天內銷售量突破264萬張，各大數位平台也在多個城市推出周杰倫巨幕電子看板，其中在美國紐約時代廣場同時有4幅看板登場。\n\n（中央社記者洪素津台北28日電）歌王周杰倫推出新專輯「太陽之子」，數位專輯4天內銷售量突破264萬張，各大數位平台也在多個城市推出周杰倫巨幕電子看板，其中在美國紐約時代廣場同時有4幅看板登場。",
+      "published_at": "Sat, 28 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽之子》數位版4天內銷量突破264萬張，並在紐約時代廣場等多個國際城市登上巨型電子看板，獲得全球平台大力宣傳。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2174,
+      "title": "「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！",
+      "link": "https://www.google.com/goto?url=CAESdQHuR6pNYSZqLcJTYh4ZHY3d-o2QeS27F1kw-o0dYMex36gSwsDdhqBX-LFvev5YPgEXf0N3m6qN534ZwLHfGit14UCL1ge-PlwQmPCyC8yGQuuYLWFaaf1vVbD7KpvPyamPZ9maOvnEYGkOUkXR2UNIIeJKYA%3D%3D",
+      "source": "Tavily (www.google.com)",
+      "snippet": "全世界累計專輯銷量突破3,000萬張，前作更榮登全球專輯銷量冠軍、有「C-POP之王」之稱的周杰倫，睽違約4年推出的第16張最新專輯《Children of the",
+      "published_at": "Thu, 06 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《Children of the Sun》日版正式發行，並同步推出親筆簽名、巡演周邊及海報抽獎活動，展現其C-POP之王的全球影響力。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2175,
+      "title": "周杰倫遭影射藏私生子喊告 女主角劉若雪發聲回應了",
+      "link": "https://www.google.com/goto?url=CAESsgIB7keqTQKrytaOGeZZCFCYzy3bmHAIVlbt_oGZZDtss4QRi6eZihp6WJ8vikjJX1lE3tq1r7GtNP4Dul5XZ4AcENhstQVKLBrL8SHDet23xb8X9oyPOTdf0tvxMNWCrHrJkCZiUTyoI3qjOi7G614dYSqFUbiWV0kJj-n8nMpGCTjU0yiHipoJ1_jGg1Dr2CfmSG9Efo0uCCvop9sG9IWqreB3N4u78QFdnvMtPruno5YDqRs195N2Vti7FkME9zHB7jufFcql1eJ8L_szy0MAEEx36xfbjtizRhNZGEA_pO4bD_9IObKuBk_Hq1StQYGC3iPW9kWTvifDDRNpNUYN60DUXcVCnRvWS2Jh1RppkB_AmEx1hI4fDKhFtHtaGqlXT3BhriMkWyyVRbiFxIANmck%3D",
+      "source": "Tavily (www.google.com)",
+      "snippet": "「周董」周杰倫家庭美滿，卻遭有「中國第一狗仔」之稱的卓偉爆料，影射一名華語樂壇三字天王有私生子。昨天周董所屬的杰威爾發出聲明闢謠，",
+      "published_at": "Sat, 08 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫遭狗仔影射有私生子，其公司已發聲明闢謠並揚言提告。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2176,
+      "title": "周杰倫苦勸劉畊宏「不要唱」！曝《披荊斬棘》必勝絕招：把肌肉露出來",
+      "link": "https://www.google.com/goto?url=CAESYAHuR6pN65Ai2W0MxhkksY-nqLYJUwYe5IwrO5JoqJ3Xp6nmcLyv6jV0zPtz8qALNEqG0stMSazNSIw5h5yBcHwAHIXblkV7X1o7cUKL-zisfxFCfZEIXHosr_jU_IHgQg%3D%3D",
+      "source": "Tavily (www.google.com)",
+      "snippet": "中國綜藝節目《披荊斬棘2026》近日正式開播，劉畊宏這回代表台灣參戰，即將與眾多男星同台較勁。沒想到比賽都還沒正式開始，他先向多年好友周杰倫求救，希望對方傳授",
+      "published_at": "Mon, 10 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫幽默建議好友劉畊宏在《披荊斬棘2026》中展現肌肉而非唱歌，展現兩人深厚情誼。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2177,
+      "title": "劉嘉玲撞錶周杰倫 戴千萬勞力士彩虹錶力挺周星馳",
+      "link": "https://www.google.com/goto?url=CAESYAHuR6pNbePNTru_JXrPQyqKMceVAvL8T2bHVuygGzC4_y8DtDODPwDR7bZqFnvlq8BBjVshAfH-mP4FpQvLwa1tnMmKnfKaUEvOsg97m1xGk4YulTXREVuuoGFfRIpAng%3D%3D",
+      "source": "Tavily (www.google.com)",
+      "snippet": "由「星爺」周星馳執導的電影《功夫女足》，在大陸上映後票房亮眼，已賣破百億元，他率領眾演員們在香港宣傳，於片中飾演「師太」的劉嘉玲和星爺在記者",
+      "published_at": "Mon, 10 Aug 2026 12:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "新聞提及劉嘉玲佩戴的勞力士彩虹錶與周杰倫的錶款相似，主要內容為劉嘉玲宣傳周星馳電影。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2178,
+      "title": "劉畊宏登「披哥6」求指點 周杰倫笑喊「露肌肉就好」不要唱",
+      "link": "https://www.google.com/goto?url=CAEScAHuR6pNlhaUy6ntIfoGOZwUOZ3Kq8KCx1eu61PdBLvf6NGsBabvPHVVrQrvFYC3ydfZWQ8csuLc-R32aQi-3-X6lJi5YPBtb8SaSR_D2RYQXOTYj8yfO_raTgRZa09rEqG_nMbEYIXp4msvSY9GZ7A%3D",
+      "source": "Tavily (www.google.com)",
+      "snippet": "已移居到上海的劉畊宏，正式宣布參加「披荊斬棘2026」(簡稱披哥6)，節目組先釋出前導片，所有參加節目的男星們，可以各自找一名朋友視訊，在正式比賽",
+      "published_at": "Mon, 10 Aug 2026 06:00:00 GMT",
+      "collected_at": "2026-08-11 02:36:16",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫幽默建議好友劉畊宏參加《披荊斬棘6》時「露肌肉就好不要唱」，展現兩人好交情。",
+      "category": "生活",
+      "analyzed": 1
+    },
     {
       "id": 2152,
       "title": "「C-POP天王」周杰倫最新專輯日本版確定於8月5日（三）發行！豪華版、普通版雙版本同步推出- ジェイ・チョウ",
@@ -470,104 +554,31 @@
       "summary": "周杰倫被捲入知名狗仔爆料的「三字華語天王有私生子」傳聞，並疑似對此作出回應。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2147,
-      "title": "星巴克「周杰倫聯名杯」7/27開賣，5款新品、2款周杰倫聯名飲品一次看！",
-      "link": "https://www.google.com/goto?url=CAESjgEB7keqTVvTKKhRWPfP5qDTBhYr2gadPSBUrfyZ4IeeuGH3bMqoc_jGd92b3XtBU0t8AY56WvzJ_Ck25pMF0Rf2xot_iVTKKouoCA5FOFwA2vYxpjmu9J5XdGW_rHxpSGvHnbaIkYVdySFp9DKwjNFCX6W6TkmBHYJvC3rgSYu41da59aru1qhGebL6TYrm",
-      "source": "Tavily (www.google.com)",
-      "snippet": "延續聯名熱潮，全台星巴克將於8/3起推出兩款夏日限定飲品。包含果香沁涼的「冰蜜桃莫希托青」，以及最受矚目、由周杰倫親自參與風味設計且私心最愛的「",
-      "published_at": "Sun, 26 Jul 2026 02:00:00 GMT",
-      "collected_at": "2026-08-09 02:36:18",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "星巴克將推出周杰倫聯名杯及兩款夏日限定飲品，其中一款由周杰倫親自參與風味設計，預計於7/27及8/3陸續開賣。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2148,
-      "title": "昆凌遊丹麥意外曝周杰倫動向！帶3孩逛樂園「30萬香奈兒」當媽媽包",
-      "link": "https://www.google.com/goto?url=CAES0gIB7keqTWM8P3CsP3L-LmoL3wdtMxHfH1BijCjk-lGgqU-4wMlsqQxMaax0LKa9yoTnW02VqIg05jHJC-9uPud5iO4pCA0IdgdmDpE_eFyH_SM0uF2No2mfUr0FJL5Re9EizU3eIWnam_uo5lSSsobzcFyg8Sz5GIFImAYwmtU4ME-6GbvLSNnw5wzgIxddMv6oPTQ8IvoL81roxuRkbWlBk1ofudWkSgqMHMVlRk5hM2lYGZY6ohMuEqtP-uX_iVX6LxCkGXc1F73-_-Tshbn6H0o6JmHj82KdzzZyY4vySIz9i0t2DLzTS8bI2EL8lrZnS7XxQZw8hevz6ogNbDsOQW2108e7pEcSdllog3zFj-gnefBPoGjz_X9p5lQisQS6LvhVmnSG5zkOYeNs23uyCChUbo0-TbndLMtau0rBP58RS2GaJ42ybAsqCLSLO-YtrA%3D%3D",
-      "source": "Tavily (www.google.com)",
-      "snippet": "前陣子周杰倫無預警捲入私生子傳聞，相關話題一度在社群掀起討論，不過夫妻倆生活似乎未受影響，昆凌今（8）日分享最新Vlog，帶著3名孩子到丹麥遊樂園",
-      "published_at": "Sat, 08 Aug 2026 10:00:00 GMT",
-      "collected_at": "2026-08-09 02:36:18",
-      "sentiment": "中性",
-      "sentiment_score": 0.65,
-      "summary": "昆凌分享丹麥家庭Vlog，帶三孩逛樂園，顯示夫妻生活未受先前私生子傳聞影響，間接透露周杰倫動向。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2149,
-      "title": "周杰倫9歲兒拜師學中醫 昆凌自曝被精準把脈",
-      "link": "https://www.google.com/goto?url=CAESawHuR6pN4fE0nqhm4z8ImjH5l_W62CTrrxbCLIk1Bbt348yKTHQj78RbSNtRIUHdQqLXoFtKtVh2lKAi8lMENEL9aU8LzrvFNmm9VzJpPmenQp5Bhq-2zqhM54mb0H1kB9aKecDKVSWR18WX",
-      "source": "Tavily (www.google.com)",
-      "snippet": "與周杰倫育有三名子女的昆凌，近日參加大陸綜藝節目《中餐廳》時分享家庭趣事。她提到，9歲的兒子羅密歐（Romeo）最近迷上中醫把脈，不僅獲中醫師親自",
-      "published_at": "Sat, 08 Aug 2026 20:00:00 GMT",
-      "collected_at": "2026-08-09 02:36:18",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "昆凌在節目中分享周杰倫9歲兒子羅密歐迷上中醫把脈，並精準把脈昆凌的趣事。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2150,
-      "title": "四天全勤到場！周杰倫演唱會「隱藏功臣是他」網狂讚：真的很厲害 | 娛樂 | 三立新聞網 SETN.COM",
-      "link": "https://www.setn.com/news/1576085",
-      "source": "Tavily (www.setn.com)",
-      "snippet": "娛樂中心／徐珮華報導\n\n天王周杰倫睽違7年在台灣舉行演唱會，一連四場昨（8）晚圓滿落幕，不過不少歌迷意猶未盡，社群平台相關討論依舊熱烈。除了天王本人及江蕙、動力火車、張惠妹、五月天等嘉賓，為演唱會帶來滿滿亮點與驚喜，有網友點出擔任串場主持人的阿Ken（林暐恆）表現也相當突出，直呼他簡直是此次開唱的隱藏功臣。\n\n▲周杰倫大巨蛋演唱會圓滿落幕。（圖／杰威爾提供）\n\n阿Ken出道20多年來，有著《全民大悶鍋》、《大學生了沒》等代表作，也曾多次主持大型頒獎典禮，功力相當深厚。身為周杰倫好友的他，義不容辭接下四場演唱會串場主持，金句狂發「大家等你7年了，7年是什麼概念？就是一個嬰兒可以變小學生，一個大學生可以變成醫生，而我們的一生，只想聽你的歌聲」、「這四天以來，有兩個全勤的藝人，一個站在舞台上方，另外一個就是阿Ken」。\n\n▲周杰倫（左）與阿Ken（右）有著好交情。（圖／翻攝自周杰倫IG） [...] 妙語如珠的精采表現，讓在場觀眾笑聲不斷，網友紛紛大讚「阿Ken真的很厲害」、「周杰倫以後演唱會不一定要帶小夥伴，可是一定要帶阿Ken」、「真的請對主持人了！幸好是他來主持，不然應該會冷場」、「Ken可以一直當杰倫的御用主持人嗎」、「阿Ken介紹藝人那part ，四場都很精彩，超有梗很活潑，完全炒熱氣氛」、「當每個人都還在回味周董演唱會，我卻想回味每一天的阿Ken」，在社群平台引發熱烈討論，功臣之一的評價可說是相當貼切。\n\n周杰倫大巨蛋開唱\n\n更多\n\n情侶檔詐周董歌迷　騙走588萬花完了\n\n情侶檔詐周董歌迷　騙走588萬花完了\n\n加1萬2售周董門票！他收檢舉怒：都看完了\n\n加1萬2售周董門票！他收檢舉怒：都看完了\n\n周杰倫就是屌　「周氏豪宅」市值破18億！\n\n周杰倫就是屌　「周氏豪宅」市值破18億！\n\n周杰倫\n\n阿Ken\n\n張惠妹\n\n五月天\n\n江蕙\n\n動力火車\n\n延伸閱讀\n\n15歲倒追27歲男懷孕！36歲美魔女當阿嬤了\n\n## 15歲倒追27歲男懷孕！36歲美魔女當阿嬤了\n\n姜厚任女友稱學歷「3碩1博」 台大發聲了\n\n## 姜厚任女友稱學歷「3碩1博」 台大發聲了 [...] 09:45\n\n周曉涵台語笑瘋全網　陳亞蘭放棄教學 \n\n09:35\n\n母入獄陸軍兒探監逃兵…躲一年判拘役59天 \n\n09:34\n\n台灣彩券開獎直播中 \n\n20:31\n\nLIVE三立+24小時直播 \n\n15:27\n\n三立iNEWS新聞台線上直播 \n\n18:00\n\n商場戰國來臨　台中「頂奢大道」逐漸成形 \n\n12:00\n\n台彩父親節推新刮刮樂千萬頭獎超「爸」氣 \n\n12:00\n\n「拍片人的多重宇宙」職涯論壇9/12登場！ \n\n10:30\n\n8國球員齊聚高雄　Formosa 7s掀足球熱潮 \n\n10:00\n\n理想混蛋號召粉絲跨海追星吃美食！ \n\n18:15\n\n改版三重抽\n\n首頁\n\n娛樂\n\n看新聞換好禮\n\n5\n\n即將獲得2枚\n\n0/50\n\n此篇Get2枚\n\n# 四天全勤到場！周杰倫演唱會「隱藏功臣是他」網狂讚：真的很厲害\n\n2024/12/09 11:23:00\n\n2024/12/09 11:39:33 更新\n\n娛樂中心／徐珮華報導",
-      "published_at": "Thu, 06 Aug 2026 02:00:00 GMT",
-      "collected_at": "2026-08-09 02:36:18",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "四天全勤到場！周杰倫演唱會「隱藏功臣是他」網狂讚：真的很厲害 | 娛樂 | 三立新聞網 SETN.COM",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2151,
-      "title": "周杰倫新歌〈鄉間的路〉首播 墨爾本取景展現電影感慢生活",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E6%AD%8C-%E9%84%89%E9%96%93%E7%9A%84%E8%B7%AF-%E9%A6%96%E6%92%AD-%E5%A2%A8%E7%88%BE%E6%9C%AC%E5%8F%96%E6%99%AF%E5%B1%95%E7%8F%BE%E9%9B%BB%E5%BD%B1%E6%84%9F%E6%85%A2%E7%94%9F%E6%B4%BB-100004316.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "打開App\n\n廣告\n\n中華日報\n\n# 周杰倫新歌〈鄉間的路〉首播 墨爾本取景展現電影感慢生活\n\nCDNS V\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n周杰倫在新歌〈鄉間的路〉MV中以帥氣的牛仔造型亮相，在墨爾本郊區的金色草地與穀倉前，營造出濃厚的異國鄉村氛圍。\n\n周杰倫在新歌〈鄉間的路〉MV中以帥氣的牛仔造型亮相，在墨爾本郊區的金色草地與穀倉前，營造出濃厚的異國鄉村氛圍。\n\n記者戴淑芳／台北報導\n\n樂壇天王周杰倫推出最新專輯《太陽之子》，勢如破竹！第5支MV〈鄉間的路〉13日於周杰倫官方YouTube正式登場，這支MV將畫面拉進墨爾本郊區的遼闊曠野，在夕陽餘暉與無邊田野之中，勾勒出一幅極具電影感的鄉村篇章。\n\n《太陽之子》除了新歌制霸各大數位音樂平台！數位專輯已突破317萬張！而出片不到2週的時間釋出4支MV，目前總點擊數已超過3327萬次！\n\n周杰倫非常喜歡公路旅行，這次他與友人搭著復古老爺貨卡穿梭在廣闊的鄉間道路上，沿途一幕幕的風景令人心曠神怡，「希望這首歌的誕生能與這些風景相呼應，讓旋律成為『可以被聽見的畫面』。」\n\n廣告\n\n廣告 [...] 廣告\n\n廣告\n\n〈鄉間的路〉MV於去年3月在墨爾本郊區拍攝，MV中可見周杰倫以牛仔風造型與友人彈著吉他、隨音樂舞動身體，一行人搭著復古貨卡前行，午後的微風、鄉村的穀倉、農場的拖拉機…，彷彿構築出一幅純樸的水彩畫，周杰倫還推著「稻草捲」，感受鄉村農忙的愉悅。\n\nMV中的整體造型也融入濃厚的鄉村牛仔元素，周杰倫一身皮革流蘇外套、牛仔帽與復古配件，搭配金黃色草地與木造穀倉的場景，營造出宛如置身異國鄉間的氛圍。\n\n〈鄉間的路〉主打療癒系鄉村風格(Country Pop)，以溫暖的吉他聲線為基底，融合自然感編曲與輕快節奏，讓人彷彿置身於開闊草原，在微風與陽光中緩緩前行。少了都市的緊湊與壓迫，多了一份從容與自在，也回應了周杰倫近年「慢生活」的體悟。\n\n登入後即可張貼留言。\n\n廣告\n\n暫無留言\n\n## 其他人也在看\n\n### 周杰倫私生子傳聞真相曝光！孩子的親爹竟是他　劉若雪閨密出面全說了 [...] 日 期：2026年08月08日公司名稱：沛爾生醫-創(6949)主 旨：沛爾生醫-創股票面額由「新台幣10元」變更為「新台幣0.5元」，公告期間：115年08月06日至115年11月05日。發言人：宋明潭說",
-      "published_at": "Mon, 13 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-08-09 02:36:18",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫新歌〈鄉間的路〉首播 墨爾本取景展現電影感慢生活",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2131,
-      "title": "「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！",
-      "link": "https://www.google.com/goto?url=CAESdQHuR6pNk8OwZfhqiO5ncSAWN5ct-Lxz0E7Mncysi6ZWcabh4M0b6mtdlEfSt5lCDSAN1FgkwgNC8aEWs-Uf6tFpmvmUPgfXZ8mL0GZ0WXo0rNVEHujEBa_mJefGg457YuNwH13h_QGMSi96t1he4W3lNRBQlw%3D%3D",
-      "source": "Tavily (www.google.com)",
-      "snippet": "全世界累計專輯銷量突破3,000萬張，前作更榮登全球專輯銷量冠軍、有「C-POP之王」之稱的周杰倫，睽違約4年推出的第16張最新專輯《Children of the",
-      "published_at": "Thu, 06 Aug 2026 02:00:00 GMT",
-      "collected_at": "2026-08-08 02:29:27",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫睽違四年推出新專輯《Children of the Sun》日版今日正式發行，並同步舉辦親筆簽名、巡演周邊與非賣品海報抽獎活動。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 140,
-    "report_date": "2026-08-10",
-    "total_articles": 21,
-    "positive_count": 9,
-    "negative_count": 0,
-    "neutral_count": 12,
+    "id": 141,
+    "report_date": "2026-08-11",
+    "total_articles": 6,
+    "positive_count": 4,
+    "negative_count": 1,
+    "neutral_count": 1,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "「C-POP天王」周杰倫最新專輯日本版確定於8月5日（三）發行！豪華版、普通版雙版本同步推出- ジェイ・チョウ、周杰倫認了4歲愛女地位最高！新專輯為她寫歌 曝演唱會大改版〈黃金甲〉遭取代、周杰倫新專輯上線3天吸金4.6億 暗示下一支MV「滿多人喜歡這首」",
-    "created_at": "2026-08-10 02:54:16"
+    "key_events": "周杰倫新專輯4天賣264萬張　看板登紐約時代廣場 - 放言Fount Media、「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！、周杰倫遭影射藏私生子喊告 女主角劉若雪發聲回應了",
+    "created_at": "2026-08-11 02:36:36"
   },
   "recentReports": [
+    {
+      "id": 141,
+      "report_date": "2026-08-11",
+      "total_articles": 6,
+      "positive_count": 4,
+      "negative_count": 1,
+      "neutral_count": 1,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫新專輯4天賣264萬張　看板登紐約時代廣場 - 放言Fount Media、「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！、周杰倫遭影射藏私生子喊告 女主角劉若雪發聲回應了",
+      "created_at": "2026-08-11 02:36:36"
+    },
     {
       "id": 140,
       "report_date": "2026-08-10",
@@ -637,21 +648,6 @@
         "黃牛猖獗周邊遭搶"
       ],
       "created_at": "2026-08-05 03:46:32"
-    },
-    {
-      "id": 134,
-      "report_date": "2026-08-04",
-      "total_articles": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫新專輯《太陽之子》發行，銷售破億，MV藏求婚昆凌細節與世界名畫。演唱會斥資5億打造巨型機甲，但遇黃牛、周邊商品遭哄搶及「划水」爭議。愛徒派偉俊捲入感情風波，杰威爾強硬喊告，周杰倫簡短發聲。另有星巴克聯名商品與個人收藏消息。",
-      "key_events": [
-        "新專輯《太陽之子》發行",
-        "演唱會爭議不斷",
-        "愛徒派偉俊陷風波"
-      ],
-      "created_at": "2026-08-04 03:51:14"
     }
   ]
 }
