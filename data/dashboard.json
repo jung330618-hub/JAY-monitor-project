@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
-    "positive": 4,
+    "total": 3,
+    "positive": 3,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2210,
-    "positive": 671,
+    "total": 2213,
+    "positive": 674,
     "negative": 75,
     "neutral": 1464,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-08-02",
-      "total": 3,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.8
-    },
     {
       "date": "2026-08-03",
       "total": 3,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.8
+    },
+    {
+      "date": "2026-08-17",
+      "total": 3,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.9
     }
   ],
   "recentArticles": [
+    {
+      "id": 2211,
+      "title": "浪花兄弟參與屏東市名人講唱會　謝周杰倫提攜才有機會追夢 | 娛樂 | 中央社 CNA",
+      "link": "https://www.cna.com.tw/news/amov/202608160173.aspx",
+      "source": "Tavily (www.cna.com.tw)",
+      "snippet": "+ 美軍中央司令部司令登林肯號：官兵心理健康是首要之務\n  + 以色列拒絕川普加薩和平計畫　8個穆斯林國家譴責\n  + 紐約市長曼達尼秀中文還會捲舌　設下政治宣傳高標準\n  + 巨浪掀翻辛巴威渡輪增至84死　搜尋行動持續\n  + 推進加薩和平計畫　傳庫許納埃及會晤哈瑪斯新領導人\n  + 伊朗懸賞3萬美元擊殺或俘虜美軍　女性行動獎金加倍\n  + 烏克蘭空襲俄羅斯至少6死　俄軍稱擊落822架無人機\n  + 美韓自由護盾演習在即　美軍第8軍團首提第一島鏈\n 兩岸\n\n  朱鎔基告別式18日舉行 天安門等地降半旗\n\n  + 「牛來」爛到極致變黑馬 可望進入2026中國動畫票房前10\n  + 浙江學生聽蟬鳴4小時聽力受損 醫：群鳴達電鑽級噪音\n  + 共軍渤海黃海執行軍事任務　16日起一連兩週禁航\n  + 中國發改委：嚴格實施新能源車「帶電池報廢」\n  + 少子化衝擊 中國2025年幼兒園教師減少近22萬人\n  + 港媒：稱葬禮外交釋善意是過度解讀 低估中日結構性矛盾深度\n  + 中企首例 合盛硅業從美國涉疆強迫勞動名單移除\n  + 中國貨輪經北冰洋駛往歐洲 北極航線夏季常態化開航\n 產經 [...] + 日本啟動火星衛星探測　有望首度揭開火衛一等衛星起源\n  + 10歲許庭維矽谷發明展摘金　電子鼻盼助美防堵芬太尼\n  + 傳蘋果攜手阿里巴巴　為中國版iPhone打造專屬AI\n  + Google Pixel 11系列登台　晶片採台積電3奈米\n  + Google Pixel手機新增手語轉文字　聽障者溝通再進化\n  + Google Pixel 11系列手機　晶片升級、售價調漲\n  + Google成長最快產品　Gemini每月活躍用戶數破10億\n  + 傳輝達開發Nemotron 4　挑戰全球頂尖開源模型\n 生活\n\n  靜脈曲張勿輕忽　4招護腿遠離血栓\n\n  + 台塑石化汽柴油價格不調整\n  + 大低壓帶影響一週　17日水氣最盛雲林以南防局部豪雨\n  + 資深車長3年2次酒駕　台鐵：涉隱匿不報將懲處\n  + 苗栗台中防豪雨 新北以南花東及宜蘭山區局部大雨\n  + 台中防豪雨 西半部、花東及宜蘭山區有局部大雨\n  + 研究證實車水馬龍釀肺阻塞　醫籲高風險族群篩檢\n  + 午後對流旺盛 7縣市留意大雷雨\n  + 星宇航空藝術機空山金抵台　8月20日首航東京成田\n 社會 [...] + 彭明敏冥誕　跨世代齊聚傳承精神\n  + 畢卡索版畫失竊8年後　美國一房東清理出租公寓時發現尋回\n  + 睽違22年迎新車 高鐵新車正式抵台\n  + 阿根廷棄養獅子老虎 動保團體拚跨國援救\n  + 羅馬尼亞挽救號稱減碳核能　不惜炸河床毀生態下場更慘\n  + 奮起湖現烤甜甜圈前進雅加達！印尼民眾熱情體驗台灣旅展\n  + 若台海衝突 小馬可仕：不許從菲攻擊\n  + 海馬士又快又準火力強　台灣與烏克蘭克敵利器\n 全球中央\n\n  改變世界的力量　唐獎得主9月來台\n\n  + 臺日共創AI文明時代的產業版圖與國際合作模式\n  + 波蘭醫師透過特殊歸化在台灣有了新家\n  + 聊天太累不聊也無妨 Z世代樂享「軟社交」\n  + 體操貓王受傷過更強大 唐嘉鴻備戰亞運拚摘金\n  + 醫療職場霸凌防治 應提升至醫院治理層次\n  + 長照3.0老化不慌張 AI浪潮翻轉照顧產業\n  + 機場服務費9月起調漲 學者指有助軟硬體建設\n  + 一個名字承載百年使命 林銀杏逆境寫下杏仁傳奇\n 東協財經\n\n  瑞峰擬設立泰國子公司　投資上限10億元",
+      "published_at": "Sun, 16 Aug 2026 10:27:00 GMT",
+      "collected_at": "2026-08-17 02:05:38",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "浪花兄弟在屏東市名人講唱會上，公開感謝周杰倫的提攜與支持，讓他們有機會追逐音樂夢想。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2212,
+      "title": "周杰倫懶理私生子謠言纏身 精心為昆凌送慶生驚喜 - 東張+",
+      "link": "https://www.mytvsuper.com/tc/scoopplus/entertainment/e-news/17866059390472/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%87%B6%E7%90%86%E7%A7%81%E7%94%9F%E5%AD%90%E8%AC%A0%E8%A8%80%E7%BA%8F%E8%BA%AB-%E7%B2%BE%E5%BF%83%E7%82%BA%E6%98%86%E5%87%8C%E9%80%81%E6%85%B6%E7%94%9F%E9%A9%9A%E5%96%9C-",
+      "source": "Tavily (www.mytvsuper.com)",
+      "snippet": "東張+ | 即時新聞 ‧ 時事熱話 - myTV SUPER Scoopplus 東張+ | 即時新聞 ‧ 時事熱話 - myTV SUPER Scoopplus\n\n# 周杰倫懶理私生子謠言纏身 精心為昆凌送慶生驚喜\n\n娛樂新聞 \n\n#### 娛樂新聞\n\nsource\n\n周杰倫懶理私生子謠言纏身 精心為昆凌送慶生驚喜 \n\n華語天王 周杰倫 同 昆凌結婚11年，夫妻倆感情向來甜蜜，雖然周董近日突然被內地傳媒指疑有私生子，而佢嘅好拍檔填詞人 方文山 又突然被爆料同Y女星有8年婚外情，雖然方文山已經澄清回應「謠言止於智者」，但隨後又有人繼續爆料公開疑似情書，仲話周董《天涯過客》MV嘅靚女都係方文山「集郵」而嚟。但呢連串紛紛擾擾都影響唔到周董為愛妻慶生嘅好心情！ [...] 8月12號就係昆凌33歲生日，周董一早就喺社交平台高調預告「今天要好好慶祝一下」，而晚上就揭曉佢所準備嘅驚喜，就係為愛妻準備燭光晚餐以及小型樂隊！周董寫上：「A little birthday surprise for you, my love. Hope you like it! Happy birthday! I hope you’re always happy, healthy, and smiling. Love you always.」向老婆表白，大放閃光彈。 [...] 至於昆凌就發文多謝老公嘅生日驚喜，仲話：「Had such a great night with some of my favourite people 🤍 Thank you to all my dear friends who came to celebrate with me, and thank you everyone for all the lovely birthday wishes. Feeling very loved and grateful! ✨ @jaychou thank you for organizing everything」  \n\n其實回顧往年，周董為昆凌慶祝生日嘅心思真係花招百出，無論係餐廳包場、遊艇派對都試過，甚至搵埋好朋友幫手上演《楚門的世界》，將驚喜做到最好，將「Happy wife, Happy life」嘅婚姻生存法則實行到底。",
+      "published_at": "Sat, 15 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-17 02:05:38",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫不理會私生子謠言，為昆凌精心準備生日驚喜，展現夫妻甜蜜感情。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2213,
+      "title": "燭光音樂會3大必看｜迪士尼+宮崎駿+周杰倫　瑰麗教堂/獨家$315起",
+      "link": "https://www.hk01.com/%E9%A3%9F%E7%8E%A9%E8%B2%B7/1036026/%E7%87%AD%E5%85%89%E9%9F%B3%E6%A8%82%E6%9C%833%E5%A4%A7%E5%BF%85%E7%9C%8B-%E8%BF%AA%E5%A3%AB%E5%B0%BC-%E5%AE%AE%E5%B4%8E%E9%A7%BF-%E5%91%A8%E6%9D%B0%E5%80%AB-%E7%91%B0%E9%BA%97%E6%95%99%E5%A0%82-%E7%8D%A8%E5%AE%B6-315%E8%B5%B7",
+      "source": "Tavily (www.hk01.com)",
+      "snippet": "周杰倫燭光音樂會  \n日期：2026年8月22日、29日（星期六）  \n時間：19:00（每節時長60分鐘）  \n地點：循道衞理聯合教會國際禮拜堂  \n  \nZone A (Ground Floor)  \n優惠價（2位）：$720｜原價$800｜人均$360  \n單人票（大小同價）：$400  \n  \nZone B (Upper Floor)  \n優惠價（2位）：$630｜原價$700｜人均$315  \n單人票（大小同價）：$350\n\n👉🏻循道衞理聯合教會國際禮拜堂｜周杰倫燭光音樂會｜獨家9折門票✨\n\n歌單參考：《夜曲》、《髮如雪》、《菊花台》、《青花瓷》、《七里香》、《千里之外》、《不能說的祕密》、《蘭亭序》、《蒲公英的約定》、《Mojito》、《稻香》、《告白氣球》\n\n## EGA燭光音樂會｜門票有什麼優惠？\n\nEGA燭光音樂會現時有二人同行獨家9折優惠，人均低至$315即可入場！ [...] 歌單參考：風之谷《Kushana No Sinryaku》、魔法公主《The Journey to the West》、魔女宅急便《A Town With an Ocean View》、魔女宅急便《Departure》、龍貓《Stroll》、龍貓《Tonari No Totoro》、千與千尋《One Summer's Day》、千與千尋《Always With Me》、千與千尋《Waltz of Chihiro》、哈爾移動城堡《The Merry go round of life》、天空之城《carrying you》\n\n### EGA燭光音樂會【3】周杰倫燭光音樂會——重新演繹周氏情歌／燭光＋周杰倫的夢幻相遇\n\n周杰倫的歌已經浪漫至極，假如再加上燭光和弦樂，又會有什麼新火花？周杰倫燭光音樂會將為觀眾呈獻多首「周氏情歌」，包括被歌迷視為「神曲」的《夜曲》；以及《髮如雪》、《菊花台》、《青花瓷》等多首中國風經典，還有充滿畫面感的同名電影主題曲《不能說的秘密》亦將以弦樂一一重現，帶領觀眾在搖曳的微光中，重溫青春裡最動人的回憶與感動！ [...] 歌單參考：木偶奇遇記《When You Wish Upon a Star》、獅子王《Can You Feel the Love Tonight》、魔髮奇緣《I See the Light》、灰姑娘《A Dream is a Wish Your Heart Makes》、睡公主《Sleeping Beauty Waltz》、花木蘭《Reflection》、風中奇緣《Colors of the Wind》、魔雪奇緣《Let it Go》、小魚仙《Part of Your World》、美女與野獸《Beauty and the Beast》、白雪公主《Someday My Prince will Come》、玩轉極樂園《Remember Me》、阿拉丁《A Whole New World》\n\n### EGA燭光音樂會【2】宮崎駿燭光音樂會——感受日本殿堂級作曲家久石讓的魅力",
+      "published_at": "Thu, 13 Aug 2026 02:10:45 GMT",
+      "collected_at": "2026-08-17 02:05:38",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫燭光音樂會將以弦樂重新演繹其多首經典情歌，提供獨特的浪漫體驗，並推出門票優惠。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 2206,
       "title": "周杰倫《聽媽媽的話》傳唱20年 成跨世代經典｜大紀元時報 香港｜獨立敢言的良心媒體",
@@ -512,66 +554,39 @@
       "summary": "Jay Chou's team slams rumours of illegitimate child - Yahoo Life Singapore",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2186,
-      "title": "周杰倫鳥巢演唱會前夕曝光 抱小女兒抵京 8歲兒子展獨立一面",
-      "link": "https://www.google.com/goto?url=CAESjgEB7keqTT15zTFXHuwHqAot3boew6DQoM7DQcekTMNxafWGU4IfoKxnPnxw6CC7ztSBN0oToFDSFZZz3il_5Ytdl6tf4cCLGw6eA3hxRQ3XvxrbpxePZBmODK7et1uUdbz4mvGXnF5dh8MBjk5ugVvlPJ_XwBeEz7QrPra6W3nmNZQmeoUzZ5eygGtZn1VD",
-      "source": "Tavily (www.google.com)",
-      "snippet": "台灣天王周杰倫的演唱會行程再度引起關注，他於今日起，一連三晚在北京國家體育場「鳥巢」舉行《龍拳北京嘉年華2026》演唱會。這次演出不僅是他出道25",
-      "published_at": "Mon, 13 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫鳥巢演唱會前夕曝光 抱小女兒抵京 8歲兒子展獨立一面",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2187,
-      "title": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲 震撼場面曝光",
-      "link": "https://www.google.com/goto?url=CAESygIB7keqTYwWLkAW4zBKo1FFzb2ian-hThl_vH10lYIg1Qc8ilfalL4V5BPCCQ_McY6l5Dy9JuSnhiAtfdc6_SIgDoAIuoFZXM7AR6qSABLJLDzV0Xn6ZG_IBBDNfQ3kfmLQwuCIttp-7sJbP5ppqKGE4mjdsHiy-xXKbA0tRpOAc6mG3D0CvEm3WUJibpKb-hLtcTg-fKY8QZo_YfsHDNmPRyK1jyO8TyUlHStHgI_JNOr-9_qnfuUxg88B79YT-IHwK6yuGOZUsr1fvHViJEYmf2N9xj1o25jfcod7xK0_MrOnO9Mqk6SYnm-WzZBawhr2DLjtszIwy9H3nIqHAgEENSW7daWsRCPz0jiQCv2H-8HExmgLWqZOgZHQ8JtvJEKW5RFeI-DiqBQ2VekJgWT5XqSiGN8qb9YxBtOL_0Xv42X6vVUHPfEShs4%3D",
-      "source": "Tavily (www.google.com)",
-      "snippet": "周杰倫「煙花杭州嘉年華II」世界巡迴演唱會，昨（3）日起一連3天在杭州奧體中心體育場（大蓮花）登場，也是他第9次世界巡迴演唱會的首站。演唱會高規格",
-      "published_at": "Fri, 03 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲 震撼場面曝光",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2188,
-      "title": "周杰倫北京演唱會出狀況 付費周邊商品遭洗劫",
-      "link": "https://www.google.com/goto?url=CAESawHuR6pNSVPN7C1aoo_jWVTR7SwzHkH3XnQVa7V-nbqgbnoWOEfyucc29JSkX0CfhIER_5l6oKN8NFWyg3Xe5k5m9TR5Ztxl5V8s2CHYW3wAIQxcGgXBirnzCWixJBCrRZZCGqGPAGGzV70B",
-      "source": "Tavily (www.google.com)",
-      "snippet": "周杰倫全新巡迴「北京·龍拳嘉年華2026週杰倫演唱會」自6月26日起，一連三晚在「北京鳥巢」舉行，三晚共吸引近19.5萬人進場觀看。",
-      "published_at": "Mon, 13 Jul 2026 03:00:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "周杰倫北京演唱會出狀況 付費周邊商品遭洗劫",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 146,
-    "report_date": "2026-08-16",
-    "total_articles": 5,
-    "positive_count": 4,
+    "id": 147,
+    "report_date": "2026-08-17",
+    "total_articles": 3,
+    "positive_count": 3,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫今日新聞焦點集中於家庭與事業雙豐收。他為昆凌高調慶祝33歲生日，以燭光晚餐和「永遠愛妳」的告白粉碎私生子謠言，展現寵妻形象。事業方面，新歌《太陽之子》MV耗資億元，專輯銷售告捷並登上紐約時代廣場，經典歌曲《聽媽媽的話》也傳唱20年。演唱會方面，新巡演排到明年，北京場周邊遭洗劫但門票加開。此外，他與星巴克推出聯名商品，並幽默建議劉畊宏在節目中「露肌肉就好」。其御用作詞人方文山則傳出感情糾紛，已發聲明澄清。",
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期新聞不斷，首先為愛妻昆凌高調慶祝33歲生日，舉辦浪漫燭光晚宴並深情告白「永遠愛妳」，此舉成功粉碎了近期纏身的私生子謠言，其團隊及相關當事人也出面澄清。在音樂事業方面，周杰倫新專輯《太陽之子》日版正式發行，MV耗資上億元打造，不僅創下銷售佳績，狂賣264萬張，更成功登上紐約時代廣場。同時，經典歌曲《聽媽媽的話》傳唱20年，成為跨世代神曲。演唱會方面，新巡演已排到明年，門票加開，但北京場周邊商品遭洗劫，杭州場則引發「划水」爭議。此外，周杰倫的御用作詞人方文山也捲入出軌傳聞，本人已發聲明澄清。星巴克也推出周杰倫聯名系列，而他對劉畊宏參與《披荊斬棘》的「露肌肉」建議也引發熱議。",
     "key_events": [
-      "高調為妻慶生",
-      "澄清私生子謠言",
-      "新專輯銷量告捷"
+      "寵妻破私生子謠言",
+      "新專輯銷量破紀錄",
+      "《聽媽媽的話》經典"
     ],
-    "created_at": "2026-08-16 02:08:26"
+    "created_at": "2026-08-17 02:05:59"
   },
   "recentReports": [
+    {
+      "id": 147,
+      "report_date": "2026-08-17",
+      "total_articles": 3,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期新聞不斷，首先為愛妻昆凌高調慶祝33歲生日，舉辦浪漫燭光晚宴並深情告白「永遠愛妳」，此舉成功粉碎了近期纏身的私生子謠言，其團隊及相關當事人也出面澄清。在音樂事業方面，周杰倫新專輯《太陽之子》日版正式發行，MV耗資上億元打造，不僅創下銷售佳績，狂賣264萬張，更成功登上紐約時代廣場。同時，經典歌曲《聽媽媽的話》傳唱20年，成為跨世代神曲。演唱會方面，新巡演已排到明年，門票加開，但北京場周邊商品遭洗劫，杭州場則引發「划水」爭議。此外，周杰倫的御用作詞人方文山也捲入出軌傳聞，本人已發聲明澄清。星巴克也推出周杰倫聯名系列，而他對劉畊宏參與《披荊斬棘》的「露肌肉」建議也引發熱議。",
+      "key_events": [
+        "寵妻破私生子謠言",
+        "新專輯銷量破紀錄",
+        "《聽媽媽的話》經典"
+      ],
+      "created_at": "2026-08-17 02:05:59"
+    },
     {
       "id": 146,
       "report_date": "2026-08-16",
@@ -653,17 +668,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫新專輯4天賣264萬張　看板登紐約時代廣場 - 放言Fount Media、「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！、周杰倫遭影射藏私生子喊告 女主角劉若雪發聲回應了",
       "created_at": "2026-08-11 02:36:36"
-    },
-    {
-      "id": 140,
-      "report_date": "2026-08-10",
-      "total_articles": 21,
-      "positive_count": 9,
-      "negative_count": 0,
-      "neutral_count": 12,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "「C-POP天王」周杰倫最新專輯日本版確定於8月5日（三）發行！豪華版、普通版雙版本同步推出- ジェイ・チョウ、周杰倫認了4歲愛女地位最高！新專輯為她寫歌 曝演唱會大改版〈黃金甲〉遭取代、周杰倫新專輯上線3天吸金4.6億 暗示下一支MV「滿多人喜歡這首」",
-      "created_at": "2026-08-10 02:54:16"
     }
   ]
 }
