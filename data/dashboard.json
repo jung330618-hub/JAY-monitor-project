@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 3,
+    "total": 6,
+    "positive": 5,
     "negative": 0,
-    "neutral": 0
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2213,
-    "positive": 674,
+    "total": 2219,
+    "positive": 679,
     "negative": 75,
-    "neutral": 1464,
+    "neutral": 1465,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-08-03",
-      "total": 3,
-      "positive": 1,
-      "negative": 1,
-      "neutral": 1,
-      "avg_score": 0.53
-    },
     {
       "date": "2026-08-04",
       "total": 1,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.9
+    },
+    {
+      "date": "2026-08-18",
+      "total": 6,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.83
     }
   ],
   "recentArticles": [
+    {
+      "id": 2214,
+      "title": "國立教育廣播電台",
+      "link": "https://www.ner.gov.tw/Program/Episode/26033116372993988",
+      "source": "Tavily (www.ner.gov.tw)",
+      "snippet": "跳到主要內容\n\n0:00\n\n國立教育廣播電臺入口網\n\n Aa\n\n節目資訊\n\n本日節目節目預告主持人Channel+PodcastApp下載收聽頻率\n\n節目總覽\n\n全部\n\n各臺頻道\n\n臺北總臺彰化分臺高雄分臺花蓮分臺臺中節目中心臺東分臺\n\n文教新聞\n\n全部\n\n語言學習\n\n全部\n\n活動參與\n\n活動報名參訪申請參訪花絮金聲獎\n\n公告資訊\n\n布告欄檔案應用申請政府資訊公開意見調查常見問題\n\n關於本臺\n\n本臺願景首長專區業務職掌電臺臺呼大事紀要得獎榮耀好站連結雙語詞彙\n\n搜尋\n\n登入\n\n國立教育廣播電臺入口網\n\n搜尋登入\n\n Language\nEN網站導覽\n\n國立教育廣播電臺入口網\n\n 地址：(100052) 臺北市中正區南海路45號\n 電話：(02) 2388-0600\n 傳真：(02) 2389-3126\n TANET VOIP：99160500\n 服務信箱：service@ner.gov.tw\n 瀏覽器建議使用 Chrome\n\n 聯絡我們資訊安全政策隱私權保護政策版權宣告\n\n播放清單\n\n播放清單尚無項目\n\n名畫大逃殺：直擊周杰倫《太陽之子》MV中12位藝術瘋子（上集） | 國立教育廣播電台",
+      "published_at": "Fri, 14 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "國立教育廣播電台節目探討周杰倫歌曲《太陽之子》MV中融入的藝術元素與人物。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2215,
+      "title": "周杰倫被4歲小女兒化妝！一看「驚人成品」險爆粗口 釣出昆凌猛虧",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%A2%AB4%E6%AD%B2%E5%B0%8F%E5%A5%B3%E5%85%92%E5%8C%96%E5%A6%9D-%E7%9C%8B-%E9%A9%9A%E4%BA%BA%E6%88%90%E5%93%81-%E9%9A%AA%E7%88%86%E7%B2%97%E5%8F%A3-%E9%87%A3%E5%87%BA%E6%98%86%E5%87%8C%E7%8C%9B%E8%99%A7-053700605.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "天王周杰倫和妻子昆凌育有2女1子，其中，他和小女兒Jacinda感情特別好，為她創作歌曲〈女兒殿下〉，她還在歌詞中童言童語喊出「我美嗎」，",
+      "published_at": "Mon, 17 Aug 2026 06:00:00 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫被4歲小女兒化妝，對其成果感到驚訝，展現了他與女兒溫馨幽默的家庭互動。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2216,
+      "title": "周杰倫親錄音 喚醒八仙塵爆倖存者",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%A6%AA%E9%8C%84%E9%9F%B3-%E5%96%9A%E9%86%92%E5%85%AB%E4%BB%99%E5%A1%B5%E7%88%86%E5%80%96%E5%AD%98%E8%80%85-201000637.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "沈玉琳主持《百分百娛樂》最新一集邀請紀言愷、薔薔以及多位「生命鬥士」來賓分享經歷生死關頭的驚險故事，當中八仙塵爆倖存者「修哥」憶及現場一開始",
+      "published_at": "Mon, 17 Aug 2026 20:00:00 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫親自錄音幫助八仙塵爆倖存者「修哥」恢復意識，展現其關懷弱勢的正面形象。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2217,
+      "title": "Will Copico Gain Post-2000s Generation Popularity After Replacing Spokesperson Jay Chou With Zhang Linghe?",
+      "link": "https://eu.36kr.com/en/p/3937226419256455",
+      "source": "Tavily (eu.36kr.com)",
+      "snippet": "Having listened to Jay Chou's songs does not mean you are a big fan of him, only having used the products endorsed by Jay Chou counts as a true fan. In any case, Copico potato chips printed with Jay Chou's thumbs-up gesture are definitely one of the most familiar snacks for the post-90s generation. (Photo/Screenshot of Copico advertisement) [...] Your deskmate back then could still prop up the textbook and sneak a bite, but you who suffer from hypertension, hyperglycemia and hyperlipidemia pick up the bag and then put it back.\n\n## 01\n\n## The former top-stream brand,\n\n## praised even by Jay Chou\n\nCopico's popularity among the post-80s and post-90s generations back then was half attributed to Jay Chou's \"magic assist\". [...] In 2005, Jay Chou signed a contract with Copico, which had been established for only two years, and became its first spokesperson. After that, Copico was frequently broadcast on prime time slots of major satellite TV stations across the country. People all over China watched Jay Chou play basketball in the gym and play the piano by the sea, and also remembered the slogan \"Happy every moment, my Copico\".",
+      "published_at": "Fri, 14 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "新聞回顧周杰倫過去為可比克薯片代言的成功，強調他對品牌在80後、90後世代中的巨大影響力。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2218,
+      "title": "RIMOWA unites Jay Chou and Fan Zhendong for new ad film",
+      "link": "https://daoinsights.com/news/rimowa-jay-chou-fan-zhendong",
+      "source": "Tavily (daoinsights.com)",
+      "snippet": "### The Dao view: Jay Chou and Fan Zhendong team well for the product message\n\n RIMOWA and Jay Chou team up with Fan Zhendong\n\nImages: Rednote/RIMOWA日默瓦\n\n \n\nChou and Fan give RIMOWA two versions of the same ideal. While Chou brings cultural longevity, having remained relevant for more than two decades, Fan represents discipline, achievement and movement, particularly since taking his career to Germany. [...] RIMOWA x Jay Chou and Fan Zhendong: Key takeaways\n\n RIMOWA has brought Jay Chou and Olympic champion Fan Zhendong together for their first joint campaign\n The film draws on Chou’s 2003 table tennis-themed song Class 3-2\n Fan’s bespoke racket case introduces RIMOWA’s new high-end customisation service [...] We’re backstage on an ad shoot. During a break in filming, a table tennis ball rolls towards Jay Chou (周杰伦). One look is enough for his opponent. He grabs equipment from a RIMOWA (日默瓦) case and begins an impromptu match. Jay Chou’s 2003 song ‘Class 3-2’ raises the stakes as RIMOWA’s new faces battle the pressure to finish first.\n\n> The campaign film is not just a celebrity mash up\n\n \n\nVideo: Rednote/RIMOWA日默瓦",
+      "published_at": "Wed, 12 Aug 2026 15:24:24 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與范振東攜手為RIMOWA拍攝新廣告，巧妙結合周杰倫的歌曲《三年二班》，展現品牌精神與兩位代言人的特質。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2219,
+      "title": "周杰倫一手打造！浪花兄弟合體屏東Darren回鄉見媽堅持的理由變了 | 音樂 | 噓！星聞",
+      "link": "https://stars.udn.com/star/story/10092/9694649",
+      "source": "Tavily (stars.udn.com)",
+      "snippet": "### 全產品速覽\n\n#### 新聞評論\n\n聯合新聞網 河好如初 陽光行動 聯合報數位版 聯合70 轉角國際 倡議家 世界日報 新聞話題\n\n#### 服務\n\n會員中心 U利點數 我的新聞 歷史新聞 活動專區 udn粉絲團 udn line 好友\n\n#### 股市理財\n\n經濟日報網 房地產 中經社 樂透 發票\n\n#### 生活娛樂\n\n噓！星聞 優人物 udnSTYLE 500輯 遊戲角落 發燒車訊 元氣網 橘世代 寵物部落 科技玩家 女子漾 報時光\n\n#### 運動\n\nudn NBA 野球夢田 HBL\n\n#### 閱讀創作\n\n琅琅悅讀 琅琅書店 琅琅原創 一刻鯨選 U好學 聯副70 udn部落格 聯合文學 聯經出版 聯文雜誌\n\n#### 文創購物\n\n數位文創 IP 授權 瘋活動 售票網 時光商號 時光自造所 品牌故事館\n\n#### 更多產品\n\n聯合知識庫 聯合電子報 聯合影音網 聯合學苑 有行旅 APP行動網 關於我們\n\n\n\n快訊\n\n### 李蒨蓉按摩店遇夫妻抓馬　老公躺隔壁遭老婆衝進來「抓人」\n\n### 蕭伊深夜再拋震撼彈 公開和Joeman對話「預約全套性病檢查」 [...] ### 李蒨蓉按摩店遇夫妻抓馬　老公躺隔壁遭老婆衝進來「抓人」\n\n### 蕭伊深夜再拋震撼彈 公開和Joeman對話「預約全套性病檢查」\n\n噓！星聞 音樂 周杰倫一手打造！浪花兄弟合體屏東Darren回鄉見媽堅持的理由變了\n\n# 周杰倫一手打造！浪花兄弟合體屏東Darren回鄉見媽堅持的理由變了\n\n2026-08-16 13:36 聯合報 記者陳慧貞／即時報導\n\n「浪花兄弟」Darren邱凱偉(右)、常青出席屏東名人講唱會。圖／杰威爾音樂提供  \n\n「浪花兄弟」Darren邱凱偉(右)、常青出席屏東名人講唱會。圖／杰威爾音樂提供\n\n雙人組合「浪花兄弟」昨（15日）重返屏東，出席屏東市公所主辦的「2026屏東市名人講唱會：浪花來襲、唱響屏東」。Darren邱凱偉、常青與屏東市長周佳琪跨界對談，分享演藝歷程與人生故事，並演唱經典歌曲「你是我的OK繃」等，兩人談起當年因周杰倫提攜組成「浪花兄弟」，並分享團名寓意，滿滿回憶殺。 [...] 久違以「浪花兄弟」身分重返舞台，常青感謝周杰倫當年讓害羞的自己有機會體驗歌手身分，Darren則回憶起當時取名過程，從眾多名字當中最後確認取名「浪花兄弟」，除了兩人外型因為長髮像浪人外，更寓意人生如浪花，有起有落，但總會一波接一波、再次攀上高峰。\n\n演出中段，Darren與「吉他彈指天后」林美均合作演唱台語歌曲「我今仔日無想欲飛」，鼓勵年輕人追夢累了就先休息，「休息後再出發，一定能飛得更高更好」。身為屏東人的他，近期在三立8點檔「針線緣」客串演出，台語表現獲網友好評，接下來還將演出公視「媽的發財金」及「無罪推定2」，為大量專業台語法律台詞苦練不懈，老婆ViVi更笑曝他為準備角色，連平時抽雪茄的小休閒都暫時放棄。\n\n談到屏東美食，Darren大方分享大腸包小腸、鹹酥雞、剉冰、燒烤火鍋，以及從小吃到大的「邱媽媽布丁」，還熱情邀請常青長住屏東、帶他吃遍家鄉美食。被問到低潮時如何排解壓力，常青笑說「放空」，平時會到淡水河邊獨處；Darren則靠開車、洗車放鬆，尤其從台北開車回屏東看媽媽的路程，是他難得能沉澱自己的時光。",
+      "published_at": "Sun, 16 Aug 2026 05:36:24 GMT",
+      "collected_at": "2026-08-18 02:00:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫一手打造的「浪花兄弟」在屏東合體舉辦講唱會，成員們感謝周杰倫當年的提攜，並分享演藝歷程與人生故事，充滿回憶殺。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2211,
       "title": "浪花兄弟參與屏東市名人講唱會　謝周杰倫提攜才有機會追夢 | 娛樂 | 中央社 CNA",
@@ -470,108 +554,31 @@
       "summary": "周杰倫睽違四年推出新專輯《太陽之子》，主打歌MV耗資億元打造，以好萊塢級特效呈現「獵魔警長」形象，獲得歌迷熱烈迴響與高度讚賞。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2180,
-      "title": "周杰倫御用作詞人方文山爆出婚內出軌？「情書」也外流 - 自由娛樂",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5535878",
-      "source": "Tavily (ent.ltn.com.tw)",
-      "snippet": "自由時報 \n\n 即時\n 熱門\n 政治\n 財富自由\n 軍武\n 社會\n 生活\n 健康\n 國際\n 地方\n 蒐奇\n 影音\n 財經\n 娛樂\n 汽車\n 時尚\n 體育\n 3 C\n 評論\n 藝文\n 玩咖\n 食譜\n 地產\n 求職\n\n娛樂首頁 即時新聞 熱門新聞 娛樂時尚 日韓 亞洲 歐美 電視 電影 音樂 星座 自由娛樂粉絲團自由娛樂粉絲團\n\n自由影音\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇\n\n財富自由 財經 娛樂 藝文 汽車 時尚 體育 3 C 評論 玩咖 食譜 地產 專區 服務\n\n自由電子報 APP 自由電子報粉絲團 自由電子報 Line 自由電子報 X 熱門新訊\n\n自由娛樂\n\n限制級\n\n###### 您即將進入之新聞內容 需滿18歲 方可瀏覽。\n\n未滿18歲  \n或不同意本條款離開離開) 我同意  \n我已年滿18歲進入進入)\n\n根據「電腦網路內容分級處理辦法」修正條文第六條第三款規定，已於網站首頁或各該限制級網頁，依台灣網站分級推廣基金會規定作標示。 台灣網站分級推廣基金會（TICRF）網站：\n\n娛樂  〉 最新消息\n\n# 周杰倫御用作詞人方文山爆出婚內出軌？「情書」也外流 [...] ### 姜厚任小24歲女友昔登《我猜》 吳宗憲現場盤問「舊名曝光」\n 姜厚任認愛慘變偵探劇！小24歲女友發聲：邏輯是為了接近真相 \n\n  ### 姜厚任認愛慘變偵探劇！小24歲女友發聲：邏輯是為了接近真相\n 吳申梅資產遭盜「鳩佔鵲巢」！報警寄出律師函最新進度曝光 \n\n  ### 吳申梅資產遭盜「鳩佔鵲巢」！報警寄出律師函最新進度曝光\n 不是席琳狄翁！潘若迪再出新作 沈玉琳女僕裝上身竟想起媽媽 \n\n  ### 不是席琳狄翁！潘若迪再出新作 沈玉琳女僕裝上身竟想起媽媽\n 卸下《神之路》主持棒 鄭仲茵首發聲：功成身退 \n\n  ### 卸下《神之路》主持棒 鄭仲茵首發聲：功成身退\n 揭BLACKPINK超混亂10周年內幕！韓媒竟幫YG講話：他們很委屈 \n\n  ### 揭BLACKPINK超混亂10周年內幕！韓媒竟幫YG講話：他們很委屈\n 阿Ken開剿姜厚任戀情疑點「不是笨是不想拆穿」 他5度回嗆「你們不懂」：我來教育你們 \n\n  ### 阿Ken開剿姜厚任戀情疑點「不是笨是不想拆穿」 他5度回嗆「你們不懂」：我來教育你們\n 窮忙結束  8月「3星座」準備翻身 努力終於變成錢 [...] ### 窮忙結束 8月「3星座」準備翻身 努力終於變成錢\n 立秋轉運、金星送財！「5星座」貴人引路連旺一個月\n 71歲姜厚任不演了！ 怒揭中國劇組「階級歧視」：我被當八流演員 \n\n  ### 71歲姜厚任不演了！ 怒揭中國劇組「階級歧視」：我被當八流演員\n\n載入中",
-      "published_at": "Tue, 11 Aug 2026 05:57:29 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "負面",
-      "sentiment_score": 0.3,
-      "summary": "周杰倫的御用作詞人方文山被爆出婚內出軌，並有「情書」外流。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2181,
-      "title": "周杰倫苦勸劉畊宏「不要唱」！曝《披荊斬棘》必勝絕招：把肌肉露出來 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/78454",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "Logo\n\nAI 搜尋AI 智慧搜尋搜尋\n\nadbuy\n\n我要爆料我要投書\n\nLINEFacebookInstagramThreadsYouTube\n\n快訊\n\n苗栗台3線驚悚自撞！白色車過彎打滑失控　猛撞燈桿基座　1死1重傷李逸洋缺席長崎原爆典禮　林楚茵緩頰：台日情誼不該因中國介入被分化以為隨招隨停？短裙妹趕不上飛機...拖行李闖停機坪「肉身擋機」 電價10月凍漲？龔明鑫：穩定物價是一貫立場、無選舉考量46歲登香港女首富！身家2800億「買美食只花250元」　甘比現身老店超親民我方抗議遭矮化　日網友狂罵長崎市長親中！灌爆社群「你對不起台灣人」手都在發抖！公務員考試爆5千人作弊　正妹從「132名暴衝到第1」淚崩：努力終於被看見 斷交3年還欠台灣逾130億！宏都拉斯公布「還債進度」竟只還6％　帳冊還吃台灣豆腐\n\n周杰倫苦勸劉畊宏「不要唱」！曝《披荊斬棘》必勝絕招：把肌肉露出來\n\n周杰倫（右）對於劉畊宏即將參賽《披荊斬棘2026》給出建議。翻攝willliu107 IG\n\n ｜即時 ｜娛樂\n\n# 周杰倫苦勸劉畊宏「不要唱」！曝《披荊斬棘》必勝絕招：把肌肉露出來 [...] mirror-daily-logo\n\n2026/08/10 06:20:00最後更新 2026/08/10 06:20:28\n\n記者：\n\n尤嬿妮\n\n周杰倫周杰倫 (Jay Chou)披荊斬棘披荊斬棘的哥哥劉畊宏本草綱目披荊斬棘2026彩虹天堂健身\n\n中國綜藝節目《披荊斬棘2026》近日正式開播，劉畊宏這回代表台灣參戰，即將與眾多男星同台較勁。沒想到比賽都還沒正式開始，他先向多年好友周杰倫求救，希望對方傳授舞台經驗，結果周杰倫不但沒認真替他打氣，反而一路虧到底，甚至得知節目採淘汰制後，直接催促好友趕快出局回來，逗趣互動笑翻眾人。\n\n## 周杰倫出招：不要唱、露肌肉\n\n對於劉畊宏即將登上競演舞台，周杰倫給出另類「生存攻略」，笑虧：「直播是很恐怖的事，音一定要到位，給你最好的建議是你不要唱，要做就做最有把握的事，最不會出錯的就是你的肌肉，把肌肉露出來，幫大家伴舞一下。」一番話讓劉畊宏只能苦笑回應，強調《披荊斬棘》畢竟不是健美比賽，不可能完全不開口唱歌，頂多考慮少唱一點。 [...] 劉畊宏即將參賽《披荊斬棘2026》。翻攝willliu107 IG\n\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\n### 延伸閱讀\n\n蔡依林唱一半「鹿頭斷了」！舞者嚇到急求救　全網歪樓笑瘋：鹿易十六時事\n\n蔡依林唱一半「鹿頭斷了」！舞者嚇到急求救　全網歪樓笑瘋：鹿易十六邵昕3年前移民美國再婚！另一半真實身分曝光　母親、兒女全留台灣時事\n\n邵昕3年前移民美國再婚！另一半真實身分曝光　母親、兒女全留台灣王菲57歲生日！謝霆鋒萬人面前連2次放閃　天后戴「老王帽」現身了時事\n\n王菲57歲生日！謝霆鋒萬人面前連2次放閃　天后戴「老王帽」現身了牽線慈濟高層就是他！跪拜證嚴法師打開信任窗口　檢揭「美國慈濟青年」李易儒人脈網絡社會\n\n牽線慈濟高層就是他！跪拜證嚴法師打開信任窗口　檢揭「美國慈濟青年」李易儒人脈網絡王凱過世當晚仍現身《百味人生》攝影棚！　製作人到靈堂慟喊：殺青了不用再來娛樂",
-      "published_at": "Sun, 09 Aug 2026 22:20:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫幽默建議好友劉畊宏參加《披荊斬棘2026》時「不要唱歌，只露肌肉」，展現兩人深厚友誼。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2182,
-      "title": "周杰倫御用作詞人方文山遭扯婚內出軌 發聲明澄清「疑似被報復」 - 自由娛樂",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5536119",
-      "source": "Tavily (ent.ltn.com.tw)",
-      "snippet": "自由時報 \n\n 即時\n 熱門\n 政治\n 財富自由\n 軍武\n 社會\n 生活\n 健康\n 國際\n 地方\n 蒐奇\n 影音\n 財經\n 娛樂\n 汽車\n 時尚\n 體育\n 3 C\n 評論\n 藝文\n 玩咖\n 食譜\n 地產\n 求職\n\n娛樂首頁 即時新聞 熱門新聞 娛樂時尚 日韓 亞洲 歐美 電視 電影 音樂 星座 自由娛樂粉絲團自由娛樂粉絲團\n\n自由影音\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇\n\n財富自由 財經 娛樂 藝文 汽車 時尚 體育 3 C 評論 玩咖 食譜 地產 專區 服務\n\n自由電子報 APP 自由電子報粉絲團 自由電子報 Line 自由電子報 X 熱門新訊\n\n自由娛樂\n\n 王凱今告別式！謝承均還原「相擁最後一面」 過世前2天還笑著喊馬幼興「爸爸」\n 王凱猝逝前一天被見「臉有倦容」 羅巧倫一句話成永別\n 王凱生前騎單車遭撞曾進ICU昏迷！夏宇禾淚揭他身體狀況\n\n限制級\n\n###### 您即將進入之新聞內容 需滿18歲 方可瀏覽。\n\n未滿18歲  \n或不同意本條款離開離開) 我同意  \n我已年滿18歲進入進入) [...] ### 農曆7月出遊必看！揭住飯店10大禁忌 命理師：進房先敲門還不夠\n 揭BLACKPINK超混亂10周年內幕！韓媒竟幫YG講話：他們很委屈 \n\n  ### 揭BLACKPINK超混亂10周年內幕！韓媒竟幫YG講話：他們很委屈\n 33歲女星不演了  揮別演藝圈轉行開計程車 \n\n  ### 33歲女星不演了 揮別演藝圈轉行開計程車\n 王祖賢59歲長這樣！脫下墨鏡正臉曝光 中國現蹤狀態驚人 \n\n  ### 王祖賢59歲長這樣！脫下墨鏡正臉曝光 中國現蹤狀態驚人\n 水星進獅子座 唐綺陽：立秋了，大家保重 \n\n  ### 水星進獅子座 唐綺陽：立秋了，大家保重\n （影）56歲玉女歌手孟庭葦消失台灣20年！ 離婚恢單兒子已19歲 \n\n  ### （影）56歲玉女歌手孟庭葦消失台灣20年！ 離婚恢單兒子已19歲\n 姜厚任小24歲女友昔登《我猜》 吳宗憲現場盤問「舊名曝光」 [...] ### 姜厚任小24歲女友昔登《我猜》 吳宗憲現場盤問「舊名曝光」\n 【8/9-8/15雨揚週運】好運正在路上！豬羊虎兔榮登「強運王」、6生肖遇貴人助攻\n 聽吳宗憲的話收掉早餐店！《綜藝大熱門》新人王燒光70萬「一天吃一餐」近況曝光\n\n載入中",
-      "published_at": "Tue, 11 Aug 2026 08:33:16 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫的御用作詞人方文山發聲明澄清婚內出軌傳聞，表示疑似遭到報復。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2183,
-      "title": "周杰倫搭檔方文山遭爆料「長期婚內出軌」　情書流出？助理回應了｜壹蘋新聞網",
-      "link": "https://news.nextapple.com/entertainment/20260811/D455CFFB29D3087EB8D94646FB3F838F",
-      "source": "Tavily (news.nextapple.com)",
-      "snippet": "作者簡介\n\n#### 王郁惠\n\n曾職《聯合報》、《自由時報》唱片線、日韓線記者，與活動公司、國際唱片公司平面宣傳，另也是集美麗、智慧與幽默感於一身的網路小主持人a.k.a臨演「肚邊」，有事聊聊天、沒事笑一笑。\n\n訂閱 RSS  | 更多文章\n\n點擊閱讀下一則新聞 點擊閱讀下一則新聞\n\n「小車銀優」自爆母胎單身！金旻奎靠眼神擄獲《海岸村》導演\n\n贊助壹蘋\n\n我要爆料\n\n分享\n\nloading\n\n壹蘋新聞網\n\n 2026蘋果愛美獎\n Focus+深度專頁\n 地產王\n 投訴爆料\n 2026選戰關鍵Go\n\n火線話題 閱讀更多\n\n 哥倫比亞世紀強震\n 姜厚任女友爭議\n 白海豚颱風來了\n 城鎮韌性(防空)演習演習)\n 慈濟遭詐10.6億疫苗佣金\n\n精選特輯 閱讀更多\n\n 今天我最美『主播特輯』\n 遠古探索\n 消費情報\n 消費警訊\n 壹蘋派生活美語\n\n關於我們 聯絡我們 隱私權說明\n\n追蹤我們：\n\n壹蘋新聞網-facebook粉絲團 壹蘋新聞網-instagram 壹蘋新聞網-youtube 壹蘋新聞網-line 壹蘋新聞網-google news\n\n壹蘋新聞網\n\n地產王 [...] Breaking news\n\n台中老翁揮刀反遭爆打　今宣告不治！家屬喊告\n\n「眾量級」開撕結果曝光！家寧全身而退　父、母、妹判決出爐\n\n1招吃王品現賺逾1000元　全台51門市變身\n\n水餃不用開火煮！「微波8分鐘」神招曝光　百萬人朝聖喊讚\n\n杜巧年銷增7倍！潮流美食前3縣市曝　北市非冠軍\n\n姜厚任女友「台大3碩1博」成謎　臉書學歷欄竟消失了\n\n 壹蘋新聞網\n 娛樂時尚\n # 周杰倫搭檔方文山遭爆料「長期婚內出軌」　情書流出？助理回應了\n\n設為偏好\n\n贊助壹蘋\n\n我要爆料\n\n分享\n\n記者  王郁惠 綜合報導\n\n> 【記者王郁惠／台北報導】先前周杰倫才被惡意影射有私生子，所屬杰威爾才發聲表示為子虛烏有的假消息，未料合作27年的作詞人好友方文山也被爆出婚外情疑雲，爆料者指他長期婚內出軌，方文山也回應了。\n\n方文山遭陸網爆料長期婚內出軌。資料照\n\n方文山遭陸網爆料長期婚內出軌。資料照 [...] 壹蘋新聞網\n\n地產王\n\n 市場交易\n 預售屋新屋開箱\n 律師解「房」",
-      "published_at": "Tue, 11 Aug 2026 05:28:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫的長期合作夥伴方文山遭陸網爆料長期婚內出軌，其助理已做出回應，文章也提及周杰倫先前曾被惡意影射有私生子。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2184,
-      "title": "劉嘉玲撞錶周杰倫 戴千萬勞力士彩虹錶力挺周星馳",
-      "link": "https://fashion.ettoday.net/news/3216696",
-      "source": "Tavily (fashion.ettoday.net)",
-      "snippet": "由「星爺」周星馳執導的電影《功夫女足》，在大陸上映後票房亮眼，已賣破百億元，他率領眾演員們在香港宣傳，於片中飾演「師太」的劉嘉玲和星爺在記者",
-      "published_at": "Tue, 11 Aug 2026 03:00:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "新聞提及劉嘉玲佩戴的千萬勞力士彩虹錶與周杰倫的錶款相似，但主要內容關於劉嘉玲和周星馳宣傳電影《功夫女足》。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2185,
-      "title": "Jay Chou's team slams rumours of illegitimate child - Yahoo Life Singapore",
-      "link": "https://sg.style.yahoo.com/jay-chous-team-slams-rumours-060900736.html",
-      "source": "Tavily (sg.style.yahoo.com)",
-      "snippet": "Skip to main\n\nNews\n\nFinance\n\nMail\n\nAdvertisement\n\nAdvertisement\n\nReturn to homepage\n\nYBrand\n\n# Jay Chou's team slams rumours of illegitimate child\n\nHeidi Hsia\n\n1 min read\n\nAdd Yahoo as a preferred source to see more of our stories on Google.\n\n6 Aug - Jay Chou's camp has recently slammed speculations that the singer-songwriter has an illegitimate child with another woman. [...] The whole issue sparked recently, when mainland paparazzo Zhuo Wei claimed that a certain three-character superstar in the Chinese music scene co-owns a catering and entertainment company in Xi'an with a woman surnamed Liu, and that they developed a romantic relationship.\n\nHe said that the woman eventually gave birth to a child, but the father was not named. However, Zhuo Wei provided key clues that prompted netizens to point to Jay Chou and his former business partner Liu Ruoxue.",
-      "published_at": "Fri, 07 Aug 2026 03:00:00 GMT",
-      "collected_at": "2026-08-12 03:06:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay Chou's team slams rumours of illegitimate child - Yahoo Life Singapore",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 147,
-    "report_date": "2026-08-17",
-    "total_articles": 3,
-    "positive_count": 3,
+    "id": 148,
+    "report_date": "2026-08-18",
+    "total_articles": 6,
+    "positive_count": 5,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫近期新聞不斷，首先為愛妻昆凌高調慶祝33歲生日，舉辦浪漫燭光晚宴並深情告白「永遠愛妳」，此舉成功粉碎了近期纏身的私生子謠言，其團隊及相關當事人也出面澄清。在音樂事業方面，周杰倫新專輯《太陽之子》日版正式發行，MV耗資上億元打造，不僅創下銷售佳績，狂賣264萬張，更成功登上紐約時代廣場。同時，經典歌曲《聽媽媽的話》傳唱20年，成為跨世代神曲。演唱會方面，新巡演已排到明年，門票加開，但北京場周邊商品遭洗劫，杭州場則引發「划水」爭議。此外，周杰倫的御用作詞人方文山也捲入出軌傳聞，本人已發聲明澄清。星巴克也推出周杰倫聯名系列，而他對劉畊宏參與《披荊斬棘》的「露肌肉」建議也引發熱議。",
-    "key_events": [
-      "寵妻破私生子謠言",
-      "新專輯銷量破紀錄",
-      "《聽媽媽的話》經典"
-    ],
-    "created_at": "2026-08-17 02:05:59"
+    "neutral_count": 1,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "國立教育廣播電台、周杰倫被4歲小女兒化妝！一看「驚人成品」險爆粗口 釣出昆凌猛虧、周杰倫親錄音 喚醒八仙塵爆倖存者",
+    "created_at": "2026-08-18 02:01:15"
   },
   "recentReports": [
+    {
+      "id": 148,
+      "report_date": "2026-08-18",
+      "total_articles": 6,
+      "positive_count": 5,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "國立教育廣播電台、周杰倫被4歲小女兒化妝！一看「驚人成品」險爆粗口 釣出昆凌猛虧、周杰倫親錄音 喚醒八仙塵爆倖存者",
+      "created_at": "2026-08-18 02:01:15"
+    },
     {
       "id": 147,
       "report_date": "2026-08-17",
@@ -657,17 +664,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫〈太陽之子〉耗資1億化身「獵魔警長」抓吸血鬼 老粉感動：沒歌詞聽不懂最對味、周杰倫御用作詞人方文山爆出婚內出軌？「情書」也外流 - 自由娛樂、周杰倫苦勸劉畊宏「不要唱」！曝《披荊斬棘》必勝絕招：把肌肉露出來 - 鏡報",
       "created_at": "2026-08-12 03:06:45"
-    },
-    {
-      "id": 141,
-      "report_date": "2026-08-11",
-      "total_articles": 6,
-      "positive_count": 4,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "周杰倫新專輯4天賣264萬張　看板登紐約時代廣場 - 放言Fount Media、「C-POP之王」周杰倫《Children of the Sun（太陽之子）》日版今日正式發行！親筆簽名、巡演周邊與非賣品海報抽獎活動同步開跑！、周杰倫遭影射藏私生子喊告 女主角劉若雪發聲回應了",
-      "created_at": "2026-08-11 02:36:36"
     }
   ]
 }
