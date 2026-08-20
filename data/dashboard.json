@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 8,
-    "positive": 4,
+    "total": 2,
+    "positive": 1,
     "negative": 0,
-    "neutral": 4
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2227,
-    "positive": 683,
+    "total": 2229,
+    "positive": 684,
     "negative": 75,
-    "neutral": 1469,
+    "neutral": 1470,
     "avg_score": 0.61
   },
   "trend": [
-    {
-      "date": "2026-08-05",
-      "total": 3,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.8
-    },
     {
       "date": "2026-08-06",
       "total": 6,
@@ -132,9 +124,45 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.71
+    },
+    {
+      "date": "2026-08-20",
+      "total": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.65
     }
   ],
   "recentArticles": [
+    {
+      "id": 2228,
+      "title": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post",
+      "link": "https://nypost.com/2026/01/29/entertainment/jamie-kennedy-looks-unrecognizable-in-la-while-riding-an-electric-scooter/",
+      "source": "Tavily (nypost.com)",
+      "snippet": "##### Maxwell claims 25 Epstein accomplices reached 'secret... A ’90s movie star who had his breakout role in the original “Scream” film looked unrecognizable riding around Los Angeles on an electric scooter. Jamie Kennedy, 55, was spotted zipping along a sidewalk with a scruffy beard, decked out in a classic Adidas track jacket. One of his biggest claims to fame was dating iconic 2000s girl-next-door actress Jennifer Love Hewitt from 2009 to 2010. These days, Kennedy keeps busy as a comedian, actor and producer, hitting the road for his national stand-up tour, popping up at conventions and working on new film projects, according to his official website. The '90s star was spotted zipping along a sidewalk with a scruffy beard, decked out in a classic Adidas track jacket. Lately, Kennedy keeps busy as a comedian, actor and producer, hitting the road for his national stand-up tour. The star had his breakout role in the original \"Scream\" film.",
+      "published_at": "Thu, 29 Jan 2026 19:04:47 GMT",
+      "collected_at": "2026-08-20 02:03:20",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2229,
+      "title": "「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media",
+      "link": "https://www.mirrormedia.mg/story/20260817-195ent-122150",
+      "source": "Tavily (www.mirrormedia.mg)",
+      "snippet": "# 「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌\n\nmm-logo\n\n娛樂\n\n！Darren邱凱偉與常青重返家鄉屏東，「浪花兄弟」睽違多年再度合體。杰威爾音樂\n\n發布時間：2026.08.17 12:21臺北時間\n\n更新時間：2026.08.17 12:23臺北時間\n\n文\n\n 葉婉如\n\nfacebook-shareline-share\n\n已複製連結\n\ndonate贊助本文加入訂閱會員\n\n周杰倫屏東新歌合體回憶殺浪花兄弟\n\n「浪花兄弟」睽違多年再度合體！Darren邱凱偉與常青（15日）重返家鄉屏東，出席屏東市公所主辦的「2026屏東市名人講唱會：浪花來襲、唱響屏東」，兩人以經典歌曲〈你是我的OK繃〉揭開序幕，熟悉旋律一響起，立刻掀起現場滿滿回憶殺。兩人也難得以「浪花兄弟」身分同台，分享當年在周杰倫提攜下成團的故事，讓粉絲直呼青春回來了。\n\n點按看下一則延伸閱讀文章 [...] 活動現場粉絲也不忘敲碗「浪花兄弟」推出新歌，Darren聽到後笑著表示自己也很期待，並請大家「拭目以待」。活動尾聲，兩人接連演唱3首經典歌曲，在滿場掌聲與歡呼聲中結束這場難得的合體演出，也讓不少粉絲期待「浪花兄弟」下一次再度登台。\n\n更新時間｜2026.08.17 12:23 臺北時間\n\n 美女議員宋麗華爆住處查扣「千萬現金珠寶」遭聲押　老公鄭任祐冷氣專利吸金案爆案外案 \n\n  美女議員宋麗華爆住處查扣「千萬現金珠寶」遭聲押　老公鄭任祐冷氣專利吸金案爆案外案\n 手寫情書內容疑外流…方文山遭爆與女藝人出軌　助理發聲這樣說\n\n  手寫情書內容疑外流…方文山遭爆與女藝人出軌　助理發聲這樣說\n 悲傷父親節！托嬰中心3月男嬰午睡後身亡　周春米：究責不會鬆手\n\n  悲傷父親節！托嬰中心3月男嬰午睡後身亡　周春米：究責不會鬆手\n 屏東3月大男嬰送托僅3天！午睡遭棉被悶死　「優等評鑑」托嬰中心回應了\n\n  屏東3月大男嬰送托僅3天！午睡遭棉被悶死　「優等評鑑」托嬰中心回應了\n\n小心意大意義  \n小額贊助鏡週刊！\n\ndonate贊助本文\n\n每期 $35元動態話題報導  \n無限閱讀解鎖新鮮事 [...] mirrormedia\n\n課程課程\n\n防詐鏡區魅力基隆房市熱話題台北畫刊房訊發燒榜黃國昌偷拍揭密更多\n\n最新\n\n娛樂頭條鏡大咖影劇專欄娛樂透視試鏡間穿衣鏡蘭蘭夫人\n\n焦點政治社會國際要聞\n\n財經投資理財頭家開講職場人語台灣名店台灣老店生意經財經最前線\n\n一鏡到底心內話鏡相人間深度報導話題人物人間告別鏡人物podcast\n\n好食好旅好飲裴社長手記\n\n生活\n\n消費運動健康\n\n車錶酒\n\n錶誌車誌酒誌奢華誌\n\n瑪法達\n\n瑪法達\n\n專欄\n\n鏡觀鏡論鏡評鏡報專欄名家專欄\n\n 訂閱電子雜誌\n 內容授權\n 廣告合作\n 下載APP\n 新聞自律綱要\n 《鏡週刊》AI使用準則\n\nlineweibofacebook-fanpageinstagrammirrormedia-rssemail\n\n快訊\n\n林口王多角戰／房市寒冬建商進入微利冰原期 亞昕3箭連發突圍快訊\n\n吳卓源進駐中國社交媒體拓展市場　負面如影隨形聲量不如預期快訊\n\n政府宣布普發1萬！張景森曝不反對原因　但奉勸各政黨早日跳出競價遊戲\n\n防詐鏡區魅力基隆房市熱話題台北畫刊房訊發燒榜黃國昌偷拍揭密\n\n更多\n\n2026.08.17 12:21臺北時間",
+      "published_at": "Mon, 17 Aug 2026 04:21:00 GMT",
+      "collected_at": "2026-08-20 02:03:20",
+      "sentiment": "正面",
+      "sentiment_score": 0.8,
+      "summary": "「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2220,
       "title": "周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面",
@@ -526,48 +554,31 @@
       "summary": "周杰倫的經典歌曲〈聽媽媽的話〉因其傳唱20年、傳達孝順精神及社會影響力，被譽為跨世代神曲。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2197,
-      "title": "周杰倫香港用餐被認出 服務員態度180度大轉變 好友揭驚人排場",
-      "link": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60379664/%E5%91%A8%E6%9D%B0%E5%80%AB%E9%A6%99%E6%B8%AF%E7%94%A8%E9%A4%90%E8%A2%AB%E8%AA%8D%E5%87%BA-%E6%9C%8D%E5%8B%99%E5%93%A1%E6%85%8B%E5%BA%A6180%E5%BA%A6%E5%A4%A7%E8%BD%89%E8%AE%8A-%E5%A5%BD%E5%8F%8B%E6%8F%AD%E9%A9%9A%E4%BA%BA%E6%8E%92%E5%A0%B4",
-      "source": "Tavily (www.hk01.com)",
-      "snippet": "華語樂壇天王周杰倫（周董）魅力無國界，無論走到哪都是眾人矚目的焦點。阿Ken日前上派翠克的Podcast節目「有空再聽」，在節目中爆料，曾與周杰倫.",
-      "published_at": "Fri, 14 Aug 2026 01:00:00 GMT",
-      "collected_at": "2026-08-14 03:08:39",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫在香港用餐時被認出，服務員態度因其天王身份而轉變，好友阿Ken也揭露了他的驚人排場。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2198,
-      "title": "周杰倫私生子傳聞真相曝光！孩子的親爹竟是他 劉若雪閨密出面全說了",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%A7%81%E7%94%9F%E5%AD%90%E5%82%B3%E8%81%9E%E7%9C%9F%E7%9B%B8%E6%9B%9D%E5%85%89-%E5%AD%A9%E5%AD%90%E7%9A%84%E8%A6%AA%E7%88%B9%E7%AB%9F%E6%98%AF%E4%BB%96-%E5%8A%89%E8%8B%A5%E9%9B%AA%E9%96%A8%E5%AF%86%E5%87%BA%E9%9D%A2%E5%85%A8%E8%AA%AA%E4%BA%86-035500340.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "天王周杰倫近日遭捲入「私生子」傳聞，引發兩岸網友熱烈討論。事件起因於大陸狗仔卓偉爆料，聲稱某位華語歌唱天王育有一名10多歲私生子，",
-      "published_at": "Sat, 08 Aug 2026 03:00:00 GMT",
-      "collected_at": "2026-08-14 03:08:39",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "新聞澄清周杰倫私生子傳聞為不實消息，指出孩子親爹另有其人，成功為周杰倫洗清不白之冤。",
-      "category": "爭議",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 149,
-    "report_date": "2026-08-19",
-    "total_articles": 8,
-    "positive_count": 4,
+    "id": 150,
+    "report_date": "2026-08-20",
+    "total_articles": 2,
+    "positive_count": 1,
     "negative_count": 0,
-    "neutral_count": 4,
+    "neutral_count": 1,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面、撇開私生子謠言 周杰倫高調寵妻為昆凌慶祝33歲生日、養出學霸兒／和周杰倫育有2女1子　昆凌認了曾當「控制狂媽媽」",
-    "created_at": "2026-08-19 02:04:28"
+    "key_events": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post、「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media、周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面",
+    "created_at": "2026-08-20 02:03:23"
   },
   "recentReports": [
+    {
+      "id": 150,
+      "report_date": "2026-08-20",
+      "total_articles": 2,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post、「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media、周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面",
+      "created_at": "2026-08-20 02:03:23"
+    },
     {
       "id": 149,
       "report_date": "2026-08-19",
@@ -649,21 +660,6 @@
         "澄清私生子謠言"
       ],
       "created_at": "2026-08-14 03:09:01"
-    },
-    {
-      "id": 143,
-      "report_date": "2026-08-13",
-      "total_articles": 5,
-      "positive_count": 3,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "周杰倫近日新聞多元，新專輯《太陽之子》在全球取得巨大成功，不僅登上紐約時代廣場，日本版也正式發行，展現C-POP天王影響力。演唱會方面，他斥資五億打造巨型機甲並加開門票，儘管北京場周邊遭洗劫、杭州場有「划水」質疑，熱度依舊。家庭生活上，周杰倫高調為昆凌慶生，寵妻形象深植人心，並透露為愛女寫歌，兒子則拜師學中醫。然而，其御用作詞人方文山捲入婚內出軌疑雲，已發聲明否認並稱疑涉金錢糾紛。同時，周杰倫本人也澄清了私生子傳聞，團隊已採取法律行動，後續報導亦揭露了孩子的親生父親。此外，與劉畊宏的趣味互動及星巴克聯名商品也引發關注。",
-      "key_events": [
-        "新專輯熱銷全球",
-        "方文山出軌疑雲",
-        "私生子傳聞澄清"
-      ],
-      "created_at": "2026-08-13 03:11:27"
     }
   ]
 }
