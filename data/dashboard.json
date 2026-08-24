@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 3,
+    "total": 9,
+    "positive": 4,
     "negative": 0,
-    "neutral": 0
+    "neutral": 5
   },
   "allTimeStats": {
-    "total": 2257,
-    "positive": 705,
+    "total": 2266,
+    "positive": 709,
     "negative": 75,
-    "neutral": 1477,
+    "neutral": 1482,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-09",
-      "total": 8,
-      "positive": 6,
-      "negative": 1,
-      "neutral": 1,
-      "avg_score": 0.72
-    },
     {
       "date": "2026-08-10",
       "total": 21,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.88
+    },
+    {
+      "date": "2026-08-24",
+      "total": 9,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 5,
+      "avg_score": 0.69
     }
   ],
   "recentArticles": [
+    {
+      "id": 2258,
+      "title": "One of the best stories in games finally comes to PS5 and Xbox - Polygon",
+      "link": "https://www.polygon.com/1000xresist-ps5-xbox-game-pass-impressions/",
+      "source": "Tavily (www.polygon.com)",
+      "snippet": "From sunset visitor 斜陽過客, *1000xResist* is a narrative-first game. Every character in the present timeline of *1000xResist* is a clone of Iris, a survivor of the deadly disease spread by invading aliens that wiped out humanity on the surface world. Watcher and the fellow clones commune together and explore Iris’s memories. In the next, Watcher and another clone bounce between childhood and teenage memories in Iris’s parents’ home. Its family dynamics, both between Watcher and her sisters and Iris and her parents, are inherently relatable, even if immigration isn’t part of your family’s story. 1000xResist *is out now on Nintendo Switch and Windows PC and* *will be released Nov. 4 on PlayStation 5 and Xbox Series X.",
+      "published_at": "Mon, 03 Nov 2025 14:00:17 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這篇報導介紹了遊戲《1000xResist》即將登陸PS5和Xbox平台，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2259,
+      "title": "Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser - abcnews.go.com",
+      "link": "https://abcnews.go.com/GMA/Culture/michael-jacksons-nephew-jaafar-jackson-stars-late-uncle/story?id=127269509",
+      "source": "Tavily (abcnews.go.com)",
+      "snippet": "# Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser The first glimpse of the big-screen Michael Jackson musical biopic \"Michael\" is here. Jaafar Jackson is the son of Michael Jackson's brother Jermaine Jackson. * Nov 5, 5:23 PM According to a synopsis for the highly anticipated film, \"Michael\" will give audiences \"a front-row seat to Michael Jackson as never before.\" Highlights from Michael Jackson' solo onstage performances will be featured, as well as moments from his life beyond music. Also starring in the film, directed by Antoine Fuqua (\"Training Day,\" \"The Equalizer,\" and \"The Terminal List\"), are Juliano Krue Valdi as young Michael, Colman Domingo as Joe Jackson and Nia Long as Katherine Jackson, according to IMDB. * Nov 5, 5:23 PM * Nov 6, 3:15 PM",
+      "published_at": "Thu, 06 Nov 2025 22:39:53 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則新聞報導了麥可傑克森傳記電影預告片發布，由其姪子主演，內容與周杰倫無直接關聯。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2260,
+      "title": "1000xResist studio reveals next game Prove You're Human, about debating an uncanny AI - Polygon.com",
+      "link": "https://www.polygon.com/prove-youre-human-announced-triple-i-showcase-sunset-visitor/",
+      "source": "Tavily (www.polygon.com)",
+      "snippet": "# 1000xResist studio's next game is about arguing with an uncanny AI that thinks it's human. The studio revealed its next project on Thursday at the Triple-i Initiative Showcase: *Prove You're Human*, a narrative-focused game about proving to an AI that it's not a human. Founder of sunset visitor 斜陽過客 Remy Siu told Polygon over a video call that development of *Prove You're Human* started at the end of the studio's work on *1000xResist* two years ago. In *Prove You're Human*, you play as the digital copy of someone hired to test the AI, which is named Mesa. Join the newsletter to get thoughtful coverage and analysis of indie games exploring AI, labor, and narrative design. sunset visitor 斜陽過客 and Black Tabby Publishing haven't given *Prove You're Human* a release window yet, which is one of the perks of being indie. *Prove You're Human* is currently in development for Windows PC.",
+      "published_at": "Thu, 09 Apr 2026 16:18:08 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此新聞報導一款名為《Prove You're Human》的新遊戲，內容與周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2261,
+      "title": "「璞永敦仰」4樓戶近5億成交！周杰倫大手筆「登記昆凌名」",
+      "link": "https://house.chinatimes.com/20260821002587-264401",
+      "source": "Tavily (house.chinatimes.com)",
+      "snippet": "住展雜誌發言人陳炳辰表示，此次「璞永敦仰」交易的雖然是低樓層，但在格局上應可進行打通，也屬常見的買豪宅置產動機交易，另外，觀察傳出藝人與太太買房紀錄，大安區「和平大院」買頂樓，但大安森林公園豪宅「元利信義聯勤」買7樓、如今「璞永敦仰」買4樓，可看出不一定完全追求頂級，有其資產配置考量。\n\n前夫一句話讓她續住7年 超過期限不搬前公公如何趕人？\n\n慘！加州日子難過 入不敷出快被壓垮 哈利夫婦恐被迫賣美豪宅\n\n鑰匙能開鄰居家門？新北住都中心：已換鎖並加強管理\n\n(房產網)\n\n#璞永敦仰 #昆凌 #周杰倫 #豪宅 #房地產 #台北地政雲 #平均地權條例\n\n#### 也許您會感興趣\n\n### 熱門文章\n\n 1\n\n   家中蟑螂小蟲不斷？晚上「6個習慣」快改掉：紙箱別放玄關過夜\n 2\n\n   看屋筆記：新竹市北區竹慶筑光(個案＋價格分析)\n 3\n\n   廚房耐用也要耐看！永不過時 7 種廚房經典配色示範\n 寶雅女婿砸3.35億 買大直第一豪宅\n 北捷相鄰站價差排行　永慶房屋：跨一站省下千萬購屋金！\n\n> 中時新聞網 房產頻道\n\n關閉\n\n回到頁首發表意見 [...] 大家房屋企劃研究室公關襄理賴志昶分析，對豪宅客而言，門牌、品牌的重要性，未必會低於樓層，此次2戶都無貸款，全為現金取得，以其總價加總近5億元來看，可見資產之雄厚；另一方面，該戶屋主登記門牌，位處於同屬北市頂級豪宅的「元利信義聯勤」，亦與過往屋主傳出購入的豪宅戶別吻合，可見屋主對北市豪宅品牌頗有研究，且精挑細選之樓層物件，都別具慧眼，以此戶為例，雖說低樓層較無景觀，不過由於該社區正面敦化北路，因此窗外亦有樹海景觀優勢，別具特色，同時由於為低樓層戶，亦可以親民價位入手豪宅品牌，顯示屋主精打細算的一面。\n\n住商不動產北市區協理錢思明分析，豪宅市場受《平均地權條例》修法、央行第七波信用管制等衝擊，如今豪宅客一次性以現金購入多戶並不少見，一來除彰顯自身雄厚實力，也可反映如今限貸氛圍之下，仍是難擋出手闊綽的資產客群入手心儀標的；另一方面，高資產族群對居住空間完整性、隱私或家族使用多有高度需求，因此一次買下同樓層戶，並不少見。 [...] IMG-LOGO\n\n 房市新訊\n 建案開箱\n  + 台北\n  + 新北\n  + 桃園\n  + 新竹\n  + 台中\n  + 台南\n  + 高雄\n  + 其他\n 區域情報\n  + 台北\n  + 新北\n  + 桃園\n  + 新竹\n  + 台中\n  + 台南\n  + 高雄\n  + 其他\n 房產達人\n 居家生活\n 影音專區\n 房產新勢力\n 房產金牌獎\n\nLOGO\n\n# 「璞永敦仰」4樓戶近5億成交！周杰倫大手筆「登記昆凌名」\n\n房產網\n\n葉思含\n\n Facebook\n Messenger\n Line\n 複製連結\n\n敦化樹海豪宅豪宅林立，且多屬相對高價，圖為「璞永敦仰」。（住商機構提供） \n\n敦化樹海豪宅豪宅林立，且多屬相對高價，圖為「璞永敦仰」。（住商機構提供）",
+      "published_at": "Fri, 21 Aug 2026 22:51:00 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與昆凌大手筆購入近5億元的「璞永敦仰」豪宅，並登記在昆凌名下，展現其雄厚資產與精準置產眼光。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2262,
+      "title": "Mandopop Icon Jay Chou Curates Two Dazzling Sales of Art and Memorabilia - Artnet News",
+      "link": "https://news.artnet.com/market/jay-chou-contemporary-art-auction-joopiter-2703103",
+      "source": "Tavily (news.artnet.com)",
+      "snippet": "# Mandopop Icon Jay Chou Curates Two Dazzling Sales of Art and Memorabilia Chou launches two auctions on Joopiter featuring artifacts from his world tours and contemporary art selections. This week, he launches two auctions on Pharrell Williams’s buzzy auction platform Joopiter: a sale of 14 artifacts from his three-decade career and another array of 25 paintings and prints by art stars of the previous and present century titled The Contemporary Take: A Look With Jay Chou. Chou procured his selections for Joopiter’s second-ever contemporary art sale from private collections. 13 albums, ten films, and six world tours later, Chou remains the top-selling artist in China, where his 2022 release *Greatest Works of Art* has sold over seven million copies (the viral music video for that album’s titular track featured likenesses of Salvador Dalí and René Magritte).",
+      "published_at": "Wed, 22 Oct 2025 17:15:13 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在Joopiter平台策劃了兩場拍賣會，拍賣其演藝生涯文物及當代藝術品，再次展現他作為華語樂壇頂級藝人的影響力與成功。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2263,
+      "title": "Underdog millionaire as local amateur beats Sinner on way to 1 Point Slam title at Australian Open - Greenwich Time",
+      "link": "https://www.greenwichtime.com/sports/article/underdog-millionaire-as-local-amateur-beats-21294184.php",
+      "source": "Tavily (www.greenwichtime.com)",
+      "snippet": "# Underdog millionaire as local amateur beats Sinner on way to 1 Point Slam title at Australian Open. MELBOURNE, Australia (AP) — A little-known local amateur player beat Jannik Sinner and went on to make himself a millionaire in Australian dollars after winning the 1 Point Slam on Wednesday at the Australian Open’s pre-tournament event. Article continues below this ad. All the matches lasted just one single point in a knockout bracket that included men and women, professionals and amateurs, plus celebrities like Taiwanese pop star Jay Chou, who was knocked out without hitting the ball after an ace from Petar Jovic. Article continues below this ad. Sinner lost his third-round point against Smith, by netting his serve. Garland lost in Australian Open qualifying this week yet surged through the 1-Point Slam bracket beating Alexander Zverev and Nick Kyrgios, plus Maria Sakkari and Vekić. ## Local grinder shops in CT serve up sandwich sensations. or turn off ad blocker.",
+      "published_at": "Thu, 15 Jan 2026 00:30:34 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫參加澳洲網球公開賽的「1分大滿貫」賽前活動，但因對手發球得分而迅速被淘汰。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2264,
+      "title": "King Tutankhamun’s Tomb Is at Risk of Collapse, Study Finds - Artnet News",
+      "link": "https://news.artnet.com/art-world/king-tutankhamun-tomb-collapse-risk-study-2703689",
+      "source": "Tavily (news.artnet.com)",
+      "snippet": "* Join Artnet PRO * Join Artnet PRO ##### Archaeology & History # King Tutankhamun’s Tomb Is at Risk of Collapse, Study Finds Flash flooding in the Valley of the Kings has caused damage to the fragile rock beneath and above the archeological site. Helen Stoilas   ShareShare This Article * Experts urge immediate **reinforcement** and **moisture control** to prevent collapse and irreversible mural damage. ### The best of Artnet News in your inbox. ### The best of Artnet News in your inbox. Photo: Hemeda, S. #### Helen Stoilas Article topics Antiquities Archaeology ### The best of Artnet News in your inbox. Mandopop Icon Jay Chou Curates Two Dazzling Sales of Art and Memorabilia  # Mandopop Icon Jay Chou Curates Two Dazzling Sales of Art and Memorabilia",
+      "published_at": "Thu, 23 Oct 2025 18:23:37 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫策劃了兩場藝術品和紀念品拍賣會。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2265,
+      "title": "Eight Members of Global Insider Trading Network Charged With Securities Fraud and Money Laundering Offenses - Department of Justice (.gov)",
+      "link": "https://www.justice.gov/usao-ma/pr/eight-members-global-insider-trading-network-charged-securities-fraud-and-money",
+      "source": "Tavily (www.justice.gov)",
+      "snippet": "BOSTON – A superseding indictment was unsealed today bringing securities fraud and money laundering charges against eight foreign nationals who are alleged members of a global insider trading network, including several leaders of the network: As another example, Safi allegedly provided MNPI to Ge to relay to Lee, and Safi said: “Is like [Lee] asking me in order to take our trade we should let him speak with the insider | I am his assurance,” and if “[Lee] wants the formal way let him go to a financial advisor.” It is further alleged that after Chou profitably traded on MNPI obtained from Dong, Dong sent Chou a phony invoice for dresses to substantiate a kick-back payment of illicit securities fraud proceeds from Chou to Dong.",
+      "published_at": "Tue, 18 Nov 2025 15:33:30 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Eight Members of Global Insider Trading Network Charged With Securities Fraud and Money Laundering Offenses - Department of Justice (.gov)",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2266,
+      "title": "國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒 | ETtoday星光雲 | ETtoday新聞雲",
+      "link": "https://star.ettoday.net/news/3222665",
+      "source": "Tavily (star.ettoday.net)",
+      "snippet": "回首頁\n facebook\n Line\n Twitter\n 複製連結\n\nETtoday新聞雲│ 手機版│ETtoday星光雲APP│ 攝影棚租借│ 新聞訂閱\n\nThreads Line FB IG\n\n 首頁\n 即時\n 熱門\n 影音\n 日韓\n 華娛\n 電影\n 專題\n\n### 星光快訊\n\n## 熱門話題\n\n王陽明 鄭家純 吳速玲 曹格 Joe 許效舜 邱鋒澤 BIBI\n\nETtoday新聞雲\n\n›\n\nETtoday星光雲\n\n# 國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒\n\n記者蔡琛儀／台北報導\n\n樂壇天王周杰倫新專輯《太陽之子》熱度持續延燒，數位與實體銷售開出亮眼成績後，如今更吸引挪威人氣舞團Quick Style跨海合作，雙方今（20日）在Instagram聯合發文，Quick Style特別選用新歌〈聖徒〉編舞，以招牌流暢律動搭配鏡頭移動視角，為歌曲打造全新視覺呈現，影片曝光後也迅速引發歌迷熱議，連周董本人都說：「其實早上原本要工作，看到這個直接清醒。」\n\n▲▼ 國際超人氣舞團Quick Style演繹周杰倫歌曲〈聖徒〉。（圖／杰威爾提供） [...] [廣告]請繼續往下閱讀...\n\nQuick Style在IG表示，其實雙方早已關注彼此的創作動態，如今終於促成合作，並恭喜周杰倫《太陽之子》數位專輯銷量突破336萬張，更喊話：「讓我們繼續互相啟發！」〈聖徒〉強烈節奏搭上舞團俐落舞步，讓不少粉絲興奮直呼「夢幻聯動太神了」，也讓周杰倫作品再次跨出台灣，在國際舞蹈圈掀起話題。\n\n除了跨國合作，《太陽之子》實體收藏也藏有巧思，限定黑膠唱片已於8月5日推出。為保留唱針軌道最大的運作空間，並遵循33 1/3 RPM單面不超過18分鐘的規格，特別採雙片黑膠製作，近期不少歌迷收到商品後紛紛在社群開箱。\n\n其中最令歌迷驚喜的，是黑膠盤面刻上專屬《太陽之子》蝕刻圖騰，更將周杰倫在專輯中的造型永久定格於盤面，細節十足。不少粉絲也實際放上唱盤，感受唱針落下後黑膠特有的溫暖音色與儀式感，不過唱片公司也特別提醒，專屬蝕刻圖騰盤面僅供觀賞收藏，切勿放置播放唱針。\n\n分享給朋友：\n\n追蹤我們：\n\n※本文版權所有，非經授權，不得轉載。[ETtoday著作權聲明]※\n\n## 關鍵字\n\n周杰倫\n\n## 推薦閱讀 [...] ### 精彩短影\n\nmore\n\n【差點賠到脫褲】嚇爛狂奔！只為阻止保時捷親吻勞斯萊斯 aka 拯救錢包\n\n【好游一直游】台南豪雨民宅慘淹！唯一快樂的只有實現水缸自由的龜\n\n林志穎炸翻大巨蛋　獻唱經典歌掀回憶殺\n\n【水深及腰】雨狂炸！高雄愛河之心環河步道淹沒\n\n【機器人運動會】400米田徑狂飆 「爆炸冒火花」全場嚇到尖叫\n\n【還是要注意安全】綠島大風雨！遊客淡定泡戶外溫泉\n\n【台南豪雨來襲】開車上路怎麼變開遊艇出海？\n\n【黃仁勳買包子】突「現身台北街頭」　網曝：好多人跟他合照\n\n鍾麗緹ASMR助眠直播　老公突「朝她臉上放屁」\n\n## 即時新聞\n\n剛剛\n\n剛剛\n\n2小時前31\n\n### 五熊疑涉日本國寶潑油被逮！臉書遭4字洗版　網傻眼：還有諧音哏\n\n3小時前0\n\n### 韓啦啦隊女神認「有段時間每晚哭」　來台滿週一年心聲曝光\n\n4小時前0\n\n### 趙露思監製新劇開機「親爸加盟演將軍」　古裝扮相被讚撞臉黃曉明\n\n4小時前0\n\n### 嘻小瓜穿女裝「遭2男當街羞辱」　還原過程氣炸：憑什麼？\n\n4小時前0\n\n### 訪問／PSY師弟團首來台！「5歲開始吃鳳梨酥」他親曝與台灣「有這連結」",
+      "published_at": "Thu, 20 Aug 2026 06:34:00 GMT",
+      "collected_at": "2026-08-24 02:09:03",
+      "sentiment": "正面",
+      "sentiment_score": 1,
+      "summary": "國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒 | ETtoday星光雲 | ETtoday新聞雲",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2255,
       "title": "周杰倫買房！4.84億元掃2戶敦北豪宅4樓戶 房仲：看房邏輯不同",
@@ -428,150 +554,31 @@
       "summary": "挪威超人氣舞團Quick Style選用周杰倫新歌〈聖徒〉編舞，成功將其新專輯熱度推向國際，引發廣泛討論。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2235,
-      "title": "周杰倫新歌孖挪威爆紅舞團合作 大賣336萬張",
-      "link": "https://hk.on.cc/hk/bkn/cnt/entertainment/20260820/bkn-20260820200123932-0820_00862_001.html",
-      "source": "Tavily (hk.on.cc)",
-      "snippet": "台灣天王周杰倫最新專輯《太陽之子》於數位與實體通路橫掃全球銷售榜單後，影響力持續擴散至國際，周杰倫突襲發文，獲紅遍全球嘅",
-      "published_at": "Thu, 20 Aug 2026 12:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫最新專輯《太陽之子》與挪威爆紅舞團合作，在全球數位與實體通路銷售突破336萬張，影響力持續擴散至國際。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2236,
-      "title": "周杰倫專輯狂賣336萬張　夢幻聯動人氣舞團驚呆粉絲 | 娛樂 | CTWANT",
-      "link": "https://www.ctwant.com/article/494373",
-      "source": "Tavily (www.ctwant.com)",
-      "snippet": "周杰倫的專輯《太陽之子》影響力持續擴散至國際，以俐落、快節奏風格紅遍全球的挪威人氣舞團Quick Style，今（20日）與周杰倫在IG聯合發文，Quick",
-      "published_at": "Thu, 20 Aug 2026 05:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫專輯狂賣336萬張　夢幻聯動人氣舞團驚呆粉絲 | 娛樂 | CTWANT",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2237,
-      "title": "John Legend, Jackson Wang Sing the Songs of Louis Vuitton - WWD",
-      "link": "https://wwd.com/eye/people/john-legend-jackson-wang-louis-vuitton-show-1238465672/",
-      "source": "Tavily (wwd.com)",
-      "snippet": "### Louis Vuitton Men’s Fall 2026: Back to the Future. # John Legend, Jackson Wang Sing the Songs of Louis Vuitton. **VUITTON V****OCALS:** John Legend teased his new music during Louis Vuitton’s men’s show Tuesday night. “You’ll hear some of it tonight,” he said. Next up were songs from brand ambassador Jackson Wang featuring Pusha T and another from Quavo, all of whom were in the audience, making for a star-studded front row to kick off Paris Men’s Fashion Week. It’s always been a little passion of mine that I’ve just continued and happily have had a little success,” he said of this new direction. “I’ll continue to do both, as long as they’ll let me,” he said. He was also attending his first Louis Vuitton show — and making his very first trip to Paris. I can’t wait to come back, unfortunately it’s a quick trip,” he said of Paris.",
-      "published_at": "Wed, 21 Jan 2026 13:06:27 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "John Legend, Jackson Wang Sing the Songs of Louis Vuitton - WWD",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2238,
-      "title": "Chilling sign housing crash is underway as sellers panic-cut prices at highest level in 13 years - Daily Mail",
-      "link": "https://www.dailymail.co.uk/real-estate/article-15520275/housing-crash-seller-price-cuts-us.html",
-      "source": "Tavily (www.dailymail.co.uk)",
-      "snippet": "and the wardrobe malfunction everyone missed: KENNEDY's Grammys review that'll leave music's biggest stars in tears**. * **Hailey Bieber wows in sexy mini while husband Justin plants a kiss on long-time fan and friend Billie Eilish at star-studded Grammys after-party**. * **Charli XCX parties with 1975 rocker husband George Daniel as they lead the star turnout at the Saint Laurent post-Grammys bash**. * **Grammy Awards 2026 winners: Bad Bunny dedicates top honor win to immigrants as he leads Hollywood anti-ICE charge with Billie Eilish and Olivia Dean on music's biggest night**. * **Lauryn Hill performs at Grammys for first time in 27 YEARS in tribute to late stars D'Angelo and Roberta Flack**. * **Grammy Awards 2026: Sabrina Carpenter stuns alongside Zara Larsson, Kelsea Ballerini and Tyla as they lead the best dressed stars on the red carpet in LA**. * **Lady Gaga rocks VERY bizarre headpiece as she leads 2026 Grammy Awards performances with Sabrina Carpenter and Justin Bieber**.",
-      "published_at": "Mon, 02 Feb 2026 19:22:44 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Chilling sign housing crash is underway as sellers panic-cut prices at highest level in 13 years - Daily Mail",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2239,
-      "title": "跨界夢幻聯動！國際舞團cover周杰倫新歌 宣布驚喜推黑膠唱片",
-      "link": "https://tw.news.yahoo.com/%E8%B7%A8%E7%95%8C%E5%A4%A2%E5%B9%BB%E8%81%AF%E5%8B%95-%E5%9C%8B%E9%9A%9B%E8%88%9E%E5%9C%98cover%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E6%AD%8C-%E5%AE%A3%E5%B8%83%E9%A9%9A%E5%96%9C%E6%8E%A8%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87-030800035.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "【緯來新聞網】樂壇天王周杰倫最新專輯《太陽之子》在數位與實體通路獲得極高銷量後，影響力持續擴散至國際.",
-      "published_at": "Thu, 20 Aug 2026 06:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.7,
-      "summary": "跨界夢幻聯動！國際舞團cover周杰倫新歌 宣布驚喜推黑膠唱片",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2240,
-      "title": "周杰倫新歌〈聖徒〉被挪威舞團相中！Quick Style夢幻聯動 《太陽之子》限定黑膠騰開箱",
-      "link": "https://n.yam.com/Article/20260820226251",
-      "source": "Tavily (n.yam.com)",
-      "snippet": "樂壇天王周杰倫最新專輯《太陽之子》在數位與實體通路橫掃全球銷售榜單後，影響力持續擴散至國際。以俐落、",
-      "published_at": "Thu, 20 Aug 2026 06:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫新歌〈聖徒〉被挪威舞團相中！Quick Style夢幻聯動 《太陽之子》限定黑膠騰開箱",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2241,
-      "title": "周杰倫新歌〈聖徒〉 與挪威舞團Quick Style夢幻聯動",
-      "link": "https://www.kinliu.hk/news/%E5%91%A8%E6%9D%B0%E5%80%AB%E4%B8%83%E5%A4%95%E8%B2%BC%E8%87%89%E5%90%88%E5%BD%B1%E6%94%BE%E9%96%83%E6%98%86%E5%87%8C/242842.html",
-      "source": "Tavily (www.kinliu.hk)",
-      "snippet": "周杰倫繼日前（19日）七夕情人節分享與老婆昆凌的甜蜜合照後，今日（20日）再公布與紅遍全面的挪威超人氣舞團Quick Style合作，以",
-      "published_at": "Thu, 20 Aug 2026 13:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.8,
-      "summary": "周杰倫新歌〈聖徒〉 與挪威舞團Quick Style夢幻聯動",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2228,
-      "title": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post",
-      "link": "https://nypost.com/2026/01/29/entertainment/jamie-kennedy-looks-unrecognizable-in-la-while-riding-an-electric-scooter/",
-      "source": "Tavily (nypost.com)",
-      "snippet": "##### Maxwell claims 25 Epstein accomplices reached 'secret... A ’90s movie star who had his breakout role in the original “Scream” film looked unrecognizable riding around Los Angeles on an electric scooter. Jamie Kennedy, 55, was spotted zipping along a sidewalk with a scruffy beard, decked out in a classic Adidas track jacket. One of his biggest claims to fame was dating iconic 2000s girl-next-door actress Jennifer Love Hewitt from 2009 to 2010. These days, Kennedy keeps busy as a comedian, actor and producer, hitting the road for his national stand-up tour, popping up at conventions and working on new film projects, according to his official website. The '90s star was spotted zipping along a sidewalk with a scruffy beard, decked out in a classic Adidas track jacket. Lately, Kennedy keeps busy as a comedian, actor and producer, hitting the road for his national stand-up tour. The star had his breakout role in the original \"Scream\" film.",
-      "published_at": "Thu, 29 Jan 2026 19:04:47 GMT",
-      "collected_at": "2026-08-20 02:03:20",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2229,
-      "title": "「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media",
-      "link": "https://www.mirrormedia.mg/story/20260817-195ent-122150",
-      "source": "Tavily (www.mirrormedia.mg)",
-      "snippet": "# 「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌\n\nmm-logo\n\n娛樂\n\n！Darren邱凱偉與常青重返家鄉屏東，「浪花兄弟」睽違多年再度合體。杰威爾音樂\n\n發布時間：2026.08.17 12:21臺北時間\n\n更新時間：2026.08.17 12:23臺北時間\n\n文\n\n 葉婉如\n\nfacebook-shareline-share\n\n已複製連結\n\ndonate贊助本文加入訂閱會員\n\n周杰倫屏東新歌合體回憶殺浪花兄弟\n\n「浪花兄弟」睽違多年再度合體！Darren邱凱偉與常青（15日）重返家鄉屏東，出席屏東市公所主辦的「2026屏東市名人講唱會：浪花來襲、唱響屏東」，兩人以經典歌曲〈你是我的OK繃〉揭開序幕，熟悉旋律一響起，立刻掀起現場滿滿回憶殺。兩人也難得以「浪花兄弟」身分同台，分享當年在周杰倫提攜下成團的故事，讓粉絲直呼青春回來了。\n\n點按看下一則延伸閱讀文章 [...] 活動現場粉絲也不忘敲碗「浪花兄弟」推出新歌，Darren聽到後笑著表示自己也很期待，並請大家「拭目以待」。活動尾聲，兩人接連演唱3首經典歌曲，在滿場掌聲與歡呼聲中結束這場難得的合體演出，也讓不少粉絲期待「浪花兄弟」下一次再度登台。\n\n更新時間｜2026.08.17 12:23 臺北時間\n\n 美女議員宋麗華爆住處查扣「千萬現金珠寶」遭聲押　老公鄭任祐冷氣專利吸金案爆案外案 \n\n  美女議員宋麗華爆住處查扣「千萬現金珠寶」遭聲押　老公鄭任祐冷氣專利吸金案爆案外案\n 手寫情書內容疑外流…方文山遭爆與女藝人出軌　助理發聲這樣說\n\n  手寫情書內容疑外流…方文山遭爆與女藝人出軌　助理發聲這樣說\n 悲傷父親節！托嬰中心3月男嬰午睡後身亡　周春米：究責不會鬆手\n\n  悲傷父親節！托嬰中心3月男嬰午睡後身亡　周春米：究責不會鬆手\n 屏東3月大男嬰送托僅3天！午睡遭棉被悶死　「優等評鑑」托嬰中心回應了\n\n  屏東3月大男嬰送托僅3天！午睡遭棉被悶死　「優等評鑑」托嬰中心回應了\n\n小心意大意義  \n小額贊助鏡週刊！\n\ndonate贊助本文\n\n每期 $35元動態話題報導  \n無限閱讀解鎖新鮮事 [...] mirrormedia\n\n課程課程\n\n防詐鏡區魅力基隆房市熱話題台北畫刊房訊發燒榜黃國昌偷拍揭密更多\n\n最新\n\n娛樂頭條鏡大咖影劇專欄娛樂透視試鏡間穿衣鏡蘭蘭夫人\n\n焦點政治社會國際要聞\n\n財經投資理財頭家開講職場人語台灣名店台灣老店生意經財經最前線\n\n一鏡到底心內話鏡相人間深度報導話題人物人間告別鏡人物podcast\n\n好食好旅好飲裴社長手記\n\n生活\n\n消費運動健康\n\n車錶酒\n\n錶誌車誌酒誌奢華誌\n\n瑪法達\n\n瑪法達\n\n專欄\n\n鏡觀鏡論鏡評鏡報專欄名家專欄\n\n 訂閱電子雜誌\n 內容授權\n 廣告合作\n 下載APP\n 新聞自律綱要\n 《鏡週刊》AI使用準則\n\nlineweibofacebook-fanpageinstagrammirrormedia-rssemail\n\n快訊\n\n林口王多角戰／房市寒冬建商進入微利冰原期 亞昕3箭連發突圍快訊\n\n吳卓源進駐中國社交媒體拓展市場　負面如影隨形聲量不如預期快訊\n\n政府宣布普發1萬！張景森曝不反對原因　但奉勸各政黨早日跳出競價遊戲\n\n防詐鏡區魅力基隆房市熱話題台北畫刊房訊發燒榜黃國昌偷拍揭密\n\n更多\n\n2026.08.17 12:21臺北時間",
-      "published_at": "Mon, 17 Aug 2026 04:21:00 GMT",
-      "collected_at": "2026-08-20 02:03:20",
-      "sentiment": "正面",
-      "sentiment_score": 0.8,
-      "summary": "「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 153,
-    "report_date": "2026-08-23",
-    "total_articles": 3,
-    "positive_count": 3,
+    "id": 154,
+    "report_date": "2026-08-24",
+    "total_articles": 9,
+    "positive_count": 4,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫今日新聞聚焦音樂與家庭。新歌〈聖徒〉與挪威舞團Quick Style夢幻聯動，專輯《太陽之子》熱賣並推限定黑膠。他豪擲4.84億元購入豪宅贈妻昆凌，並高調慶生粉碎謠言。另有被4歲女兒化妝趣事，及「浪花兄弟」合體引發回憶。",
-    "key_events": [
-      "Quick Style聯動新歌",
-      "豪宅贈妻慶生",
-      "女兒化妝趣事"
-    ],
-    "created_at": "2026-08-23 02:11:06"
+    "neutral_count": 5,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "One of the best stories in games finally comes to PS5 and Xbox - Polygon、Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser - abcnews.go.com、1000xResist studio reveals next game Prove You're Human, about debating an uncanny AI - Polygon.com",
+    "created_at": "2026-08-24 02:09:31"
   },
   "recentReports": [
+    {
+      "id": 154,
+      "report_date": "2026-08-24",
+      "total_articles": 9,
+      "positive_count": 4,
+      "negative_count": 0,
+      "neutral_count": 5,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "One of the best stories in games finally comes to PS5 and Xbox - Polygon、Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser - abcnews.go.com、1000xResist studio reveals next game Prove You're Human, about debating an uncanny AI - Polygon.com",
+      "created_at": "2026-08-24 02:09:31"
+    },
     {
       "id": 153,
       "report_date": "2026-08-23",
@@ -641,21 +648,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "國立教育廣播電台、周杰倫被4歲小女兒化妝！一看「驚人成品」險爆粗口 釣出昆凌猛虧、周杰倫親錄音 喚醒八仙塵爆倖存者",
       "created_at": "2026-08-18 02:01:15"
-    },
-    {
-      "id": 147,
-      "report_date": "2026-08-17",
-      "total_articles": 3,
-      "positive_count": 3,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫近期新聞不斷，首先為愛妻昆凌高調慶祝33歲生日，舉辦浪漫燭光晚宴並深情告白「永遠愛妳」，此舉成功粉碎了近期纏身的私生子謠言，其團隊及相關當事人也出面澄清。在音樂事業方面，周杰倫新專輯《太陽之子》日版正式發行，MV耗資上億元打造，不僅創下銷售佳績，狂賣264萬張，更成功登上紐約時代廣場。同時，經典歌曲《聽媽媽的話》傳唱20年，成為跨世代神曲。演唱會方面，新巡演已排到明年，門票加開，但北京場周邊商品遭洗劫，杭州場則引發「划水」爭議。此外，周杰倫的御用作詞人方文山也捲入出軌傳聞，本人已發聲明澄清。星巴克也推出周杰倫聯名系列，而他對劉畊宏參與《披荊斬棘》的「露肌肉」建議也引發熱議。",
-      "key_events": [
-        "寵妻破私生子謠言",
-        "新專輯銷量破紀錄",
-        "《聽媽媽的話》經典"
-      ],
-      "created_at": "2026-08-17 02:05:59"
     }
   ]
 }
