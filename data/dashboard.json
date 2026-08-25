@@ -1,9 +1,9 @@
 {
   "todayStats": {
-    "total": 9,
-    "positive": 4,
+    "total": 0,
+    "positive": 0,
     "negative": 0,
-    "neutral": 5
+    "neutral": 0
   },
   "allTimeStats": {
     "total": 2266,
@@ -13,14 +13,6 @@
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-10",
-      "total": 21,
-      "positive": 9,
-      "negative": 0,
-      "neutral": 12,
-      "avg_score": 0.65
-    },
     {
       "date": "2026-08-11",
       "total": 6,
@@ -557,17 +549,36 @@
     }
   ],
   "latestReport": {
-    "id": 154,
-    "report_date": "2026-08-24",
-    "total_articles": 9,
-    "positive_count": 4,
+    "id": 155,
+    "report_date": "2026-08-25",
+    "total_articles": 0,
+    "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 5,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "One of the best stories in games finally comes to PS5 and Xbox - Polygon、Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser - abcnews.go.com、1000xResist studio reveals next game Prove You're Human, about debating an uncanny AI - Polygon.com",
-    "created_at": "2026-08-24 02:09:31"
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期話題不斷，豪擲近五億元購入兩戶敦北豪宅並登記在妻子昆凌名下，展現寵妻之情。新歌《聖徒》與挪威人氣舞團Quick Style夢幻聯動，並將發行《太陽之子》限定黑膠唱片，專輯銷量突破336萬張。他也被四歲女兒當成化妝練習對象，而北京演唱會周邊商品區則發生搶劫。",
+    "key_events": [
+      "買豪宅登記昆凌名",
+      "新歌聯動挪威舞團",
+      "專輯銷量破336萬"
+    ],
+    "created_at": "2026-08-25 02:04:57"
   },
   "recentReports": [
+    {
+      "id": 155,
+      "report_date": "2026-08-25",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，豪擲近五億元購入兩戶敦北豪宅並登記在妻子昆凌名下，展現寵妻之情。新歌《聖徒》與挪威人氣舞團Quick Style夢幻聯動，並將發行《太陽之子》限定黑膠唱片，專輯銷量突破336萬張。他也被四歲女兒當成化妝練習對象，而北京演唱會周邊商品區則發生搶劫。",
+      "key_events": [
+        "買豪宅登記昆凌名",
+        "新歌聯動挪威舞團",
+        "專輯銷量破336萬"
+      ],
+      "created_at": "2026-08-25 02:04:57"
+    },
     {
       "id": 154,
       "report_date": "2026-08-24",
@@ -637,17 +648,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面、撇開私生子謠言 周杰倫高調寵妻為昆凌慶祝33歲生日、養出學霸兒／和周杰倫育有2女1子　昆凌認了曾當「控制狂媽媽」",
       "created_at": "2026-08-19 02:04:28"
-    },
-    {
-      "id": 148,
-      "report_date": "2026-08-18",
-      "total_articles": 6,
-      "positive_count": 5,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "國立教育廣播電台、周杰倫被4歲小女兒化妝！一看「驚人成品」險爆粗口 釣出昆凌猛虧、周杰倫親錄音 喚醒八仙塵爆倖存者",
-      "created_at": "2026-08-18 02:01:15"
     }
   ]
 }

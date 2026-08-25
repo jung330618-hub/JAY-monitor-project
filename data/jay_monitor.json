@@ -33813,6 +33813,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "One of the best stories in games finally comes to PS5 and Xbox - Polygon、Michael Jackson's nephew Jaafar Jackson stars as late uncle in 'Michael' teaser - abcnews.go.com、1000xResist studio reveals next game Prove You're Human, about debating an uncanny AI - Polygon.com",
       "created_at": "2026-08-24 02:09:31"
+    },
+    {
+      "id": 155,
+      "report_date": "2026-08-25",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，豪擲近五億元購入兩戶敦北豪宅並登記在妻子昆凌名下，展現寵妻之情。新歌《聖徒》與挪威人氣舞團Quick Style夢幻聯動，並將發行《太陽之子》限定黑膠唱片，專輯銷量突破336萬張。他也被四歲女兒當成化妝練習對象，而北京演唱會周邊商品區則發生搶劫。",
+      "key_events": [
+        "買豪宅登記昆凌名",
+        "新歌聯動挪威舞團",
+        "專輯銷量破336萬"
+      ],
+      "created_at": "2026-08-25 02:04:57"
     }
   ],
   "notification_logs": [
@@ -36055,11 +36070,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-08-24 02:09:33"
+    },
+    {
+      "id": 321,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-25 02:04:58"
+    },
+    {
+      "id": 322,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-25 02:04:59"
     }
   ],
   "_meta": {
     "nextArticleId": 2267,
-    "nextReportId": 155,
-    "nextLogId": 321
+    "nextReportId": 156,
+    "nextLogId": 323
   }
 }
