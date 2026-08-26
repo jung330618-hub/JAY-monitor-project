@@ -31723,6 +31723,62 @@
       "summary": "國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒 | ETtoday星光雲 | ETtoday新聞雲",
       "category": "新歌",
       "analyzed": 1
+    },
+    {
+      "id": 2267,
+      "title": "周杰倫「太陽之子」熱度升 挪威神級舞團Quick Style出手",
+      "link": "https://www.worldjournal.com/wj/story/121478/9704633",
+      "source": "Tavily (www.worldjournal.com)",
+      "snippet": "周杰倫最新專輯「太陽之子」持續在全球掀起話題，繼數位銷售突破336萬張後，國際影響力再擴大。挪威人氣舞團Quick Style今（20）日與周杰倫在IG聯合",
+      "published_at": "Fri, 21 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫新專輯《太陽之子》在全球熱度持續攀升，數位銷售突破336萬張，並與挪威人氣舞團Quick Style合作，進一步擴大國際影響力。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2268,
+      "title": "撞臉周杰倫爆紅！「粥餅倫」雞蛋灌餅慘關2店現況曝光 嘆：每天能吃飽飯就行",
+      "link": "https://tw.news.yahoo.com/%E6%92%9E%E8%87%89%E5%91%A8%E6%9D%B0%E5%80%AB%E7%88%86%E7%B4%85-%E7%B2%A5%E9%A4%85%E5%80%AB-%E9%9B%9E%E8%9B%8B%E7%81%8C%E9%A4%85%E6%85%98%E9%97%9C2%E5%BA%97%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-%E5%98%86-%E6%AF%8F%E5%A4%A9%E8%83%BD%E5%90%83%E9%A3%BD%E9%A3%AF%E5%B0%B1%E8%A1%8C-083400580.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "[FTNN新聞網]實習記者陳又綺／綜合報導中國河北雞蛋灌餅攤主「粥餅倫」（本名白獻英）因撞臉華語流行音樂天王周杰倫走紅，近年從街頭攤販轉型開設門市",
+      "published_at": "Tue, 25 Aug 2026 08:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一位因撞臉周杰倫而爆紅的攤主「粥餅倫」，其雞蛋灌餅店面經營現況曝光，反映出其生活轉變。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2269,
+      "title": "長相神似周杰倫也沒用！ 粥餅倫灌餅店再傳歇業",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5552297",
+      "source": "Tavily (ent.ltn.com.tw)",
+      "snippet": "〔娛樂頻道／綜合報導〕中國網紅「粥餅倫」白獻英因長相神似「周董」周杰倫爆紅，去年7月開在河北省石家莊市實體店面關門歇業，他也認了經營半年都是",
+      "published_at": "Wed, 26 Aug 2026 01:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "報導指出，因長相神似周杰倫而走紅的網紅「粥餅倫」，其灌餅店面再次傳出歇業消息。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2270,
+      "title": "撞臉周杰倫爆紅！粥餅倫宣布「再關1店」無奈吐心聲：賺不到錢",
+      "link": "https://www.mirrordaily.news/story/81640",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "中國雞蛋灌餅攤主「粥餅倫（本名白獻英）」過去因為撞臉周杰倫爆紅，開出3家門市，如今討論度下降，粥餅倫24日宣布，即將關閉天津的店面，原因是年租金從13萬",
+      "published_at": "Tue, 25 Aug 2026 05:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "中國攤主「粥餅倫」因撞臉周杰倫爆紅後，因經營不善宣布關閉一家店面。",
+      "category": "其他",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -33828,6 +33884,21 @@
         "專輯銷量破336萬"
       ],
       "created_at": "2026-08-25 02:04:57"
+    },
+    {
+      "id": 156,
+      "report_date": "2026-08-26",
+      "total_articles": 4,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "周杰倫近日新聞焦點集中於其音樂事業與家庭生活。他的新歌〈聖徒〉與專輯《太陽之子》熱度持續攀升，不僅專輯銷量突破336萬張，更與挪威知名舞團Quick Style夢幻聯動，推出共創舞蹈及限定黑膠唱片，令本人驚喜不已。在個人生活方面，周杰倫展現寵妻風範，豪擲近5億元購入兩戶敦北豪宅並登記在昆凌名下，同時也為昆凌慶生，並分享與女兒的溫馨互動。此外，因撞臉周杰倫而爆紅的「粥餅倫」則傳出經營困境，多家店面歇業。周杰倫也策劃了藝術品拍賣，並有演唱會周邊商品遭搶事件。",
+      "key_events": [
+        "新歌聯動舞團",
+        "豪宅贈昆凌",
+        "粥餅倫店面關閉"
+      ],
+      "created_at": "2026-08-26 02:10:55"
     }
   ],
   "notification_logs": [
@@ -36084,11 +36155,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-08-25 02:04:59"
+    },
+    {
+      "id": 323,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-26 02:10:56"
+    },
+    {
+      "id": 324,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-26 02:10:56"
     }
   ],
   "_meta": {
-    "nextArticleId": 2267,
-    "nextReportId": 156,
-    "nextLogId": 323
+    "nextArticleId": 2271,
+    "nextReportId": 157,
+    "nextLogId": 325
   }
 }

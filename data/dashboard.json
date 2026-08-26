@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 0,
-    "positive": 0,
+    "total": 4,
+    "positive": 1,
     "negative": 0,
-    "neutral": 0
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 2266,
-    "positive": 709,
+    "total": 2270,
+    "positive": 710,
     "negative": 75,
-    "neutral": 1482,
+    "neutral": 1485,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-11",
-      "total": 6,
-      "positive": 4,
-      "negative": 1,
-      "neutral": 1,
-      "avg_score": 0.72
-    },
     {
       "date": "2026-08-12",
       "total": 12,
@@ -124,9 +116,73 @@
       "negative": 0,
       "neutral": 5,
       "avg_score": 0.69
+    },
+    {
+      "date": "2026-08-26",
+      "total": 4,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.6
     }
   ],
   "recentArticles": [
+    {
+      "id": 2267,
+      "title": "周杰倫「太陽之子」熱度升 挪威神級舞團Quick Style出手",
+      "link": "https://www.worldjournal.com/wj/story/121478/9704633",
+      "source": "Tavily (www.worldjournal.com)",
+      "snippet": "周杰倫最新專輯「太陽之子」持續在全球掀起話題，繼數位銷售突破336萬張後，國際影響力再擴大。挪威人氣舞團Quick Style今（20）日與周杰倫在IG聯合",
+      "published_at": "Fri, 21 Aug 2026 02:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫新專輯《太陽之子》在全球熱度持續攀升，數位銷售突破336萬張，並與挪威人氣舞團Quick Style合作，進一步擴大國際影響力。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2268,
+      "title": "撞臉周杰倫爆紅！「粥餅倫」雞蛋灌餅慘關2店現況曝光 嘆：每天能吃飽飯就行",
+      "link": "https://tw.news.yahoo.com/%E6%92%9E%E8%87%89%E5%91%A8%E6%9D%B0%E5%80%AB%E7%88%86%E7%B4%85-%E7%B2%A5%E9%A4%85%E5%80%AB-%E9%9B%9E%E8%9B%8B%E7%81%8C%E9%A4%85%E6%85%98%E9%97%9C2%E5%BA%97%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-%E5%98%86-%E6%AF%8F%E5%A4%A9%E8%83%BD%E5%90%83%E9%A3%BD%E9%A3%AF%E5%B0%B1%E8%A1%8C-083400580.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "[FTNN新聞網]實習記者陳又綺／綜合報導中國河北雞蛋灌餅攤主「粥餅倫」（本名白獻英）因撞臉華語流行音樂天王周杰倫走紅，近年從街頭攤販轉型開設門市",
+      "published_at": "Tue, 25 Aug 2026 08:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "一位因撞臉周杰倫而爆紅的攤主「粥餅倫」，其雞蛋灌餅店面經營現況曝光，反映出其生活轉變。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2269,
+      "title": "長相神似周杰倫也沒用！ 粥餅倫灌餅店再傳歇業",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5552297",
+      "source": "Tavily (ent.ltn.com.tw)",
+      "snippet": "〔娛樂頻道／綜合報導〕中國網紅「粥餅倫」白獻英因長相神似「周董」周杰倫爆紅，去年7月開在河北省石家莊市實體店面關門歇業，他也認了經營半年都是",
+      "published_at": "Wed, 26 Aug 2026 01:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "報導指出，因長相神似周杰倫而走紅的網紅「粥餅倫」，其灌餅店面再次傳出歇業消息。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2270,
+      "title": "撞臉周杰倫爆紅！粥餅倫宣布「再關1店」無奈吐心聲：賺不到錢",
+      "link": "https://www.mirrordaily.news/story/81640",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "中國雞蛋灌餅攤主「粥餅倫（本名白獻英）」過去因為撞臉周杰倫爆紅，開出3家門市，如今討論度下降，粥餅倫24日宣布，即將關閉天津的店面，原因是年租金從13萬",
+      "published_at": "Tue, 25 Aug 2026 05:00:00 GMT",
+      "collected_at": "2026-08-26 02:10:28",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "中國攤主「粥餅倫」因撞臉周杰倫爆紅後，因經營不善宣布關閉一家店面。",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2258,
       "title": "One of the best stories in games finally comes to PS5 and Xbox - Polygon",
@@ -490,80 +546,39 @@
       "summary": "周杰倫新專輯《太陽之子》中的歌曲〈聖徒〉獲挪威舞團Quick Style青睞，展現其全球影響力。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2231,
-      "title": "周杰倫「太陽之子」熱度升 挪威神級舞團Quick Style出手",
-      "link": "https://www.worldjournal.com/wj/story/121617/9704633",
-      "source": "Tavily (www.worldjournal.com)",
-      "snippet": "周杰倫最新專輯「太陽之子」持續在全球掀起話題，繼數位銷售突破336萬張後，國際影響力再擴大。挪威人氣舞團Quick Style今（20）日與周杰倫在IG聯合",
-      "published_at": "Thu, 20 Aug 2026 16:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新專輯《太陽之子》在全球熱銷並擴大國際影響力，更與挪威舞團Quick Style合作。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2232,
-      "title": "周杰倫《太陽之子》黑膠唱片登場",
-      "link": "https://www.cdns.com.tw/articles/1447530",
-      "source": "Tavily (www.cdns.com.tw)",
-      "snippet": "記者戴淑芳／台北報導樂壇天王周杰倫最新專輯《太陽之子》影響力持續擴散至國際！以俐落、快節奏風格紅遍全球的挪威人氣舞團Quick Style20日與周杰倫",
-      "published_at": "Thu, 20 Aug 2026 12:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫最新專輯《太陽之子》黑膠唱片登場，其國際影響力持續擴散，並提及與挪威人氣舞團Quick Style的合作。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2233,
-      "title": "周杰倫一早突收驚喜！全球人氣舞團嗨跳〈聖徒〉 天王看完喊話：直接清醒",
-      "link": "https://www.mirrordaily.news/story/80681",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "樂壇天王周杰倫最新專輯《太陽之子》話題延燒海外。以俐落快節奏舞風紅遍全球的挪威人氣舞團Quick Style，今（20日）驚喜與周杰倫在IG聯合發文，",
-      "published_at": "Thu, 20 Aug 2026 03:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "挪威人氣舞團Quick Style為周杰倫新專輯歌曲〈聖徒〉編舞並發布，讓周杰倫感到驚喜並稱讚，展現其新專輯的國際影響力。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2234,
-      "title": "挪威超人氣舞團Quick Style跳周杰倫〈聖徒〉 夢幻聯動掀話題 | 中央廣播電臺",
-      "link": "https://today.line.me/tw/v3/article/x2Em1r6",
-      "source": "Tavily (today.line.me)",
-      "snippet": "周杰倫新專輯《太陽之子》熱度持續延燒，這回更跨界「舞」向國際！挪威超人氣舞團Quick Style驚喜選用新歌〈聖徒〉編舞，雙方更在Inst",
-      "published_at": "Thu, 20 Aug 2026 15:00:00 GMT",
-      "collected_at": "2026-08-21 02:09:24",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "挪威超人氣舞團Quick Style選用周杰倫新歌〈聖徒〉編舞，成功將其新專輯熱度推向國際，引發廣泛討論。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 155,
-    "report_date": "2026-08-25",
-    "total_articles": 0,
-    "positive_count": 0,
+    "id": 156,
+    "report_date": "2026-08-26",
+    "total_articles": 4,
+    "positive_count": 1,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫近期話題不斷，豪擲近五億元購入兩戶敦北豪宅並登記在妻子昆凌名下，展現寵妻之情。新歌《聖徒》與挪威人氣舞團Quick Style夢幻聯動，並將發行《太陽之子》限定黑膠唱片，專輯銷量突破336萬張。他也被四歲女兒當成化妝練習對象，而北京演唱會周邊商品區則發生搶劫。",
+    "neutral_count": 3,
+    "daily_summary": "周杰倫近日新聞焦點集中於其音樂事業與家庭生活。他的新歌〈聖徒〉與專輯《太陽之子》熱度持續攀升，不僅專輯銷量突破336萬張，更與挪威知名舞團Quick Style夢幻聯動，推出共創舞蹈及限定黑膠唱片，令本人驚喜不已。在個人生活方面，周杰倫展現寵妻風範，豪擲近5億元購入兩戶敦北豪宅並登記在昆凌名下，同時也為昆凌慶生，並分享與女兒的溫馨互動。此外，因撞臉周杰倫而爆紅的「粥餅倫」則傳出經營困境，多家店面歇業。周杰倫也策劃了藝術品拍賣，並有演唱會周邊商品遭搶事件。",
     "key_events": [
-      "買豪宅登記昆凌名",
-      "新歌聯動挪威舞團",
-      "專輯銷量破336萬"
+      "新歌聯動舞團",
+      "豪宅贈昆凌",
+      "粥餅倫店面關閉"
     ],
-    "created_at": "2026-08-25 02:04:57"
+    "created_at": "2026-08-26 02:10:55"
   },
   "recentReports": [
+    {
+      "id": 156,
+      "report_date": "2026-08-26",
+      "total_articles": 4,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "周杰倫近日新聞焦點集中於其音樂事業與家庭生活。他的新歌〈聖徒〉與專輯《太陽之子》熱度持續攀升，不僅專輯銷量突破336萬張，更與挪威知名舞團Quick Style夢幻聯動，推出共創舞蹈及限定黑膠唱片，令本人驚喜不已。在個人生活方面，周杰倫展現寵妻風範，豪擲近5億元購入兩戶敦北豪宅並登記在昆凌名下，同時也為昆凌慶生，並分享與女兒的溫馨互動。此外，因撞臉周杰倫而爆紅的「粥餅倫」則傳出經營困境，多家店面歇業。周杰倫也策劃了藝術品拍賣，並有演唱會周邊商品遭搶事件。",
+      "key_events": [
+        "新歌聯動舞團",
+        "豪宅贈昆凌",
+        "粥餅倫店面關閉"
+      ],
+      "created_at": "2026-08-26 02:10:55"
+    },
     {
       "id": 155,
       "report_date": "2026-08-25",
@@ -637,17 +652,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "Nineties movie star looks unrecognizable zipping around LA on electric scooter - New York Post、「浪花兄弟」睽違多年合體掀回憶殺！Darren曝周杰倫當年取名內幕　粉絲敲碗新歌 - 鏡週刊 Mirror Media、周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面",
       "created_at": "2026-08-20 02:03:23"
-    },
-    {
-      "id": 149,
-      "report_date": "2026-08-19",
-      "total_articles": 8,
-      "positive_count": 4,
-      "negative_count": 0,
-      "neutral_count": 4,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "周杰倫《太陽之子》MV穿梭名畫場景 新專輯為細女寫歌 情歌MV加入求婚畫面、撇開私生子謠言 周杰倫高調寵妻為昆凌慶祝33歲生日、養出學霸兒／和周杰倫育有2女1子　昆凌認了曾當「控制狂媽媽」",
-      "created_at": "2026-08-19 02:04:28"
     }
   ]
 }
