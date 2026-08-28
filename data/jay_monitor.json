@@ -33942,6 +33942,21 @@
         "專輯熱賣336萬張"
       ],
       "created_at": "2026-08-27 10:26:25"
+    },
+    {
+      "id": 158,
+      "report_date": "2026-08-28",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，新歌〈聖徒〉與挪威舞團Quick Style夢幻聯動，專輯《太陽之子》熱賣逾336萬張並推出限定黑膠。他大手筆購入近5億豪宅並登記昆凌名下，寵妻舉動引發關注。此外，他還策劃藝術拍賣，並幽默分享成為女兒化妝「畫布」的家庭趣事。北京演唱會周邊商品區則發生「0元購」插曲。",
+      "key_events": [
+        "新歌與Quick Style聯動",
+        "近5億豪宅贈昆凌",
+        "策劃藝術品拍賣"
+      ],
+      "created_at": "2026-08-28 12:05:48"
     }
   ],
   "notification_logs": [
@@ -36226,11 +36241,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-08-27 10:26:28"
+    },
+    {
+      "id": 327,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-28 12:05:50"
+    },
+    {
+      "id": 328,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-08-28 12:05:50"
     }
   ],
   "_meta": {
     "nextArticleId": 2273,
-    "nextReportId": 158,
-    "nextLogId": 327
+    "nextReportId": 159,
+    "nextLogId": 329
   }
 }

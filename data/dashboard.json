@@ -1,9 +1,9 @@
 {
   "todayStats": {
-    "total": 2,
+    "total": 0,
     "positive": 0,
     "negative": 0,
-    "neutral": 2
+    "neutral": 0
   },
   "allTimeStats": {
     "total": 2272,
@@ -13,14 +13,6 @@
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-13",
-      "total": 5,
-      "positive": 3,
-      "negative": 0,
-      "neutral": 2,
-      "avg_score": 0.75
-    },
     {
       "date": "2026-08-14",
       "total": 5,
@@ -549,21 +541,36 @@
     }
   ],
   "latestReport": {
-    "id": 157,
-    "report_date": "2026-08-27",
-    "total_articles": 2,
+    "id": 158,
+    "report_date": "2026-08-28",
+    "total_articles": 0,
     "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 2,
-    "daily_summary": "周杰倫新歌〈聖徒〉與挪威舞團Quick Style夢幻聯動，引發國際熱潮，專輯《太陽之子》熱賣逾336萬張。他更豪擲近5億元購入兩戶豪宅登記愛妻昆凌名下，寵妻深情。家庭生活方面，周董為女兒充當彩妝畫布，並高調慶祝昆凌生日，話題不斷。",
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期話題不斷，新歌〈聖徒〉與挪威舞團Quick Style夢幻聯動，專輯《太陽之子》熱賣逾336萬張並推出限定黑膠。他大手筆購入近5億豪宅並登記昆凌名下，寵妻舉動引發關注。此外，他還策劃藝術拍賣，並幽默分享成為女兒化妝「畫布」的家庭趣事。北京演唱會周邊商品區則發生「0元購」插曲。",
     "key_events": [
-      "挪威舞團聯動新歌",
-      "豪宅登記昆凌名下",
-      "專輯熱賣336萬張"
+      "新歌與Quick Style聯動",
+      "近5億豪宅贈昆凌",
+      "策劃藝術品拍賣"
     ],
-    "created_at": "2026-08-27 10:26:25"
+    "created_at": "2026-08-28 12:05:48"
   },
   "recentReports": [
+    {
+      "id": 158,
+      "report_date": "2026-08-28",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，新歌〈聖徒〉與挪威舞團Quick Style夢幻聯動，專輯《太陽之子》熱賣逾336萬張並推出限定黑膠。他大手筆購入近5億豪宅並登記昆凌名下，寵妻舉動引發關注。此外，他還策劃藝術拍賣，並幽默分享成為女兒化妝「畫布」的家庭趣事。北京演唱會周邊商品區則發生「0元購」插曲。",
+      "key_events": [
+        "新歌與Quick Style聯動",
+        "近5億豪宅贈昆凌",
+        "策劃藝術品拍賣"
+      ],
+      "created_at": "2026-08-28 12:05:48"
+    },
     {
       "id": 157,
       "report_date": "2026-08-27",
@@ -645,17 +652,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "狂賣336萬張！周杰倫紅到挪威Quick Style夢幻聯動太神了、周杰倫厲害了！專輯賣破336萬　夢幻聯動挪威大咖男團｜壹蘋新聞網、跨界夢幻聯動！國際舞團cover周杰倫新歌 宣布驚喜推黑膠唱片",
       "created_at": "2026-08-22 02:00:47"
-    },
-    {
-      "id": 151,
-      "report_date": "2026-08-21",
-      "total_articles": 12,
-      "positive_count": 8,
-      "negative_count": 0,
-      "neutral_count": 4,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "周杰倫新歌〈聖徒〉被挪威舞團相中！Quick Style夢幻聯動 《太陽之子》限定黑膠騰開箱、周杰倫「太陽之子」熱度升 挪威神級舞團Quick Style出手、周杰倫《太陽之子》黑膠唱片登場",
-      "created_at": "2026-08-21 02:09:47"
     }
   ]
 }
