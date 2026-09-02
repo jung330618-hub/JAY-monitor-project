@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 2,
+    "total": 4,
+    "positive": 4,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2284,
-    "positive": 716,
+    "total": 2288,
+    "positive": 720,
     "negative": 77,
     "neutral": 1491,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-18",
-      "total": 6,
-      "positive": 5,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.83
-    },
     {
       "date": "2026-08-19",
       "total": 8,
@@ -116,9 +108,73 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.78
+    },
+    {
+      "date": "2026-09-02",
+      "total": 4,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.87
     }
   ],
   "recentArticles": [
+    {
+      "id": 2285,
+      "title": "周杰倫 JAY CHOU《太陽之子 Children of the Sun》",
+      "link": "https://youtu.be/YzPZMZ7UGJA?si=G5kTTuiILTweXL89",
+      "source": "Tavily (youtu.be)",
+      "snippet": "周杰倫2026 新專輯《太陽之子》全13首0:00 1. 太陽之子4:58 2. 西西里8:48 3. 那天下雨了12:32 4. 湘女多情16:31 5. 誰稀罕20:54 6.",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-09-02 04:58:13",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則資訊提及周杰倫預計於2026年發行新專輯《太陽之子》，並列出其中13首歌曲。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2286,
+      "title": "專輯狂銷336萬張！周杰倫夢幻聯動挪威舞團 神級舞蹈掀狂潮｜東森娛樂",
+      "link": "https://ent.ebc.net.tw/music/501504",
+      "source": "Tavily (ent.ebc.net.tw)",
+      "snippet": "下載東森App，隨時掌握天下大小事！\n\n首頁\n\n音樂\n\n# 專輯狂銷336萬張！周杰倫夢幻聯動挪威舞團 神級舞蹈掀狂潮\n\n記者 沈芳宇\n\n分享\n\n周杰倫最新專輯《太陽之子》狂銷破336萬張。（圖／杰威爾音樂提供）\n\n周杰倫最新專輯《太陽之子》狂銷破336萬張。（圖／杰威爾音樂提供）\n\n樂壇天王周杰倫最新專輯《太陽之子》影響力持續擴散，以俐落、快節奏風格紅遍全球的挪威人氣舞團 Quick Style今（20）日與周杰倫在IG聯合發文，Quick Style特別選用周杰倫新專輯中的歌曲〈聖徒〉作為舞蹈素材，運用其標誌性的流暢律動與獨特的鏡頭「移動視角」，賦予這首作品震撼的視覺生命力。\n\nQuick Style 在 IG 發文中興奮寫道：「Quick Style 與周杰倫關注彼此的創作已久，我們終於以他新專輯《太陽之子》中的作品〈聖徒〉為靈感，共同創作了這個作品！現在這張專輯的數位銷售已經突破336萬張！恭喜周杰倫，讓我們繼續互相啟發！」影片一出立刻掀起全球粉絲關注，音樂節奏感強烈的〈聖徒〉在 Quick Style 的詮釋下張力十足，讓不少歌迷看完大呼過癮直呼：「這夢幻聯動太神了！」 [...] 大家關注的消息都在這兒，快來加入東森新聞LINE\n\n周杰倫與挪威人氣舞團Quick Style夢幻聯動。（圖／杰威爾音樂提供）\n\n周杰倫與挪威人氣舞團Quick Style夢幻聯動。（圖／杰威爾音樂提供）\n\n此外，周杰倫延續數位專輯狂銷破336萬張的氣勢，《太陽之子》黑膠唱片已於在8月5日推出，近日社群平台上也掀起一股《太陽之子》黑膠唱片的開箱熱潮，許多粉絲驚喜發現，黑膠唱片盤面上竟刻有專屬的「太陽之子」蝕刻圖騰！唱片公司將周杰倫在新專輯中的帥氣造型，永久定格於黑膠盤面之上。每一處細微紋理都清晰可見、質感拉滿，展現出無可比擬的音樂美學與典藏價值，同時也特別提醒，專屬蝕刻圖騰盤面專為觀賞、珍藏而生，請勿放置播放唱針。\n\n聖徒 周杰倫 太陽專輯 舞團 黑膠唱片 Quick Style\n\n延伸閱讀\n\n 葛斯齊深夜開轟！爆「杰威爾藝人」和黃子佼無異 給一週出來解釋\n 八仙塵爆倖存者三度燒燙傷昏迷！周杰倫暖錄「加油語音」成甦醒關鍵\n 《五燈獎》男星參選墾丁里長！身分竟是「大咖歌后前夫」\n\n推薦文章",
+      "published_at": "Thu, 20 Aug 2026 12:04:00 GMT",
+      "collected_at": "2026-09-02 04:58:13",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《太陽之子》狂銷336萬張，並與挪威舞團Quick Style夢幻聯動，黑膠唱片也因獨特設計掀起收藏熱潮，廣受好評。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2287,
+      "title": "周杰倫率先曝光限定香檳金球拍 —— PHANTACI × HEAD 20 週年聯名系列登場",
+      "link": "https://www.kiks.com.tw/post/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%8E%87%E5%85%88%E6%9B%9D%E5%85%89%E9%99%90%E5%AE%9A%E9%A6%99%E6%AA%B3%E9%87%91%E7%90%83%E6%8B%8D-phantaci-head-20-%E9%80%B1%E5%B9%B4%E8%81%AF%E5%90%8D%E7%B3%BB%E5%88%97%E7%99%BB%E5%A0%B4",
+      "source": "Tavily (www.kiks.com.tw)",
+      "snippet": "系列核心單品之一，便是 PHANTACI × HEAD 聯名球拍。球拍推出黑色與香檳金兩款拍框配色，搭配粉色握把與拍面細節，並將 PHANTACI 經典粉色星型圖像、Paisley 變形蟲圖騰及雙品牌 Logo 融入拍框、拍面與握把，完整延伸聯名視覺。\n\n其中，\\\\SQUARED Phantaci Champagne\\\\ 香檳金版本更是本次 20 週年限定禮盒專屬配色，並由周杰倫率先於 Instagram 曝光。兩款球拍皆提供 U10、U20、U30 三種規格，讓聯名設計從收藏價值一路延伸至實際球場使用。\n\n> ### 20 週年限定禮盒，一次收錄完整聯名陣容\n\n為呼應 PHANTACI 成立 20 週年，品牌同步推出 SQUARED Phantaci Champagne 禮盒組，以香檳金粉色聯名球拍為核心，搭配黑粉配色 Phantaci 3B Tube 聯名網球、Phantaci Dampener 避震器、Phantaci Prestige Pro 吸汗帶、限定 PHANTABEAR 小熊及聯名球拍絨布袋。 [...] top of page\n\n13215.png\n\nOnline Shop\n\n# 周杰倫率先曝光限定香檳金球拍 —— PHANTACI × HEAD 20 週年聯名系列登場\n\n SU MAXX\n 31分钟前\n 讀畢需時 4 分鐘\n\n迎來品牌成立 20 週年的 PHANTACI，這次攜手國際專業運動品牌 HEAD，推出全新 「PHANTACI × HEAD Paisley Collection」聯名系列，從網球運動出發，將 HEAD 深厚的專業網球基因，與 PHANTACI 標誌性的街頭美學融合，打造一系列涵蓋球拍、網球、鞋款、運動袋及球場配件的完整聯名系列。\n\n此次合作以網球運動中的速度、力量與流動感為靈感，將球場上的動態軌跡轉化為貫穿系列的 Paisley 變形蟲圖騰；配色則延續 PHANTACI 經典黑粉，並加入象徵 20 週年的限定香檳金，讓原本屬於專業競技場的網球裝備，換上一身更具街頭華麗感的全新面貌。\n\n> ### 黑粉撞上香檳金，PHANTACI 經典語彙登上 HEAD 聯名球拍 [...] 網球則推出粉色與黑粉兩款配色，其中粉色 Phantaci 3B Tube 可單獨購買，每組 3 顆；黑粉版本則限定收錄於 20 週年聯名禮盒之中，從球拍到球場配件，以完整的黑、粉、金色彩系統串起整套聯名收藏。\n\n> ### 從球場到街頭，黑白兩款聯名鞋延伸網球風格\n\n除了專業網球裝備，本次聯名也將 PHANTACI 的設計語彙帶進日常鞋履。\n\nEndure Pro BOA Phantaci Men BKPK 以黑色為主調，鞋面加入低調 Paisley 變形蟲暗紋，並搭載雙 BOA 旋鈕快速繫帶系統，鞋舌拉環與鞋墊則以粉色細節及雙品牌 Logo 點綴，在專業機能與聯名視覺之間取得平衡。\n\n另一款 Radial Phantaci CWPK 則以白色皮革鞋身呈現簡約復古輪廓，搭配品牌標飾與粉色鞋墊，將網球鞋的經典氣質轉化為更適合日常穿搭的街頭單品。\n\n> ### 運動袋與球場配件，完整收尾聯名系列",
+      "published_at": "Mon, 31 Aug 2026 09:31:57 GMT",
+      "collected_at": "2026-09-02 04:58:13",
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫率先於Instagram曝光PHANTACI與HEAD的20週年聯名系列，其中包含限定香檳金球拍及多款網球相關商品。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2288,
+      "title": "新歌被嫌「歌詞老土」　周杰倫霸氣槓酸民：不愛我就拉倒！ | 音樂 | 三立新聞網 SETN.COM",
+      "link": "https://www.setn.com/news/380081",
+      "source": "Tavily (www.setn.com)",
+      "snippet": "娛樂中心／綜合報導\n\n天王周杰倫今（15）日凌晨釋出新歌《不愛我就拉倒》MV，隨即登上線上影音平台的熱搜冠軍。但由於這首歌是由周杰倫親自填詞，被網友嫌棄歌詞太過生活化，「聽了好尷尬」。對此，周杰倫也透過IG向歌迷喊話：「聽歌不用太認真，爽就好！」更表示歌名已經說了「不愛我就拉倒」，希望網友能適可而止。\n\n▲圖／杰威爾提供\n\n在歌迷的引頸期盼下，周杰倫再度釋出新歌《不愛我就拉倒》，果真在極短的時間內就衝上各大音樂平台和線上影音平台的熱搜冠軍。只不過，過去的歌曲大多由方文山替他寫詞，但這次他卻親自為新歌填詞，寫出：「哥練的胸肌如果你還想靠，好膽你就麥造 」，讓網友崩潰聲連連，紛紛跑去拜託方文山「救救杰倫」。\n\n▲網友灌爆方文山微博，求他「救救杰倫」。（圖／翻攝自方文山微博）\n\n對此，周杰倫稍早也透過IG向酸民喊話：「聽歌不用太認真，爽就好！」並表示自己過去也曾寫過有教育意義的歌，「為何不能來首輕鬆的歌呢，難道你們都沒胸肌嗎？孩子們，我的歌名已經說了『不愛我就拉倒』！」讓歌迷大讚「杰倫霸氣」、「歌名最屌、支持新歌！」\n\n▲圖／翻攝自周杰倫IG\n\n▲影片來源：YouTube，若遭移除請見諒 [...] 12:00\n\n華航串聯員工及會員助力公益逾百萬 \n\n19:00\n\n盤點7位風格獨具的知名室內設計師推薦 \n\n18:30\n\n富邦Ｘ南洋台灣姊妹會 舉辦金融工作坊 \n\n17:00\n\n公益彩券創業　助斷指慈母守護身障兒 \n\n12:00\n\n辦桌台灣隊x台灣之光古寶　征戰世界舞台 \n\n12:00\n\n地主合建首選建商！武泰建設獲五星好評 \n\n12:00\n\n台灣大董事長連4屆入選台灣企業領袖100強 \n\n15:00\n\n2026決勝九合一\n\n倒數88天\n\n首頁\n\n音樂\n\n加入Google首選加入Google首選 \n\n請點選打勾將「三立新聞網」為首選來源，在 Google 上查看更多我們的精彩報導\n\n看新聞換好禮\n\n5\n\n即將獲得2枚\n\n0/50\n\n此篇Get2枚\n\n# 新歌被嫌「歌詞老土」　周杰倫霸氣槓酸民：不愛我就拉倒！\n\n2018/05/15 14:57:00\n\n2018/05/15 15:09:43 更新\n\n加入Google首選加入Google首選 \n\n請點選打勾將「三立新聞網」為首選來源，在 Google 上查看更多我們的精彩報導\n\n娛樂中心／綜合報導",
+      "published_at": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "collected_at": "2026-09-02 04:58:13",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫新歌《不愛我就拉倒》因歌詞被部分網友嫌棄，但他霸氣回應「不愛我就拉倒」，強調聽歌開心就好，歌曲仍登上熱搜冠軍。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2282,
       "title": "周杰倫原創專輯日本版發行企劃第 3 彈、第 4 彈確定推出 - ジェイ・チョウ",
@@ -482,80 +538,39 @@
       "summary": "Eight Members of Global Insider Trading Network Charged With Securities Fraud and Money Laundering Offenses - Department of Justice (.gov)",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2266,
-      "title": "國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒 | ETtoday星光雲 | ETtoday新聞雲",
-      "link": "https://star.ettoday.net/news/3222665",
-      "source": "Tavily (star.ettoday.net)",
-      "snippet": "回首頁\n facebook\n Line\n Twitter\n 複製連結\n\nETtoday新聞雲│ 手機版│ETtoday星光雲APP│ 攝影棚租借│ 新聞訂閱\n\nThreads Line FB IG\n\n 首頁\n 即時\n 熱門\n 影音\n 日韓\n 華娛\n 電影\n 專題\n\n### 星光快訊\n\n## 熱門話題\n\n王陽明 鄭家純 吳速玲 曹格 Joe 許效舜 邱鋒澤 BIBI\n\nETtoday新聞雲\n\n›\n\nETtoday星光雲\n\n# 國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒\n\n記者蔡琛儀／台北報導\n\n樂壇天王周杰倫新專輯《太陽之子》熱度持續延燒，數位與實體銷售開出亮眼成績後，如今更吸引挪威人氣舞團Quick Style跨海合作，雙方今（20日）在Instagram聯合發文，Quick Style特別選用新歌〈聖徒〉編舞，以招牌流暢律動搭配鏡頭移動視角，為歌曲打造全新視覺呈現，影片曝光後也迅速引發歌迷熱議，連周董本人都說：「其實早上原本要工作，看到這個直接清醒。」\n\n▲▼ 國際超人氣舞團Quick Style演繹周杰倫歌曲〈聖徒〉。（圖／杰威爾提供） [...] [廣告]請繼續往下閱讀...\n\nQuick Style在IG表示，其實雙方早已關注彼此的創作動態，如今終於促成合作，並恭喜周杰倫《太陽之子》數位專輯銷量突破336萬張，更喊話：「讓我們繼續互相啟發！」〈聖徒〉強烈節奏搭上舞團俐落舞步，讓不少粉絲興奮直呼「夢幻聯動太神了」，也讓周杰倫作品再次跨出台灣，在國際舞蹈圈掀起話題。\n\n除了跨國合作，《太陽之子》實體收藏也藏有巧思，限定黑膠唱片已於8月5日推出。為保留唱針軌道最大的運作空間，並遵循33 1/3 RPM單面不超過18分鐘的規格，特別採雙片黑膠製作，近期不少歌迷收到商品後紛紛在社群開箱。\n\n其中最令歌迷驚喜的，是黑膠盤面刻上專屬《太陽之子》蝕刻圖騰，更將周杰倫在專輯中的造型永久定格於盤面，細節十足。不少粉絲也實際放上唱盤，感受唱針落下後黑膠特有的溫暖音色與儀式感，不過唱片公司也特別提醒，專屬蝕刻圖騰盤面僅供觀賞收藏，切勿放置播放唱針。\n\n分享給朋友：\n\n追蹤我們：\n\n※本文版權所有，非經授權，不得轉載。[ETtoday著作權聲明]※\n\n## 關鍵字\n\n周杰倫\n\n## 推薦閱讀 [...] ### 精彩短影\n\nmore\n\n【差點賠到脫褲】嚇爛狂奔！只為阻止保時捷親吻勞斯萊斯 aka 拯救錢包\n\n【好游一直游】台南豪雨民宅慘淹！唯一快樂的只有實現水缸自由的龜\n\n林志穎炸翻大巨蛋　獻唱經典歌掀回憶殺\n\n【水深及腰】雨狂炸！高雄愛河之心環河步道淹沒\n\n【機器人運動會】400米田徑狂飆 「爆炸冒火花」全場嚇到尖叫\n\n【還是要注意安全】綠島大風雨！遊客淡定泡戶外溫泉\n\n【台南豪雨來襲】開車上路怎麼變開遊艇出海？\n\n【黃仁勳買包子】突「現身台北街頭」　網曝：好多人跟他合照\n\n鍾麗緹ASMR助眠直播　老公突「朝她臉上放屁」\n\n## 即時新聞\n\n剛剛\n\n剛剛\n\n2小時前31\n\n### 五熊疑涉日本國寶潑油被逮！臉書遭4字洗版　網傻眼：還有諧音哏\n\n3小時前0\n\n### 韓啦啦隊女神認「有段時間每晚哭」　來台滿週一年心聲曝光\n\n4小時前0\n\n### 趙露思監製新劇開機「親爸加盟演將軍」　古裝扮相被讚撞臉黃曉明\n\n4小時前0\n\n### 嘻小瓜穿女裝「遭2男當街羞辱」　還原過程氣炸：憑什麼？\n\n4小時前0\n\n### 訪問／PSY師弟團首來台！「5歲開始吃鳳梨酥」他親曝與台灣「有這連結」",
-      "published_at": "Thu, 20 Aug 2026 06:34:00 GMT",
-      "collected_at": "2026-08-24 02:09:03",
-      "sentiment": "正面",
-      "sentiment_score": 1,
-      "summary": "國際級大咖團體把周杰倫新歌編成舞！　本人驚呆：看到直接清醒 | ETtoday星光雲 | ETtoday新聞雲",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2255,
-      "title": "周杰倫買房！4.84億元掃2戶敦北豪宅4樓戶 房仲：看房邏輯不同",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%B2%B7%E6%88%BF-4-84%E5%84%84%E5%85%83%E6%8E%832%E6%88%B6%E6%95%A6%E5%8C%97%E8%B1%AA%E5%AE%854%E6%A8%93%E6%88%B6-%E6%88%BF%E4%BB%B2-%E7%9C%8B%E6%88%BF%E9%82%8F%E8%BC%AF%E4%B8%8D%E5%90%8C-230743220.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "北市敦北豪宅「璞永敦仰」近期陸續交屋，實價揭露，其中4樓戶二戶以4.84億售出，經比對相關資料，應為華語流行天王周杰倫以太太名義購買，雖為四樓戶",
-      "published_at": "Sat, 22 Aug 2026 02:00:00 GMT",
-      "collected_at": "2026-08-23 02:10:47",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫以近4.84億元購入兩戶台北敦北豪宅，顯示其雄厚財力與成功。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2256,
-      "title": "First Look: Vivo X500 Pro Sighted Ahead of September Launch",
-      "link": "https://nokiamob.net/2026/08/21/vivo-x500-pro-spotted-in-the-wild-jay-chou-leaks-the-new-flagship-design",
-      "source": "Tavily (nokiamob.net)",
-      "snippet": "Taiwanese pop icon and actor Jay Chou was recently photographed on set filming what appears to be a commercial for the upcoming Vivo X500 series. Chou’s involvement comes as no surprise; he previously served as the face of the Vivo X300 Ultra during his 2026 Carnival World Tour in China. This latest sighting strongly suggests he is returning as the primary brand ambassador for the new flagship lineup.",
-      "published_at": "Fri, 21 Aug 2026 07:05:48 GMT",
-      "collected_at": "2026-08-23 02:10:47",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫被拍到拍攝Vivo X500 Pro廣告，預計將再次擔任該品牌旗艦系列的代言人。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2257,
-      "title": "夢幻聯動！挪威人氣舞團Quick Style為周杰倫新歌〈聖徒〉 賦予新生命力 - 鏡週刊 Mirror Media",
-      "link": "https://www.mirrormedia.mg/story/20260820-194ent-131450",
-      "source": "Tavily (www.mirrormedia.mg)",
-      "snippet": "更多\n\n2026.08.20 13:14臺北時間\n\n# 夢幻聯動！挪威人氣舞團Quick Style為周杰倫新歌〈聖徒〉 賦予新生命力\n\nmm-logo\n\n娛樂\n\n周杰倫新專輯《太陽之子》影響力持續擴散至國際。（圖／杰威爾音樂提供）\n\n發布時間：2026.08.20 13:14臺北時間\n\n更新時間：2026.08.20 13:17臺北時間\n\n文\n\n 陳于嬙\n\nfacebook-shareline-share\n\n已複製連結\n\ndonate贊助本文加入訂閱會員\n\n周杰倫新專輯黑膠唱片\n\n周杰倫新專輯《太陽之子》影響力持續擴散至國際，以俐落、快節奏風格紅遍全球的挪威人氣舞團Quick Style，今（20）日與周杰倫在IG聯合發文，Quick Style選用周杰倫的新歌〈聖徒〉作為舞蹈素材，運用其標誌性的流暢律動與獨特的鏡頭「移動視角」，賦予這首作品震撼的視覺生命力。\n\n點按看下一則延伸閱讀文章\n\nQuick Style\n\nQuick Style選用周杰倫的新歌〈聖徒〉作為舞蹈素材。（圖／杰威爾音樂提供） [...] Quick Style在IG發文中寫道：「（Quick Style 與周杰倫關注彼此的創作已久，我們終於以他新專輯《太陽之子》中的作品〈聖徒〉為靈感，共同創作了這個作品，現在這張專輯的數位銷售已經突破336萬張！恭喜周杰倫，讓我們繼續互相啟發！」\n\n影片一出立刻掀起全球粉絲瘋狂關注，音樂節奏感強烈的〈聖徒〉在 Quick Style 的詮釋下張力十足，讓不少歌迷看完大呼過癮，直說：「這夢幻聯動太神了！」\n\n周杰倫\n\n周杰倫新專輯《太陽之子》數位專輯破336萬張。（圖／杰威爾音樂提供）\n\n除了Quick Style的舞蹈與周杰倫新歌「聖徒」的聯動震撼全網，周杰倫對音樂品質的極致追求也展現在實體收藏上，延續數位專輯破336萬張的狂銷氣勢，備受矚目的《太陽之子》黑膠唱片已於日前推出。\n\n近日，社群平台上也掀起一股《太陽之子》黑膠唱片的開箱熱潮，許多粉絲驚喜發現，黑膠唱片盤面上竟刻有專屬的「太陽之子」蝕刻圖騰，唱片公司將周杰倫在新專輯中的造型，永久定格於黑膠盤面之上。每一處細微紋理都清晰可見、質感拉滿，展現出無可比擬的音樂美學與典藏價值。\n\n周杰倫 [...] 線上閱讀\n\n更多內容，歡迎 鏡週刊紙本雜誌、鏡週刊動態雜誌、了解內容授權資訊。\n\n獨家深度分析報導\n\n線上閱讀",
-      "published_at": "Thu, 20 Aug 2026 05:14:00 GMT",
-      "collected_at": "2026-08-23 02:10:47",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "挪威人氣舞團Quick Style為周杰倫新歌〈聖徒〉編舞，賦予其新生命力，引發全球粉絲熱烈迴響，而周杰倫新專輯《太陽之子》數位銷量已突破336萬張，黑膠唱片設計也備受好評。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 162,
-    "report_date": "2026-09-01",
-    "total_articles": 3,
-    "positive_count": 2,
+    "id": 163,
+    "report_date": "2026-09-02",
+    "total_articles": 4,
+    "positive_count": 4,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近期話題不斷。新歌《聖徒》與挪威舞團Quick Style合作，觀看次數一日破200萬，並推出限定黑膠，展現國際級影響力。在個人生活方面，他大手筆為妻子昆凌購入兩戶近5億元的敦北豪宅。然而，他也罕見發聲，表示因打球時常被粉絲要求簽名，決定未來不再到室內打網球，呼籲粉絲別浪費時間在球場等他。此外，其原創專輯日本版也確定將推出第3、4彈。",
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期話題不斷，新歌《聖徒》與挪威舞團Quick Style夢幻聯動，觀看次數一日破200萬，專輯狂銷336萬張。他更霸氣回應歌詞爭議，並宣布因粉絲守候將不再於室內打網球。此外，周董豪擲4.84億元購入兩戶豪宅，登記在昆凌名下，展現寵妻一面。",
     "key_events": [
       "新歌《聖徒》爆紅",
-      "贈妻豪宅近5億",
+      "豪擲4.8億寵妻",
       "宣布不再室內打球"
     ],
-    "created_at": "2026-09-01 05:33:13"
+    "created_at": "2026-09-02 04:58:39"
   },
   "recentReports": [
+    {
+      "id": 163,
+      "report_date": "2026-09-02",
+      "total_articles": 4,
+      "positive_count": 4,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，新歌《聖徒》與挪威舞團Quick Style夢幻聯動，觀看次數一日破200萬，專輯狂銷336萬張。他更霸氣回應歌詞爭議，並宣布因粉絲守候將不再於室內打網球。此外，周董豪擲4.84億元購入兩戶豪宅，登記在昆凌名下，展現寵妻一面。",
+      "key_events": [
+        "新歌《聖徒》爆紅",
+        "豪擲4.8億寵妻",
+        "宣布不再室內打球"
+      ],
+      "created_at": "2026-09-02 04:58:39"
+    },
     {
       "id": 162,
       "report_date": "2026-09-01",
@@ -641,21 +656,6 @@
         "專輯熱賣336萬張"
       ],
       "created_at": "2026-08-27 10:26:25"
-    },
-    {
-      "id": 156,
-      "report_date": "2026-08-26",
-      "total_articles": 4,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 3,
-      "daily_summary": "周杰倫近日新聞焦點集中於其音樂事業與家庭生活。他的新歌〈聖徒〉與專輯《太陽之子》熱度持續攀升，不僅專輯銷量突破336萬張，更與挪威知名舞團Quick Style夢幻聯動，推出共創舞蹈及限定黑膠唱片，令本人驚喜不已。在個人生活方面，周杰倫展現寵妻風範，豪擲近5億元購入兩戶敦北豪宅並登記在昆凌名下，同時也為昆凌慶生，並分享與女兒的溫馨互動。此外，因撞臉周杰倫而爆紅的「粥餅倫」則傳出經營困境，多家店面歇業。周杰倫也策劃了藝術品拍賣，並有演唱會周邊商品遭搶事件。",
-      "key_events": [
-        "新歌聯動舞團",
-        "豪宅贈昆凌",
-        "粥餅倫店面關閉"
-      ],
-      "created_at": "2026-08-26 02:10:55"
     }
   ]
 }
