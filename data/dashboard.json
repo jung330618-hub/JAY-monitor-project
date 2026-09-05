@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
-    "positive": 4,
+    "total": 2,
+    "positive": 2,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2298,
-    "positive": 729,
+    "total": 2300,
+    "positive": 731,
     "negative": 77,
     "neutral": 1492,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-21",
-      "total": 12,
-      "positive": 8,
-      "negative": 0,
-      "neutral": 4,
-      "avg_score": 0.78
-    },
     {
       "date": "2026-08-22",
       "total": 13,
@@ -116,9 +108,45 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.8
+    },
+    {
+      "date": "2026-09-05",
+      "total": 2,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.88
     }
   ],
   "recentArticles": [
+    {
+      "id": 2299,
+      "title": "254萬人預約搶票 周杰倫相隔十年廣州開唱 - 澳門力報官網",
+      "link": "https://www.exmoo.com/article/265209.html",
+      "source": "Tavily (www.exmoo.com)",
+      "snippet": "官方提醒只認準正式渠道\n\n今年4月，網上曾流傳未經確認的廣州演出時間、地點和票價，主辦方一度發聲明指相關資訊不實，提醒歌迷不要支付代搶費或訂金。其後官方活動名單確認12月4日至6日演出，市民仍須以主辦方和獲授權售票平台公布的開售時間、票價及購票規則為準。\n\n254萬是平台登記「想看」或預約提醒的人數，並不等同實際購票量。大型演唱會通常設舞台、設備、消防通道和工作區，可售座位少於場館標稱容量；即使3場連開，預約人數仍會是票量的數十倍，熱門票價區料最先售罄。\n\n為遏止黃牛和假票，售票安排預料採實名制，每張門票綁定購票人身份，入場時核對證件。歌迷應避免透過社交平台與陌生人私下轉帳，亦不要點擊來歷不明的「內部連結」。主辦方如開放轉贈、退票或候補，須依平台正式規則辦理。\n\n廣州市今年持續引入大型演唱會。天河體育中心完成改造後，可承接高規格體育和文娛活動；下半年亦有多名歌手在廣州演出。演唱會客流會帶動酒店、餐飲、交通、零售及旅遊消費，外地歌迷往往把看演出與城市遊覽安排在同一行程。 [...] ↑\n\n#### 分享到微信朋友圈\n\n#### 打開微信 App，掃描上方的二維碼。 [...] 繁體\n\n繁體 简体\n\n 首頁\n 即時新聞\n 今日力報\n\n  + 澳聞\n  + 國際\n  + 中國\n  + 濠鏡疊影\n  + 體育\n  + 科財視界\n  + 娛樂\n  + 大灣區\n 生活 NEW\n 取閱點\n 力報重溫\n\n 澳門力報\n 今日力報\n 灣區投資新聞\n # 周杰倫相隔十年廣州開唱\n\n## 254萬人預約搶票\n\n周杰倫相隔十年廣州開唱\n\n周杰倫相隔十年廣州開唱\n\n周杰倫相隔十年廣州開唱\n\n周杰倫相隔十年廣州開唱\n\n周杰倫相隔十年廣州開唱\n\n主辦方公布演出安排後，歌迷在售票平台登記提醒，社交平台亦出現大量搶票攻略、酒店查詢和交通討論。天河體育中心位處市中心，周邊酒店在演出日期的搜尋量和房價上升，部分熱門房型提早售罄。\n\n周杰倫上一次在廣州舉行個人巡演是2016年。此次連唱3晚，既承接巡演內地場次，也成為廣州站收官演出。歌迷關注曲目會否涵蓋《七里香》、《晴天》、《稻香》等代表作，以及新巡演舞台、點歌和嘉賓環節。\n\n官方提醒只認準正式渠道",
+      "published_at": "Fri, 04 Sep 2026 04:00:00 GMT",
+      "collected_at": "2026-09-05 04:52:50",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫相隔十年重返廣州舉辦演唱會，吸引逾254萬人預約搶票，展現其驚人號召力與市場熱度，同時也帶動當地經濟效益。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2300,
+      "title": "Jay Chou buys two taipei homes worth RM63.7mil | The Straits Times",
+      "link": "https://www.straitstimes.com/life/entertainment/jay-chou-reportedly-buys-two-taipei-homes-for-19-9mil-puts-them-in-wifes-name",
+      "source": "Tavily (www.straitstimes.com)",
+      "snippet": "Published Sep 04, 2026, 12:55 PM\n\nUpdated Sep 04, 2026, 12:55 PM\n\nAI generated\n\nTaiwanese singer Jay Chou has bought two houses worth RM63.7mil (S$19.9 million), registering both properties in his wife Hannah Quinlivan’s name.\n\nAccording to Money UDN website, Chou paid for the properties entirely in cash without taking out any loans. [...] Straitstimes.com header logo\n\nChoose edition\n\nSearch\n\nsingapore\n\nasia\n\nworld\n\nopinion\n\nlife\n\nbusiness\n\nsport\n\nVisual\n\nPodcasts\n\nSTClassifieds\n\nPaid press releases\n\nAdvertise with us\n\nFAQs\n\nContact us\n\n# Jay Chou reportedly buys two Taipei homes for $19.9mil, puts them in wife’s name\n\nSign up now: Get ST's newsletters delivered to your inbox\n\nThe properties are under his wife Hannah Quinlivan’s name.\n\nThe properties are under his wife Hannah Quinlivan’s name.\n\nPHOTO: HANNAH QUINLIVAN/INSTAGRAM [...] The 47-year-old made headlines In May after reportedly spending RM79.3mil on French artist Henri Matisse’s 1924 oil painting The Morning Session. THE STAR/ASIA NEWS NETWORK\n\n###### More on this topic\n\n##### Jay Chou’s Carnival II World Tour to be staged at National Stadium in January for three nights\n\n##### Jay Chou unveils secret 2014 marriage proposal in new I Do music video\n\n###### See more on\n\nCelebrities\n\nTaiwan\n\nProperty investments\n\nE-paper\n\nNewsletters\n\nPodcasts\n\nRSS Feed\n\nAbout Us",
+      "published_at": "Fri, 04 Sep 2026 04:55:00 GMT",
+      "collected_at": "2026-09-05 04:52:50",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫以現金購買兩棟價值約新台幣4.7億元的台北豪宅，並登記在妻子昆凌名下。",
+      "category": "生活",
+      "analyzed": 1
+    },
     {
       "id": 2294,
       "title": "周杰倫替你上了一堂藝術課：《太陽之子》MV六幅名畫的故事全解析 - VERSE",
@@ -510,52 +538,39 @@
       "summary": "此資訊與周杰倫無關，主要探討喜茶聯名青團的市場現象及地方美食全國化的策略。",
       "category": "其他",
       "analyzed": 1
-    },
-    {
-      "id": 2267,
-      "title": "周杰倫「太陽之子」熱度升 挪威神級舞團Quick Style出手",
-      "link": "https://www.worldjournal.com/wj/story/121478/9704633",
-      "source": "Tavily (www.worldjournal.com)",
-      "snippet": "周杰倫最新專輯「太陽之子」持續在全球掀起話題，繼數位銷售突破336萬張後，國際影響力再擴大。挪威人氣舞團Quick Style今（20）日與周杰倫在IG聯合",
-      "published_at": "Fri, 21 Aug 2026 02:00:00 GMT",
-      "collected_at": "2026-08-26 02:10:28",
-      "sentiment": "正面",
-      "sentiment_score": 0.92,
-      "summary": "周杰倫新專輯《太陽之子》在全球熱度持續攀升，數位銷售突破336萬張，並與挪威人氣舞團Quick Style合作，進一步擴大國際影響力。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2268,
-      "title": "撞臉周杰倫爆紅！「粥餅倫」雞蛋灌餅慘關2店現況曝光 嘆：每天能吃飽飯就行",
-      "link": "https://tw.news.yahoo.com/%E6%92%9E%E8%87%89%E5%91%A8%E6%9D%B0%E5%80%AB%E7%88%86%E7%B4%85-%E7%B2%A5%E9%A4%85%E5%80%AB-%E9%9B%9E%E8%9B%8B%E7%81%8C%E9%A4%85%E6%85%98%E9%97%9C2%E5%BA%97%E7%8F%BE%E6%B3%81%E6%9B%9D%E5%85%89-%E5%98%86-%E6%AF%8F%E5%A4%A9%E8%83%BD%E5%90%83%E9%A3%BD%E9%A3%AF%E5%B0%B1%E8%A1%8C-083400580.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "[FTNN新聞網]實習記者陳又綺／綜合報導中國河北雞蛋灌餅攤主「粥餅倫」（本名白獻英）因撞臉華語流行音樂天王周杰倫走紅，近年從街頭攤販轉型開設門市",
-      "published_at": "Tue, 25 Aug 2026 08:00:00 GMT",
-      "collected_at": "2026-08-26 02:10:28",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "一位因撞臉周杰倫而爆紅的攤主「粥餅倫」，其雞蛋灌餅店面經營現況曝光，反映出其生活轉變。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 165,
-    "report_date": "2026-09-04",
-    "total_articles": 5,
-    "positive_count": 4,
+    "id": 166,
+    "report_date": "2026-09-05",
+    "total_articles": 2,
+    "positive_count": 2,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》持續引發熱議，其MV融入藝術名畫及他向昆凌求婚的畫面，而新歌〈聖徒〉更與挪威舞團Quick Style夢幻聯動，舞蹈影片觀看次數一日破200萬，專輯狂銷336萬張。儘管新歌評價兩極，歌詞被批老土，周董霸氣回應酸民。演唱會方面，他將成為全球首位制霸四大國家體育場的歌手，六月北京鳥巢場次備受期待。在個人生活上，周杰倫大手筆為昆凌購入兩戶近5億的豪宅。此外，他因打球時常被粉絲包圍簽名，宣布未來不再到室內球場，呼籲粉絲別浪費時間守候，引發熱烈討論。",
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》與《聖徒》熱度持續，銷量破336萬張並與挪威舞團Quick Style聯動。演唱會門票搶手，他將成首位征服全球四大國家體育場歌手。周董為昆凌購入億萬豪宅，幽默回應歌詞爭議，但也因球迷追星困擾，宣布未來不再於室內打網球。",
     "key_events": [
-      "新專輯《太陽之子》",
-      "制霸四大體育場",
-      "宣布不再室內打球"
+      "新專輯熱銷聯動舞團",
+      "征服四大體育場",
+      "為妻購宅與打球禁令"
     ],
-    "created_at": "2026-09-04 05:04:07"
+    "created_at": "2026-09-05 04:53:36"
   },
   "recentReports": [
+    {
+      "id": 166,
+      "report_date": "2026-09-05",
+      "total_articles": 2,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》與《聖徒》熱度持續，銷量破336萬張並與挪威舞團Quick Style聯動。演唱會門票搶手，他將成首位征服全球四大國家體育場歌手。周董為昆凌購入億萬豪宅，幽默回應歌詞爭議，但也因球迷追星困擾，宣布未來不再於室內打網球。",
+      "key_events": [
+        "新專輯熱銷聯動舞團",
+        "征服四大體育場",
+        "為妻購宅與打球禁令"
+      ],
+      "created_at": "2026-09-05 04:53:36"
+    },
     {
       "id": 165,
       "report_date": "2026-09-04",
@@ -641,21 +656,6 @@
         "新歌聯動挪威舞團"
       ],
       "created_at": "2026-08-30 05:43:48"
-    },
-    {
-      "id": 159,
-      "report_date": "2026-08-29",
-      "total_articles": 5,
-      "positive_count": 2,
-      "negative_count": 2,
-      "neutral_count": 1,
-      "daily_summary": "周杰倫近日宣布不再於室內球場打球，因不滿粉絲等待簽名，呼籲別浪費時間。其新歌〈聖徒〉獲挪威舞團Quick Style合作編舞，專輯《太陽之子》熱賣破336萬張。同時，周董豪擲近5億元購入台北兩戶豪宅，全登記妻子昆凌名下。另有北京演唱會周邊商品遭搶劫事件。",
-      "key_events": [
-        "不再球場打球",
-        "新歌獲國際舞團合作",
-        "豪擲近5億購豪宅"
-      ],
-      "created_at": "2026-08-29 07:19:28"
     }
   ]
 }
