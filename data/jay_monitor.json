@@ -34522,6 +34522,21 @@
         "豪宅贈昆凌名下"
       ],
       "created_at": "2026-09-06 05:00:44"
+    },
+    {
+      "id": 168,
+      "report_date": "2026-09-07",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫新專輯《太陽之子》發行，主打歌〈聖徒〉與挪威舞團Quick Style合作引發熱潮。他將創紀錄成為首位在四國國家體育場開唱的華語歌手，廣州演唱會預約人數破254萬。周杰倫豪擲近5億元購入豪宅贈昆凌。他宣布未來不再到室內球場打網球，因粉絲簽名困擾。",
+      "key_events": [
+        "新專輯與舞團合作",
+        "豪擲近5億購豪宅",
+        "演唱會創紀錄開唱"
+      ],
+      "created_at": "2026-09-07 05:08:35"
     }
   ],
   "notification_logs": [
@@ -36946,11 +36961,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-09-06 05:00:46"
+    },
+    {
+      "id": 347,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-07 05:08:36"
+    },
+    {
+      "id": 348,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-07 05:08:37"
     }
   ],
   "_meta": {
     "nextArticleId": 2304,
-    "nextReportId": 168,
-    "nextLogId": 347
+    "nextReportId": 169,
+    "nextLogId": 349
   }
 }
