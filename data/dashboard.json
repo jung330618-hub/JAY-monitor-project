@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 2,
+    "total": 1,
+    "positive": 1,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2325,
-    "positive": 748,
+    "total": 2326,
+    "positive": 749,
     "negative": 77,
     "neutral": 1500,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-08-30",
-      "total": 3,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.78
-    },
     {
       "date": "2026-08-31",
       "total": 1,
@@ -124,9 +116,31 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.77
+    },
+    {
+      "date": "2026-09-14",
+      "total": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.95
     }
   ],
   "recentArticles": [
+    {
+      "id": 2326,
+      "title": "Sales of Jay Chou's \"Children of the Sun\" have exceeded 100 million RMB, as Tencent Music Entertainment Group Drives Global Rollout",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/sales-jay-chous-children-sun-045400738.html",
+      "source": "Tavily (finance.yahoo.com)",
+      "snippet": "1698.HK\n\n  -0.77%\n\nSHENZHEN, China, March 28, 2026 /PRNewswire/ -- Mandopop superstar Jay Chou's 16th studio album \"Children of the Sun\" premiered worldwide on March 25, with an exclusive release on Tencent Music Entertainment Group's platforms, including QQ Music, Kugou Music, and Kuwo Music. Since pre-orders launched on March 19, the album's sales have continued to climb, with total revenue across all platforms exceeding 100 million RMB, confirming Jay Chou's enduring appeal.\n\n[]( [...] As long-term strategic partners, Tencent Music and JVR Music released Jay Chou's first digital album \"Aiyo, Not Bad\" in 2014, and \"Greatest Works of Art\" in 2022—a work that set a record as an \"Epic Hall of Fame Album.\" Through the combination of exclusive distribution and coordinated promotional initiatives, Tencent Music Entertainment Group has further accelerated the global rollout of Jay Chou's new album, deepening its connection with fans around the world.",
+      "published_at": "Fri, 27 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-09-14 05:21:35",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫新專輯《日不落的孩子》銷售額突破1億人民幣，再次證明其不朽魅力，並由騰訊音樂娛樂集團推動全球發行。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2323,
       "title": "賣灌餅長太像周杰倫爆紅！「粥餅倫」驚傳全中國門市都倒閉 - 國際 - 自由時報電子報",
@@ -532,38 +546,39 @@
       "summary": "周杰倫時隔四年將發行第16張全新專輯《太陽之子》，收錄13首歌曲，其中包含寫給小女兒的歌，同名主打歌MV耗資近億台幣並邀請Weta Workshop製作，專輯將於3月25日數位發行。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2296,
-      "title": "KTV排行榜像停在20年前！周杰倫還在《擱淺》 蔡依林繼續《倒帶》 - 自由娛樂",
-      "link": "https://ent.ltn.com.tw/news/breakingnews/5561317",
-      "source": "Tavily (ent.ltn.com.tw)",
-      "snippet": "加入Google首選\n\n# KTV排行榜像停在20年前！周杰倫還在《擱淺》 蔡依林繼續《倒帶》\n\n加入Google首選\n\n〔記者邱奕欽／台北報導〕朋友聚會時，KTV至今仍是不少人的娛樂首選，不過有網友近日睽違多年再度走進KTV，打開點歌排行榜後卻愣住，發現榜上熟悉的歌名幾乎沒變，周杰倫仍是《擱淺》，蔡依林依舊是《倒帶》，讓他忍不住驚呼：「怎麼還跟20年前差不多？」\n\n周杰倫（左）《擱淺》、蔡依林《倒帶》發行多年，至今仍穩居KTV熱門點播歌曲排行榜。（本報組合資料照）周杰倫（左）《擱淺》、蔡依林《倒帶》發行多年，至今仍穩居KTV熱門點播歌曲排行榜。（本報組合資料照）\n\n該名網友在Threads分享點歌排行榜畫面，直言自己很久沒進KTV，沒想到排行榜前幾名依舊是許多耳熟能詳的經典歌曲，他感嘆陳奕迅彷彿還停留在《十年》，蔡依林繼續《倒帶》，周杰倫則仍是《擱淺》，看著榜單有種時間彷彿靜止的錯覺。然而，對許多人來說當《擱淺》、《倒帶》、《十年》等歌名依然穩坐排行榜時，彷彿也見證了華語流行音樂黃金年代留下的深刻影響力。\n\n請繼續往下閱讀... [...] 自由時報 \n\n 即時\n 熱門\n 政治\n 財富自由\n 軍武\n 社會\n 生活\n 健康\n 國際\n 地方\n 蒐奇\n 影音\n 財經\n 娛樂\n 汽車\n 時尚\n 體育\n 3 C\n 評論\n 藝文\n 玩咖\n 食譜\n 地產\n 求職\n\n娛樂首頁 即時新聞 熱門新聞 娛樂時尚 日韓 亞洲 歐美 電視 電影 音樂 星座 自由娛樂粉絲團自由娛樂粉絲團\n\n自由影音\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇\n\n財富自由 財經 娛樂 藝文 汽車 時尚 體育 3 C 評論 玩咖 食譜 地產 專區 服務\n\n自由電子報 APP 自由電子報粉絲團 自由電子報 Line 自由電子報 X 熱門新訊\n\n自由娛樂\n\n限制級\n\n###### 您即將進入之新聞內容 需滿18歲 方可瀏覽。\n\n未滿18歲  \n或不同意本條款離開離開) 我同意  \n我已年滿18歲進入進入)\n\n根據「電腦網路內容分級處理辦法」修正條文第六條第三款規定，已於網站首頁或各該限制級網頁，依台灣網站分級推廣基金會規定作標示。 台灣網站分級推廣基金會（TICRF）網站：\n\n娛樂  〉 最新消息\n\n加入Google首選 [...] ### 2026香港小姐出爐 冠軍袁絲珩傲人背景曝光\n Joeman全面停工反省  經紀人Yuni「無法認同感情觀」 \n\n  ### Joeman全面停工反省 經紀人Yuni「無法認同感情觀」\n 陳曉東大巨蛋開球遭抵制！昔挺港警、秀五星紅旗「台鋼雄鷹急換嘉賓」 \n\n  ### 陳曉東大巨蛋開球遭抵制！昔挺港警、秀五星紅旗「台鋼雄鷹急換嘉賓」\n 葉元之急CALL IN喊被斷章取義！主播吳安琪列逐字稿砲轟「道歉很難？」 \n\n  ### 葉元之急CALL IN喊被斷章取義！主播吳安琪列逐字稿砲轟「道歉很難？」\n 陳秋燕油麻菜籽命 傳奇演藝路 \n\n  ### 陳秋燕油麻菜籽命 傳奇演藝路\n 台語歌后黃乙玲消失11年！為了陳盈潔破例發聲 \n\n  ### 台語歌后黃乙玲消失11年！為了陳盈潔破例發聲\n （獨家）不願陳盈潔身後事成戰場！許常德急喊卡音樂會 胡瓜舊怨也降溫 \n\n  ### （獨家）不願陳盈潔身後事成戰場！許常德急喊卡音樂會 胡瓜舊怨也降溫\n 梅艷芳102歲母親離世 3億遺產全捐佛學會",
-      "published_at": "Wed, 02 Sep 2026 23:16:34 GMT",
-      "collected_at": "2026-09-04 05:03:36",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫的歌曲如《擱淺》至今仍穩居KTV熱門點播排行榜，顯示其作品的經典地位與持續不墜的影響力。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 174,
-    "report_date": "2026-09-13",
-    "total_articles": 3,
-    "positive_count": 2,
+    "id": 175,
+    "report_date": "2026-09-14",
+    "total_articles": 1,
+    "positive_count": 1,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近期發行新專輯《太陽之子》與新歌《聖徒》（與挪威舞團合作），並預告2026年新專輯。他成功舉辦北京鳥巢及廣州演唱會，創下全球首位制霸四大國家體育場的紀錄。私生活方面，為昆凌購入豪宅，昆凌也爆料姊姊曾為買專輯砸存錢筒。周董更首次入圍「全球百大帥哥」，並與多個品牌聯名，話題不斷。",
+    "neutral_count": 0,
+    "daily_summary": "周杰倫新專輯《太陽之子》銷量破億獲獎，新歌〈聖徒〉與挪威舞團合作引爆話題。他不僅征服多國體育場開唱，更首度入圍「全球百大帥哥」。同時，周董豪擲千萬為愛妻昆凌購置豪宅，並積極代言。酷似他的「粥餅倫」門市傳倒閉，他則宣布未來不再室內打網球。",
     "key_events": [
-      "新專輯《太陽之子》",
-      "鳥巢廣州開唱",
-      "為昆凌買豪宅"
+      "《太陽之子》破億",
+      "攻佔國家體育場",
+      "豪贈昆凌千萬宅"
     ],
-    "created_at": "2026-09-13 05:17:50"
+    "created_at": "2026-09-14 05:21:58"
   },
   "recentReports": [
+    {
+      "id": 175,
+      "report_date": "2026-09-14",
+      "total_articles": 1,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫新專輯《太陽之子》銷量破億獲獎，新歌〈聖徒〉與挪威舞團合作引爆話題。他不僅征服多國體育場開唱，更首度入圍「全球百大帥哥」。同時，周董豪擲千萬為愛妻昆凌購置豪宅，並積極代言。酷似他的「粥餅倫」門市傳倒閉，他則宣布未來不再室內打網球。",
+      "key_events": [
+        "《太陽之子》破億",
+        "攻佔國家體育場",
+        "豪贈昆凌千萬宅"
+      ],
+      "created_at": "2026-09-14 05:21:58"
+    },
     {
       "id": 174,
       "report_date": "2026-09-13",
@@ -649,21 +664,6 @@
         "宣布不再室內打球"
       ],
       "created_at": "2026-09-08 05:06:29"
-    },
-    {
-      "id": 168,
-      "report_date": "2026-09-07",
-      "total_articles": 0,
-      "positive_count": 0,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫新專輯《太陽之子》發行，主打歌〈聖徒〉與挪威舞團Quick Style合作引發熱潮。他將創紀錄成為首位在四國國家體育場開唱的華語歌手，廣州演唱會預約人數破254萬。周杰倫豪擲近5億元購入豪宅贈昆凌。他宣布未來不再到室內球場打網球，因粉絲簽名困擾。",
-      "key_events": [
-        "新專輯與舞團合作",
-        "豪擲近5億購豪宅",
-        "演唱會創紀錄開唱"
-      ],
-      "created_at": "2026-09-07 05:08:35"
     }
   ]
 }
