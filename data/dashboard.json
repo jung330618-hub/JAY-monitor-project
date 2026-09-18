@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 7,
+    "total": 9,
     "positive": 7,
     "negative": 0,
-    "neutral": 0
+    "neutral": 2
   },
   "allTimeStats": {
-    "total": 2341,
-    "positive": 763,
+    "total": 2350,
+    "positive": 770,
     "negative": 77,
-    "neutral": 1501,
+    "neutral": 1503,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-09-03",
-      "total": 5,
-      "positive": 5,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.9
-    },
     {
       "date": "2026-09-04",
       "total": 5,
@@ -124,9 +116,143 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.9
+    },
+    {
+      "date": "2026-09-18",
+      "total": 9,
+      "positive": 7,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.83
     }
   ],
   "recentArticles": [
+    {
+      "id": 2342,
+      "title": "周杰倫《太陽之子》黑膠唱片登場",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB-%E5%A4%AA%E9%99%BD%E4%B9%8B%E5%AD%90-%E9%BB%91%E8%86%A0%E5%94%B1%E7%89%87%E7%99%BB%E5%A0%B4-094407939.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "打開App\n\n廣告\n\n中華日報\n\n# 周杰倫《太陽之子》黑膠唱片登場\n\n中華新聞雲\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n傳出看PLG友誼賽時，身體突然感到不適，隨即前往醫院就診，後來發現是急性心肌梗塞，還好火速動手術後，目前狀況穩定，而和他結婚15年的妻子「范范」范瑋琪昨受訪表示，先生本來要帶孩子飛名古屋，「好險他真的沒有去，不然他就會像熙媛一樣...你知道嗎？真的嚇死我了！」引來名醫、日本旅遊達人林氏璧（孔祥琪）傻眼發文，質疑范范是否又再度失言。\n\n中時新聞網 ・ 4 小時前 ・ 19則留言\n\n### 陶喆罕見曬一家三口全家福！與老婆江佩蓉、7歲兒子陶璽出海放閃　BonBon神複製爸爸\n\n金曲歌王陶喆今（15）日罕見放閃，曬出一家三口最新全家福，和老婆江佩蓉（Penny）、7歲兒子陶璽（BonBon）一同出海，悠閒度過海上午後，畫面充滿天倫之樂！\n\n姊妹淘 ・ 1 天前 ・ 4則留言\n\n### 黃仁勳愛機換了？川普來電意外曝光 [...] 鏡報 ・ 19 小時前 ・ 發表留言\n\n### 中國教練飛機上抓小孩問「台灣是不是中國的」！小男孩「淡定1句反將一軍」他當場破\n\n國際中心／巫旻璇報導一名中國潛水教練近日結束菲律賓潛水帶隊行程、搭機返回中國途中，突然向鄰座小男孩追問「台灣是否屬於中國」，沒想到男童聽完後直接回答「No」。男子隨後仍持續向對方宣稱「台灣屬於中國」，甚至將整段過程拍下上傳社群，相關畫面曝光後也引來不少網友吐槽。\n\n民視 ・ 1 天前 ・ 119則留言\n\n### 潘慧如移居恆春 揭在地民眾超暖行為：開心成為小鎮成員\n\n藝人潘慧如近年將重心移往屏東恆春，並打造屬於自己的渡假小屋，由於生活環境貼近大自然，能夠徹底放鬆，她近日在社群發文透露恆春除了是對寵物友善的城鎮，人情味也一樣濃厚，才住短短一個星期，就感受到滿滿的愛，讓她興奮表示：「很開心可以成為這個可愛城鎮的一小員」。\n\n中時新聞網 ・ 1 天前 ・ 8則留言\n\n### 機器人業務暴增250％！存股首選台積電之外還有誰？ 蔡明翰點名「這檔龍頭」：不愛飆、默默賺 [...] 鏡報 ・ 3 小時前 ・ 57則留言\n\n### 新疆12天團變地獄行！團員「餓到發抖」怒告主揪…結局大反轉\n\n社會中心／楊佩怡報導高雄一名蕭姓女子於民國 114 年 6 月號召團員前往中國新疆展開為期 12 天的北疆之旅，未料美好的旅遊行程竟演變成團員眼中的「地獄團」。雙方返台後不僅鬧上警局，蕭女更在獲不起訴處分後向團員求償 10 萬元。橋頭地方法院審理後，認定團員言論屬合理解評、提告乃合法權利，判決蕭女敗訴。\n\n民視 ・ 4 小時前 ・ 19則留言\n\n### 燉肉吃一半出事了！孩子數「八角」竟有13角　真相嚇壞媽\n\n綜合陸媒報導，浙江一名黃姓女子幾個月前曾在住家附近超市購買散裝八角，當時直接裝袋秤重，外觀看來並無異常。直到日前她取出香料燉煮紅燒牛肉，一家人用餐時，兩名年幼孩子突然好奇詢問「為什麼八角叫八角」，並透過智慧音箱得知八角通常有8個角。孩子隨後乾脆拿起料理中的...\n\nCTWANT ・ 1 天前 ・ 3則留言\n\n### Lisa首度回應種族歧視爭議　認錯「絕對不會再做出那樣的行為」",
+      "published_at": "Wed, 19 Aug 2026 05:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫推出《太陽之子》黑膠唱片，為歌迷帶來新收藏。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2343,
+      "title": "星巴克 | 全新「周杰倫合作限定：Jay系列商品」登陸香港",
+      "link": "https://inews.hket.com/article/4195392/FOOD%20-%20%E6%98%9F%E5%B7%B4%E5%85%8B%E3%80%8C%E5%91%A8%E6%9D%B0%E5%80%AB%E5%90%88%E4%BD%9C%E9%99%90%E5%AE%9A%EF%BC%9AJay%E7%B3%BB%E5%88%97%E5%95%86%E5%93%81%E3%80%8D%E7%99%BB%E9%99%B8%E9%A6%99%E6%B8%AF",
+      "source": "Tavily (inews.hket.com)",
+      "snippet": "星巴克推出「周杰倫合作限定：Jay系列商品」即日起登陸香港。限量系列以周杰倫的創作風格為靈感，結合歌迷多年來對其音樂作品的深厚情感，",
+      "published_at": "Thu, 17 Sep 2026 06:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "星巴克在香港推出周杰倫合作限定的「Jay系列商品」，靈感來自其創作風格與歌迷情感。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2344,
+      "title": "周杰倫沒跟昆凌飛巴黎！陪4歲女兒合唱「超萌模樣」曝光 深夜突隔空喊老婆",
+      "link": "https://www.mirrordaily.news/story/86421",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "舞台上是叱吒歌壇的天王，私底下卻完全是「愛妻＋女兒傻瓜」！周杰倫（周董）愛妻昆凌近日飛往巴黎工作，他則專心陪伴家人，今（17日）晚卻忍不住在IG限動隔空黏妻，",
+      "published_at": "Thu, 17 Sep 2026 22:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在昆凌赴巴黎工作期間，專心陪伴女兒並隔空向妻子示愛，展現愛家好男人形象。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2345,
+      "title": "周杰倫與4歲女兒同登台 合唱《聽媽媽的話》",
+      "link": "https://www.epochtimes.com/b5/26/9/17/n14851651.htm",
+      "source": "Tavily (www.epochtimes.com)",
+      "snippet": "9月16日晚，周杰倫在IG晒出與4歲小女兒Jacinda的同台合照，並配文：「今晚跟『我美嗎女士』合唱了《聽媽媽的話》。」",
+      "published_at": "Fri, 18 Sep 2026 03:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在社群媒體分享與4歲女兒Jacinda同台合唱《聽媽媽的話》的溫馨時刻。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2346,
+      "title": "Jay Chou",
+      "link": "https://www.wikiwand.com/en/Jay_Chou",
+      "source": "Tavily (www.wikiwand.com)",
+      "snippet": "From Wikipedia, the free encyclopedia\n\nJay Chou Chieh-lun (traditional Chinese:周杰倫; simplified Chinese:周杰伦; pinyin:_Zhōu Jiélún_; born 18 January 1979) is a Taiwanese singer-songwriter, actor, director, and businessman. Widely regarded as one of the most influential figures in the Chinese-speaking world, he is referred to as the \"King of Mandopop\".\n\nImage 2\n\nBorn\n\nJay Chou Chieh-lun\n\n  \n (1979-01-18) 18 January 1979 (age 47)  \n\nLinkou, Taipei County, Taiwan\n\nOccupations [...] Chou is one of the best-selling recording artists in Taiwanese history, having sold over 30 million albums worldwide.( He is the most-awarded singer at the Golden Melody Awards—with 15 accolades, and his music videos are among the most-viewed on YouTube—with six surpassing 100 million views, the most for any Chinese artist. Chou's Opus Jay World Tour (2013–2015) generated over US$250 million in revenue while The Invincible World Tour (2016–2019) drew an audience of over 3 million. [...] | 周杰倫 |\n| Image 3 Chou in 2026 |\n| Born | Jay Chou Chieh-lun (1979-01-18) 18 January 1979 (age 47) Linkou, Taipei County, Taiwan |\n| Occupations |  Singer  songwriter  record producer  actor  television personality  businessman |\n| Years active | 2000–present |\n| Works |  Albums  singles  songs recorded |\n| Spouse | Hannah Quinlivan ​ (m.2015)​ |\n| Children | 3 |\n| Awards | Full list |\n| Musical career |\n| Origin | Taipei, Taiwan |\n| Genres |  Mandopop  R&B  Chinese rock  Chinese hip-hop |",
+      "published_at": "Wed, 01 Apr 2026 15:20:38 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "這篇維基百科摘要全面介紹了周杰倫作為華語樂壇極具影響力的「華語流行音樂天王」，並列舉了他在音樂、影視及商業上的輝煌成就。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2347,
+      "title": "Jay Chou Singapore Tickets - Singapore National Stadium | Jan 9, 2027",
+      "link": "https://concerts50.com/show/jay-chou-in-singapore-tickets-jan-09-2027",
+      "source": "Tavily (concerts50.com)",
+      "snippet": "facebook\ninstagram\ntwitter\ntiktok\nyoutube\n\n# Jay Chou\n\nJan 9, 2027 at 7:30 PM \n · \nSingapore National Stadium, Singapore\nSingapore National Stadium, Singapore\n\nJay Chou\nJay Chou\n\n## Jay Chou Tickets\n\n|  |  |\n --- |\n| StubHub | tickets |\n\n## LineUp\n\nJay Chou\n\nJay Chou\n\n6 concerts\n\n## Concert Info\n\nGenre:\nTaiwanese Pop, Mandopop, Cantopop, C-Pop, Pop, World, Asian Pop, taiwan pop, chinese r&b, gufeng, zhongguo feng\n\n### Videos\n\n## Venue Info [...] |  |  |  |\n --- \n| Sat, 7:30 PM  Oct 17  2026 | Jay Chou \"Carnival II\" World Tour in Melbourne  Marvel Stadium - Docklands, Australia | tickets |\n| Sat, 7:30 PM  Nov 21  2026 | Jay Chou \"Carnival II\" World Tour in Sydney  ENGIE Stadium - Sydney Olympic Park, Australia | tickets |\n| Fri, 8:00 PM  Jan 8  2027 | Jay Chou  Singapore National Stadium - Singapore, Singapore | tickets |\n\n## More Concerts at Singapore National Stadium\n\nDon Toliver\n\nSep 25 · Fri, 8:00 PM [...] Mayday\n\n1 concert\n\nBy clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and assist in our marketing efforts. You can view our privacy policy here.\n  \nAccept\n\nfacebook\ninstagram\ntwitter\ntiktok\nyoutube\n\nDon't have an account? Sign Up\n\nForgot password?\nClick here\n\nBy proceeding, you agree with our\nTerms of Service,\nPrivacy Policy",
+      "published_at": "Mon, 31 Aug 2026 00:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將於2027年1月9日在新加坡國家體育場舉辦「嘉年華II」世界巡迴演唱會，並列出其他巡演場次與購票資訊。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2348,
+      "title": "周杰倫 Jay Chou – 七里香 (TINC Remix) - YouTube",
+      "link": "https://www.youtube.com/watch?v=JICuMYjkMpU",
+      "source": "Tavily (www.youtube.com)",
+      "snippet": "What if one of Jay Chou's most nostalgic classics became a trance anthem? Thank you for listening! I hope you enjoyed this remix, leave a comment,",
+      "published_at": "Fri, 28 Aug 2026 00:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫 Jay Chou – 七里香 (TINC Remix) - YouTube",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2349,
+      "title": "Instagram",
+      "link": "https://www.instagram.com/reel/DcOr_HzszOM",
+      "source": "Tavily (www.instagram.com)",
+      "snippet": "Quick Style and Jay Chou have been following each other’s creative journeys for a while and we finally got to create something inspired by “SAINT” from his new album «Children of the Sun», now surpassing 3.36 million digital album sales. 🔥  \n  \nCongratulations, let’s keep inspire each other!\n\nthe.odd_studio's profile picture\n\nthe.odd\\_studio\n\nHello, we do mural relief sculpture art wall.\n\nReply\n\nelena____looi's profile picture\n\nelena\\_\\_\\_\\_looi\n\n👏\n\nReply\n\njun_____ying's profile picture [...] Log In\n\nSign Up\n\nthequickstyle's profile picture\n\nNever miss a post from thequickstyle\n\nSign up for Instagram to stay in the loop.\n\nSign up\n\nLog in\n\nVideo by QUICK STYLE ® on August 19, 2026. May be an image of poster, magazine and text that says 'SAINT JAY AYCHOU CHOU QUICK QUICKSTYLE STYLE লট'.\n\njaychou's profile picture\n\nthequickstyle's profile picture\n\nand\n\nthequickstyle's profile picture\n\nthequickstyle Edited• [...] pure\\_of\\_heart\\_0323\n\n周哥再早個十年出來跳，一定更帥！這種舞風，根本難不倒周哥😎帥氣漲粉一波👏❤️現在出來怕閃到腰😂\n\nReply\n\nchiangvalerie's profile picture\n\nchiangvalerie\n\n好帥的舞蹈和編排！！！！！！🔥🔥🔥🔥🔥🔥🔥🔥\n\n1 like\n\nReply\n\ncosalltheusernamesvebeentaken's profile picture\n\ncosalltheusernamesvebeentaken",
+      "published_at": "Wed, 19 Aug 2026 00:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "Quick Style與周杰倫合作，為其銷量突破336萬張的專輯《Children of the Sun》中的歌曲「SAINT」編排舞蹈，廣受好評。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2350,
+      "title": "Activating the Jay Chou within every Millennials in the club - Instagram",
+      "link": "https://www.instagram.com/reel/DdY9rEYTWrf",
+      "source": "Tavily (www.instagram.com)",
+      "snippet": "Activating the Jay Chou within every Millennials in the club · POV: you came for a rave and accidentally got a concert too · Your childhood memories just",
+      "published_at": "Thu, 17 Sep 2026 13:00:00 GMT",
+      "collected_at": "2026-09-18 05:05:53",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Activating the Jay Chou within every Millennials in the club - Instagram",
+      "category": "其他",
+      "analyzed": 1
+    },
     {
       "id": 2335,
       "title": "JAY CHOU周杰倫 新專輯 【太陽之子】- 06. 七月的極光 - YouTube",
@@ -420,146 +546,31 @@
       "summary": "周杰倫親自執導並主演的〈西西里〉MV正式上線，展現動作身手並遠赴義大利取景，獲得粉絲好評。",
       "category": "新歌",
       "analyzed": 1
-    },
-    {
-      "id": 2322,
-      "title": "vivo X500機身設計公布！找來影像大使周杰倫開箱X500 Pro Max- SOGI 手機王",
-      "link": "https://www.sogi.com.tw/articles/vivo-x500-pro-max/6269632",
-      "source": "Tavily (www.sogi.com.tw)",
-      "snippet": "特別推薦\n\n專題企劃\n\n Lenovo Idea Tab Pro Gen 2開箱！13吋大平板支援AI圈選解說、一鍵整理筆記 \n\n#Lenovo\n\n Lenovo Idea Tab Pro Gen 2開箱！13吋大平板支援AI圈選解說、一鍵整理筆記\n\n專題企劃\n\n 榮耀全新HONOR 600 Pro開箱實測！不只是拍照手機 更是AI創作神器 \n\n#HONOR榮耀\n\n 榮耀全新HONOR 600 Pro開箱實測！不只是拍照手機 更是AI創作神器\n\n專題企劃\n\n 為什麼三星Galaxy A57 5G值得買？台灣銷售五連霸的超值國民神機關鍵攻略 \n\n#SAMSUNG三星 #A57\n\n 為什麼三星Galaxy A57 5G值得買？台灣銷售五連霸的超值國民神機關鍵攻略\n\n最新消息\n\n專題企劃\n\n 蘋果首款摺疊機iPhone Duo登場！價格超過7萬4你會買單嗎？ \n\n#Apple蘋果\n\n 蘋果首款摺疊機iPhone Duo登場！價格超過7萬4你會買單嗎？ \n\n2026/09/11\n\n神腦iPhone 18 Pro系列購機享3%回饋無上限！電池舊換新現折500 \n\n優惠速報 [...] #購物月報 #HTC宏達電\n\n價格砍半HTC U24 pro只剩256GB版本還買得到！8月通路最新報價一次看\n\n留言\n\n#### 登入會員\n\n產品已成功加入至產品追蹤清單\n\n產品比較一次最多五筆唷！前往比較清單\n\n成功！\n\n產品已成功加入至比較清單\n\n 手機品牌\n SAMSUNG\n Apple\n OPPO\n vivo\n 小米\n ASUS\n Sony\n realme\n\n 熱門手機\n iPhone 17\n iPhone 17 Pro\n 三星 S26 Ultra\n 三星 A57 5G\n vivo X300 Pro\n OPPO Reno16\n OPPO Find X9 Pro\n 小米 17T Pro\n\n 手機維修\n 搞懂維修保固\n 手機送修要注意\n 手機泡水怎麼救\n 安卓手機重置\n 蘋果安卓跳槽\n 安卓資料轉移\n\n 手機王\n 關於我們\n 聯絡我們\n 隱私權政策\n 智慧財產權聲明\n FB登入問題\n\n 合作聯絡\n 廣告刊登\n 加入商店報價\n 新聞聯絡\n\n 合作夥伴\n 法律顧問\n 媒體合作 [...] 優惠速報\n\n#Apple蘋果 #iPhone18\n\n神腦iPhone 18 Pro系列購機享3%回饋無上限！電池舊換新現折500\n\n2026/09/11\n\nASUS小尺寸手機Zenfone 10還有更新可以下載！華碩推出2026年8月安全性維護升級 \n\n應用服務\n\n#ASUS華碩 #系統更新\n\nASUS小尺寸手機Zenfone 10還有更新可以下載！華碩推出2026年8月安全性維護升級\n\n2026/09/11\n\n熱門新聞\n\n應用服務\n\n 如何自動拒接無號碼電話？安卓手機與iPhone設定教學一次看懂 \n\n#防詐騙\n\n 如何自動拒接無號碼電話？安卓手機與iPhone設定教學一次看懂 \n\n2026/08/18\n\n三星Galaxy A57現在值不值得買？8月通路最低價格與購買建議一次看 \n\n優惠速報\n\n#購物月報 #SAMSUNG三星 #A57\n\n三星Galaxy A57現在值不值得買？8月通路最低價格與購買建議一次看\n\n價格砍半HTC U24 pro只剩256GB版本還買得到！8月通路最新報價一次看 \n\n優惠速報\n\n#購物月報 #HTC宏達電",
-      "published_at": "Fri, 11 Sep 2026 07:00:00 GMT",
-      "collected_at": "2026-09-12 04:55:37",
-      "sentiment": "正面",
-      "sentiment_score": 0.8,
-      "summary": "周杰倫擔任vivo影像大使，為vivo X500 Pro Max手機進行開箱活動。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2311,
-      "title": "周杰倫罕見說重話「以後不去了」！突宣布1禁令　喊話粉絲：別浪費時間",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%BD%95%E8%A6%8B%E8%AA%AA%E9%87%8D%E8%A9%B1-%E4%BB%A5%E5%BE%8C%E4%B8%8D%E5%8E%BB%E4%BA%86-%E7%AA%81%E5%AE%A3%E5%B8%831%E7%A6%81%E4%BB%A4-%E5%96%8A%E8%A9%B1%E7%B2%89%E7%B5%B2-%E5%88%A5%E6%B5%AA%E8%B2%BB%E6%99%82%E9%96%93-080400449.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "打開App\n\n廣告\n\n# 周杰倫罕見說重話「以後不去了」！突宣布1禁令　喊話粉絲：別浪費時間\n\n鏡報 尤嬿妮\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n周杰倫熱愛打網球且球技很好。圖／翻攝jaychou IG\n\n周杰倫熱愛打網球且球技很好。圖／翻攝jaychou IG\n\n天王周杰倫熱愛運動，尤其是打網球，不只經常在社群分享打球日常，也曾找來不少演藝圈好友切磋球技，不料如今連私人運動時間都成了粉絲追星現場。周杰倫昨（26日）透過IG限時動態宣布，未來即使碰上下雨天，也不打算再到室內球場打球，更直接喊話粉絲別再特地到球場守候，坦言每次打完球都得忙著簽名、拍照，讓原本單純的運動時間幾乎變成「表演賽」。\n\n## 打場球竟像辦粉絲見面會\n\n周杰倫透露，現在只要進室內球場，就容易碰上等候他的粉絲，「我現在打球連下雨我也不去室內了，每次去都變成表演賽，比完了要走還要簽名拍照。」他因此決定把話說清楚，希望歌迷不要再花時間到球場堵人，「從現在開始，請別浪費時間在球場等我，把時間拿去做該做的事，我是不會在球場簽名拍照的喔！」\n\n廣告\n\n廣告 [...] 廣告\n\n廣告\n\n不過周杰倫並未真的把合照機會完全封死，反而幽默祭出一項超高難度的「例外條款」，笑稱：「除非你把吳尊6：0，再來找我拍照。」原來日前吳尊參加昆凌生日聚會時，當晚11點還被周杰倫約去打網球，最後慘遭6比0完封，讓吳尊不服氣喊冤，表示自己因為喝了酒影響狀態，周杰倫則毫不留情回虧「沒有藉口」、「喝酒不打球」，如今這場戰績也成了兩人之間的新笑梗。\n\n周杰倫在限動發文苦勸粉絲。圖／翻攝jaychou IG限動\n\n周杰倫在限動發文苦勸粉絲。圖／翻攝jaychou IG限動\n\n周杰倫在限動發文苦勸粉絲。圖／翻攝jaychou IG限動\n\n周杰倫在限動發文苦勸粉絲。圖／翻攝jaychou IG限動\n\n## 「要等就去演唱會」直接公布地點\n\n周杰倫隨後再次強調，希望大家不要再到球場等他，不過身為歌手的他也不忘趁機宣傳演唱會，向歌迷喊話：「要等就10/17號去Marvel Stadium。」把與粉絲見面的場合從私人球場拉回正式舞台，屆時他將在澳洲墨爾本Marvel Stadium開唱。 [...] 熱門實境節目《嗨！營業中》本週迎來極限挑戰！夥伴們在體感溫度高達40度的烈日下整理園區，姚元浩展現驚人敬業精神，爬高修剪樹枝卻因此嚴重中暑，臉色發白甚至頭暈痠痛，在眾人苦勸下才前往醫院施打點滴，過程令人心疼。此外，節目邀請來自南投的「親愛愛樂」弦樂團演出，小鐘滿懷自信想與大提琴手即興合唱，未料一開口竟當場「大破音」，突發的爆笑狀況讓全場夥伴瞬間笑翻，為節目增添不少歡樂亮點，精彩內容不容錯過。\n\n三立新聞網 setn.com ・ 2 小時前 ・ 2則留言\n\n### 地下3樓800輛車泡水…求償結果出爐！警衛「得不吃喝82個月」\n\n前年凱米颱風重創高雄，三民區「日安地球」社區地下室遭洪水灌入，近800輛汽機車泡水，引發社會關注。針對住戶提告求償，法院判決出爐，認定保全人員因缺乏防災演練，搞錯防水閘門安裝順序，導致閘門遭水壓衝破。保全公司雖辯稱是天災免責，但法官認為保全未盡職責屬人為疏失，判決保全公司與警衛須連帶賠償兩名住戶共332萬餘元。此案凸顯社區防災演練與物業人員教育訓練的重要性，若以警衛月薪換算，需不吃不喝82個月才能賠償，相關判決結果也為物業管理責任立下指標。",
-      "published_at": "Thu, 27 Aug 2026 00:00:00 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.55,
-      "summary": "周杰倫因私人運動時間常被粉絲打擾，宣布未來將不再到室內球場打球，並呼籲粉絲將追星熱情轉移至演唱會。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2312,
-      "title": "昆凌爆親姊當年是「周董鐵粉」　為買專輯竟砸爛她的小豬存錢筒",
-      "link": "https://stars.udn.com/star/story/10089/9739352",
-      "source": "Tavily (stars.udn.com)",
-      "snippet": "昆凌近日分享童年趣事，透露親姊姊當年是周杰倫的超級鐵粉，為了買專輯竟砸碎妹妹的小豬存錢筒。沒想到多年後偶像成了妹夫，爆笑往事引發網友熱議。",
-      "published_at": "Fri, 11 Sep 2026 04:00:00 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "昆凌分享姊姊當年為買周杰倫專輯砸破她存錢筒的趣事，沒想到偶像後來成了妹夫，引發網友熱議。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2313,
-      "title": "‘King of Mandopop’ Jay Chou buys wife two houses for $15M - VnExpress International",
-      "link": "https://e.vnexpress.net/news/life/celebrities/king-of-mandopop-jay-chou-buys-wife-two-houses-for-15m-5114009.html",
-      "source": "Tavily (e.vnexpress.net)",
-      "snippet": "#### ‘King of Mandopop’ Jay Chou buys wife two houses for M\n\nChou performs \"Waiting for You\" at his concert in Beijing, China, in June 2026. His three shows in the city attract more than 195,000 attendees. Video from Weibo\n\nBesides his vast catalog of hit songs, Chou is also a lyricist, plays multiple instruments, and acts. In films, he made his mark with works such as \"Curse of the Golden Flower\" and \"King of Beggars\". [...] The family's current residence in Taipei’s Peace Palace cost over US$20 million. Beyond real estate, Chou is also a big spender on artworks and antiques. He has maintained his popularity and appeal across music and brand endorsements for over two decades.\n\nChou earned over US$307 million between 2017 and 2020, Fortune China reports. For the past 15 years, he has consistently ranked among the highest-earning celebrities in the Chinese showbiz.\n\nChâu Kiệt Luân hát \"Chờ em tan học\" [...] |  |\n\n| Jay Chou at his wife’s birthday. Photo from Weibo |\n| Jay Chou at his wife’s birthday. Photo from Weibo |\n\nJay Chou at his wife’s birthday. Photo from Weibo\n\nJay Chou at his wife’s birthday. Photo from Weibo\n\nChou has purchased at least 10 properties in Taipei’s most affluent neighborhoods, and become neighbors with billionaires since the 2000s, according to Next Apple.",
-      "published_at": "Thu, 03 Sep 2026 04:18:23 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "正面",
-      "sentiment_score": 0.98,
-      "summary": "周杰倫為妻子豪擲1500萬美元購買兩棟房產，展現其財力雄厚與對家庭的慷慨，並再次證明其作為華語樂壇天王的持續影響力與商業成功。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2314,
-      "title": "Starbucks Singapore Unveils Jay Chou Tumblers With Lyrics & Music-Inspired Details | Great Deals Singapore",
-      "link": "https://www.greatdeals.com.sg/2026/09/07/starbucks-jay-chou-drinkware-collection-launch-september-2026",
-      "source": "Tavily (www.greatdeals.com.sg)",
-      "snippet": "The largest piece shown in the collection is a matte-black handled tumbler fitted with a straw and clear lid.\n\nIts tonal design incorporates embossed musical and graphic motifs, with Jay Chou’s name appearing in a pink-to-purple gradient across the front. A detachable chain holds a miniature black Starbucks pouch, adding a fashion-accessory element to the drinkware.\n\nThe tumbler and pouch also arrive in a coordinating black presentation box printed with Jay Chou and Starbucks branding. [...] ADVERTISEMENT\n\nLLifestyle\n\n# Starbucks Singapore Unveils Jay Chou Tumblers With Lyrics & Music-Inspired Details\n\nSet your alarm and cue the playlist\n\n byGDS Editorial Team\n September 7, 2026\n\nJay Chou-inspired tumblers are arriving at selected Starbucks stores on 9 September\n\nFollow us on WhatsApp   Join our Telegram Channel\n\nStarbucks Singapore is bringing music and coffee together with a new merchandise collection created for fans of Mandopop star Jay Chou. [...] Launching on 9 September 2026, the limited-edition range features tumblers dressed in black and white, with designs incorporating Jay Chou’s name, Chinese lyrics and music-inspired details.\n\n## The Collection Features Jay Chou Lyrics And Musical Touches\n\nRather than relying on large portraits or album artwork, the collaboration takes a more understated approach to its Jay Chou references.\n\nADVERTISEMENT",
-      "published_at": "Mon, 07 Sep 2026 07:37:04 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "星巴克新加坡將於2026年9月9日推出周杰倫聯名限量版隨行杯，設計融入其歌詞與音樂元素。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2315,
-      "title": "G-Dragon's Peaceminusone and Jay Chou releasing collabs with McDonald's and Starbucks respectively, Entertainment News - AsiaOne",
-      "link": "https://www.asiaone.com/entertainment/gdragon-peaceminusone-jay-chou-collabs-mcdonalds-starbucks",
-      "source": "Tavily (www.asiaone.com)",
-      "snippet": "PHOTO: Instagram/G-Dragon, Screengrab/Starbucks Singapore\n\nYeo Shu HuiPUBLISHED ONSeptember 09, 2026 8:48 AMBYYeo Shu Hui\n\nG-Dragon of K-pop group BigBang and Taiwanese singer Jay Chou are collaborating with McDonald's and Starbucks in Singapore respectively.\n\nThis comes ahead of BigBang's highly anticipated  Singapore concert in October and Jay's Carnival II World Tour in January 2027.\n\n## G-Dragon's Peaceminusone x McDonald's [...] There will be a series of menu items based on the gochujang butter sauce developed in South Korea, including McCrispy Gochujang Butter and McSpicy Gochujang Butter burgers.\n\nFans can also look out for limited-edition merchandise in collaboration with Peaceminusone, which will be announced later.\n\n> View this post on Instagram\n>\n> A post shared by McDonald's Singapore (@mcdsg)\n\n## Jay Chou + Starbucks\n\nJay has collaborated with Starbucks to release new merchandise and promote a drink. [...] Award Banner\n\nAward Banner\n\nAsiaOne\n\n Latest\n ···\n ···\n Entertainment\n ···\n Lifestyle\n ···\n Horoscope\n ···\n Digicult\n ···\n Sports\n ···\n ···\n\nentertainment\n\n# G-Dragon's Peaceminusone and Jay Chou releasing collabs with McDonald's and Starbucks respectively\n\nG-Dragon's Peaceminusone and Jay Chou releasing collabs with McDonald's and Starbucks respectively\n\nG-Dragon's Peaceminusone and Jay Chou are collaborating with McDonald’s and Starbucks respectively.",
-      "published_at": "Wed, 09 Sep 2026 08:48:00 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫與星巴克合作推出新商品並宣傳飲品，為其即將到來的「嘉年華II世界巡迴演唱會」預熱。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2316,
-      "title": "The Duke Chinese Music Ensemble takes listeners on a musical journey through China - The Duke Chronicle",
-      "link": "https://www.dukechronicle.com/article/the-duke-chinese-music-ensemble-takes-listeners-on-a-musical-journey-through-china-20251217",
-      "source": "Tavily (www.dukechronicle.com)",
-      "snippet": "Each person in this room has come together for a single purpose: the Duke Chinese Music Ensemble’s (DCME) Fall Concert. The soloist for this playful, lively piece was Ammy Lin (MIDS ‘27), whose fluid runs and clear notes on the Chinese bamboo flute (笛子) bring its vivid imagery to life. When the piece ends, the director of the DCME and instructor of music in the department of music, Jennifer Chang, rises to address the audience while the other performers file off stage. Chang then introduced the next song, “Fishing Boats Singing in the Twilight” (渔舟唱晚), a well-known piece arranged by Shuhua Lou (楼树华) meant to evoke the calmness of the ocean shore at night while people fish peacefully nearby. As an embodiment of true Chinese culture, “A Delightful Night” is one of Chang’s favorite pieces! Chang prefaced the next piece by playing what I can only describe as “cliche kungfu music” before explaining that the upcoming song is a Southern Chinese reinterpretation of a traditional Northern Chinese war song.",
-      "published_at": "Wed, 17 Dec 2025 05:00:00 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "此報導描述杜克大學華樂團的音樂會，內容與周杰倫無直接關聯。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2317,
-      "title": "Communication-aware in-memory wireless neural networks - Nature",
-      "link": "https://www.nature.com/articles/s41928-026-01577-5",
-      "source": "Tavily (www.nature.com)",
-      "snippet": "# Communication-aware in-memory wireless neural networks. However, current wireless collaborative systems face challenges in terms of energy efficiency and latency due to the separation of memory and computing, the separation of signal processing and transmission and/or reception, and the separation of neural networks and wireless communication. The approach uses analogue in-memory computing technology to implement both edge computing and wireless communication, and integrates wireless communication as a learnable module of the wireless neural network. *Nature* **521**, 61–64 (2015). *Nature* **577**, 641–646 (2020). A CMOS-integrated compute-in-memory macro based on resistive random-access memory for AI edge devices. *Nature* **608**, 504–512 (2022). *Nature* **623**, 48–57 (2023). *Nature* **615**, 823–829 (2023). 62034004, F.M.; 62305155, C.W.), the Leading-edge Technology Program of Jiangsu Natural Science Foundation (grant no. F.M. and S.-J.L. acknowledge support from the AIQ foundation and the e-Science Center of Collaborative Innovation Center of Advanced Microstructures. Zai-Zheng Yang  (杨再正), Yichen Zhao  (赵懿晨), Gong-Jie Ruan  (阮恭杰), Xing-Jian Yangdong  (杨董行健), Bin Cheng  (程斌), Shi-Jun Liang  (梁世军) & Feng Miao  (缪峰).",
-      "published_at": "Wed, 25 Feb 2026 11:04:39 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Communication-aware in-memory wireless neural networks - Nature",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2318,
-      "title": "Hideo Kojima Reveals First Trailer for Xbox Game Studios Title OD - IGN",
-      "link": "https://www.ign.com/articles/hideo-kojima-reveals-first-trailer-for-xbox-game-studios-title-od",
-      "source": "Tavily (www.ign.com)",
-      "snippet": "# Hideo Kojima Reveals First Trailer for Xbox Game Studios Title OD Hideo Kojima has revealed the first trailer for OD, his upcoming Xbox Game Studios project, during this morning's Kojima Productions: Beyond the Strand livestream. On stage, Kojima explained that the game was subtitled as OD: Knock — and indeed, a creepy knocking sound can be heard throughout the trailer. The subtitle appears to differentiate Kojima's video game from the OD project being worked on by filmmaker Jordan Peele. > KOJIMA PRODUCTIONS 10周年記念イベント「Beyond The Strand」速報最新作「OD」のティザー映像が公開あわせて、本作がUnreal Engineで開発されていることも発表されました👍#KojimaProductions #KJP10th #XboxGameStudios #OD pic.twitter.com/HBSfuLDxqw As previously announced, OD is being developed using Unreal Engine, and it sounds like Xbox is assisting with Kojima Productions' work using the technology. OD - A Hideo Kojima Game",
-      "published_at": "Tue, 23 Sep 2025 04:55:09 GMT",
-      "collected_at": "2026-09-11 05:05:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Hideo Kojima Reveals First Trailer for Xbox Game Studios Title OD - IGN",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 178,
-    "report_date": "2026-09-17",
-    "total_articles": 7,
+    "id": 179,
+    "report_date": "2026-09-18",
+    "total_articles": 9,
     "positive_count": 7,
     "negative_count": 0,
-    "neutral_count": 0,
+    "neutral_count": 2,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "JAY CHOU周杰倫 新專輯 【太陽之子】- 06. 七月的極光 - YouTube、周杰倫新專輯《太陽之子》3/25正式發行　MV首映日藏愛妻密碼超閃、等了4年！周杰倫新專輯倒數 昆凌當「專輯管理員」曝進度100%",
-    "created_at": "2026-09-17 05:13:46"
+    "key_events": "周杰倫《太陽之子》黑膠唱片登場、星巴克 | 全新「周杰倫合作限定：Jay系列商品」登陸香港、周杰倫沒跟昆凌飛巴黎！陪4歲女兒合唱「超萌模樣」曝光 深夜突隔空喊老婆",
+    "created_at": "2026-09-18 05:06:23"
   },
   "recentReports": [
+    {
+      "id": 179,
+      "report_date": "2026-09-18",
+      "total_articles": 9,
+      "positive_count": 7,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫《太陽之子》黑膠唱片登場、星巴克 | 全新「周杰倫合作限定：Jay系列商品」登陸香港、周杰倫沒跟昆凌飛巴黎！陪4歲女兒合唱「超萌模樣」曝光 深夜突隔空喊老婆",
+      "created_at": "2026-09-18 05:06:23"
+    },
     {
       "id": 178,
       "report_date": "2026-09-17",
@@ -645,17 +656,6 @@
         "不再室內打球"
       ],
       "created_at": "2026-09-12 04:57:17"
-    },
-    {
-      "id": 172,
-      "report_date": "2026-09-11",
-      "total_articles": 9,
-      "positive_count": 4,
-      "negative_count": 0,
-      "neutral_count": 5,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "周杰倫罕見說重話「以後不去了」！突宣布1禁令　喊話粉絲：別浪費時間、昆凌爆親姊當年是「周董鐵粉」　為買專輯竟砸爛她的小豬存錢筒、‘King of Mandopop’ Jay Chou buys wife two houses for $15M - VnExpress International",
-      "created_at": "2026-09-11 05:06:07"
     }
   ]
 }
