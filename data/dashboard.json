@@ -6,21 +6,13 @@
     "neutral": 0
   },
   "allTimeStats": {
-    "total": 2353,
-    "positive": 773,
+    "total": 2356,
+    "positive": 776,
     "negative": 77,
     "neutral": 1503,
     "avg_score": 0.62
   },
   "trend": [
-    {
-      "date": "2026-09-05",
-      "total": 2,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.88
-    },
     {
       "date": "2026-09-06",
       "total": 3,
@@ -124,9 +116,59 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.93
+    },
+    {
+      "date": "2026-09-20",
+      "total": 3,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.91
     }
   ],
   "recentArticles": [
+    {
+      "id": 2354,
+      "title": "周杰倫出新輯 邀百名歌迷搶先看MV | 中華日報|中華新聞雲",
+      "link": "https://www.cdns.com.tw/articles/1374897",
+      "source": "Tavily (www.cdns.com.tw)",
+      "snippet": "[](\n\nMenu\n\n[](\n\nMenu\n\n# 周杰倫出新輯 邀百名歌迷搶先看MV\n\n 2026-03-18\n 藝文\n\n[](\n\n周杰倫最新專輯《太陽之子》25日全球發行。\n\n記者戴淑芳∕台北報導\n\n周杰倫最新專輯《太陽之子》19日下午1時預購全面開啟，24日MV全球首映，邀請幸運歌迷進影廳觀賞。\n\n距離上張專輯3年8個月，周杰倫以13首歌曲集結成最新專輯《太陽之子》，首波同名主打〈太陽之子〉MV長達6分58秒，杰威爾音樂將於24日在電影院舉辦全球首映會，邀媒體與幸運的100位歌迷一同欣賞周杰倫最新作品，迎接25日《太陽之子》專輯的全球發行。\n\n「太陽之子」是歌神張學友對周杰倫的暱稱與認證。這個稱號源於2023年5月周杰倫在香港舉行「嘉年華」演唱會期間遇到幾天大雨，但幾乎在開演前雨就停了。\n\n張學友送上印有「太陽之子」的芒果與手寫卡片，認證周杰倫的幸運如同「太陽之子」。周杰倫感動地表示自己「心裡出太陽了」，並打趣說「太陽之子」這個稱號他拿走囉。",
+      "published_at": "Wed, 18 Mar 2026 12:58:15 GMT",
+      "collected_at": "2026-09-20 05:18:52",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫將發行最新專輯《太陽之子》，並邀請百名幸運歌迷搶先觀賞同名主打歌MV。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2355,
+      "title": "同框愛女盡顯溫柔 周杰倫低調行善18年更暖 | 小女兒 | 聽媽媽的話 | 捐款 | 新唐人电视台",
+      "link": "https://www.ntdtv.com/b5/2026/09/19/a104134356.html",
+      "source": "Tavily (www.ntdtv.com)",
+      "snippet": "周杰倫北京演唱會出狀況 付費周邊商品遭洗劫\n\n2026-06-30\n\n周杰倫北京演唱會出狀況 付費周邊商品遭洗劫\n\n周杰倫公開《女兒殿下》MV 疑見兩個女兒現身\n\n2026-06-16\n\n周杰倫公開《女兒殿下》MV 疑見兩個女兒現身\n\n鄧紫棋翻唱《愛琴海》 原唱周杰倫留言讚\n\n2026-04-25\n\n鄧紫棋翻唱《愛琴海》 原唱周杰倫留言讚\n\n周杰倫公開古堡求婚影片 昆凌感動畫面全記錄\n\n2026-04-02\n\n周杰倫公開古堡求婚影片 昆凌感動畫面全記錄\n\n評論\n\n抱歉，評論功能暫時關閉！\n\n頭條新聞\n\n中國出入境新規生效 美國點名4類人要小心！\n\n中國出入境新規生效 美國點名4類人要小心！\n\n習金磚峰會出狀況？莫迪致辭兩度問習：還好嗎？（視頻）\n\n習金磚峰會出狀況？莫迪致辭兩度問習：還好嗎？（視頻）\n\n【新聞直擊】俄軍機場炸了！波蘭戰機火速升空 北京急找伊朗！\n\n【新聞直擊】俄軍機場炸了！波蘭戰機火速升空 北京急找伊朗！\n\n余茂春：美國須為「中共突然垮台」做好準備\n\n余茂春：美國須為「中共突然垮台」做好準備\n\n四川阿壩山崩畫面 黃土如巨浪翻湧 多建築被吞沒（多視頻） [...] 【新唐人北京時間2026年09月19日訊】台灣歌手、作詞作曲家周杰倫日前在社交平台分享與4歲小女兒Jacinda的同台合照，盡現父女溫馨畫面。稍早，周杰倫一筆助學捐款記錄也被外界關注。台媒透露，他捐出的善款已突破6480萬元（台幣，下同）。\n\n周杰倫與昆凌2015年結婚後育有兩女一子，2022年出生的小女兒Jacinda更是周杰倫的「掌上明珠」。周杰倫不僅帶她登台，日常還會陪她扮公主。Jacinda曾在他的歌曲《女兒殿下》MV中本色演出，並留下童音「我美嗎？」\n\n今年9月16日晚，周杰倫在IG發布與4歲小女兒的同台「謝幕」照片，並發文說：「今晚跟『我美嗎女士』合唱了《聽媽媽的話》。」\n\n照片中，（點這裡）穿著休閒的周杰倫與身穿粉紅色裙子的小女兒正向觀眾深度鞠躬。周杰倫左手牽著Jacinda，右手拿著話筒，疑似說謝幕詞。Jacinda一手牽著爸爸，另一隻手拿著，話筒跟著一起「謝幕」。畫面相當逗趣。\n\n截至19日，Jacinda的萌樣已吸引超過20萬人點讚，網友直呼「好可愛」，還有的留言說：「和孩子一起唱太有愛了。」「看到這個鞠躬就知道多聽媽媽的話了。」 [...] 四川阿壩山崩畫面 黃土如巨浪翻湧 多建築被吞沒（多視頻）\n\n更多頭條\n\n今日推薦\n\n陳破空：劇院起義！反極權歌聲響徹上海夜空，問誰未發聲？\n\n今日推薦\n\n【時事金掃描】傳任正非全家逃亡 金磚驚魂習近平出大事\n\n【新聞大家談】反習「主心骨」曝光！習近平敢動他嗎？\n\n更多推薦\n\n休閒娛樂一週排行\n\n【你好日本】青森夏天之「睡魔祭」\n\n【你好日本】青森夏天之「睡魔祭」\n\n更多新聞\n\n人文教育一週排行\n\n華人超市vs日韓超市 誰更能進美國主流？\n\n華人超市vs日韓超市 誰更能進美國主流？\n\n【故事薈萃|神話故事】經歷滄海三變桑田的麻姑\n\n【故事薈萃|神話故事】經歷滄海三變桑田的麻姑\n\n更多新聞\n\n生活一週排行\n\n空姐：坐飛機時兩種衣服千萬不要穿\n\n空姐：坐飛機時兩種衣服千萬不要穿\n\n全球最佳機場揭曉 這座歐洲機場奪冠 廣州列最差\n\n全球最佳機場揭曉 這座歐洲機場奪冠 廣州列最差\n\n藍莓配酸奶會阻礙花青素吸收？專家這樣說\n\n藍莓配酸奶會阻礙花青素吸收？專家這樣說\n\n日本百歲老人數首破10萬 60餘年猛增700倍\n\n日本百歲老人數首破10萬 60餘年猛增700倍",
+      "published_at": "Sat, 19 Sep 2026 07:00:00 GMT",
+      "collected_at": "2026-09-20 05:18:52",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫與小女兒溫馨同台合唱，展現父愛，同時其低調行善18年、捐款破6480萬台幣的善舉也獲外界關注。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2356,
+      "title": "周杰倫分享女兒照片 15萬人點讚 - 星島日報",
+      "link": "https://www.singtaousa.com/2026/09/18/entertainment/jay-chou-shares-daughter-photo",
+      "source": "Tavily (www.singtaousa.com)",
+      "snippet": "Skip to content\n\n星島日報\n\n2026 年 9 月 19 日\n\nFacebook\n\n星島日報\n\n粵語台\n\n國語台\n\n# 周杰倫分享女兒照片 15萬人點讚\n\n2026 年 9 月 18 日\n\n周杰倫4歲多的小女兒Jacinda，曾在他的歌曲《女兒殿下》MV中本色演出，歌中她可愛童音說出「我美嗎？」也成為周董每次在演唱會上唱到這首歌時，台下歌迷會高聲大喊的趣味橋段。\n\n近日，周董分享了一張他和小女兒唱完歌一起「謝幕」照片，Jacinda的萌樣吸引15萬人點讚，網友們忍不住直呼太萌了。\n\n昨晚周董在社群分享他牽著小女兒低頭謝幕的合照，並提到：「今晚跟『我美嗎』女士合唱了《聽媽媽的話》。」\n\n雖然周董沒有明說是在甚麼場合和小女兒一起合唱，但看到Jacinda深度鞠躬謝幕模樣，網友直呼太可愛，還有網友逗趣留言：「看到這個鞠躬就知道多聽媽媽的話了。」覺得Jacinda的態度值得誇讚。\n\n周杰倫和小女兒一起唱歌，謝幕時小女兒深深鞠躬。網上圖片\n\n周杰倫和小女兒一起唱歌，謝幕時小女兒深深鞠躬。網上圖片\n\n### 相關新聞: [...] ### 相關新聞:\n\n1. 高圓圓看淡生死 盼比丈夫先離開\n2. 女兒反復高燒 洪詩崩潰\n3. 希丹今日37歲生日 原計劃飛德國找女兒\n4. 康康郵輪開唱 帶上7歲愛女\n5. 陳柏宇恨出國開騷 拒帶囡囡同行\n6. 陳柏宇紅館過生日 拒絕大女養狗願望\n\n本網站正使用 Cookies\n\n星島日報使用 Cookie 改善網站體驗。 繼續使用我們的網站即表示您同意我們的 Cookie 政策。\n\nFunctional    一律啟用 [...] Statistics\n\nThe technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.\n\nMarketing",
+      "published_at": "Sat, 19 Sep 2026 06:00:00 GMT",
+      "collected_at": "2026-09-20 05:18:52",
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫分享與女兒Jacinda合唱後謝幕的照片，女兒的可愛萌樣和有禮貌的鞠躬獲得網友熱烈讚賞，吸引15萬人點讚。",
+      "category": "生活",
+      "analyzed": 1
+    },
     {
       "id": 2351,
       "title": "周杰倫與4歲女兒同登台 合唱《聽媽媽的話》｜大紀元時報 香港｜獨立敢言的良心媒體",
@@ -504,66 +546,39 @@
       "summary": "周杰倫被點名「今年在中國多地舉辦演唱會」　國台辦：歡迎台灣藝人 | 國際焦點 - 太報 TaiSounds",
       "category": "演唱會",
       "analyzed": 1
-    },
-    {
-      "id": 2326,
-      "title": "Sales of Jay Chou's \"Children of the Sun\" have exceeded 100 million RMB, as Tencent Music Entertainment Group Drives Global Rollout",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/sales-jay-chous-children-sun-045400738.html",
-      "source": "Tavily (finance.yahoo.com)",
-      "snippet": "1698.HK\n\n  -0.77%\n\nSHENZHEN, China, March 28, 2026 /PRNewswire/ -- Mandopop superstar Jay Chou's 16th studio album \"Children of the Sun\" premiered worldwide on March 25, with an exclusive release on Tencent Music Entertainment Group's platforms, including QQ Music, Kugou Music, and Kuwo Music. Since pre-orders launched on March 19, the album's sales have continued to climb, with total revenue across all platforms exceeding 100 million RMB, confirming Jay Chou's enduring appeal.\n\n[]( [...] As long-term strategic partners, Tencent Music and JVR Music released Jay Chou's first digital album \"Aiyo, Not Bad\" in 2014, and \"Greatest Works of Art\" in 2022—a work that set a record as an \"Epic Hall of Fame Album.\" Through the combination of exclusive distribution and coordinated promotional initiatives, Tencent Music Entertainment Group has further accelerated the global rollout of Jay Chou's new album, deepening its connection with fans around the world.",
-      "published_at": "Fri, 27 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-09-14 05:21:35",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新專輯《日不落的孩子》銷售額突破1億人民幣，再次證明其不朽魅力，並由騰訊音樂娛樂集團推動全球發行。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2323,
-      "title": "賣灌餅長太像周杰倫爆紅！「粥餅倫」驚傳全中國門市都倒閉 - 國際 - 自由時報電子報",
-      "link": "https://news.ltn.com.tw/news/world/breakingnews/5563129",
-      "source": "Tavily (news.ltn.com.tw)",
-      "snippet": "不用抽 不用搶 現在用APP看新聞 保證天天中獎　 點我下載APP　 按我看活動辦法\n\n圖   圖\n\n圖   圖   圖\n\n相關新聞\n\n上一則\n\n中國副校長女兒發86頁文件爆父出軌 控女教授當小三、學術造假  下一則\n\n視推翻伊朗政權核心使命 納坦雅胡：目標觸手可及\n\n國際今日熱門\n\n看更多！請加入自由時報粉絲團\n\n載入中\n\n此網頁已閒置超過5分鐘，請點擊透明黑底或右下角 Ｘ 鈕。 [...] 北市公費交換弱勢名額縮水？ 粉專揭「至少3名」改「至多3名」 北市公費交換弱勢名額縮水？ 粉專揭「至少3名」改「至多3名」\n 自由觀點》昔少年股神「假撮」被訴 散戶屠夫何時絕跡？ 自由觀點》昔少年股神「假撮」被訴 散戶屠夫何時絕跡？\n 地獄火飛彈整合在物流車內  陸軍14.4億採購車載、貨櫃式飛彈系統 地獄火飛彈整合在物流車內 陸軍14.4億採購車載、貨櫃式飛彈系統\n 這才叫利益迴避！昔北一女資優班排第一  林芳郁女憶：父親禁止我推甄台大醫 這才叫利益迴避！昔北一女資優班排第一 林芳郁女憶：父親禁止我推甄台大醫\n 豪雨不斷  北市基隆河沿岸水門14：00起關閉 豪雨不斷 北市基隆河沿岸水門14：00起關閉\n 時雨量破百新北北海岸淹水！加油站泡水、多所學校師生緊急撤離 時雨量破百新北北海岸淹水！加油站泡水、多所學校師生緊急撤離\n 開撕鄭麗文！王惠美爆5/12後雙方「失聯」：主席再也沒打來 開撕鄭麗文！王惠美爆5/12後雙方「失聯」：主席再也沒打來 [...] 輕艇水球》遭指控出發世錦賽前才說「自費10萬」協會澄清：未承諾完全不用自費 輕艇水球》遭指控出發世錦賽前才說「自費10萬」協會澄清：未承諾完全不用自費\n 萬里豪雨時雨量破百毫米多處積淹水 新北多校預防撤離學生安置 萬里豪雨時雨量破百毫米多處積淹水 新北多校預防撤離學生安置\n 振奮人心！尼泊爾奇蹟救出受困隧道9天2名工人 振奮人心！尼泊爾奇蹟救出受困隧道9天2名工人",
-      "published_at": "Fri, 04 Sep 2026 07:32:44 GMT",
-      "collected_at": "2026-09-13 05:17:28",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "關於因長相酷似周杰倫而爆紅的「粥餅倫」，其在中國的灌餅門市傳出全數倒閉的消息。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2324,
-      "title": "影／阿Ken直播神模仿周杰倫！被天王留言嗆\"洗勒靠\"",
-      "link": "https://tw.news.yahoo.com/%E5%BD%B1-%E9%98%BFken%E7%9B%B4%E6%92%AD%E7%A5%9E%E6%A8%A1%E4%BB%BF%E5%91%A8%E6%9D%B0%E5%80%AB-%E8%A2%AB%E5%A4%A9%E7%8E%8B%E7%95%99%E8%A8%80%E5%97%86-%E6%B4%97%E5%8B%92%E9%9D%A0-034100160.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "[FTNN新聞網]影音中心／陳奕諠藝人阿Ken昨（11）日在IG直播做麵團，網友留言「周杰倫也在線上看」後，他立刻開啟模仿模式，沒想到竟被天王留言吐槽，",
-      "published_at": "Sun, 13 Sep 2026 04:00:00 GMT",
-      "collected_at": "2026-09-13 05:17:28",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "藝人阿Ken直播模仿周杰倫，意外引來周杰倫本人幽默留言互動，展現天王親民的一面。",
-      "category": "生活",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 180,
-    "report_date": "2026-09-19",
+    "id": 181,
+    "report_date": "2026-09-20",
     "total_articles": 3,
     "positive_count": 3,
     "negative_count": 0,
     "neutral_count": 0,
-    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》正式發行，銷量突破億元大關，多首MV也獲國際肯定。他與4歲女兒合唱《聽媽媽的話》的溫馨畫面萌翻全網，展現深厚父愛。同時，周杰倫在上海與鳥巢的演唱會連創票房紀錄，並預告明年將啟動25週年全新巡演，讓歌迷引頸期盼。此外，他低調行善18年，捐款逾6480萬助學，並首次入圍全球百大帥哥，星巴克等聯名商品也陸續推出，持續展現天王影響力。",
+    "daily_summary": "周杰倫近期發行新專輯《太陽之子》，銷量破億且MV獲歐洲獎項，並邀請百名歌迷搶先觀看。他與4歲女兒溫馨合唱《聽媽媽的話》萌翻全網，同時揭露18年來低調行善捐款逾6千萬。此外，他連開多場破紀錄演唱會，並宣布明年啟動25週年巡演，事業家庭雙豐收，更首度入圍全球百大帥哥。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "與女兒合唱萌翻全網",
-      "演唱會創紀錄預告巡演"
+      "與愛女溫馨合唱",
+      "低調行善18年"
     ],
-    "created_at": "2026-09-19 04:57:01"
+    "created_at": "2026-09-20 05:19:12"
   },
   "recentReports": [
+    {
+      "id": 181,
+      "report_date": "2026-09-20",
+      "total_articles": 3,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期發行新專輯《太陽之子》，銷量破億且MV獲歐洲獎項，並邀請百名歌迷搶先觀看。他與4歲女兒溫馨合唱《聽媽媽的話》萌翻全網，同時揭露18年來低調行善捐款逾6千萬。此外，他連開多場破紀錄演唱會，並宣布明年啟動25週年巡演，事業家庭雙豐收，更首度入圍全球百大帥哥。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "與愛女溫馨合唱",
+        "低調行善18年"
+      ],
+      "created_at": "2026-09-20 05:19:12"
+    },
     {
       "id": 180,
       "report_date": "2026-09-19",
@@ -645,21 +660,6 @@
         "豪贈昆凌千萬宅"
       ],
       "created_at": "2026-09-14 05:21:58"
-    },
-    {
-      "id": 174,
-      "report_date": "2026-09-13",
-      "total_articles": 3,
-      "positive_count": 2,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "daily_summary": "周杰倫近期發行新專輯《太陽之子》與新歌《聖徒》（與挪威舞團合作），並預告2026年新專輯。他成功舉辦北京鳥巢及廣州演唱會，創下全球首位制霸四大國家體育場的紀錄。私生活方面，為昆凌購入豪宅，昆凌也爆料姊姊曾為買專輯砸存錢筒。周董更首次入圍「全球百大帥哥」，並與多個品牌聯名，話題不斷。",
-      "key_events": [
-        "新專輯《太陽之子》",
-        "鳥巢廣州開唱",
-        "為昆凌買豪宅"
-      ],
-      "created_at": "2026-09-13 05:17:50"
     }
   ]
 }
