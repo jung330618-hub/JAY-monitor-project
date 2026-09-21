@@ -32983,6 +32983,34 @@
       "summary": "周杰倫分享與女兒Jacinda合唱後謝幕的照片，女兒的可愛萌樣和有禮貌的鞠躬獲得網友熱烈讚賞，吸引15萬人點讚。",
       "category": "生活",
       "analyzed": 1
+    },
+    {
+      "id": 2357,
+      "title": "周杰倫低調做了18年！「6480萬善款」驚人數字曝光 每年默默助500名孩童",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E4%BD%8E%E8%AA%BF%E5%81%9A%E4%BA%8618%E5%B9%B4-6480%E8%90%AC%E5%96%84%E6%AC%BE-%E9%A9%9A%E4%BA%BA%E6%95%B8%E5%AD%97%E6%9B%9D%E5%85%89-%E6%AF%8F%E5%B9%B4%E9%BB%98%E9%BB%98%E5%8A%A9500%E5%90%8D%E5%AD%A9%E7%AB%A5-011500819.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "天王周杰倫出道多年，不只演藝事業吸金驚人，私下持續多年的公益行動近日也再度受到關注。根據富邦慈善基金會公開資訊，他今年9月10日再以個人名義",
+      "published_at": "Sat, 19 Sep 2026 05:00:00 GMT",
+      "collected_at": "2026-09-21 05:21:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫默默行善18年，捐贈巨額善款並每年幫助數百名孩童，其公益行動近日再度受到關注。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2358,
+      "title": "周杰倫6.4億天價珍藏曝光！520收「馬諦斯真跡」：夢想成真- 娛樂",
+      "link": "https://www.chinatimes.com/realtimenews/20260521002206-260404",
+      "source": "Tavily (www.chinatimes.com)",
+      "snippet": "周杰倫6.4億天價珍藏曝光！520收「馬諦斯真跡」：夢想成真 ... 天王周杰倫日前為了愛妻昆凌，帶著全家大小現身泰國清邁，掀起網友熱議，且寵粉的他，20日也",
+      "published_at": "Thu, 21 May 2026 00:00:00 GMT",
+      "collected_at": "2026-09-21 05:21:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.92,
+      "summary": "周杰倫因收藏6.4億馬諦斯真跡，並帶著家人前往泰國清邁，展現其成功且幸福的個人生活。",
+      "category": "生活",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -35462,6 +35490,21 @@
         "低調行善18年"
       ],
       "created_at": "2026-09-20 05:19:12"
+    },
+    {
+      "id": 182,
+      "report_date": "2026-09-21",
+      "total_articles": 2,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期焦點：新專輯《太陽之子》銷量破億，MV獲獎。他低調行善18年，累積逾6千萬善款助學。與4歲女兒合唱《聽媽媽的話》萌翻全網，並首次入圍「全球百大帥哥」。上海演唱會刷新紀錄，25週年新巡演明年啟動，同時分享收藏馬諦斯真跡與星巴克聯名商品。",
+      "key_events": [
+        "新輯《太陽之子》發行",
+        "18年行善6千萬",
+        "與女兒溫馨合唱"
+      ],
+      "created_at": "2026-09-21 05:21:26"
     }
   ],
   "notification_logs": [
@@ -38082,11 +38125,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-09-20 05:19:13"
+    },
+    {
+      "id": 375,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-21 05:21:27"
+    },
+    {
+      "id": 376,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-21 05:21:28"
     }
   ],
   "_meta": {
-    "nextArticleId": 2357,
-    "nextReportId": 182,
-    "nextLogId": 375
+    "nextArticleId": 2359,
+    "nextReportId": 183,
+    "nextLogId": 377
   }
 }
