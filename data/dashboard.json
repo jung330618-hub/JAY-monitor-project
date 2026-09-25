@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
-    "positive": 5,
+    "total": 2,
+    "positive": 1,
     "negative": 0,
     "neutral": 1
   },
   "allTimeStats": {
-    "total": 2374,
-    "positive": 790,
+    "total": 2376,
+    "positive": 791,
     "negative": 78,
-    "neutral": 1506,
+    "neutral": 1507,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-09-10",
-      "total": 2,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.9
-    },
     {
       "date": "2026-09-11",
       "total": 9,
@@ -132,9 +124,45 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.87
+    },
+    {
+      "date": "2026-09-25",
+      "total": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.68
     }
   ],
   "recentArticles": [
+    {
+      "id": 2375,
+      "title": "周杰倫、周子瑜輸了！台灣藝人IG人氣王冠軍是他，網友驚：這1人粉絲數「高到傻眼」 | 李伊晴 | 風生活 - 風傳媒",
+      "link": "https://www.storm.mg/lifestyle/11167114",
+      "source": "Tavily (www.storm.mg)",
+      "snippet": "除了冠軍寶座的身分爭辯，榜單第4名的李毓芬同樣掀起極高討論度。近年在台灣本土演藝活動相對低調、鮮少公開露面的李毓芬，IG粉絲數一路飆升至847.1萬，一舉超車王力宏、葉舒華、蔡依林與彭于晏等一線大咖，讓大批網友紛紛留言驚嘆「最震驚的是李毓芬」、「李毓芬粉絲數高到傻眼」。\n\n| 排名 | 藝人名稱 | 所屬團體 / 領域 | IG 追蹤數 |\n ---  --- |\n| 1 | 段宜恩（Mark） | GOT7 | 1333萬 |\n| 2 | 周子瑜 | TWICE | 1325萬 |\n| 3 | 周杰倫 | 華語流行天王 | 1133萬 |\n| 4 | 李毓芬 | 歌手、演員 | 847.1萬 |\n| 5 | 劉揚揚 | WayV / NCT | 669.5萬 |\n| 6 | 王力宏 | 歌手、音樂人 | 608.6萬 |\n| 7 | 葉舒華 | (G)I-DLE | 586.4萬 |\n| 8 | 劉逸雲（Amber） | f(x) | 507.6萬 |\n| 9 | 蔡依林 | 流行天后 | 480.6萬 |\n| 10 | 彭于晏 | 演員 | 474.9萬 | [...] 新聞財經科技\n\n台灣10月上市！vivo X500系列影像旗艦強勢登場：聯發科2nm晶片、蔡司長焦加持\n\nvivo昨（21）日在上海正式發表全新影像旗艦X500系列，延續品牌在手機影像領域的技術布局，將產品重心從傳統靜態攝影延伸至動態錄影、Live動態照片及日常創作。面對短影音、動態照片等內容形式逐漸普及，vivo此次透過感光元件、影像晶片及演算法整合，推出全新的「藍圖動態影像技術架構」，試圖將過去偏向專業創作者的高規格影像能力，進一步下放至一般消費者的日常使用......\n\n劉芯衣\n\n2026-09-23 12:06\n\n\n\n新聞國內天氣\n\n中秋連假變天？舒力基颱風最快今生成　氣象署曝1路徑恐直撲台灣\n\n氣象署說，熱帶低壓最快今發展為颱風舒力基，接近台灣過程強度將達中颱等級，而模式預測仍有分歧，可能27、28日北轉或往西靠近台灣，還待觀察，28日、29日宜蘭、桃園以北轉有雨。根據中央氣象署網站，熱帶性低氣壓TD29號，今天凌晨2時中心位置在鵝鑾鼻東南東方2180公里處，以每小時20公里速度，向西北西進行。氣象署預報員王品翔表示，熱帶性低氣壓最快今天白天發展為...... [...] 程霽玥\n\n2026-09-23 13:57\n\n\n\n地方新聞台北\n\n俄烏以巴戰火未歇　曾永權世亞盟年會示警：戰爭沒有贏家、和平沒有輸家\n\n2026年世盟年會暨第67屆亞盟年會今在台北登場，世亞盟中華民國總會理事長曾永權主持開幕式時直指，當前俄烏戰爭、美伊戰爭及以巴衝突仍牽動國際局勢，戰火造成經濟衝擊與人民傷亡，世界和平已成當前最迫切課題。他強調，自由民主是普世價值，和平更是人類共同追求的目標，「戰爭沒有贏家，和平沒有輸家」。今年年會以「非政府組織是促進世界和平的驅動力」為主題。曾永權表示，真正......\n\n楊艾喬\n\n2026-09-23 13:55\n\n\n\n地方新聞新聞國內台中\n\n因為近期食用油缺口　中市府緊急協調廠商調撥7,250公噸穩定市場供需",
+      "published_at": "Wed, 23 Sep 2026 06:23:00 GMT",
+      "collected_at": "2026-09-25 05:16:48",
+      "sentiment": "中性",
+      "sentiment_score": 0.45,
+      "summary": "周杰倫在台灣藝人IG追蹤數排行榜中位居第三，擁有1133萬粉絲，儘管被標題形容為「輸了」，但仍展現其高人氣。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2376,
+      "title": "周杰倫大巨蛋首唱「關鍵人物曝光」！遠雄巨蛋老總爆料幕後秘辛 | 音樂 | 噓！星聞",
+      "link": "https://stars.udn.com/star/story/10092/9770543",
+      "source": "Tavily (stars.udn.com)",
+      "snippet": "### 蕭秉治牽手張志豪引暴動 親吐激動心情   公司老闆台中超商遇害  河智媛最新近況曝光\n\n### 公司老闆台中超商遇害 河智媛最新近況曝光\n\n大巨蛋 周杰倫 黃路梓茵 五月天 Lulu 演唱會 Super Junior 蔡依林\n\n←上一篇\n\n### 楊皓如談辦公室戀情耍心機 反遭惡整被調職當梳化 下一篇→\n\n### 紅髮艾德費城開唱　巡演嘉賓挺巴風波引發抵制\n\n### 最新文章\n\n巫啟賢有喜了！親揭和高雄38年緣分\n\n### 巫啟賢有喜了！親揭和高雄38年緣分   「鋼琴天后」王羽佳11月再來台！「鋼琴兼指揮」挑戰布拉姆斯雙協奏曲\n\n### 「鋼琴天后」王羽佳11月再來台！「鋼琴兼指揮」挑戰布拉姆斯雙協奏曲 \n EmptyORio獻出第一次 暴吐3回超驚險\n\n### EmptyORio獻出第一次 暴吐3回超驚險   PREP大讚落日飛車「世界上最接近我們的樂團」10月台北再開唱\n\n### PREP大讚落日飛車「世界上最接近我們的樂團」10月台北再開唱\n\n### 相關新聞\n\n星級評論／吳宗憲胡瓜縱橫電視30年 退休、交棒各自掙扎 [...] ### 全產品速覽\n\n#### 新聞評論\n\n聯合新聞網 河好如初 陽光行動 聯合報數位版 聯合70 轉角國際 倡議家 世界日報 新聞話題\n\n#### 服務\n\n會員中心 U利點數 我的新聞 歷史新聞 活動專區 udn粉絲團 udn line 好友\n\n#### 股市理財\n\n經濟日報網 房地產 中經社 樂透 發票\n\n#### 生活娛樂\n\n噓！星聞 優人物 udnSTYLE 500輯 遊戲角落 發燒車訊 元氣網 橘世代 寵物部落 科技玩家 女子漾 報時光\n\n#### 運動\n\nudn NBA 野球夢田 HBL\n\n#### 閱讀創作\n\n琅琅悅讀 琅琅書店 琅琅原創 一刻鯨選 U好學 聯副70 udn部落格 聯合文學 聯經出版 聯文雜誌\n\n#### 文創購物\n\n數位文創 IP 授權 瘋活動 售票網 時光商號 時光自造所 品牌故事館\n\n#### 更多產品\n\n聯合知識庫 聯合電子報 聯合影音網 聯合學苑 有行旅 APP行動網 關於我們\n\n\n\n快訊\n\n### 譚松韻戲外真實人生！母親遇酒駕車禍身亡 肇事者竟是「小學同學」\n\n### 譚松韻戲外真實人生！母親遇酒駕車禍身亡 肇事者竟是「小學同學」 [...] ### 星級評論／吳宗憲胡瓜縱橫電視30年 退休、交棒各自掙扎   星級評論／記者會主持黃子佼絕對稱王 落馬後牌局重洗誰能接棒？\n\n### 星級評論／記者會主持黃子佼絕對稱王 落馬後牌局重洗誰能接棒？   星級評論／金鐘得獎靠運氣？ 當5人評審組成那刻就決定了誰會出局\n\n### 星級評論／金鐘得獎靠運氣？ 當5人評審組成那刻就決定了誰會出局   被許光漢抽中！粉上台激動爆哭「摸頭殺加持」全場瘋狂\n\n### 被許光漢抽中！粉上台激動爆哭「摸頭殺加持」全場瘋狂   「木曜4超玩」全員現身！邰智源暌違10年回歸成殺人魔\n\n### 「木曜4超玩」全員現身！邰智源暌違10年回歸成殺人魔   撞臉奧運銅牌陳念琴…黃宣驚呆！心疼林郁婷揭反擊機會\n\n### 撞臉奧運銅牌陳念琴…黃宣驚呆！心疼林郁婷揭反擊機會\n\n### 專訪／洪都拉斯窮困潦倒成萬華街友！遺憾忙工作錯過小孩成長\n\n### 爆下體打玻尿酸壞死 極私密對話瘋傳！王鶴棣地獄等級「絕望3困境」\n\n### 專訪／跆拳道黑帶三段男星沒戲拍 工地搬磚、外送苦嘆：比演員賺得多\n\n### 小學追的偶像變成自己的老公！許嵩娶小14歲鐵粉登上熱搜",
+      "published_at": "Tue, 22 Sep 2026 06:09:29 GMT",
+      "collected_at": "2026-09-25 05:16:48",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "新聞提及周杰倫在大巨蛋的首唱，並揭露了幕後關鍵人物與秘辛，引發粉絲高度期待。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 2369,
       "title": "杰倫哥    ☀️哥的新專輯【太陽之子】    13首歌    目前有9支MV ...",
@@ -526,48 +554,39 @@
       "summary": "周杰倫在社群媒體分享與4歲女兒Jacinda同台合唱《聽媽媽的話》的溫馨時刻。",
       "category": "生活",
       "analyzed": 1
-    },
-    {
-      "id": 2346,
-      "title": "Jay Chou",
-      "link": "https://www.wikiwand.com/en/Jay_Chou",
-      "source": "Tavily (www.wikiwand.com)",
-      "snippet": "From Wikipedia, the free encyclopedia\n\nJay Chou Chieh-lun (traditional Chinese:周杰倫; simplified Chinese:周杰伦; pinyin:_Zhōu Jiélún_; born 18 January 1979) is a Taiwanese singer-songwriter, actor, director, and businessman. Widely regarded as one of the most influential figures in the Chinese-speaking world, he is referred to as the \"King of Mandopop\".\n\nImage 2\n\nBorn\n\nJay Chou Chieh-lun\n\n  \n (1979-01-18) 18 January 1979 (age 47)  \n\nLinkou, Taipei County, Taiwan\n\nOccupations [...] Chou is one of the best-selling recording artists in Taiwanese history, having sold over 30 million albums worldwide.( He is the most-awarded singer at the Golden Melody Awards—with 15 accolades, and his music videos are among the most-viewed on YouTube—with six surpassing 100 million views, the most for any Chinese artist. Chou's Opus Jay World Tour (2013–2015) generated over US$250 million in revenue while The Invincible World Tour (2016–2019) drew an audience of over 3 million. [...] | 周杰倫 |\n| Image 3 Chou in 2026 |\n| Born | Jay Chou Chieh-lun (1979-01-18) 18 January 1979 (age 47) Linkou, Taipei County, Taiwan |\n| Occupations |  Singer  songwriter  record producer  actor  television personality  businessman |\n| Years active | 2000–present |\n| Works |  Albums  singles  songs recorded |\n| Spouse | Hannah Quinlivan ​ (m.2015)​ |\n| Children | 3 |\n| Awards | Full list |\n| Musical career |\n| Origin | Taipei, Taiwan |\n| Genres |  Mandopop  R&B  Chinese rock  Chinese hip-hop |",
-      "published_at": "Wed, 01 Apr 2026 15:20:38 GMT",
-      "collected_at": "2026-09-18 05:05:53",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "這篇維基百科摘要全面介紹了周杰倫作為華語樂壇極具影響力的「華語流行音樂天王」，並列舉了他在音樂、影視及商業上的輝煌成就。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2347,
-      "title": "Jay Chou Singapore Tickets - Singapore National Stadium | Jan 9, 2027",
-      "link": "https://concerts50.com/show/jay-chou-in-singapore-tickets-jan-09-2027",
-      "source": "Tavily (concerts50.com)",
-      "snippet": "facebook\ninstagram\ntwitter\ntiktok\nyoutube\n\n# Jay Chou\n\nJan 9, 2027 at 7:30 PM \n · \nSingapore National Stadium, Singapore\nSingapore National Stadium, Singapore\n\nJay Chou\nJay Chou\n\n## Jay Chou Tickets\n\n|  |  |\n --- |\n| StubHub | tickets |\n\n## LineUp\n\nJay Chou\n\nJay Chou\n\n6 concerts\n\n## Concert Info\n\nGenre:\nTaiwanese Pop, Mandopop, Cantopop, C-Pop, Pop, World, Asian Pop, taiwan pop, chinese r&b, gufeng, zhongguo feng\n\n### Videos\n\n## Venue Info [...] |  |  |  |\n --- \n| Sat, 7:30 PM  Oct 17  2026 | Jay Chou \"Carnival II\" World Tour in Melbourne  Marvel Stadium - Docklands, Australia | tickets |\n| Sat, 7:30 PM  Nov 21  2026 | Jay Chou \"Carnival II\" World Tour in Sydney  ENGIE Stadium - Sydney Olympic Park, Australia | tickets |\n| Fri, 8:00 PM  Jan 8  2027 | Jay Chou  Singapore National Stadium - Singapore, Singapore | tickets |\n\n## More Concerts at Singapore National Stadium\n\nDon Toliver\n\nSep 25 · Fri, 8:00 PM [...] Mayday\n\n1 concert\n\nBy clicking “Accept”, you agree to the storing of cookies on your device to enhance site navigation, analyse site usage, and assist in our marketing efforts. You can view our privacy policy here.\n  \nAccept\n\nfacebook\ninstagram\ntwitter\ntiktok\nyoutube\n\nDon't have an account? Sign Up\n\nForgot password?\nClick here\n\nBy proceeding, you agree with our\nTerms of Service,\nPrivacy Policy",
-      "published_at": "Mon, 31 Aug 2026 00:00:00 GMT",
-      "collected_at": "2026-09-18 05:05:53",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫將於2027年1月9日在新加坡國家體育場舉辦「嘉年華II」世界巡迴演唱會，並列出其他巡演場次與購票資訊。",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 185,
-    "report_date": "2026-09-24",
-    "total_articles": 6,
-    "positive_count": 5,
+    "id": 186,
+    "report_date": "2026-09-25",
+    "total_articles": 2,
+    "positive_count": 1,
     "negative_count": 0,
     "neutral_count": 1,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "杰倫哥    ☀️哥的新專輯【太陽之子】    13首歌    目前有9支MV ...、周杰倫音樂作品列表 - 維基百科，自由的百科全書、歌應該還有持續在聽MV有持續在看吧？ 新MV倒數中！ 周杰倫最新 ...",
-    "created_at": "2026-09-24 05:16:02"
+    "daily_summary": "周杰倫新專輯《太陽之子》發行並釋出多支MV，引發熱議。他近期在上海舉辦破紀錄演唱會，並預告明年將展開25週年巡演。家庭生活方面，周董與小女兒溫馨合唱《聽媽媽的話》萌翻眾人，與昆凌的甜蜜互動也持續放閃。此外，他默默行善18年，捐款逾6480萬助學童，同時也入圍全球百大帥哥，展現天王多面向魅力。",
+    "key_events": [
+      "新專輯《太陽之子》發行",
+      "上海演唱會破紀錄",
+      "與小女兒溫馨合唱"
+    ],
+    "created_at": "2026-09-25 05:17:02"
   },
   "recentReports": [
+    {
+      "id": 186,
+      "report_date": "2026-09-25",
+      "total_articles": 2,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫新專輯《太陽之子》發行並釋出多支MV，引發熱議。他近期在上海舉辦破紀錄演唱會，並預告明年將展開25週年巡演。家庭生活方面，周董與小女兒溫馨合唱《聽媽媽的話》萌翻眾人，與昆凌的甜蜜互動也持續放閃。此外，他默默行善18年，捐款逾6480萬助學童，同時也入圍全球百大帥哥，展現天王多面向魅力。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "上海演唱會破紀錄",
+        "與小女兒溫馨合唱"
+      ],
+      "created_at": "2026-09-25 05:17:02"
+    },
     {
       "id": 185,
       "report_date": "2026-09-24",
@@ -653,17 +672,6 @@
         "演唱會創紀錄預告巡演"
       ],
       "created_at": "2026-09-19 04:57:01"
-    },
-    {
-      "id": 179,
-      "report_date": "2026-09-18",
-      "total_articles": 9,
-      "positive_count": 7,
-      "negative_count": 0,
-      "neutral_count": 2,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "周杰倫《太陽之子》黑膠唱片登場、星巴克 | 全新「周杰倫合作限定：Jay系列商品」登陸香港、周杰倫沒跟昆凌飛巴黎！陪4歲女兒合唱「超萌模樣」曝光 深夜突隔空喊老婆",
-      "created_at": "2026-09-18 05:06:23"
     }
   ]
 }
