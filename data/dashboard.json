@@ -1,9 +1,9 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 2,
+    "total": 0,
+    "positive": 0,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
     "total": 2382,
@@ -13,14 +13,6 @@
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-09-14",
-      "total": 1,
-      "positive": 1,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.95
-    },
     {
       "date": "2026-09-15",
       "total": 3,
@@ -557,17 +549,28 @@
     }
   ],
   "latestReport": {
-    "id": 189,
-    "report_date": "2026-09-28",
-    "total_articles": 3,
-    "positive_count": 2,
+    "id": 190,
+    "report_date": "2026-09-29",
+    "total_articles": 0,
+    "positive_count": 0,
     "negative_count": 0,
-    "neutral_count": 1,
+    "neutral_count": 0,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
     "key_events": "周杰倫IP「周同學」前進上海 打造「音樂＋潮玩＋文化」零售模式 – 翻爆 – 翻報、周杰倫南京開唱　揶揄劉畊宏《披荊》被淘汰｜即時新聞｜繽FUN星網｜on.cc東網、華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
-    "created_at": "2026-09-28 05:46:09"
+    "created_at": "2026-09-29 06:04:31"
   },
   "recentReports": [
+    {
+      "id": 190,
+      "report_date": "2026-09-29",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫IP「周同學」前進上海 打造「音樂＋潮玩＋文化」零售模式 – 翻爆 – 翻報、周杰倫南京開唱　揶揄劉畊宏《披荊》被淘汰｜即時新聞｜繽FUN星網｜on.cc東網、華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
+      "created_at": "2026-09-29 06:04:31"
+    },
     {
       "id": 189,
       "report_date": "2026-09-28",
@@ -649,21 +652,6 @@
         "上海演唱會破紀錄"
       ],
       "created_at": "2026-09-23 05:07:14"
-    },
-    {
-      "id": 183,
-      "report_date": "2026-09-22",
-      "total_articles": 5,
-      "positive_count": 4,
-      "negative_count": 1,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫新專輯《太陽之子》發行，銷量破億，雖有爭議但廣受關注。他與女兒Jacinda合唱《聽媽媽的話》萌翻全網，昆凌也已返台，一家五口居家生活曝光。此外，周董低調行善18年，累積6480萬善款，並首次入圍「全球百大帥哥」，事業家庭兩得意。",
-      "key_events": [
-        "新專輯《太陽之子》",
-        "與女兒溫馨合唱",
-        "18年低調行善"
-      ],
-      "created_at": "2026-09-22 05:18:41"
     }
   ]
 }

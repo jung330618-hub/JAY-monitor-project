@@ -35938,6 +35938,17 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫IP「周同學」前進上海 打造「音樂＋潮玩＋文化」零售模式 – 翻爆 – 翻報、周杰倫南京開唱　揶揄劉畊宏《披荊》被淘汰｜即時新聞｜繽FUN星網｜on.cc東網、華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
       "created_at": "2026-09-28 05:46:09"
+    },
+    {
+      "id": 190,
+      "report_date": "2026-09-29",
+      "total_articles": 0,
+      "positive_count": 0,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫IP「周同學」前進上海 打造「音樂＋潮玩＋文化」零售模式 – 翻爆 – 翻報、周杰倫南京開唱　揶揄劉畊宏《披荊》被淘汰｜即時新聞｜繽FUN星網｜on.cc東網、華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
+      "created_at": "2026-09-29 06:04:31"
     }
   ],
   "notification_logs": [
@@ -38670,11 +38681,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-09-28 05:46:11"
+    },
+    {
+      "id": 391,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-29 06:04:32"
+    },
+    {
+      "id": 392,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-29 06:04:34"
     }
   ],
   "_meta": {
     "nextArticleId": 2383,
-    "nextReportId": 190,
-    "nextLogId": 391
+    "nextReportId": 191,
+    "nextLogId": 393
   }
 }
