@@ -33347,6 +33347,62 @@
       "summary": "華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
       "category": "新歌",
       "analyzed": 1
+    },
+    {
+      "id": 2383,
+      "title": "影／周杰倫演唱會遇74歲歌迷阿嬤！她調皮喊「聽你的歌長大的」全場笑翻ＸＤ",
+      "link": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%BC%94%E5%94%B1%E6%9C%83%E9%81%8774%E6%AD%B2%E6%AD%8C%E8%BF%B7%E9%98%BF%E5%AC%A4-%E5%A5%B9%E8%AA%BF%E7%9A%AE%E5%96%8A-%E8%81%BD%E4%BD%A0%E7%9A%84%E6%AD%8C%E9%95%B7%E5%A4%A7%E7%9A%84-%E5%85%A8%E5%A0%B4%E7%AC%91%E7%BF%BB-033800830.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "[FTNN新聞網]影音中心／孫睿瑜天王周杰倫近日帶著「嘉年華II世界巡迴演唱會」前進南京，於9月24日至26日在南京奧體中心體育場連唱3場，除了接連帶來多",
+      "published_at": "Wed, 30 Sep 2026 03:00:00 GMT",
+      "collected_at": "2026-09-30 05:53:11",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在南京演唱會上與一位74歲歌迷阿嬤的幽默互動，因阿嬤一句「聽你的歌長大的」逗樂全場。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2384,
+      "title": "周杰倫帥拎73萬元小巧柏金包！稱「老婆買的生日禮物」 用絕版棒球帽偷放閃",
+      "link": "https://fashion.ettoday.net/news/3246398",
+      "source": "Tavily (fashion.ettoday.net)",
+      "snippet": "周杰倫曬出照片，穿著黑色Chrome Hearts外套、手拿定價近73萬元繪有巴黎福寶總店的HERMES（愛馬仕）柏金包，以中英雙語寫下：「不要懷疑，",
+      "published_at": "Wed, 30 Sep 2026 03:00:00 GMT",
+      "collected_at": "2026-09-30 05:53:11",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫帥氣展示了妻子送的73萬元柏金包作為生日禮物，並透過絕版棒球帽巧妙放閃。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2385,
+      "title": "TREASURE雄蛋開唱！甜唱周杰倫〈告白氣球〉 台上應景嗑月餅",
+      "link": "https://ctinews.com/news/items/vZWBmvQQn7",
+      "source": "Tavily (ctinews.com)",
+      "snippet": "韓國男團TREASURE日前於高雄巨蛋舉辦「TREASURE THE STAGE 2026 NEW WAV : LIVE」演唱會，9名成員抵達高雄小港機場時吸引超過300名粉絲接機。",
+      "published_at": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "collected_at": "2026-09-30 05:53:11",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "韓國男團TREASURE在高雄演唱會上翻唱周杰倫的〈告白氣球〉，展現其歌曲的跨國影響力。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2386,
+      "title": "背著周杰倫滾床昆凌！邱以太自保「保持安全距離」 嚇到狂播〈稻香〉求生",
+      "link": "https://www.mirrordaily.news/story/88612",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "真人轉描的2D動畫電影《歡迎來到朵莉之家》今（29日）進行媒體首映，揭曉睽違5年回歸大銀幕的「天王嫂」昆凌也特別出演，還與新生代男星邱以太有「床戲」。",
+      "published_at": "Tue, 29 Sep 2026 08:00:00 GMT",
+      "collected_at": "2026-09-30 05:53:11",
+      "sentiment": "中性",
+      "sentiment_score": 0.55,
+      "summary": "昆凌在新電影《歡迎來到朵莉之家》中與邱以太有「床戲」，邱以太因緊張而播放周杰倫的歌曲〈稻香〉求生。",
+      "category": "影視",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -35949,6 +36005,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫IP「周同學」前進上海 打造「音樂＋潮玩＋文化」零售模式 – 翻爆 – 翻報、周杰倫南京開唱　揶揄劉畊宏《披荊》被淘汰｜即時新聞｜繽FUN星網｜on.cc東網、華航獲得《周遊記3》機上獨家播映授權 跟著周杰倫與巨星好友探索世界 - 中华航空",
       "created_at": "2026-09-29 06:04:31"
+    },
+    {
+      "id": 191,
+      "report_date": "2026-09-30",
+      "total_articles": 4,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫近期焦點圍繞新專輯《太陽之子》發行，MV及黑膠唱片陸續登場，雖引發部分爭議，但妻子昆凌積極參與宣傳。他與4歲女兒在演唱會合唱《聽媽媽的話》萌翻全場，並低調行善18年捐款逾6千萬。此外，周杰倫IP「周同學」進軍上海，並與星巴克聯名，展現音樂、家庭與商業多面向魅力。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "與女兒演唱會同台",
+        "IP「周同學」拓版圖"
+      ],
+      "created_at": "2026-09-30 05:53:33"
     }
   ],
   "notification_logs": [
@@ -38695,11 +38766,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-09-29 06:04:34"
+    },
+    {
+      "id": 393,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-30 05:53:34"
+    },
+    {
+      "id": 394,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-09-30 05:53:34"
     }
   ],
   "_meta": {
-    "nextArticleId": 2383,
-    "nextReportId": 191,
-    "nextLogId": 393
+    "nextArticleId": 2387,
+    "nextReportId": 192,
+    "nextLogId": 395
   }
 }
