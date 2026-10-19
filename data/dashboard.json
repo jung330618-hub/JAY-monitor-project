@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 3,
-    "positive": 3,
+    "total": 6,
+    "positive": 5,
     "negative": 0,
-    "neutral": 0
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2469,
-    "positive": 860,
+    "total": 2475,
+    "positive": 865,
     "negative": 83,
-    "neutral": 1526,
+    "neutral": 1527,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-10-04",
-      "total": 4,
-      "positive": 3,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.83
-    },
     {
       "date": "2026-10-05",
       "total": 5,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.95
+    },
+    {
+      "date": "2026-10-19",
+      "total": 6,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.8
     }
   ],
   "recentArticles": [
+    {
+      "id": 2470,
+      "title": "周杰倫說還有很多歌要寫，暑假的新專輯又要鴿了？ ...",
+      "link": "https://www.facebook.com/100093555733538/videos/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AA%AA%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A%E6%AD%8C%E8%A6%81%E5%AF%AB%E6%9A%91%E5%81%87%E7%9A%84%E6%96%B0%E5%B0%88%E8%BC%AF%E5%8F%88%E8%A6%81%E9%B4%BF%E4%BA%86-%E5%91%A8%E6%9D%B0%E5%80%AB-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E5%B0%88%E8%BC%AF-%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AA%AA%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A%E6%AD%8C%E8%A6%81%E5%AF%AB-%E5%91%A8%E6%9D%B0%E5%80%AB%E9%B4%BF%E7%8E%8B/3779041275568004",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "周杰倫新專輯猜想(一)#周杰倫... Aug 18, 2026 · 2.1K views. 炸裂消息！周杰倫官宣新專輯夏天到來！這次確定不鴿？ 00:52. 炸裂消息！周杰倫官宣新專輯夏 天到來！這次",
+      "published_at": "2026-10-19T05:10:59.788Z",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫官宣新專輯將於夏天發行，但粉絲仍對其是否會如期推出抱持著期待與一絲疑慮。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2471,
+      "title": "12新作- 维基百科，自由的百科全书",
+      "link": "https://zh.wikipedia.org/zh-cn/12%E6%96%B0%E4%BD%9C",
+      "source": "Tavily (zh.wikipedia.org)",
+      "snippet": "《12新作》（英语：Opus 12）是台湾男歌手周杰伦的第12张录音室专辑，收录12首歌曲，2012年12月12日开始预购，12月28日发行，发行3天的时间就成为五大唱片2012年年榜",
+      "published_at": "Fri, 16 Oct 2026 05:00:00 GMT",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫的第12張錄音室專輯《12新作》於2012年發行，並在短短三天內成為五大唱片年度榜單的熱銷專輯。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2472,
+      "title": "周杰倫GQ出道25周年專訪∶新專輯沒出因為演唱會？ “希望 ...",
+      "link": "https://www.facebook.com/100093555733538/videos/%E5%91%A8%E6%9D%B0%E5%80%ABgq%E5%87%BA%E9%81%9325%E5%91%A8%E5%B9%B4%E5%B0%88%E8%A8%AA%E6%96%B0%E5%B0%88%E8%BC%AF%E6%B2%92%E5%87%BA%E5%9B%A0%E7%82%BA%E6%BC%94%E5%94%B1%E6%9C%83-%E5%B8%8C%E6%9C%9B%E4%BB%8A%E5%B9%B4%E5%8F%AF%E4%BB%A5%E5%87%BA%E6%96%B0%E5%B0%88%E8%BC%AF%E5%91%A8%E6%9D%B0%E5%80%AB-%E5%91%A8%E6%9D%B0%E5%80%ABgq%E8%A8%AA%E8%AB%87-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E5%B0%88%E8%BC%AF-%E5%91%A8%E6%9D%B0%E5%80%AB%E5%87%BA%E9%81%9325%E5%91%A8%E5%B9%B4%E5%B0%88%E8%A8%AA/1053266174356342",
+      "source": "Tavily (www.facebook.com)",
+      "snippet": "周杰倫GQ出道25周年專訪∶新專輯沒出因為演唱會？ “希望今年可以出新專輯”#周杰倫 #周杰倫GQ訪談 #周杰倫新專輯 #周杰倫出道25周年專訪.",
+      "published_at": "2026-10-19T05:10:59.788Z",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫在GQ出道25周年專訪中透露新專輯未發行原因，並表達希望今年能推出新專輯。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2473,
+      "title": "我的第一張周杰倫黑膠“太陽之子”（8月入手至今還沒拆來聽）",
+      "link": "https://www.threads.com/@ikilife/post/DeCdGuMGdNs/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E5%BC%B5%E5%91%A8%E6%9D%B0%E5%80%AB%E9%BB%91%E8%86%A0-%E5%A4%AA%E9%99%BD%E4%B9%8B%E5%AD%908%E6%9C%88%E5%85%A5%E6%89%8B%E8%87%B3%E4%BB%8A-%E9%82%84%E6%B2%92%E6%8B%86%E4%BE%86%E8%81%BD%E4%B9%9F%E5%89%9B%E5%A5%BD%E6%88%91%E7%9A%84%E5%B0%8F%E5%96%87%E5%8F%AD-%E4%BB%8A%E5%A4%A9gg%E6%83%B9%E4%BB%A3%E8%A1%A8%E5%8F%AF%E4%BB%A5%E8%B2%B7%E6%96%B0%E4%BA%86%E9%80%99%E5%BC%B5%E5%A5%BD%E4%B8%8D%E5%A5%BD%E8%81%BD%E5%98%9B%E9%82%84%E8%A1%8C%E5%90%A7-%E7%AE%97%E9%A0%86%E8%80%B3%E9%80%9910%E5%B9%B4%E4%B8%AD%E6%96%87%E6%88%91%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E8%83%BD%E8%81%BD%E8%AA%B0%E7%9A%84%E8%87%B3%E5%B0%91%E6%9C%89",
+      "source": "Tavily (www.threads.com)",
+      "snippet": "《Initial J》是周杰倫在日本正式推出的日本出道專輯,2005 年8 月31 日由Sony Music 發行,而且屬於日本獨自企劃精選盤,把他2000 至2004 年的重要歌曲",
+      "published_at": "2026-10-19T05:10:59.788Z",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "一位粉絲分享了他們收藏周杰倫在日本發行的精選專輯《Initial J》黑膠唱片。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2474,
+      "title": "從BIGBANG到周杰倫 偶像不來自己飛去 陸掀跨境追星潮 - 兩岸 - 中時",
+      "link": "https://www.chinatimes.com/realtimenews/20261017000005-260409",
+      "source": "Tavily (www.chinatimes.com)",
+      "snippet": "從BIGBANG歌迷為了看韓團跨境赴港，到周杰倫歌迷搭高鐵跨省追星，演唱會正在改變的不只是娛樂消費，也包括人的移動方式。當歌迷願意為偶像飛出去、搭高鐵去另一座城，演唱會就不再只是幾個小時的表演，而可能成為一趟旅行的起點。\n\n韓國小王子迷上台灣！還被推坑買台積電 婆媽粉絲熱情襲臀索吻\n\nBIGBANG太陽才翻牌！演唱會哥遭疑買黃牛票炎上　發長文揭200場計畫結局\n\n揭曉BTS、BIGBANG演唱會期間數據 海外旅客赴高雄、台北旅遊興趣升溫\n\n#BIGBANG #周杰倫 #跨境追星 #演唱會經濟 #青島\n\n【樂齡專屬》秋涼輕鬆郊遊去！】 北北基桃5大銀髮族野餐一日遊推薦\n\n#### 也許您會感興趣\n\n#### 推薦閱讀\n\n #### 走在路上竟遇周杰倫彈琴！這座城市街頭變舞台　歌迷喊：換我的城市啦\n\n  娛樂\n #### 看BIGBANG全程面癱！「追星阿伯」自拍釣出太陽回應 逗笑全網\n\n  娛樂\n #### GD攻蛋後驚喜曬「台灣國旗」秒刪！台粉嗨爆：心意收到就好\n\n  娛樂\n #### 曾寶儀訪問到一半「突落淚」！驚吐53歲身體變化：以為得流感 [...] 娛樂\n #### 直擊》BIGBANG「3缺1」赴金豬食堂慶功 阿Ken完成周杰倫指派任務了\n\n  娛樂\n #### 跟著BIGBANG太陽玩台北！忠孝復興咖啡、仁愛路晨跑 還愛上鼎泰豐 私下踩點一次看\n\n  娛樂\n #### BIGBANG收周董鳳梨酥 嗨喊謝謝大哥\n\n  娛樂\n #### BIGBANG大巨蛋完美收官\n\n  娛樂\n #### 直擊》周杰倫送BIGBANG鳳梨酥！太陽台上中文笑喊「謝謝大哥」\n\n  娛樂\n #### 國慶日213萬人次 創北捷新紀錄\n\n  地方\n #### BIGBANG台北合體吸12萬粉朝聖\n\n  娛樂\n #### 直擊》BIGBANG大巨蛋3場完美收官！ GD淚喊「有兄弟在比自己來更開心」\n\n  娛樂\n\n#### 發表意見 [...] 娛樂\n\n#### 發表意見\n\n 請勿重覆刊登一樣的文章，或大意內容相同、類似的文章\n 請不要刊登與主題無相關之內容\n 發言涉及攻擊、侮辱、影射或其他有違社會善良風俗、社會正義、國家安全、政府法令之內容，本網站將會直接移除\n 請勿以發文、回文等方式，進行商業廣告、騷擾網友等行為，或是為特定網站、blog宣傳，一經發現，將會限制您的發言權限或者封鎖帳號\n 為避免留言系統變成發洩區和口水版，請勿轉貼新聞性文章、報導或相關連結\n 請勿提供軟體註冊碼等違反智慧財產權之資訊\n 禁止發表涉及他人隱私、含有個人對公眾人物之私評，且未經證實、未註明消息來源的網路八卦、不實謠言等\n 請確認發表或回覆的內容（圖片）未侵害到他人的著作權、商標、專利等權利；若因發表或回覆內容而產生的版權法律責任將由使用者自行承擔，不代表中時新聞網的立場，請遵守相關法律規範\n\n關閉\n\n回到頁首發表意見",
+      "published_at": "Sat, 17 Oct 2026 10:00:30 GMT",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫演唱會吸引歌迷跨省追星，不僅改變了娛樂消費模式，也帶動了演唱會經濟與旅遊潮。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2475,
+      "title": "影／劉畊宏登周杰倫墨爾本舞台！？搶當「華人第一」在這帶跳操的人",
+      "link": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%8A%89%E7%95%8A%E5%AE%8F%E7%99%BB%E5%91%A8%E6%9D%B0%E5%80%AB%E5%A2%A8%E7%88%BE%E6%9C%AC%E8%88%9E%E5%8F%B0-%E6%90%B6%E7%95%B6-%E8%8F%AF%E4%BA%BA%E7%AC%AC-%E5%9C%A8%E9%80%99%E5%B8%B6%E8%B7%B3%E6%93%8D%E7%9A%84%E4%BA%BA-035000540.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "【高沛生／綜合報導】資深媒體人趙少康日前在政論節目《少康戰情室》中，與民進黨台南市長參選人陳亭妃討論「凍卵政策」時，大力譴責台灣現行法律規定女性凍卵後「必須結婚才能受孕」的限制。他痛批傳統價值是「狗屁」，直言應該尊重女性選擇，在網路上引爆熱議。連獲封「最辣國文老師」的網美Queenta（郭乃維）看完也直呼：「完了，我被趙少康圈粉了！」\n\n壹蘋新聞網 ・ 17 小時前 ・ 35則留言\n\n### 又正又強！「跨欄甜心」張博雅全國田徑錦標賽女子100公尺跨欄破大會紀錄\n\n體育中心／綜合報導「跨欄甜心」張博雅，稍早在115年全國田徑錦標賽女子100公尺跨欄飆出13秒03，破大會紀錄，勇奪金牌。\n\nFTV Sports ・ 1 天前 ・ 2則留言\n\n### 飯店退房連「這個」都帶走！網友驚呼超出想像　房務員曝「最愛這類客人」\n\n影片中，房客先整理房間內可見的用品，包括尚未使用的瓶裝水、茶包及拖鞋，接著也收起衛生紙，幾乎沒有留下原本擺放的備品。原本看似一般退房前的打包過程，卻因最後拆開遙控器、拿走電池的舉動，成為討論焦點。部分網友表示，飯店提供的礦泉水與茶包原本就是供住客使用，沒... [...] 打開App\n\n廣告\n\nFTNN新聞網\n\n# 影／劉畊宏登周杰倫墨爾本舞台！？搶當「華人第一」在這帶跳操的人\n\nFTNN新聞網\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n[FTNN新聞網]影音中心／朱瑪琳\n\n天王周杰倫日前赴澳洲墨爾本開唱，成為在該場地首唱的第一位華人歌手，好友劉畊宏也特別從彩排就到場力挺。在最新曝光的花絮影片中，劉畊宏對周杰倫笑說：「聽說你是第一個華人在這邊首唱的。」而周杰倫立刻幽默起鬨：「如果你現在先跑到台上去，那你就是第一」沒想到劉畊宏聽完秒回：「那我先過去！你第一個首唱，我第一個在這邊帶大家跳操的！」兩人一搭一唱、爭當「華人第一」的逗趣互動，瞬間笑翻大批網友。\n\n廣告\n\n廣告\n\n劉畊宏爭當「華人第一」逗趣互動引發網友熱議。（圖／抖音：周同學）\n\n劉畊宏爭當「華人第一」逗趣互動引發網友熱議。（圖／抖音：周同學）\n\n更多FTNN新聞網報導  \n影／路邊有人彈周杰倫的歌...仔細一看竟然是本尊！  \n影／周杰倫演唱會遇74歲歌迷阿嬤！她調皮喊「聽你的歌長大的」全場笑翻ＸＤ  \n影／昆凌、周杰倫認養「長頸鹿」夫妻　親手畫認養牌超暖心！\n\n登入後即可張貼留言。",
+      "published_at": "Sun, 18 Oct 2026 05:00:00 GMT",
+      "collected_at": "2026-10-19 05:11:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在墨爾本開唱，好友劉畊宏幽默地搶當「華人第一」在舞台上帶跳操，兩人逗趣互動引發網友熱議。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 2467,
       "title": "天王就在你身邊！周杰倫街頭彈琴 路人回頭猛看卻「完全沒認出」 | 藝人動態 | 噓！星聞",
@@ -470,108 +554,39 @@
       "summary": "周杰倫轉發一段被介紹為「中國知名歌手」的影片並點讚，此舉引發兩岸網友對其身份認同的激烈爭論。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2444,
-      "title": "周杰倫太狂 「Jay Chou」被拿來命名AI晶片 | 編輯精選 | 生活 | 世界新聞網",
-      "link": "https://www.worldjournal.com/wj/story/121617/9795577",
-      "source": "Tavily (www.worldjournal.com)",
-      "snippet": "報導提到他曾投資Mr.J義法廚房、將電影元素融入餐廳；也曾接手J戰隊經營權跨入電競，並入股SelvaRey蘭姆酒品牌，持續擴大商業版圖。\n\n上一則\n\n### 秋天賞味期有限 全美8景點值得提前規劃行程\n\n下一則\n\n### 這台高評價空氣清淨機 獲讚為「花粉灰塵剋星」\n\n## 延伸閱讀\n\n網友瘋狂考古周杰倫緋聞 命理師解答「Hebe不敵昆凌」真正原因\n\n### 網友瘋狂考古周杰倫緋聞 命理師解答「Hebe不敵昆凌」真正原因\n\n周董不要看…昆凌暌違重返大銀幕 床戰小鮮肉 \n\n### 周董不要看…昆凌暌違重返大銀幕 床戰小鮮肉\n\n冷眼集／每逢十一必演獵巫藝人 綠卻無視自家人賺紅錢\n\n### 冷眼集／每逢十一必演獵巫藝人 綠卻無視自家人賺紅錢\n\n陳怡蓉嫁醫生夫曾天天想分手 長輩出招：唸心經迴向給他\n\n### 陳怡蓉嫁醫生夫曾天天想分手 長輩出招：唸心經迴向給他\n\n## 熱門新聞\n\n麥克道格拉斯最近出版回憶錄，讓外界一窺這位奧斯卡影帝幕後精采人生。(美聯社)\n\n### 麥克道格拉斯回憶錄 自曝與已婚女星地下情、和黛妃共進晚餐 [...] wj\n\n### 我的頻道\n\n## 中俄暗助伊朗對抗美國？ 川普：完全不相信\n\n## 「金法尤物」女星在達美班機上咬傷乘客、揍空服員 降落紐約被捕\n\n# 周杰倫太狂 「Jay Chou」被拿來命名AI晶片\n\n打開微信，點擊底部的「發現」，使用「掃一掃」即可將網頁分享至好友\n\n周杰倫與耐能智慧創辦人兼執行長劉峻誠合作，「Jay Chou」成晶片代號。 （本...\n\n### AI摘要\n\n## 文章摘要整理：\n\n周杰倫再跨界，獲Kneron耐能智慧以「Jay Chou」命名最新AI晶片，凸顯其音樂與品牌影響力，也延伸至科技領域。\n\n### AI摘要\n\n## 文章摘要整理：\n\n周杰倫再跨界，獲Kneron耐能智慧以「Jay Chou」命名最新AI晶片，凸顯其音樂與品牌影響力，也延伸至科技領域。\n\n周杰倫的跨界版圖早已不只音樂。2005年主演「頭文字D」，2007年自導自演「不能說的秘密」，之後更參演好萊塢電影「青蜂俠」，事業版圖也跨界許多領域，像是餐飲、藝術、潮牌等，最近更傳出他的名字將成為最新款AI晶片的代號，可說是娛樂圈第一人。 [...] ### 貴婦控「弄髒愛馬仕」求償3萬美元 餐廳「公布監視器+錄音檔」反擊\n\n##### 關於我們\n\nAbout Us\n\n##### 與我們聯絡\n\nContact Us\n\n##### 網站總覽\n\nSite Overview\n\n##### 廣告價目\n\nAds Rate\n\n##### 訂報\n\nSubscription\n\n##### 電郵報\n\neNews\n\n##### 投稿\n\nContributions\n\n##### 徵才\n\nJoin Us\n\n##### 新聞倫理與新聞更正政策\n\nEthics & Corrections Policy\n\n##### 隱私權與條款\n\nPrivacy Policy",
-      "published_at": "Mon, 05 Oct 2026 14:35:00 GMT",
-      "collected_at": "2026-10-14 05:16:34",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫因其廣泛影響力，獲Kneron耐能智慧以「Jay Chou」命名最新AI晶片，再次展現其跨界商業版圖。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2445,
-      "title": "周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/90717",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "Logo\n\nAI 搜尋AI 智慧搜尋搜尋\n\nadbuy\n\n我要爆料我要投書\n\nLINEFacebookInstagramThreadsYouTube\n\n快訊\n\n威少太早退休？獨行俠球星替抱屈：他永遠是MVP587天！歐神仙復出首戰全家陪伴　內心情緒全曝光台中豐原小吃店爆鄰桌衝突　64歲男遭毆不治　55歲打人者遭聲押獲准旗子哥像詹皇還是KD？獨行俠球星拒絕比較有原因直擊／同世代後衛陸續告別！獨行俠球星吐復健真心話直擊／歐神仙回來了！首球就引爆中國賽　賽後吐心聲金裕貞新角色膽大又機靈！偷走朴珍榮錢包　《百日謊言》首集收視最高7.2%胡瓜挑戰新遊戲累到倒地！親自示範體力透支　當場喊「我先休息一下」\n\n周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯\n\n南拳媽媽彈頭在帛琉接受越洋訪問，披露他在水下遭當地韓籍潛店老闆追殺的過程。圖／翻攝自南拳媽媽彈頭宋健彰臉書﻿\n\n ｜即時 ｜娛樂\n\n# 周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯\n\nmirror-daily-logo [...] LINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\n### 延伸閱讀\n\n只知道他叫撲馬！花蓮窮小子靠免費網課翻轉人生　10年後才知：原來就是沈伯洋時事\n\n只知道他叫撲馬！花蓮窮小子靠免費網課翻轉人生　10年後才知：原來就是沈伯洋砸百萬送子出國！51歲性感女神曝愛兒機場手抖恐慌　留學1年多崩潰求媽「讓我退學回家」時事\n\n砸百萬送子出國！51歲性感女神曝愛兒機場手抖恐慌　留學1年多崩潰求媽「讓我退學回家」19歲帥兒倫敦名校讀1年堅決休學！袁詠儀、張智霖「爆夫妻內鬨」　最終放手原因曝光時事\n\n19歲帥兒倫敦名校讀1年堅決休學！袁詠儀、張智霖「爆夫妻內鬨」　最終放手原因曝光周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯娛樂 [...] 周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯郭台銘多事之秋！曾馨瑩剛低調同框破婚變　「說話不算話」與40年兄弟撕破臉社會\n\n郭台銘多事之秋！曾馨瑩剛低調同框破婚變　「說話不算話」與40年兄弟撕破臉張秀卿開唱台下驚見「重量級人物」！突喊：未來市長來了　當場表態力挺娛樂\n\n張秀卿開唱台下驚見「重量級人物」！突喊：未來市長來了　當場表態力挺\n\nGoogle 設為偏好來源\n\nFacebook 分享\n\nGoogle 設為偏好來源",
-      "published_at": "Sat, 10 Oct 2026 05:31:00 GMT",
-      "collected_at": "2026-10-14 05:16:34",
-      "sentiment": "負面",
-      "sentiment_score": 0.15,
-      "summary": "周杰倫的好友彈頭在帛琉潛水時遭遇生命危險，被韓籍導潛拔掉面鏡和呼吸器，彈頭對此跨海怒轟。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2446,
-      "title": "Jay Chou is a ‘Chinese singer’ – this unnerves ‘Taiwan independence’ separatist forces - Global Times",
-      "link": "https://www.globaltimes.cn/page/202610/1372216.shtml",
-      "source": "Tavily (www.globaltimes.cn)",
-      "snippet": "Recently, singer Jay Chou appeared as a special guest at the 2026 Shanghai Rolex Masters tennis tournament. During the event, the host introduced him in English as \"famous Chinese singer Jay Chou.\" Jay Chou nodded slightly in acknowledgment. He later reposted the official video featuring this introduction to his Instagram account, where he also liked the clip. [...] that the pan-green camp has cultivated for many years will deflate like a punctured balloon. [...] However, Jay Chou commands a huge fan base across both sides of the Taiwan Straits and throughout the Chinese-speaking world. Some analysts suggest that the DPP \"dare not offend his vast fan base.\" This situation makes them even more irritated. This is because an increasing number of residents in Taiwan will openly and confidently identify themselves as Chinese - without the need to apologize, compromise, or kowtow to the pan-green camp. The \"anti-China psychological deterrence\" that the",
-      "published_at": "Tue, 13 Oct 2026 15:00:00 GMT",
-      "collected_at": "2026-10-14 05:16:34",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫在上海網球賽被介紹為「中國歌手」並點頭認可，此舉被《環球時報》解讀為對「台獨」勢力的打擊，並預示台灣民眾對中國身份認同的增強。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2438,
-      "title": "周杰倫看球比噓控場！服務生爆他私下「剝大閘蟹寵妻」細節太甜了",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%9C%8B%E7%90%83%E6%AF%94%E5%99%93%E6%8E%A7%E5%A0%B4-%E6%9C%8D%E5%8B%99%E7%94%9F%E7%88%86%E4%BB%96%E7%A7%81%E4%B8%8B-%E5%89%9D%E5%A4%A7%E9%96%98%E8%9F%B9%E5%AF%B5%E5%A6%BB-%E7%B4%B0%E7%AF%80%E5%A4%AA%E7%94%9C%E4%BA%86-113308555.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "亞洲天王周杰倫平時熱愛網球賽事，經常帶著妻子昆凌飛往世界各地觀戰，夫妻倆甜蜜的放閃互動始終是外界關注焦點。近日，周杰倫在巡演空檔現身上海",
-      "published_at": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "collected_at": "2026-10-13 07:01:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "周杰倫看球比噓控場！服務生爆他私下「剝大閘蟹寵妻」細節太甜了",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2439,
-      "title": "周杰倫攜妻睇騷 力撐GD - 星島日報",
-      "link": "https://www.singtaousa.com/2026/10/11/entertainment/jay-chou-supports-gd",
-      "source": "Tavily (www.singtaousa.com)",
-      "snippet": "Skip to content\n\n星島日報\n\n2026 年 10 月 11 日\n\nFacebook\n\n星島日報\n\n粵語台\n\n國語台\n\n# 周杰倫攜妻睇騷 力撐GD\n\n2026 年 10 月 11 日\n\n文：外娛組\n\n韓國天團BIGBANG正在舉行慶祝出道20周年的世界巡迴演唱會《XX:COSMOS》，最近他們的巡演更回歸亞洲，並於前晚（9日）空降台北大巨蛋，展開一連3晚的台北站演唱會，3場演出估計共吸引12萬人到來睇騷。\n\n暌違11年，BIGBANG終於赴台開騷，一解台灣V.I.P（BIGBANG粉絲名稱）的相思之苦。與BIGBANG隊長G-Dragon（GD、權志龍）頗有交情的周杰倫亦偕愛妻昆凌到來捧場，並送上花籃祝賀。而跟周董夫妻結伴而來的台灣著名主持人阿Ken，更在貼心的昆凌請求下，帶上其自家甜品品牌推出的鳳梨酥做禮物，獲得太陽盛讚。\n\n白色型Look驚艷登場 [...] 太陽笑指歌迷反應「好冷」令他要穿外套，立即逗得全場大笑。自由時報\n\n 大聲挑戰以全中文來跟台迷打招呼，誠意可嘉。自由時報\n\n大聲挑戰以全中文來跟台迷打招呼，誠意可嘉。自由時報\n\n### 相關新聞:\n\n1. BIGBANG台北大巨蛋開唱 周杰倫伉儷後台送鳳梨酥助慶\n2. BIGBANG 11月空降啟德主場館 官方公布優先搶飛攻略\n3. BIGBANG與T.O.P同日開騷硬撼 樂迷投訴觀眾無禮儀\n4. BIGBANG狂唱經典歌搞喊Fans\n5. BIGBANG 20周年巡演首站開唱 眾星朝聖見證三人重聚舞台\n6. BIGBANG新歌、巡演、快閃店同步啟動 團員個人新身份再升級\n\n本網站正使用 Cookies\n\n星島日報使用 Cookie 改善網站體驗。 繼續使用我們的網站即表示您同意我們的 Cookie 政策。\n\nFunctional    一律啟用 [...] 此外，太陽更特別提到台北是亞洲巡演第一站，所以他本人亦特別興奮，尤其是有機會大歎地道美食，更令他忍不住跟觀眾分享：「你們知道在台北我有一個最愛的食物，就是牛肉麵，我昨晚吃了牛肉麵，今天吃了鳳梨酥，鳳梨酥甜得像你們！」這下藉美食讚台迷認真高招，連大聲都不禁讚他「好浪漫」。\n\nBIGBANG前晚在台北大巨蛋開騷，周杰倫特來捧場，與大聲、GD及太陽開心合照。\n\nBIGBANG前晚在台北大巨蛋開騷，周杰倫特來捧場，與大聲、GD及太陽開心合照。\n\n BIGBANG展開一連3晚世巡台北站演出，三人以白色型look登場。 自由時報\n\nBIGBANG展開一連3晚世巡台北站演出，三人以白色型look登場。 自由時報\n\n 周董偕太太昆凌和好友阿Ken（左二）來睇騷，阿Ken更送上自家品牌鳳梨酥。\n\n周董偕太太昆凌和好友阿Ken（左二）來睇騷，阿Ken更送上自家品牌鳳梨酥。\n\n GD載歌載舞之餘，更以中英雙語向台迷打招呼。 自由時報\n\nGD載歌載舞之餘，更以中英雙語向台迷打招呼。 自由時報\n\n 太陽笑指歌迷反應「好冷」令他要穿外套，立即逗得全場大笑。自由時報",
-      "published_at": "Sun, 11 Oct 2026 12:00:00 GMT",
-      "collected_at": "2026-10-13 07:01:37",
-      "sentiment": "正面",
-      "sentiment_score": 1,
-      "summary": "周杰倫攜妻睇騷 力撐GD - 星島日報",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2440,
-      "title": "BIGBANG後台驚見周杰倫！昆凌貼心準備台灣味　阿Ken曝「1伴手禮」成入場關鍵 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/90665",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "mirror-daily-logo\n\n2026/10/09 23:54:00最後更新 2026/10/09 23:56:24\n\n記者：\n\n林奕雯\n\n演唱會GD周杰倫昆凌BIGBANG大巨蛋演唱會鳳梨酥太陽大聲\n\n韓流天團BIGBANG本週唱進台北大巨蛋，今（9日）晚剛結束第1天的演出，沒想到「周董」周杰倫不僅送了花籃，還到後台與BIGBANG三名成員合照，在IG限動留下台韓天王同框的夢幻合照！\n\n## 周杰倫夢幻聯動BIGBANG\n\n周杰倫今在BIGBANG第一天的演唱會落幕後，在IG限動分享他與BIGBANGN三名成員GD（G-Dragon）、太陽、大聲的合照，4人站在他送的花籃前合影留念，他也用英文寫下，「很高興看到你們！恭喜！」\n\n周杰倫同時轉發阿Ken的限動，照片中發現除了周杰倫到了演唱會後台，還帶了嬌妻昆凌、好友阿Ken一同去朝聖。阿Ken除了大讚演唱會超精彩，還分享幕後花絮，笑說：「還好Hannah細心，請我帶鳳梨酥。」接著更tag周杰倫說：「如果今天不是因為鳳梨酥，你是不是就不找我來了？」 最後更自問自答地說：「不管啦！還是Hannah最好了！ 」 [...] Logo\n\nAI 搜尋AI 智慧搜尋搜尋\n\nadbuy\n\n我要爆料我要投書\n\nLINEFacebookInstagramThreadsYouTube\n\n快訊\n\n林俊傑F1開唱「小20歲女友」現身！陪林媽媽台下應援　同框畫面曝光大谷翔平陷低潮！道奇主帥力挺：絕不懷疑能力獨家／「黑道狀元」董念台病逝！享年76歲一生爭議不斷　曾率24輛凱迪拉克向呂秀蓮求婚人妻買午餐回家沒問婆婆「1句話」！事後竟遭老公碎唸…網兩極吵翻：不需要道德綁架村上宗隆2.0？阪神虎強打受矚目　道奇可能出手台大男「家境太好」難融入！同學嫌年薪100萬太少　他回1句被酸爆周杰倫麻吉帛琉遭追殺！彈頭深潛31米被拔面鏡、呼吸器　跨海怒轟：韓籍導潛是累犯熱炒店老闆教唱〈一支小雨傘〉！韓國歐巴愛上台語歌　母親背景曝光\n\nBIGBANG後台驚見周杰倫！昆凌貼心準備台灣味　阿Ken曝「1伴手禮」成入場關鍵\n\n周杰倫（左二）去看BIGBANG的演唱會，四人也拍下同框合照。圖／翻攝自IG@jaychou\n\n ｜即時 ｜娛樂\n\n# BIGBANG後台驚見周杰倫！昆凌貼心準備台灣味　阿Ken曝「1伴手禮」成入場關鍵 [...] ## 太陽大讚的鳳梨酥！幕後功臣原來是她\n\n阿Ken的一席話，也順道解謎了今天太陽在演唱會提到「今天吃到鳳梨酥」大讚美味的幕後故事，原來阿Ken正好送了鳳梨酥，還是昆凌特別請他帶的。而周杰倫與GD本就有私交，都是精品寵兒的兩人，先前就曾在巴黎同框，GD去年來台開個唱，演唱會後周杰倫也邀他到的豪宅聚會，顯見兩人的好交情。\n\n周杰倫（左二）不只為BIGBANG送上花籃，還與他們一起合照。圖／翻攝自IG@jaychou\n\n周杰倫（左二）不只為BIGBANG送上花籃，還與他們一起合照。圖／翻攝自IG@jaychou\n\n阿Ken（左二起）感謝昆凌請他帶鳳梨酥，還問周杰倫「如果今天不是因為鳳梨酥，你是不是就不找我來了？」 圖／翻攝自Threads@kenlin125\n\n阿Ken（左二起）感謝昆凌請他帶鳳梨酥，還問周杰倫「如果今天不是因為鳳梨酥，你是不是就不找我來了？」 圖／翻攝自Threads@kenlin125\n\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE",
-      "published_at": "Fri, 09 Oct 2026 15:54:00 GMT",
-      "collected_at": "2026-10-13 07:01:37",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "BIGBANG後台驚見周杰倫！昆凌貼心準備台灣味　阿Ken曝「1伴手禮」成入場關鍵 - 鏡報",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 209,
-    "report_date": "2026-10-18",
-    "total_articles": 3,
-    "positive_count": 3,
+    "id": 210,
+    "report_date": "2026-10-19",
+    "total_articles": 6,
+    "positive_count": 5,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫近期話題不斷，除了在墨爾本街頭隨興彈琴卻沒被認出，與昆凌一家也暖心認養長頸鹿夫妻。他驚喜現身BIGBANG台北演唱會，與成員GD等同框。同時，他因轉發被稱「中國知名歌手」的影片引發兩岸網友論戰。此外，有AI晶片以他命名，新專輯《太陽之子》也受關注，但代言的遊戲《極速快感：集結》則宣布停運。",
+    "neutral_count": 1,
+    "daily_summary": "周杰倫近日新聞焦點多元。新專輯《太陽之子》雖傳因演唱會行程延宕，但他仍積極創作，並報名葛萊美獎。他現身BIGBANG台北大巨蛋演唱會，與GD、太陽等成員同框，也與林俊傑聚會，展現深厚交情。在墨爾本街頭彈鋼琴，雖引路人回頭卻未被認出，展現隨性一面。與昆凌一家認養長頸鹿，昆凌親手繪製認養牌，溫暖善舉獲讚。此外，他獲邀擔任vivo影像大使，更有AI晶片以「Jay Chou」命名。然而，他轉發被稱「中國知名歌手」的影片，引發兩岸網友論戰；代言的遊戲《極速快感：集結》則宣布停運。",
     "key_events": [
-      "墨爾本街頭彈琴",
-      "認養長頸鹿夫妻",
-      "現身BIGBANG演唱會"
+      "新專輯《太陽之子》",
+      "現身BIGBANG演唱會",
+      "「中國歌手」稱謂引議"
     ],
-    "created_at": "2026-10-18 05:02:28"
+    "created_at": "2026-10-19 05:11:41"
   },
   "recentReports": [
+    {
+      "id": 210,
+      "report_date": "2026-10-19",
+      "total_articles": 6,
+      "positive_count": 5,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫近日新聞焦點多元。新專輯《太陽之子》雖傳因演唱會行程延宕，但他仍積極創作，並報名葛萊美獎。他現身BIGBANG台北大巨蛋演唱會，與GD、太陽等成員同框，也與林俊傑聚會，展現深厚交情。在墨爾本街頭彈鋼琴，雖引路人回頭卻未被認出，展現隨性一面。與昆凌一家認養長頸鹿，昆凌親手繪製認養牌，溫暖善舉獲讚。此外，他獲邀擔任vivo影像大使，更有AI晶片以「Jay Chou」命名。然而，他轉發被稱「中國知名歌手」的影片，引發兩岸網友論戰；代言的遊戲《極速快感：集結》則宣布停運。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "現身BIGBANG演唱會",
+        "「中國歌手」稱謂引議"
+      ],
+      "created_at": "2026-10-19 05:11:41"
+    },
     {
       "id": 209,
       "report_date": "2026-10-18",
@@ -653,21 +668,6 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "周杰倫看球比噓控場！服務生爆他私下「剝大閘蟹寵妻」細節太甜了、周杰倫攜妻睇騷 力撐GD - 星島日報、BIGBANG後台驚見周杰倫！昆凌貼心準備台灣味　阿Ken曝「1伴手禮」成入場關鍵 - 鏡報",
       "created_at": "2026-10-13 07:02:08"
-    },
-    {
-      "id": 203,
-      "report_date": "2026-10-12",
-      "total_articles": 2,
-      "positive_count": 2,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫今日新聞焦點眾多。他與昆凌驚喜現身BIGBANG台北演唱會，不僅與GD、太陽、大聲同框合照，更送上鳳梨酥祝賀。在跨界成就方面，一款新AI晶片以「Jay Chou」命名，將他與貝多芬等巨匠並列，彰顯其全球影響力。音樂作品上，他的第16張專輯《太陽之子》備受矚目，並因挪威舞團Quick Style的演繹而全球熱度再升。私生活方面，周杰倫觀看網球賽時，以「噓」聲維持秩序引發話題；服務生更爆料他私下為昆凌剝大閘蟹，展現結婚11年仍如熱戀般的寵妻行徑。此外，他還分享了昆凌的罕見生日禮物，並有與星巴克合作的消息。",
-      "key_events": [
-        "AI晶片命名周杰倫",
-        "現身BIGBANG演唱會",
-        "新專輯《太陽之子》"
-      ],
-      "created_at": "2026-10-12 06:25:21"
     }
   ]
 }
