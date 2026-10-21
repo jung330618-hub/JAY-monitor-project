@@ -34663,6 +34663,76 @@
       "summary": "周杰倫在墨爾本成功舉辦演唱會，成為首位在該場地開唱的華人歌手，吸引爆滿歌迷，同時太太昆凌也分享了家族添新成員的喜訊。",
       "category": "演唱會",
       "analyzed": 1
+    },
+    {
+      "id": 2477,
+      "title": "周杰倫被介紹為「Chinese singer」 國台辦：認同身分是真摯情感流露",
+      "link": "https://udn.com/news/story/7331/9828249",
+      "source": "Tavily (udn.com)",
+      "snippet": "周杰倫近日於上海出席活動，被主持人以英文介紹為「famous Chinese singer」，隨後又在個人Instagram轉發相關片段，引發兩岸議論。大陸國台辦發言人張",
+      "published_at": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "collected_at": "2026-10-21 05:12:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫因在上海活動被介紹為「Chinese singer」並轉發，引發兩岸討論，大陸國台辦對此回應稱是真摯情感流露。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2478,
+      "title": "影／周杰倫演唱會唱《女兒殿下》！「我美嗎女士」化身超萌小監工",
+      "link": "https://tw.news.yahoo.com/%E5%BD%B1-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%BC%94%E5%94%B1%E6%9C%83%E5%94%B1-%E5%A5%B3%E5%85%92%E6%AE%BF%E4%B8%8B-%E6%88%91%E7%BE%8E%E5%97%8E%E5%A5%B3%E5%A3%AB-%E5%8C%96%E8%BA%AB%E8%B6%85%E8%90%8C%E5%B0%8F%E7%9B%A3%E5%B7%A5-040600893.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "[FTNN新聞網]影音中心／陳奕諠天王周杰倫目前正舉辦「嘉年華II世界巡迴演唱會」，10月17日來到澳洲墨爾本漫威體育場開唱，昆凌也在社群上分享影片，",
+      "published_at": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "collected_at": "2026-10-21 05:12:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在墨爾本的「嘉年華II世界巡迴演唱會」上，女兒化身超萌小監工，昆凌也分享了相關影片。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2479,
+      "title": "「台獨」勢力給周杰倫「扣帽子」 國台辦回應- 神州",
+      "link": "https://www.wenweipo.com/a/202610/21/AP6ad827dfe4b0fa894989bb87.html",
+      "source": "Tavily (www.wenweipo.com)",
+      "snippet": "10月21日，國務院台辦舉行例行新聞發布會，有記者問：近日周杰倫參加活動時，主持人稱其中國歌手。周杰倫在社交平台轉發並點讚相關視頻，受到兩岸網友",
+      "published_at": "Wed, 21 Oct 2026 03:00:00 GMT",
+      "collected_at": "2026-10-21 05:12:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫因主持人稱其為「中國歌手」並獲本人轉發點讚，引發「台獨」勢力批評，國台辦對此作出回應，被視為對周杰倫的支持。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2480,
+      "title": "周杰倫轉發「中國歌手」影片引議 陸國台辦：真摯情感流露",
+      "link": "https://ctinews.com/news/items/vNWOQNM7xw",
+      "source": "Tavily (ctinews.com)",
+      "snippet": "天王周杰倫近日出席上海活動時被稱「中國歌手」，他隨後在社群平台轉發並點讚相關影片，引發熱議。對此，大陸國台辦表示，台灣藝人認同「中國歌手」",
+      "published_at": "Wed, 21 Oct 2026 03:00:00 GMT",
+      "collected_at": "2026-10-21 05:12:43",
+      "sentiment": "負面",
+      "sentiment_score": 0.35,
+      "summary": "周杰倫因轉發被稱「中國歌手」的影片引發熱議，大陸國台辦對此表示為真摯情感流露。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2481,
+      "title": "國台辦稱讚周杰倫! 《逐玉》張淩赫訪台被拒 北京重批了…..",
+      "link": "https://newtalk.tw/news/view/2026-10-21/1066758",
+      "source": "Tavily (newtalk.tw)",
+      "snippet": "中國國務院台辦( 國台辦) 今21 日舉行例行記者會。有記者問：近日周杰倫參加活動時，主持人稱其中國歌手。周杰倫在社交平台轉發並點贊相關影片，",
+      "published_at": "Wed, 21 Oct 2026 04:00:00 GMT",
+      "collected_at": "2026-10-21 05:12:43",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫因被主持人稱為中國歌手並轉發點贊相關影片，獲得國台辦稱讚。",
+      "category": "爭議",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -37544,6 +37614,21 @@
         "「中國歌手」爭議"
       ],
       "created_at": "2026-10-20 05:10:32"
+    },
+    {
+      "id": 212,
+      "report_date": "2026-10-21",
+      "total_articles": 5,
+      "positive_count": 4,
+      "negative_count": 1,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期新聞焦點多元。他因轉發被介紹為「中國歌手」的影片，引發兩岸網友熱議，中國國台辦則肯定此舉為「真摯情感流露」。在事業方面，他於墨爾本舉辦演唱會，女兒Hathaway驚喜現身，並在街頭匿名彈奏鋼琴，路人未認出。他與昆凌也現身BIGBANG台北演唱會，並在後台與GD、太陽合影。新專輯《太陽之子》的進度持續受關注，他透露仍有許多歌要寫。此外，周杰倫夫婦展現愛心，認養了一對長頸鹿。他還被選為vivo手機影像大使，甚至有AI晶片以他命名，但代言的遊戲《極速快感：集結》卻宣布停運。他也報名了葛萊美獎，並與林俊傑（JJ Lin）同框。",
+      "key_events": [
+        "「中國歌手」爭議",
+        "墨爾本街頭彈琴",
+        "認養長頸鹿獻愛"
+      ],
+      "created_at": "2026-10-21 05:13:29"
     }
   ],
   "notification_logs": [
@@ -40584,11 +40669,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-10-20 05:10:34"
+    },
+    {
+      "id": 435,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-10-21 05:13:30"
+    },
+    {
+      "id": 436,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-10-21 05:13:30"
     }
   ],
   "_meta": {
-    "nextArticleId": 2477,
-    "nextReportId": 212,
-    "nextLogId": 435
+    "nextArticleId": 2482,
+    "nextReportId": 213,
+    "nextLogId": 437
   }
 }
