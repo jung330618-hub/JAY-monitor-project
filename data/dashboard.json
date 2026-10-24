@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 4,
-    "positive": 4,
+    "total": 3,
+    "positive": 2,
     "negative": 0,
-    "neutral": 0
+    "neutral": 1
   },
   "allTimeStats": {
-    "total": 2490,
-    "positive": 877,
+    "total": 2493,
+    "positive": 879,
     "negative": 85,
-    "neutral": 1528,
+    "neutral": 1529,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-10-09",
-      "total": 6,
-      "positive": 6,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.88
-    },
     {
       "date": "2026-10-10",
       "total": 8,
@@ -132,9 +124,59 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.9
+    },
+    {
+      "date": "2026-10-24",
+      "total": 3,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 1,
+      "avg_score": 0.77
     }
   ],
   "recentArticles": [
+    {
+      "id": 2491,
+      "title": "Jay Chou 周杰倫【同一種調調 Same Tone】Official MV [4K]",
+      "link": "https://www.youtube.com/watch?v=Nz14RnrnHyI",
+      "source": "Tavily (www.youtube.com)",
+      "snippet": "【她的睫毛】   • 周杰倫 Jay Chou【她的睫毛 Her Eyelashes】-Official ...  \n【以父之名】   • 周杰倫 Jay Chou【以父之名 In The Name of The Fathe...  \n【三年二班】   • 周杰倫 Jay Chou【三年二班 Class 3-2】-Official Musi... [...] 【Connection with Jay Chou 周杰倫相關網頁】\n◎ Jay Chou FACEBOOK(臉書):   / jay  \n◎ Jay Chou YOUTUBE(視頻):    / jvrmuzic  \n◎ JVR Music Official Site(杰威爾音樂): [...] 【雙刀電影版】   • 周杰倫 Jay Chou【雙刀電影版 Double Blade】-Official ...  \n【雙刀】   • 周杰倫 Jay Chou 【雙刀 Double Blade】-Official Mu...  \n【懦夫】   • 周杰倫 Jay Chou【懦夫 Coward】-Official Music Video  \n【愛情懸崖】   • 周杰倫 Jay Chou【愛情懸崖 Cliff】-Official Music Video  \n【晴天】   • 周杰倫 Jay Chou【晴天 Sunny Day】-Official Music ...  \n【梯田】   • 周杰倫 Jay Chou【梯田 Terrace Field】-Official Mu...  \n【東風破】   • 周杰倫 Jay Chou【東風破 Dong-Feng-Po】-Official Mu...  \n【妳聽得到】   • 周杰倫 Jay Chou【妳聽得到 You Hear Me】-Official Mu...",
+      "published_at": "Mon, 12 Oct 2026 00:00:00 GMT",
+      "collected_at": "2026-10-24 04:56:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則資訊主要推廣周杰倫的官方音樂錄影帶「同一種調調」，並整理多首經典MV，同時提供其官方社群連結。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2492,
+      "title": "周杰倫轉發「中國歌手」介紹…身分引爭議　中國國台辦回應：真摯情感流露",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%BD%89%E7%99%BC-%E4%B8%AD%E5%9C%8B%E6%AD%8C%E6%89%8B-%E4%BB%8B%E7%B4%B9-%E8%BA%AB%E5%88%86%E5%BC%95%E7%88%AD%E8%AD%B0-%E4%B8%AD%E5%9C%8B%E5%9C%8B%E5%8F%B0%E8%BE%A6%E5%9B%9E%E6%87%89-074000730.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "### 狄鶯廈門商演畫面曝！綁辮子、穿緊身牛仔褲登台　65歲真實狀態衝熱搜\n\n有大陸網友在微博分享狄鶯商演的影片，畫面中狄鶯綁著雙辮子頭造型亮相，身穿白色蕾絲上衣搭配牛仔緊身褲，完全看不出她已經65歲；狄鶯表演過程手腳俐落且精氣神十足，展現出紮實的舞台底子。影片底下引發熱烈討論，部分粉絲盛讚她65歲仍維持極佳身材與狀態，敬業態度令人佩...\n\nCTWANT ・ 2 小時前 ・ 14則留言\n\n### 藍營吹起「棄蔣風暴」！作家曝：蔣萬安人設崩盤　恐成2026大戰犯\n\n2026縣市長選舉進入最後階段，爭取連任的台北市長蔣萬安近日頻頻登上節目接受專訪，不過「問A答B」的表現卻引起更多批評。作家趙曉慧對此在臉書發文剖析，蔣萬安過去建立的完美形象正瀕臨瓦解，「棄蔣」陣痛期早已不限於中立群眾和淺藍地盤，就連國民黨內部都爆發暗潮洶湧的派系內耗與危機。\n\n太報 ・ 1 小時前 ・ 58則留言\n\n### 國台辦稱讚周杰倫! 《逐玉》張淩赫訪台被拒 北京重批了….. [...] 生活中心／陳韋如報導街頭偶爾可見待回收的大型二手家具，但路邊的「寶」真的能隨便撿嗎？日前一名網友在台北市信義區街頭，發現一組外觀潔白、功能完整的梳妝台，隨即拍照上網分享。沒想到貼文一出，竟引來內行網友示警恐怕是凶宅物品，瞬間在社群引發熱烈討論。\n\n民視 ・ 3 小時前 ・ 15則留言\n\n### 法國暴動LV再引熱議　店玻璃不會碎！暴徒怎麼打都敲不破耶\n\n法國在本月17日，從抗議遊行變成大暴動，許多精品店包括路易威登（Louis Vuitton）和愛馬仕（Hermès）、勞力士（Rolex）等甚至成為暴徒下手的目標。不過位在巴黎芳登廣場（Place Vendôme）的LV店面，其店玻璃遭到暴徒不斷破壞，卻完全打不破，引發網友熱議。\n\n鏡報 ・ 2 小時前 ・ 2則留言\n\n### 頂住壓力！台灣氣象署開第一槍「預測薔琵北轉」　鄭明典鼓掌：領頭羊\n\n強烈颱風「薔琵」路徑備受關注，前氣象局長鄭明典指出北方「北風前緣」現身，是決定颱風走向的關鍵變因。面對傳統模式與AI預報分歧，台灣中央氣象署頂住壓力率先預測颱風北轉，獲讚為國際預報領頭羊，展現優秀的防災應變決策能力。 [...] Newtalk新聞 ・ 7 小時前 ・ 8則留言\n\n### 不是釣魚！蝦皮店到店投幣機「驚見20萬現金」　他報警最後全拿走笑了\n\n[FTNN新聞網]記者吳欣穎／綜合報導19日基隆市一名夏姓男子陪女友至基隆市仁一路上的蝦皮店到店取貨時，隨手將用橡皮筋綑綁的20萬現金放在繳費機台上，顧著聊...\n\nFTNN新聞網 ・ 1 小時前 ・ 發表留言\n\n### 獨家》總統帶外賓視察飛訓部 已婚少校寢室內忙「床戰女兵」 遭汰除\n\n軍中醜聞！賴清德總統10月11日國慶日隔天，偕同友邦史瓦帝尼王國國王恩史瓦帝三世，前往位於台南市歸仁區陸軍航空飛行訓練指揮部參訪，向友邦展示國軍戰力與航空人才培訓成果時，卻傳出一名已婚軍官在旁邊寢室發生「不當行為」，消息傳出引發各界震驚，直呼，「三軍統帥一旁視察，軍人在一旁『搞事』」；不過軍方表示，事發時，總統及貴賓已經離去；並已將這名少校，大過二次，並辦理汰除。\n\n中時新聞網 ・ 3 小時前 ・ 20則留言\n\n### 好好享用我用剩的！人夫苦做惡夢10年　妻「逼出真相」崩潰：別給我太富裕生活…網看哭",
+      "published_at": "Wed, 21 Oct 2026 08:00:00 GMT",
+      "collected_at": "2026-10-24 04:56:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫因轉發「中國歌手」介紹引發身分爭議，中國國台辦對此回應稱是真摯情感流露並稱讚他。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2493,
+      "title": "Mandopop star Jay Chou releases album after four-year hiatus - Focus Taiwan",
+      "link": "https://focustaiwan.tw/culture/202603250008",
+      "source": "Tavily (focustaiwan.tw)",
+      "snippet": "Culture\n\n# Mandopop star Jay Chou releases album after four-year hiatus\n\n03/25/2026 01:07 PM\n\nLinkWhatsappRedditLineEmail\n\nTo activate the text-to-speech service, please first agree to the privacy policy below.\n\nMandopop star Jay Chou (周杰倫) has released a new album called \"Children of the Sun\" (太陽之子) on digital platforms nearly four years after his previous album was released in July 2022. [...] + Taiwan wins women's doubles table tennis gold at Asian Para Games\n  + Chiang Kun-yu wins 7th straight CPBL Gold Glove\n  + Table tennis players clinch Taiwan's third gold at Asian Para Games\n  + Chan's walk-off single keeps Brothers alive in Taiwan Series\n Science & Tech\n  + Free AI tool to let public check quake damage from photos: Research center\n  + NTHU to explore research reactor development with NuCube\n  + Taiwan researchers find ways to increase microalgae bioethanol feedstock",
+      "published_at": "Wed, 25 Mar 2026 05:07:00 GMT",
+      "collected_at": "2026-10-24 04:56:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫在四年後發行了名為《太陽之子》的新專輯。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2487,
       "title": "周杰倫新專輯《太陽之子》命名由來和歌神張學友有關？邀歌迷進電影院看新歌MV首播！",
@@ -512,66 +554,39 @@
       "summary": "周杰倫在上海勞力士大師賽被介紹為「中國知名歌手」後點頭並轉發影片至Instagram，引發兩岸網民對其國籍認同的熱烈爭議。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2461,
-      "title": "周杰倫代言也留不住？上線僅2年《極速快感：集結》宣布12月28日停運 | 地球黃金線",
-      "link": "https://cars.tvbs.com.tw/life/342284",
-      "source": "Tavily (cars.tvbs.com.tw)",
-      "snippet": "《極速快感：集結》是經典賽車遊戲《Need for Speed》系列延伸的開放世界競速手機遊戲，獲得美商藝電（EA）正版授權，並由Garena負責台灣、香港及澳門市場營運。遊戲於2024年10月31日正式上線，當時更邀請歌手周杰倫擔任代言人，搭配Toyota AE86等經典車款及多項上市活動，吸引賽車遊戲玩家關注。\n\n不同於傳統競速遊戲主要在固定賽道比賽，《極速快感：集結》打造名為「熱灣」的開放世界地圖，讓玩家自由探索城市、參加街頭賽事，並透過「熱力追蹤」模式體驗警察與街頭車手之間的追逐對抗。其中，40人雙陣營非對稱競技玩法，更讓玩家能夠選擇不同身分，展開大規模的城市追逐戰。\n\n《極速快感：集結》是經典賽車遊戲《Need for Speed》系列延伸的開放世界競速手機遊戲。(圖片來源/ Garena)\n\n《極速快感：集結》是經典賽車遊戲《Need for Speed》系列延伸的開放世界競速手機遊戲。(圖片來源/ Garena)\n\n更多新聞：日本好市多驚見「經典賽車街機」！他親身試玩　直呼：好想買更多新聞：《跑車浪漫旅》賽車遊戲上市　 GT7逼真駕駛模擬可有效鍛練駕技！ [...] 車壇新訊\n\n 影音\n\n 節目完整版\n\n 節目精華\n\n 試駕影音\n\n 現場直擊\n\n 交通生活\n\n 生活時事\n\n 熱搜話題\n\n 政策法規\n\n 科技時尚\n\n 名人與車\n\n 達人說車\n\n 人車故事\n\n 藝起當老司機\n\n 試駕報導\n\n 汽車試駕\n\n 電車試駕\n\n 二輪試駕\n\n 更多\n\n 達人\n\n 車展專區\n\n 2026購車風向球\n\n 車壇新訊\n\n  國內要聞國際車訊銷售分析電動車訊機車新聞間諜照促銷優惠\n 影音\n\n  節目完整版節目精華試駕影音現場直擊\n 交通生活\n\n  生活時事熱搜話題政策法規科技時尚\n 名人與車\n\n  達人說車人車故事藝起當老司機\n 試駕報導\n\n  汽車試駕電車試駕二輪試駕\n 更多\n\n  達人車展專區2026購車風向球\n\n熱門關鍵字\n\n巴黎車展\n\n2026巴黎車展\n\nHonda\n\nToyota\n\n本田\n\n現代汽車\n\nHyundai\n\nBMW\n\n煞車\n\n尊界V800\n\n# 周杰倫代言也留不住？上線僅2年《極速快感：集結》宣布12月28日停運\n\n編輯 謝明翰\n\n周杰倫代言也留不住？上線僅2年《極速快感：集結》宣布12月28日停運 [...] 周杰倫代言也留不住？上線僅2年《極速快感：集結》宣布12月28日停運。(圖片來源/ Garena)\n\n邀請周杰倫擔任代言人、讓玩家在手機上駕駛Ferrari、Lamborghini等夢幻超跑的競速遊戲《極速快感：集結》，如今確定即將畫下句點！由騰訊遊戲旗下天美工作室群開發、Garena代理發行的《極速快感：集結》，自2024年10月31日在台灣正式上線，主打開放世界探索、街頭競速及警匪追逐玩法。然而，營運團隊近日宣布，遊戲將於2026年12月28日中午12時正式關閉伺服器，從台灣上市到停止營運僅約2年2個月，也讓喜愛收集名車的玩家即將告別熟悉的虛擬賽車世界。\n\n邀請周杰倫擔任代言人、讓玩家在手機上駕駛Ferrari、Lamborghini等夢幻超跑的競速遊戲《極速快感：集結》，如今確定即將畫下句點！(圖片來源/ Garena)\n\n邀請周杰倫擔任代言人、讓玩家在手機上駕駛Ferrari、Lamborghini等夢幻超跑的競速遊戲《極速快感：集結》，如今確定即將畫下句點！(圖片來源/ Garena)\n\n### 2024年台灣正式上市！周杰倫代言、AE86與超跑成亮點",
-      "published_at": "Fri, 16 Oct 2026 07:04:00 GMT",
-      "collected_at": "2026-10-17 04:54:26",
-      "sentiment": "負面",
-      "sentiment_score": 0.35,
-      "summary": "周杰倫代言的手機遊戲《極速快感：集結》在上市僅兩年後，宣布將於2026年12月28日停止營運。",
-      "category": "代言",
-      "analyzed": 1
-    },
-    {
-      "id": 2462,
-      "title": "周杰倫一家5口暖舉曝光！昆凌親手畫1物「認養長頸鹿夫妻」　園方2度發聲致謝 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/91635",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "結婚11年遇抗癌考驗！金曲歌王陪愛妻撐過8次化療　嘆「能不能到老都不知道」32歲金馬準影后震撼公開遭性騷擾細節　曾被強吻、問「喜歡命根子」...痛喊：永遠等不到道歉娛樂\n\n32歲金馬準影后震撼公開遭性騷擾細節　曾被強吻、問「喜歡命根子」...痛喊：永遠等不到道歉獨家／米津玄師12月首攻台北大巨蛋！相隔1年升級開唱　去年2.2萬張票歌迷搶翻娛樂\n\n獨家／米津玄師12月首攻台北大巨蛋！相隔1年升級開唱　去年2.2萬張票歌迷搶翻\n\nGoogle 設為偏好來源\n\nFacebook 分享\n\nGoogle 設為偏好來源 [...] Logo\n\nAI 搜尋AI 智慧搜尋搜尋\n\nadbuy\n\n我要爆料我要投書\n\nLINEFacebookInstagramThreadsYouTube\n\n快訊\n\n想抽毒品想瘋了？澎湖男砸27萬演「環台陸海空走私」　車廂藏451克大麻布袋港落網台北某醫院「999」遭投訴祭新規：深夜禁止全院廣播！一票醫護傻眼：乾脆把人直送太平間 破除魔咒的血襪與傳奇盜壘！回顧MLB季後賽0：3大逆轉　道奇能成史上第2隊？蔣萬安學弟出面力挺！揭「重修內幕」意外爆破學霸形象　網一句話酸爆寶可夢加持、改裝效益爆發！ 新光三越副董吳昕陽：一時股市震盪不影響買氣曹興誠突發話「建議沈伯洋取消辯論」　酸蔣萬安稿子必充滿誹謗抹黑：乾脆放他一馬銀行獲利創新高！金管會主委彭金隆喊話「晴天廣積糧」 拋三大期許重塑金融競爭力「沒零用錢」氣到跳軌！20歲男大生台南站抓狂　警急奔軌道救人害列車延誤\n\n周杰倫一家5口暖舉曝光！昆凌親手畫1物「認養長頸鹿夫妻」　園方2度發聲致謝\n\n周杰倫一家人認養長頸鹿夫妻，昆凌更親手設計專屬認養牌，暖舉令人感動。圖／翻攝昆凌小紅書\n\n ｜即時 ｜娛樂 [...] 20261015周杰倫一家人認養長頸鹿夫妻。圖／翻攝昆凌小紅書\n\n周杰倫一家人認養長頸鹿夫妻。圖／翻攝昆凌小紅書\n\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\n### 延伸閱讀\n\n任賢齊18歲帥兒曝光！身高破180公分神複製爸爸　15歲就賺錢「拒入行當明星」時事\n\n任賢齊18歲帥兒曝光！身高破180公分神複製爸爸　15歲就賺錢「拒入行當明星」陳小春失散多年親弟弟找到了？50多歲工人撞臉「山雞哥」　驚人巧合曝光時事\n\n陳小春失散多年親弟弟找到了？50多歲工人撞臉「山雞哥」　驚人巧合曝光43歲女歌手「6年前罹乳癌」！切除左乳拒重建　手術僅2好友陪伴辛酸曝光時事\n\n43歲女歌手「6年前罹乳癌」！切除左乳拒重建　手術僅2好友陪伴辛酸曝光結婚11年遇抗癌考驗！金曲歌王陪愛妻撐過8次化療　嘆「能不能到老都不知道」娛樂",
-      "published_at": "Wed, 14 Oct 2026 23:20:00 GMT",
-      "collected_at": "2026-10-17 04:54:26",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫一家五口透過昆凌親手繪製認養牌，共同認養長頸鹿夫妻，其暖舉獲得園方兩度公開致謝。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2463,
-      "title": "影／昆凌、周杰倫認養「長頸鹿」夫妻 親手畫認養牌超暖心！",
-      "link": "https://tw.news.yahoo.com/%E5%BD%B1-%E6%98%86%E5%87%8C-%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AA%8D%E9%A4%8A-%E9%95%B7%E9%A0%B8%E9%B9%BF-%E5%A4%AB%E5%A6%BB-033500230.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "[FTNN新聞網]影音中心／陳奕諠昆凌於10月13日在社群平台更新Vlog，日前與周杰倫前往位在南京的紅山森林動物園，認養了一對長頸鹿夫妻。",
-      "published_at": "Sat, 17 Oct 2026 03:00:00 GMT",
-      "collected_at": "2026-10-17 04:54:26",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫與昆凌在南京紅山森林動物園認養了一對長頸鹿夫妻，展現暖心善舉。",
-      "category": "生活",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 214,
-    "report_date": "2026-10-23",
-    "total_articles": 4,
-    "positive_count": 4,
+    "id": 215,
+    "report_date": "2026-10-24",
+    "total_articles": 3,
+    "positive_count": 2,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫近日新聞焦點集中在新專輯《太陽之子》，不僅揭露專輯命名與張學友有關，並邀請歌迷進電影院觀賞新歌MV首播，同時透露歌曲細節引發討論。儘管新專輯進度備受關注，他仍表示還有許多歌要寫。此外，周杰倫因轉發影片中被介紹為「中國歌手」引發兩岸熱議，中國國台辦多次回應，稱此為「真摯情感流露」。在個人生活方面，周杰倫與昆凌一家認養長頸鹿夫妻，展現暖心一面。他也在墨爾本街頭隨性彈奏鋼琴，雖無人認出，卻成為趣聞。同時，他報名出戰格林美，並有AI晶片以「Jay Chou」命名，展現其國際影響力。",
+    "neutral_count": 1,
+    "daily_summary": "周杰倫近期新聞焦點多元，音樂方面，他發行了新專輯《太陽之子》，並陸續推出〈同一種調調〉等多首歌曲MV，更邀歌迷進電影院觀賞首播，專輯細節與命名由來也引發討論。同時，他在墨爾本街頭「零偽裝」彈奏鋼琴，引發路人好奇卻未被認出的趣事，以及演唱會上女兒與劉畊宏的驚喜現身，都成為粉絲熱議話題。然而，周杰倫因轉發被介紹為「中國歌手」的影片，引發兩岸網友爭議，國台辦則回應稱這是「真摯情感流露」。此外，他與昆凌一家認養長頸鹿的暖心舉動也受到讚揚。其他動態包括與林俊傑同框、代言vivo手機，以及有AI晶片以「Jay Chou」命名等。",
     "key_events": [
       "新專輯《太陽之子》",
-      "「中國歌手」引熱議",
-      "一家認養長頸鹿"
+      "「中國歌手」稱謂引議",
+      "墨爾本街頭彈琴"
     ],
-    "created_at": "2026-10-23 05:15:43"
+    "created_at": "2026-10-24 04:57:13"
   },
   "recentReports": [
+    {
+      "id": 215,
+      "report_date": "2026-10-24",
+      "total_articles": 3,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 1,
+      "daily_summary": "周杰倫近期新聞焦點多元，音樂方面，他發行了新專輯《太陽之子》，並陸續推出〈同一種調調〉等多首歌曲MV，更邀歌迷進電影院觀賞首播，專輯細節與命名由來也引發討論。同時，他在墨爾本街頭「零偽裝」彈奏鋼琴，引發路人好奇卻未被認出的趣事，以及演唱會上女兒與劉畊宏的驚喜現身，都成為粉絲熱議話題。然而，周杰倫因轉發被介紹為「中國歌手」的影片，引發兩岸網友爭議，國台辦則回應稱這是「真摯情感流露」。此外，他與昆凌一家認養長頸鹿的暖心舉動也受到讚揚。其他動態包括與林俊傑同框、代言vivo手機，以及有AI晶片以「Jay Chou」命名等。",
+      "key_events": [
+        "新專輯《太陽之子》",
+        "「中國歌手」稱謂引議",
+        "墨爾本街頭彈琴"
+      ],
+      "created_at": "2026-10-24 04:57:13"
+    },
     {
       "id": 214,
       "report_date": "2026-10-23",
@@ -661,17 +676,6 @@
         "現身BIGBANG演唱會"
       ],
       "created_at": "2026-10-18 05:02:28"
-    },
-    {
-      "id": 208,
-      "report_date": "2026-10-17",
-      "total_articles": 9,
-      "positive_count": 6,
-      "negative_count": 1,
-      "neutral_count": 2,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "【日版CD】周杰倫《太陽之子》 豪華盤高音質SHMCD、周杰倫太陽之子、被主持稱中國知名歌手！周杰倫IG轉發影片「認證」　兩岸網民對轟",
-      "created_at": "2026-10-17 04:54:51"
     }
   ]
 }
