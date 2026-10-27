@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 6,
-    "positive": 5,
+    "total": 4,
+    "positive": 4,
     "negative": 0,
-    "neutral": 1
+    "neutral": 0
   },
   "allTimeStats": {
-    "total": 2503,
-    "positive": 887,
+    "total": 2507,
+    "positive": 891,
     "negative": 85,
     "neutral": 1531,
     "avg_score": 0.63
   },
   "trend": [
-    {
-      "date": "2026-10-12",
-      "total": 2,
-      "positive": 2,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.9
-    },
     {
       "date": "2026-10-13",
       "total": 5,
@@ -132,9 +124,73 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.81
+    },
+    {
+      "date": "2026-10-27",
+      "total": 4,
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.87
     }
   ],
   "recentArticles": [
+    {
+      "id": 2504,
+      "title": "周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！",
+      "link": "https://news.ttv.com.tw/news/11510260000700W",
+      "source": "Tavily (news.ttv.com.tw)",
+      "snippet": "TTV Podcast\n【完整公開】LIVE 「禿子.燕子.漢子」三子合體 蔣萬安競選總部成立\n台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브\n【完整公開】LIVE 「禿子.燕子.漢子」三子合體 蔣萬安競選總部成立\n\n點擊收回\n\n擺脫亞運掉槓陰霾！唐嘉鴻體操世錦賽單槓摘金 創台灣史上第一人\n金鐘61／台視《樂團祭》奪燈光獎！大膽跳色、明暗層次打造專場舞台\n巴西總統大選破天荒延長2小時！魯拉獲51%選票 連任成功\n光復節收假！高鐵超過100班北上疏運 尖峰8班擴增9節自由座\n蔡康永突發文道歉「沒支持台獨」　蔣萬安：不接受反民主威脅\n周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！\n武契奇認輸！遮雨棚掀反貪腐抗爭 塞國國會大選「學生名單黨」獲勝\n蔡康永聲明時間點敏感！沈：感覺被決定 藝文圈稱「被周子瑜了」\n盧秀燕挺「兄弟總冠軍」笑喊各自努力　蔣萬安：這事沒姊弟情\n阿美麻糬余國基高速衝破護欄「噴30公尺遠」 救護人員：他是飛下來的 [...] # 周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！\n\n台北市長蔣萬安。圖／台視新聞\n\n九合一選戰倒數，尤其台北市長之爭打得火熱，近日有網友翻出歌手周杰倫登上大巨蛋開唱時，曾讚「這個市長很給力」，再度引發討論。對此，台北市長蔣萬安今（26）日則以周杰倫的招牌口頭禪回應，「哎唷，不錯喔！ 」\n\n周杰倫於2024年回台舉辦演唱會，他也是大巨蛋完工以來，首位登上開唱的歌手。回顧他當時在台上的發言，他表示，本來不知道什麼時候能唱，搞不好到時後蓋好，別人已經拿去唱了，但後來公司跟他說好像有機會，「而且這個市長很給力喔」，既然有機會回來唱，那為什麼不回來。\n\n蔣萬安今日出席北葫蘆寺祈安遶境起駕大典暨揭牌及捐贈儀式，會前接受媒體聯訪，被問及是否有看到周杰倫稱讚「市長很給力」的相關片段？蔣萬安幽默回應，「哎唷，不錯喔！」\n\n編輯／黃于庭\n\n#### 延伸閱讀\n\n#### 正在直播\n\n#### 熱門新聞\n\n益起看世界\n歷史上的今天\n追蹤台視新聞FB\n訂閱台視新聞\n追蹤台視新聞IG\n台視新聞",
+      "published_at": "Mon, 26 Oct 2026 04:13:30 GMT",
+      "collected_at": "2026-10-27 05:28:58",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫因在大巨蛋開唱時稱讚台北市長蔣萬安「很給力」，蔣萬安則幽默回應「哎唷，不錯喔！」，顯示雙方正向互動。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2505,
+      "title": "30m robots, fire and water effects: What to expect at Jay Chou’s concerts in January | The Star",
+      "link": "https://www.thestar.com.my/lifestyle/entertainment/2026/10/27/30m-robots-fire-and-water-effects-what-to-expect-at-jay-chous-concerts-in-january",
+      "source": "Tavily (www.thestar.com.my)",
+      "snippet": "His latest tour has a “one city, one theme” premise, with each stop paired with one of his songs. Singapore’s theme is Sunny Day Singapore, inspired by his iconic song Sunny Day from his 2003 album Yeh Hui-Mei, which is named after his mother.\n\nThe 47-year-old Taiwanese singer-songwriter performed in Singapore in 2020, 2022 and 2024 for his Carnival World Tour, which ran from 2019 to 2025. [...] Ju Pao, a Taiwanese concert director known for his work on Mandopop king Jay Chou’s large-scale shows, has dropped hints about what fans can expect at Chou’s upcoming concerts in Singapore.\n\nChou will perform three shows at the National Stadium from Jan 8 to 10, as part of the Singapore leg of his Carnival Ⅱ World Tour. The ongoing concert tour, his ninth, began in Hangzhou, China, in April 2026. [...] Speaking on his close working relationship with Chou, Ju Pao said: “If he just gives me a look, I immediately know what he wants to do… It’s an unspoken mutual understanding.\n\n“Before taking the stage, if Jay Chou gets nervous, he’ll say, ‘Hey Ju Pao, tell a few jokes’. Then, once he sings two songs, he loosens up, his vocal cords relax and everything flows.”",
+      "published_at": "Tue, 27 Oct 2026 09:00:00 GMT",
+      "collected_at": "2026-10-27 05:28:58",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫即將在新加坡舉辦的「嘉年華2世界巡迴演唱會」將以獨特主題、大型舞台效果呈現，並揭露他與導演的默契合作。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2506,
+      "title": "獨家／周杰倫杭州演唱會被指「划水」？　案情出現大逆轉 - 鏡週刊 Mirror Media",
+      "link": "https://www.mirrormedia.mg/story/20260410ent002",
+      "source": "Tavily (www.mirrormedia.mg)",
+      "snippet": "鏡週刊 Mirror Media\n\n# 獨家／周杰倫杭州演唱會被指「划水」？　案情出現大逆轉\n\ngoogle-logo\nfacebook-logo\nline-logo\nthreads-logo\nlink-logo\n周杰倫耗資5億打造新一輪《嘉年華II》演唱會。 （杰威爾提供）\n\n周杰倫耗資5億打造新一輪《嘉年華II》演唱會，日前從首站杭州起跑，不過演出後，中國大陸網路卻出現一片「划水」聲浪，指三小時演出，周杰倫卻只唱90分鐘，嘉賓、VCR及閒聊等幾乎占掉大半時間，此事經過數日發酵，案情呈現大逆轉。\n\n時間回到4月3日首唱當天，5萬多名歌迷冒雨看周杰倫杭州演唱會，抱著要看一場視覺、聽覺與青春交會的音樂饗宴，卻在演唱會結束後，網路出現失望與氣憤的言論。\n\n周杰倫杭州演唱會，遭網友指划水成分大。（翻攝自微博） [...] 有歌迷指整場演唱會實際安排與預期有落差，尤其最不能接受周杰倫個人演唱的時間不足90分鐘，反而被魔術表演、籃球秀、劉畊宏上台演唱、駐唱嘉賓和伴唱們輪流獻聲，自此被質疑「光明正大划水」。表演質量也成為吐槽重點之一，指不少經典老歌降Key處理，演唱高音時，周杰倫則將麥克風遞向觀眾，交給全場大合唱。\n\n事件發酵後，網友提出觀點，親臨現場的歌迷急著還原真相，指周杰倫明明就唱好唱滿，且經深究下，發現有不少水軍刻意在帶風向。周杰倫則不畏懼黑粉，在現場向歌迷透露，會看留言檢討，後續場次會直接火力全開，回應所有質疑。\n\n周杰倫鐵粉挺身為偶像護航。（翻攝自微博）\n\n在第2、3場演出時，周杰倫點歌環節連唱15首，包括〈擱淺〉〈蒲公英的約定〉等經典老歌，整場狂唱48首歌甚至超時演出，以行動徹底撕下划水標籤。周杰倫所屬杰威爾則回應：「當然不只一個多小時，演唱會晚間7點開唱，杭州3場的演出結束時間在9點半到10點之間。」\n\n而此一爭議鬧騰後，並未影響後續票房，接下來的南寧站預約破百萬，黃牛票溢價達600％，仍讓歌迷積極瘋搶。\n\n周杰倫再推新歌〈愛琴海〉MV　曝歌名差點被取為「希臘拖鞋」 [...] ## 周杰倫再推新歌〈愛琴海〉MV　曝歌名差點被取為「希臘拖鞋」\n\n周杰倫《嘉年華II》杭州登場　製作成本超過5億台幣 吸引15萬人搶看\n\n## 周杰倫《嘉年華II》杭州登場　製作成本超過5億台幣 吸引15萬人搶看\n\n周杰倫求婚影片曝光　大手筆租古堡、放煙花、辦派對　昆凌被寵成公主\n\n## 周杰倫求婚影片曝光　大手筆租古堡、放煙花、辦派對　昆凌被寵成公主\n\n加入\n追蹤\n訂閱\n下載\n\n最新文章\n\n熱門文章\n\nGoogle News GIF\n\n本網頁使用 YouTube API 服務，詳見 YouTube 服務條款、 Google 隱私權與條款\n\n瀏覽此頁面即代表您同意上述授權條款及細則\n\n客服信箱 MM-onlineservice@mirrormedia.mg\n\n客服電話 02-6633-3966\n\n服務時間 週一至週五上午10時至下午6時",
+      "published_at": "Thu, 09 Apr 2026 22:36:28 GMT",
+      "collected_at": "2026-10-27 05:28:58",
+      "sentiment": "正面",
+      "sentiment_score": 0.88,
+      "summary": "周杰倫杭州演唱會初期雖遭「划水」質疑，但經證實為不實言論，他以加碼演出回應，成功撕下負面標籤，後續票房依舊火爆。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2507,
+      "title": "庾澄慶發文謝A-Lin卻出糗！周杰倫忍不住糾正　網笑：IG里長伯？ | 娛樂 | CTWANT",
+      "link": "https://www.ctwant.com/article/503924",
+      "source": "Tavily (www.ctwant.com)",
+      "snippet": "兩人在IG上的互動引起網友熱議，網友紛紛笑喊，「周杰倫教屁教喔」、「果然是IG魔人」、「周杰倫是IG里長伯嗎」、「老人社區電腦班」、「杰倫哥好貼心」、「哈哈下次可以私信，我哥不要面子的嘛」。\n\n> 在 Instagram 查看這則貼文\n>\n> 從 Instagram 分享的貼文\n\n庾澄慶  哈林  周杰倫  A-Lin  演唱會  IG\n\n## 相關文章\n\n A-Lin登台跳恰恰高跟鞋卡關　性感「賣肉」力挺庾澄慶北京開唱\n 庾澄慶家有三寶個性大不同　允許孩子發脾氣「但有一底線」\n 庾澄慶巡演一路排到明年暑假　鬆口 《哈林小隊2》開錄時間\n 庾澄慶被問「合體伊能靜、小哈利」　2字乾脆回應\n 不老騎士再出發2／庾澄慶戒菸爆肥逆襲成鐵人　潘若迪30年如一日維持「這習慣」\n\n## 延伸閱讀 [...] 跳至主要內容區塊\n\nCTWANT 識別標誌 election_2026_icon\n\n搜尋符號\n\nCTWANT App icon\n\n安裝我們的 CTWANT APP 體驗更好的服務，接收更快的即時資訊。\n\niPhone\n\nios icon 立即安裝\n\nAndroid\n\nandroid icon 立即安裝\n\n:::\n\n娛樂\n\n即時\n\n# 庾澄慶發文謝A-Lin卻出糗！周杰倫忍不住糾正　網笑：IG里長伯？\n\n編輯：薛羽彤\n\n庾澄慶  哈林  周杰倫  A-Lin  演唱會  IG\n\n庾澄慶邀請A-Lin擔任演唱會嘉賓，事後發文要標記A-Lin卻失敗，被周杰倫發現指正。（圖／翻攝IG／＠harlemyu_1986）\n\n庾澄慶邀請A-Lin擔任演唱會嘉賓，事後發文要標記A-Lin卻失敗，被周杰倫發現指正。（圖／翻攝IG／＠harlemyu\\_1986）\n\nNext\n\n下一則新聞：\n\n金鐘61／李沐一身紅花裝登台！網吐槽「像丈母娘敬酒」　3件香奈兒要93萬 [...] 歌手「哈林」庾澄慶近期推出新歌〈枝仔冰〉，日前舉辦演唱會時，邀請金曲歌后A-Lin擔任嘉賓，兩人在舞台上的互動帶來不少笑聲。演出結束後，哈林特地透過社群平台發文感謝工作團隊、歌迷及嘉賓，沒想到卻因為標記帳號時少了一個步驟，意外引來周杰倫留言提醒，讓哈林忍不住自嘲是「低科技人才」。\n\n庾澄慶完成演唱會後，在社群平台分享演出心得，除了感謝幕後工作人員的付出，也對到場支持的朋友表達謝意，他在貼文中特別感謝A-Lin跨刀助陣，稱讚她不僅擁有出色唱功，也具備舞蹈實力與幽默感。\n\n不過，這篇原本要向嘉賓致謝的文章，卻出現一個小失誤。哈林雖然在文字中輸入A-Lin的社群帳號，卻因為沒有使用正確的標記方式，導致帳號未能成功連結，讓這段感謝文字少了原先預期的標註功能。\n\n沒想到，這個細節被周杰倫注意到。周杰倫直接在留言區提醒哈林，「哈林哥，如果你要@別人，前面要空格。」哈林看到周杰倫的提醒後，重新檢查自己的貼文，才發現原本確實沒有成功標記A-Lin。他隨即回覆周杰倫，笑問怎麼連這種小事都被對方發現，接著自嘲「我是低科技人才」，事後重新編輯成功標記A-Lin。",
+      "published_at": "Mon, 26 Oct 2026 22:28:01 GMT",
+      "collected_at": "2026-10-27 05:28:58",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫在社群媒體上幽默糾正庾澄慶的標記錯誤，引發網友熱議並戲稱他為「IG里長伯」，展現其親民與細心的一面。",
+      "category": "生活",
+      "analyzed": 1
+    },
     {
       "id": 2498,
       "title": "去年合作周杰倫　F✦FOREVER再邀大咖男神 - 鏡週刊 Mirror Media",
@@ -498,76 +554,39 @@
       "summary": "周杰倫因轉發被稱「中國歌手」的影片引發熱議，大陸國台辦對此表示為真摯情感流露。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2481,
-      "title": "國台辦稱讚周杰倫! 《逐玉》張淩赫訪台被拒 北京重批了…..",
-      "link": "https://newtalk.tw/news/view/2026-10-21/1066758",
-      "source": "Tavily (newtalk.tw)",
-      "snippet": "中國國務院台辦( 國台辦) 今21 日舉行例行記者會。有記者問：近日周杰倫參加活動時，主持人稱其中國歌手。周杰倫在社交平台轉發並點贊相關影片，",
-      "published_at": "Wed, 21 Oct 2026 04:00:00 GMT",
-      "collected_at": "2026-10-21 05:12:43",
-      "sentiment": "正面",
-      "sentiment_score": 0.75,
-      "summary": "周杰倫因被主持人稱為中國歌手並轉發點贊相關影片，獲得國台辦稱讚。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2476,
-      "title": "周杰倫開騷 昆凌報喜 家族添「新丁」 - 東方日報",
-      "link": "https://orientaldaily.on.cc/content/%E5%A8%9B%E6%A8%82/odn-20261019-1019_00282_061/%E5%91%A8%E6%9D%B0%E5%80%AB%E9%96%8B%E9%A8%B7--%E6%98%86%E5%87%8C%E5%A0%B1%E5%96%9C--%E5%AE%B6%E6%97%8F%E6%B7%BB%E3%80%8C%E6%96%B0%E4%B8%81%E3%80%8D",
-      "source": "Tavily (orientaldaily.on.cc)",
-      "snippet": "電子報\n 即時新聞\n \n 要聞港聞\n 兩岸國際\n 產經\n 娛樂\n 副刊\n 男極圈\n 體育\n 馬經\n 波經\n 社論專欄\n 慈善基金\n 昔日東方\n\n 時尚潮流\n 科技新知\n 名家專欄\n 保健．教育\n\n 東方日報正論\n 功夫茶\n 神州縱橫\n 世界視線\n 產評\n 龍門陣\n\n# 周杰倫開騷 昆凌報喜 家族添「新丁」\n\n周杰倫在墨爾本開演唱會，走近觀眾席與歌迷握手。 周杰倫在墨爾本開演唱會，走近觀眾席與歌迷握手。 \n\n周杰倫在墨爾本開演唱會，走近觀眾席與歌迷握手。\n\n \n\n台灣天王周杰倫巡演墨爾本站吸引粉絲逼爆會場，妻女亦有捧場，席間他發揮幽默本色，引得滿堂大笑，而太太昆凌日前分享「探親」片段，自揭周家原來添了兩位新成員！\n\n \n\n歌手周杰倫近日於澳洲墨爾本漫威體育場開唱，成為首位於該場地開騷的華人歌手，6萬個座位爆滿，認真威水。全晚他傾力演出，更特別以英語感性對觀眾表示：「希望我的音樂能在墨爾本陪伴你學習或工作，每當你想家，希望我的歌讓你感覺離家更近一些！」",
-      "published_at": "Mon, 19 Oct 2026 05:00:00 GMT",
-      "collected_at": "2026-10-20 05:10:11",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫在墨爾本成功舉辦演唱會，成為首位在該場地開唱的華人歌手，吸引爆滿歌迷，同時太太昆凌也分享了家族添新成員的喜訊。",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2470,
-      "title": "周杰倫說還有很多歌要寫，暑假的新專輯又要鴿了？ ...",
-      "link": "https://www.facebook.com/100093555733538/videos/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AA%AA%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A%E6%AD%8C%E8%A6%81%E5%AF%AB%E6%9A%91%E5%81%87%E7%9A%84%E6%96%B0%E5%B0%88%E8%BC%AF%E5%8F%88%E8%A6%81%E9%B4%BF%E4%BA%86-%E5%91%A8%E6%9D%B0%E5%80%AB-%E5%91%A8%E6%9D%B0%E5%80%AB%E6%96%B0%E5%B0%88%E8%BC%AF-%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AA%AA%E9%82%84%E6%9C%89%E5%BE%88%E5%A4%9A%E6%AD%8C%E8%A6%81%E5%AF%AB-%E5%91%A8%E6%9D%B0%E5%80%AB%E9%B4%BF%E7%8E%8B/3779041275568004",
-      "source": "Tavily (www.facebook.com)",
-      "snippet": "周杰倫新專輯猜想(一)#周杰倫... Aug 18, 2026 · 2.1K views. 炸裂消息！周杰倫官宣新專輯夏天到來！這次確定不鴿？ 00:52. 炸裂消息！周杰倫官宣新專輯夏 天到來！這次",
-      "published_at": "2026-10-19T05:10:59.788Z",
-      "collected_at": "2026-10-19 05:11:09",
-      "sentiment": "中性",
-      "sentiment_score": 0.6,
-      "summary": "周杰倫官宣新專輯將於夏天發行，但粉絲仍對其是否會如期推出抱持著期待與一絲疑慮。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2471,
-      "title": "12新作- 维基百科，自由的百科全书",
-      "link": "https://zh.wikipedia.org/zh-cn/12%E6%96%B0%E4%BD%9C",
-      "source": "Tavily (zh.wikipedia.org)",
-      "snippet": "《12新作》（英语：Opus 12）是台湾男歌手周杰伦的第12张录音室专辑，收录12首歌曲，2012年12月12日开始预购，12月28日发行，发行3天的时间就成为五大唱片2012年年榜",
-      "published_at": "Fri, 16 Oct 2026 05:00:00 GMT",
-      "collected_at": "2026-10-19 05:11:09",
-      "sentiment": "正面",
-      "sentiment_score": 0.75,
-      "summary": "周杰倫的第12張錄音室專輯《12新作》於2012年發行，並在短短三天內成為五大唱片年度榜單的熱銷專輯。",
-      "category": "新歌",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 217,
-    "report_date": "2026-10-26",
-    "total_articles": 6,
-    "positive_count": 5,
+    "id": 218,
+    "report_date": "2026-10-27",
+    "total_articles": 4,
+    "positive_count": 4,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "去年合作周杰倫　F✦FOREVER再邀大咖男神 - 鏡週刊 Mirror Media、周杰倫快看！台灣最美風景在台南車站 公共鋼琴飆出《楓》聲 民間高手全來了 - 自由娛樂、周杰倫讚蔣萬安「給力」！本人聽聞秒回5字",
-    "created_at": "2026-10-26 05:12:03"
+    "neutral_count": 0,
+    "daily_summary": "周杰倫近期新聞焦點多，包括他因轉發「中國歌手」介紹引發熱議，國台辦稱是真摯情感流露。新專輯《太陽之子》細節曝光，演唱會消息不斷，他更稱讚蔣萬安市長「給力」。私生活方面，與昆凌認養長頸鹿，並在墨爾本街頭彈琴，展現親民一面。此外，與庾澄慶、林俊傑互動也受關注，代言遊戲卻停運。",
+    "key_events": [
+      "認同中國歌手引議",
+      "新專輯與演唱會",
+      "與昆凌認養長頸鹿"
+    ],
+    "created_at": "2026-10-27 05:29:20"
   },
   "recentReports": [
+    {
+      "id": 218,
+      "report_date": "2026-10-27",
+      "total_articles": 4,
+      "positive_count": 4,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期新聞焦點多，包括他因轉發「中國歌手」介紹引發熱議，國台辦稱是真摯情感流露。新專輯《太陽之子》細節曝光，演唱會消息不斷，他更稱讚蔣萬安市長「給力」。私生活方面，與昆凌認養長頸鹿，並在墨爾本街頭彈琴，展現親民一面。此外，與庾澄慶、林俊傑互動也受關注，代言遊戲卻停運。",
+      "key_events": [
+        "認同中國歌手引議",
+        "新專輯與演唱會",
+        "與昆凌認養長頸鹿"
+      ],
+      "created_at": "2026-10-27 05:29:20"
+    },
     {
       "id": 217,
       "report_date": "2026-10-26",
@@ -653,21 +672,6 @@
         "認養長頸鹿獻愛"
       ],
       "created_at": "2026-10-21 05:13:29"
-    },
-    {
-      "id": 211,
-      "report_date": "2026-10-20",
-      "total_articles": 1,
-      "positive_count": 1,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》備受關注，儘管有消息指可能因演唱會而延期，但他已報名角逐葛萊美獎。在個人生活方面，他與昆凌展現暖心一面，認養了長頸鹿夫妻，並在公開場合不忘寵妻。周杰倫也頻繁現身多場活動，包括驚喜現身BIGBANG台北演唱會與成員同框，以及在墨爾本街頭彈鋼琴卻未被路人認出。此外，他與林俊傑的會面也引發期待。然而，他轉發被介紹為「中國知名歌手」的影片，引發兩岸網友論戰。商業方面，一款AI晶片以「Jay Chou」命名，但代言的《極速快感：集結》手遊則宣布停運。",
-      "key_events": [
-        "新專輯《太陽之子》",
-        "認養長頸鹿夫妻",
-        "「中國歌手」爭議"
-      ],
-      "created_at": "2026-10-20 05:10:32"
     }
   ]
 }
