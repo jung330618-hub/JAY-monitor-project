@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
-    "positive": 5,
+    "total": 9,
+    "positive": 7,
     "negative": 0,
-    "neutral": 0
+    "neutral": 2
   },
   "allTimeStats": {
-    "total": 2512,
-    "positive": 896,
+    "total": 2521,
+    "positive": 903,
     "negative": 85,
-    "neutral": 1531,
-    "avg_score": 0.63
+    "neutral": 1533,
+    "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-10-14",
-      "total": 4,
-      "positive": 2,
-      "negative": 2,
-      "neutral": 0,
-      "avg_score": 0.56
-    },
     {
       "date": "2026-10-15",
       "total": 4,
@@ -132,9 +124,143 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.88
+    },
+    {
+      "date": "2026-10-29",
+      "total": 9,
+      "positive": 7,
+      "negative": 0,
+      "neutral": 2,
+      "avg_score": 0.84
     }
   ],
   "recentArticles": [
+    {
+      "id": 2513,
+      "title": "萬眾矚目！周杰倫最新專輯「太陽之子」coming soon！",
+      "link": "https://www.hitoradio.com/newweb/82811hitonews",
+      "source": "Tavily (www.hitoradio.com)",
+      "snippet": "| |  |  |  | | 2026年華語樂壇最令人期待的大事，莫過於是天王周杰倫第16張個人專輯的誕生！隨著首波Teaser密集地露出，也預告了周杰倫新專輯即將推出的消息！興奮不已的粉絲更是從Teaser畫面中尋找蛛絲軌跡，試圖揭開新歌的神秘面紗。距離上張專輯，睽違3年8個月的時間，周杰倫以12首全新創作歌曲及特別收錄給歌迷的禮物「聖誕星」，共計13首歌曲集結成最新專輯「太陽之子」，首波同名主打「太陽之子」MV即將以酷炫之姿與大家見面，這支長達6分58秒的MV充滿了創意巧思，並結合精彩的動畫與後製，杰威爾音樂將於3月24日在電影院舉辦全球首映會，邀請媒體與幸運的100位歌迷一同欣賞周杰倫的最新作品，迎接3月25日「太陽之子」專輯的全球發行。 [...] 「太陽之子」是歌神張學友對周杰倫的暱稱與認證。這個稱號源於2023年5月，周杰倫在香港舉行「嘉年華」演唱會期間遇到幾天大雨，但幾乎在開演前雨就停了。張學友特地送上印有「太陽之子」的芒果與手寫卡片，幽默認證周杰倫的幸運如同「太陽之子」，周杰倫感動的表示自己「心裡出太陽了」，並打趣說「太陽之子」這個稱號他拿走囉！「太陽之子」也成為周杰倫最新專輯的名稱，他也喊話：「正能量繼續炸開！」太陽之子行經之路，如雲隙光突破雲層，光束的千變萬化一如周杰倫音樂創作能量的無與倫比，帶給大地溫暖的撫慰、炙熱的夢想、躍動的旋律。在專輯推出之前，從18日至23日每天都有不同內容的Teaser曝光，首支Teaser裡，粉絲已可以感受到濃烈的藝術氣息，事實上他新專輯裡的每一首歌，宛如畫框中一幅幅不同風格的畫作，他以嶄新的聲線，描繪出心中最燦爛多變的陽光。 |  |  |  |  | | 專輯封面的場景是在巴黎的一座教堂Chapelle [...] |  |  |  |  | | 周杰倫最新專輯「太陽之子」將於3月25日全球數位發行，4月10日實體專輯取貨。19日下午1:00專輯預購全面開啟。而3月24日下午1:00將在台北松仁威秀影城11樓TITAN廳舉辦周杰倫「太陽之子」MV全球首映＆專輯記者會，屆時周杰倫也將與媒體、歌迷朋友分享新專輯及最新MV的創作點滴，現場將限量開放100位歌迷朋友一同進場參與，預知活動詳情，請於3月18日19:00後，洽詢Hit Fm官網 | |",
+      "published_at": "Wed, 18 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 1,
+      "summary": "萬眾矚目！周杰倫最新專輯「太陽之子」coming soon！",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2514,
+      "title": "周杰倫抓包！庾澄慶認了：我是低科技人才 - 自由娛樂",
+      "link": "https://ent.ltn.com.tw/news/breakingnews/5619207",
+      "source": "Tavily (ent.ltn.com.tw)",
+      "snippet": "不過哈林的發文卻被周董發現並沒有成功標記到A-Lin帳號，因此周董好心提醒：「哈林哥，如果你要@別人，前面要空格。」哈林看到留言也檢查貼文，確實沒有成功標註到他要謝謝的對象A-Lin，因此哈林幽默回應周董：「怎麼這種事都被你花現（發現）！我是低科技人才。」事後哈林也重新編輯貼文，依照周董的提醒，這次成功標記A-Lin了。\n\n另外鼓鼓看到哈林發文也誇讚：「黃金陣容！」哈林則開心回應：「超級爽！」\n\n點圖放大header\n\n點圖放大body\n\n不用抽 不用搶 現在用APP看新聞 保證天天中獎　 點我下載APP　 按我看活動辦法\n\n讀者留言\n\n相關新聞\n\n你可能還想看 more\n\n 周杰倫快看！台灣最美風景在台南車站 公共鋼琴飆出《楓》聲 民間高手全來了 \n\n  ### 周杰倫快看！台灣最美風景在台南車站 公共鋼琴飆出《楓》聲 民間高手全來了\n 沈伯洋節目「真情告白」2天破42萬觀看！沈玉琳7字表態 網笑：偷臭蔣萬安？ \n\n  ### 沈伯洋節目「真情告白」2天破42萬觀看！沈玉琳7字表態 網笑：偷臭蔣萬安？\n 諷習近平遭中國買兇！黃逸豪連問傅崐萁20次「要不要立法」：難處在哪裡 [...] 自由時報 \n\n 即時\n 熱門\n 政治\n 財富自由\n 軍武\n 社會\n 生活\n 健康\n 國際\n 地方\n 蒐奇\n 影音\n 財經\n 娛樂\n 汽車\n 時尚\n 體育\n 3 C\n 評論\n 藝文\n 玩咖\n 食譜\n 地產\n 求職\n\n娛樂首頁 即時新聞 熱門新聞 娛樂時尚 日韓 亞洲 歐美 電視 電影 音樂 星座 自由娛樂粉絲團自由娛樂粉絲團\n\n自由影音\n\n即時 熱門 政治 軍武 社會 生活 健康 國際 地方 蒐奇\n\n財富自由 財經 娛樂 藝文 汽車 時尚 體育 3 C 評論 玩咖 食譜 地產 專區 服務\n\n自由電子報 APP 自由電子報粉絲團 自由電子報 Line 自由電子報 X 熱門新訊\n\n自由娛樂\n\n限制級\n\n###### 您即將進入之新聞內容 需滿18歲 方可瀏覽。\n\n未滿18歲  \n或不同意本條款離開離開) 我同意  \n我已年滿18歲進入進入)\n\n根據「電腦網路內容分級處理辦法」修正條文第六條第三款規定，已於網站首頁或各該限制級網頁，依台灣網站分級推廣基金會規定作標示。 台灣網站分級推廣基金會（TICRF）網站：\n\n娛樂  〉 最新消息\n\n加入Google首選 [...] ### 諷習近平遭中國買兇！黃逸豪連問傅崐萁20次「要不要立法」：難處在哪裡\n 王淺秋發聲！訪完沈伯洋、蔣萬安 選戰激烈程度「已超乎想像」 \n\n  ### 王淺秋發聲！訪完沈伯洋、蔣萬安 選戰激烈程度「已超乎想像」\n 名人離婚彈連發！廖美然點名「戀愛腦Top 3星座」慎防桃色殺豬盤 \n\n  ### 名人離婚彈連發！廖美然點名「戀愛腦Top 3星座」慎防桃色殺豬盤\n 視障學生台南車站彈《青花瓷》釣出蔡英文鼓勵 林隆璇約聯彈 \n\n  ### 視障學生台南車站彈《青花瓷》釣出蔡英文鼓勵 林隆璇約聯彈\n 66歲林淑容烏龍死訊嚇哭羅時豐 世紀合體時機曝光 \n\n  ### 66歲林淑容烏龍死訊嚇哭羅時豐 世紀合體時機曝光\n 藝人閃兵案阿達等13人自首求緩刑 新北地院今日下午2時宣判 \n\n  ### 藝人閃兵案阿達等13人自首求緩刑 新北地院今日下午2時宣判\n 原本看好蔣萬安？艾菲爾突拋「選戰翻盤變數」：雙雄各有致命死穴\n 吵要沈伯洋辭立委選舉 她撂話「敢辭試試看」 \n\n  ### 吵要沈伯洋辭立委選舉 她撂話「敢辭試試看」\n\n載入中",
+      "published_at": "Mon, 26 Oct 2026 08:05:13 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫好心提醒庾澄慶社群媒體標記錯誤，庾澄慶幽默回應並成功修正，展現兩人友好的互動。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2515,
+      "title": "遭爆電梯摸女助理屁股！周杰倫開記者會澄清 驚吐「1句話」全網笑翻",
+      "link": "https://tw.news.yahoo.com/%E9%81%AD%E7%88%86%E9%9B%BB%E6%A2%AF%E6%91%B8%E5%A5%B3%E5%8A%A9%E7%90%86%E5%B1%81%E8%82%A1-%E5%91%A8%E6%9D%B0%E5%80%AB%E9%96%8B%E8%A8%98%E8%80%85%E6%9C%83%E6%BE%84%E6%B8%85-%E9%A9%9A%E5%90%90-1%E5%8F%A5%E8%A9%B1-%E5%85%A8%E7%B6%B2%E7%AC%91%E7%BF%BB-091700650.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "天王周杰倫與昆凌結婚多年育有三子，家庭幸福美滿。近日他14年前為「捏助理屁股」傳聞緊急召開的澄清記者會影片在網路上再度掀起熱議。",
+      "published_at": "Wed, 28 Oct 2026 09:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫14年前澄清「捏助理屁股」傳聞的記者會影片近日翻紅，其幽默回應引發網友熱議。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 2516,
+      "title": "周杰倫帶女兒放風 誇讚她有浪漫細胞",
+      "link": "https://www.singtaousa.com/2026/10/28/entertainment/jay-chou-daughter-romantic",
+      "source": "Tavily (www.singtaousa.com)",
+      "snippet": "周杰倫帶著4歲女兒Jacinda到海邊遊玩，途中經過花店，女兒主動要求買花送給媽媽昆凌，讓周杰倫驚呼她比自己還浪漫。他在社交平台分享了多張女兒的可愛",
+      "published_at": "Wed, 28 Oct 2026 09:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫分享與女兒Jacinda的溫馨互動，女兒主動買花送昆凌，讓他大讚女兒比自己更浪漫。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2517,
+      "title": "昆凌結婚11年怎麼當3寶媽？甜曝周杰倫私下真面目- 娛樂",
+      "link": "https://www.chinatimes.com/realtimenews/20261028003384-260404",
+      "source": "Tavily (www.chinatimes.com)",
+      "snippet": "33歲混血女星昆凌與大14歲天王周杰倫結婚11年，育有2女1子，一家5口過著童話般的幸福生活。不過，昆凌婚後鮮少透過作品與大家見面，近日她登上星座",
+      "published_at": "Wed, 28 Oct 2026 09:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "昆凌分享與周杰倫結婚11年育有三寶的幸福家庭生活，並透露周杰倫私下真面目。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2518,
+      "title": "庾澄慶發文謝A-Lin！周杰倫熱心糾正 網笑：IG里長伯？",
+      "link": "https://ent.ebc.net.tw/buzz/503452",
+      "source": "Tavily (ent.ebc.net.tw)",
+      "snippet": "庾澄慶演唱會邀A-Lin擔任嘉賓，事後發文感謝卻標記失敗，周杰倫留言提醒正確方式，讓哈林自嘲「低科技人才」，兩人互動引發網友熱議。",
+      "published_at": "Tue, 27 Oct 2026 06:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫熱心糾正庾澄慶的IG標記錯誤，展現其親民幽默的一面，引發網友熱議。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2519,
+      "title": "Jay Chou Singapore concerts: robots and fire effects | The Straits Times",
+      "link": "https://www.straitstimes.com/life/entertainment/30m-robots-fire-and-water-effects-what-to-expect-at-jay-chous-concerts-in-january",
+      "source": "Tavily (www.straitstimes.com)",
+      "snippet": "Chou’s shows are known for their visual effects and audience song requests.\n\nHis latest tour has a “one city, one theme” premise, with each stop paired with one of his songs.\n\nSingapore’s theme is Sunny Day Singapore, inspired by his iconic song Sunny Day from his 2003 album Yeh Hui-Mei, which is named after his mother.\n\nThe 47-year-old Taiwanese singer-songwriter performed here in 2020, 2022 and 2024 for his Carnival World Tour, which ran from 2019 to 2025. [...] AI generated\n\nSINGAPORE –Ju Pao, a Taiwanese concert director known for his work on Mandopop king Jay Chou’s large-scale shows, has dropped hints about what fans can expect at Chou’s upcoming concerts here.\n\nChou will perform three shows at the National Stadium from Jan 8 to 10, as part of the Singapore leg of his Carnival II World Tour.\n\nThe ongoing concert tour, his ninth, began in Hangzhou, China, in April 2026. [...] Straitstimes.com header logo\n\n# 30m robots, fire and water effects: What to expect at Jay Chou’s concerts in January\n\nSign up now: Get ST's newsletters delivered to your inbox\n\nJay Chou will perform three shows at the National Stadium from Jan 8 to 10 2027.\n\nPHOTO: HORIZON PRODUCTION\n\navatar-alt\n\nVenessa Lee\n\nPublished Oct 26, 2026, 11:50 AM\n\nUpdated Oct 26, 2026, 12:29 PM",
+      "published_at": "Mon, 26 Oct 2026 03:50:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "Jay Chou Singapore concerts: robots and fire effects | The Straits Times",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2520,
+      "title": "Jay Chou Ft. Ashin: Won't Cry (2019)",
+      "link": "https://www.imdb.com/pt/title/tt14894476/mediaviewer/rm1091829249?ref_=ttch_ph_4_2",
+      "source": "Tavily (www.imdb.com)",
+      "snippet": "Keisuke Watanabe and Ayaka Miyoshi in Jay Chou Ft. Ashin: Won't Cry (2019)",
+      "published_at": "Fri, 23 Oct 2026 06:00:00 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "這則資訊提及周杰倫與阿信合作的歌曲《說好不哭》及其音樂錄影帶的演員。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2521,
+      "title": "周杰倫2024大巨蛋演唱會：嘉賓預測、入場資訊、座位圖一次看",
+      "link": "https://www.harpersbazaar.com/tw/celebrity/celebritynews/g62053431/jay-chou-2024-concert",
+      "source": "Tavily (www.harpersbazaar.com)",
+      "snippet": "## 周杰倫大巨蛋演唱會資訊\n\n周杰倫,周杰倫演唱會,周杰倫搶票,周杰倫拓元,周杰倫演唱會門票拓元,周杰倫演唱會門票,周杰倫演唱會搶票,周杰倫大巨蛋搶票,拓元售票,拓元售票周杰倫,周杰倫大巨蛋門票,拓元售票系統搶票,周杰倫大巨蛋演唱會,大巨蛋演唱會,周杰倫演唱會2024,周杰倫演唱會台灣,周杰倫演唱會台北,周杰倫歌曲,大巨蛋演唱會,2024演唱會,周杰倫大巨蛋開唱,周杰倫 大巨蛋,周杰倫大巨蛋 ptt,\n\nIG@jaychou\n\n周杰倫所屬杰威爾音樂驚喜宣布，周杰倫將在大巨蛋舉辦「嘉年華」世界巡迴演唱會，一連歡唱4天，門票價錢、如何購票也已經有消息釋出了！\n\n周杰倫「嘉年華」世界巡迴演唱會資訊\n\n活動時間：\n\n2024年12月05日 PM 7：30\n\n2024年12月06日 PM 7：30\n\n2024年12月07日 PM 6：00\n\n2024年12月08日 PM 6：00\n\n活動地點：台北大巨蛋\n\n門票價格：NT$ 6880 / 5880 / 4880 / 3880 / 3280 / 2280 / 1880\n\n售票時間：2024年10月23日 中午12：00 [...] By Charlie Lee\n\n- 周杰倫大巨蛋演唱會彩排照曝光\n- 周杰倫大巨蛋演唱會歌單預測\n- 周杰倫大巨蛋演唱會有望找來劉德華擔任嘉賓？\n- 周杰倫大巨蛋演唱會資訊\n- 周杰倫大巨蛋演唱會座位圖\n- 周杰倫大巨蛋演唱會「加賣」演唱會門票\n- 周杰倫大巨蛋演唱會大升級！\n- 周杰倫大巨蛋演唱會有預告？\n- 他們比周杰倫更早踏上大巨蛋！\n- 周杰倫大巨蛋演唱會完整聲明\n\n大巨蛋首場演唱會！周杰倫2024舉辦巡迴演唱會，而其中一場將在台北大巨蛋舉行，這將會是周杰倫睽違7年時間再與台灣的樂迷們於演唱會上碰面。周杰倫大巨蛋演唱會將在12月上旬舉行，是大巨蛋完工以來舉辦的第一場演唱會。既然在大巨蛋舉辦演唱會，周杰倫也做好了萬全準備，因應場地關係，周杰倫大巨蛋演唱會從硬體到節目演出也將全面升級！ [...] ## 周杰倫大巨蛋演唱會完整聲明\n\n周杰倫,周杰倫演唱會,周杰倫搶票,周杰倫拓元,周杰倫演唱會門票拓元,周杰倫演唱會門票,周杰倫演唱會搶票,周杰倫大巨蛋搶票,拓元售票,拓元售票周杰倫,周杰倫大巨蛋門票,拓元售票系統搶票,周杰倫大巨蛋演唱會,大巨蛋演唱會,周杰倫演唱會2024,周杰倫演唱會台灣,周杰倫演唱會台北,周杰倫歌曲,大巨蛋演唱會,2024演唱會,周杰倫大巨蛋開唱,周杰倫 大巨蛋,周杰倫大巨蛋 ptt,\n\nIG@jaychou\n\n周杰倫「嘉年華」世界巡迴演唱會將在今年12月上旬於台北大巨蛋登場，這將是周杰倫睽違七年後再度於台北舉辦個人演唱會，也是台北大巨蛋第一次舉辦的專場個人演唱會。演出團隊也因應大巨蛋這個全新的場地積極準備中。而作為第一個在大巨蛋舉辦個唱的歌手，一向喜歡創新的周杰倫，希望在這裡帶給大家全新的感受與體驗！我們和所有歌迷一起期待「嘉年華」演唱會在大巨蛋擦出更令人驚奇的火花！有關周杰倫「嘉年華」台北大巨蛋演唱會的演出時間及相關售票訊息，將會再擇期官宣，敬請期待！\n\n## 延伸閱讀",
+      "published_at": "Fri, 06 Sep 2024 13:15:40 GMT",
+      "collected_at": "2026-10-29 06:20:56",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫2024大巨蛋演唱會：嘉賓預測、入場資訊、座位圖一次看",
+      "category": "演唱會",
+      "analyzed": 1
+    },
     {
       "id": 2508,
       "title": "周杰倫好聽的40首歌Best Songs Of Jay Chou 周杰倫最偉大 ...",
@@ -428,150 +554,39 @@
       "summary": "周杰倫因轉發「中國歌手」介紹引發身分爭議，中國國台辦對此回應稱是真摯情感流露並稱讚他。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2493,
-      "title": "Mandopop star Jay Chou releases album after four-year hiatus - Focus Taiwan",
-      "link": "https://focustaiwan.tw/culture/202603250008",
-      "source": "Tavily (focustaiwan.tw)",
-      "snippet": "Culture\n\n# Mandopop star Jay Chou releases album after four-year hiatus\n\n03/25/2026 01:07 PM\n\nLinkWhatsappRedditLineEmail\n\nTo activate the text-to-speech service, please first agree to the privacy policy below.\n\nMandopop star Jay Chou (周杰倫) has released a new album called \"Children of the Sun\" (太陽之子) on digital platforms nearly four years after his previous album was released in July 2022. [...] + Taiwan wins women's doubles table tennis gold at Asian Para Games\n  + Chiang Kun-yu wins 7th straight CPBL Gold Glove\n  + Table tennis players clinch Taiwan's third gold at Asian Para Games\n  + Chan's walk-off single keeps Brothers alive in Taiwan Series\n Science & Tech\n  + Free AI tool to let public check quake damage from photos: Research center\n  + NTHU to explore research reactor development with NuCube\n  + Taiwan researchers find ways to increase microalgae bioethanol feedstock",
-      "published_at": "Wed, 25 Mar 2026 05:07:00 GMT",
-      "collected_at": "2026-10-24 04:56:47",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫在四年後發行了名為《太陽之子》的新專輯。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2487,
-      "title": "周杰倫新專輯《太陽之子》命名由來和歌神張學友有關？邀歌迷進電影院看新歌MV首播！",
-      "link": "https://www.elle.com/tw/entertainment/music/g70791294/jay-chou-children-of-the-sun-2026",
-      "source": "Tavily (www.elle.com)",
-      "snippet": "## 1.從巴黎歸來的《太陽之子》\n\n周杰倫《太陽之子》\n\n新專輯《太陽之子》封面的場景是在巴黎的一座教堂Chapelle Sainte-Jeanne-d’Arc拍攝，它同時也是MV場景之一，這座教堂目前是一個空的場地，可以租借用來辦展覽、攝影之用，MV工作團隊考究了19世紀的陳設美術，將它打造成符合腳本的氛圍，加上是在夜間拍攝，所以出動9台大吊車在外面打燈，只為了打亮教堂的玻璃，呈現出懸疑暗黑的氛圍。\n\n《蜘蛛人：重生日》首支預告震撼全網！8大超狂彩蛋解析：夜魔俠、變種人降臨，MJ交新男友了！\n\n## 2.「太陽之子」封號來自歌神張學友？\n\n周杰倫《太陽之子》\n\n「太陽之子」是歌神張學友對周杰倫的暱稱與認證。這個稱號源於2023年5月，周杰倫在香港舉行「嘉年華」演唱會期間遇到幾天大雨，但幾乎在開演前雨就停了。張學友特地送上印有「太陽之子」的芒果與手寫卡片，幽默認證周杰倫的幸運如同「太陽之子」，周杰倫感動的表示自己「心裡出太陽了」，並打趣說「太陽之子」這個稱號他拿走囉！\n\n奧斯卡頒獎典禮後的「慶祝儀式」是衝去吃In-N-Out？為何明星對這顆漢堡如此著迷\n\n周杰倫《太陽之子》 [...] Search\nClose\nLogo\n\n# 周杰倫新專輯《太陽之子》命名由來和歌神張學友有關？新歌MV下週全球首映，邀歌迷進電影院看首播！\n\n想和周董一起見證新專輯《太陽之子》誕生的歌迷們別錯過了！\n\nbookmarks\n周杰倫《太陽之子》\n\n2026年華語樂壇最令人期待的大事，莫過於是天王周杰倫第16張個人專輯的誕生！隨著首波Teaser密集地露出，也預告了周杰倫新專輯即將推出的消息！興奮不已的粉絲更是從Teaser畫面中尋找蛛絲軌跡，試圖揭開新歌的神祕面紗。距離上張專輯，睽違3年8個月的時間，周杰倫以12首全新創作歌曲及特別收錄給歌迷的禮物〈聖誕星〉，共計13首歌曲集結成最新專輯《太陽之子》，首波同名主打〈太陽之子〉MV不僅長達6分58秒，更以大規模製作精彩呈現，結合名畫的藝術巧思讓人期待不已！杰威爾音樂將於3月24日在電影院舉辦全球首映會，邀請媒體與幸運的100位歌迷一同欣賞周杰倫的最新作品，迎接3月25日「太陽之子」專輯的全球發行。\n\nBTS回歸演唱會全世界都看的到！新歌〈SWIM〉上線，光化門演唱會在Netflix獨家直播\n\n## 1.從巴黎歸來的《太陽之子》 [...] 周杰倫《太陽之子》\n\n就此，「太陽之子」的封號也順勢成為周杰倫的新專輯名稱，他喊道：「正能量繼續炸開！」太陽之子行經之路，如雲隙光突破雲層，光束的千變萬化一如周杰倫音樂創作能量的無與倫比，帶給大地溫暖的撫慰、炙熱的夢想、躍動的旋律。\n\nITZY演唱會高雄巨蛋登場！6月首度南下開唱，搶票日期、票價、售票資訊懶人包\n\n## 3.哥說到做到，在充實生活中誕生的新專輯\n\n周杰倫《太陽之子》\n\n周杰倫近來常在自己的社群平台與歌迷分享新專輯的進度，在所有歌曲都錄製完成後，他也與歌迷分享他的心情，周杰倫說：「上次發專輯是2022年，並不代表這張專輯我寫了三、四年，這些年我把生活的步調放慢，慢慢寫進音樂裡，有靈感就寫、有時間就唱、MV有時間就拍，最有效率的時候，反而是巡演結束的這幾個月。」\n\n2026奧斯卡典禮精彩亮點＆得獎感言！安海瑟薇夢幻聯動這位傳奇人物，鋼鐵人＆美國隊長也合體\n\n周杰倫《太陽之子》",
-      "published_at": "Fri, 20 Mar 2026 08:31:35 GMT",
-      "collected_at": "2026-10-23 05:15:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫新專輯《太陽之子》即將發行，其命名源自歌神張學友的暱稱，並將於3月24日在電影院舉辦MV首映會，3月25日全球發行。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2488,
-      "title": "阿Ken親送鳳梨酥給BIGBANG！曝周杰倫暖心1舉動　甜點店突變追星現場｜緯來新聞網",
-      "link": "https://news.videoland.com.tw/article/cc94f4da-b8f0-4b6c-88f7-e791b2771232.html",
-      "source": "Tavily (news.videoland.com.tw)",
-      "snippet": "回顧兩週前BIGBANG在台北大巨蛋的演出，與GD（權志龍）私交甚篤的周杰倫除了送上花籃祝賀，更帶著妻子昆凌與好友阿Ken前往現場探班合照。阿Ken透露，當時是昆凌細心提醒他帶鳳梨酥作為禮物，這才促成太陽在第一天演唱會後對鳳梨酥讚不絕口。第二天演唱會上太陽公開致謝後，周杰倫便在社群交代阿Ken要在慶功宴現場追加送達，阿Ken笑稱自己與周杰倫交情深厚「沒有在談錢」，只要大家吃得開心最重要。\n\n阿Ken出席皮蛇衛教記者會。（圖／記者許方正攝）\n\n阿Ken出席皮蛇衛教記者會。（圖／記者許方正攝）\n\n受到周杰倫與BIGBANG的加持，阿Ken創立的甜點店買氣隨之大增。他幽默打趣表示，店裡的業績就像50歲以上罹患皮蛇的機率一樣大幅變高，但價格絕對沒有翻倍。他也透露，店裡近期湧入許多攜帶BIGBANG周邊商品或使用成員照片作為桌布的韓國粉絲前來嚐鮮，自己心存感激之餘，有時還會配合歌迷在現場一起跳《BANG BANG BANG》等經典歌曲親切互動。\n\n受到周杰倫與BIGBANG的加持，阿Ken坦言創立的甜點店買氣隨之大增。（圖／記者許方正攝） [...] 緯來新聞網 Logo\n\n緯來新聞網 Logo\n\n# 阿Ken親送鳳梨酥給BIGBANG！曝周杰倫暖心1舉動　甜點店突變追星現場\n\n發佈時間:2026/10/19 15:24  \n更新時間:2026/10/19 15:28記者蕭宇涵／台北報導\n\nstartstop文章語音朗讀\n\n  \n\n字體大小\n\nGoogle首選 加入Google首選\n\n【緯來新聞網】天團BIGBANG日前來台開唱吸引大批歌迷朝聖，演唱會期間成員太陽更在舞台上大讚台灣鳳梨酥美味，並以中文高喊「謝謝大哥」，感謝周杰倫的熱情款待。藝人阿Ken今（19日）出席皮蛇衛教記者會時透露，這批鳳梨酥正是出自他創立的甜點品牌，當時是在周杰倫的感召下，特別前往慶功宴餐廳補送伴手禮，且準備的份量足以讓BIGBANG整個工作團隊都能享用，展現十足的地主之誼。\n\n藝人阿Ken出席衛教活動，透露在周杰倫交待下特別準備鳳梨酥送給BIGBANG團隊，意外帶動自家甜點店買氣。（圖／記者許方正攝）\n\n藝人阿Ken出席衛教活動，透露在周杰倫交待下特別準備鳳梨酥送給BIGBANG團隊，意外帶動自家甜點店買氣。（圖／記者許方正攝） [...] 分享\n\n## 你可能還想看\n\n NBA開季分析》太陽新賽季力拚西區突圍！Booker、Brooks、Green領軍 中鋒輪替成開季隱憂2026/10/19\n 阿Ken親送鳳梨酥給BIGBANG！曝周杰倫暖心1舉動　甜點店突變追星現場2026/10/19\n NBA》開季前搞定內線　太陽與Ighodaro達成3年延長合約協議2026/10/19\n 康舒累積全台逾百座太陽能案場　跨足儲能、智慧監控市場2026/10/16\n 雲豹能源成立10年再轉型！從太陽光電跨進AI資料中心　瞄準新成長曲線2026/10/15\n GD抱病缺席！BIGBANG大巨蛋收官直奔慶功　大聲、太陽超親切揮手2026/10/11\n BIGBANG大巨蛋完美收官！演唱會尾聲再度行大禮告別粉絲2026/10/11\n\n## 追蹤緯來 掌握未來",
-      "published_at": "Mon, 19 Oct 2026 07:24:00 GMT",
-      "collected_at": "2026-10-23 05:15:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫因對BIGBANG展現地主之誼，暖心指示阿Ken加送鳳梨酥，此舉不僅獲BIGBANG讚賞，也意外帶動阿Ken甜點店買氣大增。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2489,
-      "title": "BIGBANG 20周年媒體展11.18日登場 香港成海外首站11大主題展區亮相 | 事事如意生活網站",
-      "link": "https://ccue.singtao.ca/2026-10-22/bigbang-20%E5%91%A8%E5%B9%B4%E5%AA%92%E9%AB%94%E5%B1%9511-18%E6%97%A5%E7%99%BB%E5%A0%B4-%E9%A6%99%E6%B8%AF%E6%88%90%E6%B5%B7%E5%A4%96%E9%A6%96%E7%AB%9911%E5%A4%A7%E4%B8%BB%E9%A1%8C%E5%B1%95%E5%8D%80/1110635",
-      "source": "Tavily (ccue.singtao.ca)",
-      "snippet": "BIGBANG 20周年媒體展11.18日登場。\n\n香港成海外首站。\n\n香港成海外首站。\n\nBIGBANG世巡包括有台北站。\n\nBIGBANG世巡包括有台北站。\n\n與GD頗有交情的「周董」周杰倫特來捧場。\n\n與GD頗有交情的「周董」周杰倫特來捧場。\n\n周董偕太太昆凌和好友阿Ken（左二）來睇騷，阿Ken更送上自家品牌鳳梨酥，太陽仲食得超開心！\n\n周董偕太太昆凌和好友阿Ken（左二）來睇騷，阿Ken更送上自家品牌鳳梨酥，太陽仲食得超開心！\n\n韓國天團 BIGBANG 攜世界巡迴演唱會《COSMOS》之前登陸新加坡開唱。\n\n韓國天團 BIGBANG 攜世界巡迴演唱會《COSMOS》之前登陸新加坡開唱。\n\n## BIGBANG 11大主題展區串連音樂宇宙 [...] 莫文蔚結婚15周年與德籍老公拖手晒恩愛：好似初戀 啟德演唱會因宏福苑火災取消盼再獲檔期重開\n\n\n\n張智霖輕佻談張曦雯半裸風波 「唔輸得」論惹爭議 網民：證明袁澧林冇講錯丨璀璨之城\n\n\n\n不只少吃油/鹽！營養師教吃4類食物護心臟 早餐加入1食物更降壞膽固醇\n\n\n\nSammi同安仔後台傾偈多過打點 集氣做華仔跨年個唱嘉賓 受Eason「錄音騷」啟發諗大計\n\n\n\n姜濤與張馳豪出戰籃球聯賽 爆汗神射手上身 狀態大勇領軍贏波殺入決賽丨獨家\n\n\n\n劉愷威認愛後與新女友高調放閃 打波搭背合照宣示主權 黎紀君舊照瘋傳被指唔同樣？\n\n\n\nTXT崔秀彬私密照片外洩 偷拍當事人強調被朋友出賣 BIGHIT發聲明追究造謠者\n\n\n\n梅艷芳骨灰被盜丨梅啟明斥萬元打齋喊到抽筋 偷望鏡頭似做騷？ 未婚妻向梅媽作出承諾\n\n\n\n煎牛扒用甚麼油？專家教用6種油 用錯牛油恐燒焦致癌｜附煎牛扒8步驟\n\n\n\n許冠傑為麥當勞叔叔之家慈善晚壓軸獻唱 姜濤驚喜演繹《沒有翅膀的天使》送暖\n\n\n\n天后謝安琪入紙紅館開演唱會10次全落空？李昊、古淖文、鍾嘉欣申請成功 網民好奇審批標準 [...] ###### 相關文章\n\n鄧兆尊再提供集郵女星線索：唔係佘詩曼伍詠薇 自爆畀花旦入過房 親睹富豪送妻招呼朋友\n\n姜濤與張馳豪出戰籃球聯賽 爆汗神射手上身 狀態大勇領軍贏波殺入決賽丨獨家\n\n張與辰生日會玩Cosplay 辰粉預備連串驚喜\n\n莫文蔚結婚15周年與德籍老公拖手晒恩愛：好似初戀 啟德演唱會因宏福苑火災取消盼再獲檔期重開\n\n梅艷芳骨灰被盜丨梅啟明斥萬元打齋喊到抽筋 偷望鏡頭似做騷？ 未婚妻向梅媽作出承諾\n\nIan能否趕及赴Stanley婚禮繼續口密︰準備咗好多祝福 吸金力強置裝買貴衫\n\n顏福偉罕談同性伴侶認拍拖19年：佢細過我 兩度出家悟人生 拒拍廣告靠AI打理百年家業\n\nSammi同安仔後台傾偈多過打點 集氣做華仔跨年個唱嘉賓 受Eason「錄音騷」啟發諗大計\n\n許冠傑為麥當勞叔叔之家慈善晚壓軸獻唱 姜濤驚喜演繹《沒有翅膀的天使》送暖\n\n###### 全站點擊排行榜\n\n\n\n周啟生貼天后王菲顯老零濾鏡照問「邊個」 網民炮轟冇品：周生自己有冇照鏡？\n\n\n\n璀璨之城丨張曦雯臨時被加裸戲 網民轟袁詠儀江美儀做說客 監製陳維冠被批無視演員意願",
-      "published_at": "Thu, 22 Oct 2026 09:15:32 GMT",
-      "collected_at": "2026-10-23 05:15:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫偕太太昆凌及好友阿Ken出席BIGBANG媒體展，為好友GD捧場並展現良好交情。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2490,
-      "title": "【Drum Cover】周杰倫 Jay Chou - 【鄉間的路】｜太陽之子 - 專輯新歌｜高還原架子鼓｜高音質 / 附譜 / 歌詞",
-      "link": "https://youtu.be/QUl-O4TNbwE?si=qSEkJU2df8IfrOqS",
-      "source": "Tavily (youtu.be)",
-      "snippet": "Music\n\nImage 8 ### Yee's Music Studio 21 subscribers\n\nVideosAbout\n\n## Video details\n\nDate\n\nApr 16, 2026\n\nViews\n\n124\n\nLikes\n\n1\n\nNaN / NaN\n\nImage 9 12 videos\n\n### Beginner Drum Lessons\n\nDrumeoPlaylist\n\nView full playlist\n\nImage 10 Mix\n\n### Mix - 【Drum Cover】周杰倫 Jay Chou - 【鄉間的路】｜太陽之子 - 專輯新歌｜高還原架子鼓｜高音質 / 附譜 / 歌詞\n\nJay Chou and more Playlist\n\nImage 11 4:43\n\nImage 12\n\n### 吉米音樂 周杰倫 - 晴天（動態鼓譜）by 吉米老師\n\n吉米音樂\n\n14K 2y ago\n\nImage 13 5:01\n\nImage 14\n\n### Inventing Spanish - SNL\n\nSaturday Night Live [...] Image 37\n\n### ㄧ次搞懂唱歌「打開喉嚨」音色、高音大改善！關鍵在「放鬆內口腔」？《喉內阻力管理學習法》feat.府鑫老師\n\nVBS學唱歌 - 聲音平衡歌唱技巧\n\n1.2M 5mo ago\n\nImage 38 5:53\n\nImage 39\n\n### 周杰伦《不能说的秘密》斗琴大赛 | Jay Chou - Secret: Piano Battle - 高清 HD\n\nMUSICKAKI 音乐卡奇\n\n2.1M 5y ago\n\nImage 40 38 videos\n\n### 📚 DRUM LESSONS\n\nAlejandro SifuentesPlaylist\n\nView full playlist\n\nImage 41 7:35\n\nImage 42\n\n### The Iconic Bass Riff That NOBODY Can Play\n\nDavie504\n\n1.5M 4mo ago\n\nImage 43 13:45\n\nImage 44\n\n### It’s Boring, But It Will Triple Your Hand Speed [...] Drum Beats Online\n\n347K 2mo ago\n\nShow more\n\nShow more\n\n[](",
-      "published_at": "Thu, 16 Apr 2026 00:00:00 GMT",
-      "collected_at": "2026-10-23 05:15:16",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "一個粉絲為周杰倫新專輯歌曲《鄉間的路》製作了高品質的鼓譜翻奏，顯示出對其音樂的熱情與支持。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2482,
-      "title": "吧檯女服務生竟是「靈異鏡像」！周杰倫揭〈太陽之子〉藏環環相扣驚人細節　名導溫子仁也來留言 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/52537",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "｜即時 ｜娛樂\n\n# 吧檯女服務生竟是「靈異鏡像」！周杰倫揭〈太陽之子〉藏環環相扣驚人細節　名導溫子仁也來留言\n\nmirror-daily-logo\n\n2026/03/30 07:30:00最後更新 2026/03/30 07:30:17\n\n記者：\n\n田瑜萍\n\n周杰倫太陽之子\n\n周杰倫推出新專輯《太陽之子》，數位發行4天狂賣264萬張，同名主打MV致敬30幅名畫，並在紐約時代廣場等全球多地巨幕看板強力播送。周杰倫於IG曬出自己在紐約時代廣場看板貼文，竟意外吸引好萊塢名導溫子仁（James Wan）以帳號「creepypuppet」留言讚周杰倫「Epic（史詩級）」，讓兩人交情意外曝光。而周杰倫也釋出幕後花絮，得意表示借〈太陽之子〉這首歌，讓好友方文山也踏進了藝術領域！\n\n周杰倫新專輯《太陽之子》的宣傳活動跨國進行，包括YouTube、Spotify等四家音樂串流平台，在時代廣場同時投放MV廣告，除了美國之外，看板也登上香港海港城、台北信義區等地，總計達16個巨型看板。 [...] 而執導過《奪魂鋸》《厲陰宅2》《陰兒房》《水行俠》等電影，也為《安娜貝爾》《鬼修女》擔任監製的名導溫子仁，是知名的「好萊塢鬼王」，周杰倫與溫子仁曾互加IG好友，這次溫子仁看過周杰倫的MV新作「太陽之子」，不吝給周杰倫肯定，「Wow Jay, that's amazing! How epic.」讓周杰倫直言相當感謝。\n\n20260330周杰倫貼文。翻攝IG@jaychou_2026-03-30.jpg\n\n周杰倫貼文連好萊塢名導溫子仁都來留言，意外曝光兩人交情。翻攝IG@jaychou\n\n## 奧維爾教堂的神祕再現\n\n而周杰倫在MV導演廖人帥揭露〈太陽之子〉藏有那30幅世界名畫之後，也在IG釋出〈太陽之子〉的幕後花絮。透露 MV中出現的綠精靈（苦艾酒），正是傳說中梵谷當年喝下後，讓他畫風產生巨變，因此在劇情設計上，周杰倫在喝下酒後產生幻覺，看到梵谷走進來說自己的耳朵是被吸血鬼咬傷，讓他進入了梵谷的繪畫世界，看到他在1890年所畫的奧維爾教堂。 [...] 周杰倫解密馬內《女神遊樂廳的吧檯》畫作中的神祕細節。翻攝維基百科\n\n周杰倫表示，〈太陽之子〉MV中藏有許多細節，希望大家可以去發想，找一些細節，「如果你在尋找的那一刻被觸動了，那正是我想要的。」希望粉絲能重複觀看，去挖掘MV中隱藏的眾多藝術彩蛋。\n\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\nFacebookShare\n\n分享臉書LineShare\n\n分享 LINE\nLINE\n\n加好友Facebook\n\n追蹤Threads\n\n追蹤YouTube\n\n訂閱\n\n### 延伸閱讀\n\n獨家／欠錢不還！電影《想見你》中國大賣17.7億元「看得到吃不到」　怒告萬達影業求償3億2千萬元！時事\n\n獨家／欠錢不還！電影《想見你》中國大賣17.7億元「看得到吃不到」　怒告萬達影業求償3億2千萬元！獨家／《陽光女子合唱團》賣7.4億登陸推手也是拖欠帳款的「萬達」影業！　業界擔心：恐步〈想見你〉怒告求償後塵！時事",
-      "published_at": "Sun, 29 Mar 2026 23:30:00 GMT",
-      "collected_at": "2026-10-22 05:15:58",
-      "sentiment": "正面",
-      "sentiment_score": 0.98,
-      "summary": "周杰倫新專輯《太陽之子》數位發行4天狂賣264萬張，其MV致敬名畫並在全球多地巨幕播送，更吸引好萊塢名導溫子仁留言讚譽「史詩級」，意外曝光兩人交情。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2483,
-      "title": "周杰倫被介紹為「Chinese singer」國台辦：真摯情感流露 | 台灣即時 | 台灣 | 世界新聞網",
-      "link": "https://www.worldjournal.com/wj/story/121475/9829895",
-      "source": "Tavily (www.worldjournal.com)",
-      "snippet": "周杰倫近日於上海出席活動，被主持人以英文介紹為「famous Chinese singer」，隨後又在個人Instagram轉發相關片段，引發兩岸議論。大陸國台辦發言人張晗21日表示，台灣藝人認同中國歌手身分，是「堂堂正正做中國人」的真摯情感流露。\n\n港媒報導，周杰倫近日以特別嘉賓身份出席「2026上海勞力士大師賽」，主持人在現場用英文介紹其為「famous Chinese singer」，他點頭致意。賽後，周杰倫將包含這段介紹原聲的影片轉發至個人Instagram。\n\n陸媒詢問，周杰倫參加活動時主持人稱其「中國歌手」，周杰倫本人轉發貼文，引發兩岸議論，並指外界認為他多年創作大量中國風音樂，成為兩岸年輕人共同的文化記憶，而島內綠營卻對此冷言冷語、批評炒作。\n\n張晗回應，「兩岸同胞都是中國人，台灣藝人認同中國歌手身分，是堂堂正正做中國人的真摯情感流露。台獨勢力見不得兩岸同胞情感相通、走親走近，對藝人扣帽子、打棍子，妄圖用政治手段限制台灣同胞正當表達，用心險惡、不得人心。」\n\n周杰倫日前出席2026上海勞力士大師賽，請現場觀眾保持安靜，不要干擾到比賽。圖／... [...] ### 蔡康永現身沈伯洋造勢場 國台辦：任何人都不能當兩面人\n\n周杰倫看網球遭狂喊回頭比「噓」 幫妻剝蟹閃瞎店員\n\n### 周杰倫看網球遭狂喊回頭比「噓」 幫妻剝蟹閃瞎店員\n\n## 熱門新聞\n\n曾馨瑩（右）陪郭台銘出席重要場合。（取材自Instagram）\n\n### 郭台銘、曾馨瑩爆夫妻各過各 球友痴纏2年 夫妻心結未解\n\n中華稀有姓氏文化交流協會今在台中成立。圖／台中市政府提供\n\n### 台灣稀有姓氏揭密 「益」、「第五」…他最常被問令狐沖\n\n大陸國台辦發言人張晗21日主持記者會。記者陳湘瑾／攝影\n\n### 陸生PO文「小小賴清德拿下」遭移民署驅逐 國台辦回應了\n\n立法院前院長王金平。(本報系資料照)\n\n### 蔣萬安民調被沈伯洋反超17% 王金平：我想像不到\n\n對於沈伯洋父親企業遭中國制裁，陸委會副主委梁文傑15日認為兩邊觀念完全不一樣，沈父公司是在幫中國賺錢。（記者廖士鋒／攝影）\n\n### 沈伯洋父親公司再被北京制裁 梁文傑：沈父是幫中國廠商賺錢 [...] Ads Rate\n\n##### 訂報\n\nSubscription\n\n##### 電郵報\n\neNews\n\n##### 投稿\n\nContributions\n\n##### 徵才\n\nJoin Us\n\n##### 新聞倫理與新聞更正政策\n\nEthics & Corrections Policy\n\n##### 隱私權與條款\n\nPrivacy Policy",
-      "published_at": "Wed, 21 Oct 2026 17:44:00 GMT",
-      "collected_at": "2026-10-22 05:15:58",
-      "sentiment": "中性",
-      "sentiment_score": 0.55,
-      "summary": "周杰倫因在上海活動被介紹為「Chinese singer」並轉發影片，引發兩岸對其身份認同的政治爭議，國台辦對此表示肯定，台灣綠營則持批評態度。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2484,
-      "title": "周杰倫轉發「中國歌手」介紹…身分引爭議　中國國台辦回應：真摯情感流露 - 鏡報",
-      "link": "https://www.mirrordaily.news/story/92968",
-      "source": "Tavily (www.mirrordaily.news)",
-      "snippet": "mirror-daily-logo\n\n2026/10/21 15:40:00最後更新 2026/10/21 15:48:12\n\n記者：\n\n潘佳琪\n\n周杰倫國台辦中國歌手張晗\n\n歌手周杰倫近日出席中國上海舉辦的網球活動，因現場主持人的一段英文介紹，引發兩岸網友對藝人身分認同的討論。中國國務院台灣事務辦公室（國台辦）今（21日）在例行記者會上回應相關爭議，對部分網路批評表達不滿。\n\n周杰倫曾轉發圖／翻攝自中國新聞網微博_2026-10-21.png\n\n周杰倫曾轉發被介紹為「中國歌手」的貼文。圖／翻攝自中國新聞網微博\n\n## 周杰倫出席上海網球活動　英文介紹引發討論\n\n周杰倫近日出席2026年上海勞力士大師賽相關活動，現場主持人以英文介紹他為「famous Chinese singer Jay Chou」，意即「知名中國歌手周杰倫」。周杰倫在台上點頭致意，相關畫面隨後在社群平台流傳。 [...] Logo\n\nAI 搜尋AI 智慧搜尋搜尋\n\nadbuy\n\n我要爆料我要投書\n\nLINEFacebookInstagramThreadsYouTube\n\n快訊\n\n南港員警斜槓搞線上博弈！勾結業者「收水」海撈20萬　汐止分局偵查佐疑幫查個資遭拘提松機遷建討論進度如何？李慧芝：蔣萬安未出席院會、政院也未收到資料月經遲遲不來「找男友通一下」真有效？全場爆共鳴　醫曝背後真相等了486天！「神奇哈利」關鍵三分打致勝　復出首戰飆雙十激動落淚幸運兒主委Lydia代抽號次諧音「你一定贏」？沈伯洋笑喊：希望沾喜氣台南民宅深夜氣爆1傷！老屋屋頂炸出大洞滿地碎片　40歲男30%二度燒燙傷急送醫張凌赫遭否准來台！發聲30字時機敏感　擔任讀信人喊話：千里遙遙、令人斷腸小時候恨死爸媽管太多！長大才懂「根本先知」　3萬人狂點頭\n\n周杰倫轉發「中國歌手」介紹…身分引爭議　中國國台辦回應：真摯情感流露\n\n周杰倫被介紹為中國歌手。圖／翻攝自遊戲祖師爺、央視新聞微博\n\n ｜即時 ｜娛樂\n\n# 周杰倫轉發「中國歌手」介紹…身分引爭議　中國國台辦回應：真摯情感流露\n\nmirror-daily-logo [...] 訂閱\n\n### 延伸閱讀\n\n張凌赫來台見面會申請遭拒！陸委會揭3大原因：曾多次發文貶損台灣地位時事\n\n張凌赫來台見面會申請遭拒！陸委會揭3大原因：曾多次發文貶損台灣地位澎恰恰喊「中國台灣」惹議！親自澄清真相　此生僅求「不欠人」再度致歉時事\n\n澎恰恰喊「中國台灣」惹議！親自澄清真相　此生僅求「不欠人」再度致歉薔琵颱風「攪局」金鐘61典禮怎麼辦？　三立電視宣布「應變措施」時事\n\n薔琵颱風「攪局」金鐘61典禮怎麼辦？　三立電視宣布「應變措施」澎湖兩男自稱Uber發票中大獎！財政部底冊竟查無紀錄　警疑犯罪集團幕後指點軍人涉案社會\n\n澎湖兩男自稱Uber發票中大獎！財政部底冊竟查無紀錄　警疑犯罪集團幕後指點軍人涉案林隆璇忍了20年全說了！曝〈你那麼愛她〉是渣男歌曲...網笑：真的要巴他6下娛樂\n\n林隆璇忍了20年全說了！曝〈你那麼愛她〉是渣男歌曲...網笑：真的要巴他6下60歲葉子楣「藏30多年祕密戀情」曝光！對象竟是女星亡夫　私密往事全說了娛樂\n\n60歲葉子楣「藏30多年祕密戀情」曝光！對象竟是女星亡夫　私密往事全說了\n\nGoogle 設為偏好來源\n\nFacebook 分享",
-      "published_at": "Wed, 21 Oct 2026 07:40:00 GMT",
-      "collected_at": "2026-10-22 05:15:58",
-      "sentiment": "負面",
-      "sentiment_score": 0.4,
-      "summary": "周杰倫在上海活動中被介紹為「中國歌手」並點頭致意，引發兩岸網友對其身分認同的爭議，中國國台辦對此回應稱是「真摯情感流露」。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2485,
-      "title": "周杰倫轉發「中國歌手」影片引議　陸國台辦：真摯情感流露",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%BD%89%E7%99%BC-%E4%B8%AD%E5%9C%8B%E6%AD%8C%E6%89%8B-%E5%BD%B1%E7%89%87%E5%BC%95%E8%AD%B0-%E9%99%B8%E5%9C%8B%E5%8F%B0%E8%BE%A6-%E7%9C%9F%E6%91%AF%E6%83%85%E6%84%9F%E6%B5%81%E9%9C%B2-031015131.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "廣告\n\n廣告\n\n發言人張晗答問表示，「兩岸同胞都是中國人，台灣藝人認同中國歌手身份，是堂堂正正做中國人的真摯情感流露。 『台獨』勢力見不得兩岸同胞情感相通、走親走近，對藝人扣帽子、打棍子，妄圖用政治手段限制台灣同胞正當表達，用心險惡、不得人心」。\n\n據悉，周杰倫日前現身上海旗忠網球中心，以特別嘉賓身份參加活動，主持人用英文介紹他為「famous Chinese singer（知名的中國歌手）」，周杰倫當場微微點頭，隨後將該段影片轉發到社交平台並點讚，引發兩岸網路熱議。\n\n更多中天新聞網報導  \n法國暴動「二手平台驚見精品拋售」！專家：4關鍵辨贓物  \n法國暴動燒出「歐洲新病夫」危機 帥化民、孫大千揭馬克宏施政潰敗與TikTok動員驚人真相  \n法國暴亂遭洗劫！華裔闆娘頂瘀傷淚控：7年心血半小時化廢墟\n\n登入後即可張貼留言。\n\n## 其他人也在看\n\n### 44歲相聲演員「諷習近平」險遭斷手斷腳！5嫌起訴求重刑　黃逸豪首發聲：老子解鎖了 [...] 強烈颱風薔琵持續維持巔峰狀態朝西北西移動，氣象粉專指出，預估明（22）日抵達副熱帶高壓弱點後將減速北轉，最可能通過日本與那國島至石垣島之間。不過，若北轉時間較晚或幅度較小，路徑將更靠近台灣，恐在週五至週六對北台灣帶來強風及大雨，甚至強降雨，民眾務必提前做好防颱準備，嚴防劇烈天氣影響。\n\n三立新聞網 setn.com ・ 38 分鐘前 ・ 發表留言\n\n### 40歲就糖尿病、脂肪肝！名醫改掉「1吃飯壞習慣」：健檢紅字沒了\n\n婦產科醫師王樂明分享自身經歷，因工作忙碌常以5分鐘快速解決便當，且體重不斷飆升，在40歲出頭時就確診糖尿病、脂肪肝與高血脂，空腹血糖甚至飆破300mg/dL。直到入闈期間受心臟科醫師好友啟發，體悟到放慢進食速度能增加飽足感、藥比飯貴的觀念，加上規律用藥與運動，成功找回健康，擺脫紅字危機。\n\n三立新聞網 setn.com ・ 17 分鐘前 ・ 發表留言\n\n### 女星懷孕9個月「老公驚爆涉性侵」！為兒忍1年半仍離婚　前夫下場曝光 [...] 打開App\n\n廣告\n\n# 周杰倫轉發「中國歌手」影片引議　陸國台辦：真摯情感流露\n\n李宗芳\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n天王周杰倫近日出席上海活動時被稱「中國歌手」，他隨後在社群平台轉發並點讚相關影片，引發熱議。對此，大陸國台辦表示，台灣藝人認同「中國歌手」身分，是「堂堂正正做中國人」的真摯情感流露，同時批評「台獨」勢力對藝人扣帽子、打棍子，用心險惡。\n\n天王周杰倫近日出席上海活動時被稱「中國歌手」隨後轉發相關影片。 （圖／翻攝微博）\n\n天王周杰倫近日出席上海活動時被稱「中國歌手」隨後轉發相關影片。 （圖／翻攝微博）\n\n## 陸國台辦批綠營對藝人扣帽子：用心險惡\n\n據《新華社》報導，10月21日，大陸國台辦舉行例行記者會。有記者問，近日，周杰倫參加活動時主持人稱其「中國歌手」，周本人在社交平台轉發並點讚相關視頻，受到兩岸網友好評，認為其多年創作大量中國風音樂，成為兩岸年輕人共同的文化記憶，而台灣綠營卻對此冷言冷語、批評炒作。請問對此有何評論？\n\n廣告\n\n廣告",
-      "published_at": "Wed, 21 Oct 2026 02:00:00 GMT",
-      "collected_at": "2026-10-22 05:15:58",
-      "sentiment": "正面",
-      "sentiment_score": 0.65,
-      "summary": "周杰倫因轉發被稱「中國歌手」的影片引發兩岸熱議，中國國台辦對此表示這是「真摯情感流露」，並批評「台獨」勢力。",
-      "category": "爭議",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 219,
-    "report_date": "2026-10-28",
-    "total_articles": 5,
-    "positive_count": 5,
+    "id": 220,
+    "report_date": "2026-10-29",
+    "total_articles": 9,
+    "positive_count": 7,
     "negative_count": 0,
-    "neutral_count": 0,
-    "daily_summary": "周杰倫今日焦點集中在新專輯《太陽之子》發行，包含13首新歌與億元MV。此外，台北大巨蛋演唱會門票將於11月開搶，引發熱烈討論。他轉發被稱「中國歌手」影片，引發身分認同爭議，國台辦稱是真摯情感流露。另有與F✦FOREVER合作、街頭彈琴及家庭動態等新聞。",
+    "neutral_count": 2,
+    "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》已正式發行，收錄多首新歌。他將在大巨蛋開唱，並稱讚蔣萬安市長「很給力」。近期，周杰倫轉發「中國歌手」介紹引發爭議，中國國台辦回應為「真摯情感流露」。此外，他與女兒互動溫馨，昆凌也分享其私下樣貌，並熱心糾正庾澄慶社群貼文出糗，展現多元面向。",
     "key_events": [
       "新專輯《太陽之子》發行",
-      "大巨蛋演唱會開搶",
+      "大巨蛋演唱會將開賣",
       "「中國歌手」身分引議"
     ],
-    "created_at": "2026-10-28 06:11:56"
+    "created_at": "2026-10-29 06:21:34"
   },
   "recentReports": [
+    {
+      "id": 220,
+      "report_date": "2026-10-29",
+      "total_articles": 9,
+      "positive_count": 7,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》已正式發行，收錄多首新歌。他將在大巨蛋開唱，並稱讚蔣萬安市長「很給力」。近期，周杰倫轉發「中國歌手」介紹引發爭議，中國國台辦回應為「真摯情感流露」。此外，他與女兒互動溫馨，昆凌也分享其私下樣貌，並熱心糾正庾澄慶社群貼文出糗，展現多元面向。",
+      "key_events": [
+        "新專輯《太陽之子》發行",
+        "大巨蛋演唱會將開賣",
+        "「中國歌手」身分引議"
+      ],
+      "created_at": "2026-10-29 06:21:34"
+    },
     {
       "id": 219,
       "report_date": "2026-10-28",
@@ -657,21 +672,6 @@
         "一家認養長頸鹿"
       ],
       "created_at": "2026-10-23 05:15:43"
-    },
-    {
-      "id": 213,
-      "report_date": "2026-10-22",
-      "total_articles": 5,
-      "positive_count": 3,
-      "negative_count": 1,
-      "neutral_count": 1,
-      "daily_summary": "周杰倫今日新聞焦點多元。他因轉發被介紹為「中國歌手」的影片，引發兩岸網友熱議，中國國台辦則回應此為「真摯情感流露」。在音樂方面，新歌〈太陽之子〉的細節被揭露，而粉絲們期待已久的新專輯則因演唱會行程可能延宕。周杰倫的「嘉年華」世界巡迴演唱會持續進行，近期在墨爾本街頭彈琴卻鮮少被認出，也驚喜現身BIGBANG演唱會與GD同框。私人生活上，他與妻子昆凌溫馨認養長頸鹿夫妻，展現暖心一面。此外，他獲選為vivo影像大使，更有AI晶片以他命名，顯示其跨界影響力。",
-      "key_events": [
-        "被稱「中國歌手」引議",
-        "新歌〈太陽之子〉曝光",
-        "與昆凌認養長頸鹿"
-      ],
-      "created_at": "2026-10-22 05:16:40"
     }
   ]
 }
