@@ -6,21 +6,13 @@
     "neutral": 0
   },
   "allTimeStats": {
-    "total": 2526,
-    "positive": 908,
+    "total": 2531,
+    "positive": 913,
     "negative": 85,
     "neutral": 1533,
     "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-10-16",
-      "total": 7,
-      "positive": 7,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.86
-    },
     {
       "date": "2026-10-17",
       "total": 9,
@@ -132,9 +124,87 @@
       "negative": 0,
       "neutral": 0,
       "avg_score": 0.92
+    },
+    {
+      "date": "2026-10-31",
+      "total": 5,
+      "positive": 5,
+      "negative": 0,
+      "neutral": 0,
+      "avg_score": 0.84
     }
   ],
   "recentArticles": [
+    {
+      "id": 2527,
+      "title": "曾與周杰倫合作電影！台灣製片人跨界「AI影視」進軍國際",
+      "link": "https://stars.udn.com/star/story/10090/9848777",
+      "source": "Tavily (stars.udn.com)",
+      "snippet": "曾參與周杰倫電影「天台」、「叱咤風雲」的製片人江秉承（David Johnson），近年積極投入AI影視領域。由他主導創立的「LA AI Film Summit」與「特拉努",
+      "published_at": "Sat, 31 Oct 2026 05:00:00 GMT",
+      "collected_at": "2026-10-31 06:11:18",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "曾與周杰倫合作電影的製片人江秉承，近年積極投入AI影視領域並進軍國際。",
+      "category": "影視",
+      "analyzed": 1
+    },
+    {
+      "id": 2528,
+      "title": "Jay Chou Recognised By Aussie Kids For His 1-Second Australian Open Match, Not His Music Career",
+      "link": "https://www.8days.sg/entertainment/asian/jay-chou-australia-kids-do-not-know-him-australian-open-865291",
+      "source": "Tavily (www.8days.sg)",
+      "snippet": "The 47-year-old Mandopop King was amused when a group of young children recognised him from the tennis event, leaving him wondering if they",
+      "published_at": "Sat, 31 Oct 2026 04:00:00 GMT",
+      "collected_at": "2026-10-31 06:11:18",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫因在澳洲網球公開賽的短暫露面，被澳洲孩童認出，而非其音樂成就，讓他感到有趣。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2529,
+      "title": "遠傳雙11年度盛典開跑 抽周杰倫演唱會之旅、iPhone Duo - 寶島 - 中時",
+      "link": "https://www.chinatimes.com/realtimenews/20261031001707-260421",
+      "source": "Tavily (www.chinatimes.com)",
+      "snippet": "娛樂\n #### 富邦媒全年業績 穩創高\n\n  產業．科技\n #### 北投老爺酒店溫泉季 暖心登場\n #### 麗寶OUTLET週年慶！ 搭台中購物節5倍贈 超狂再抽精品好宅\n\n#### 發表意見\n\n 請勿重覆刊登一樣的文章，或大意內容相同、類似的文章\n 請不要刊登與主題無相關之內容\n 發言涉及攻擊、侮辱、影射或其他有違社會善良風俗、社會正義、國家安全、政府法令之內容，本網站將會直接移除\n 請勿以發文、回文等方式，進行商業廣告、騷擾網友等行為，或是為特定網站、blog宣傳，一經發現，將會限制您的發言權限或者封鎖帳號\n 為避免留言系統變成發洩區和口水版，請勿轉貼新聞性文章、報導或相關連結\n 請勿提供軟體註冊碼等違反智慧財產權之資訊\n 禁止發表涉及他人隱私、含有個人對公眾人物之私評，且未經證實、未註明消息來源的網路八卦、不實謠言等\n 請確認發表或回覆的內容（圖片）未侵害到他人的著作權、商標、專利等權利；若因發表或回覆內容而產生的版權法律責任將由使用者自行承擔，不代表中時新聞網的立場，請遵守相關法律規範\n\n關閉\n\n回到頁首發表意見 [...] 蘋果AI落地大陸時程出爐！攜手阿里巴巴導入千問 11月4日開測\n\n#雙11 #抽獎 #iPhone #iPhone Duo #vivo\n\n【限時優惠】 訂閱中時新聞網享無廣告閱讀，前3個月每月$49\n\n#### 也許您會感興趣\n\n#### 推薦閱讀\n\n #### 好市多雙11優惠連7天！逾500項商品下殺 黑鑽會員多享1次折扣\n\n  生活\n #### 地方媽媽暴動！猛男遊行、戰鬥陀螺賽、帕拉斯開唱 萬聖節拚人氣\n\n  生活\n #### 蘋果AI登陸大陸！阿里巴巴宣布合作 Siri、寫作工具都能用千問\n\n  兩岸\n #### 嘉義富商遭擄贖金買名錶鑽石 執行署「雙11」舉辦聯合拍賣會\n\n  社會\n #### 160萬人都在等！交通零違規抽獎公布 376人超爽\n\n  生活\n #### 熱們股－瑞儀 題材加持逆勢走強\n\n  證券．權證\n #### 《數雲端》momo雙11購物節11月1日開跑 七大寵粉優惠\n\n  財經\n #### 不辦尾牙改聚餐或抽獎？員工一面倒選它 全場讚翻\n\n  生活\n #### 坂本龍一回顧展明登場！搶先開箱5大必看作品、3處拍照亮點及預約攻略 [...] # 遠傳雙11年度盛典開跑 抽周杰倫演唱會之旅、iPhone Duo\n\n中時\n\n陳大任\n\n以行動力挺\n\n Facebook\n Line\n Threads\n 複製連結\n\n雙11期間於遠傳網路門市申辦指定方案抽最新iPhone Duo。（圖／遠傳）\n\n雙11期間於遠傳網路門市申辦指定方案抽最新iPhone Duo。（圖／遠傳）\n\n Facebook\n Line\n Threads\n 複製連結\n\n字級設定：小中大特\n\n雙11購物旺季即將到來，遠傳搭上此一年度商機，從實體通路至網路門市推出「雙11幣倍有感回饋」活動，申辦指定方案除了加贈遠傳幣，再抽最新iPhone Duo，若購買指定手機還有機會抽到「周杰倫新加坡演唱會雙人之旅」。\n\n遠傳表示，11月申辦指定5G 599元以上資費，最高可獲得1萬3500遠傳幣，再享每月8GB加碼流量及雙11限定推出的111GB上網流量包，11月11日前申辦限時加碼1111遠傳幣；申辦指定4G或5G方案，還可抽最新iPhone Duo。",
+      "published_at": "Sat, 31 Oct 2026 03:50:45 GMT",
+      "collected_at": "2026-10-31 06:11:18",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "遠傳電信在雙11年度盛典活動中，推出申辦指定方案即有機會抽中周杰倫新加坡演唱會雙人之旅的優惠。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 2530,
+      "title": "來這買vivo X500、V80　周杰倫限定好禮、新加坡演唱會一次擁有",
+      "link": "https://www.setn.com/news/1930968",
+      "source": "Tavily (www.setn.com)",
+      "snippet": "遠傳攜手vivo打造最強追星盛宴，購買X500、X500 Pro Max 及V80 搭配指定方案，最低0 元起即可入手。購買vivo 新機並完成登錄，即可獲得遠傳獨家",
+      "published_at": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "collected_at": "2026-10-31 06:11:18",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "遠傳電信與vivo合作推出手機促銷活動，購買指定機型可獲得周杰倫限定好禮及新加坡演唱會門票抽獎機會。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 2531,
+      "title": "周杰倫預告新歌公開求婚影片 笑曝簽售會：辦網球場好像不錯｜ @chinatimesent",
+      "link": "https://youtu.be/jBSBXa4a1ws?si=3BtItqJkRs_GxWKV&ctrack=mo_main_tube_p02",
+      "source": "Tavily (youtu.be)",
+      "snippet": "金曲歌王周杰倫睽違三年多，終於再發行最新專輯「太陽之子」並在專輯首映記者會上，一次公開兩首新歌ＭＶ，而他也久違開放現場媒體聯訪，分享發布新歌",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-10-31 06:11:18",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫睽違三年多發行新專輯「太陽之子」，並在記者會上公開兩首新歌MV。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2522,
       "title": "周杰伦新专辑",
@@ -484,94 +554,39 @@
       "summary": "台南車站公共鋼琴有民眾四手聯彈周杰倫的歌曲《楓》廣受好評，展現周杰倫音樂的影響力與他精湛的琴藝。",
       "category": "生活",
       "analyzed": 1
-    },
-    {
-      "id": 2500,
-      "title": "周杰倫讚蔣萬安「給力」！本人聽聞秒回5字",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AE%9A%E8%94%A3%E8%90%AC%E5%AE%89-%E7%B5%A6%E5%8A%9B-%E6%9C%AC%E4%BA%BA%E8%81%BD%E8%81%9E%E7%A7%92%E5%9B%9E5%E5%AD%97-021810652.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "[NOWNEWS今日新聞]天王周杰倫日前在台北大巨蛋演唱會上，公開稱讚台北市長蔣萬安「很給力」，相關影片近日再度被網友翻出，引發討論。",
-      "published_at": "Mon, 26 Oct 2026 02:00:00 GMT",
-      "collected_at": "2026-10-26 05:11:38",
-      "sentiment": "正面",
-      "sentiment_score": 0.8,
-      "summary": "周杰倫在大巨蛋演唱會上公開稱讚台北市長蔣萬安「很給力」，此影片近日被網友翻出並引發討論。",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2501,
-      "title": "周杰倫讚「這市長很給力」影片被翻出 蔣萬安：唉唷不錯喔",
-      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E8%AE%9A-%E9%80%99%E5%B8%82%E9%95%B7%E5%BE%88%E7%B5%A6%E5%8A%9B-%E5%BD%B1%E7%89%87%E8%A2%AB%E7%BF%BB%E5%87%BA-%E8%94%A3%E8%90%AC%E5%AE%89-%E5%94%89%E5%94%B7%E4%B8%8D%E9%8C%AF%E5%96%94-030700567.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "台北市長選戰激烈，過去歌手周杰倫在大巨蛋開唱時稱讚台北市長蔣萬安的影片，如今也被翻出。對此，蔣萬安今（26日）以周杰倫的口頭禪幽默回應。",
-      "published_at": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "collected_at": "2026-10-26 05:11:38",
-      "sentiment": "正面",
-      "sentiment_score": 0.8,
-      "summary": "周杰倫過去在大巨蛋開唱時稱讚台北市長蔣萬安的影片被翻出，蔣萬安也幽默回應。",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2502,
-      "title": "昆凌練波 周杰倫做跟得老公",
-      "link": "https://orientaldaily.on.cc/content/%E5%A8%9B%E6%A8%82/odn-20261026-1026_00282_042/%E6%98%86%E5%87%8C%E7%B7%B4%E6%B3%A2-%E5%91%A8%E6%9D%B0%E5%80%AB%E5%81%9A%E8%B7%9F%E5%BE%97%E8%80%81%E5%85%AC",
-      "source": "Tavily (orientaldaily.on.cc)",
-      "snippet": "台灣天王周杰倫與太太昆凌向來熱愛打網球，早前齊現身上海觀看網球大師賽成為焦點。近日昆凌在社交網晒運動片，見她身穿白色網球裙，大騷美腿，",
-      "published_at": "Sun, 25 Oct 2026 23:00:00 GMT",
-      "collected_at": "2026-10-26 05:11:38",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫與昆凌一同現身網球場，展現兩人對網球的熱愛與甜蜜的夫妻生活。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2503,
-      "title": "Mainland spokesperson slams DPP authorities' restriction against actor Zhang Linghe, supports Jay Chou's identification as Chinese singer - Global Times",
-      "link": "https://www.globaltimes.cn/page/202610/1372701.shtml",
-      "source": "Tavily (www.globaltimes.cn)",
-      "snippet": "Chou, one of the best-known figures in Chinese-language pop music, has created numerous songs incorporating traditional Chinese musical and cultural elements over the years, making his music part of a shared cultural memory for young people on both sides of the Straits. [...] Taiwan residents made more than 2.49 million trips to the Chinese mainland in the first eight months of ...\n\n[](\n\nJay Chou is a ‘Chinese singer’ – this unnerves ‘Taiwan independence’ separatist forces\n\nThat Jay Chou is a “Chinese singer” has unnerved “Taiwan independence” separatist forces. In international contexts, “Chinese singer” ... [...] At a regular press conference, Zhang Han, the spokesperson, said exchanges involving mainland performing artists are welcomed and anticipated by people on both sides of the Taiwan Straits and could help deepen mutual understanding.",
-      "published_at": "Wed, 21 Oct 2026 06:00:00 GMT",
-      "collected_at": "2026-10-26 05:11:38",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "大陸發言人支持將周杰倫定位為「中國歌手」，強調其音樂融合中華文化元素，是兩岸共同文化記憶，此舉令「台獨」勢力不安。",
-      "category": "爭議",
-      "analyzed": 1
-    },
-    {
-      "id": 2494,
-      "title": "Children Of The Sun (太陽之子) by Jay Chou - Sales & Streaming Stats | ChartMasters",
-      "link": "https://chartmasters.org/album/jay-chou/children-of-the-sun",
-      "source": "Tavily (chartmasters.org)",
-      "snippet": "Jay Chou's Bedtime Stories (周杰倫的床邊故事)\n\n2016\n\n601.0k EAS  Capricorn (魔杰座)\n\nCapricorn (魔杰座)\n\n2008\n\n598.0k EAS\n\n## Similar Albums\n\nThe closest pop albums by equivalent album sales, ranked just above and below Children Of The Sun (太陽之子).\n\nWet\n\nWet\n\nBarbra Streisand\n\n5.5m EAS  When The Sun Goes Down\n\nWhen The Sun Goes Down\n\nSelena Gomez & The Scene\n\n5.5m EAS  Beautiful Trauma\n\nBeautiful Trauma\n\n5.4m EAS  Victory\n\nThe Jacksons\n\n5.4m EAS  Renaissance\n\n5.4m EAS  How I'm Feeling\n\nHow I'm Feeling [...] Vanguard Elite\n\nTop 10 all-time in its language\n\nAlbum of the Year\n\nNumber 1 best-selling album of its release year\n\nGlobal Smash\n\n750K+ pure sales in at least 4 continents\n\nMx5\n\n1M+ equivalent sales in each of the five CSPC avenues\n\n   Legendary Achievements  0/7  \n\nCSPC Obsidian\n\n50M+ equivalent album sales\n\nMasterpiece\n\n200K+ pure sales pace per year\n\nLandmark Legend\n\nNumber 1 all-time in its genre\n\nVanguard Legend\n\nNumber 1 all-time in its language\n\nAlbum of the Decade [...] | Date | Type | Milestone |\n --- \n| 2026-10-06 | CSPC | 5,000,000 |\n\n## More by Jay Chou\n\nThe rest of Jay Chou's discography, ranked by equivalent album sales.\n\nGreatest Works Of Art (最偉大的作品)\n\nGreatest Works Of Art (最偉大的作品)\n\n2022\n\n10.9m EAS  November's Chopin (11月的蕭邦)\n\nNovember's Chopin (11月的蕭邦)\n\n2005\n\n998.0k EAS  On The Run! (我很忙)\n\nOn The Run! (我很忙)\n\n2008\n\n780.0k EAS  Common Jasmin Orange (七里香)\n\nCommon Jasmin Orange (七里香)\n\n2004\n\n692.0k EAS  Jay Chou's Bedtime Stories (周杰倫的床邊故事)",
-      "published_at": "Mon, 19 Oct 2026 06:00:00 GMT",
-      "collected_at": "2026-10-25 05:09:53",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "這篇資訊詳細列出了周杰倫專輯的銷售與串流數據，凸顯了其作品的巨大商業成功和持續的市場影響力。",
-      "category": "其他",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 221,
-    "report_date": "2026-10-30",
+    "id": 222,
+    "report_date": "2026-10-31",
     "total_articles": 5,
     "positive_count": 5,
     "negative_count": 0,
     "neutral_count": 0,
-    "daily_summary": "周杰倫近日話題不斷，焦點集中於他時隔四年推出的新專輯《太陽之子》，不僅收錄為女兒創作的歌曲，MV更耗資億元致敬多幅名畫，引發熱烈討論。演唱會方面，台北大巨蛋場次即將開搶，新加坡場則預告將有機器人與火焰特效，而先前杭州演唱會的「划水」爭議也已獲澄清。此外，周杰倫因轉發被稱為「中國歌手」的影片，引發身分認同的討論，中國國台辦對此回應為「真摯情感流露」。在個人生活方面，他與昆凌的家庭互動溫馨，也幽默糾正好友庾澄慶的社群發文，展現親民一面。同時，F✦FOREVER新專輯也傳出與周杰倫合作後再邀大咖男神的消息。",
+    "daily_summary": "周杰倫近期焦點集中在新專輯《太陽之子》的發行，內含13首新歌，其中一首為小女兒創作，MV耗資億元並致敬30幅名畫，引發廣泛討論。演唱會方面，2024年台北大巨蛋開唱資訊與新加坡場的科技特效備受期待，杭州演唱會「划水」爭議也出現逆轉。在個人生活上，他與庾澄慶的幽默互動、澳洲小朋友認出他網球技能而非音樂，以及他稱讚蔣萬安「給力」等都成為話題。此外，周杰倫轉發「中國歌手」介紹引發身份爭議，中國國台辦回應稱是「真摯情感流露」。整體而言，周杰倫在音樂作品、演唱會規劃及公眾互動上都保持高度關注。",
     "key_events": [
-      "新專輯《太陽之子》發行",
-      "大巨蛋演唱會將開賣",
-      "「中國歌手」身分引議"
+      "新專輯發行",
+      "大巨蛋演唱會",
+      "身份爭議回應"
     ],
-    "created_at": "2026-10-30 06:19:53"
+    "created_at": "2026-10-31 06:11:39"
   },
   "recentReports": [
+    {
+      "id": 222,
+      "report_date": "2026-10-31",
+      "total_articles": 5,
+      "positive_count": 5,
+      "negative_count": 0,
+      "neutral_count": 0,
+      "daily_summary": "周杰倫近期焦點集中在新專輯《太陽之子》的發行，內含13首新歌，其中一首為小女兒創作，MV耗資億元並致敬30幅名畫，引發廣泛討論。演唱會方面，2024年台北大巨蛋開唱資訊與新加坡場的科技特效備受期待，杭州演唱會「划水」爭議也出現逆轉。在個人生活上，他與庾澄慶的幽默互動、澳洲小朋友認出他網球技能而非音樂，以及他稱讚蔣萬安「給力」等都成為話題。此外，周杰倫轉發「中國歌手」介紹引發身份爭議，中國國台辦回應稱是「真摯情感流露」。整體而言，周杰倫在音樂作品、演唱會規劃及公眾互動上都保持高度關注。",
+      "key_events": [
+        "新專輯發行",
+        "大巨蛋演唱會",
+        "身份爭議回應"
+      ],
+      "created_at": "2026-10-31 06:11:39"
+    },
     {
       "id": 221,
       "report_date": "2026-10-30",
@@ -657,21 +672,6 @@
         "認養長頸鹿夫妻"
       ],
       "created_at": "2026-10-25 05:10:27"
-    },
-    {
-      "id": 215,
-      "report_date": "2026-10-24",
-      "total_articles": 3,
-      "positive_count": 2,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "daily_summary": "周杰倫近期新聞焦點多元，音樂方面，他發行了新專輯《太陽之子》，並陸續推出〈同一種調調〉等多首歌曲MV，更邀歌迷進電影院觀賞首播，專輯細節與命名由來也引發討論。同時，他在墨爾本街頭「零偽裝」彈奏鋼琴，引發路人好奇卻未被認出的趣事，以及演唱會上女兒與劉畊宏的驚喜現身，都成為粉絲熱議話題。然而，周杰倫因轉發被介紹為「中國歌手」的影片，引發兩岸網友爭議，國台辦則回應稱這是「真摯情感流露」。此外，他與昆凌一家認養長頸鹿的暖心舉動也受到讚揚。其他動態包括與林俊傑同框、代言vivo手機，以及有AI晶片以「Jay Chou」命名等。",
-      "key_events": [
-        "新專輯《太陽之子》",
-        "「中國歌手」稱謂引議",
-        "墨爾本街頭彈琴"
-      ],
-      "created_at": "2026-10-24 04:57:13"
     }
   ]
 }
