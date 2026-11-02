@@ -1,26 +1,18 @@
 {
   "todayStats": {
-    "total": 5,
-    "positive": 4,
+    "total": 6,
+    "positive": 2,
     "negative": 0,
-    "neutral": 1
+    "neutral": 4
   },
   "allTimeStats": {
-    "total": 2536,
-    "positive": 917,
+    "total": 2542,
+    "positive": 919,
     "negative": 85,
-    "neutral": 1534,
+    "neutral": 1538,
     "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-10-18",
-      "total": 3,
-      "positive": 3,
-      "negative": 0,
-      "neutral": 0,
-      "avg_score": 0.95
-    },
     {
       "date": "2026-10-19",
       "total": 6,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 1,
       "avg_score": 0.83
+    },
+    {
+      "date": "2026-11-02",
+      "total": 6,
+      "positive": 2,
+      "negative": 0,
+      "neutral": 4,
+      "avg_score": 0.63
     }
   ],
   "recentArticles": [
+    {
+      "id": 2537,
+      "title": "周杰倫",
+      "link": "https://linkedin.com/in/杰倫-周-b95588219",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# 周杰倫\n\nHeadline: 老王\nLocation: Taiwan\nLinkedIn: www.linkedin.com/in/杰倫-周-b95588219 · 0 followers\n\n## Experience\n- 老王 at 自由職業",
+      "published_at": "2026-11-02T06:41:16.924Z",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則資訊顯示一個LinkedIn個人檔案，其網址雖包含「杰倫 周」的名字，但內容實為一位名為「老王」的自由職業者，與知名藝人周杰倫的公開形象不符。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2538,
+      "title": "周杰倫",
+      "link": "https://linkedin.com/in/杰倫-周-5989162b8",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# 周杰倫\n\nHeadline: --\nCurrent role: Sales Advocate\nSeniority: Specialist, Sales\nLocation: Taichung City, Taiwan\nLinkedIn: www.linkedin.com/in/杰倫-周-5989162b8 · 0 followers\n\n## Experience\n- Sales Advocate at 自由職業\n\n## Skills\nsales, advocate, sales advocate",
+      "published_at": "2026-11-02T06:41:16.925Z",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則資訊似乎是關於一位同名為「周杰倫」的銷售倡導者之LinkedIn檔案，而非知名歌手周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2539,
+      "title": "周杰倫",
+      "link": "https://linkedin.com/in/杰倫-周-7096a8186",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# 周杰倫\n\nHeadline: 康佳集团股份有限公司 - 研發工程師\nCurrent role: 研發工程師\nSeniority: Specialist, Engineering and Technical\nLocation: United States\nLinkedIn: www.linkedin.com/in/杰倫-周-7096a8186 · 0 followers\n\n## Experience\n- 研發工程師 at 康佳集团股份有限公司",
+      "published_at": "2026-11-02T06:41:16.925Z",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊描述一位名為「杰倫 周」的研發工程師在康佳集團股份有限公司工作，此人並非知名歌手周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2540,
+      "title": "周杰倫澳洲網球「黑歷史」曝！本人反思：知道我是歌手嗎",
+      "link": "https://tw.news.yahoo.com/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%BE%B3%E6%B4%B2%E7%B6%B2%E7%90%83-%E9%BB%91%E6%AD%B7%E5%8F%B2-%E6%9B%9D-%E6%9C%AC%E4%BA%BA%E5%8F%8D%E6%80%9D-%E7%9F%A5%E9%81%93%E6%88%91%E6%98%AF%E6%AD%8C%E6%89%8B%E5%97%8E-032751338.html",
+      "source": "Tavily (tw.news.yahoo.com)",
+      "snippet": "教師外遇學生家長不只是劇情？一名30多歲女老師因長期與丈夫分隔兩地，平時大約3週才見面一次，沒想到她最近照顧班上的單親學生將近1年後，竟與年薪逾350萬元的學生父親越走越近，甚至還被對方表白、邀她當孩子的新媽媽，還承諾婚後可當全職主婦，讓她陷入是否離婚的掙扎。PO文曝光後隨即掀起網友兩派論戰：「這根本就是出軌了吧？」\n\n鏡報 ・ 1 小時前 ・ 發表留言\n\n### 運勢大洗牌！12生肖開運秘技曝光  屬虎有望被看見\n\n運勢大洗牌！12生肖開運秘技曝光 屬虎有望被看見\n\nEBC東森新聞 ・ 1 小時前 ・ 發表留言\n\n### 把王金平「硬生生拽下台？」尷尬片流出…柯志恩回應了\n\n高雄義消日前舉辦年終感恩餐會，前立法院長王金平與市長陳其邁及綠營人士同台高歌，台下的國民黨高雄市長候選人柯志恩卻上前將王金平拉下台，引發網友熱議與批評。對此，柯志恩今（1）日嚴正澄清絕無此事，強調兩人互動密切且王院長對她照顧有加，呼籲外界切勿見縫插針、製造無謂的政治風波。\n\n三立新聞網 setn.com ・ 2 小時前 ・ 15則留言\n\n### 最瘋董事長！賈永婕夫婦《歌劇魅影》搬上101手扶梯　全網笑翻 [...] 而有趣的是，周杰倫曾於2026年1月挑戰澳網的「一分大滿貫」，當時他對上塞爾維亞業餘高手菲利普·約維奇（Petar Jovic），隨即便因對方的強力發球呆站原地直接淘汰，這個「黑歷史」也引來運動員好友林書豪在留言區下調侃他：「誰看到你的Australian Open表現會想跟你拍照」，笑翻許多網友並跟著留言「拉黑」、「杰倫哥可可愛愛，他壞壞」、「哥的多重角色，太神啦！」、「哥是跨界天王」、「網球手你很驕傲哦，正職你還記得嗎」。\n\n原文出處：天王周杰倫澳洲打球遭孩童問「1件事」！過往「黑歷史」慘被林書豪起底\n\n更多民視新聞報導  \n黃鐙輝金鐘台上脖子驚見凸起？粉絲私訊喊就醫  \n被問台北市長選戰！胡瓜爆出「驚人1句」震撼表態了　下秒突點名「這人」：他很聰明  \n美麗妄娜消失5年重回YT！「1大膽舉動」告別過去的自己\n\n登入後即可張貼留言。\n\n## 其他人也在看\n\n### 已婚女師照顧學生…竟遭「年薪350萬單親爸」告白：希望妳當孩子的媽！她猶豫「該離婚嗎」 [...] 中時新聞網 ・ 21 小時前 ・ 32則留言\n\n### 美股崩跌，台股明天剉咧等？不敗教主點名15檔抗跌股：像小強一樣活下去\n\n英特爾（Intel）股價上周五（30日）重挫28.58%，創下自1970年代以來最慘烈的單日跌幅，拖累美股四大指數全面走弱，費城半導體指數更狂瀉829點、跌幅達7.2%，台股周一（2日）開盤恐面臨新一波壓力。對此，財經專家、不敗教主陳重銘在臉書發文表示，砸了這麼多的錢，究竟何時能夠轉化為收入、利潤和現金流，成為分析師眼中的疑問。​英特爾股價一天重挫30%，......\n\n風傳媒 ・ 1 小時前 ・ 6則留言\n\n### 陳詩媛與雙胞胎姊姊長太像！王齊麟鬧烏龍認錯大姨子還搭肩\n\n【緯來新聞網】啦啦隊成員陳詩雅、陳詩媛姊妹檔長太像，竟然連陳詩媛老公王齊麟也經常因分不清姊妹倆而鬧出\n\n緯來新聞網 ・ 3 小時前 ・ 發表留言\n\n### 赴日獨旅1個月突失聯！桃園造型師下落不明　同事急尋：最新進度曝光\n\n[FTNN新聞網]記者林欣愉／綜合報導桃園一名髮型造型師小V日前獨自前往日本旅遊，原定停留1個月，沒想到10月26日突然失去聯繫，讓同事相當焦急，發文尋人後，...",
+      "published_at": "Fri, 30 Oct 2026 06:00:00 GMT",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "周杰倫過去在澳洲網球賽中的「黑歷史」被提及，引發好友林書豪的幽默調侃及網友們的正面、可愛回應，展現其親和力與多重身份。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2541,
+      "title": "vivo X500 Series and X Fold6 Launch in Taiwan with Jay Chou as Brand Ambassador - Mashdigi Global",
+      "link": "https://mashdigi.com/intl/en/vivo-x500-series-taiwan-launch-price-specs",
+      "source": "Tavily (mashdigi.com)",
+      "snippet": "Following its initial debut in the Chinese market and the subsequent reveal of its international lineup, vivo today (10/30) officially brought its annual imaging flagship vivo X500 series (including the X500, X500 Pro, and the top-spec X500 Pro Max), as well as the large-format foldable flagship vivo X Fold6, to the Taiwan market. Mandopop King Jay Chou serves as the brand imaging ambassador, championing the theme “Zeiss Cinematic Feel: Creativity Without Borders” and the exclusive “Sunny Day” [...] Core Highlight 1: vivo launches the X500 series with Jay Chou; the top-tier X500 Pro Max features the Dimensity 9600 Pro chip and a 200MP Zeiss APO telephoto lens, supporting an external teleconverter to reach a 400mm focal length.\n Core Highlight 2: Imaging technology introduces the Sony LYTIA L910 sensor with LOFIC technology, achieving a 17EV cinema-grade dynamic range, and supports 4K 240fps slow-motion recording along with Jay Chou’s exclusive \"Sunny Day\" filter. [...] Instant Creation Tools: Built-in features include 8K native Live Photos, 4K native cinematic Live, “Spinning Camera” effects, and the exclusive Jay Chou “Sunny Day” filter developed with the brand ambassador, allowing users to output a strong personal cinematic style without needing editing software.\n\n### Craftsmanship and Blue Ocean Battery: 7800mAh in a 7.95mm Ultra-Thin Body",
+      "published_at": "Fri, 30 Oct 2026 07:02:30 GMT",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "vivo X500 Series and X Fold6 Launch in Taiwan with Jay Chou as Brand Ambassador - Mashdigi Global",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2542,
+      "title": "周杰倫推新歌首曝光求婚昆凌細節　包英國古堡請臨記做戲險些告吹",
+      "link": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/60334065/%E5%91%A8%E6%9D%B0%E5%80%AB%E6%8E%A8%E6%96%B0%E6%AD%8C%E9%A6%96%E6%9B%9D%E5%85%89%E6%B1%82%E5%A9%9A%E6%98%86%E5%87%8C%E7%B4%B0%E7%AF%80-%E5%8C%85%E8%8B%B1%E5%9C%8B%E5%8F%A4%E5%A0%A1%E8%AB%8B%E8%87%A8%E8%A8%98%E5%81%9A%E6%88%B2%E9%9A%AA%E4%BA%9B%E5%91%8A%E5%90%B9",
+      "source": "Tavily (www.hk01.com)",
+      "snippet": "# 周杰倫推新歌首曝光求婚昆凌細節　包英國古堡請臨記做戲險些告吹\n\n撰文：中天新聞網\n\n出版：更新：\n\n在Google 追蹤《香港01》\n\n# 周杰倫推新歌首曝光求婚昆凌細節　包英國古堡請臨記做戲險些告吹\n\n撰文：中天新聞網\n\n出版：更新：\n\n在Google 追蹤《香港01》\n\n天王周杰倫3月24日在台北松仁威秀TITAN廳舉辦新專同名新歌《太陽之子》MV全球首映暨專輯記者會，活動上他分享這次新歌中，有一首是浪漫幸福的歌曲，更自曝將會公開自己當年真實的求婚影片，引全場驚呼連連，他也首度曝光了求婚昆凌的超甜細節。\n\n周杰倫分享因為之前出了《告白氣球》後，不少人會在婚禮上放這首歌：\n\n> 我就想說要寫一首就是，大家婚禮除了《告白氣球》，還可以有另外一首歌曲，所以就寫了首很幸福的歌曲。\n\n周杰倫與昆凌（IG@jaychou）\n\n## 更多周杰倫的相片：\n\n+19\n\n當歌曲出來後，腦中又冒出好像可以將自己當年私藏的求婚影片公開：「這故事真的是我自己覺得超有趣的！」 [...] 周杰倫興奮分享，當年為了跟昆凌求婚在英國租下了古堡，但其實那古堡原本是完全沒有人住的：「裏面的人全部都是我去找演員演的，連餐廳的裏面的人都是演的。」他還精心安排了完整的情境，沒想到當他跟昆凌說時間差不多要下去吃飯時，昆凌因為舟車勞頓一度不想下樓，讓他心想：「那我這整個戲不都白弄了嗎？古堡都白租了！」超真實心聲笑翻全場。\n\n周杰倫曝新專輯內幕　讚張學友給靈感　全因在香港發生「1奇事」《逃學威龍》遭AI魔改　周杰倫Karina亂入　星爺經理人怒質疑侵權\n\n一旁的主持人阿Ken對於周杰倫願意公開求婚過程感到相當驚訝，周杰倫坦言，以前的他的確對於私生活是不願意透露的：「但到一個年紀我覺得，哎可以跟歌迷朋友一起分享，因為大家都像朋友一樣。」\n\n周杰倫受訪時被問到求婚細節笑說，當初在寫這首新歌時，沒想過會有想把自己求婚畫面放進來的點子：\n\n> 但因為跟這個歌曲真的太搭了，那我就覺得這樣的話，就把之前的求婚影片分享給大家，我覺得這個大家可以期待一下，我覺得很有趣。\n\n延伸閱讀：周杰倫八歲長子現身澳網　神複製父親俊俏樣　六歲曾勇奪網球冠軍\n\n+3 [...] +3\n\n周杰倫澳洲被捕獲走姿僵硬令人憂心　患遺傳病曾要媽媽幫忙穿襪周杰倫田馥甄舊日緋聞遭翻炒？周董曬愛妻反擊竟惹狂熱迷崩潰痛罵前港片艷星顧婕癌症末期「已轉移腹膜」　痛到無法起身都不肯化療台師大女神蘋蘋澎澎操場練跑備戰　震撼晃動畫面瘋傳　網直呼頭暈\n\n延伸閱讀：\n\n張信哲新作遠赴巴黎拍MV　致敬梵谷「靈感強撞周杰倫」\n\n【本文獲「中天新聞網」授權轉載。】\n\n周杰倫\n\n昆凌\n\n台灣藝人動向\n\nHK01 Space Promotion",
+      "published_at": "Wed, 25 Mar 2026 11:45:29 GMT",
+      "collected_at": "2026-11-02 06:41:25",
+      "sentiment": "正面",
+      "sentiment_score": 1,
+      "summary": "周杰倫推新歌首曝光求婚昆凌細節　包英國古堡請臨記做戲險些告吹",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2532,
       "title": "報名葛萊美獎對決周杰倫、蔡依林！葛仲珊夢方大同用新歌對尬 - 娛樂 - 中時",
@@ -470,108 +554,31 @@
       "summary": "周杰倫2024大巨蛋演唱會：嘉賓預測、入場資訊、座位圖一次看",
       "category": "演唱會",
       "analyzed": 1
-    },
-    {
-      "id": 2508,
-      "title": "周杰倫好聽的40首歌Best Songs Of Jay Chou 周杰倫最偉大 ...",
-      "link": "https://www.youtube.com/watch?v=i3v9-W39lrg",
-      "source": "Tavily (www.youtube.com)",
-      "snippet": "https://bit.ly/3EjYG5S ; 0:00:00 告白氣球Love Confession ; 0:03:29 等你下課Waiting For You [Lyrics] ; 0:07:57 說好不哭Won't Cry ; 0:11:43 I Do I Do",
-      "published_at": "2026-10-28T06:11:07.397Z",
-      "collected_at": "2026-10-28 06:11:14",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "此資訊為一個YouTube播放列表，收錄了周杰倫40首精選歌曲，如《告白氣球》和《說好不哭》。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2509,
-      "title": "周杰倫演唱會大巨蛋開唱！11月2日開搶，座位圖、票價一次看",
-      "link": "https://www.elle.com/tw/entertainment/music/g62080041/jay-chou-2024-taipei-dome",
-      "source": "Tavily (www.elle.com)",
-      "snippet": "周杰倫臺北大巨蛋演唱會\n\n杰威爾音樂\n\n2000年出道的周杰倫，驚人的音樂魅力猶如龍捲風席捲樂壇，在這場「嘉年華」音樂盛會裡，不論是周氏情歌、R&B、Hip Hop、古典、中國風、甚至多元融合的樂曲…都將豐富呈現。無怪乎周杰倫在自己的IG上問大家「想聽什麼歌？」立即得到熱情歌迷無數的激動回應。周杰倫「嘉年華」世界巡迴演唱會台北場門票將於10月23日(三)中午12:00 tixCraft拓元售票系統開賣。\n\n## 「周杰倫大巨蛋演唱會」搶票時間一次看！\n\ninstagramView full post on Instagram\n\n演出時間｜2024年12/5 （四） 7:30PM、12/6 （五） 7:30PM、12/7 （六）6:00 PM、12/8 （日） 6:00PM\n\n演出地點｜臺北大巨蛋\n\n售票時間｜2024年10月23日 （三） 中午12:00啟售\n\n票價｜NT$ 6880 / 5880 / 4880 / 3880 / 3280 / 2280 / 1880\n\n售票系統｜拓元售票系統\n\n購票連結請點>>\n\n廣告 - 內文未完請往下捲動 [...] 【明星幕後】周杰倫鐵粉必知的10件事！被音樂耽誤的魔術師？愛珍奶成癡，還擁有專屬國際周杰倫日  \n\" name=\"sailthru.excerpt\">\n\nSkip\n\n# 周杰倫12月大巨蛋演唱會加開！11/2搶票攻略、座位圖、票價一次看\n\nBy Allie Hsieh\n\n＠jaychou//Instagram\n\n周杰倫「嘉年華」世界巡迴演唱會即將於12月5、6、7、8日在臺北大巨蛋隆重登場！這套演唱會已巡迴世界各大城市達75場，除了大中華區之外，足跡更遍及英國、法國、澳洲、泰國、日本…，場場爆滿的佳績證明了演唱會的精彩絕倫！周杰倫演唱會往往有許多驚喜讓粉絲喜出望外，「嘉年華」演唱會在臺北大巨蛋肯定也不例外，進階版的設計，準備顛覆歌迷的想像！華語樂壇天王周杰倫作為第一位登上臺北大巨蛋舉辦專場個人演唱會的歌手，他與演出團隊將呈獻精彩內容給歌迷朋友。\n\n【明星幕後】周杰倫鐵粉必知的10件事！被音樂耽誤的魔術師？愛珍奶成癡，還擁有專屬國際周杰倫日\n\n## 周杰倫大巨蛋演唱會加開！\n\n周杰倫\n\nFacebook [...] 廣告 - 內文未完請往下捲動\n\n## 「周杰倫大巨蛋演唱會」座位圖一覽\n\n周杰倫演唱會\n\n杰威爾音樂提供\n\ninstagramView full post on Instagram\n\n【延伸閱讀】\n\n>>江蕙封麥9年，10月唱進臺北大巨蛋！所有人心中永遠的「二姐」，一代台語天后復出掀起回憶殺\n\n>>盤點5對超恩愛明星夫妻檔！周杰倫為追昆凌飛美國、賈靜雯靠修杰楷打敗心魔⋯霍建華怕搞砸暗戀林心如十年不敢說？\n\n>>你所不知道的周杰倫！從小到大就渴望完整的家庭，他比一般人都珍惜他的老婆孩子。\n\n>>周杰倫曬20年前「清純帥照」登微博熱搜！周董「青澀照」回顧，全是歌迷才懂的回憶殺\n\nWatch Next\n\nVideo poster\n\n廣告 - 內文未完請往下捲動\n\n## 愛聽音樂\n\njannabi 2026 asia tour final  in taipei\n\nJANNABI亞洲巡演最終站！首登北流12月開唱，主唱崔政勳感性告白：「台北真的跟我很合拍！」elle weekend 2026演出陣容",
-      "published_at": "Fri, 06 Sep 2024 12:18:13 GMT",
-      "collected_at": "2026-10-28 06:11:14",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫「嘉年華」世界巡迴演唱會將於12月在臺北大巨蛋舉行，門票於10月23日（加開場為11月2日）開賣，引發歌迷熱烈期待。",
-      "category": "演唱會",
-      "analyzed": 1
-    },
-    {
-      "id": 2510,
-      "title": "F✦FOREVER新專輯來了！去年才合作周杰倫　新歌再邀「超大咖男神」 | 音樂 | 三立新聞網 SETN.COM",
-      "link": "https://www.setn.com/news/1927399",
-      "source": "Tavily (www.setn.com)",
-      "snippet": "「F✦FOREVER恆星之城」演唱會唱響30場萬人指標性場館後，接續展開杭州、北京、廣州、台北、上海5城體育場演出。如今，舞台上的燦爛、相聚的感動，全被收藏為專輯《今夜讓我帶你高飛遠走》，當中封存多首演唱會全新編曲，阿信為了這次的經典組合，在巡演期間同步進入錄音室細細打磨，讓每一位聽者都能透過這張專輯，重溫恆星之城現場的回憶與感動。\n\n更多新聞：\n\n 黃大煒生前百則筆記曝光　控大姊自殘相逼\n 黃大煒生前111則筆記曝光！女友Vicky控大姊自殘相逼　訊息紀錄疑遭刪\n 楊丞琳睽違5年終於報喜　家中迎來新成員\n 楊丞琳睽違5年終於報喜！「家中迎來新成員」驚喜喊：以為不會這麼快\n 張秀卿提告前夫　遭網苦勸親回：早就醒了\n 張秀卿提告前夫王國贊！捲「5億債務風波」遭網苦勸…親回：早就醒了\n 獨／遭失智母控害死爸爸　她爆哭身心崩潰\n 獨家／失智母咆哮「妳害死爸爸」！女星躲房間爆哭　罹憂鬱症身心崩潰\n\nF✦FOREVER\n\n更多\n\nF✦FOREVER唱進大巨蛋　搶先爆重量級嘉賓\n\nF✦FOREVER唱進大巨蛋　搶先爆重量級嘉賓\n\n言承旭唱到一半高調告白！五月阿信害羞了",
-      "published_at": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "collected_at": "2026-10-28 06:11:14",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "F✦FOREVER在成功舉辦多場演唱會後，發行了新專輯《今夜讓我帶你高飛遠走》，其中包含演唱會新編曲，並提及去年曾與周杰倫合作。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2511,
-      "title": "F✦FOREVER新專輯來了！去年才合作周杰倫　新歌再邀「超大咖男神」",
-      "link": "https://tw.news.yahoo.com/f-forever%E6%96%B0%E5%B0%88%E8%BC%AF%E4%BE%86%E4%BA%86-%E5%8E%BB%E5%B9%B4%E6%89%8D%E5%90%88%E4%BD%9C%E5%91%A8%E6%9D%B0%E5%80%AB-%E6%96%B0%E6%AD%8C%E5%86%8D%E9%82%80-%E8%B6%85%E5%A4%A7%E5%92%96%E7%94%B7%E7%A5%9E-105600988.html",
-      "source": "Tavily (tw.news.yahoo.com)",
-      "snippet": "打開App\n\n廣告\n\n# F✦FOREVER新專輯來了！去年才合作周杰倫　新歌再邀「超大咖男神」\n\n記者 徐珮華 台北報導\n\n加入為 Google 偏好來源\n\n（另開新視窗）\n\n言承旭、吳建豪、周渝民與五月天阿信組成限定組合「F✦FOREVER」，近日推出全新數位專輯《今夜讓我帶你高飛遠走》，10首作品全以F✦FOREVER版本錄製，並由阿信擔任製作人。繼組合第一首作品〈恆星不忘〉邀請周杰倫助陣後，新專輯同名主打〈今夜讓我帶你高飛遠走〉也驚喜邀請劉宇寧與4人合唱。\n\n言承旭（左起）、吳建豪、劉宇寧、周渝民、五月天阿信合唱〈今夜讓我帶你高飛遠走〉。（圖／翻攝自網路）\n\n言承旭（左起）、吳建豪、劉宇寧、周渝民、五月天阿信合唱〈今夜讓我帶你高飛遠走〉。（圖／翻攝自網路）\n\n〈今夜讓我帶你高飛遠走〉由蕭秉治作曲，阿信與黃婷共同填詞。劉宇寧一聽到Demo便大讚：「好聽，很適合在演唱會大合唱，又很適合在播放器裡反覆聽。」這首神仙合作曲由言承旭、吳建豪、周渝民、阿信與劉宇寧共同演繹，在同一個音樂宇宙裡，5種極具魅力聲線依序接唱，交織歌曲真摯深厚的情感面，跟著他們的歌聲高飛遠走。\n\n廣告\n\n廣告 [...] 廣告\n\n廣告\n\n另一首〈我只想〉由言承旭、吳建豪、周渝民3人演唱，是專輯中編制特別的作品，獻給所有一路同行的歌迷至誠心意。曲風以迷人的R 由虧轉盈歸屬母公司業主 16 -6 367%;由虧轉盈 淨利(百萬元)每股盈餘(元) 0.72 -0.25 387%;由虧轉盈=========================================================(二)單季 最近一季單季 去年同期 與去年同期 (115年第2季) (114年第2季) 增減%營業收入(百萬元) 390 533 -27%稅前淨利(百萬元) 29 36 -19%歸屬母公司業主 23 10 130% 淨利(百萬元)每股盈餘(元) 1.04 0.46",
-      "published_at": "Fri, 23 Oct 2026 08:00:00 GMT",
-      "collected_at": "2026-10-28 06:11:14",
-      "sentiment": "正面",
-      "sentiment_score": 0.75,
-      "summary": "新聞報導F✦FOREVER推出新專輯，並提及他們曾與周杰倫合作過第一首作品。",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2512,
-      "title": "周杰倫發布新專輯《太陽之子》13首新歌1首為細女創作！耗資億元MV首播致敬30幅名畫",
-      "link": "https://www.orangenews.hk/entnews/VEqPhEh/%E5%91%A8%E6%9D%B0%E5%80%AB%E7%99%BC%E5%B8%83%E6%96%B0%E5%B0%88%E8%BC%AF-%E5%A4%AA%E9%99%BD%E4%B9%8B%E5%AD%90-13%E9%A6%96%E6%96%B0%E6%AD%8C1%E9%A6%96%E7%82%BA%E7%B4%B0%E5%A5%B3%E5%89%B5%E4%BD%9C-%E8%80%97%E8%B3%87%E5%84%84%E5%85%83MV%E9%A6%96%E6%92%AD%E8%87%B4%E6%95%AC30%E5%B9%85%E5%90%8D%E7%95%AB.shtml",
-      "source": "Tavily (www.orangenews.hk)",
-      "snippet": "周杰倫發布新專輯《太陽之子》13首新歌1首為細女創作！耗資億元MV首播致敬30幅名畫. AI播報 ... 【橙訊】台灣天王周杰倫相隔3年8個月後，終於推出第16張專輯",
-      "published_at": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "collected_at": "2026-10-28 06:11:14",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫發布新專輯《太陽之子》，包含13首新歌，其中一首為女兒創作，並推出耗資億元致敬名畫的MV。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2504,
-      "title": "周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！",
-      "link": "https://news.ttv.com.tw/news/11510260000700W",
-      "source": "Tavily (news.ttv.com.tw)",
-      "snippet": "TTV Podcast\n【完整公開】LIVE 「禿子.燕子.漢子」三子合體 蔣萬安競選總部成立\n台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브\n【完整公開】LIVE 「禿子.燕子.漢子」三子合體 蔣萬安競選總部成立\n\n點擊收回\n\n擺脫亞運掉槓陰霾！唐嘉鴻體操世錦賽單槓摘金 創台灣史上第一人\n金鐘61／台視《樂團祭》奪燈光獎！大膽跳色、明暗層次打造專場舞台\n巴西總統大選破天荒延長2小時！魯拉獲51%選票 連任成功\n光復節收假！高鐵超過100班北上疏運 尖峰8班擴增9節自由座\n蔡康永突發文道歉「沒支持台獨」　蔣萬安：不接受反民主威脅\n周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！\n武契奇認輸！遮雨棚掀反貪腐抗爭 塞國國會大選「學生名單黨」獲勝\n蔡康永聲明時間點敏感！沈：感覺被決定 藝文圈稱「被周子瑜了」\n盧秀燕挺「兄弟總冠軍」笑喊各自努力　蔣萬安：這事沒姊弟情\n阿美麻糬余國基高速衝破護欄「噴30公尺遠」 救護人員：他是飛下來的 [...] # 周杰倫登大巨蛋開唱讚「市長很給力」　蔣萬安笑回：哎唷不錯喔！\n\n台北市長蔣萬安。圖／台視新聞\n\n九合一選戰倒數，尤其台北市長之爭打得火熱，近日有網友翻出歌手周杰倫登上大巨蛋開唱時，曾讚「這個市長很給力」，再度引發討論。對此，台北市長蔣萬安今（26）日則以周杰倫的招牌口頭禪回應，「哎唷，不錯喔！ 」\n\n周杰倫於2024年回台舉辦演唱會，他也是大巨蛋完工以來，首位登上開唱的歌手。回顧他當時在台上的發言，他表示，本來不知道什麼時候能唱，搞不好到時後蓋好，別人已經拿去唱了，但後來公司跟他說好像有機會，「而且這個市長很給力喔」，既然有機會回來唱，那為什麼不回來。\n\n蔣萬安今日出席北葫蘆寺祈安遶境起駕大典暨揭牌及捐贈儀式，會前接受媒體聯訪，被問及是否有看到周杰倫稱讚「市長很給力」的相關片段？蔣萬安幽默回應，「哎唷，不錯喔！」\n\n編輯／黃于庭\n\n#### 延伸閱讀\n\n#### 正在直播\n\n#### 熱門新聞\n\n益起看世界\n歷史上的今天\n追蹤台視新聞FB\n訂閱台視新聞\n追蹤台視新聞IG\n台視新聞",
-      "published_at": "Mon, 26 Oct 2026 04:13:30 GMT",
-      "collected_at": "2026-10-27 05:28:58",
-      "sentiment": "正面",
-      "sentiment_score": 0.85,
-      "summary": "周杰倫因在大巨蛋開唱時稱讚台北市長蔣萬安「很給力」，蔣萬安則幽默回應「哎唷，不錯喔！」，顯示雙方正向互動。",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 223,
-    "report_date": "2026-11-01",
-    "total_articles": 5,
-    "positive_count": 4,
+    "id": 224,
+    "report_date": "2026-11-02",
+    "total_articles": 6,
+    "positive_count": 2,
     "negative_count": 0,
-    "neutral_count": 1,
-    "daily_summary": "周杰倫近日新聞焦點集中在新專輯《太陽之子》的發行，內含為女兒創作的歌曲及耗資億元MV。此外，他預告將舉辦大巨蛋演唱會，並透露新加坡場將有機器人與火焰特效。個人方面，昆凌分享兩人甜蜜婚姻，周杰倫也因澳洲小朋友只認他網球賽而逗趣回應。他還幽默糾正庾澄慶的社群貼文，展現親民一面。",
-    "key_events": [
-      "新專輯《太陽之子》",
-      "大巨蛋演唱會",
-      "昆凌曝甜蜜婚姻"
-    ],
-    "created_at": "2026-11-01 06:44:17"
+    "neutral_count": 4,
+    "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+    "key_events": "周杰倫、周杰倫、周杰倫",
+    "created_at": "2026-11-02 06:41:49"
   },
   "recentReports": [
+    {
+      "id": 224,
+      "report_date": "2026-11-02",
+      "total_articles": 6,
+      "positive_count": 2,
+      "negative_count": 0,
+      "neutral_count": 4,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫、周杰倫、周杰倫",
+      "created_at": "2026-11-02 06:41:49"
+    },
     {
       "id": 223,
       "report_date": "2026-11-01",
@@ -661,17 +668,6 @@
         "與昆凌認養長頸鹿"
       ],
       "created_at": "2026-10-27 05:29:20"
-    },
-    {
-      "id": 217,
-      "report_date": "2026-10-26",
-      "total_articles": 6,
-      "positive_count": 5,
-      "negative_count": 0,
-      "neutral_count": 1,
-      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-      "key_events": "去年合作周杰倫　F✦FOREVER再邀大咖男神 - 鏡週刊 Mirror Media、周杰倫快看！台灣最美風景在台南車站 公共鋼琴飆出《楓》聲 民間高手全來了 - 自由娛樂、周杰倫讚蔣萬安「給力」！本人聽聞秒回5字",
-      "created_at": "2026-10-26 05:12:03"
     }
   ]
 }
