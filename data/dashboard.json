@@ -1,26 +1,18 @@
 {
   "todayStats": {
     "total": 6,
-    "positive": 2,
+    "positive": 3,
     "negative": 0,
-    "neutral": 4
+    "neutral": 3
   },
   "allTimeStats": {
-    "total": 2542,
-    "positive": 919,
+    "total": 2548,
+    "positive": 922,
     "negative": 85,
-    "neutral": 1538,
+    "neutral": 1541,
     "avg_score": 0.64
   },
   "trend": [
-    {
-      "date": "2026-10-19",
-      "total": 6,
-      "positive": 5,
-      "negative": 0,
-      "neutral": 1,
-      "avg_score": 0.8
-    },
     {
       "date": "2026-10-20",
       "total": 1,
@@ -132,9 +124,101 @@
       "negative": 0,
       "neutral": 4,
       "avg_score": 0.63
+    },
+    {
+      "date": "2026-11-03",
+      "total": 6,
+      "positive": 3,
+      "negative": 0,
+      "neutral": 3,
+      "avg_score": 0.71
     }
   ],
   "recentArticles": [
+    {
+      "id": 2543,
+      "title": "Jay Chou",
+      "link": "https://linkedin.com/in/jaychou",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# Jay Chou\n\nHeadline: Engineering Manager at Tesla\nCurrent role: Systems Test Engineering\nSeniority: Specialist, Engineering and Technical\nLocation: Mountain View, California, United States\nExperience: 13 years 11 months\nLinkedIn: www.linkedin.com/in/jaychou · 1,752 followers\nDescription: Engineering Leadership & Operation for Autonomous Vehicle Development & Deployment [...] ## Skills\ndocumentation reporting, safety validation, teams, market introduction, active safety systems, selection, apac, technology, documentation, feedback, self-driving technology, systems test, protocols, campaigns, adas [...] ## Experience\n- Systems Test Engineering at Waymo (Jan 2025 to present)\n- Board Member at San Jose State University (Feb 2020 to present)\n- Head of ADAS Test Engineering & FSD Operations at Tesla (Aug 2014 to Nov 2024)\n- Director at ASUCD (Aug 2012 to Jun 2014)\n\n## Education\n- University of California, Davis, Mechanical Engineering",
+      "published_at": "2026-11-03T07:09:41.792Z",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊描述的是一位在特斯拉擔任工程經理的同名人士，與華語流行歌手周杰倫無關。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2544,
+      "title": "Jay Chou",
+      "link": "https://linkedin.com/in/jay-chou-b771204b",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# Jay Chou\n\nHeadline: Manager at Manpower\nCurrent role: Manager\nSeniority: Manager, General Management\nLocation: Shanghai, China\nExperience: 21 years 7 months\nLinkedIn: www.linkedin.com/in/jay-chou-b771204b · 1,774 followers\n\n## Experience\n- Manager at Manpower (Jan 2005 to present)\n\n## Education\n- Fudan University, Master's degree\n\n## Skills\nmanagement",
+      "published_at": "2026-11-03T07:09:41.792Z",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "這則資訊介紹了一位名為Jay Chou的Manpower經理，其擁有21年7個月的工作經驗，畢業於復旦大學，此人並非知名歌手周杰倫。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2545,
+      "title": "Jay Chou",
+      "link": "https://linkedin.com/in/jay-chou-a803b5213",
+      "source": "Tavily (linkedin.com)",
+      "snippet": "# Jay Chou [...] Headline: Production Manager at Zhejiang Huafu medical Equipment Co., Ltd\nCurrent role: Production Manager\nSeniority: Manager, Project Management\nLocation: Jiaxing, Zhejiang, China\nExperience: 10 years 4 months\nLinkedIn: www.linkedin.com/in/jay-chou-a803b5213 · 989 followers [...] ## Experience\n- Production Manager at Zhejiang Huafu medical Equipment Co., Ltd (Jun 2021 to present)\n- Area Sales Manager at Zhejiang Anji XINXIANG Aluminum Co., ltd. (May 2016 to Jun 2021)\n\n## Education\n- 解放军外国语学院, Bachelor's degree, TURKEY",
+      "published_at": "2026-11-03T07:09:41.792Z",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "此資訊為一位同名為Jay Chou的生產經理之LinkedIn個人資料，而非知名歌手周杰倫的相關新聞。",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 2546,
+      "title": "Jay Chou amused when kids recognise him because of his Australian Open 1 Point Slam performance, gets teased by Jeremy Lin again, Entertainment News - AsiaOne",
+      "link": "https://www.asiaone.com/entertainment/jay-chou-australian-open-1-point-slam-jeremy-lin-tennis",
+      "source": "Tavily (www.asiaone.com)",
+      "snippet": "Syarifah NadhirahPUBLISHED ONNovember 02, 2026 7:57 AMBYSyarifah Nadhirah\n\nHe lasted one second on the court but it seems his appearance was still a memorable one.\n\nTaiwanese singer Jay Chou took to social media on Oct 29 to share an encounter he had with some locals in Australia.\n\nThe 47-year-old held a concert in Melbourne on Oct 17. [...] Award Banner\n\nAward Banner\n\nAsiaOne\n\n Latest\n ···\n ···\n Entertainment\n ···\n Lifestyle\n ···\n Horoscope\n ···\n Digicult\n ···\n Sports\n ···\n ···\n\nentertainment\n\n# Jay Chou amused when kids recognise him because of his Australian Open 1 Point Slam performance, gets teased by Jeremy Lin again\n\nJay Chou amused when kids recognise him because of his Australian Open 1 Point Slam performance, gets teased by Jeremy Lin again\n\nJeremy Lin (left) previously taught Jay Chou tennis.\n\nPHOTO: Instagram/Jeremy Lin [...] \"Today, I was sitting by an outdoor tennis court when a few cute little Aussie kids, probably six or seven, in their school uniforms started whispering, 'Jay Chou?'\" recounted the father of three.\n\n\"I looked at them curiously, and they asked, 'Did you play in the 1 Point Slam at the Australian Open?'\"",
+      "published_at": "Mon, 02 Nov 2026 07:57:00 GMT",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫因在澳洲網球公開賽的「1 Point Slam」表現被當地孩童認出而感到有趣，並再次被林書豪開玩笑。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2547,
+      "title": "周杰倫新歌打造電影級MV 自曝求婚昆凌險翻車 | 中華日報|中華新聞雲",
+      "link": "https://www.cdns.com.tw/articles/1377744",
+      "source": "Tavily (www.cdns.com.tw)",
+      "snippet": "[](\n\nMenu\n\n[](\n\nMenu\n\n# 周杰倫新歌打造電影級MV 自曝求婚昆凌險翻車\n\n 2026-03-24\n 藝文\n\n[](\n\n周杰倫穿著一襲開大V黑色西裝現身新歌〈太陽之子〉MV全球直播發布會。  \n（記者戴淑芳攝）\n\n記者戴淑芳∕台北報導\n\n周杰倫24日在台北松仁威秀影城泰坦影廳舉辦新歌〈太陽之子〉MV發布會，加碼公布新歌〈淘金小鎮〉。他也透露，MV藏有30個藝術密碼，還有放入求婚影片的MV將上架。\n\n〈太陽之子〉MV發布會上，周杰倫也邀請100名粉絲現場觀影同樂。MV在巴黎跟台北拍攝，由曾參與《阿凡達》、《魔戒》、《沙丘》等好萊塢大片的製作公司操刀，耗資近1億元。現場直播結束後，周杰倫宣布加碼播放〈淘金小鎮〉MV，讓歌迷直呼驚喜。\n\n周杰倫表示，每個人心中可能都有些恐慌、緊張的負能量，「之前演唱會有這種問題，有發生2次，非常恐怖，不要再提了」，因此讓他更深刻認為歌曲應該傳達正能量，讓人能克服自己的心魔。 [...] 周杰倫笑說，接下來還有新歌MV將放入他向太太昆凌求婚的影片，「那時候租了一個古堡，還找演員去演拿行李的，跟她說時間差不多要下去吃飯了，她還不想下去，那我（差點）古堡就白租了」。當時還設了服裝規定，「不要讓她之後抱怨我」。\n\n新巡迴演唱會即將開跑，周杰倫表示，因為場地需要至少1年前就先訂好，台灣場還在籌劃中，但歌迷可以先把新歌練好準備一起合唱。由於發布會只有100名幸運歌迷可入場，對於是否有機會舉辦近距離的簽唱會？他笑說，或許下次能考慮在網球場開簽唱會，相信會是個有趣經驗。\n\n周杰倫《太陽之子》25日凌晨0時數位上架，4月10日實體上架。\n\nPrev上一篇張信哲MV油畫特效 致敬梵谷\n\n下一篇台股市值全球第7 總統提３策略 打造亞洲那斯達克Next\n\n聯 絡 我 們 ┃ 服 務 條 款 ┃ 著 作 權 聲明 ┃ 隱 私 權 政 策\n\nCopyright @ 中華日報 China Daily News",
+      "published_at": "Tue, 24 Mar 2026 13:25:50 GMT",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫發布新歌〈太陽之子〉及〈淘金小鎮〉，MV耗資近億元並將收錄求婚昆凌的影片，同時預告新巡演即將開跑。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 2548,
+      "title": "〈太陽之子〉MV全球首播　周杰倫曝小女兒新歌與求婚畫面彩蛋-新聞-Rti 中央廣播電臺",
+      "link": "https://www.rti.org.tw/news?uid=3&pid=198962",
+      "source": "Tavily (www.rti.org.tw)",
+      "snippet": "周杰倫接著進一步興奮揭露「大彩蛋」，表示另一首新歌MV將首度公開他當年向妻子昆凌求婚的珍貴畫面。周杰倫：『(原音)因為跟這個歌曲真的太大了，當初寫這個歌時候沒有想到要這樣，當初就是想說除了〈告白氣球〉，大家婚禮其實是不是還可以有另外一首歌曲？那時候我就寫了一個關於婚禮的歌，那我覺得欸，這樣的話，我就把之前的求婚影片就是分享給大家，我覺得這個這個大家可以期待一下，我自己也覺得很有趣很有趣。』，\n\n久違舉辦大型媒體聯訪，周杰倫也笑稱這種專輯宣傳模式至少十幾年沒有，感覺很不錯。近期迷上打網球的他笑說，或許可以在網球場辦簽唱會，應該是不錯的點子。\n\n至於歌迷最關心的演唱會，他鬆口新一輪巡演正在規劃中，並希望屆時能加入更多新歌。（編輯：許嘉芫）\n\n延伸閱讀\n\nBBC：英國中世紀修道院因周杰倫爆紅 中國新人瘋狂湧進\n\n回新聞總覽 回上頁\n\n Podcasts URL 訂閱複製\n\n一周熱門話題 TOP5\n\n西班牙高鐵追撞至少68死 交通部長：調度中心下錯指令\n\n1\n\n加國也想賣天然氣給台灣 中油：推銷氣場有中資成分\n\n2\n\n澳洲返還中國北宋文物\n\n3 [...] 圖片來源：Rti央廣\n\n華語天王周杰倫推出全新專輯《太陽之子》將於25日正式上線，24日特別選在電影院舉行同名主打歌完整MV全球發布會。(江昭倫 攝)\n\n睽違近4年，華語天王周杰倫推出全新專輯《太陽之子》將於25日正式上線，今天(24日)特別選在電影院舉行同名主打歌完整MV全球發布會，長達6分58秒的作品首度完整公開，不僅以近億元台幣打造、刷新華語樂壇製作規模，更因周杰倫現場連番「加碼爆料」，透露新專輯有為小女兒寫的新歌，更勁爆透露昔日求婚昆凌的影片也會放入新歌MV中，值得期待。\n\n連續幾天釋出全新專輯主打歌〈太陽之子〉片段預告吊足歌迷胃口的周杰倫，終於在24日正式發布〈太陽之子〉全球首映。就連環球音樂主席暨首席官盧西恩・格蘭奇（Lucian Grainge）以及Google與YouTube全球音樂負責人萊奧·柯恩（Lyor Cohen）都透過影片捎來祝福，表示期待合作。 [...] 語言\n\n繁體中文 简体中文 English Français Deutsch Indonesian 日本語 한국어 Русский Español ภาษาไทย Tiếng Việt Tagalog Українська\n\n搜尋 \n\n法國高中生抗爭 2026雙十國慶 2026地方選舉\n\n總覽 #2026地方選舉 兩岸 財經 國際 生活 政治 專題\n\n找服務類型\n\n新聞 節目  央廣學院  Rti Talk YouTube Podcasts 業務服務 關於央廣 網站導覽 首頁\n\n逛主題類別\n\n#2026地方選舉 兩岸 財經 國際 生活 政治 專題 央主題\n\n :::\n  /\n 新聞\n\nRti 中央廣播電臺 播放聆聽  周杰倫 昆凌\n\n# 〈太陽之子〉MV全球首播　周杰倫曝小女兒新歌與求婚畫面彩蛋\n\n 2026-03-24 16:23(03-24 19:03更新)\n\n  採訪撰稿：江昭倫\n\n分享到facebook   分享到line\n\n華語天王周杰倫推出全新專輯《太陽之子》將於25日正式上線，24日特別選在電影院舉行同名主打歌完整MV全球發布會。(江昭倫 攝)\n\n圖片來源：Rti央廣",
+      "published_at": "Tue, 24 Mar 2026 00:00:00 GMT",
+      "collected_at": "2026-11-03 07:09:47",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫推出新專輯《太陽之子》，MV全球首播並預告將公開為小女兒創作的新歌與求婚畫面彩蛋，同時透露新巡演規劃中，引發歌迷高度期待。",
+      "category": "新歌",
+      "analyzed": 1
+    },
     {
       "id": 2537,
       "title": "周杰倫",
@@ -470,104 +554,31 @@
       "summary": "周杰倫14年前澄清「捏助理屁股」傳聞的記者會影片近日翻紅，其幽默回應引發網友熱議。",
       "category": "爭議",
       "analyzed": 1
-    },
-    {
-      "id": 2516,
-      "title": "周杰倫帶女兒放風 誇讚她有浪漫細胞",
-      "link": "https://www.singtaousa.com/2026/10/28/entertainment/jay-chou-daughter-romantic",
-      "source": "Tavily (www.singtaousa.com)",
-      "snippet": "周杰倫帶著4歲女兒Jacinda到海邊遊玩，途中經過花店，女兒主動要求買花送給媽媽昆凌，讓周杰倫驚呼她比自己還浪漫。他在社交平台分享了多張女兒的可愛",
-      "published_at": "Wed, 28 Oct 2026 09:00:00 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "正面",
-      "sentiment_score": 0.95,
-      "summary": "周杰倫分享與女兒Jacinda的溫馨互動，女兒主動買花送昆凌，讓他大讚女兒比自己更浪漫。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2517,
-      "title": "昆凌結婚11年怎麼當3寶媽？甜曝周杰倫私下真面目- 娛樂",
-      "link": "https://www.chinatimes.com/realtimenews/20261028003384-260404",
-      "source": "Tavily (www.chinatimes.com)",
-      "snippet": "33歲混血女星昆凌與大14歲天王周杰倫結婚11年，育有2女1子，一家5口過著童話般的幸福生活。不過，昆凌婚後鮮少透過作品與大家見面，近日她登上星座",
-      "published_at": "Wed, 28 Oct 2026 09:00:00 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "昆凌分享與周杰倫結婚11年育有三寶的幸福家庭生活，並透露周杰倫私下真面目。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2518,
-      "title": "庾澄慶發文謝A-Lin！周杰倫熱心糾正 網笑：IG里長伯？",
-      "link": "https://ent.ebc.net.tw/buzz/503452",
-      "source": "Tavily (ent.ebc.net.tw)",
-      "snippet": "庾澄慶演唱會邀A-Lin擔任嘉賓，事後發文感謝卻標記失敗，周杰倫留言提醒正確方式，讓哈林自嘲「低科技人才」，兩人互動引發網友熱議。",
-      "published_at": "Tue, 27 Oct 2026 06:00:00 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫熱心糾正庾澄慶的IG標記錯誤，展現其親民幽默的一面，引發網友熱議。",
-      "category": "生活",
-      "analyzed": 1
-    },
-    {
-      "id": 2519,
-      "title": "Jay Chou Singapore concerts: robots and fire effects | The Straits Times",
-      "link": "https://www.straitstimes.com/life/entertainment/30m-robots-fire-and-water-effects-what-to-expect-at-jay-chous-concerts-in-january",
-      "source": "Tavily (www.straitstimes.com)",
-      "snippet": "Chou’s shows are known for their visual effects and audience song requests.\n\nHis latest tour has a “one city, one theme” premise, with each stop paired with one of his songs.\n\nSingapore’s theme is Sunny Day Singapore, inspired by his iconic song Sunny Day from his 2003 album Yeh Hui-Mei, which is named after his mother.\n\nThe 47-year-old Taiwanese singer-songwriter performed here in 2020, 2022 and 2024 for his Carnival World Tour, which ran from 2019 to 2025. [...] AI generated\n\nSINGAPORE –Ju Pao, a Taiwanese concert director known for his work on Mandopop king Jay Chou’s large-scale shows, has dropped hints about what fans can expect at Chou’s upcoming concerts here.\n\nChou will perform three shows at the National Stadium from Jan 8 to 10, as part of the Singapore leg of his Carnival II World Tour.\n\nThe ongoing concert tour, his ninth, began in Hangzhou, China, in April 2026. [...] Straitstimes.com header logo\n\n# 30m robots, fire and water effects: What to expect at Jay Chou’s concerts in January\n\nSign up now: Get ST's newsletters delivered to your inbox\n\nJay Chou will perform three shows at the National Stadium from Jan 8 to 10 2027.\n\nPHOTO: HORIZON PRODUCTION\n\navatar-alt\n\nVenessa Lee\n\nPublished Oct 26, 2026, 11:50 AM\n\nUpdated Oct 26, 2026, 12:29 PM",
-      "published_at": "Mon, 26 Oct 2026 03:50:00 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "中性",
-      "sentiment_score": 0.5,
-      "summary": "Jay Chou Singapore concerts: robots and fire effects | The Straits Times",
-      "category": "其他",
-      "analyzed": 1
-    },
-    {
-      "id": 2520,
-      "title": "Jay Chou Ft. Ashin: Won't Cry (2019)",
-      "link": "https://www.imdb.com/pt/title/tt14894476/mediaviewer/rm1091829249?ref_=ttch_ph_4_2",
-      "source": "Tavily (www.imdb.com)",
-      "snippet": "Keisuke Watanabe and Ayaka Miyoshi in Jay Chou Ft. Ashin: Won't Cry (2019)",
-      "published_at": "Fri, 23 Oct 2026 06:00:00 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "這則資訊提及周杰倫與阿信合作的歌曲《說好不哭》及其音樂錄影帶的演員。",
-      "category": "新歌",
-      "analyzed": 1
-    },
-    {
-      "id": 2521,
-      "title": "周杰倫2024大巨蛋演唱會：嘉賓預測、入場資訊、座位圖一次看",
-      "link": "https://www.harpersbazaar.com/tw/celebrity/celebritynews/g62053431/jay-chou-2024-concert",
-      "source": "Tavily (www.harpersbazaar.com)",
-      "snippet": "## 周杰倫大巨蛋演唱會資訊\n\n周杰倫,周杰倫演唱會,周杰倫搶票,周杰倫拓元,周杰倫演唱會門票拓元,周杰倫演唱會門票,周杰倫演唱會搶票,周杰倫大巨蛋搶票,拓元售票,拓元售票周杰倫,周杰倫大巨蛋門票,拓元售票系統搶票,周杰倫大巨蛋演唱會,大巨蛋演唱會,周杰倫演唱會2024,周杰倫演唱會台灣,周杰倫演唱會台北,周杰倫歌曲,大巨蛋演唱會,2024演唱會,周杰倫大巨蛋開唱,周杰倫 大巨蛋,周杰倫大巨蛋 ptt,\n\nIG@jaychou\n\n周杰倫所屬杰威爾音樂驚喜宣布，周杰倫將在大巨蛋舉辦「嘉年華」世界巡迴演唱會，一連歡唱4天，門票價錢、如何購票也已經有消息釋出了！\n\n周杰倫「嘉年華」世界巡迴演唱會資訊\n\n活動時間：\n\n2024年12月05日 PM 7：30\n\n2024年12月06日 PM 7：30\n\n2024年12月07日 PM 6：00\n\n2024年12月08日 PM 6：00\n\n活動地點：台北大巨蛋\n\n門票價格：NT$ 6880 / 5880 / 4880 / 3880 / 3280 / 2280 / 1880\n\n售票時間：2024年10月23日 中午12：00 [...] By Charlie Lee\n\n- 周杰倫大巨蛋演唱會彩排照曝光\n- 周杰倫大巨蛋演唱會歌單預測\n- 周杰倫大巨蛋演唱會有望找來劉德華擔任嘉賓？\n- 周杰倫大巨蛋演唱會資訊\n- 周杰倫大巨蛋演唱會座位圖\n- 周杰倫大巨蛋演唱會「加賣」演唱會門票\n- 周杰倫大巨蛋演唱會大升級！\n- 周杰倫大巨蛋演唱會有預告？\n- 他們比周杰倫更早踏上大巨蛋！\n- 周杰倫大巨蛋演唱會完整聲明\n\n大巨蛋首場演唱會！周杰倫2024舉辦巡迴演唱會，而其中一場將在台北大巨蛋舉行，這將會是周杰倫睽違7年時間再與台灣的樂迷們於演唱會上碰面。周杰倫大巨蛋演唱會將在12月上旬舉行，是大巨蛋完工以來舉辦的第一場演唱會。既然在大巨蛋舉辦演唱會，周杰倫也做好了萬全準備，因應場地關係，周杰倫大巨蛋演唱會從硬體到節目演出也將全面升級！ [...] ## 周杰倫大巨蛋演唱會完整聲明\n\n周杰倫,周杰倫演唱會,周杰倫搶票,周杰倫拓元,周杰倫演唱會門票拓元,周杰倫演唱會門票,周杰倫演唱會搶票,周杰倫大巨蛋搶票,拓元售票,拓元售票周杰倫,周杰倫大巨蛋門票,拓元售票系統搶票,周杰倫大巨蛋演唱會,大巨蛋演唱會,周杰倫演唱會2024,周杰倫演唱會台灣,周杰倫演唱會台北,周杰倫歌曲,大巨蛋演唱會,2024演唱會,周杰倫大巨蛋開唱,周杰倫 大巨蛋,周杰倫大巨蛋 ptt,\n\nIG@jaychou\n\n周杰倫「嘉年華」世界巡迴演唱會將在今年12月上旬於台北大巨蛋登場，這將是周杰倫睽違七年後再度於台北舉辦個人演唱會，也是台北大巨蛋第一次舉辦的專場個人演唱會。演出團隊也因應大巨蛋這個全新的場地積極準備中。而作為第一個在大巨蛋舉辦個唱的歌手，一向喜歡創新的周杰倫，希望在這裡帶給大家全新的感受與體驗！我們和所有歌迷一起期待「嘉年華」演唱會在大巨蛋擦出更令人驚奇的火花！有關周杰倫「嘉年華」台北大巨蛋演唱會的演出時間及相關售票訊息，將會再擇期官宣，敬請期待！\n\n## 延伸閱讀",
-      "published_at": "Fri, 06 Sep 2024 13:15:40 GMT",
-      "collected_at": "2026-10-29 06:20:56",
-      "sentiment": "正面",
-      "sentiment_score": 0.9,
-      "summary": "周杰倫2024大巨蛋演唱會：嘉賓預測、入場資訊、座位圖一次看",
-      "category": "演唱會",
-      "analyzed": 1
     }
   ],
   "latestReport": {
-    "id": 224,
-    "report_date": "2026-11-02",
+    "id": 225,
+    "report_date": "2026-11-03",
     "total_articles": 6,
-    "positive_count": 2,
+    "positive_count": 3,
     "negative_count": 0,
-    "neutral_count": 4,
+    "neutral_count": 3,
     "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
-    "key_events": "周杰倫、周杰倫、周杰倫",
-    "created_at": "2026-11-02 06:41:49"
+    "key_events": "Jay Chou、Jay Chou、Jay Chou",
+    "created_at": "2026-11-03 07:10:11"
   },
   "recentReports": [
+    {
+      "id": 225,
+      "report_date": "2026-11-03",
+      "total_articles": 6,
+      "positive_count": 3,
+      "negative_count": 0,
+      "neutral_count": 3,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "Jay Chou、Jay Chou、Jay Chou",
+      "created_at": "2026-11-03 07:10:11"
+    },
     {
       "id": 224,
       "report_date": "2026-11-02",
@@ -653,21 +664,6 @@
         "「中國歌手」身分引議"
       ],
       "created_at": "2026-10-28 06:11:56"
-    },
-    {
-      "id": 218,
-      "report_date": "2026-10-27",
-      "total_articles": 4,
-      "positive_count": 4,
-      "negative_count": 0,
-      "neutral_count": 0,
-      "daily_summary": "周杰倫近期新聞焦點多，包括他因轉發「中國歌手」介紹引發熱議，國台辦稱是真摯情感流露。新專輯《太陽之子》細節曝光，演唱會消息不斷，他更稱讚蔣萬安市長「給力」。私生活方面，與昆凌認養長頸鹿，並在墨爾本街頭彈琴，展現親民一面。此外，與庾澄慶、林俊傑互動也受關注，代言遊戲卻停運。",
-      "key_events": [
-        "認同中國歌手引議",
-        "新專輯與演唱會",
-        "與昆凌認養長頸鹿"
-      ],
-      "created_at": "2026-10-27 05:29:20"
     }
   ]
 }
