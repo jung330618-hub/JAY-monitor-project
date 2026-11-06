@@ -35713,6 +35713,48 @@
       "summary": "周杰倫又入手奧地利表現主義畫家埃貢席勒的名畫，展現他對藝術的熱愛與收藏實力，其中一幅畫作價值估計超過6千多萬台幣。",
       "category": "生活",
       "analyzed": 1
+    },
+    {
+      "id": 2552,
+      "title": "周杰倫出賽前突發意外！「唯一球拍突斷線」急借拍 親揭錯失冠軍原因",
+      "link": "https://www.mirrordaily.news/story/96122",
+      "source": "Tavily (www.mirrordaily.news)",
+      "snippet": "天王周杰倫近年對網球相當著迷，除了工作之餘勤練球技，還不時親自下場參賽！他日前參加國際網球總會（ITF）世界網球大師巡迴賽MT400級別賽事，一口氣拿下男子雙打、",
+      "published_at": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "collected_at": "2026-11-06 07:16:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "周杰倫在國際網球總會賽事中因球拍斷線錯失冠軍，但仍展現對網球的熱情並取得男子雙打佳績。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2553,
+      "title": "周杰倫出道26年行蹤曝光狂語重現 昆凌會凱莉米洛美成這樣 | 自由電子報",
+      "link": "https://today.line.me/tw/v3/article/2D9Bm7P",
+      "source": "Tavily (today.line.me)",
+      "snippet": "記者陳慧玲／台北報導〕今(6日)是「周董」周杰倫出道26年紀念日，他也分享自己的行蹤，繼續在澳洲和化妝師杜哥等人逛街、喝咖啡，老婆昆凌人也",
+      "published_at": "Fri, 06 Nov 2026 03:00:00 GMT",
+      "collected_at": "2026-11-06 07:16:08",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫出道26年行蹤曝光狂語重現 昆凌會凱莉米洛美成這樣 | 自由電子報",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 2554,
+      "title": "Jay Chou Takes Melbourne’s Changing Music Culture To Sydney After Historic Stadium Show",
+      "link": "https://www.noise11.com/news/jay-chou-melbourne-sydney-tour-20261106",
+      "source": "Tavily (www.noise11.com)",
+      "snippet": "Jay Chou's 32000-strong Melbourne concert marked a milestone for Mandarin-language music in Australia, reflecting the changing cultural",
+      "published_at": "Fri, 06 Nov 2026 02:00:00 GMT",
+      "collected_at": "2026-11-06 07:16:08",
+      "sentiment": "正面",
+      "sentiment_score": 0.95,
+      "summary": "周杰倫在墨爾本的演唱會取得巨大成功，為華語音樂在澳洲樹立了里程碑，並將這股文化影響力帶到雪梨。",
+      "category": "演唱會",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -38822,6 +38864,17 @@
         "入手埃貢席勒名畫"
       ],
       "created_at": "2026-11-05 07:16:29"
+    },
+    {
+      "id": 228,
+      "report_date": "2026-11-06",
+      "total_articles": 3,
+      "positive_count": 1,
+      "negative_count": 0,
+      "neutral_count": 2,
+      "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
+      "key_events": "周杰倫出賽前突發意外！「唯一球拍突斷線」急借拍 親揭錯失冠軍原因、周杰倫出道26年行蹤曝光狂語重現 昆凌會凱莉米洛美成這樣 | 自由電子報、Jay Chou Takes Melbourne’s Changing Music Culture To Sydney After Historic Stadium Show",
+      "created_at": "2026-11-06 07:16:17"
     }
   ],
   "notification_logs": [
@@ -42086,11 +42139,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-11-05 07:16:31"
+    },
+    {
+      "id": 467,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-11-06 07:16:18"
+    },
+    {
+      "id": 468,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-11-06 07:16:19"
     }
   ],
   "_meta": {
-    "nextArticleId": 2552,
-    "nextReportId": 228,
-    "nextLogId": 467
+    "nextArticleId": 2555,
+    "nextReportId": 229,
+    "nextLogId": 469
   }
 }
