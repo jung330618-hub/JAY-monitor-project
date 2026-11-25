@@ -46208,11 +46208,11 @@
       "snippet": "五月天休團沒閒著！阿信驚喜「夢幻聯動」翻唱周董新歌：不想還給原唱  緯來新聞網",
       "published_at": "2026-07-29T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "五月天休團沒閒著！阿信驚喜「夢幻聯動」翻唱周董新歌：不想還給原唱 - 緯來新聞網",
+      "category": "新歌",
+      "analyzed": 1
     },
     {
       "id": 3302,
@@ -46222,11 +46222,11 @@
       "snippet": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲　震撼場面曝光  三立新聞網SETN.com",
       "published_at": "2026-11-20T15:39:10.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫演唱會「豪砸5億」再創新紀錄！打造14m巨型機甲　震撼場面曝光 - 三立新聞網SETN.com",
+      "category": "演唱會",
+      "analyzed": 1
     },
     {
       "id": 3303,
@@ -46236,11 +46236,11 @@
       "snippet": "林書豪垃圾話狂噴周杰倫互動有趣！網友笑喊：哈佛大學嗆人也很不一樣  Yahoo運動",
       "published_at": "2026-11-20T03:29:09.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "林書豪垃圾話狂噴周杰倫互動有趣！網友笑喊：哈佛大學嗆人也很不一樣 - Yahoo運動",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3304,
@@ -46250,11 +46250,11 @@
       "snippet": "周杰倫、昆凌現身上海大師賽成全場焦點！ 他忍不住比「噓」原因曝光  鏡週刊Mirror Media",
       "published_at": "2026-10-09T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫與昆凌現身上海大師賽成為全場焦點，他因受關注而忍不住比出「噓」的手勢。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 3305,
@@ -46264,11 +46264,11 @@
       "snippet": "周杰倫出道26週年！巡演前先拚網球賽 雙打、混雙都拿亞軍  鏡週刊Mirror Media",
       "published_at": "2026-11-05T08:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫在出道26週年之際，於巡演前積極參與網球賽事，並在雙打和混雙項目中均獲得亞軍。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 3306,
@@ -46278,11 +46278,11 @@
       "snippet": "周杰倫參加網球賽出意外！球拍打到斷掉　自嘲無緣奪冠都是這原因  三立新聞網SETN.com",
       "published_at": "2026-11-06T08:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫參加網球賽出意外！球拍打到斷掉　自嘲無緣奪冠都是這原因 - 三立新聞網SETN.com",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3307,
@@ -46292,11 +46292,11 @@
       "snippet": "網友瘋狂考古周杰倫緋聞！命理師解答「Hebe不敵昆凌」真正原因  噓！星聞",
       "published_at": "2026-09-29T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "網友瘋狂考古周杰倫緋聞！命理師解答「Hebe不敵昆凌」真正原因 - 噓！星聞",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 3308,
@@ -46306,11 +46306,11 @@
       "snippet": "KTV排行榜像停在20年前！周杰倫還在《擱淺》 蔡依林繼續《倒帶》  自由娛樂",
       "published_at": "2026-09-03T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "KTV排行榜像停在20年前！周杰倫還在《擱淺》 蔡依林繼續《倒帶》 - 自由娛樂",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3309,
@@ -46320,11 +46320,11 @@
       "snippet": "天王就在你身邊！周杰倫街頭彈琴 路人回頭猛看卻「完全沒認出」  噓！星聞",
       "published_at": "2026-10-15T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "天王就在你身邊！周杰倫街頭彈琴 路人回頭猛看卻「完全沒認出」 - 噓！星聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3310,
@@ -46334,11 +46334,11 @@
       "snippet": "周杰倫加持！vivo X500系列登台開賣X Fold6摺疊機同步推出- 產業  工商時報",
       "published_at": "2026-10-31T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫加持！vivo X500系列登台開賣X Fold6摺疊機同步推出- 產業 - 工商時報",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3311,
@@ -46348,11 +46348,11 @@
       "snippet": "ETtoday新聞雲. . 路邊有人彈周杰倫的歌 仔細一看竟然是本尊！  Facebook",
       "published_at": "2026-10-14T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "ETtoday新聞雲. . 路邊有人彈周杰倫的歌 仔細一看竟然是本尊！ - Facebook",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3312,
@@ -46362,11 +46362,11 @@
       "snippet": "ETtoday新聞雲. . 【昆凌曝「親姊是周杰倫粉絲」 小時候困惑：這男的是誰？】 完整版請上芒果tv國際APP觀看→https://bit.ly/2HmqFnO  Facebook",
       "published_at": "2026-09-05T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "昆凌分享其姊姊是周杰倫粉絲，並提及自己小時候對周杰倫感到好奇的趣事。",
+      "category": "生活",
+      "analyzed": 1
     },
     {
       "id": 3313,
@@ -46376,11 +46376,11 @@
       "snippet": "歐漢聲假冒周杰倫訂位竟過關！胡瓜也被拖下水 餐廳經理親自迎接結局超展開  Yahoo新聞",
       "published_at": "2026-11-01T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "歐漢聲假冒周杰倫訂位竟過關！胡瓜也被拖下水 餐廳經理親自迎接結局超展開 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3314,
@@ -46390,11 +46390,11 @@
       "snippet": "ETtoday新聞雲. . 【阿Ken直播模仿周杰倫 被本尊留言嗆：洗咧X！XD】 唉呦不錯嘛～～(#起啵)  Facebook",
       "published_at": "2026-09-14T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "ETtoday新聞雲. . 【阿Ken直播模仿周杰倫 被本尊留言嗆：洗咧X！XD】 唉呦不錯嘛～～(#起啵) - Facebook",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3315,
@@ -46404,11 +46404,11 @@
       "snippet": "鏡爆頭條／耐能智慧創辦人力邀 新AI晶片命名周杰倫  Yahoo新聞",
       "published_at": "2026-10-10T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "鏡爆頭條／耐能智慧創辦人力邀 新AI晶片命名周杰倫 - Yahoo新聞",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3316,
@@ -46418,11 +46418,11 @@
       "snippet": "聯手周杰倫+蔡司！vivo X500系列、摺疊旗艦X Fold6登台總座：記憶體漲勢恐延續到這一年| 劉芯衣| 新聞  風傳媒",
       "published_at": "2026-10-31T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "聯手周杰倫+蔡司！vivo X500系列、摺疊旗艦X Fold6登台總座：記憶體漲勢恐延續到這一年| 劉芯衣| 新聞 - 風傳媒",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3317,
@@ -46432,11 +46432,11 @@
       "snippet": "路邊有人彈周杰倫的歌 仔細一看竟然是本尊！  Facebook",
       "published_at": "2026-10-14T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "路邊有人彈周杰倫的歌 仔細一看竟然是本尊！ - Facebook",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3318,
@@ -46446,11 +46446,11 @@
       "snippet": "周董留名新晶片／周杰倫出圈齊名貝多芬 Jay Chou成AI晶片代號歷史留名 | 鏡週刊  LINE TODAY",
       "published_at": "2026-10-05T07:00:00.000Z",
       "collected_at": "2026-11-24 10:20:03",
-      "sentiment": null,
-      "sentiment_score": null,
-      "summary": null,
-      "category": null,
-      "analyzed": 0
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周董留名新晶片／周杰倫出圈齊名貝多芬 Jay Chou成AI晶片代號歷史留名 | 鏡週刊 - LINE TODAY",
+      "category": "其他",
+      "analyzed": 1
     },
     {
       "id": 3319,
@@ -46927,6 +46927,174 @@
       "summary": null,
       "category": null,
       "analyzed": 0
+    },
+    {
+      "id": 3353,
+      "title": "周杰倫現身雪梨皮衣搭TUDOR表 香檳金、酒紅雙色大曬好品味",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fudn.com%2fnews%2fstory%2f7270%2f9900889&c=9213874411401784256&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "華語流行天王周杰倫日前現身澳洲雪梨，為其代言的瑞士鐘表品牌TUDOR站台造勢。周杰倫於11月20日率先造訪位於市中心King Street的TUDOR專門店，出席品牌舉辦的專屬見面會，當晚活動轉往雪梨塔83樓的Bar 83舉行私人酒會，讓與會賓客在俯瞰雪梨港與城市夜景的同時近距離互動，展現親切魅力0距離。",
+      "published_at": "2026-11-24T14:57:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "周杰倫現身雪梨皮衣搭TUDOR表 香檳金、酒紅雙色大曬好品味",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 3354,
+      "title": "j-hope高雄行配樂〈晴天〉！周杰倫、BTS交情曝光 因1首歌埋緣分",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fnews.videoland.com.tw%2farticle%2f7d77a2ab-5779-416c-8e9e-f34aea5eb938.html&c=3876553796265526499&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "世界級的南韓天團BTS成員j-hope日前在Instagram分享高雄演唱會行程花絮，除了曬出世運主場館演出畫面，也公開與成員逛夜市、吃牛肉麵等照片，特別的是，他在這組高雄回憶照中選用周杰倫經典歌曲〈晴天〉作為背景音樂，讓過去BTS與周杰倫 ...",
+      "published_at": "2026-11-24T16:43:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "BTS成員j-hope在高雄行花絮中選用周杰倫歌曲〈晴天〉作為背景音樂，突顯周杰倫音樂的國際影響力。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 3355,
+      "title": "BTS j-hope離台3天還在回味！狂曬20張高雄照「台灣限定戰袍」曝光 周杰倫也被cue了",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.mirrormedia.mg%2fexternal%2fmirrordaily_100099&c=11664354917379526208&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "j-hope上週隨BTS首度造訪高雄開唱，台灣ARMY（粉絲名）的熱情與「海龜式追星」，為成員們留下美好的印象。尤其j-hope更是抵台當天就隨成員柾國、Jin、V到六合夜市吃小吃，今j-hope也公開他拍下V去買夜市美食，接地氣拿著竹籤準備大快朵頤的照片。",
+      "published_at": "2026-11-24T15:59:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.5,
+      "summary": "BTS j-hope離台3天還在回味！狂曬20張高雄照「台灣限定戰袍」曝光 周杰倫也被cue了",
+      "category": "其他",
+      "analyzed": 1
+    },
+    {
+      "id": 3356,
+      "title": "黃仁勳沒穿皮衣換周杰倫穿 天王澳洲連換2只帝舵腕錶帥翻了",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fnews.nextapple.com%2fentertainment%2f20261125%2f3EE2C9DB3F46BF0E968D4617B6499624&c=1470158562131082761&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "黃仁勳日前回鍋輝達，沒有穿招牌皮衣亮相，反倒是天王周杰倫近期以帥氣皮衣搭配帝舵表（TUDOR）現身澳洲！周杰倫上周以全球品牌大使身分，在澳洲雪梨演唱會開唱前夕，現身品牌專門店見面會與高空雞尾酒酒會，當天他以一襲帥氣全黑皮衣造型亮相，腕間更巧… ...",
+      "published_at": "2026-11-24T12:40:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫以Tudor品牌大使身分在澳洲出席活動，穿著帥氣皮衣並佩戴帝舵腕錶，展現時尚魅力。",
+      "category": "代言",
+      "analyzed": 1
+    },
+    {
+      "id": 3357,
+      "title": "周杰倫演唱會「賣2800螢幕票」看不到本人！歌迷怒：進場看直播嗎",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.ettoday.net%2fnews%2f20261117%2f3273496.htm&c=3695214107689548429&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "天王周杰倫2027年武漢演唱會正式官宣，將於4月9日至11日在武漢體育中心主體育場連唱3天，沒想到最低票價580元（人民幣，下同，約台幣2856元）的座位，竟被標註為「大螢幕觀演區，僅能觀看大螢幕」，意味著花錢進場卻無法直接看到周杰倫本人，引發歌迷兩極反應。有人質疑，根本是花錢到現場看直播。",
+      "published_at": "2026-11-17T03:18:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "負面",
+      "sentiment_score": 0.15,
+      "summary": "周杰倫武漢演唱會因部分低價票僅能觀看大螢幕，引發歌迷不滿與質疑。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 3358,
+      "title": "周杰倫演唱會「2800元只能看大螢幕」 歌迷傻眼：花錢看直播？",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fstar.setn.com%2fnews%2f1941312&c=1992630319519902081&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "周杰倫2027年世界巡迴演唱會武漢站門票資訊曝光，其中最低價人民幣580元的看台票因僅能透過場館大螢幕觀看演出，引發歌迷熱烈討論。雖然主辦單位已事先標註，但歌迷對於花錢進場卻無法直接看到主舞台與歌手看法兩極，也再次引發各界對演唱會視線受阻座位販售與消費者權益保障的關注。",
+      "published_at": "2026-11-18T13:57:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "負面",
+      "sentiment_score": 0.25,
+      "summary": "周杰倫演唱會武漢站因部分門票僅能透過大螢幕觀看演出，引發歌迷對消費者權益的熱烈討論與不滿。",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 3359,
+      "title": "周杰倫PO帥照!被留言「嘴巴好像黏住了」網見帳號笑翻：沒事了",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.msn.com%2fzh-tw%2fnews%2fother%2f%25E5%2591%25A8%25E6%259D%25B0%25E5%2580%25ABpo%25E5%25B8%25A5%25E7%2585%25A7%25E8%25A2%25AB%25E7%2595%2599%25E8%25A8%2580-%25E5%2598%25B4%25E5%25B7%25B4%25E5%25A5%25BD%25E5%2583%258F%25E9%25BB%258F%25E4%25BD%258F%25E4%25BA%2586-%25E7%25B6%25B2%25E8%25A6%258B%25E5%25B8%25B3%25E8%2599%259F%25E7%25AC%2591%25E7%25BF%25BB-%25E6%25B2%2592%25E4%25BA%258B%25E4%25BA%2586%2far-AA2i0Z7L&c=17252853567276617534&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "▲林書豪在周杰倫的貼文底下留言。（圖／翻攝自周杰倫IG） 記者曾筠淇／綜合報導 天王周杰倫22日分享自己參與「帝舵表」（TUDOR）活動的照片，沒想到貼文底下卻出現一則留言，「你嘴巴好像黏住了，不知道怎麼笑嗎？」許多網友留意到帳號名以後，就忍不住笑出來，「全世界真的只有林書豪能嘴周」、「好可愛，當小帳號互罵哈哈哈」。 周杰倫PO文，林書豪開嘴 周杰倫昨日在IG貼出一系列參加「帝舵表」（TUDOR） ...",
+      "published_at": "2026-11-22T22:23:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.85,
+      "summary": "周杰倫分享代言活動照片，林書豪幽默留言「嘴巴好像黏住了」，引發網友熱烈討論與歡笑。",
+      "category": "生活",
+      "analyzed": 1
+    },
+    {
+      "id": 3360,
+      "title": "周杰倫《太陽之子》好聽嗎？網笑：沒開歌詞聽不懂 評價1次看",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.nownews.com%2fnews%2f6800820&c=13928593209483928442&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "華語天王周杰倫睽違4年再度發片，推出全新專輯《太陽之子》，13首歌曲上線後立刻稱霸各大音樂平台，外界好奇周杰倫新歌真的這麼好聽？引起許多網友熱議，表示「這張比上一張更好聽 ...",
+      "published_at": "2026-03-28T03:17:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.6,
+      "summary": "周杰倫《太陽之子》好聽嗎？網笑：沒開歌詞聽不懂 評價1次看",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 3361,
+      "title": "周杰倫《太陽之子》預購懶人包！砸1億致敬4名畫、專輯亮點一次看",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.nownews.com%2fnews%2f6799289&c=2635285232884719501&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "華語樂壇天王周杰倫的第16張個人專輯《太陽之子》，已在19日下午搶先開放預購，將在明（25）日數位發行、4月10日實體發行，同名主打歌MV，則將於今日全球首播，並舉行現場記者會與粉絲同歡。",
+      "published_at": "2026-03-24T04:15:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.9,
+      "summary": "周杰倫第16張專輯《太陽之子》已開放預購，數位版將於25日發行，實體版4月10日發行，同名主打歌MV今日全球首播並舉行記者會。",
+      "category": "新歌",
+      "analyzed": 1
+    },
+    {
+      "id": 3362,
+      "title": "周杰倫爆祝祖國生日快樂？網見真相全炸鍋",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.setn.com%2fnews%2f1915954&c=11787335032937807470&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "中共1日國慶引發關注，陸委會證實掌握約19位台灣藝人轉發央視模板祝賀。針對網路流傳天王周杰倫微博帳號祝賀中國國慶的截圖，網友紛紛留言澄清該帳號僅為粉絲後援會，周杰倫本人並未玩 ...",
+      "published_at": "2026-10-01T14:35:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.75,
+      "summary": "新聞澄清周杰倫本人並未在微博發文祝賀中國國慶，該帳號實為粉絲後援會，為他洗清了潛在的政治爭議。",
+      "category": "爭議",
+      "analyzed": 1
+    },
+    {
+      "id": 3363,
+      "title": "周杰倫巡演御用！陸公務包機市場爆發 運行量年增逾1成",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fwww.ctee.com.tw%2fnews%2f20261119701314-430801&c=1768133432330675523&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "近年在周杰倫巡迴演唱會期間，社交平台上不時出現他乘坐公務包機抵達演出城市的畫面。不僅是周杰倫喜歡搭乘公務包機，多項市場資料顯示，近期大陸的公務航空市場增長明顯，越來越多企業和高淨值人群開始視為一種按需購買的出行服務。據航班管家相關報告，2026年上半年，大陸國內及跨境公務航段運行量年增率近10％，其 ...",
+      "published_at": "2026-11-18T16:01:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "正面",
+      "sentiment_score": 0.7,
+      "summary": "周杰倫巡演御用！陸公務包機市場爆發 運行量年增逾1成",
+      "category": "演唱會",
+      "analyzed": 1
+    },
+    {
+      "id": 3364,
+      "title": "曾是周杰倫演唱會嘉賓！彈頭爆「歌迷大膽做1事」開嗆：皮在癢",
+      "link": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06a44c858849dea4ada020c360a50c&url=https%3a%2f%2fstar.setn.com%2fnews%2f1938918&c=16956534774653135311&mkt=zh-tw",
+      "source": "Bing News",
+      "snippet": "南拳媽媽彈頭回顧為周杰倫填詞的輝煌歲月，難忘演唱會點歌趣事。他成軍22年感性分享音樂初衷，更分享日前赴墨西哥深潛的驚險奇遇，不僅閉氣下潛32公尺，更幸運拍到極罕見藍鯨與柯氏喙鯨母子同游畫面，感動直呼是老天爺賞賜。經歷深海洗禮的彈頭，期許未來在音樂路上持續創作經典。",
+      "published_at": "2026-11-14T07:08:00.000Z",
+      "collected_at": "2026-11-25 09:03:09",
+      "sentiment": "中性",
+      "sentiment_score": 0.65,
+      "summary": "南拳媽媽彈頭回顧與周杰倫的合作歲月及演唱會趣事，並分享其音樂與深潛經歷。",
+      "category": "演唱會",
+      "analyzed": 1
     }
   ],
   "analysis_reports": [
@@ -50265,6 +50433,21 @@
       "daily_summary": "今日共搜集 50 篇周杰倫相關新聞。",
       "key_events": "超級印鈔機再度啟動 周杰倫《太陽之子》推出69小時 吸金4.6億 - 鏡週刊Mirror Media、專輯狂銷336萬張！周杰倫夢幻聯動挪威舞團 神級舞蹈掀狂潮 - 東森電視、周杰倫新專輯賣破5.91億台幣 新歌〈鄉間的路〉MV邀來昆凌叔叔跨刀 - 鏡週刊Mirror Media",
       "created_at": "2026-11-24 10:20:49"
+    },
+    {
+      "id": 247,
+      "report_date": "2026-11-25",
+      "total_articles": 12,
+      "positive_count": 6,
+      "negative_count": 2,
+      "neutral_count": 4,
+      "daily_summary": "周杰倫近期話題不斷，新專輯《太陽之子》發行後銷量驚人，狂賣逾336萬張，吸金近6億台幣，並登上紐約時代廣場看板，更與挪威舞團Quick Style夢幻聯動。然而，演唱會2800元「螢幕票」引發爭議。此外，他現身雪梨、上海網球賽，並與BTS成員j-hope隔空互動，展現多樣魅力。",
+      "key_events": [
+        "新專輯《太陽之子》熱銷",
+        "演唱會螢幕票引爭議",
+        "現身網球賽與BTS互動"
+      ],
+      "created_at": "2026-11-25 09:04:27"
     }
   ],
   "notification_logs": [
@@ -53795,11 +53978,25 @@
       "message": "每日報告",
       "status": "成功",
       "sent_at": "2026-11-24 10:20:51"
+    },
+    {
+      "id": 505,
+      "channel": "Line",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-11-25 09:04:27"
+    },
+    {
+      "id": 506,
+      "channel": "Telegram",
+      "message": "每日報告",
+      "status": "成功",
+      "sent_at": "2026-11-25 09:04:28"
     }
   ],
   "_meta": {
-    "nextArticleId": 3353,
-    "nextReportId": 247,
-    "nextLogId": 505
+    "nextArticleId": 3365,
+    "nextReportId": 248,
+    "nextLogId": 507
   }
 }
